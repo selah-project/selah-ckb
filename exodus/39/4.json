@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "شانەکانیان بۆی کرد، پەیوەستکراو؛ لەسەر دوو قەرەوەکەی بەسترایەوە.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "شانەکان"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "پەیوەستکراو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "قەرەوەکەی"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "بەسترایەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:17:16.733927721Z",
+  "model": "glm-5.3"
+}

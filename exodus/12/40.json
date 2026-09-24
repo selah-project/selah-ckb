@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و ماڵئاواییی کوڕانی ئیسرائیل کە لە میتسرایم ⟨دا⟩ ژیان، سی ساڵ و چوار سەد ساڵ بوو.",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "و ماڵئاواییی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "لە میتسرایم"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T16:16:59.617014426Z",
+  "model": "glm-5.3"
+}

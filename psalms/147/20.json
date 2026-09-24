@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 147,
+  "translation": "بە هیچ گەلێکی دیکە وا نەکردووە، و حوکمەکانیان نەناسیوە. حەمد بۆ یاه بڵێن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردووە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بە هیچ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "گەلێکی دیکە"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "و حوکمەکان"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هەرگیز"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "نەناسیوە"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "حەمد بڵێن"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-09-24T16:16:57.421527011Z",
+  "model": "glm-5.3"
+}
