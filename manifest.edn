@@ -18,7 +18,8 @@
                                       :aleph-tav-total :fills-bracketed :no-translator-notes
                                       :tough-verse-lay-it-bare],
                          :name-seat {"יהוה" "یاهوە", "אלהים" "ئێلۆهیم", "אל" "ئێل",
-                                     "אל שדי" "ئێل شادای", "אדני" "ئادۆنای"},
+                                     "אל שדי" "ئێل شادای", "אדני" "ئادۆنای", "יה" "یاه",
+                                     "צבאות" "سەڤائۆت", "אהיה אשר אהיה" "ئێهیێ ئەشێر ئێهیێ"},
                          :open-questions
                          [{:seats ["exodus/2/15" "nehemiah/5/13" "hosea/3/5" "exodus/8/27" "ezekiel/30/24"],
                            :class :stubborn,
