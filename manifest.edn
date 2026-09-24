@@ -1,0 +1,47 @@
+#:rendering{:lang :ckb,
+            :id "ckb.v1",
+            :version "v1",
+            :label "کوردیی سۆرانی",
+            :status :rendering,
+            :role :rendering,
+            :source {:text :oshb-wlc, :corpus :tanakh, :verses 23213, :tokens 305507},
+            :produced {:from "2026-09-24", :to "2026-09-24"},
+            :people {:ruled-by "Scott", :shovel "Claude (Fable 5.1)", :assayer "Codex"},
+            :model {:provider :z.ai,
+                    :models {"glm-5.3" 23213},
+                    :tiers {"glm-5.2" 23213},
+                    :prompt "selah.translate.prompt",
+                    :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline {:rails "docs/methodology/translation-discipline/ckb.md",
+                         :rails-commit "25709a6a",
+                         :foundation [:hebrew-first :deut-6-4-double-fidelity :no-foreknowledge
+                                      :aleph-tav-total :fills-bracketed :no-translator-notes
+                                      :tough-verse-lay-it-bare],
+                         :name-seat {"יהוה" "یاهوە", "אלהים" "ئێلۆهیم", "אל" "ئێل",
+                                     "אל שדי" "ئێل شادای", "אדני" "ئادۆنای"},
+                         :open-questions
+                         [{:seats ["exodus/2/15" "nehemiah/5/13" "hosea/3/5" "exodus/8/27" "ezekiel/30/24"],
+                           :class :stubborn,
+                           :note "survived five re-press rounds: Latin inside Midian (میدjan), لێdam, an IPA ɪ, ما over נשאר, a malformed flow — a Sorani ear's hand pass"}
+                          {:class :marker-loss, :verses 25,
+                           :note "the flow carries one ⟨את⟩ fewer than its rows; insertion is unsafe in the flow, re-press did not settle them"}
+                          {:class :marker-form, :verses 22,
+                           :note "the flow carries a family form (⟨אתו⟩ ⟨מאת⟩) where the row has ⟨את⟩ — marker_adjudicate reports, does not cure"}
+                          {:seats ["daniel/3/12"], :class :held,
+                           :note "Aramaic יתהון over ⟨את⟩ — held fleet-wide pending the Aramaic marker ruling"}]},
+            :checks {:census {:yahweh-verses 5800,
+                              :name-seats 6818, :name-not-yahweh 0, :name-drift 0, :erasure 0,
+                              :corrupt-surfaces 0, :empty-tokens 0, :count-mismatch 0,
+                              :marker-gap -15,
+                              :script "dev/scripts/ckb_census.clj"},
+                     :repairs ["dev/scripts/ckb_repair.clj" "scripts.lang-surface-repair :bare"],
+                     :re-press "dev/scripts/ckb_repress.clj"},
+            :catalog {:ui "resources/i18n/ui/ckb.edn",
+                      :help "resources/i18n/help/ckb.edn",
+                      :book-names "resources/i18n/book-names/ckb.edn"},
+            :license "CC BY-SA 4.0 (The Selah Sorani Rendering)",
+            :lineage {:git {:repo "selah-project/selah-ckb", :ref nil, :commit nil, :tags [], :branches ["main"]},
+                      :parents []},
+            :provenance {:derived [:lang :version :label :status :lineage :source :rails :rails-commit
+                                   :name-seat :models :tiers :produced :license :catalog],
+                         :declared [:rendering/people :role :rendering/process :rendering/checks]}}
