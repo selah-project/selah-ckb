@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ckb",
   "chapter": 25,
-  "translation": "دەیەم بۆ شیمعی ⟨مۆشێ⟩، کوڕەکانی و براکانی، دوازدە",
+  "translation": "دەیەم بۆ شیمعی ⟨شیما⟩، کوڕەکانی و براکانی، دوازدە؛",
   "tokens": [
     {
       "surface": "העשירי",
@@ -16,22 +16,22 @@
       "gloss": "شیمعی"
     },
     {
-      "surface": "بניו",
+      "surface": "בניו",
       "gloss": "کوڕەکانی"
     },
     {
-      "surface": "وאחיו",
+      "surface": "ואחיו",
       "gloss": "و براکانی"
     },
     {
       "surface": "שנים",
-      "gloss": "دوازدە"
+      "gloss": "دوو"
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "دە"
     }
   ],
-  "timestamp": "2026-09-24T16:27:09.292813448Z",
+  "timestamp": "2026-09-24T17:18:52.475209311Z",
   "model": "glm-5.3"
 }

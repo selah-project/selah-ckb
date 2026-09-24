@@ -5,53 +5,53 @@
   "book": "amos",
   "lang": "ckb",
   "chapter": 7,
-  "translation": "و وت̗م: ئەی ئادۆنای یاهوە، بەس بکە تکا، چۆن یاکووڤ ڕادەستێت، چونکە بچووکە.",
+  "translation": "ئەی ئادۆنای یاهوە، تکایە بوەستە، چۆن یاکۆڤ ⟨دەتوانێت⟩ هەستێت، چونکە ئەو بچووکە",
   "tokens": [
     {
-      "surface": "ואמר",
+      "surface": "וָאֹמַר",
       "gloss": "و وت"
     },
     {
-      "surface": "אדני",
+      "surface": "אֲדֹנָי",
       "gloss": "ئادۆنای"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוִה",
       "gloss": "یاهوە"
     },
     {
-      "surface": "חדל",
-      "gloss": "بەس بکە"
+      "surface": "חֲדַל",
+      "gloss": "بوەستە"
     },
     {
-      "surface": "נא",
-      "gloss": "تکا"
+      "surface": "נָא",
+      "gloss": "تکایە"
     },
     {
-      "surface": "מי",
+      "surface": "מִי",
       "gloss": "چۆن"
     },
     {
-      "surface": "יקום",
-      "gloss": "ڕادەستێت"
+      "surface": "יָקוּם",
+      "gloss": "هەستێت"
     },
     {
-      "surface": "יעקב",
-      "gloss": "یاکووڤ"
+      "surface": "יַעֲקֹב",
+      "gloss": "یاکۆڤ"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "چونکە"
     },
     {
-      "surface": "קטן",
-      "gloss": "بچووک"
+      "surface": "קָטֹן",
+      "gloss": "بچووکە"
     },
     {
-      "surface": "הוא",
-      "gloss": "ـە"
+      "surface": "הֽוּא",
+      "gloss": "ئەو"
     }
   ],
-  "timestamp": "2026-09-24T16:37:36.946051671Z",
+  "timestamp": "2026-09-24T17:21:17.109959132Z",
   "model": "glm-5.3"
 }
