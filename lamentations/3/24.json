@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بەشەکەم یاهوەیە، دەڵێت گیانم، لەبەر ئەمە چاوەڕوانی ئەو دەکەم.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "بەشەکەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "چاوەڕوانی دەکەم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:54.610000752Z",
+  "model": "glm-5.3"
+}

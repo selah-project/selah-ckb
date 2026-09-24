@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چی هێزم هەیە کە چاوەڕوان بکەم؟ و چی کۆتاییەم کە گیانم درێژ بکەمەوە؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "هێزم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "چاوەڕوان بکەم"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چی"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "کۆتاییەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "درێژ بکەمەوە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:50.755621050Z",
+  "model": "glm-5.3"
+}

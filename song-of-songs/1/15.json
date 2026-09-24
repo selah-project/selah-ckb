@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ئەوەتا تۆ جوانی، دڵدارەکەم، ئەوەتا تۆ جوانی، چاوەکانت کۆترن.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ئەوەتا تۆ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "دڵدارەکەم"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ئەوەتا تۆ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "چاوەکانت"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "کۆترن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:04.436310567Z",
+  "model": "glm-5.3"
+}

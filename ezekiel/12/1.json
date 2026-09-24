@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و وشەی یاهوە بۆ من بوو، بە فەرموونێک،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە فەرموونێک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:08:21.273531345Z",
+  "model": "glm-5.3"
+}

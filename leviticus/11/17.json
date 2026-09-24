@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ کوسەکە و ⟨את⟩ شالاچەکە و ⟨את⟩ یەنشووفەکە،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کوسەکە"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "کوسەکە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شالاچەکە"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "شالاچەکە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یەنشووفەکە"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "یەنشووفەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:13.847421759Z",
+  "model": "glm-5.3"
+}

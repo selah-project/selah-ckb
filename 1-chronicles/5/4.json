@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "کوڕەکانی یۆئێل: شێما‌یا کوڕەکەی، گۆگ کوڕەکەی، شیمعی کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یۆئێل"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شێما‌یا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "گۆگ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:27.201879962Z",
+  "model": "glm-5.3"
+}

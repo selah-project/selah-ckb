@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ماعۆن، کەرمێل، زیف، یوتە",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "ماعۆن"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "کەرمێل"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "زیف"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "یوتە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:44.832706825Z",
+  "model": "glm-5.3"
+}

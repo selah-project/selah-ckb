@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 22:17",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "لە بەرزەوە نارد، منی هەڵگرت، لە ئاوی زۆرەوە ڕایکێشام.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "لە بەرزەوە"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "منی هەڵگرت"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "ڕایکێشام"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "لە ئاو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:45.103815957Z",
+  "model": "glm-5.3"
+}

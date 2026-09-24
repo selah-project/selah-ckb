@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و دەیەکێک بۆ بەرخی ⟨یەکە⟩ بۆ چواردە بەرخ.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "و دەیەکێک"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "دەیەک"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "بۆ بەرخی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨یەکە⟩"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "بۆ چوار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بەرخ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:09.157301568Z",
+  "model": "glm-5.3"
+}

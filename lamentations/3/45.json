@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "پاشماوە و ڕەتکراوە تۆ دەمانکەیت لە ناو گەلەکاندا.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "پاشماوە"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "و ڕەتکراوە"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "دەمانکەیت"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "لە ناودا"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:31.796859317Z",
+  "model": "glm-5.3"
+}

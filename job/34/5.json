@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "چونکە ئەیووب وتىی «من ڕاستم، و ئێل حوکمی من لێی داڕما.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وتىی"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەیووب"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ڕاستم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و ئێل"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "لێی داڕما"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "حوکمی من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:45:02.222805209Z",
+  "model": "glm-5.3"
+}

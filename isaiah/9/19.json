@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و دەبڕێت لە لای ڕاست و برسییە، و دەخوات لە لای چەپ و تێر نابن؛ پیاو گۆشتی بازنی خۆی دەخوات.",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "و دەبڕێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "لای ڕاست"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "و برسییە"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "و دەخوات"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "لای چەپ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "تێر نابن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشتی"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "بازنی خۆی"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "دەخوات"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:10.957656764Z",
+  "model": "glm-5.3"
+}

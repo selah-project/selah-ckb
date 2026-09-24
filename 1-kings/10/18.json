@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و شا تەختی گەورەی کلکی فیلێلی دروست کرد و بە زێڕی پاک چەسپاندی.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و دروست کرد"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شا"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تەختی"
+    },
+    {
+      "surface": "שן",
+      "gloss": "کلکی فیل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "و چەسپاندی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T11:49:56.988616635Z",
+  "model": "glm-5.3"
+}

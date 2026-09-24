@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 7:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "نا بە زۆری ئێوە لە هەموو گەلان یاهوە ئارەزووی ئێوە نەکرد و ئێوەی هەڵنەبژارد — چونکە ئێوە کەمترینن لە هەموو گەلان.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "מרבכם",
+      "gloss": "بە زۆری ئێوە"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ئارەزووی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "و هەڵبژارد"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "کەمترین"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:35.870870099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ئاوەها ئێوە پشووتان بە وشەکانی درۆ بەستووە، بێ هیچ سوودێک.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئاوەها"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "پشووتان بەستووە"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "خۆتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "سوود"
+    }
+  ],
+  "timestamp": "2026-09-24T12:39:28.160404645Z",
+  "model": "glm-5.3"
+}

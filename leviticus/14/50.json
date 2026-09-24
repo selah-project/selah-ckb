@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و یەکێک لە باڵندەکان ⟨את⟩ لە دەفرێکی گڵیدا لەسەر ئاوی زیندوو دەکوژێت.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "دەکوژێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باڵندەکان"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "باڵندەکان"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەکێک لە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "دەفر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "گڵیی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زیندوو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:26.528877209Z",
+  "model": "glm-5.3"
+}

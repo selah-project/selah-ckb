@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئێستا چی لەژێر دەستت هەیە؟ پێنج نان بمدەرە بە دەستم، یان ئەوەی دەدۆزرێتەوە.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "لחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "بمدەرە"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "بە دەستم"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ئەوەی دەدۆزرێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:26:53.880857232Z",
+  "model": "glm-5.3"
+}

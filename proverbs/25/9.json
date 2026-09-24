@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "دۆسییەکەت لەگەڵ هاوڕێیەکەت ⟨את⟩ تێناڕە، و نهێنییەکی کەسی تر ئاشکرا مەکە.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "دۆسییەکەت"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "تێناڕە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هاوڕێیەکەت"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "هاوڕێیەکەت"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "و نهێنی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "کەسی تر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەکە"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ئاشکرا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:33.526907954Z",
+  "model": "glm-5.3"
+}

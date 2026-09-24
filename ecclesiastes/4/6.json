@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "پڕی کەلێک بە ئارامی باشترە لە پڕی دوو مشت بە زەحمەتی و ئازاری ڕۆح.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕی"
+    },
+    {
+      "surface": "כף",
+      "gloss": "کەلێک"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ئارامی"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "لە پڕی"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "دوو مشت"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زەحمەتی"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "و ئازاری"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:20.534386243Z",
+  "model": "glm-5.3"
+}

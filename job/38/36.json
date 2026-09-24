@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "کێ ژیری لە ناخدا داناوە؟ یان کێ بە تێگەیشتن بەخشیوەتە شەشەوە؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "داناوە"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "لە ناخدا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ژیری"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "بەخشیوەتە"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "شەشەوە"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:42.208188737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "وەرن، منداڵان، گوێم لێ بگرن؛ ترسی یاهوە فێرتان دەکەم.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "وەرن"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "منداڵان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوێم لێ بگرن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لێ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "فێرتان دەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:12.327651765Z",
+  "model": "glm-5.3"
+}

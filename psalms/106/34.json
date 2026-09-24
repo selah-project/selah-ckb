@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 106,
+  "translation": "گەلەکانیان ⟨את⟩ لەناو نەبرد کە یاهوە بۆیان فەرمووبوو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "لەناویان برد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەلەکان"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:47.405765210Z",
+  "model": "glm-5.3"
+}

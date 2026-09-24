@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و گرتیان و فڕێیاندا ⟨את⟩ ئەو بۆ ناو چاڵەکە و چاڵەکە بەتاڵ بوو نییە لە ئاو",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "و گرتیان"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "و فڕێیاندا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "بۆ ناو چاڵەکە"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "بۆ ناو چاڵەکە"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "و چاڵەکە"
+    },
+    {
+      "surface": "רק",
+      "gloss": "بەتاڵ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:39.215668417Z",
+  "model": "glm-5.3"
+}

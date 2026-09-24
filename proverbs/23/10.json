@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "پێوەری کۆن مەجوڵێنە، و ناچیتە ناو زەوییەکانی بێباوەکان.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "مەجوڵێنە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پێوەر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "کۆن"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "و ناو زەوییەکانی"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "بێباوەکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "بچۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:54.236209095Z",
+  "model": "glm-5.3"
+}

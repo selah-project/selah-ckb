@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 82,
+  "translation": "بەڵام وەک مرۆڤ دەمرن و وەک یەکێک لە سەرکردەکان دەکەون.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "وەک مرۆڤ"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "دەمرن"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "و وەک یەکێک لە"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سەرکردەکان"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "دەکەون"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:07.464989950Z",
+  "model": "glm-5.3"
+}

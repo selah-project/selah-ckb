@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 87,
+  "translation": "شتە بەڕێزەکان لە تۆدا باس دەکرێن، ئەی شارِ ئێلۆهیم. سێلا.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "شتە بەڕێزەکان"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "باس دەکرێن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە تۆدا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سێلا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:42.384993938Z",
+  "model": "glm-5.3"
+}

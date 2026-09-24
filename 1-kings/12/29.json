@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "یەکەکەی لە بێت ئێل ⟨بەیت‌ئیلا⟩ دانا و ⟨את⟩ یەکەکەی لە دان دانا.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەکەکە"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەکە"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بێت ئێل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یەکەکە"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەکە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "لە دان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:52:41.548241099Z",
+  "model": "glm-5.3"
+}

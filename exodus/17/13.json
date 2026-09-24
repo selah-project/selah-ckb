@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و یەهوشوا ⟨یەشووا⟩ ⟨את⟩ عەماڵەک و ⟨את⟩ گەلەکەی بە دەمی شمشێر لاواز کرد.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "لاواز کرد"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهوشوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەماڵەک"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عەماڵەک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گەلەکەی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گەلەکەی"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بە دەمی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:49:56.956857973Z",
+  "model": "glm-5.3"
+}

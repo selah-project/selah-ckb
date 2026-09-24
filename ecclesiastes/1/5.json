@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و خۆر ڕۆدەکاتەوە و خۆر ئاوەدەبێتەوە و بۆ جێگای خۆی هەڵدەکوشێت، خۆری ڕۆکەر ئەوەیە لەوێ",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "و ڕۆدەکاتەوە"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "و ئاوەدەبێتەوە"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "جێگای خۆی"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "هەڵدەکوشێت"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "خۆری ڕۆکەر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:01.250974008Z",
+  "model": "glm-5.3"
+}

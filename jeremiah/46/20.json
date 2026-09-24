@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "گوانێکی زۆر جوانە میتسرایم؛ لە باکوورەوە لێدانێک دێت، دێت.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "گوان"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "زۆر جوان"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "لێدان"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "لە باکوورەوە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:58:45.559715361Z",
+  "model": "glm-5.3"
+}

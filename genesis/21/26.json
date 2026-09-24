@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ئاڤیمەلەخ وتی، نەمدەزانی کێ ⟨את⟩ ئەم کارەی کرد، و تۆش پێم نەوت، و منیش نەمبیست بەڵکو ئەمڕۆ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ئاڤیمەلەخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دەزانی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کارەکە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و...ش"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "وت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و...یش"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:49:17.751345037Z",
+  "model": "glm-5.3"
+}

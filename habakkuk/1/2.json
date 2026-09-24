@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "تا کەی ئەی یاهوە قیام لێ کردووە و نایبیستێت بۆ تۆ هاوار دەکەم زوڵم و ناڕزگارمان دەکەیت.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "قیام لێ کردووە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "بیست دەکەیت"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "هاوار دەکەم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زوڵم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ڕزگار دەکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:35.282029742Z",
+  "model": "glm-5.3"
+}

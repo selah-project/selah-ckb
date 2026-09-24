@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "نەفرەت لەسەر ئەوەی حەقێ میوان و بێ باوک و بێوەژن لادەبات، و هەموو گەل دەڵێن ئامین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نەفرەت لەسەر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "لادەبات"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حەق"
+    },
+    {
+      "surface": "גר",
+      "gloss": "میوان"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "بێ باوک"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "و بێوەژن"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:51.337629787Z",
+  "model": "glm-5.3"
+}

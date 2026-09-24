@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ⟨את⟩ هەموو کاڵ بۆ جۆرەکەی",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو کاڵ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کاڵ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "بۆ جۆرەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:00.087207909Z",
+  "model": "glm-5.3"
+}

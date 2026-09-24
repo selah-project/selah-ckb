@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "هیچ قێزەونەیەک ناخۆیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ناخۆیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "قێزەونە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:16.090848765Z",
+  "model": "glm-5.3"
+}

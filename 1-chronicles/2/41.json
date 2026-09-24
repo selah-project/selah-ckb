@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و شالوم یەکەمیای بە ⟨את⟩ بووکەوە، و یەکەمیا ئێلیشاماعی بە ⟨את⟩ بووکەوە.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "و شالوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بووکەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەکەمیا"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "یەکەمیا"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "و یەکەمیا"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بووکەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئێلیشاماع"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ئێلیشاماع"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:26.402910238Z",
+  "model": "glm-5.3"
+}

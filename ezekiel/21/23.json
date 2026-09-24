@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و وشەی یاهوە هات بۆ لای من، بەم زوانە:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:11:57.878626205Z",
+  "model": "glm-5.3"
+}

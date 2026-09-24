@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "دڵی مرۆڤ ڕێگای خۆی دادەڕێژێت و یاهوە هەنگاوی ئەو جێگیر دەکات.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "دادەڕێژێت"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ڕێگای خۆی"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "جێگیر دەکات"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "هەنگاوی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:07.793720978Z",
+  "model": "glm-5.3"
+}

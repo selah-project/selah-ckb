@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "خراپە تۆری خراپەکان دەوێت، و ڕەگی دادپەروەران دەدات.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "دەوێت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "تۆری"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "خراپەکان"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "و ڕەگی"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "دادپەروەران"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:32.126820578Z",
+  "model": "glm-5.3"
+}

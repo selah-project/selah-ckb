@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 120,
+  "translation": "چی دەدرێت بە تۆ و چی زیاد دەکرێت بۆ تۆ، ئەی زمانی فێڵکردن؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدرێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چی"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "زیاد دەکرێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "فێڵکردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:47.023644564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "بە کاھیی چەت سەربان دادەبەزێت و بە لاوازیی دەستەکان خانوو دەچکێتەوە.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "بە کاھیی چەت"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "دادەبەزێت"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "سەربان"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "و بە لاوازیی"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دەستەکان"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "دەچکێتەوە"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانوو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:31.858413823Z",
+  "model": "glm-5.3"
+}

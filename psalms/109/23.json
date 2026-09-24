@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "وەک سێبەر کە لاردە ڕۆیشتم، وەک کوللە لێم درا.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "وەک سێبەر"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "کە لاردە"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ڕۆیشتم"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "لێم درا"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "وەک کوللە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:40.691652548Z",
+  "model": "glm-5.3"
+}

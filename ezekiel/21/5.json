@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و وتیم: ئەی ئادۆنای یاهوە، ئەوان بە من دەڵێن: ئایا ئەو گێڕەرەوەی مەسەلەکانە؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و وتیم"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ئەی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "گێڕەرەوەی"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "مەسەلەکان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:00:49.906588649Z",
+  "model": "glm-5.3"
+}

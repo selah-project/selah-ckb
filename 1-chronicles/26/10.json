@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و بۆ حۆسا، لە کوڕانی مێراری، کوڕان هەبوون: شیمری سەرەکە — چونکە بکۆر نەبوو و باوکی کردی بە سەرەکە.",
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "و بۆ حۆسا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مێراری"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شیمری"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سەرەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بکۆر"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "و کردی بە"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سەرەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:26.817854770Z",
+  "model": "glm-5.3"
+}

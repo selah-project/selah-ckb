@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 55,
+  "translation": "بەڵکو تۆ بووی — مرۆڤێک وەک خۆم، هاوڕێم و ئەوەی ناسراوم —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "بەڵکو تۆ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرۆڤێک"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "وەک خۆم"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "هاوڕێم"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "و ئەوەی ناسراوم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:26.226788755Z",
+  "model": "glm-5.3"
+}

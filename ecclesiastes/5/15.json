@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و هەروەها ئەمەش خراپییەکی نەخۆشانەیە: هەموو وەک هاتنە، وا دەڕوات، و چ قازانجێک بۆی هەیە کە بۆ با زەحمەت دەکێشێت؟",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمەش"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپییەکی"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "نەخۆشانە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "هاتنە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "قازانجێک"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "کە زەحمەت دەکێشێت"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "بۆ با"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:04.696315613Z",
+  "model": "glm-5.3"
+}

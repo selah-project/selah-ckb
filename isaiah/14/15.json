@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "بەڵکو بۆ شێئۆل دادەبەزێنرێی، بۆ قەرەباڵغانی چاڵەکە.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شێئۆل"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "دادەبەزێنرێی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "قەرەباڵغانی"
+    },
+    {
+      "surface": "בור",
+      "gloss": "چاڵەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:41.294177791Z",
+  "model": "glm-5.3"
+}

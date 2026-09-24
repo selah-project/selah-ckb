@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 7:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بە زۆری فێرکردنەکەی لاری خست، بە نەرمی لێڤەکانی پاڵی پێوە نا.",
+  "tokens": [
+    {
+      "surface": "הטתו",
+      "gloss": "لاری خست"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بە زۆری"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "فێرکردنەکەی"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "بە نەرمی"
+    },
+    {
+      "surface": "שפתיה",
+      "gloss": "لێڤەکانی"
+    },
+    {
+      "surface": "תדיחנו",
+      "gloss": "پاڵی پێوە نا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:21.006132613Z",
+  "model": "glm-5.3"
+}

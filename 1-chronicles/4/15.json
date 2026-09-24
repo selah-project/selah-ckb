@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و کوڕەکانی کالێڤ کوڕی یەفونە: عیرو، ئێلا و نەعام؛ و کوڕەکانی ئێلا، قەناز.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالێڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یەفونە"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "عیرو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئێلا"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "و نەعام"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئێلا"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "و قەناز"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:21.117240186Z",
+  "model": "glm-5.3"
+}

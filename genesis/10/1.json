@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و ئەمانە ڕەچەڵەکی کوڕانی نۆاخن: شێم و حام و یەفەت، و دوای تۆفانەکە کوڕانیان لێ پەیدا بوو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ڕەچەڵەک"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆاخ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شێم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "و یەفەت"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "لێ پەیدا بوون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "یان"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "تۆفانەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:16.938115326Z",
+  "model": "glm-5.3"
+}

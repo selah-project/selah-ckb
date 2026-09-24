@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و لێڤییەکان وەڵام دەدەنەوە و بە دەنگی بەرز قسە بە هەموو پیاوێکی ئیسرائیل دەکەن",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "و وەڵام دەدەنەوە"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لێڤییەکان"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێکی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "רם",
+      "gloss": "بەرز"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:05.637822806Z",
+  "model": "glm-5.3"
+}

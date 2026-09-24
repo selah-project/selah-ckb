@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "بۆ کێڵگە مەڕۆ و بە ڕێگادا مەڕۆ، چونکە شمشێر ⟨هەیە⟩ بۆ دوژمن، ترس لە دەورووبەرە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "مەڕۆ دەرەوە"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "بۆ کێڵگە"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "و بە ڕێگادا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "مەڕۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "بۆ دوژمن"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "لە دەورووبەرە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:39:01.102311676Z",
+  "model": "glm-5.3"
+}

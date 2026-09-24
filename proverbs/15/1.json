@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "وەڵامی نەرم تووڕەیی دەگەڕێنێتەوە، و وشەی ئازاردەر تووڕەیی هەڵدەدات.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "وەڵامی"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نەرم"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "دەگەڕێنێتەوە"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و وشەی"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ئازاردەر"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "هەڵدەدات"
+    },
+    {
+      "surface": "אף",
+      "gloss": "تووڕەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:15.216132977Z",
+  "model": "glm-5.3"
+}

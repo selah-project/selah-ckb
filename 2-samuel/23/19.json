@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "لە سێیەکەوە ئایا بە گەورەترین نەبوو؟ و بوو بە سەرکردەیان؛ و هەتا سێیەکە نەهات.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "سێیەکەوە"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "گەورەترین"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "بە سەرکردە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و هەتا"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "سێیەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:49.843060202Z",
+  "model": "glm-5.3"
+}

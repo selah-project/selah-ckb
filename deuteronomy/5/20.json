@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و بە شایەتیی درۆی هەڤاڵەکەت ⟨نات⟩ وەڵام.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نات"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "وەڵام"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "بە هەڤاڵەکەت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شایەتی"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "درۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:35:22.208474404Z",
+  "model": "glm-5.3"
+}

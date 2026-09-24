@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و ئیسرائیل لە خێڵی داود یاخی بوون تا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "یاخی بوون"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە خێڵی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:51:27.292379237Z",
+  "model": "glm-5.3"
+}

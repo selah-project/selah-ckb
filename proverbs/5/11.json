@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و لە کۆتاییتدا هاوار دەکەیت، کاتێک گۆشتت و لەشت تێک دەچن،",
+  "tokens": [
+    {
+      "surface": "ונהמת",
+      "gloss": "و هاوار دەکەیت"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "لە کۆتاییتدا"
+    },
+    {
+      "surface": "בכלות",
+      "gloss": "کاتێک تێک دەچن"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "گۆشتت"
+    },
+    {
+      "surface": "ושארך",
+      "gloss": "و لەشت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:23.940902110Z",
+  "model": "glm-5.3"
+}

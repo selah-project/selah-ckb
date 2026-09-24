@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "ڕاستەکان دەیبینن و دڵخۆش دەبن، و هەموو ستەم دەمی خۆی دەگرێت.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "دەیبینن"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ڕاستەکان"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "و دڵخۆش دەبن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ستەم"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "دەگرێت"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "دەمی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:09.072476012Z",
+  "model": "glm-5.3"
+}

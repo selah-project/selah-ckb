@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و بوو چاوی شائول لە ⟨את⟩ داوود ⟨داود⟩ لەو ڕۆژەوە و بەرەو پێشەوە",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "עון",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود ⟨داود⟩"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "لەو ڕۆژەوە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "و بەرەو پێشەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:55:27.129170383Z",
+  "model": "glm-5.3"
+}

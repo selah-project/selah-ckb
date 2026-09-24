@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و عادە ⟨את⟩ یاڤاڵی بووژیاند، ئەو بوو باوکی دانیشتووانی چادر و ئاژەڵ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و بووژیاند"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاڤاڵ"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "یاڤاڵ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "و ئاژەڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:30.929865268Z",
+  "model": "glm-5.3"
+}

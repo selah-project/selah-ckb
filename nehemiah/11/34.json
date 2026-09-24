@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "حەدید، تسیڤۆعیم، نیبالات.",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "حەدید"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "تسیڤۆعیم"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "نیبالات"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:09.010215210Z",
+  "model": "glm-5.3"
+}

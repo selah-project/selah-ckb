@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ کێڵگەی شارەکە و ⟨את⟩ کەرتەکانی دایانەوە بە کالێبی کوڕی یەفونە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کێڵگەی شارەکە"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کێڵگەی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کەرتەکانی"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "کەرتەکانی"
+    },
+    {
+      "surface": "نתנו",
+      "gloss": "دایانەوە"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "بە کالێب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یەفونە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:11.925629340Z",
+  "model": "glm-5.3"
+}

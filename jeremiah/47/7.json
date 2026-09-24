@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 47:7",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "چۆن ئارام دەگریت، و یاهوە فەرمانی پێکردووە — بۆ ئەشقەلۆن و بۆ کەناری دەریاکە؟ لەوێ دایناوە.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "ئارام دەگریت"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کرد"
+    },
+    {
+      "surface": "לה",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "ئەشقەلۆن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "חוף",
+      "gloss": "کەناری"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "دایناوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:58:17.662626474Z",
+  "model": "glm-5.3"
+}

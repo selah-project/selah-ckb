@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و هەر گیانێک کە لە خودی ئەم ڕۆژەدا هەر کارێک بکات، ئەو گیانە من ⟨is⟩ لە ناوەندی گەلەکەی دەسڕمەوە.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "گیانێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کارێک"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "لە خودی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "و دەیسڕمەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەو گیانە"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "لە ناوەندی"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "گەلەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:04.758907823Z",
+  "model": "glm-5.3"
+}

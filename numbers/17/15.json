@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و گەڕایەوە ئاهەرۆن ⟨موسا⟩ لای دەڕوازی چادری چاوپێکەوتن، و بڵاکە ڕاگیرا.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و گەڕایەوە"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهەرۆن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دەڕوازی"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چادری"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "و بڵاکە"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "ڕاگیرا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:22:27.028786974Z",
+  "model": "glm-5.3"
+}

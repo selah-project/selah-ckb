@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "حەسەدی تۆ، ئەی یاهوە، زەوی پڕە لێتی؛ حەکەکانت فێرم بکە.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "حەسەدی تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "حەکەکانت"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "فێرم بکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:40.339364666Z",
+  "model": "glm-5.3"
+}

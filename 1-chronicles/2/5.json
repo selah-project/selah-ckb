@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی پێرێتس: حێتسرۆن و حامول.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پێرێتس ⟨فارێس⟩"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حێتسرۆن ⟨حەسرۆن⟩"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "و حامول"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:22.442796017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕم، ئەگەر وتەکانم وەربگریت و فەرمانەکانم ⟨את⟩ لەگەڵ خۆت بشاریتەوە ⟨لەگەڵ⟩،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "وەربگریت"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "وتەکانم"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "و فەرمانەکانم"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "بشاریتەوە"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ لەگەڵ",
+      "marks": "خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:23.392267939Z",
+  "model": "glm-5.3"
+}

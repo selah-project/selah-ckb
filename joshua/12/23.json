@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "پادشای دۆری ناوچەی دۆر یەک، پادشای گۆییمی لە گیلگال یەک.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دۆر"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "ناوچەی"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دۆر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گۆییم"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "لە گیلگال"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:42.989777864Z",
+  "model": "glm-5.3"
+}

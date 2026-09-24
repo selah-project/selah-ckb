@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ئاوەکەمان بە زێڕ خواردەوە، دارەکانمان بە نرخ ⟨دێنە⟩ ⟩نرخ⟨.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ئاوەکەمان"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بە زێڕ"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "خواردەوە"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "دارەکانمان"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "بە نرخ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "دێنە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:10.473648344Z",
+  "model": "glm-5.3"
+}

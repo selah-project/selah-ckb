@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "لەوێ ڕۆیشتن و لە ناوەڕاستی چۆمی زەرێد ⟨زەرەد⟩ خێوەت شکا.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و خێوەت شکا"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "لە ناوەڕاستی چۆم"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زەرێد ⟨زەرەد⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T10:24:25.704536712Z",
+  "model": "glm-5.3"
+}

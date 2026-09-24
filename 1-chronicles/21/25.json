@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و داڤید ⟨دایڤد⟩ بە ئۆرنان بەو شوێنە شەکڵ زێوی بە کێشی شەش سەد دا.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داڤید ⟨دایڤد⟩"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "بە ئۆرنان"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "بەو شوێنە"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "شەکڵ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێو"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "بە کێشی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:27:49.495599151Z",
+  "model": "glm-5.3"
+}

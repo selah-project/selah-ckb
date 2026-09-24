@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چونکە بازرگانیی ئەو لە بازرگانیی زیو باشترە، و بەرهەمی ئەو لە زێڕی پاک.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "بازرگانیی ئەو"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "بازرگانیی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "و لە زێڕی پاک"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "بەرهەمی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:48.529568552Z",
+  "model": "glm-5.3"
+}

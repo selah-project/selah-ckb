@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "پاکم من، بێ سەرپێچی، بێگوناهم من، و نا هەڵەیەک لە من نییە.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "پاکم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "سەرپێچی"
+    },
+    {
+      "surface": "חף",
+      "gloss": "بێگوناهم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "עון",
+      "gloss": "هەڵەیەک"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:16.598275855Z",
+  "model": "glm-5.3"
+}

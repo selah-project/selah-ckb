@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و لای من وشەیەک بە نهێنی هێنرا و گوێم کەمێک لێی وەرگرت.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "و لای من"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەیەک"
+    },
+    {
+      "surface": "יגنב",
+      "gloss": "بە نهێنی هێنرا"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "و وەرگرت"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "گوێم"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "کەمێک"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "لێی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:53.122041941Z",
+  "model": "glm-5.3"
+}

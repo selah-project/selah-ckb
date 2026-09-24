@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "کورەم، بۆ وشەکانی من گوێ ڕابگرە، بۆ قسەکانی من گوێت لێبکەوە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کورەم"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "بۆ وشەکانی من"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "گوێ ڕابگرە"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "بۆ قسەکانی من"
+    },
+    {
+      "surface": "הט",
+      "gloss": "لێبکەوە"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:09.847585428Z",
+  "model": "glm-5.3"
+}

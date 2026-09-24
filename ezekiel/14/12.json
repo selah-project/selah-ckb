@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و وشەی یاهوە هاتە لای من بۆ وتن.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:09:35.303914775Z",
+  "model": "glm-5.3"
+}

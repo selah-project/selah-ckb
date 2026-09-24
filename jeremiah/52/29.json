@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 52:29",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 52,
+  "translation": "لە ساڵی هەژدەی نەڤوخەدرەئەسەر، لە یەروشالایم گیان هەشت سەد سی و دوو،",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "לנבוכדראצר",
+      "gloss": "نەڤوخەدرەئەسەر"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "لە یەروشالایم"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:04:51.493077486Z",
+  "model": "glm-5.3"
+}

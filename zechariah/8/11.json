@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و ئێستا، نا، وەک ڕۆژانی پێشوو، من بۆ ماوەی ئەم گەلەم، وتاری یاهوەی سەڤائۆت.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "وەک ڕۆژانی"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پێشوو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "بۆ ماوەی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ئەم گەلەم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:43:35.086584502Z",
+  "model": "glm-5.3"
+}

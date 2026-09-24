@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "بە نەبوونی دار ئاگر دەکوژێتەوە، و بە نەبوونی قسەبازێک کێشە دادەبەزێت.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "بە نەبوونی"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "دار"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "دەکوژێتەوە"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "و بە نەبوونی"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "قسەبازێک"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "دادەبەزێت"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "کێشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:19.692389784Z",
+  "model": "glm-5.3"
+}

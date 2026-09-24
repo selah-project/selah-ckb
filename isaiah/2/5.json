@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئەی ماڵی یەعقوب ⟨موسا⟩، وەرن و بڕۆین لە ڕووناکیدا لە ڕێی یاهوە.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "وەرن"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "و بڕۆین"
+    },
+    {
+      "surface": "באור",
+      "gloss": "لە ڕووناکیدا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:12:27.566847812Z",
+  "model": "glm-5.3"
+}

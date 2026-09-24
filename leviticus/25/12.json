@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "چونکە یۆڤەڵ ئەوەیە — پیرۆزە بۆ ئێوە دەبێت — لە کێڵگەکەوە ⟨את⟩ بەرهەمەکەی دەخۆن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یۆڤەڵ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کێڵگەکە"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەخۆن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەرهەمەکەی"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "بەرهەمەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:18.889658430Z",
+  "model": "glm-5.3"
+}

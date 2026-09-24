@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و داننا و کیریات سەننا — ئەوەی دەبیرە.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "و داننا"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "و کیریات"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "سەننا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دەبیرە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:48.688196395Z",
+  "model": "glm-5.3"
+}

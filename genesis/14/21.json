@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و پادشاهی سەدۆم ⟨موسا⟩ فەرمووی بۆ ئاڤراهام: مرۆڤەکان بمدەرێوە، و ماڵەکان بۆ خۆت ببە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سەدۆم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "תן",
+      "gloss": "بمدەرێوە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "مرۆڤەکان"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "و ماڵەکان"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ببە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:15:20.732911324Z",
+  "model": "glm-5.3"
+}

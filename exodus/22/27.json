@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئێلۆهیم نەقەتڵ بکە، و سەرکردەیەک لە گەلەکەت نەلعنەت بکە.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "قەتڵ بکە"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "و سەرکردەیەک"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "لە گەلەکەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "لعنەت بکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:40.941288856Z",
+  "model": "glm-5.3"
+}

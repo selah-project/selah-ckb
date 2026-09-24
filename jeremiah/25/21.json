@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "⟨את⟩ ئەدۆم و ⟨את⟩ موئاب و ⟨את⟩ کوڕانی عەمۆن",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەدۆم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "موئاب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کوڕانی عەمۆن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عەمۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:48:14.173370964Z",
+  "model": "glm-5.3"
+}

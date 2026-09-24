@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "گیانی من بە خۆڵەوە لکاوە؛ بەپێی وشەی خۆت بیژێنەوە.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "لکاوە"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "بە خۆڵەوە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانی من"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "بیژێنەوە"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "بەپێی وشەی خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:44.195294792Z",
+  "model": "glm-5.3"
+}

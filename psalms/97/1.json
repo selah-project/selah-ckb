@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 97,
+  "translation": "یاهوە پادشایەتی کرد، زەوی دڵخۆشە، دوورگە زۆرەکان شاد دەبن.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشایەتی کرد"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "دڵخۆشە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "شاد دەبن"
+    },
+    {
+      "surface": "איים",
+      "gloss": "دوورگە زۆرەکان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:18.633646992Z",
+  "model": "glm-5.3"
+}

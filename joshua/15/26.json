@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "«ئەمام و شێما و مۆلادە»",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "ئەمام"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "و شێما"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "و مۆلادە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:57.026065820Z",
+  "model": "glm-5.3"
+}

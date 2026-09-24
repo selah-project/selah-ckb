@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و کوش نمرۆدی ⟨את⟩ بوو بە باوکی؛ ئەوە دەستی پێکرد بوون بە گەورەیەک لەسەر زەوی.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "و کوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "بوو بە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرۆد"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نمرۆد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "החל",
+      "gloss": "دەستی پێکرد"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بوون بە"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گەورەیەک"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لەسەر زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:01.154794298Z",
+  "model": "glm-5.3"
+}

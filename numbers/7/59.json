@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "numbers 7:59",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و بۆ قوربانیی ئاشتی دوو گا، پێنج قوچاخ، پێنج نەرەبزن، پێنج بەرخی ساڵ؛ ئەمە قوربانیی گەملیئێل کوڕی پێداUUر بوو.",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "و بۆ قوربانیی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچاخ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "نەرەبزن"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کۆرەی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قوربانیی"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "گەملیئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پێدا"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تسوور"
+    }
+  ],
+  "timestamp": "2026-09-24T10:16:24.722909971Z",
+  "model": "glm-5.3"
+}

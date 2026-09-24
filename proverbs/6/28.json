@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئایا کەسێک لەسەر خەڵووزەکان دەڕوات و پێیانی نەسووتێنن؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کەسێک"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "خەڵووزەکان"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "و پێیانی"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نەـ"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "دەسووتێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:03.944586068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ یاهوە ئێلۆهیمی خۆت دەخۆشوێیت بە هەموو دڵت و بە هەموو گیانت و بە هەموو هێزت.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "دەخۆشوێیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە ئێلۆهیمی خۆت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی خۆت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دڵت"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "و بە هەموو"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "گیانت"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "و بە هەموو"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "هێزت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:35:47.960784188Z",
+  "model": "glm-5.3"
+}

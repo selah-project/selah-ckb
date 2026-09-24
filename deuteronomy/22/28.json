@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئەگەر پیاوێک کچێکی پاکیزە بدۆزێتەوە کە هاوبڕە نەکراوە و بیگرێت و لەگەڵی بخەوێت و بگیرێن",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "بدۆزێتەوە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "נער",
+      "gloss": "کچ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "پاکیزە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "هاوبڕەکراوە"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "و بیگرێت"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "و بخەوێت"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "و بگیرێن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:38.167976991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "یەعقوب بەرەکەتی ⟨את⟩ پەڕعۆی کرد و لە پێشەوەی پەڕعۆ دەرچوو.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "و بەرەکەتی کرد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەڕعۆ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەڕعۆ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "لە پێشەوەی"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەڕعۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:33:34.960198277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و بگەڕێمەوە بە ئاشتی بۆ ماڵی باوکم، و یاهوە دەبێت بۆ من بە ئێلۆهیم.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "و بگەڕێمەوە"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "بە ئاشتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بە ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:28.057776636Z",
+  "model": "glm-5.3"
+}

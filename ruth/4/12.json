@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 4:12",
+  "book": "ruth",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ماڵەکەت بێتە وەک ماڵی پەرێز کە تامار بۆ یەهودا بووکی، لە تۆوەکەی کە یاهوە لەم گەنجە پێت دەدات.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بێت"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ماڵەکەت"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "وەک ماڵی"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پەرێز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بووکی"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "بۆ یەهودا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "تۆوەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "گەنجەکە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:51:34.541860637Z",
+  "model": "glm-5.3"
+}

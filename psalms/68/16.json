@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 68,
+  "translation": "چیای ئێلۆهیم چیای باشانە، چیای لووتکە چیای باشانە.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "لووتکە"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:42.415921317Z",
+  "model": "glm-5.3"
+}

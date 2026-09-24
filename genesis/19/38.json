@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 19:38",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و بچووکەکەش هەر ئەوەندە کوڕێکی بوو و ناوی نا بێن عەمی ⟨کەس⟩ ئەوە باوکی کوڕانی عەممۆنە بۆ ئەم ڕۆژە",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "و بچووکەکە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەر ئەوەندە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێک"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بێن"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "عەمی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عەممۆن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:02.831895833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ببینە ⟨את⟩ کرداری ئێلۆهیم، چونکە کێ دەتوانێ ڕاست بکاتەوە ⟨את⟩ ئەوەی کە ئەوەی چەوتر کردووە؟",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ببینە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کرداری"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کرداری"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "دەتوانێ"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ڕاست بکاتەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "ئەوەی چەوتر کردووە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:06:11.833795616Z",
+  "model": "glm-5.3"
+}

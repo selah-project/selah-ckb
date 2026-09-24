@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "چونکە دیکت هیچ دیمەنێکی پووچ و پێشگۆیەکی نرم نابێت لە ناوەندی ماڵی ئیسڕائیل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیکت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "دیمەن"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "پووچ"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "و پێشگۆ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "لە ناوەندی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسڕائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:08:15.290400717Z",
+  "model": "glm-5.3"
+}

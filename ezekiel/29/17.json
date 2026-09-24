@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 29:17",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و بوو، لە بیست و حەوت ساڵدا، لە یەکەمدا، لە یەکێک لە مانگ، وشەی یاهوە هاتە لای من بۆ وتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "لە بیست"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵدا"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "لە یەکەمدا"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "لە یەکێک"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "لە مانگ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هاتە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:17:39.833219126Z",
+  "model": "glm-5.3"
+}

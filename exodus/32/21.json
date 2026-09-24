@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و مۆشە فەرمووی بۆ ئاهارۆن ⟨هارون⟩: ئەم گەلە ئەمە چی کردووە بۆ تۆ، کە گوناھێکی گەورەت لەسەری هێناوە؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردووە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "هێناوە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "گوناھێکی"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "گەورە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:53:06.323507586Z",
+  "model": "glm-5.3"
+}

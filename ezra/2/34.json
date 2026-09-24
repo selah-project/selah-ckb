@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی یەریحۆ، سێ سەد و چل و پێنج.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یەریحۆ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:43.352887586Z",
+  "model": "glm-5.3"
+}

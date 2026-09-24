@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و یاهوە بە من فەرموو: باشیان کرد ئەوەی قسەیان کرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "باشیان کرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "قسەیان کرد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:14.357213404Z",
+  "model": "glm-5.3"
+}

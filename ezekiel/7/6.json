@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کۆتایی هاتووە، هاتووە کۆتاییەکە، بەرامبەر تۆ خەبەری بووە، ئەوەتا هاتووە.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "کۆتایی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتووە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتووە"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "کۆتاییەکە"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "خەبەری بووە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بەرامبەر تۆ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "באה",
+      "gloss": "هاتووە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:05:12.165949476Z",
+  "model": "glm-5.3"
+}

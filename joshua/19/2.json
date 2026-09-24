@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و لە میراتیاندا بئەرشەڤع ⟨مۆ⟩ و شەڤع و مۆلاداهیان هەبوو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "لە میراتیاندا"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئەر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شەڤع"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و شەڤع"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "و مۆلادا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:57.887678258Z",
+  "model": "glm-5.3"
+}

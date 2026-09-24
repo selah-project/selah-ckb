@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 116,
+  "translation": "لە پێش یاهوەدا دەگەڕێم لە زەوییەکانی ⟨ژیان⟩.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "دەگەڕێم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "لە زەوییەکانی"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:45.871697797Z",
+  "model": "glm-5.3"
+}

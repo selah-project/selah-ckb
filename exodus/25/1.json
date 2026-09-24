@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و یاهوە بۆ مۆشە ⟨موسا⟩ فەرموو و بەم زارییەوە وت:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زارییەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:28.360177334Z",
+  "model": "glm-5.3"
+}

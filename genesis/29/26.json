@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "لاڤان ⟨موسا⟩ وت: وا ناکرێت لە شوێنی ئێمە، کە بچووکەکە بدرێت لە پێش گەورەکەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "لבן",
+      "gloss": "لاڤان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ناکرێت"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "لە شوێنی ئێمە"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "کە بدرێت"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "بچووکەکە"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "گەورەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:32.837023569Z",
+  "model": "glm-5.3"
+}

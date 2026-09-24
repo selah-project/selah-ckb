@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "قوربانییەکانی ڕاستی قوربانی بکەن و متمانە ببەستن بۆ یاهوە",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "قوربانی بکەن"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قوربانییەکانی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "و متمانە ببەستن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:15.407873249Z",
+  "model": "glm-5.3"
+}

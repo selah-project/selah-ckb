@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "پاشایەک نارد و ئازاری کرد — حاکمی گەلان ئەوی ڕەهاکرد.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "و ئازاری کرد"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حاکمی"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "و ئەوی ڕەهاکرد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:09.407546758Z",
+  "model": "glm-5.3"
+}

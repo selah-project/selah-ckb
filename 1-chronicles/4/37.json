@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و زیزا کوڕی شیفی، کوڕی ئەلۆن، کوڕی یەدایا، کوڕی شیمری، کوڕی شەمایا.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "و زیزا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "شیفی"
+    },
+    {
+      "surface": "بن",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ئەلۆن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "یەدایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شیمری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شەمایا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:19.935491388Z",
+  "model": "glm-5.3"
+}

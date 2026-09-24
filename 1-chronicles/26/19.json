@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 26:19",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "ئەمانە پێگوێی دەروازەبانان بوون بۆ کوڕانی قۆرەحی و بۆ کوڕانی مێراری.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "پێگوێی"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دەروازەبانان"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "قۆرەحی"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "و بۆ کوڕانی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مێراری"
+    }
+  ],
+  "timestamp": "2026-09-24T15:31:16.309810012Z",
+  "model": "glm-5.3"
+}

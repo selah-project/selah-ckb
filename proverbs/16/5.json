@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "قێزی یاهوە هەموو بەرز دڵێکە، دەست ⟨لەگەڵ⟩ دەست، بێ تاوان دەرناچێت.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "قێزی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "بەرز"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "لەگەڵ دەست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بێ تاوان دەرناچێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:21.806777463Z",
+  "model": "glm-5.3"
+}

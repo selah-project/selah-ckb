@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و بۆ یۆیەریڤ مەتەنای، بۆ یدەیە عوزی",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "و بۆ یۆیەریڤ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "مەتەنای"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "بۆ یدەیە"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عوزی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:15.748846825Z",
+  "model": "glm-5.3"
+}

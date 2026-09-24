@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و هەموو ڕۆژەکانی خەنوخ بوون پێنج و شەست ساڵ و سێ سەد ساڵ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خەنوخ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شەست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:59.194167872Z",
+  "model": "glm-5.3"
+}

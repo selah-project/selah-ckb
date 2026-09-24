@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "هەموو پەردەکانی حەوشەکە لە دەوروبەری لە کتانی تاودراو ⟨بوون⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "پەردەکانی"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حەوشەکە"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دەوروبەر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "کتانی"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "تاودراو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:45.181179870Z",
+  "model": "glm-5.3"
+}

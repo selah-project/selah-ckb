@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و رەئو دوو و سی ساڵ ژیا و ⟨את⟩ سەروگی زا.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژیا"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رەئو"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سەروگ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سەروگ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:22.287330280Z",
+  "model": "glm-5.3"
+}

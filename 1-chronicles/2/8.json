@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کوڕەکانی ئێتان: عەزەریا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ئێتان"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عەزەریا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:22.443556441Z",
+  "model": "glm-5.3"
+}

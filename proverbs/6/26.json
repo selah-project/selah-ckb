@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چونکە بە هۆی ژنێکی لەبارەوە ⟨پیاو⟩ تا نانێک دەگات و ئافرەتی پیاوێک ژیانی بەنرخ دەڕاوێژێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "بە هۆی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێکی"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "لەبارەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "نانێک"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "و ئافرەتی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ژیانی"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "بەنرخ"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "دەڕاوێژێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:03.944218882Z",
+  "model": "glm-5.3"
+}

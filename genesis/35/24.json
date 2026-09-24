@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "کوڕەکانی راخێل: یۆسێف و بینیامین",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخێل"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "و بینیامین"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:45.445526088Z",
+  "model": "glm-5.3"
+}

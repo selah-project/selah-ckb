@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "لە زایۆنەوە، ھ پوختایی جوانی، ع ئێلۆهیم درەوشایەوە.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "لە زایۆنەوە"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "پوختایی"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ھ ع ئێلۆهیم"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "درەوشایەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:41.859871833Z",
+  "model": "glm-5.3"
+}

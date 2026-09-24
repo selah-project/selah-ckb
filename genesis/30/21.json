@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و پاشان کچێکی بوو، و ناوی ⟨את⟩ ناوهکەی داینا — دینا",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "و پاشان"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بوو… کچێکی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و داینا ناوی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناوهکەی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ناوهکەی"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دینا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:13.641433159Z",
+  "model": "glm-5.3"
+}

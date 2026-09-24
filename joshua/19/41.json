@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و سنووری میراتەکەیان هەبوو: سەعرە ⟨زرعە⟩ و ئەشتائۆل و عیر شەمەش.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنوور"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "میراتەکەیان"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "سەعرە"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "و ئەشتائۆل"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "و عیر"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شەمەش"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:53.262383199Z",
+  "model": "glm-5.3"
+}

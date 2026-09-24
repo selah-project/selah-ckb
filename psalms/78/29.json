@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "و خواردن و تێر بوون بە زۆری، و حەزیان هێنا ⟨بۆ⟩ ئەوان.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "و خواردن"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "و تێر بوون"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بە زۆری"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "و حەزیان"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨بۆ⟩ ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:32.966308243Z",
+  "model": "glm-5.3"
+}

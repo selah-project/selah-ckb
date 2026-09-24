@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 36:13",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "ئەمەی ئادۆنای یاهوە فەرموو: لەبەر ئەوەی دەڵێن لێت، تۆ خۆری مرۆڤی، و تێکدەری گەلەکانت بووە",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ئەمەی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יען",
+      "gloss": "لەبەر ئەوەی"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لێت"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "خۆری"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ומשכלת",
+      "gloss": "و تێکدەری"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "گەلەکانت"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بووە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:20:44.482619052Z",
+  "model": "glm-5.3"
+}

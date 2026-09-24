@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "لەسەر بەرد دەژی و دەمێنێتەوە، لەسەر ددانی بەرد و قەڵا.",
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "دەژی"
+    },
+    {
+      "surface": "ויתלנן",
+      "gloss": "و دەمێنێتەوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "و قەڵا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:19.800617920Z",
+  "model": "glm-5.3"
+}

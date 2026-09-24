@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 72,
+  "translation": "گەلی تۆ بە ڕاستی دادپەروەری دەکات و هەژارانی تۆ بە داد.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "دادپەروەری دەکات"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلی تۆ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "بە ڕاستی"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "و هەژارانی تۆ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "بە داد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:29.247838028Z",
+  "model": "glm-5.3"
+}

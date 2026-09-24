@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و کوڕەکەی، یەکەم‌زایینی، عەبدۆن، و تسور، و قیش، و بەعل، و ناداب.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "و کوڕەکەی"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "یەکەم‌زایینی"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عەبدۆن"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "و تسور"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "و قیش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "و بەعل"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "و ناداب"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:28.959471280Z",
+  "model": "glm-5.3"
+}

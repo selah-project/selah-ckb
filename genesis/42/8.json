@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و یوسف ⟨את⟩ براکانی ناسی، و ئەوان ئەویان نەناسی،",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ناسی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "براکانی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "براکانی"
+    },
+    {
+      "surface": "והם",
+      "gloss": "و ئەوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "ناسیانەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:14.257609042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "ئەم گەلە من بۆ خۆم شێوە کرد، ستایشی من دەگێڕنەوە.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "شێوەم کرد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ستایشی من"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "دەگێڕنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:27:17.171134188Z",
+  "model": "glm-5.3"
+}

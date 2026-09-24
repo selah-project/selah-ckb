@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و لە گەلەکە نزیکی سێ هەزار پیاو چوون ئەوێ، و لە پێش پیاوانی هەعای هەڵاتن.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "و چوون سەرەوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "هעם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئەوێ"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "نزیکی سێ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "و هەڵاتن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "העי",
+      "gloss": "هەعای"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:24.402985887Z",
+  "model": "glm-5.3"
+}

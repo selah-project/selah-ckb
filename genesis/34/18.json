@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 34:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و قسەکانیان لە چاوی حەمۆر و لە چاوی شێخێمی کوڕی حەمۆر چاک بوو.",
+  "tokens": [
+    {
+      "surface": "וייטבו",
+      "gloss": "چاک بوو"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "قسەکانیان"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حەمۆر"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "و لە چاوی"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شێخێم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حەمۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:50.117688164Z",
+  "model": "glm-5.3"
+}

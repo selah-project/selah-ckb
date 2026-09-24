@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 17:11",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "بەپێی دەمی تۆرایەی کە فێرت دەکەن و بەپێی ئەو دادوەرییەی کە بۆ تۆ دەڵێن، دەیکەیت؛ لەو قسەیەی کە بۆ تۆ دەڵێن لار نەبێیت، نە بۆ ڕاست و نە بۆ چەپ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بەپێی"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تۆرا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "فێرت دەکەن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بەپێی"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "دادوەری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەیکەیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "لار نەبێیت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "و چەپ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:53.656365210Z",
+  "model": "glm-5.3"
+}

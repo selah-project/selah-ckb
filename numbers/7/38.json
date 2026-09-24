@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کفێکی زێڕین یەک، دە شێکڵ، پڕ لە بخوێن.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کف"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخوێن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:25.908115789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ئەگەر ماڵاتێک ⟨کە⟩ قوربانییەک لەوان بۆ یاهوە پێشکەش دەکرێت، هەرچی لەوان بدرێت بۆ یاهوە پیرۆز دەبێت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "پێشکەش دەکرێت"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "قوربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەرچی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بدرێت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:21.009326036Z",
+  "model": "glm-5.3"
+}

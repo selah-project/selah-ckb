@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە لەڤییەکان پارچەکان لە یەهودا بۆ بنیامین بوون.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لەڤییەکان"
+    },
+    {
+      "surface": "مחלקות",
+      "gloss": "پارچەکان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "بۆ بنیامین"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:09.010497601Z",
+  "model": "glm-5.3"
+}

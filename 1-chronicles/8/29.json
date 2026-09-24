@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و لە گیبئۆن ⟨ی⟩ دانیشتوون، ئابی گیبئۆن ⟨هەبوو⟩، و ناوی ژنەکەی مەعاخە ⟨بوو⟩.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "و لە گیبئۆن"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "دانیشتوون"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ئابی"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گیبئۆن"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنەکەی"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مەعاخە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:28.959227583Z",
+  "model": "glm-5.3"
+}

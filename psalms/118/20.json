@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "ئەمە دەرگای یاهوەیە، ڕاستکان دەچنە ناوی.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ی یاهوە"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ڕاستکان"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "دەچن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ناوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:54.602475050Z",
+  "model": "glm-5.3"
+}

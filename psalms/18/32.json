@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "چونکە کێ ئێلە لە جگە یاهوە؟ و کێ بەردە لە بەرامبەر ئێلۆهیمانیین؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ئێلە"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "لە جگە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "بەردە"
+    },
+    {
+      "surface": "זולתی",
+      "gloss": "لە بەرامبەر"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیمانیین"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:27.171385723Z",
+  "model": "glm-5.3"
+}

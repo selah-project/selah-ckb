@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی لۆد، حەدید و ئۆنۆ، حەوت سەد و بیست و یەک.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لۆد"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "حەدید"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "و ئۆنۆ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "و یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:24.442221417Z",
+  "model": "glm-5.3"
+}

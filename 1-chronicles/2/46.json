@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و عەیفا، پیلەگەشی کالەب، حاران ⟨את⟩ و ⟨את⟩ موتسا و ⟨את⟩ گازێزی بوو، و حاران گازێزی بوو ⟨⟨את⟩ گازێز⟩.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "و عەیفا"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "پیلەگەش"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالەب"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حاران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حاران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "موتسا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "موتسا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گازێز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گازێز"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "و حاران"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گازێز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گازێز"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:20.661164707Z",
+  "model": "glm-5.3"
+}

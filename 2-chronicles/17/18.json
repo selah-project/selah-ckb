@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و لای دەستی ئەو یەهۆزاباد، و لەگەڵ ئەو سەد و هەشتا هەزار ئامادەکراوی جەنگ",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لای"
+    },
+    {
+      "surface": "ידو",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "یەهۆزاباد"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و لەگەڵ ئەو"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "و هەشتا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "ئامادەکراوی"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "جەنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:14.122419321Z",
+  "model": "glm-5.3"
+}

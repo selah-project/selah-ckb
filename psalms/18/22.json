@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "چونکە ڕێگاکانی یاهوەم پارێزت و لە دژی ئێلۆهیم خراپە نەکردم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "پارێزتم"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێگاکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "خراپە کردم"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "لە ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:13.067289292Z",
+  "model": "glm-5.3"
+}

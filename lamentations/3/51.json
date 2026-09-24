@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چاوێکم گیانی ئازارداوە، لە هەموو کچانی شارەکەم",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "چاوێکم"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "ئازارداوە"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچانی"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "شارەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:33.985519321Z",
+  "model": "glm-5.3"
+}

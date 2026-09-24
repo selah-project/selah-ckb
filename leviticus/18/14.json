@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "ڕووتی برای باوکت ئاشکرا مەکە، بۆ ژنەکەی نزیک مەبە، خاڵەکەت ئەوەیە.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ڕووتی"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ئاشکرا مەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "نزیک مەبە"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "خاڵەکەت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:05:41.396278183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئاڤراهام کوڕێکی سەد ساڵ بوو کە ییتسحاق ⟨את⟩ کوڕەکەی بۆ لەدایک بوو.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "و ئاڤراهام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "بوو کە لەدایک بوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ییتسحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:26.705036634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و دەبێت ئەگەر دە پیاو لە یەک خانوودا بمێنن، و دەمرن.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "بمێنن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە خانوو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "و دەمرن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:35:36.627652113Z",
+  "model": "glm-5.3"
+}

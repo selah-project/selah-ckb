@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ئایا بۆیە تۆڕەکەی ⟨دەکەشێتەوە⟩ و بەردەوام بۆ کوشتنی گەلان ناچاپێکات؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "ئایا بۆیە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "بۆیە"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "دەکەشێتەوە"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "تۆڕەکەی"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "و بەردەوام"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "بۆ کوشتنی"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "چاپێکات"
+    }
+  ],
+  "timestamp": "2026-09-24T13:38:24.508474305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئاگرێکی بەردەوام لەسەر قوربانگاکە دەسووتێت، ناکوژێتەوە.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "بەردەوام"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "دەسووتێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قوربانگاکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "دەکوژێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:25.223217217Z",
+  "model": "glm-5.3"
+}

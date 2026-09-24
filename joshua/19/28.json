@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و عەڤرۆن و ڕەحۆڤ و حەمۆن و قاناه تا تسیدۆنی گەورە",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "و عەڤرۆن"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و ڕەحۆڤ"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "و حەمۆن"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "و قاناه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "تسیدۆن"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "گەورە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:26.071577878Z",
+  "model": "glm-5.3"
+}

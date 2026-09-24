@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ فەرمووی بەم زوانە",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:07.368662624Z",
+  "model": "glm-5.3"
+}

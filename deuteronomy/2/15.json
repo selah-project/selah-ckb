@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و هەروەها دەستی یاهوە بوو دژ بە ئەوان بۆ لەناوبردنیان لە ناو ئۆردوگاکە هەتا تەواوبوونیان.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בם",
+      "gloss": "دژ بە ئەوان"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "بۆ لەناوبردنیان"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "لە ناو"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ئۆردوگاکە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "تەواوبوونیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:32.476147333Z",
+  "model": "glm-5.3"
+}

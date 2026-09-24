@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و میلەکانی دار شیتیمی دروست کرد و ⟨את⟩ ئەوان بە مس داپۆشی.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "دروستکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میلەکان"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "میلەکان"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "داری"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شیتیم"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "داپۆشی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:54.989176551Z",
+  "model": "glm-5.3"
+}

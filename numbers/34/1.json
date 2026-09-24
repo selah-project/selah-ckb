@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و یاهوە قسەی لەگەڵ مۆشە ⟨موسا⟩ کرد و وتی",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:04.147780063Z",
+  "model": "glm-5.3"
+}

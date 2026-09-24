@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و وشەی یاهوە بوو بۆ یەهوو کوڕی حەنانی لەسەر بەعشا بە وتن",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یەهوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حەنانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بەعشا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:54:53.438279560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و لەشکرەکەی و ژمارکراوەکانی حەوت و پەنجا هەزار و چوار سەدن.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "و لەشکرەکەی"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "و ژمارکراوەکانی"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پەنجا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:41.293795249Z",
+  "model": "glm-5.3"
+}

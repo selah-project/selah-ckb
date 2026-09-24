@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ییسهاق باوکی وتی بۆی: تکایە نزیک بکەوە و ماچم بکە، کوڕم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییسهاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "نزیک بکەوە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "و ماچم بکە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:24:08.521326282Z",
+  "model": "glm-5.3"
+}

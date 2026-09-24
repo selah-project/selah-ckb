@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "بۆ سینگەکان شین دەکەن، بۆ زەویە دڵخوازەکان، بۆ ڕەزی بەرهەمدار.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "سینگەکان"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "شین دەکەن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "دڵخواز"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ڕەز"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "بەرهەمدار"
+    }
+  ],
+  "timestamp": "2026-09-24T12:22:07.647972495Z",
+  "model": "glm-5.3"
+}

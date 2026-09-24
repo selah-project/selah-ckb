@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە حەسێرۆت ڕۆیشتن و لە ڕیتما چادران هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "لە حەسێرۆت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "چادران هەڵکێشا"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "لە ڕیتما"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:38.993674095Z",
+  "model": "glm-5.3"
+}

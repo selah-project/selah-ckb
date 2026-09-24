@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 17:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و لە تۆوی زەویەکە هەڵگرت و لە کێڵگەی تۆودا داینا؛ لەسەر زۆر ئاو، وەک سەو داینای.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و هەڵگرت"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "لە تۆو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "و داینا"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "لە کێڵگەی"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تۆو"
+    },
+    {
+      "surface": "קח",
+      "gloss": "هەڵگرتن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "צפצפה",
+      "gloss": "سەو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "داینای"
+    }
+  ],
+  "timestamp": "2026-09-24T13:11:29.743268256Z",
+  "model": "glm-5.3"
+}

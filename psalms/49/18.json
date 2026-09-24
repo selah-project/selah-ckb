@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "چونکە لە مەرگیدا هەموو شت نایبات، شکۆکەی لە دوای ئەو دانارێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "لە مەرگیدا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "دەبات"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هەموو شت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "دانارێت"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "لە دوای ئەو"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "شکۆکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:44.565120057Z",
+  "model": "glm-5.3"
+}

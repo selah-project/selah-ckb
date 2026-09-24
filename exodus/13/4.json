@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەمڕۆ ئێوە دەرچوون، لە مانگی ئاڤیف.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "دەرچوون"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "لە مانگی"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ئاڤیف"
+    }
+  ],
+  "timestamp": "2026-09-24T09:43:41.665195440Z",
+  "model": "glm-5.3"
+}

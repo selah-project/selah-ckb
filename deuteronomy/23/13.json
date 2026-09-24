@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و شوێنێک دەبێت بۆ تۆ لە دەرەوەی لەشکرگا، و دەچیتە ئەوێتە دەرەوە.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "و شوێنێک"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "لە دەرەوەی"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "لەشکرگا"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "و دەچیتە ئەوێتە"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئەوێ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "دەرەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:22.701040393Z",
+  "model": "glm-5.3"
+}

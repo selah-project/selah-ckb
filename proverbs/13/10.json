@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بە تەنها بە زڵمەت کێشە دەردەکەوێت، و لەگەڵ ⟨את⟩ ئاگاداراندا دانایییە.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بە تەنها"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "بە زڵمەت"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەردەکەوێت"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "کێشە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئاگاداران"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "ئاگاداران"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:33.841371599Z",
+  "model": "glm-5.3"
+}

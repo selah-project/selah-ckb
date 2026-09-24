@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 5:19",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و بە وی وتی: بە ئاشتی بڕۆ و لە وی ⟨את⟩ بە مەودایەکی زەوی ڕۆیشت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بە وی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "بە ئاشتی"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیشت"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "م ⟨את⟩ وی",
+      "marks": "ناعمان"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "مەودایەکی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:01:54.603888505Z",
+  "model": "glm-5.3"
+}

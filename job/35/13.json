@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "بەڕاستی پووچی ئێل نایبیستێت و ئێل شادای سەیری ناکات.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بەڕاستی"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "پووچی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "نایبیستێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "و ئێل شادای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "سەیری ناکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:45:03.369301263Z",
+  "model": "glm-5.3"
+}

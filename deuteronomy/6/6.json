@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ئەو وشەنانە کە من ئەمڕۆ فەرمانت پێ دەکەم لەسەر دڵت دەبن.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ئەو وشەنانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "فەرمانت پێ دەکەم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "لבבך",
+      "gloss": "دڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:35:47.961016430Z",
+  "model": "glm-5.3"
+}

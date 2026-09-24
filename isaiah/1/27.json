@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 1:27",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "زیۆن بە داد و ئازاد دەکرێت و گەڕاوەکانی بە دادپەروەری.",
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "زیۆن"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "بە داد"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "ئازاد دەکرێت"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "و گەڕاوەکانی"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "بە دادپەروەری"
+    }
+  ],
+  "timestamp": "2026-09-24T12:12:05.984604488Z",
+  "model": "glm-5.3"
+}

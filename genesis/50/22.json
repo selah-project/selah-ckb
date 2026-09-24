@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "و یوسێف لە میتسرایم ⟨میسر⟩ دانیشت، ئەو و ماڵی باوکی، و یوسێف سەد و دە ساڵ ژیا.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و دانیشت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "لە میتسرایم ⟨میسر⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و ماڵی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "و دە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:59.106033980Z",
+  "model": "glm-5.3"
+}

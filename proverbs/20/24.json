@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "لە یاهوەوە هەنگاوەکانی پیاون، و مرۆڤ چۆن ڕێگای خۆی تێدەگات؟",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "لە یاهوەوە"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "هەنگاوەکانی"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "و مرۆڤ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "تێدەگات"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ڕێگای خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:04.821677670Z",
+  "model": "glm-5.3"
+}

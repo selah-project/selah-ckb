@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چونکە وشە زۆرن و هەبەڵ زۆر دەکەن؛ چی سودی هەیە بۆ ئادەم؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "زۆر دەکەن"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەبەڵ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "سودی"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بۆ ئادەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:11.770708998Z",
+  "model": "glm-5.3"
+}

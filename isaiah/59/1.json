@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 59,
+  "translation": "ئەوەتا دەستی یاهوە کورت نەبووە لە ڕزگارکردن، و گوێی ئەو قورس نەبووە لە بیستن،",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەبووە"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "کورت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "لە ڕزگارکردن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەبووە"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "قورس"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "گوێی ئەو"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "لە بیستن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:34:22.810762552Z",
+  "model": "glm-5.3"
+}

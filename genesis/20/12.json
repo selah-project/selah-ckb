@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و بەڕاستی، ئەوە خوشکەمە ⟨هە⟩، کچی باوکمە، تەنها کچی دایکم نییە، و بوو بە ژن ⟨بۆ من⟩.",
+  "tokens": [
+    {
+      "surface": "وגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "بەڕاستی"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "خوشکەم"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "دایکم"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بە ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:36.394192620Z",
+  "model": "glm-5.3"
+}

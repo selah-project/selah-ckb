@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "کاتێک پیاوێک ژنێک بگرێت و بچێتە لای ئەو و ڕقی لێ بێتەوە،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگرێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێک"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "و بچێتە"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لای ئەو"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "و ڕقی لێ بێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:25.458241393Z",
+  "model": "glm-5.3"
+}

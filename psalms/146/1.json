@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 146,
+  "translation": "یاه ستایش بکەن؛ ئەی گیانی من، یاهوە ⟨את⟩ ستایش بکە.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستایش بکەن"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ستایش بکە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ئەی گیانی من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:38.061141522Z",
+  "model": "glm-5.3"
+}

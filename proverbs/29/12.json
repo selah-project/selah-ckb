@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "فەرمانڕەوا گوێ دەگرێت لە قسەی درۆ، هەموو خزمەتکارانی ئەو خراپن.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "فەرمانڕەوا"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "گوێ دەگرێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "خزمەتکارانی ئەو"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:29.195935477Z",
+  "model": "glm-5.3"
+}

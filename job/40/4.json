@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "ئەوەتا کەمبایەلم؛ چ وەڵامت بداتەوە؟ دەستم خستمە سەر دەمم.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "קלتי",
+      "gloss": "کەمبایەلم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "وەڵامت بداتەوە"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستم"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "خستمە"
+    },
+    {
+      "surface": "למו",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:51.680378998Z",
+  "model": "glm-5.3"
+}

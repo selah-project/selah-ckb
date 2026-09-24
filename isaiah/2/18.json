@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و بتەکان بە تەواوی نامێنن",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "و بتەکان"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "بە تەواوی"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "نامێنن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:12:26.122425709Z",
+  "model": "glm-5.3"
+}

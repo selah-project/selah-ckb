@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "نا مرۆڤ بە خراپە ڕاناگیرێت و ڕەگی دادپەروەرەکان هەرگیز ناڵەرزێت",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ڕاناگیرێت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "بە خراپە"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "و ڕەگ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "دادپەروەرەکان"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هەرگیز"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ناڵەرزێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:14.592356145Z",
+  "model": "glm-5.3"
+}

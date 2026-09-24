@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و پادشای کوڕانی عەممۆن گوێی نەگرتە قسەکانی یەفتاح ⟨یەفتاح⟩ کە ناردبووی بۆ لای.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ گرت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عەممۆن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "قسەکانی"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یەفتاح ⟨یەفتاح⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ لای"
+    }
+  ],
+  "timestamp": "2026-09-24T11:10:36.682215185Z",
+  "model": "glm-5.3"
+}

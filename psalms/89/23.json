@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "دوژمن زیاتی لێ ناکات، و کوڕی ستەم ئەوی پیس ناکات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "زیاتی لێ ناکات"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دوژمن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لێ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "و کوڕی"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ستەم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ئەوی پیس ناکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:15.357208930Z",
+  "model": "glm-5.3"
+}

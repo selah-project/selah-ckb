@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "تاسەڵەکان بۆ خۆت دەکەیت لەسەر چوار گۆشەی پۆشاکەکەت کە بە ئەو دادەپۆشیت.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "تاسەڵەکان"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەکەیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "گۆشە"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "پۆشاکەکەت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "دادەپۆشیت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بە ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:14.071954032Z",
+  "model": "glm-5.3"
+}

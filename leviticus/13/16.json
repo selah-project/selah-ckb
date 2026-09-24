@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "یان ئەگەر گۆشتە زیندووەکە بگەڕێتەوە و بگۆڕدرێت بۆ سپی، ئەوا دێتە لای کاهین.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بگەڕێتەوە"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گۆشتەکە"
+    },
+    {
+      "surface": "החי",
+      "gloss": "زیندووەکە"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "و بگۆڕدرێت"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "بۆ سپی"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "و دێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:16.263205295Z",
+  "model": "glm-5.3"
+}

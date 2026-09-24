@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "کوڕانی مێراری مەحلی و مووشی؛ کوڕانی یەعزییاھوو کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مێراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مەحلی"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "و مووشی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "یەعزییاھوو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:40.375750467Z",
+  "model": "glm-5.3"
+}

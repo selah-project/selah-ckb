@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و نانی شلۆمۆ بۆ یەک ڕۆژ سی کۆر ئاردی نەرم و شەست کۆر ئارد بوو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بۆ یەک ڕۆژ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "כר",
+      "gloss": "کۆر"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ئاردی نەرم"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شەست"
+    },
+    {
+      "surface": "כר",
+      "gloss": "کۆر"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ئارد"
+    }
+  ],
+  "timestamp": "2026-09-24T11:47:28.545232543Z",
+  "model": "glm-5.3"
+}

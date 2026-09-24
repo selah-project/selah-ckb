@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و گا بە شەش و سی هەزار،",
+  "tokens": [
+    {
+      "surface": "وבקר",
+      "gloss": "و گا"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:39.611775794Z",
+  "model": "glm-5.3"
+}

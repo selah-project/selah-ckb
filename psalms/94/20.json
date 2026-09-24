@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 94,
+  "translation": "ئاخۆ تەختی خراپە لەگەڵ تۆ یەکدەگرێتەوە، ئەوەی بە یاسا زوڵم قاڵب دەدات؟",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "لەگەڵ تۆ یەکدەگرێتەوە"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تەخت"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "قاڵب دەدات"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زوڵم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بە"
+    },
+    {
+      "surface": "חק",
+      "gloss": "یاسا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:09.897803036Z",
+  "model": "glm-5.3"
+}

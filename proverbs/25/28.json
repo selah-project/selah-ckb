@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "شارێکی ڕووخاو کە دیواری نییە — پیاوێک کە بەندێک بۆ ڕۆحی خۆی نییە.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "ڕووخاو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "بەند"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "بۆ ڕۆحی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:53.854589039Z",
+  "model": "glm-5.3"
+}

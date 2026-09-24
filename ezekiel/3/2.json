@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و دەمم کردەوە و ئەو ⟨את⟩ دەمم و ئەو ئەم تۆمارەیەی بە منی خوارد",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "و دەمم کردەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەم"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەم"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "و بە منی خوارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تۆمار"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "تۆمار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:06:25.565906391Z",
+  "model": "glm-5.3"
+}

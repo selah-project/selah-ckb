@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و یاهوە لەگەڵ مۆشە ⟨موسا⟩ قسەی کرد بە وتنی",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:24:00.382973117Z",
+  "model": "glm-5.3"
+}

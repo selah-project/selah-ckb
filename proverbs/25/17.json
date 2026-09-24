@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "دەگمەن بێتە پێت لە ماڵی هاوڕێیەکت، لەوەڕێ تێرت بکات و ڕقی لێت ببێتەوە.",
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "دەگمەن بێتە"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "هاوڕێیەکت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "لەوەڕێ"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "تێرت بکات"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "و ڕقی لێت ببێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:09.608925851Z",
+  "model": "glm-5.3"
+}

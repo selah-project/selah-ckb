@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 147,
+  "translation": "گەورەیە ئادۆنایمان و زۆر هێزی هەیە؛ تێگەیشتنی بێ ژماردنە",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "گەورەیە"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "ئادۆنایمان"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و زۆر"
+    },
+    {
+      "surface": "כח",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "تێگەیشتنی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژماردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:32.021960845Z",
+  "model": "glm-5.3"
+}

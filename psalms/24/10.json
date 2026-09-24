@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "کێیە ئەوە، ئەم پاشای شکۆیە؟ یاهوە سەڤائۆت، ئەوەیە پاشای شکۆ، سێلا.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێیە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "هוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سێلا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:41.085250784Z",
+  "model": "glm-5.3"
+}

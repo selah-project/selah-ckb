@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "یاهوە منی بەدەستهێنا، سەرەتای ڕێگای خۆی، پێش کارەکانی، لەوەوە.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "منی بەدەستهێنا"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "سەرەتای"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "پێش"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "کارەکانی"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "لەوەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:11.271605918Z",
+  "model": "glm-5.3"
+}

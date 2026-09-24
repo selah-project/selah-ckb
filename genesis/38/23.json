@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 38:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "یەهودا وتی: با بۆ خۆی بیگرێت، نەک بەڕۆک بین؛ ئەوەتا من ئەم بەرخە نارد و تۆ نەتدۆزییەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "با بیگرێت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نەک"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "بین"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "بەڕۆک"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "بەرخە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "מצאתה",
+      "gloss": "دۆزییەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:30:01.054123463Z",
+  "model": "glm-5.3"
+}

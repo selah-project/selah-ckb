@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 13:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "خواستەی بەدیهاتوو خۆشە بۆ گیان، و لادان لە خراپی کرێزیی کەسلانە.",
+  "tokens": [
+    {
+      "surface": "תאוה",
+      "gloss": "خواستە"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "بەدیهاتوو"
+    },
+    {
+      "surface": "תערב",
+      "gloss": "خۆشە"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "بۆ گیان"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "و کرێزی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "کەسلان"
+    },
+    {
+      "surface": "סור",
+      "gloss": "لادان"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "لە خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:28.690264937Z",
+  "model": "glm-5.3"
+}

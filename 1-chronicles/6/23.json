@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕی ییتسەهار، کوڕی قەهات، کوڕی لێڤی، کوڕی ییسرائێل ⟨ئیسڕائیل⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ییتسەهار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قەهات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائێل ⟨ئیسڕائیل⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:56.318308422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و مۆشە ⟨موسا⟩ بۆ کۆڕەکە فەرمووی: ئەمە ئەو شتەیە کە یاهوە فەرمانی داوە بۆ کردنی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "کۆڕەکە"
+    },
+    {
+      "surface": "زה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "وشەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی داوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:42.227748199Z",
+  "model": "glm-5.3"
+}

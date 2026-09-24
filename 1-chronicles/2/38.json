@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و عوبەید یێهویی بەخێو کرد، و یێهوو عەزەریای بەخێو کرد.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "و عوبەید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یێهوو"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یێهوو"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "و یێهوو"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەزەریا"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عەزەریا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:40.531344Z",
+  "model": "glm-5.3"
+}

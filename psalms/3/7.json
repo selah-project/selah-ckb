@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "نا دەترسم لە دە هەزارانی گەل، کە لە دەوروبەر دژی من دانراون.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "دەترسم"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "لە دە هەزاران"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "لە دەوروبەر"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "دانراون"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "دژی من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:34.472179887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "بە بەخشینیی ڕاستان شار هەڵدەکەوێت، و بە دەمی خراپەکان ڕووخاندە.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "بە بەخشینیی"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ڕاستان"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "هەڵدەکەوێت"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شار"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "و بە دەمی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکان"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "ڕووخاندە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:24.462865960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 83,
+  "translation": "گۆرانێک، مەزموورێک بۆ ئاساف ⟨ئاساف⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گۆرانێک"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموورێک"
+    },
+    {
+      "surface": "لאסף",
+      "gloss": "بۆ ئاساف"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:32.566111366Z",
+  "model": "glm-5.3"
+}

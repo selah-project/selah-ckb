@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ڕاستی بکڕە و مەیفڕۆشە — حیکمەت و ئامۆژگاری و تێگه‌یشتن.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "بکڕە"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "مەیفڕۆشە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "و ئامۆژگاری"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "و تێگه‌یشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:20.324884500Z",
+  "model": "glm-5.3"
+}

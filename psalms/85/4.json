@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 85,
+  "translation": "هەموو تووڕەییەکەتت کۆکردەوە، لە گڕی تووڕەییەکەت گەڕایەوە",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "کۆکردەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "تووڕەییەکەتت"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "گەڕایەوە"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "گڕی"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تووڕەییەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:13.876176387Z",
+  "model": "glm-5.3"
+}

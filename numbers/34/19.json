@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و ئەمانە ناوەکانی ئەو پیاوانەن: بۆ هۆزی یهودا کالێڤ کوڕی ییفونە.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناوەکانی"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ئەو پیاوانەن"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالێڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ییفونە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:55.332696135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 22:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "نزیکەکان و دوورەکان لە تۆ لێت پێدەکەنن، ئەی ناوپیس، پڕ لە ئاژاوە.",
+  "tokens": [
+    {
+      "surface": "הקרבות",
+      "gloss": "نزیکەکان"
+    },
+    {
+      "surface": "והרחקות",
+      "gloss": "و دوورەکان"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "יתקלסו",
+      "gloss": "پێدەکەنن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لێت"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "پیس"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "ئاژاوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:13:17.057208031Z",
+  "model": "glm-5.3"
+}

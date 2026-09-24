@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 115,
+  "translation": "بتەکانیان زیو و زێڕن، دروستکراوی دەستی مرۆڤ.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "بتەکانیان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و زێڕ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "دروستکراو"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:36.747201542Z",
+  "model": "glm-5.3"
+}

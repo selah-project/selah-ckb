@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و بیلدادی شوحی ⟨بەلدەد⟩ وەڵامی دایەوە و وتی:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "وەڵامی دایەوە"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بیلداد"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "شوحی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:30.538271100Z",
+  "model": "glm-5.3"
+}

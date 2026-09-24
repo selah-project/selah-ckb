@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "مەڵێن، دەڵێن، بۆ ئەمانە ناناڵێنن، شەرمەساری پاشەکشە ناکات.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "ڵێنن"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "ناڵێنن"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "بۆ ئەمانە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "پاشەکشە دەکات"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "شەرمەساری"
+    }
+  ],
+  "timestamp": "2026-09-24T13:37:11.524998127Z",
+  "model": "glm-5.3"
+}

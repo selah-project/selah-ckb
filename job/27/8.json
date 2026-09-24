@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 27:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "چونکە چی هیوا بۆ دوڕوو ماوە کاتێک دادەبڕدرێت، کاتێک ئێلۆه گیانی دەکێشێت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "هیوا"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "دوڕوو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "יבצע",
+      "gloss": "دادەبڕدرێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "دەیکێشێت"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ئێلۆه"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:40.677760570Z",
+  "model": "glm-5.3"
+}

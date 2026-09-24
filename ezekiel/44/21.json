@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "و شەراب هیچ کاهینێک ناخواتەوە کاتێک دێنە ناو حەوشە ناوەکییەکە.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "و شەراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ناخواتەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهینێک"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "کاتێک دێن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "حەوشە"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ناوەکییەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:26:02.937122750Z",
+  "model": "glm-5.3"
+}

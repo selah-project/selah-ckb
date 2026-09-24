@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 48:14",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و لێی نافرۆشتن و ناگۆڕن و سەرەتایی زەویەکە دەرناکات، چونکە پیرۆزە بۆ یاهوە.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "دەفرۆشتن"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "دەگۆڕێت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "دەدرێتەوە"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "سەرەتایی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:28:05.761393880Z",
+  "model": "glm-5.3"
+}

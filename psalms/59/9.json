@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 59,
+  "translation": "و تۆ ئەی یاهوە دەکەنینی لەوان، بە هەموو گەلاندا دەگاڵتێنی.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "دەکەنینی"
+    },
+    {
+      "surface": "למו",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "دەگاڵتێنی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:40.485096601Z",
+  "model": "glm-5.3"
+}

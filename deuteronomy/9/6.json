@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 9:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و دەزانیت چونکە نەک بە دادپەروەریت یاهوە ئێلۆهیمت ⟨את⟩ زەویە چاکەکەی ئەمەت بۆ دەدات بۆ میراتگرتنی، چونکە تۆ گەلێکی سختملی.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "و دەزانیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەک"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "بە دادپەروەریت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویە چاکەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "چاکەکە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "بۆ میراتگرتنی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "مل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:42.994144600Z",
+  "model": "glm-5.3"
+}

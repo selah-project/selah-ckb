@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و ئێستا وەرە پەیمانێک ببڕین من و تۆ، و ببێتە شایەتێک لە نێوان من و تۆدا.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "وەرە"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "ببڕین"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پەیمانێک"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و ببێتە"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "بۆ شایەت"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "لە نێوان من"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "و تۆدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:19.572679476Z",
+  "model": "glm-5.3"
+}

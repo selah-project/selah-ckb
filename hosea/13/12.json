@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بەندکراوە سەرپێچیی ئێفرایم، شاراوە گوناهەکەی.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "بەندکراوە"
+    },
+    {
+      "surface": "עון",
+      "gloss": "سەرپێچیی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شاراوە"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "گوناهەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:30:13.906863452Z",
+  "model": "glm-5.3"
+}

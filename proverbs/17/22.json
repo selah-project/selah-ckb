@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "دڵی شاد چارەسەری باش دەکات، و ڕۆحی زەبوون ئێسک وشک دەکات.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "شاد"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "باش دەکات"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "چارەسەری"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "و ڕۆحی"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "زەبوون"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "وشک دەکات"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ئێسک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:11.650698251Z",
+  "model": "glm-5.3"
+}

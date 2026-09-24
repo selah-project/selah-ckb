@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "پارێزەری دەمی خۆی و زمانی خۆی، پارێزەری خودی خۆیە لە تەنگانەکان.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "پارێزەری"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "دەمی خۆی"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "و زمانی خۆی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "پارێزەری"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "لە تەنگانەکان"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "خودی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:21.088997582Z",
+  "model": "glm-5.3"
+}

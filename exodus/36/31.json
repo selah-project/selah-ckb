@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 36:31",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و تیرەکانی داری شیتیمی کرد، پێنج بۆ تەختەکانی لای یەکەمی میشکان.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "تیرەکانی"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "داری"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شیتیم"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "بۆ تەختەکانی"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "لا"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "میشکان"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:23.214242147Z",
+  "model": "glm-5.3"
+}

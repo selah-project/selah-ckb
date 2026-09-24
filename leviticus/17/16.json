@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و ئەگەر نەیشوات و گۆشتی نەشوات، ئەوا تاوانەکەی هەڵدەگرێت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "بشوات"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "و گۆشتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "بشوات"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "و هەڵدەگرێت"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "تاوانەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:07:03.024541433Z",
+  "model": "glm-5.3"
+}

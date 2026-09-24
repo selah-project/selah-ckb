@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "هەموو ئەوەی پەل و پێوەڵی نییە لە ئاوەکاندا — قوڕغە بۆ ئێوە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لێیە"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پەل"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "و پێوەڵ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "لە ئاوەکاندا"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "قوڕغ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:37.011429438Z",
+  "model": "glm-5.3"
+}

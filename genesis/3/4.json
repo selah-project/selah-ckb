@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و مارەکە بە ژنەکەی وت: «هەرگیز نامرن،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مارەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ژنەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "هەرگیز نا"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مەرن"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "نامرن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:31.479812947Z",
+  "model": "glm-5.3"
+}

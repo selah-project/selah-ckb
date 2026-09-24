@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "مەڕفێنە هەژارە، چونکە ⟨ئەوە⟩ هەژارە، و مەخنێ بێسەرووبەرەکە لە دەروازەدا.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ڕفێنە"
+    },
+    {
+      "surface": "דל",
+      "gloss": "هەژارە"
+    },
+    {
+      "surface": "کی",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "דל",
+      "gloss": "هەژارە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئەوە⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "خنێنە"
+    },
+    {
+      "surface": "עני",
+      "gloss": "بێسەرووبەرەکە"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "لە دەروازەدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:04.041902501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و دوای ئەو کاهینەکان پیاوانی دەشتەکە چەسپاندیان.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "و دوای ئەو"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "چەسپاندیان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهینەکان"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "دەشتەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:15:15.703671205Z",
+  "model": "glm-5.3"
+}

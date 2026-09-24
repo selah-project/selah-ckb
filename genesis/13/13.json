@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و پیاوەکانی سدۆم شەران و گوناهکار بوون لەبەردەم یاهوە زۆر.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "و پیاوەکانی"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدۆم"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "شەران"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "و گوناهکار"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لەبەردەم یاهوە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:19.228886225Z",
+  "model": "glm-5.3"
+}

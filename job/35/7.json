@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "ئەگەر ڕاست بوویت، چى پێدەدەی؟ یان چى لە دەستت وەردەگرێت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "ڕاست بوویت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چى"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "پێدەدەی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چى"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "لە دەستت"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وەردەگرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:45:22.417332020Z",
+  "model": "glm-5.3"
+}

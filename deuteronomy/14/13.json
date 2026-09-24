@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ڕەعا و ⟨את⟩ ئایەیەکە و دایا بۆ جۆرەکەی",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "و ڕەعا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئایەیەکە"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ئایەیەکە"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "و دایا"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "بۆ جۆرەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:00.086937532Z",
+  "model": "glm-5.3"
+}

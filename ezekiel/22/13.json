@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 22:13",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و ئەوەتا دەستەکەم لێdam لەسەر قازانجی تۆ کە کردت و لەسەر خوێنت کە لە ناو تۆدا بوو.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "لێدام"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "دەستەکەم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "قازانجی تۆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "דמך",
+      "gloss": "خوێنت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "لە ناو تۆدا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:14:34.540127740Z",
+  "model": "glm-5.3"
+}

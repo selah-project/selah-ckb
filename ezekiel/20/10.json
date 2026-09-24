@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و ئەوانم لە زەوی میتسرایم دەرهێنا و هێنانم بۆ ناو بیابان.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "و ئەوانم دەرهێنا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "و هێنانم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:12:43.429328787Z",
+  "model": "glm-5.3"
+}

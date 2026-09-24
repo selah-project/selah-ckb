@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "شێوەی هەموو خشۆکێک لە زەوی خاکدا، شێوەی هەموو ماسییەک کە لە ئاوەکاندایە لە خوارەوەی زەوی.",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "شێوەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "خشۆک"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "لە زەوی خاک"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "شێوەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "ماسی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "במים",
+      "gloss": "لە ئاوەکان"
+    },
+    {
+      "surface": "مתחת",
+      "gloss": "لە خوارەوەی"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:09.223646774Z",
+  "model": "glm-5.3"
+}

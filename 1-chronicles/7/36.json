@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی سۆفاخ: سواح، و حەرنێفێر، و شوئال، و بێری، و یمرە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "سۆفاخ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "سواح"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "و حەرنێفێر"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "و شوئال"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "و بێری"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "و یمرە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:21.759458322Z",
+  "model": "glm-5.3"
+}

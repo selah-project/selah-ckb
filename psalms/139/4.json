@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 139,
+  "translation": "چونکە وشەیەک لەسەر زمانم نییە، ئەوا ئەی یاهوە، تۆ بە تەواوی دەیزانیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "وشەیەک"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "لەسەر زمانم"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ئەوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "دەیزانیت"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "بە تەواوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:52.338176620Z",
+  "model": "glm-5.3"
+}

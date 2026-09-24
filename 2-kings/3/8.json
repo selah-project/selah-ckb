@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و وت: کام ڕێگاکەیە سەردەکەین بە؟ و فەرموو: ڕێگای بیابانی ئەدۆم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کوێ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ڕێگاکە"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "سەردەکەین"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابانی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:59:32.608030118Z",
+  "model": "glm-5.3"
+}

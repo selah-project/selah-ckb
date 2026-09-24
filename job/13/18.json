@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەوەتا ئێستا دادەکەم ڕێکخستم، دەزانم کە من ڕاست دەبم.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ڕێکخستم"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دەزانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ڕاست دەبم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:50.155392007Z",
+  "model": "glm-5.3"
+}

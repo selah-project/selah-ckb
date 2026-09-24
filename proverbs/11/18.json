@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "بەدکارە کرینی درۆ بەدەست دەهێنێت، و تۆوکاری دادپەروەری کرینی ڕاستی.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "بەدکارە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بەدەست دەهێنێت"
+    },
+    {
+      "surface": "پעלת",
+      "gloss": "کرینی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "و تۆوکاری"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "کرینی"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:50.140710335Z",
+  "model": "glm-5.3"
+}

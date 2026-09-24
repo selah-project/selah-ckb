@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بەڵکو بۆ ماڵی باوکم دەڕۆی و بۆ خێزانم و ژنێک بۆ کوڕەکەم دەهێنیت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "دەڕۆی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "خێزانم"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "و دەهێنیت"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:12.643969831Z",
+  "model": "glm-5.3"
+}

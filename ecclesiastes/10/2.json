@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "دڵی دانا لە لای ڕاستیەوەیە، و دڵی گێل لە لای چەپیەوەیە.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "لە لای ڕاستی"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "و دڵی"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "گێل"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "لە لای چەپی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:47.092295913Z",
+  "model": "glm-5.3"
+}

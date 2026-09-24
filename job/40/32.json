@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "دەستت لەسەر دابنێ، بیرت بێت لە جەنگ، زیاد مەکە.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "دابنێ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "بیرت بێت"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جەنگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەکە"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "زیاد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:39.346663591Z",
+  "model": "glm-5.3"
+}

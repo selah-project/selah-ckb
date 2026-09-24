@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەی کوڕم، تۆرام لەبیر مەکە، و فرمانەکانم دڵت بپارێزن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ئەی کوڕم"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "تۆرام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "لەبیر مەکە"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "و فرمانەکانم"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "بپارێزن"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:15.747594398Z",
+  "model": "glm-5.3"
+}

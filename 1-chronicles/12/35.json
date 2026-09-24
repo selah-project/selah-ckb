@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و لە نەفتالی سەرکردەیان، هەزار، و لەگەڵیان بە سپەر و ڕم سی و حەوت هەزار.",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "و لە نەفتالی"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سەرکردەیان"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "و لەگەڵیان"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "بە سپەر"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "و ڕم"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:06.641397553Z",
+  "model": "glm-5.3"
+}

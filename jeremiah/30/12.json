@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "چونکە بەم شێوەیە فەرموویەتی یاهوە: شکاوت چارەسەرنەکراوە، لێدانت قورسە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כה",
+      "gloss": "بەم شێوەیە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموویەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "چارەسەرنەکراوە"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "شکاوت"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "قورسە"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "لێدانت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:51:28.927167339Z",
+  "model": "glm-5.3"
+}

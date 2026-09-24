@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "هەموو سامانێکی بەنرخ دەدۆزرێتەوە، ماڵەکانمان بە تاڵان پڕ دەکەینەوە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הון",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "بەنرخ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "دەدۆزرێتەوە"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "پڕ دەکەینەوە"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ماڵەکانمان"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "تاڵان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:56.807735554Z",
+  "model": "glm-5.3"
+}

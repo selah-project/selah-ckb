@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "و هێشتا بژی تا هەتا هەتایە، نا گۆڕەکە ببینێت.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و بژی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "تا هەتا هەتایە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ببینێت"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "گۆڕەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:34.062101717Z",
+  "model": "glm-5.3"
+}

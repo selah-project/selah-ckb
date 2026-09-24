@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "هیچ بێگانەیەک پیرۆزەکە ناخوات؛ کۆچکردووی کاهین و کرێکار پیرۆزەکە ناخوات.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بێگانە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆزەکە"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "کۆچکردوو"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "و کرێکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆزەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:35.764885676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و داوود ⟨את⟩ سندووقەکەی بۆ لای خۆی، بۆ شاری داوود، نەگواستەوە، بەڵکو لایاندەرای بۆ ماڵی عۆبێد ئێدۆمی گیتی.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "گواستەوە"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندووقەکە"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "سندووقەکە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ لای خۆی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "لایاندەرای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عۆبێد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئێدۆم"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "گیتی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:00.191869891Z",
+  "model": "glm-5.3"
+}

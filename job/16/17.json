@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 16:17",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "بۆ ئەوەی زوڵم لە دەستەکانمدا نییە، و پاڕانەوەکەم پاکە.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زوڵم"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "لە دەستەکانمدا"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "و پاڕانەوەکەم"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:12.133798742Z",
+  "model": "glm-5.3"
+}

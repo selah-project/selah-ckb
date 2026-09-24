@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "وەک نەبووم، دەبم؛ لە سکەوە بۆ گۆڕ دەبرێم.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "دەبم"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "لە سکەوە"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "بۆ گۆڕ"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "دەبرێم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:37.389738321Z",
+  "model": "glm-5.3"
+}

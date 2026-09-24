@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "روحی یاهوە بە من قسەی کرد، و وشەی لەسەر زمانم.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روحی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەی کرد"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "و وشەی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "زمانم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:23.114525942Z",
+  "model": "glm-5.3"
+}

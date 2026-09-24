@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "و منی بردەوە بۆ دەرگا، دەرگای کە ڕوو لە ڕێگای ڕۆژهەڵات بوو.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "و منی بردەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ڕوو لە"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ڕۆژهەڵات"
+    }
+  ],
+  "timestamp": "2026-09-24T16:02:32.455333697Z",
+  "model": "glm-5.3"
+}

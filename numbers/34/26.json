@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و بۆ هۆزی کوڕانی ییساشکار سەرۆک پالتیئێل کوڕی عەzzان.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "و بۆ هۆز"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییساشکار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "پالتیئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "عازان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:37.357769166Z",
+  "model": "glm-5.3"
+}

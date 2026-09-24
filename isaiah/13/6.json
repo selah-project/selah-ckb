@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "شۆڕ بنەوە، چونکە ڕۆژی یاهوە نزیکە؛ وەک وێرانکاری لە لای شەدای دێت.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "شۆڕ بنەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزیکە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "وەک وێرانکاری"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "لە لای شەدای"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:15.466222890Z",
+  "model": "glm-5.3"
+}

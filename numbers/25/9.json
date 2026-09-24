@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و کوژراوەکانی بە مەگەپەدا چوار و بیست هەزار بوون.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "کوژراوەکانی"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "بە مەگەپەدا"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:45.413643590Z",
+  "model": "glm-5.3"
+}

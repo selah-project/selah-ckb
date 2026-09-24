@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و دەبن لە تۆدا بۆ نیشانە و بۆ موپەت، و لە نەسڵەکەتدا هەتا هەتایە.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە تۆدا"
+    },
+    {
+      "surface": "لאות",
+      "gloss": "بۆ نیشانە"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "و بۆ موپەت"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "و لە نەسڵەکەتدا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەتایە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:10.460167058Z",
+  "model": "glm-5.3"
+}

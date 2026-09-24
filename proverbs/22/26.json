@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "تۆ مەبە لە لێدانەوانی دەست، لە کەفیلانی قەرزەکان.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "لە لێدانەوانی"
+    },
+    {
+      "surface": "כף",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "لە کەفیلانی"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "قەرزەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:58.011560332Z",
+  "model": "glm-5.3"
+}

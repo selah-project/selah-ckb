@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "بەختیارە ئەو پیاوەی کە پشت بە یاهوە دەبەستێت، و یاهوە دەبێتە متمانەی ئەو.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "بەختیارە"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ئەو پیاوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "پشت دەبەستێت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "متمانەی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:45:12.619579369Z",
+  "model": "glm-5.3"
+}

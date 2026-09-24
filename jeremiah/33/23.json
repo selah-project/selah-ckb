@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و وشەی یاهوە هاتە لای یێرمیاهو ⟨بەمە⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یێرمیاهو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:53:35.968156162Z",
+  "model": "glm-5.3"
+}

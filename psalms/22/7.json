@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و من کرمم و نەک پیاوێک؛ سووکایەتی مرۆڤان و بێقەدری گەل.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "کرم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "سووکایەتی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤان"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "و بێقەدری"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:14.573399695Z",
+  "model": "glm-5.3"
+}

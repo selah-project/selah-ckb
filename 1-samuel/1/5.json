@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و بۆ حەننا پۆشێکی سەنگ دەدا، چونکە ⟨את⟩ حەننا خۆش دەویست، و یاهوە زگی داخستبوو.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "و بۆ حەننا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدا"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "پۆشێک"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "سەنگ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حەننا"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "حەننا"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "خۆش دەویست"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "داخستبوو"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "زگی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:15:44.367585786Z",
+  "model": "glm-5.3"
+}

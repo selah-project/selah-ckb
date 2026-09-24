@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "هەموو ئەمانە کۆبوونەوە لە دۆڵی سدیم، ئەویش دەریای شۆڕە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "کۆبوونەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "دۆڵی"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "سدیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەویش"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریای"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "شۆڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:15:46.442859242Z",
+  "model": "glm-5.3"
+}

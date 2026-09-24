@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و خزمەتکار بۆ ییسحاق ⟨את⟩ هەموو ئەو کارانەی کردبووی گێڕایەوە.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "و گێڕایەوە"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "خزمەتکار"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "بۆ ییسحاق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەو کارانە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ئەو کارانە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردبووی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:33.731018336Z",
+  "model": "glm-5.3"
+}

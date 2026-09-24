@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 17:13",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و کاری زۆر هەبوو بۆی لە شارەکانی یەهودا، و پیاوانی شەڕ، گێڕانی هێز، لە یەروشالیم.",
+  "tokens": [
+    {
+      "surface": "ומלאכה",
+      "gloss": "و کار"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هەبوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "لە شارەکانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "و پیاوانی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "گێڕانی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە یەروشالیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:23.514324360Z",
+  "model": "glm-5.3"
+}

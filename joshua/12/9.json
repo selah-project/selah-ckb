@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "پاشای یەریحۆ یەک؛ پاشای های، کە لە لای بێت ئێلە، یەک؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یەریحۆ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "העי",
+      "gloss": "های"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:37.101549103Z",
+  "model": "glm-5.3"
+}

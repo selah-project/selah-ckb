@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 60,
+  "translation": "ئەمانە کێن کە وەک هەور دەفڕن و وەک کەووەکان بۆ کەوانەکانیان؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "وەک هەور"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "دەفڕن"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "و وەک کەووەکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "کەوانەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:34:16.043503740Z",
+  "model": "glm-5.3"
+}

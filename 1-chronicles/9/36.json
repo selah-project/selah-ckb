@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و کوڕەکەی، یەکەم لەدایکبووی، عەبدۆن بوو، و تسور و قیش و بەعل و نێر و ناداب.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "و کوڕەکەی"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "یەکەم لەدایکبووی"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عەبدۆن"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "و تسور"
+    },
+    {
+      "surface": "وקיש",
+      "gloss": "و قیش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "و بەعل"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "و نێر"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "و ناداب"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:47.651391367Z",
+  "model": "glm-5.3"
+}

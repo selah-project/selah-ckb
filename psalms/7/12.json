@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ئێلۆهیم دادوەری ڕاستکارە، و ئێڵ هەموو ڕۆژێک تووڕەیە.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "دادوەر"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستکار"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و ئێڵ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "تووڕەیە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هەموو…ێک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:39.199137528Z",
+  "model": "glm-5.3"
+}

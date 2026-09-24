@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 57,
+  "translation": "ئاشتی نییە، ئێلۆهیمی من فەرمووەتی، بۆ هەڵهقارەکان.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووەتی"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی من"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "بۆ هەڵهقارەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:33:15.321351693Z",
+  "model": "glm-5.3"
+}

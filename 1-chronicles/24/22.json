@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بۆ ییتزهارییەکان: شیلۆمۆت؛ بۆ کوڕانی شیلۆمۆت: یاحات.",
+  "tokens": [
+    {
+      "surface": "لיצהרי",
+      "gloss": "بۆ ییتزهارییەکان"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شیلۆمۆت"
+    },
+    {
+      "surface": "لבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شیلۆمۆت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاحات"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:38.728725519Z",
+  "model": "glm-5.3"
+}

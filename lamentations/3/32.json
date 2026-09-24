@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چونکە ئەگەر خەمین بکات، بەڵام بەزەیی دەکات بەپێی زۆریی حەسەدی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "خەمین بکات"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "بەڵام بەزەیی دەکات"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "بەپێی زۆریی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:59.129085276Z",
+  "model": "glm-5.3"
+}

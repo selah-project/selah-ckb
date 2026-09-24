@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 46:22",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "دەنگی وەک مار دەڕوات، چونکە بە هێز دێن و بە تەباڕەکان بۆی دێن، وەک داڕێنەرانی دار.",
+  "tokens": [
+    {
+      "surface": "קולה",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "وەک مار"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "بە هێز"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "دێن"
+    },
+    {
+      "surface": "ובקרדמות",
+      "gloss": "و بە تەباڕەکان"
+    },
+    {
+      "surface": "באו",
+      "gloss": "دێن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "כחטבי",
+      "gloss": "وەک داڕێنەرانی"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "دار"
+    }
+  ],
+  "timestamp": "2026-09-24T12:58:25.076901087Z",
+  "model": "glm-5.3"
+}

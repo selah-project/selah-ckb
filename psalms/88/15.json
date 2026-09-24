@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 88,
+  "translation": "بۆچی ئەی یاهوە گیانم بەجێدەهێڵیت، ڕووت لە من دەشاریتەوە؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "بەجێدەهێڵیت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "دەشاریتەوە"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:20.407834102Z",
+  "model": "glm-5.3"
+}

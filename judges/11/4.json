@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و بوو لە پاش ڕۆژانێک، و کوڕانی عەمۆن شەڕیان لەگەڵ ئیسرائیل کرد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "لە پاش ڕۆژانێک"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "و شەڕیان کرد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عەمۆن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T11:10:34.441871085Z",
+  "model": "glm-5.3"
+}

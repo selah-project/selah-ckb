@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "دە پەی درێژیی تەختەکەیە و پەیێک و نیوەی پەیەکە پانیی یەک تەختەیە.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "پەی"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درێژیی"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تەختەکە"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "و پەیێک"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیوەی"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "پەیەکە"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پانیی"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تەختەکە"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:33.303766512Z",
+  "model": "glm-5.3"
+}

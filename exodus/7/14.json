@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و یاهوە فەرمووی بۆ مۆشە ⟨موسا⟩: دڵی پەرعەون قورسە، ڕێی نادات گەلەکە بڕۆن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "قورسە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرعەون"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ڕێی نادات"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "بۆ بەڕێکردن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:38:21.440531672Z",
+  "model": "glm-5.3"
+}

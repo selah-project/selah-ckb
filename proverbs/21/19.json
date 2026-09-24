@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "باشترە ژیان لە زەوی بێابان، لە ژنێکی مشتومڕگر و توڕە.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بێابان"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "لە ژنێکی"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "مشتومڕگر"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "و توڕە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:06.143024204Z",
+  "model": "glm-5.3"
+}

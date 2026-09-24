@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەگەر ئاو درابێتە سەر تۆوەکە و لە ڕۆکەوانیان بکەوێتە سەری، پیسە بۆ ئێوە.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "درابێت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تۆوەکە"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "و بکەوێت"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "لە ڕۆکەوانیان"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیسە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هەیە⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:41.572848116Z",
+  "model": "glm-5.3"
+}

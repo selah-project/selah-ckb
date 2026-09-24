@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 13:24",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەو شوێنە ناوچەی ئەشکۆل ناونرا، لەبەر ئەو ئەشکۆلەی کە کوڕەکانی ئیسرائیل لەوێ بڕی.",
+  "tokens": [
+    {
+      "surface": "למקום",
+      "gloss": "ئەو شوێنە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناونرا"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ناوچەی"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "ئەشکۆل"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "هۆکار"
+    },
+    {
+      "surface": "האשכול",
+      "gloss": "ئەو ئەشکۆلەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "بڕی"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:10.300919570Z",
+  "model": "glm-5.3"
+}

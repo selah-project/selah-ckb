@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چونکە نا بۆ گەلێکی قووڵی لێو و قورسی زمان تۆ نێردراوی، بەڵکو بۆ ماڵی ئیسرائیل",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەلێکی"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "قووڵی"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لێو"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "و قورسی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "نێردراوی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:06:13.026186549Z",
+  "model": "glm-5.3"
+}

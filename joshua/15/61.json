@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "لە بیابانەکەدا بێت هەعارەڤا ⟨بیابانەکە⟩، میدین و سێخاچا.",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیابانەکەدا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "هەعارەڤا"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدین"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "و سێخاچا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:54.673284090Z",
+  "model": "glm-5.3"
+}

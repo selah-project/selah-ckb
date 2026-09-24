@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئەلقانە، کوڕەکەی ئەلقانە، سوفای کوڕەکەی، و ناحات کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانە"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانە"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "سوفای"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "و ناحات"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:41.087107041Z",
+  "model": "glm-5.3"
+}

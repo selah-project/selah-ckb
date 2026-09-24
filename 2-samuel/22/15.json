@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و تیری نارد و بڵاوی کردنەوە؛ برق، و تێکیان شلاند.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و نارد"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "و بڵاوی کردنەوە"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "برق"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "و تێکیان شلاند"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:49.252222382Z",
+  "model": "glm-5.3"
+}

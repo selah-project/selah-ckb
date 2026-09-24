@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "سزام بدە، ئەی یاهوە، بەڵام بە داد، مە بە تووڕەییەکەت، نە بچووکم بکەیت.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "سزام بدە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אך",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "بە داد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "بە تووڕەییەکەت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "بچووکم بکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:41:22.456710198Z",
+  "model": "glm-5.3"
+}

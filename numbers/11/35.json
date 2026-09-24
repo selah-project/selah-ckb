@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 11:35",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "لە قیڤرۆت هاتتەئاڤە گەل ڕۆیشت بۆ حەتسێرۆت، و لە حەتسێرۆت بوون.",
+  "tokens": [
+    {
+      "surface": "מקברות",
+      "gloss": "لە قیڤرۆت"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "هاتتەئاڤە"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "حەتسێرۆت"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "لە حەتسێرۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:13.915833890Z",
+  "model": "glm-5.3"
+}

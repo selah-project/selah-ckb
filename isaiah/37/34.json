@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "بەو ڕێگەیەی هاتووە، بە هەمان ڕێگە دەگەڕێتەوە، و بۆ ناو ئەم شارە نایەت، وتاری یاهوە.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "بە ڕێگە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتووە"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بەوە"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "دەگەڕێتەوە"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ئەم شارە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "نایەت"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:25:00.605963033Z",
+  "model": "glm-5.3"
+}

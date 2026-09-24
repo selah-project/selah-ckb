@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "زەویێک کە لە تەنگیی دا نان لە تێدا ناخۆیت، هیچت لە کەم نایەت؛ زەویێک کە بەردەکانی ئاسنن و لە چیاەکانییەوە مس هەڵدەکەیت.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زەویێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "لە تەنگیی دا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ناخۆیت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لە تێدا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "کەم دەکەویت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لە تێدا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەویێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "بەردەکانی"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسنن"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "و لە چیاەکانییەوە"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "هەڵدەکەیت"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:33.333672086Z",
+  "model": "glm-5.3"
+}

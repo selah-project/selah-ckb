@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "ئەگەر حوکمەکانمی پێشێل بکەن و فەرمانەکانم نەپارێزن",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "حوکمەکانمی"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "پێشێل دەکەن"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "و فەرمانەکانم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "پارێزن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:07.945087480Z",
+  "model": "glm-5.3"
+}

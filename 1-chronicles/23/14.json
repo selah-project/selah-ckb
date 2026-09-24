@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و مۆشە پیاوِ ئێلۆهیم، کوڕەکانی لەسەر هۆزی لێڤی ناونران.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "و مۆشە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ناونران"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لێڤی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:01.878054667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و لەگەڵ ئێوە ⟨ئەوان⟩ دەبن پیاوێک بۆ هەر هۆزێک پیاوێک سەری ماڵی باوانی خۆی خۆی",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "و ⟨את⟩ لەگەڵ ئێوە"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "بۆ هەر"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "هۆزێک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "باوانی خۆی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:11.082098890Z",
+  "model": "glm-5.3"
+}

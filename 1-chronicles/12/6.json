@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 12:6",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "ئێلعوزای و یریمۆت و بەعەلیا و شەمەریاهو و شەفەتیاهو حەریفی",
+  "tokens": [
+    {
+      "surface": "אלעוזי",
+      "gloss": "ئێلعوزای"
+    },
+    {
+      "surface": "וירימות",
+      "gloss": "و یریمۆت"
+    },
+    {
+      "surface": "ובעליה",
+      "gloss": "و بەعەلیا"
+    },
+    {
+      "surface": "ושמריהו",
+      "gloss": "و شەمەریاهو"
+    },
+    {
+      "surface": "ושפטיהו",
+      "gloss": "و شەفەتیاهو"
+    },
+    {
+      "surface": "החריפי",
+      "gloss": "حەریفی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:52.929463087Z",
+  "model": "glm-5.3"
+}

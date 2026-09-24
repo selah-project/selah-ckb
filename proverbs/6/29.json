@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "هەروەها ئەوەی دێتە لای ژنی هاوڕێی خۆی — هیچ کەسێک کە دەیلمێتێ بێ‌سزا نامێنێت.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ئەوەی دێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی خۆی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بێ‌سزا دەمێنێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ کەسێک"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ئەوەی دەیلمێتێ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:18.245709072Z",
+  "model": "glm-5.3"
+}

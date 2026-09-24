@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "کە دەستم لەگەڵ ئەو دەگیرێت، هەروەها بازووم ئەوی بەهێز دەکات.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستم"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "دەگیرێت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵ ئەو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "بازووم"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ئەوی بەهێز دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:15.357081250Z",
+  "model": "glm-5.3"
+}

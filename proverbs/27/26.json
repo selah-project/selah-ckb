@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "بەرخەکان بۆ جلەکەت و بە نرخی زەوی بزنە نێرینەکان.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "بەرخەکان"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "بۆ جلەکەت"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "و بە نرخی"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "بزنە نێرینەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:23.461972439Z",
+  "model": "glm-5.3"
+}

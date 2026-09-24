@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "لە کیسەتدا بۆ تۆ بەرد و بەرد نەبێت، گەورە و بچووک.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نەبێت"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "لە کیسەتدا"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "وאבן",
+      "gloss": "و بەرد"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "و بچووک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:50.542069331Z",
+  "model": "glm-5.3"
+}

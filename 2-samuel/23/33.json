@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "شەما هەراری، ئەحیام کوڕی شەرار هەراری،",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شەما"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "هەراری"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "ئەحیام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "شەرار"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "هەراری"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:04.891449205Z",
+  "model": "glm-5.3"
+}

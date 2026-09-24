@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "⟨את⟩ یاهوە بە ترسەوە بە خزمەت بگەن، و بە لەرزەوە شادی بکەن.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "بە خزمەت بگەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "بە ترسەوە"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "و شادی بکەن"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "بە لەرزەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:48.474851989Z",
+  "model": "glm-5.3"
+}

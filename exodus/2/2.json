@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئەو ژنە سکی گرت و کوڕێکی بوو و کە بینییەتی ⟨את⟩ ئەو ⟨کە⟩ چاکە، سێ مانگ شاردییەوە.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "و سکی گرت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ئەو ژنە"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێک"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "و بینییەتی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "ئەو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "و شاردییەوە"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "مانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:36:46.120323757Z",
+  "model": "glm-5.3"
+}

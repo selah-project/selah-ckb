@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 2:8",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "پاشا وەڵامی دایەوە و وت: بە دڵنیاییەوە من دەزانم کە ئێوە کات بەدەست دەهێنن، لەبەر ئەوەی دەبینن کە قسەکە لە من بڕاوە.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "وەڵامی دایەوە"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "دڵنیاییەوە"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانم"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "من"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "کات"
+    },
+    {
+      "surface": "אנתון",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "زבנין",
+      "gloss": "بەدەست دەهێنن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "חזיתון",
+      "gloss": "دەبینن"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "بڕاوە"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "قسەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:02:21.978268707Z",
+  "model": "glm-5.3"
+}

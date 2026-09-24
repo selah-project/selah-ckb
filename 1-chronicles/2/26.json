@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ژنێکی دیکەش بۆ یەڕەحمئێل بوو و ناوی عەتەرە بوو، ئەو دایکی ئۆنامە.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێکی"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "بۆ یەڕەحمئێل"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "عەتەرە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ئۆنام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:07.796512413Z",
+  "model": "glm-5.3"
+}

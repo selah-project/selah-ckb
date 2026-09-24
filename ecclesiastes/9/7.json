@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "بڕۆ، نانی خۆت بە شادی بخۆ، و شەرابی خۆت بە دڵێکی باش بخۆرەوە، چونکە ئێلۆهیم پێشتر ⟨את⟩ کردەکانی تۆ پەسند کردووە.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "بخۆ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "بە شادی"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "نانی تۆ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "و بخۆرەوە"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "بە دڵ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "شەرابی تۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پێشتر"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "پەسند کردووە"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کردەکانی تۆ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "کردەکانی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:54.583120771Z",
+  "model": "glm-5.3"
+}

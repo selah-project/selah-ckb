@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "«کێ سادەیە؟ با بگەڕێتەوە ئێرە» — بۆ ئەوەی کە دڵی کەمە، پێی دەڵێت.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "سادە"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "بگەڕێتەوە"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئێرە"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کەم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:53.988883821Z",
+  "model": "glm-5.3"
+}

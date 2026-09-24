@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "یاهوە بە تەنها ئەوی دەبرد، و هیچ خودایەکی بیانی لەگەڵی نەبوو.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "بە تەنها"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "دەبرد"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و هیچ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خودایەکی"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:19.111971586Z",
+  "model": "glm-5.3"
+}

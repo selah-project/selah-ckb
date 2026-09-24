@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "ئەمانەش کوڕەکانی دیشان بوون: حەمدان و ئێشبان و یتران و کران.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانەش"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دیشان"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "حەمدان"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "و ئێشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "و یتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "و کران"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:02.366892153Z",
+  "model": "glm-5.3"
+}

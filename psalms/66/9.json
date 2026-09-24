@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 66,
+  "translation": "ئەوەی نەفەسی ئێمەی لە ژیاندا دانا و نەیهێشت پێی ئێمە بخلیسکێت.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "ئەوەی دانا"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "نەفەسی ئێمە"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "لە ژیاندا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "هێشت"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "بخلیسکێنێت"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "پێی ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:46.116161211Z",
+  "model": "glm-5.3"
+}

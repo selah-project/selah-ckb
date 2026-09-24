@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "دەمی ڕاست حیکمەت دەخوێنێتەوە و زمانی دادپەروەری قسە دەکات.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "دەخوێنێتەوە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "و زمانی"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "قسە دەکات"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەری"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:41.665780092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 120,
+  "translation": "تیرە تیژەکانی جەنگاوەر، لەگەڵ خەڵووزی ڕەتەم.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "تیرەکانی"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جەنگاوەر"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "تیژ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "خەڵووزی"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ڕەتەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:47.023781534Z",
+  "model": "glm-5.3"
+}

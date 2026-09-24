@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ڕەوەکانی ئاشتی بێدەنگ بوون لەبەر سووتانی توڕەیی یاهوە.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "بێدەنگ بوون"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ڕەوەکانی"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "سووتانی"
+    },
+    {
+      "surface": "אף",
+      "gloss": "توڕەیی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:48:17.064350247Z",
+  "model": "glm-5.3"
+}

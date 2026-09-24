@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "هەموو شارەکانی دەشتەکە، و هەموو گیلعاد، و هەموو باشان تا سەلخە و ئەدرەعی — شارەکانی شانشینی عوگ لە باشان.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شارەکانی"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "دەشتەکە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "سەلخە"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "و ئەدرەعی"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شارەکانی"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "شانشینی"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "عوگ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "لە باشان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:34:07.744749687Z",
+  "model": "glm-5.3"
+}

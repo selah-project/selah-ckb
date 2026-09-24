@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 25:54",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ئەگەر بە ئەمانە نەگاڵدرێتەوە، لە ساڵی یۆڤێڵدا دەردەچێت، ئەو و کوڕەکانی لەگەڵ ئەو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "نەگاڵدرێتەوە"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "بە ئەمانە"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و دەردەچێت"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "یۆڤێڵ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:04.932770132Z",
+  "model": "glm-5.3"
+}

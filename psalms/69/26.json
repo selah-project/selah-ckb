@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "با قەڵاکەیان بەتاڵ بێت، لە چادرەکانیاندا با دانەنیشێت کەس.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "قەڵاکەیان"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "بەتاڵ"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "لە چادرەکانیاندا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "با"
+    },
+    {
+      "surface": "یֹשֵׁב",
+      "gloss": "دانەنیشێت کەس"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:46.280096648Z",
+  "model": "glm-5.3"
+}

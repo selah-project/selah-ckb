@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 35:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و بوو لە دەرچوونی گیانی — چونکە مرد — و ناوی نا بێن ئۆنی؛ و باوکی ناوی نا بێنیامین ⟨بۆ ئەو⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "لە دەرچوونی"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بێن"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "ئۆنی"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "و باوکی"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناوی نا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بێنیامین"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:36.138143543Z",
+  "model": "glm-5.3"
+}

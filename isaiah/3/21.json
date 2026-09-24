@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "مۆرەکان و بازنەکانی لووت،",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "مۆرەکان"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "و بازنەکانی"
+    },
+    {
+      "surface": "האף",
+      "gloss": "لووت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:13:40.628137460Z",
+  "model": "glm-5.3"
+}

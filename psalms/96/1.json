@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 96,
+  "translation": "بۆ یاهوە گۆرانییەکی نوێ بخوێننە، بۆ یاهوە بخوێننە، ئەی هەموو زەوی.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "بخوێننە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گۆرانی"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوێ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "بخوێننە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:19.486123981Z",
+  "model": "glm-5.3"
+}

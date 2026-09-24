@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "هەتا ڕۆژ پەلکێنێت و سایەکان هەڵدێن، خۆم دەبەم بۆ چیای مۆڕ و بۆ گردی لوبان.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "پەلکێنێت"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "و هەڵدێن"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "سایەکان"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "دەچم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "המור",
+      "gloss": "مۆڕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "گردی"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "لوبان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:15.811933521Z",
+  "model": "glm-5.3"
+}

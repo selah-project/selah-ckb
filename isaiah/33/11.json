@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "دووکی سکێڵەی وشک، کۆڵەشمێ زاییت؛ ڕۆحی ئێوە ئاگرە، دەتانخوات.",
+  "tokens": [
+    {
+      "surface": "תהرו",
+      "gloss": "دووکی"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "سکێڵەی وشک"
+    },
+    {
+      "surface": "תלדو",
+      "gloss": "زاییت"
+    },
+    {
+      "surface": "קש",
+      "gloss": "کۆڵەشمێ"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ڕۆحی ئێوە"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "دەتانخوات"
+    }
+  ],
+  "timestamp": "2026-09-24T12:22:00.648864688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و ئەوەی کردی لە چاوی یاهوەدا خراپ بوو، بۆیە ئەویشی ⟨את⟩ کوشتی.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "و خراپ بوو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردی"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و کوشتی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئەویش"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "ئۆنان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:18.406717529Z",
+  "model": "glm-5.3"
+}

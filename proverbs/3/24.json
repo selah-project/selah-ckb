@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەگەر ڕۆیتە خەو ناترسێت، و خەوتووی و خەوتت شیرین دەبێت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "تשכב",
+      "gloss": "ڕۆیتە خەو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "ناترسێت"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "و خەوتووی"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "و شیرین دەبێت"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "خەوتت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:25.853135361Z",
+  "model": "glm-5.3"
+}

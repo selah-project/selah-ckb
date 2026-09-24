@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و شلۆمۆ ⟨את⟩ خانووەکەی دروستکرد و تەواویکردەوە.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "و دروستکرد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانووەکە"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانووەکە"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "و تەواویکردەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:48:10.444236165Z",
+  "model": "glm-5.3"
+}

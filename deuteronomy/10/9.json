@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "لەبەر ئەوە بۆ لێڤی بەش و میرات لەگەڵ برایانی نەبوو؛ یاهوە خۆی میراتی ئەوە، وەک یاهوە ئێلۆهیمی تۆ بۆ ئەو فەرموو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "بۆ لێڤی"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "و میرات"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "براکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خۆی"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراتی ئەوە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:40.744624669Z",
+  "model": "glm-5.3"
+}

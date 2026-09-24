@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کاتێک ئۆردوگا بەرەو دوژمنانت دەڕواتە دەرەوە، و خۆت لە هەموو شتێکی خراپ پارێزە",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "دەڕواتە دەرەوە"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ئۆردوگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "دوژمنانت"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "و خۆت پارێزە"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شتێکی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:09.784998638Z",
+  "model": "glm-5.3"
+}

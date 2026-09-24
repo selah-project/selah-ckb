@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 41:49",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و یوسێف دەنکە وەک خۆڵی دەریا زۆر بەدەر کۆکردەوە، هەتا وازی لە ژماردن هێنا، چونکە ژمارەی نییە.",
+  "tokens": [
+    {
+      "surface": "ויצבר",
+      "gloss": "و کۆکردەوە"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "בר",
+      "gloss": "دەنکە"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "خۆڵی"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بەدەر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "تا"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "وازی هێنا"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "لە ژماردن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژمارە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:12.687137094Z",
+  "model": "glm-5.3"
+}

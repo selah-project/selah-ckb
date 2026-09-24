@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "زەویەکەم بینی ⟨את⟩ و ئەوەتا بەتاڵ و پووچەڵە، و بۆ ئاسمانەکان، و ڕووناکییان نییە.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکەم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "بەتاڵ"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "و پووچەڵە"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکان"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ڕووناکییان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:28.831163503Z",
+  "model": "glm-5.3"
+}

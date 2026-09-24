@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "و کوڕەکانی زەڤولون: سێرێد و ئێلۆن و یاحرەلئێل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زەڤولون"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "سێرێد"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "و ئێلۆن"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "و یاحرەلئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:58.325730365Z",
+  "model": "glm-5.3"
+}

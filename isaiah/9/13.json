@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و یاهوە لە ئیسرائیلەوە سەر و کلک بڕی — پەڵمەی خورما و قامیش — لە یەک ڕۆژدا.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "و بڕی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "لە ئیسرائیلەوە"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "و کلک"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "پەڵمەی خورما"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "و قامیش"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:30.204382654Z",
+  "model": "glm-5.3"
+}

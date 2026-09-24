@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "یاهوە ڕووخۆیەکەی بۆ تۆ بگەشێنێت و ڕەحم بە تۆ بکات",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "بگەشێنێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووخۆیەکەی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "و ڕەحم بە تۆ بکات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:39.457969261Z",
+  "model": "glm-5.3"
+}

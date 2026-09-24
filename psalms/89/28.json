@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "هەروەها من دەیکەم بە یەکەمزاو، بەرزترین لە پاشاکانی زەوی.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "یەکەمزاو"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "دەیکەم بە"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "بەرزترین"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "لە پاشاکانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:28.407085327Z",
+  "model": "glm-5.3"
+}

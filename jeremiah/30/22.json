@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ئێوە دەبنە گەلێک بۆ من، و من دەبم بۆ ئێوە بە ئێلۆهیم",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "گەلێک"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "دەبم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بە ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:50:36.685846036Z",
+  "model": "glm-5.3"
+}

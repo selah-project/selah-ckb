@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و کوڕانی نەعەرییە ئەلییۆعێنای و حیزقییە و عەزرێقام — سێ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "نەعەرییە"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "ئەلییۆعێنای"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "و حیزقییە"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "و عەزرێقام"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:59.800928372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "دەمەکەی بە دانایی دەکاتەوە، و تۆراتای حەسەد لەسەر زمانەکەیەتی.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "دەمەکەی"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "دەکاتەوە"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "بە دانایی"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "و تۆراتای"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "زمانەکەیەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:11.661392694Z",
+  "model": "glm-5.3"
+}

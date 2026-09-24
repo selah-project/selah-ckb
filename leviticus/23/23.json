@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و یاهوە قسەی لەگەڵ مۆشە ⟨موسا⟩ کرد و فەرمووی،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:00.351303908Z",
+  "model": "glm-5.3"
+}

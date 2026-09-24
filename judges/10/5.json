@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و یایر ⟨موسا⟩ مرد و لە کامۆنەوە نێژرا.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یایر ⟨موسا⟩"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "و نێژرا"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "لە کامۆنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:08:44.699322471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ئازارئێل و شێلێمیاهو، شێماریاه،",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "ئازارئێل"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "و شێلێمیاهو"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شێماریاه"
+    }
+  ],
+  "timestamp": "2026-09-24T15:13:32.423279112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ئەوەی گوێی خۆی دەخات لە هاوارکاریی لاواز، ئەویش دەهاتە هاوار و وەڵام نادرێتەوە.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "دەخات"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "گوێی خۆی"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "لە هاوارکاریی"
+    },
+    {
+      "surface": "דל",
+      "gloss": "لاواز"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئەویش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "دەهاتە هاوار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "وەڵام درێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:10.669780027Z",
+  "model": "glm-5.3"
+}

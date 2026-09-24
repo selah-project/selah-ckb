@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی یێریحۆ ⟨مۆشە⟩، سێ سەد و چل و پێنج.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یێریحۆ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:11.805215588Z",
+  "model": "glm-5.3"
+}

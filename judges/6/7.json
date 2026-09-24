@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و بوو کە کوڕانی ئیسرائیل فریادیان کرد بۆ لای یاهوە لەسەر هۆکاری میدیان.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "فریادیان کرد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "هۆکاری"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:05:51.247899039Z",
+  "model": "glm-5.3"
+}

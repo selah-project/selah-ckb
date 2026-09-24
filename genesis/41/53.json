@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و حەوت ساڵەکانی سەربەری کە لە زەوی میتسرایمدا بوون تەواو بوون.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "تەواو بوون"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ساڵەکانی"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "سەربەری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:30:51.277850884Z",
+  "model": "glm-5.3"
+}

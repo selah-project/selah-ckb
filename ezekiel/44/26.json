@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "و لە دوای پاکبوونەوەکەی، حەوت ڕۆژ بۆی دەژمێرن.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "و لە دوای"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "پاکبوونەوەکەی"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "دەژمێرن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:25:25.696276775Z",
+  "model": "glm-5.3"
+}

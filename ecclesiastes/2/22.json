@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "چونکە چی دەکەوێتە پاڵ مرۆڤ لە هەموو زەحمەتی و لە تێکۆشانەکانی دڵی، کە خۆی ژێر خۆردا زەحمەت دەکێشێت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "دەکەوێتە پاڵ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بۆ مرۆڤ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "زەحمەتی"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "و لە تێکۆشانەکانی"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "کە خۆی"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زەحمەت دەکێشێت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ژێر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:06.193600925Z",
+  "model": "glm-5.3"
+}

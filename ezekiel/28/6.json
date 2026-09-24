@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "بۆیە بەم شێوەیە ئادۆنای یاهوە فەرمووی: لەبەر ئەوەی ⟨את⟩ دڵی تۆت دانا وەک دڵی ئێلۆهیم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "بۆیە"
+    },
+    {
+      "surface": "כה",
+      "gloss": "بەم شێوەیە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יען",
+      "gloss": "لەبەر ئەوەی"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "دانایت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵی تۆ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دڵی تۆ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "وەک دڵی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:16:38.781099936Z",
+  "model": "glm-5.3"
+}

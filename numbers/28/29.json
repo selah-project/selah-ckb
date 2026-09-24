@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "دەیەک دەیەک بۆ بەرخێکی یەک، بۆ حەوت بەرخەکان.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "دەیەک"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "دەیەک"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "بۆ بەرخێکی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "بۆ حەوت"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "بەرخەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:57.125334086Z",
+  "model": "glm-5.3"
+}

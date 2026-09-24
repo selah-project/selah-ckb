@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "گەورەیی مرۆڤ دەیبەزێنێت، و کەژتی ڕۆح شەرەف دەیهەڵدات.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "گەورەیی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "دەیبەزێنێت"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "و کەژتی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "دەیهەڵدات"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شەرەف"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:42.228523079Z",
+  "model": "glm-5.3"
+}

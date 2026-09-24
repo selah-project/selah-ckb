@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و سڕووگ سی ساڵ ژیا، و ناحۆری ⟨את⟩ بووە بە باوک.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سڕووگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بووە بە باوک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحۆر"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:57.221282443Z",
+  "model": "glm-5.3"
+}

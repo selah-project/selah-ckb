@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "تەمای دڵی پێ بەخشییت، و داواکاری لێوەکانی ڕانەگرت. سێلا.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تەمای"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "پێ بەخشییت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێ"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "و داواکاری"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "ڕانەگرت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سێلا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:25.203529223Z",
+  "model": "glm-5.3"
+}

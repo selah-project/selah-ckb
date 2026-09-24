@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "ساددقی چارەی هەژاران دەناسێت، بەڵام ڕاشا تێگەیشتن نازانێت.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "دەناسێت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ساددق"
+    },
+    {
+      "surface": "דין",
+      "gloss": "چارە"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "هەژاران"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ڕاشا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "דעت",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:42.105866952Z",
+  "model": "glm-5.3"
+}

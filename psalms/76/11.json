@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 76,
+  "translation": "چونکە توڕەیی مرۆڤ ستایشی تۆ دەکات، پاشماوەی توڕەیی دەیبەستیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "توڕەیی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "ستایشی تۆ دەکات"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "پاشماوەی"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "توڕەیی"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "دەیبەستیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:47.258690092Z",
+  "model": "glm-5.3"
+}

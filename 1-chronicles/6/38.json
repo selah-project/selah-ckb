@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "سادۆک کوڕەکەی، ئەحیماعس کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "سادۆک"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ئەحیماعس"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:28.093324649Z",
+  "model": "glm-5.3"
+}

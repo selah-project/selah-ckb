@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 102,
+  "translation": "ماندووکردنی لە ڕێگادا هێزی من، کورتکردنی ڕۆژەکانم.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ماندووکردنی"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگادا"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "هێزی من"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "کورتکردنی"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:21.645997265Z",
+  "model": "glm-5.3"
+}

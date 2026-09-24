@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ییتسحاق باوکی وتی بۆی: تۆ کێیت؟ و وت: من کوڕەکەتم، یەکەم لەدایکبووی تۆ، عیساو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "کوڕەکەتم"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "یەکەم لەدایکبووی تۆ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:48.680152101Z",
+  "model": "glm-5.3"
+}

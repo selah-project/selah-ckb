@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و بێیت لەڤائۆت، و شاروحێن — شارەکان سیانزە، و دیhookەکانیان",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "و بێیت"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "لەڤائۆت"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "و شاروحێن"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شارەکان"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "و دیhookەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:42.382041743Z",
+  "model": "glm-5.3"
+}

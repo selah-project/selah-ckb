@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و هەر خوێنێک نایخۆن لە هەموو دانیشتووەکانتاندا، لە باڵندە و لە ماڵات.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەیخۆن"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "دانیشتووەکانتان"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "بۆ باڵندە"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "و بۆ ماڵات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:35.104291603Z",
+  "model": "glm-5.3"
+}

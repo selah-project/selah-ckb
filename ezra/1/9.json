@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئەمانە ژمارەیانە: خوڵی زێڕ سی، خوڵی زیڤ هەزار، چەقۆی نۆ و بیست",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ژمارەیانە"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "خوڵی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "خوڵی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیڤ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "چەقۆی"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:26.056173963Z",
+  "model": "glm-5.3"
+}

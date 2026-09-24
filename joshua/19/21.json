@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ڕەمەت، و عەین گەنیم، و عەین حەدە، و بەیت پاتسێتس.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "و ڕەمەت"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "و عەین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گەنیم"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "و عەین"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "حەدە"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بەیت"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "پاتسێتس"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:56.595236990Z",
+  "model": "glm-5.3"
+}

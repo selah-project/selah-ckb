@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 72,
+  "translation": "دەترسێن لێت لەگەڵ خۆر و لە پێش مانگ، نەوە نەوەکان.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "دەترسێن لێت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "و لە پێش"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "مانگ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نەوە"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "نەوەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:30.767444492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "numbers 7:86",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کاسکەکانی زێڕ دوو دە، پڕ لە بخوور، دە و دە بۆ کاسکەکە بە شێکەڵی پیرۆز؛ هەموو زێڕی کاسکەکان بیست و سەد شێکەڵ.",
+  "tokens": [
+    {
+      "surface": "כפות",
+      "gloss": "کاسکەکان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخوور"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "הכף",
+      "gloss": "کاسکەکە"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "بە شێکەل"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "کاسکەکان"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "و سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:18:57.404780530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "زەوی بەرهەم بۆ سووراوەت، لە بەدکاریی دانیشتووانی تێیدا",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "بەرهەم"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "بۆ سووراوەت"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "لە بەدکاریی"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:08.269887518Z",
+  "model": "glm-5.3"
+}

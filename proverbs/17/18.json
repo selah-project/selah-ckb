@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "کەسی کەم دڵ دەست دەکاتەوە، و دەبێتە کەفیل لەبەردەم هاوڕێی خۆی.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "کەس"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کەم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "دەکاتەوە"
+    },
+    {
+      "surface": "כף",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "دەبێتە کەفیل"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "بەڵگە"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:40.540287680Z",
+  "model": "glm-5.3"
+}

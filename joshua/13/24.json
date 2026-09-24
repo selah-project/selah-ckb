@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و مۆشە ⟨موسا⟩ بۆ هۆزی گاد، بۆ کوڕەکانی گاد، بۆ خێزانەکانیان دا.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "لמטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕەکانی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "بۆ خێزانەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:58.876515958Z",
+  "model": "glm-5.3"
+}

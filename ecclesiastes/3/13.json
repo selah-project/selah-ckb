@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و هەروەها هەموو مرۆڤ کە دەخوات و دەخواتەوە و چاک دەبینێت لە هەموو ڕۆڵەیەکەیدا، ئەوە بەخششی ئێلۆهیمە.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "و دەخواتەوە"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و دەبینێت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ڕۆڵەیەکەیدا"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "بەخشش"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:06:18.304832302Z",
+  "model": "glm-5.3"
+}

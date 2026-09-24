@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "فێڵ لە دڵی پلانگێڕانی خراپیدا، و بۆ ڕاوێژکارانی ئاشتی شادی ⟨هەیە⟩",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "فێڵ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "لە دڵی"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "پلانگێڕانی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "و بۆ ڕاوێژکارانی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:03.618947319Z",
+  "model": "glm-5.3"
+}

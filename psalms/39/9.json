@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "لە هەموو سەرپێچییەکانم ڕزگارم بکە، نەمکە بە سووکایەتیی نەفام.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "سەرپێچییەکانم"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ڕزگارم بکە"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "سووکایەتیی"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نەفام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "نەمکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:03.656197488Z",
+  "model": "glm-5.3"
+}

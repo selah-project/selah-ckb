@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "نە ئارام بووم، و نە بێدەنگ مایەوە، و نە حەسانم، و شڵەژان هات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "שלותי",
+      "gloss": "ئارام بووم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שקטתי",
+      "gloss": "بێدەنگ مایەوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "נחתי",
+      "gloss": "حەسانم"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "شڵەژان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:28.427994453Z",
+  "model": "glm-5.3"
+}

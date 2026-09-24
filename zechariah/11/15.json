@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و یاهوە پێم فەرموو: «هێشتا خۆت ئامرازی شوانێکی گەمژە وەربگرە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "קח",
+      "gloss": "وەربگرە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ئامراز"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شوانی"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "گەمژە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:05.038137079Z",
+  "model": "glm-5.3"
+}

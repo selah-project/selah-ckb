@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بیستن بکەن و گوێ ڕابگرن، بەرز مەبن، چونکە یاهوە فەرمووی.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بیستن بکەن"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "و گوێ ڕابگرن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "بەرز بن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהوוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:16.177067005Z",
+  "model": "glm-5.3"
+}

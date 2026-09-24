@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "ڕاستی و داد بنکمایەی تەختی تۆیە؛ حەسەد و دروستی لە پێش ڕووت دەڕۆن.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "بنکمایە"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تەختی تۆ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "و دروستی"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "لە پێش دەڕۆن"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:07.607577174Z",
+  "model": "glm-5.3"
+}

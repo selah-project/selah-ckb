@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و بخارێک لە زەوییەوە بەرز دەبووەوە و ڕووی ⟨את⟩ هەموو خاکەکەی ئاو دا",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "و بخار"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بەرز دەبووەوە"
+    },
+    {
+      "surface": "مן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "و ئاو دا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ڕوو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "فני",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "خاک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:29.345300966Z",
+  "model": "glm-5.3"
+}

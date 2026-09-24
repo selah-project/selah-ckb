@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "وەک زانیاریی ئێوە منیش دەزانم؛ لە ئێوە کەمتر نیم.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "وەک زانیاریی ئێوە"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دەزانم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "کەمترە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "لە ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:57.576180778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و گەمژە قسە زیاد دەکات — مرۆڤ نازانیت چی دەبێت و ئەوەی دوای خۆی دەبێت، کێ پێی دەڵێت؟",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "و گەمژە"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "زیاد دەکات"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "قسە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و ئەوەی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "دوای خۆی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:45.647093395Z",
+  "model": "glm-5.3"
+}

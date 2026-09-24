@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 132,
+  "translation": "لەبەر داود خزمەتکاری تۆ ڕووی ماشیاحی تۆ مەگەڕێنەوە.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خزمەتکاری تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "بگەڕێنەوە"
+    },
+    {
+      "surface": "فני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ماشیاحی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:50.217777413Z",
+  "model": "glm-5.3"
+}

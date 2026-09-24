@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و زۆتر لەوانەش، کوڕم، ئاگادار بە: کردنی کتێبی زۆر کۆتایی نییە، و قسەی زۆر ماندووکردنی جەستەیە.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "و زۆتر"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "لەوانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "ئاگادار بە"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کردنی"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "کتێبەکان"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "کۆتایی"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "و قسەی"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ماندووکردن"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جەستە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:48.228735718Z",
+  "model": "glm-5.3"
+}

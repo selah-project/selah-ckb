@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و هەموو پیرانی ئیسرائیل هاتن، و لاوییەکان ⟨את⟩ سندوقەکە هەڵگرتن.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "و هاتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پیرانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "و هەڵگرتن"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوییەکان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندوقەکە"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "سندوقەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:34:34.737347007Z",
+  "model": "glm-5.3"
+}

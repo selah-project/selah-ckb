@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "بینیامین، مالووخ، شەمەریا.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "مالووخ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شەمەریا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:13:22.542807758Z",
+  "model": "glm-5.3"
+}

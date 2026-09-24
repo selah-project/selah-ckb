@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "لە یەک خانوودا دەخورێت؛ لە گۆشتی لە خانووەکەوە دەری مەهێنە دەرەوە، و ئێسکێک لەوی مەشکێنە.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "لە خانوو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخورێت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "دەری مەهێنە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانووەکەوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گۆشتی"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "دەرەوە"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "و ئێسکێک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "مەشکێنە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:42:02.068944034Z",
+  "model": "glm-5.3"
+}

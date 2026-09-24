@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و بە زانیاری ژوورەکان پڕ دەبن بە هەموو سامانێکی بەنرخ و خۆش.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "و بە زانیاری"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "ژوورەکان"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "پڕ دەبن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הון",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "بەنرخ"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "و خۆش"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:53.279712180Z",
+  "model": "glm-5.3"
+}

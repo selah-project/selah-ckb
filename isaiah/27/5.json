@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "یان بە قووەتم بگرێتەوە، ئاشتی بۆ من بکات؛ ئاشتی بۆ من بکات.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "بگرێتەوە"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "بە قووەتم"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بکات"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بکات"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:39.652224036Z",
+  "model": "glm-5.3"
+}

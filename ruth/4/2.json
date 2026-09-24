@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و دە پیاوی لە پیرانی شارەکە هێنا و فەرمووی: لێرە دانیشن، و دانیشتن.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و هێنا"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "لە پیرانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "دانیشن"
+    },
+    {
+      "surface": "פה",
+      "gloss": "لێرە"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "و دانیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:51:34.302666453Z",
+  "model": "glm-5.3"
+}

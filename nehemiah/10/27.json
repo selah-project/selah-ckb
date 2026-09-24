@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و ئەخییا، حەنان، عەنان",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "و ئەخییا"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حەنان"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "عەنان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:27.498000329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و پێم فەرموو ئەی کوڕی ئادەم بڕۆ بچۆ بۆ ماڵی یسرائیل و بە وشەکانم قسەیان لەگەڵ بکە",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و پێم فەرموو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "بچۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "و قسە بکە"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "بە وشەکانم"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لەگەڵ ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:06:25.566210435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ترسی خراپەکار ئەوەیە دێتە سەری و دڵخوازی دادپەروەران دەدرێت",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپەکار"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "دێتە سەری"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "و دڵخوازی"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "دادپەروەران"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:12.210252681Z",
+  "model": "glm-5.3"
+}

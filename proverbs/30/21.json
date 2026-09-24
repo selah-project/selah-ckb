@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "لەژێر سێ ⟨شت⟩ زەوی دەلەرزێت، و لەژێر چوار ناتوانێت هەڵبگرێت —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "دەلەرزێت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "و لەژێر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "دەتوانێت"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "هەڵبگرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:30.433312506Z",
+  "model": "glm-5.3"
+}

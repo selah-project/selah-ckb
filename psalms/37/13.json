@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "ئادۆنای پێی دەکەنێت، چونکا دەیبینێت کە ڕۆژەکەی دێت.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "پێی دەکەنێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکا"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دەیبینێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ڕۆژەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:23.671416200Z",
+  "model": "glm-5.3"
+}

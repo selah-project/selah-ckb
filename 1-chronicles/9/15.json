@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و بەکبەکەر، حەرێش و گالال، و مەتەنیا کوڕی میخا کوڕی زیکری کوڕی ئاساف.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "و بەکبەکەر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "حەرێش"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "و گالال"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "و مەتەنیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زیکری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ئاساف"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:33.107192604Z",
+  "model": "glm-5.3"
+}

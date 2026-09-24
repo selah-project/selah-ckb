@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "بەڵام گۆشت لەگەڵ گیانی خۆی — خوێنی خۆی — نەخۆن.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "لەگەڵ گیانی خۆی"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "خوێنی خۆی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:12.232759515Z",
+  "model": "glm-5.3"
+}

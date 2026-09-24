@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئاڤی عەلبۆن هە عەراڤاتی، عەزماڤێت هە بارحومی.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "ئاڤی"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "عەلبۆن"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "عەراڤاتی"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "عەزماڤێت"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "بارحومی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:00.428142870Z",
+  "model": "glm-5.3"
+}

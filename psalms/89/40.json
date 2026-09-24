@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "پەیمانی خزمەتکاریت پێشێن کرد، نەزری بۆ زەوی پیس کرد.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "پێشێن کرد"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پەیمانی"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خزمەتکاریت"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "پیس کرد"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "بۆ زەوی"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "نەزری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:34.013975465Z",
+  "model": "glm-5.3"
+}

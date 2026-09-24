@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و یاهوە قسەی لەگەڵ مۆشە کرد و فەرموو",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:17.259674080Z",
+  "model": "glm-5.3"
+}

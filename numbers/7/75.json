@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "گۆزەیەک، بەرخێکی مەڕ، بەرخێکی گوێدرێژ، بەرخێکی ساڵی، بۆ قوربانیی سووتاندن.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "گۆزەیەک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بەرخێکی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "بەرخێکی گوێدرێژ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بەرخێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بەرخێکی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "بۆ قوربانیی سووتاندن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:46.589318701Z",
+  "model": "glm-5.3"
+}

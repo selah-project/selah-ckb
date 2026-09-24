@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "هەیە خراپییەکی نەخۆش کە لەژێر خۆردا بینیمەوە: سامانێکی پارێزراو بۆ زیانی خاوەنی.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "نەخۆش"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیمەوە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ژێر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "پارێزراو"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "بۆ خاوەنی"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "بۆ زیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:02.031386013Z",
+  "model": "glm-5.3"
+}

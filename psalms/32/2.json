@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "خۆشحاڵە ئەو مرۆڤەی یاهوە تاوانی بۆی ژماری ناکات، و لە ڕۆحیدا فێڵی نییە.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خۆشحاڵە"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئەو مرۆڤەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ژماری دەکات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "עון",
+      "gloss": "تاوانی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "لە ڕۆحیدا"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "فێڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:21.055335430Z",
+  "model": "glm-5.3"
+}

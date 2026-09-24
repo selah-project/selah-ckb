@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ڕوویدا دوای تاعوونەکە",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ڕوویدا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "تاعوونەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:23.191194618Z",
+  "model": "glm-5.3"
+}

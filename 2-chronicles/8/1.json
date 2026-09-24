@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و بوو لە کۆتایی بیست ساڵ کە شلۆمۆ ⟨את⟩ ماڵی یاهوە و ⟨את⟩ ماڵی خۆی دروستکرد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "دروستکرد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڵی یاهوە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ماڵی خۆی"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ماڵی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:50.818447251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و کێلوب برای شوخە ⟨את⟩ مەحیری بووە کوڕ؛ ئەو باوکی ئەشتۆنە.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "و کێلوب"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "شوخە"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بووە کوڕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەحیر"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "مەحیر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "ئەشتۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:45.184126750Z",
+  "model": "glm-5.3"
+}

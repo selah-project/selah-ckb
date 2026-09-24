@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "چەندەک بە دادپەروەری باشترە لە زۆری بەرهەم بێ داد.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "چەندەک"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "بە دادپەروەری"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "لە زۆری"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "بەرهەم"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:21.807398892Z",
+  "model": "glm-5.3"
+}

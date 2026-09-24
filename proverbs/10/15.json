@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "سامانی دەوڵەمەند قەڵای هێزییەتی و ڕووخانی هەژاران هەژارییانە",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "سامانی"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "دەوڵەمەند"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قەڵای"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "هێزی"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "ڕووخانی"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "هەژاران"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "هەژارییانە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:11.499298794Z",
+  "model": "glm-5.3"
+}

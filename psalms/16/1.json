@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "میختەمێک بۆ داود. پارێزم بم ئەی ئێل، چونکە من پەناهەڵگرتم بە تۆ.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "میختەمێک"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "پارێزم بم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەی ئێل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پەناهەڵگرتم"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بە تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:11.987014905Z",
+  "model": "glm-5.3"
+}

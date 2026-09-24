@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و یاكیم و زیخری و زاڤدی.",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "و یاكیم"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "و زیخری"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "و زاڤدی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:16.536257714Z",
+  "model": "glm-5.3"
+}

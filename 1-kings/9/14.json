@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و حیرام ⟨ئی⟩ بۆ شا نارد: سەد و بیست تالان زێڕ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و نارد"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بۆ شا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "تالان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:50:27.135088570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئاوەها یاهوە بۆم فەرموو: بڕۆ و پشتماڵەیەکی کەتانی بۆ خۆت بکڕە و لەسەر کەمەرەت بیانە و بە ئاو مەیخە ناو.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ئاوەها"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "و بکڕە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "پشتماڵە"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "کەتانی"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "و بیانە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "کەمەرەت"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "و بە ئاو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "مەیخە ناو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:42.755297806Z",
+  "model": "glm-5.3"
+}

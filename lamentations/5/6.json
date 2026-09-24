@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بۆ میتسرایم ⟨میسڕ⟩ دەستمان دا، بۆ ئەشوور ⟨ئاشوور⟩، بۆ ئەوەی بە نان تێر ببین.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "بۆ میتسرایم"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دامان"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ئەشوور"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "بۆ تێر بوون"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:01.366069252Z",
+  "model": "glm-5.3"
+}

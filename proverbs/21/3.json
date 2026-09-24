@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "کردنی ڕاستی و داد هەڵبژێردراوەیەتی بۆ یاهوە لە قوربانگە.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کردنی"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و داد"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "هەڵبژێردراوەیەتی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "لە قوربانگە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:01.957970338Z",
+  "model": "glm-5.3"
+}

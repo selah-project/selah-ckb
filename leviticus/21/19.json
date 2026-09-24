@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "یان پیاوێک کە شکانی پێ یان شکانی دەستی ⟨لە⟩دایە.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دایە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکانی"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پێ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکانی"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:26.468873298Z",
+  "model": "glm-5.3"
+}

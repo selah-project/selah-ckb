@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 9:14",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "بدە پێیان یاهوە — چ دەدەی پێیان؟ بدە پێیان زگێکی لەدەستدەر و مەمکەکی وشک.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دەدەی"
+    },
+    {
+      "surface": "תן",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "زگ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "لەدەستدەر"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "و مەمکەکی"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "وشک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:29:45.767730828Z",
+  "model": "glm-5.3"
+}

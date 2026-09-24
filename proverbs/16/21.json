@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "بۆ زانای دڵ ⟨یەکێک⟩ بە ئاقڵ ناودەبرێت، و شیرینی لێوەکان فێرکاری زیاد دەکات.",
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "بۆ زانای"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ناودەبرێت"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "ئاقڵ"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "و شیرینی"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لێوەکان"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "زیاد دەکات"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "فێرکاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:55.351604637Z",
+  "model": "glm-5.3"
+}

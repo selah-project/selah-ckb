@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 27:20",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "بۆ کوڕانی ئێفرایم هۆشەع کوڕی عەزەزییاهو؛ بۆ نیوەی هۆزی مەنەششەه یۆئێل کوڕی پەدایاهو.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "هۆشەع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "عەزەزییاهو"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "بۆ نیوەی"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەششەه"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یۆئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "پەدایاهو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:31:28.067188955Z",
+  "model": "glm-5.3"
+}

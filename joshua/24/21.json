@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و گەل فەرموییان بۆ یەهوشوا ⟨موسا⟩: نەخێر، بەڵکو ⟨את⟩ یاهوە دەپەرستین.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموییان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهوشوا ⟨موسا⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "دەپەرستین"
+    }
+  ],
+  "timestamp": "2026-09-24T11:02:41.570765544Z",
+  "model": "glm-5.3"
+}

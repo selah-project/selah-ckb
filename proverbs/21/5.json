@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "بیرۆکەی چالاک تەنها بۆ زیادەوەی، و هەموو پەلەکردنێک تەنها بۆ کەمی.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "بیرۆکەی"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "چالاک"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "لמותר",
+      "gloss": "بۆ زیادەوەی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "پەلەکردنێک"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "بۆ کەمی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:57.911062335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "مەهەرای ⟨نەتوفاتی⟩، حێلێدی کوڕی بەعانای ⟨نەتوفاتی⟩",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "مەهەرای"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "⟨نەتوفاتی⟩"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "حێلێد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "بەعانا"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "⟨نەتوفاتی⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:41.279073831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی چانان، کوڕەکانی گیدێل، کوڕەکانی گەچار،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "چانان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گیدێل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "گەچار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:14.406726340Z",
+  "model": "glm-5.3"
+}

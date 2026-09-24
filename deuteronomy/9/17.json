@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 9:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و گرتم بە دوو لووحەکە، و فڕێمدان لە دوو دەستمەوە، و شکاندنیان بەرچاوی ئێوە.",
+  "tokens": [
+    {
+      "surface": "ואתפש",
+      "gloss": "گرتم"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "بە دوو"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لووحەکە"
+    },
+    {
+      "surface": "ואשלכם",
+      "gloss": "فڕێمدان"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستم"
+    },
+    {
+      "surface": "ואשברם",
+      "gloss": "شکاندنیان"
+    },
+    {
+      "surface": "لעיניכם",
+      "gloss": "بەرچاوی ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:44.111008012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ئێستا بڕۆ، و من لەگەڵ دەمت دەبم، و فێرت دەکەم ئەوەی دەیڵێیت.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "دەبم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دەمت"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "و فێرت دەکەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "دەیڵێیت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:38:44.983854239Z",
+  "model": "glm-5.3"
+}

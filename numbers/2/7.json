@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "هۆزی زەڤولون، و سەرۆکی کوڕانی زەڤولون ئێلیئاڤ کوڕی حێلۆنە.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "هۆز"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زەڤولون"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "و سەرۆک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زەڤولون"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ئێلیئاڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حێلۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:41.293677067Z",
+  "model": "glm-5.3"
+}

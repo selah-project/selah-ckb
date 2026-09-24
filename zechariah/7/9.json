@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 7:9",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "وا فەرموو یاهوەی سەڤائۆت و دەڵێت: دادپەروەریی ڕاستی بڕێنە، و حەسەد و بەزەیی بکەن کەس ⟨את⟩ برای خۆی.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەی"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەریی"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "بڕێنە"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "و حەسەد"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "و بەزەیی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "بکەن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کەس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برای خۆی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:43:13.419992840Z",
+  "model": "glm-5.3"
+}

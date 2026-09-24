@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و من وەک مۆرێکم بۆ ئێفرایم و وەک شێوان بۆ ماڵی یەهودا.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "وەک مۆر"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "بۆ ئێفرایم"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "و وەک شێوان"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بۆ ماڵی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:28:09.208467968Z",
+  "model": "glm-5.3"
+}

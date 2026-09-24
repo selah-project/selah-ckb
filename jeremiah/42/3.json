@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و ⟨با⟩ یاهوە ئێلۆهیمی تۆ بۆمان ڕابگەیەنێت ⟨את⟩ ڕێگەکە کە بە دەیبڕین، و ⟨את⟩ قسەکە کە دەیکەین.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "و ڕابگەیەنێت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕێگەکە"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ڕێگەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "دەیبڕین"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "قسەکە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "دەیکەین"
+    }
+  ],
+  "timestamp": "2026-09-24T12:58:29.210165416Z",
+  "model": "glm-5.3"
+}

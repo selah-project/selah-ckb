@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و ⟨את⟩ پەرشەنداتا و ⟨את⟩ دەلفۆن و ⟨את⟩ ئەسپاتا",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پەرشەنداتا"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "پەرشەنداتا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دەلفۆن"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "دەلفۆن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئەسپاتا"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "ئەسپاتا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:00:49.683359639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و بۆ یوسێف دوو کوڕ لەدایک بوون پێش ئەوەی ساڵی برسێتی بێت، کە ئەسنات کچی پۆتی فێرع کاهینی ئۆن بۆی لەدایک کردن.",
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "و بۆ یوسێف"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "لەدایکبوون"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پێش ئەوەی"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "برسێتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "لەدایک کردن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "ئەسنات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "پۆتی"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "فێرع"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهینی"
+    },
+    {
+      "surface": "און",
+      "gloss": "ئۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:12.687443163Z",
+  "model": "glm-5.3"
+}

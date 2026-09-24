@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "ئاوی فێنک ⟨بۆ⟩ گیانێکی ماندوو، و هەواڵێکی چاک لە زەوێکی دوورەوە.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "فێنک"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ماندوو"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "و هەواڵ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دوور"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:53.853782096Z",
+  "model": "glm-5.3"
+}

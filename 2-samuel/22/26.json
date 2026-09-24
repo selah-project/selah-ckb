@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "لەگەڵ حەسید دەبیتە حەسید، لەگەڵ گەورەی تەواو دەبیتە تەواو.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "حەسید"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "دەبیتە حەسید"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تەواو"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "دەبیتە تەواو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:48.389073444Z",
+  "model": "glm-5.3"
+}

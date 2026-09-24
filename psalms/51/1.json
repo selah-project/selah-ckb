@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "بۆ ڕابەر، مەزموورێکی داود ⟨داوید⟩",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕابەر"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموورێکی"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "دووای داود"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:05.076190044Z",
+  "model": "glm-5.3"
+}

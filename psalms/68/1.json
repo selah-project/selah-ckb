@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 68,
+  "translation": "بۆ سەرپەرشتیار، بۆ داود، مەزموور، گۆرانییەک.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ سەرپەرشتیار"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گۆرانییەک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:00.611009154Z",
+  "model": "glm-5.3"
+}

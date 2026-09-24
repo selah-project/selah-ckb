@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "سوپاسی یاهوە بڵێن، چونکە چاکە، چونکە حەسەدی بۆ هەمیشەیە.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "سوپاس بڵێن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:52.260233595Z",
+  "model": "glm-5.3"
+}

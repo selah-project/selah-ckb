@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و گێدۆر، و ئەخیۆ، و زاخێر",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "و گێدۆر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و ئەخیۆ"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "و زاخێر"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:19.053085946Z",
+  "model": "glm-5.3"
+}

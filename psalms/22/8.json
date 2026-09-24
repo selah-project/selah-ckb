@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "هەموو بینەرانم پێکەنینم لێ دەکەن؛ لێوان دەشێوێنن، سەریان دەجوڵێنن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "بینەرانم"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "پێکەنین دەکەن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لێ"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "دەشێوێنن"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "لێو"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "دەجوڵێنن"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:14.573550005Z",
+  "model": "glm-5.3"
+}

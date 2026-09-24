@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "دانایی لەگەڵ میرات باشە، و زیاترە بۆ بینەرانی خۆر.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "باشە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "میرات"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "و زیاترە"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "بۆ بینەران"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ی خۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:53.386896158Z",
+  "model": "glm-5.3"
+}

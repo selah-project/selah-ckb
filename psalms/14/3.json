@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "هەموو لادراون، پێکەوە گڵاو بوون؛ نییە کردەوەی چاک، نییە تەنانەت یەک.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "סר",
+      "gloss": "لادراون"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "گڵاو بوون"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردەوەی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تەنانەت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:12.923613026Z",
+  "model": "glm-5.3"
+}

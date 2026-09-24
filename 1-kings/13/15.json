@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و پێی فەرموو: وەرە لەگەڵ من ⟨את⟩ بۆ ماڵ، و نان بخۆ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "وەرە"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "لەگەڵ من ⟨את⟩"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "بۆ ماڵ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "و بخۆ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:52:05.834190579Z",
+  "model": "glm-5.3"
+}

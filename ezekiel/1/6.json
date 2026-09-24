@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و چوار ڕوو بۆ یەکێک، و چوار باڵ بۆ یەکێک بۆیان.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "بۆ یەکێک"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "باڵ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "بۆ یەکێک"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:04:01.393541372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "نەوێت کاتێک دەخۆیت و تێر دەبیت، خانووی باشت بۆ خۆت چێ دەکەیت و تێیدا دەژییت،",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "نەوێت کاتێک"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "دەخۆیت"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "و تێر دەبیت"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "و خانوو"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "باش"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "چێ دەکەیت"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "و دەژییت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:33.334578211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و لە کۆتایی چل ڕۆژدا لە گەڕانەوەی زەویەکەوە گەڕانەوەن.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "و گەڕانەوەن"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "گەڕانەوەی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکەوە"
+    },
+    {
+      "surface": "مקץ",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:24.623590481Z",
+  "model": "glm-5.3"
+}

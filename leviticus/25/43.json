@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "بە توندی فەرمانڕەوایی لەسەری مەکە، و لە ئێلۆهیمی تۆ دەترسێیت",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "فەرمانڕەوایی مەکە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "بە توندی"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "و دەترسێیت"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "لە ئێلۆهیمی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:10:59.122340525Z",
+  "model": "glm-5.3"
+}

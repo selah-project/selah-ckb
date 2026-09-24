@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ئاو داواکرد، شیری پێدا؛ لە پیاڵەیەکی گەورەدا پەنیری پێشکەش کرد.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "داواکرد"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "پێدا"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "لە پیاڵەیەکیدا"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "گەورەکان"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "پێشکەشیکرد"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "پەنیر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:05:16.066754846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 73,
+  "translation": "و دەڵێن: چۆن ئێل ⟨ئەو⟩ دەزانێت و ئایا زانیاری لای هەرەبەرز هەیە؟",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "و ئایا هەیە"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "زانیاری"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "لای هەرەبەرز"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:56.573803101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و وشەی یاهوە هاتە لای من بە وتن،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:16:54.038506910Z",
+  "model": "glm-5.3"
+}

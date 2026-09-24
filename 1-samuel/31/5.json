@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "هەڵگرە کەڵەکانی کاتێک بینی کە شائول مردووە، ئەویش کەوتە سەر شمشێرەکەی و لەگەڵ ئەوی مرد.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "هەڵگرە کەڵەکان"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "کەڵەکانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مردووە"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "کەوت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئەویش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "شمشێرەکەی"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵ ئەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:31:07.989519619Z",
+  "model": "glm-5.3"
+}

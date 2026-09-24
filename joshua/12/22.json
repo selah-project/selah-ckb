@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "پادشای قەدێش یەک، پادشای یوکنەعامی لە کەرمێل یەک.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قەدێش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "یوکنەعام"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "لە کەرمێل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:42.989506718Z",
+  "model": "glm-5.3"
+}

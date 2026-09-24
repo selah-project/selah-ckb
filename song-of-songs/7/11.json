@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "من هی دۆزمەندم، و حەزەکەی بۆ منە.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "هی دۆزمەندم"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "و بۆ منە"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "حەزەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:52.146652484Z",
+  "model": "glm-5.3"
+}

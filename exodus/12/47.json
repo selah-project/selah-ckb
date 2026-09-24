@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "هەموو کۆمەڵەی یسرائێل ⟨אתו⟩ دەیکەن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "کۆمەڵەی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائێل"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "دەیکەن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתو⟩",
+      "marks": "پەسەح"
+    }
+  ],
+  "timestamp": "2026-09-24T09:42:02.069175716Z",
+  "model": "glm-5.3"
+}

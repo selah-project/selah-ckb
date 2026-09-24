@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و یاهوە لەسەر سدۆم و لەسەر عەمۆرا گۆگرد و ئاگر باراند، لە ⟨את⟩ یاهوەوە لە ئاسمانەکان.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "باراند"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدۆم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "عەمۆرا"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "گۆگرد"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "و ئاگر"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:25.616098851Z",
+  "model": "glm-5.3"
+}

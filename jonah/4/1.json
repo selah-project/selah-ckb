@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بۆ یۆنا ⟨یونس⟩ دڵتەڕەییێکی گەورە هەڵکەوت و بۆ خۆی تووڕە بوو.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "دڵتەڕەیی هەڵکەوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یۆنا ⟨یونس⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "دڵتەڕەیی"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "و تووڕە بوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:36:48.343352509Z",
+  "model": "glm-5.3"
+}

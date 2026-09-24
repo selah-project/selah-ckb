@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 27:43",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ئێستا کوڕم گوێ لە دەنگم بگرە و هەستە و بۆ خۆت ڕابکە بۆ لای لاڤان برایم حارانە",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "بקלי",
+      "gloss": "لە دەنگم"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "و هەستە"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ڕابکە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاڤان"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برایم"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "حارانە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:50.573438806Z",
+  "model": "glm-5.3"
+}

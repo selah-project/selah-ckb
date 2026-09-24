@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و هاتە لای خەزوورەکەی؛ و وت: کێیت تۆ، کچم؟ و بۆی گێڕایەوە ⟨את⟩ هەموو ئەوەی ئەو پیاوە بۆی کردبوو.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "خەزوورەکەی"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "می",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "کچم"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "و گێڕایەوە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردبوو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ئەو پیاوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:06:41.502862338Z",
+  "model": "glm-5.3"
+}

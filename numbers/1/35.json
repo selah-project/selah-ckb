@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ژماردراوانیان بۆ هۆزی مەناشە سی و دوو هەزار و دوو سەد بوون.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ژماردراوانیان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەناشە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "و دوو سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:16.262354325Z",
+  "model": "glm-5.3"
+}

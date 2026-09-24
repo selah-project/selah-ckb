@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "یاه توندی ڕامئەسپارد، بەڵام بۆ مردن تەسلەم نەکردم.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "توندی"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "ڕامئەسپارد"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "بەڵام بۆ مردن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "تەسلەمم نەکرد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:54.602203904Z",
+  "model": "glm-5.3"
+}

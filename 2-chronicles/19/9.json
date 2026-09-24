@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 19:9",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و فەرمانی کرد لەسەر ئەوان بە وتنی: وەها بکەن لە ترسی یاهوە، بە دڵسۆزی و بە دڵێکی تەواو.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "و فەرمانی کرد"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "لەسەر ئەوان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "وەها"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "بکەن"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "لە ترسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "بە دڵسۆزی"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "و بە دڵ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "تەواو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:39:47.181034638Z",
+  "model": "glm-5.3"
+}

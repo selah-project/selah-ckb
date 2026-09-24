@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئاوایی فەرموو یاهوەی سەڤائۆت: هێشتا گەلان دێن و دانیشتووانی شارە زۆرەکان",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ئاوایی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨کە⟩"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "دێن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "و دانیشتووانی"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شارەکان"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:31.728353544Z",
+  "model": "glm-5.3"
+}

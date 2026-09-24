@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و لەسەری ڕوونک دەنێیت و لەسەری لوبان دەنێیت، پێشکەشکردنە.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "و دەنێیت"
+    },
+    {
+      "surface": "علیها",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "شمن",
+      "gloss": "ڕوونک"
+    },
+    {
+      "surface": "وشمת",
+      "gloss": "و دەنێیت"
+    },
+    {
+      "surface": "علیها",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "لبنة",
+      "gloss": "لوبان"
+    },
+    {
+      "surface": "منحة",
+      "gloss": "پێشکەشکردنە"
+    },
+    {
+      "surface": "هو",
+      "gloss": "⟨ئەوە⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T09:58:53.149471499Z",
+  "model": "glm-5.3"
+}

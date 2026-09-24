@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ڕۆحێک لەسەر ڕووم تێدەپەڕێت، مووی گۆشتم ڕست دەبێت.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "و ڕۆحێک"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووم"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "تێدەپەڕێت"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "ڕست دەبێت"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "مووی"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "گۆشتم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:57.439231806Z",
+  "model": "glm-5.3"
+}

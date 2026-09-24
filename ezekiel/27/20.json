@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "دەدان بازرگانی تۆ بوو بە دۆشەکی فراوان بۆ سواربوون.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "دەدان"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "بازرگانی تۆ بوو"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "بە جلێ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "فراوان"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "بۆ سواربوون"
+    }
+  ],
+  "timestamp": "2026-09-24T13:16:49.599421214Z",
+  "model": "glm-5.3"
+}

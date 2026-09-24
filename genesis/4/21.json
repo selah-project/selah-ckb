@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ناوی برایەکەی یوبال بوو؛ ئەو باوکی هەموو لێدەری چەنگ و عووجاب بوو.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "و ناو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برایەکەی"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یوبال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "لێدەر"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "چەنگ"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "و عووجاب"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:43.081641976Z",
+  "model": "glm-5.3"
+}

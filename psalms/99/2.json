@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 99,
+  "translation": "یاهوە لە زیۆن گەورەیە، و بەرزە ئەو لەسەر هەموو گەلەکان.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "لە زیۆن"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورەیە"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "و بەرزە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:52.879279984Z",
+  "model": "glm-5.3"
+}

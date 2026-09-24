@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ حەزیر، چونکە سیم لەت دەکات ئەوە، و کونبووە کونبووەکەی سیم، و ئەو گیراوە ناهێنێتەوە، پیسە ئەوە بۆ ئێوە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حەزیر"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "حەزیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "لەت دەکات"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "سیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "و کونبووە"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "کونبووەکەی"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "سیم"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گیراوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "دەهێنێتەوە"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیسە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:04.142008144Z",
+  "model": "glm-5.3"
+}

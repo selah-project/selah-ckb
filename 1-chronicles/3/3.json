@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "پێنجەم شەفاتیا، لە ئەڤیتال؛ شەشەم یترەعەم، لە عەگلا ژنی ⟨ئەو⟩.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پێنجەم"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شەفاتیا"
+    },
+    {
+      "surface": "لאביטל",
+      "gloss": "لە ئەڤیتال"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شەشەم"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "یترەعەم"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "لە عەگلا"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنی ⟨ئەو⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:11.435118367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "خاوەنی تووڕەییی سەخت سزای هەڵدەگرێت، چونکە ئەگەر ڕزگاری بکەیت، دیسان زیاد دەکەیت.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "سەخت"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "هەڵدەگرێت"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "سزا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ڕزگاری بکەیت"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "و دیسان"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "زیاد دەکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:39.290775703Z",
+  "model": "glm-5.3"
+}

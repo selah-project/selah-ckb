@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "یاهوە پێوانەی بەشەکەمە و پیاڵەکەم، تۆ گۆڕەکەم ڕادەگرێی.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "پێوانەی"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "بەشەکەم"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "و پیاڵەکەم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ڕادەگرێی"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "گۆڕەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:19.880300504Z",
+  "model": "glm-5.3"
+}

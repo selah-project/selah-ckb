@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 39:17",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "چونکە ئێلۆهیم حیکمەتی لێ لابردووە و پشکی پێ نەداوە لە تێگەیشتن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "השה",
+      "gloss": "لابردووە"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "پشک"
+    },
+    {
+      "surface": "לה",
+      "gloss": "پێ"
+    },
+    {
+      "surface": "בבינה",
+      "gloss": "لە تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:48.865657811Z",
+  "model": "glm-5.3"
+}

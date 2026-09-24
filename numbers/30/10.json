@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و نەزڕی بێوە و دەرکراو، هەموو ئەوەی لەسەر گیانی بەستبێت لەسەری قایم دەبێت.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "و نەزڕی"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بێوە"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "و دەرکراو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "بەستبێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قایم دەبێت"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:25.723457192Z",
+  "model": "glm-5.3"
+}

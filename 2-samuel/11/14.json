@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە بەیانیدا بوو و داود نامەیەکی نووسی بۆ یوئاو و بە دەستی ئوریای ناردی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "لە بەیانیدا"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "نووسی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "نامەیەکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوئاو"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ناردی"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ئوریا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:35:22.294518775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و یۆعێلا و زەبادیا کوڕانی ییرۆحام لە گەدۆر",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "و یۆعێلا"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "و زەبادیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ییرۆحام"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "گەدۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:52.929922471Z",
+  "model": "glm-5.3"
+}

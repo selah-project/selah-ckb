@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "تۆش مەست دەبیت، دەبیتە نادیار، تۆش لە دوای پەناهەندە دەگەڕێیت لە دوژمنەوە.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "تۆش"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "مەست دەبیت"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "دەبیتە"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "نادیار"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تۆش"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "دەگەڕێیت"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "پەناهەندە"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "لە دوژمنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:39:00.876713135Z",
+  "model": "glm-5.3"
+}

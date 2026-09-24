@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و لە مۆئاب ⟨مۆئاب⟩ دادوەران دەکەم، و دەزانن کە من یاهوەم.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "و لە مۆئاب"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "دەکەم"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "دادوەران"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "و دەزانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:14:29.039953695Z",
+  "model": "glm-5.3"
+}

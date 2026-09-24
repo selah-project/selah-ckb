@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 22:28",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "پڕبوونی تۆ و تۆشەی تۆ مەلەوەر بکە، یەکەمزای کوڕەکانت بۆ من بدە.",
+  "tokens": [
+    {
+      "surface": "مלאתך",
+      "gloss": "پڕبوونی تۆ"
+    },
+    {
+      "surface": "ודמעך",
+      "gloss": "و تۆشەی تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "لەوەر بکە"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "یەکەمزای"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "کوڕەکانت"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:40.941457397Z",
+  "model": "glm-5.3"
+}

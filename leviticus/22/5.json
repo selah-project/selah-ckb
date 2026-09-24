@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 22:5",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "یان پیاوێک کە دەست دەکات بە هەر بزۆکێک کە پیس دەکاتیت، یان بە پیاوێک کە پیس دەکاتیت، بۆ هەر پیسییەکی خۆی",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "دەست دەکات"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بە هەر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "بزۆکێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پیس دەکاتیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بە پیاوێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پیس دەکاتیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەر"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "پیسییەکی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:02.398294703Z",
+  "model": "glm-5.3"
+}

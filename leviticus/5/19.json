@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "قوربانیی till ئەوەیە؛ بێگومان بەرامبەر یاهوە till کردووە.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "قوربانیی till"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "تاوانبار"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "تاوانبار"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بەرامبەر یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:44.787019632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بدە کوڕم دڵت بۆ من، و چاوەکانت ڕێگاکانم پەسەند بکەن.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "و چاوەکانت"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێگاکانم"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "پەسەند بکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:29.607006169Z",
+  "model": "glm-5.3"
+}

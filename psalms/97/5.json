@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 97,
+  "translation": "چیاکان وەک موم ئاو بوونەوە لە پێش یاهوە، لە پێش ئادۆنی هەموو زەوی.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "چیاکان"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "موم"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "ئاو بوونەوە"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ئادۆنی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:53.070677434Z",
+  "model": "glm-5.3"
+}

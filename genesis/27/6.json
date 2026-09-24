@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ڕیڤکاه وتى بە یاعقوب کوڕی، بە وتن: ئەوەتا من گوێم گرتووە باوکت ⟨את⟩ دەکات لەگەڵ عیساو برایت، بە وتن:",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "و ڕیڤکاه"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعقوب"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "من گوێم گرتووە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باوکت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برایت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:48:56.569546308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "وازبهێنە، کوڕم، لە بیستنی ڕاهێنان، بۆ سەرلێشێوان لە وشەکانی زانیاری.",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "وازبهێنە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "لە بیستن"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ڕاهێنان"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "بۆ سەرلێشێوان"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "لە وشەکانی"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:54.795229093Z",
+  "model": "glm-5.3"
+}

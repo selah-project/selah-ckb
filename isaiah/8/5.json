@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و یاهوە دیسان قسەی لەگەڵ من کردەوە و فەرمووی:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "و زیاتر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەی کردەوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لەگەڵ من"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیسان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:15:19.951891782Z",
+  "model": "glm-5.3"
+}

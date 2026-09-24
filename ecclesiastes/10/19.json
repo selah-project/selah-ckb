@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "بۆ پێکەنین نان دروست دەکەن و شەڕاب ژیان شاد دەکات و زیو ⟨את⟩ هەموو شت وەڵام دەداتەوە.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "بۆ پێکەنین"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "دروست دەکەن"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شەڕاب"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد دەکات"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "و زیو"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "وەڵام دەداتەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو شت"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هەموو شت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:31.858691465Z",
+  "model": "glm-5.3"
+}

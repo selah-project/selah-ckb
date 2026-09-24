@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و عاتای ناتانی بوورد و ⟨את⟩ ناتان ⟨את⟩ زابادی بوورد.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "و عاتای"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بوورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناتانی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و ناتان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بوورد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زابادی"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زاباد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:08.641115491Z",
+  "model": "glm-5.3"
+}

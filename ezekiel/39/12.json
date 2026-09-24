@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و دەیشارنەوە ماڵی ییسڕائیل بۆ ئەوەی پاک بکات ⟨את⟩ زەویەکە حەوت مانگ.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "و دەیشارنەوە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسڕائیل"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "پاک بکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:21:20.431494393Z",
+  "model": "glm-5.3"
+}

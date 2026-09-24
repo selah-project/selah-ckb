@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "چونکە لەگەڵ تۆ کانیی ژیانە، لە ڕووناکیی تۆدا ڕووناکی دەبینین.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "کانیی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "لە ڕووناکیی تۆدا"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "دەبینین"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ڕووناکی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:16.967773404Z",
+  "model": "glm-5.3"
+}

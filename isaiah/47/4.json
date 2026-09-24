@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "ڕزگارکەرمان — یاهوەی سەڤائۆت ناوی ئەوەیە — پیرۆزی ییسرائێل.",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "ڕزگارکەرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائێل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:30:01.381704096Z",
+  "model": "glm-5.3"
+}

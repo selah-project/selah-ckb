@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "نوێن بە بەیانیاندا، زۆرە ئیمانەتەکەت.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "نوێن"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "بە بەیانیاندا"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "زۆرە"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ئیمانەتەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:54.609863782Z",
+  "model": "glm-5.3"
+}

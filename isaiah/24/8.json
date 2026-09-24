@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "خۆشی دەف وەستا، زەنگی دڵخۆشەکان بڕایەوە، خۆشی چەنگ وەستا.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "وەستا"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خۆشی"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "دەف"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "بڕایەوە"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "زەنگ"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "دڵخۆشەکان"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "وەستا"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خۆشی"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "چەنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:58.454567514Z",
+  "model": "glm-5.3"
+}

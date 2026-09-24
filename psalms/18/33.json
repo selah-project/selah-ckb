@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "ئێل ⟨ئەوەی⟩ بە هێز دەمبەستێت، و ڕێگای منی تەواو کرد.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "دەمبەستێت"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بە هێز"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تەواو"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێگای من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:41.907020048Z",
+  "model": "glm-5.3"
+}

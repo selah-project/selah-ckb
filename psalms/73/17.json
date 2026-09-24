@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 73,
+  "translation": "هەتا هاتمە پیرۆزگاکانی ئێل، ئەوکات کۆتاییەکانیان تێگەیشتم.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "هاتمە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناوی"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "پیرۆزگاکانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "تێگەیشتم"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "کۆتاییەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:03.932801140Z",
+  "model": "glm-5.3"
+}

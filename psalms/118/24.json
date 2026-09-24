@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "ئەمە ڕۆژێکە یاهوە دروستی کردووە، با خۆشحاڵ بین و شاد بین تێیدا.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژێک"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دروستی کردووە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "با خۆشحاڵ بین"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "و شاد بین"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:55.571891131Z",
+  "model": "glm-5.3"
+}

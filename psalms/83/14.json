@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 83,
+  "translation": "ئەی ئێلۆهیمم، ئەوان وەک چەرخێک دابنێ، وەک توڵە لەبەردەم با.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمم"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "دابنیانە"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "وەک چەرخ"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "وەک توڵە"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "با"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:23.621973368Z",
+  "model": "glm-5.3"
+}

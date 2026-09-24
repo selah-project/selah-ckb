@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و دەچێتە ناو شانشینی پاشای باشوور و دەگەڕێتەوە بۆ زەوی خۆی.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "و دەچێتە ژوورەوە"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ناو شانشین"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "باشوور"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "و دەگەڕێتەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "زەویەکەی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:20.320452497Z",
+  "model": "glm-5.3"
+}

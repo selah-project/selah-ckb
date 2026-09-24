@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئۆتسەم شەشەم، داڤید حەوتەم.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ئۆتسەم"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شەشەم"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داڤید"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "حەوتەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:15.864982402Z",
+  "model": "glm-5.3"
+}

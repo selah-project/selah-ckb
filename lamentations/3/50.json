@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "تا یاهوە ڕووەوە دەڕوانێت و دەبینێت لە ئاسمانەکان",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ڕووەوە دەڕوانێت"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و دەبینێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "لە ئاسمانەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:33.985366007Z",
+  "model": "glm-5.3"
+}

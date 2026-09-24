@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "بۆ بیلگە شاموئا، بۆ شمەیە یهۆنەتان",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "بۆ بیلگە"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شاموئا"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "بۆ شمەیە"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یهۆنەتان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:15.748670741Z",
+  "model": "glm-5.3"
+}

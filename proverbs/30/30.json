@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "شێر — توانادار لە ماڵاتدا — و لە ڕووی هیچ شتێک پاشەکشە ناکات.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "شێر"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "توانادار"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "لە ماڵاتدا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پاشەکشە دەکات"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لە ڕووی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:37.632602442Z",
+  "model": "glm-5.3"
+}

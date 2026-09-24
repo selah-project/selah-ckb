@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و مرۆڤ شۆڕ بۆوە و پیاو نزم بۆوە، و چاوی بەرزەکان دەنزمێنەوە.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "و شۆڕ بۆوە"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "و نزم بۆوە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "و چاوی"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "بەرزەکان"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "دەنزمێنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:14:36.251108741Z",
+  "model": "glm-5.3"
+}

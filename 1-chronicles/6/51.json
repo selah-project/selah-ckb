@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 6:51",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و لە خێزانەکانی کوڕانی قیهات بوو؛ شارەکانی سنووریان لە هۆزی ئێفرایم بوون.",
+  "tokens": [
+    {
+      "surface": "וממשפחות",
+      "gloss": "و لە خێزانەکانی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قیهات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شارەکانی"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "سنووریان"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "لە هۆزی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:10.415438170Z",
+  "model": "glm-5.3"
+}

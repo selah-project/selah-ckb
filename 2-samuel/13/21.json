@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و داودای پاشا ⟨את⟩ هەموو ئەو قسانەی بیست و تووڕەییەکی زۆری بۆ هەڵکەوت.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "و پاشا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود ⟨داوود⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەو قسانە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "قسەکان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "سوتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:35:42.678544963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "پاڵپاڵم بگاتە پێش ڕووی تۆ، وەک وتەی تۆ ڕزگارم کە.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "بگاتە"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "پاڵپاڵم"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "پێش ڕووی تۆ"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "وەک وتەی تۆ"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ڕزگارم کە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:56.453258804Z",
+  "model": "glm-5.3"
+}

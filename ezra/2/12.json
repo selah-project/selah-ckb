@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی عەزگاد، هەزار دوو سەد بیست و دوو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عەزگاد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:48.580307711Z",
+  "model": "glm-5.3"
+}

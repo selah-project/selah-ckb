@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 122,
+  "translation": "بۆ خاتری ماڵی یاهوە ئێلۆهیمی ئێمە، چاکیت بۆ دەگەڕێم.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "بۆ خاتری"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیمی ئێمە"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "دەگەڕێم"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:20.996617989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "کاتێک کەمان بوون بە ژمارە، هەندێک کەم، و نامەوان لەویدا،",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "کاتێک بوون"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەمان"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "بە ژمارە"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "هەندێک کەم"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "و نامەوان"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لەویدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:54.836303796Z",
+  "model": "glm-5.3"
+}

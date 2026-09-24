@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی زەتوئا، هەشت سەد چل و پێنج.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زەتوئا"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:12.682890127Z",
+  "model": "glm-5.3"
+}

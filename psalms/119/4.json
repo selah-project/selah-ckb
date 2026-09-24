@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "تۆ فەرمانت دا بە پاراستنی حوکمەکانت بە توندی.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "فەرمانت دا"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "حوکمەکانت"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "بە پاراستنی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بە توندی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:36.564008846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و یاهوە بە منی فەرموو: بۆ خۆت گۆیەکی گەورە بگرە و بە قەڵەمی مرۆڤ لەسەری بنووسە: مەهێر شەلال حەش بەز.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بگرە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "گۆ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "و بنووسە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "بە قەڵەم"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "مەهێر"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "شەلال"
+    },
+    {
+      "surface": "חש",
+      "gloss": "حەش"
+    },
+    {
+      "surface": "בז",
+      "gloss": "بەز"
+    }
+  ],
+  "timestamp": "2026-09-24T12:14:37.140583869Z",
+  "model": "glm-5.3"
+}

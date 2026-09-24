@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 55,
+  "translation": "من بۆ ئێلۆهیم بانگ دەکەم و یاهوە ڕزگارم دەکات.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "بانگ دەکەم"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "ڕزگارم دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:45.782276213Z",
+  "model": "glm-5.3"
+}

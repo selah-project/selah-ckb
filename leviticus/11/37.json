@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەگەر لە ڕۆکەوانیان بکەوێتە سەر هەر تۆوی چێنراو ئەوەی دەچێنرێت، پاکە.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "بکەوێت"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "لە ڕۆکەوانیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تۆو"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "چێنراو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "دەچێنرێت"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:41.572603232Z",
+  "model": "glm-5.3"
+}

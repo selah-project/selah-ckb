@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەوەتا هەموو — چاوم بینیوە، گوێم بیستووە و بۆی تێگەیشتووە.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "بینیوە"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوم"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "بیستووە"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "گوێم"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "و تێگەیشتووە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:57.575915498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و یاهوە ⟨את⟩ دەنگی قسەکانتانی بیست و تووڕە بوو و سوێندی خوارد و وت ⟨کە⟩",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەنگی قسەکانتانی"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "قسەکانتانی"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "و تووڕە بوو"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "و سوێندی خوارد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:34:14.450587762Z",
+  "model": "glm-5.3"
+}

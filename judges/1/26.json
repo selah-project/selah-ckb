@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 1:26",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و پیاوەکە ڕۆیی بۆ زەویی حیتییەکان و شارێکی بنیات نا و ناوی نا لووز ئەوە ناوی ئەوەیە تا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیی"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "پیاوەکە"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "حیتییەکان"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "بنیات نا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ناوی نا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لووز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:04:19.094676511Z",
+  "model": "glm-5.3"
+}

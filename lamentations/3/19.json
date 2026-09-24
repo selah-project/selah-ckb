@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بیربکەوە لە خەستیی من و پەرێشیی من، لە دوڕۆ و زەهرەمە.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "بیربکەوە"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "خەستیی من"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "و پەرێشیی من"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "دوڕۆ"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "و زەهرەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:37.107986434Z",
+  "model": "glm-5.3"
+}

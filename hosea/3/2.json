@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و من ئەوی بۆ خۆم کڕی ب پازدە پارچەی زیو، و حۆمەرێکی جۆ و لێتێخێکی جۆ.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "و کڕیم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "ب پازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "پازدە"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "و حۆمەرێکی"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "جۆ"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "و لێتێخێکی"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "جۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:28:36.923507761Z",
+  "model": "glm-5.3"
+}

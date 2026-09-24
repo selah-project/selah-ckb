@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چاکە بۆ پیاو کە زوڵام لە گەنجێتیدا هەڵبگرێت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "بۆ پیاو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "هەڵبگرێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "زوڵام"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "لە گەنجێتیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:53:14.201075175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 54,
+  "translation": "ئەی ئێلۆهیم، نوێژەکەم بیبیستە، گوێ ڕاگرە بۆ وشەکانی دەمم.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بیبیستە"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "نوێژەکەم"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "گوێ ڕاگرە"
+    },
+    {
+      "surface": "لאמרי",
+      "gloss": "بۆ وشەکانی"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:17.953845143Z",
+  "model": "glm-5.3"
+}

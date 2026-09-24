@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ئەوەتا ژنێک ⟨بۆ⟩ ڕووبەڕووی بوو، جلی زانی، و دڵپارێزی هەڵبژاردوو",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "⟨بۆ⟩ ڕووبەڕووی بوو"
+    },
+    {
+      "surface": "שית",
+      "gloss": "جلی"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "و دڵپارێزی هەڵبژاردوو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:56.538218075Z",
+  "model": "glm-5.3"
+}

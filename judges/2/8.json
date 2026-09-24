@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و یەهۆشواع کوڕی نون، خزمەتکاری یاهوە، مرد، کوڕی سەد و دە ساڵ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهۆشواع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خزمەتکاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "و دە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:03:02.173155648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "خزمەتکارێک کە پادشاهی بکات، و نەفامێک کە بە نان تێربێت —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خزمەتکار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "پادشاهی بکات"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "و نەفام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "تێربێت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:30.433626748Z",
+  "model": "glm-5.3"
+}

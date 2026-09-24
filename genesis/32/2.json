@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و یەعقوب بە ڕێگەی خۆی ڕۆیی و فریشتەکانی ئێلۆهیم بەرکەوتن بەو.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "و یەعقوب"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ڕۆیی"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "بە ڕێگەی خۆی"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "و بەرکەوتن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بەو"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "فریشتەکانی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:24.012743560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "بە چەوریی خۆیان داخراون، دەمیان بە گەورەیی قسە دەکات.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "چەوریی خۆیان"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "داخراون"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "دەمیان"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "قسە دەکات"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "بە گەورەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:43.438259951Z",
+  "model": "glm-5.3"
+}

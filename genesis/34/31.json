@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و وتیان: وەک لەشفرۆشێک ⟨את⟩ خوشکەمان بکات؟",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و وتیان"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "وەک لەشفرۆشێک"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوشکەمان"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "خوشکەمان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:42.410693934Z",
+  "model": "glm-5.3"
+}

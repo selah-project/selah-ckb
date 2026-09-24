@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و منیش چاوێکم بەزەی ناکات و ناخەم دەبەخشم؛ ڕێگایان لەسەر سەری خۆیان دادەنێمەوە.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و منیش"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "بەزەی ناکات"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوێکم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "دەبەخشم"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ڕێگایان"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "لەسەر سەریان"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دادەنێمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:07:14.454755609Z",
+  "model": "glm-5.3"
+}

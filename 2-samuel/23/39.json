@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئورییای حیتییە. هەموو سی و حەوت <زیادکراوەکان>ن.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ئورییای"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حیتییە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و حەوت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:46.615092818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بە هەور داپۆشیوتەوە لای خۆت، لە تێپەڕبوونی نوێژ.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "داپۆشیوتەوە"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "بە هەور"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لای خۆت"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "لە تێپەڕبوونی"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "نوێژ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:32.875059852Z",
+  "model": "glm-5.3"
+}

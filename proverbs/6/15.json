@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "لەبەر ئەوە لەناکاو بەڵاەکەی دێت، لە یەک چرکەدا دەشکێت و چارەسەر نییە.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "لەناکاو"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "بەڵاەکەی"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "لە یەک چرکەدا"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "دەشکێت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "مרפא",
+      "gloss": "چارەسەر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:49.795763338Z",
+  "model": "glm-5.3"
+}

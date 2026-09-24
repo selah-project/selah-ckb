@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 139,
+  "translation": "بە تەواوی ڕق ڕقم لێیان هەڵگرتووە؛ بۆ من بوونە بە دوژمنان.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "تەواوی"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ڕق"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ڕقم لێیان هەڵگرتووە"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "دوژمنان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:51.798149560Z",
+  "model": "glm-5.3"
+}

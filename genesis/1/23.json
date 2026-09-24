@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئێوارە بوو و بەیانی بوو — ڕۆژی پێنجەم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ئێوارە"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "پێنجەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:41.858614370Z",
+  "model": "glm-5.3"
+}

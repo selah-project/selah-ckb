@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "بەڵام من بە پاکەتیم دەڕۆم، ڕزگارم بکە و لێمبخشە",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "بەڵام من"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "بە پاکەتیم"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "دەڕۆم"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ڕزگارم بکە"
+    },
+    {
+      "surface": "וחנنי",
+      "gloss": "و لێمبخشە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:37.814393798Z",
+  "model": "glm-5.3"
+}

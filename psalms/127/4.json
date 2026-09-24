@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 127,
+  "translation": "وەک تیر لە دەستی پاڵەوان، هەر وەها کوڕەکانی گەنجی.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "وەک تیر"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "لە دەست"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "پاڵەوان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وەها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "گەنجی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:54.635859711Z",
+  "model": "glm-5.3"
+}

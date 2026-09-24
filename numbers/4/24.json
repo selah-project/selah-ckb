@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ئەمە کارەی هۆزەکانی گێرشۆنییە، بۆ خزمەتکردن و بۆ هەڵگرتن",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "کارەی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "هۆزەکانی"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "گێرشۆنییە"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "بۆ خزمەتکردن"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "و بۆ هەڵگرتن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:59.883348435Z",
+  "model": "glm-5.3"
+}

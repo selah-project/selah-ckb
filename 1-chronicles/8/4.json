@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و ئەبیشوع، و نەعمان، و ئەحوح.",
+  "tokens": [
+    {
+      "surface": "وאבישוע",
+      "gloss": "و ئەبیشوع"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "و نەعمان"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "و ئەحوح"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:31.489832753Z",
+  "model": "glm-5.3"
+}

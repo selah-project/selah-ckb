@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە دوای ئەو ئێلعەزار کوڕی دۆدۆی ئەحۆحییە؛ ئەو لە نێو سێ گیانیدا.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "و لە دوای ئەو"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئێلعەزار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دۆدۆ"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ئەحۆحی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "لە نێو سێ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "گیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:36.317905657Z",
+  "model": "glm-5.3"
+}

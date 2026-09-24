@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و وشەی یاهوە هات لای من بەڵێن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ڕوویدا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەڵێن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:00.060262988Z",
+  "model": "glm-5.3"
+}

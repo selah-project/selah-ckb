@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "خەو مەخەشە، ئەگینا پەتی دەبیت؛ چاوەکانت بکەرەوە، لە نان تێربە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "خەشە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "خەو"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ئەگینا"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "پەتی دەبیت"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "بکەرەوە"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "چاوەکانت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "تێربە"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:52.427236655Z",
+  "model": "glm-5.3"
+}

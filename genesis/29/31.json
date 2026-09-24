@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و یاهوە بینی کە لێا ⟨لێیا⟩ ڕق لێنراوەیە و سکی کردەوە ⟨את⟩ و ڕاخێل ⟨ڕاچێل⟩ بێژار ⟨بوو⟩",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "ڕق لێنراوەیە"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێا"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "کردەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سکی"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "سکی"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "و ڕاخێل"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "بێژار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:49:34.230036809Z",
+  "model": "glm-5.3"
+}

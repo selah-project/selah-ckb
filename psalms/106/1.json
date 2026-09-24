@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 106,
+  "translation": "ستایشی یاه بکەن، سوپاسی یاهوە بکەن، چونکە چاکە، چونکە بۆ هەمیشەیە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستایشی بکەن"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "سوپاسی بکەن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:48.276599754Z",
+  "model": "glm-5.3"
+}

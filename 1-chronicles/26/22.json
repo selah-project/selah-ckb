@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "کوڕەکانی یەحیئێلی: زێتام و یۆئێل برای ئەو، لەسەر خەزێنەکانی خانووی یاهوە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "یەحیئێلی"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "زێتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "و یۆئێل"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای ئەو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خەزێنەکانی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:31:20.903043617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و بە ⟨את⟩ ئیسرائیل سوکایەتی کرد، و یەهۆناتان کوڕی شیمعە برای داود ⟨ئەوی⟩ کوشت.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "سوکایەتی کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئیسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "کوشتی"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یەهۆناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شیمعە"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:46.885134801Z",
+  "model": "glm-5.3"
+}

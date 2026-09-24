@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و هەروەها من حوکمە ناچاکەکانم بۆیان دانا و دادەکان کە بە بیانووی ئەوان ناژین.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "حوکمەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "و دادەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "دەژین"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "بە بیانووی ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T16:00:48.400538410Z",
+  "model": "glm-5.3"
+}

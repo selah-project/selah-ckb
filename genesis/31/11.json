@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و فریشتەی ئێلۆهیم لە خەودا فەرمووی پێم: ئەی یاعقۆب؛ و وت: ئەوەتا من.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فریشتە"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "لە خەودا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعقۆب"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "هנני",
+      "gloss": "ئەوەتا من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:48.782893256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "چونکە یاهوە ڕێگی ڕاستکاران دەناسێت و ڕێگی خراپکاران دەفەنا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "دەناسێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ڕاستکاران"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "و ڕێگی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپکاران"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "دەفەنا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:35.905741430Z",
+  "model": "glm-5.3"
+}

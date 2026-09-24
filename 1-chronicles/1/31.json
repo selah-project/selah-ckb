@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "یتوور، نافیش و قەدەماهـ. ئەمانە کوڕانی ئیشماعێلن.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "یتوور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نافیش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "و قەدەماهـ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ئیشماعێل"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:13.656018019Z",
+  "model": "glm-5.3"
+}

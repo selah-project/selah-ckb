@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "جوانەکە و نازدارەکە، بێدەنگم کردووە، ئەی کچی سییۆن.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "جوانەکە"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "و نازدارەکە"
+    },
+    {
+      "surface": "דמיתی",
+      "gloss": "بێدەنگم کردووە"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سییۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:40:10.240497997Z",
+  "model": "glm-5.3"
+}

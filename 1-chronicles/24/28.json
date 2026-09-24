@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بۆ مەحلی ئێلعەزار، و کۆڕانی نەبوون بۆ ئەو.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "بۆ مەحلی"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئێلعەزار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:40.376051926Z",
+  "model": "glm-5.3"
+}

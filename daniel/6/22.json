@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئەو کاتە دانیێل لەگەڵ پاشا قسەی کرد: ئەی پاشا، بۆ هەمیشە بژیت.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "ئەو کاتە"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیێل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "قسەی کرد"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "بژیت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:07:39.506839762Z",
+  "model": "glm-5.3"
+}

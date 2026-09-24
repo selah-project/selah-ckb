@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "با بە زەویتدا تێپەڕم — بە ڕێگا، بە ڕێگا دەڕۆم، ناکەمە لای ڕاست و ناکەمە لای چەپ.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "با تێپەڕم"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "بە زەویتدا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "بە ڕێگا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "بە ڕێگا"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "دەڕۆم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "لادەدەم"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "و چەپ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:34:00.500177700Z",
+  "model": "glm-5.3"
+}

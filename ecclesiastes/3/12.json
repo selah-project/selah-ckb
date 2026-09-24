@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "زانیوم کە هیچ چاکی تێدا نییە، مەگەر بۆ شادیکردن و بۆ کردنی چاک لە ژیانی خۆیدا.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "زانیوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "בם",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مەگەر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مەگەر"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "بۆ شادیکردن"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "و بۆ کردن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "لە ژیانی خۆیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:40.330021250Z",
+  "model": "glm-5.3"
+}

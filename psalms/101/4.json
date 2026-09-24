@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 101,
+  "translation": "دڵی قێژاو لە من بڕوانێتە دواوە؛ خراپی ناناسم.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "قێژاو"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "بروانێتە دواوە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نان"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ناسیم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:12.671000156Z",
+  "model": "glm-5.3"
+}

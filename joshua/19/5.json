@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و زیکلەگ، و بێیت هامارکەڤۆت، و حەتسەر سوسەه",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "و زیکلەگ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بێیت"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "هامارکەڤۆت"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "و حەتسەر"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "سوسەه"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:42.381774090Z",
+  "model": "glm-5.3"
+}

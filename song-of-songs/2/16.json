@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "خۆشەویستەکەم هی منە و من هی ئەومە، ئەوەی لە نێو سووسەنەکاندا مەڕەوانە.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "خۆشەویستەکەم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "هی منە"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هی ئەو"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "مەڕەوانە"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "لە نێو سووسەنەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:41.063857105Z",
+  "model": "glm-5.3"
+}

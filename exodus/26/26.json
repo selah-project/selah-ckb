@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 26:26",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و دەیکەیت دارتەڵی شتیم، پێنج دانە بۆ تەختەکانی لای یەکەمی میشکان.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و دەیکەیت"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "دارتەڵ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "داری"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شتیم"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "بۆ تەختەکانی"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "لای"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "میشکان"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:50:40.472500895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و ژنان بۆ خۆی زیاد مەکات، و دڵی لانەچێت، و زیو و زێر زۆر بۆ خۆی زیاد مەکات.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "زیاد مەکات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژنان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "لانەچێت"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "و زیو"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و زێر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "زیاد مەکات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:01.705083646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 17:16",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و لە دەستی ئەو عەماسیا کوڕی زیکری، ئەوەی خۆی بەخشی بۆ یاهوە، و لەگەڵ ئەو دوو سەد هەزار گێڕی هێز.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "עמסיה",
+      "gloss": "عەماسیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زیکری"
+    },
+    {
+      "surface": "המתנדב",
+      "gloss": "ئەوەی خۆی بەخشی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و لەگەڵ ئەو"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "گێڕی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "هێز"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:23.514985251Z",
+  "model": "glm-5.3"
+}

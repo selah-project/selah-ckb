@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "یۆسێف ⟨یوسف⟩ لەسەر ڕووی باوکی کەوت، و لەسەری گریا، و ماچی کرد.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "کەوت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف ⟨یوسف⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "پני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "گریا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ماچی کرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:36:12.804500201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و بۆ هەیکەلەکە و بۆ پیرۆزگا دوو دەرگا بوو.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "بۆ هەیکەلەکە"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "و بۆ پیرۆزگا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:22:57.355732932Z",
+  "model": "glm-5.3"
+}

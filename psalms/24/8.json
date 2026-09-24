@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "کێیە ئەمە، پاشای شکۆ؟ یاهوە بەهێز و جەنگاوەر، یاهوە جەنگاوەری شەڕ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "و جەنگاوەر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جەنگاوەر"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:41.583150244Z",
+  "model": "glm-5.3"
+}

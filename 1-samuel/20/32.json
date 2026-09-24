@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و یەهوناتان ⟨את⟩ شائول باوکی وەڵام دایەوە و پێی وت: بۆچی بکوژرێت؟ چی کردووە؟",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "وەڵام دایەوە"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یەهوناتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شائول"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "بکوژرێت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردووە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:26:01.267708788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 22:24",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و زێڕ لەسەر خۆڵ دابنێ، و لە بەردی چۆماوەکان ئۆفیر.",
+  "tokens": [
+    {
+      "surface": "ושית",
+      "gloss": "و دابنێ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خۆڵ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "ובצור",
+      "gloss": "و لە بەردی"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "چۆماوەکان"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ئۆفیر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:17.192170981Z",
+  "model": "glm-5.3"
+}

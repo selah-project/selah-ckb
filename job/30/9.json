@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 30:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ئێستا من بووم بە گۆرانییان، و دەبم بۆیان بە پەند.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "گۆرانییان"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "و دەبم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "למלה",
+      "gloss": "بە پەند"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:07.891668989Z",
+  "model": "glm-5.3"
+}

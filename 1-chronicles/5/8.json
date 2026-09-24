@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و بەلا کوڕی عەزاز، کوڕی شەما، کوڕی یۆئێل — ئەو لە عەرۆئێر دەژیا، تا نەبوو و بەعل مەئۆن.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "و بەلا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "عەزاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شەما"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یۆئێل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "دەژیا"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "لە عەرۆئێر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نەبوو"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "و بەعل"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مەئۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:12.844555839Z",
+  "model": "glm-5.3"
+}

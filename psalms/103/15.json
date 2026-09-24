@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 103,
+  "translation": "مەردوو — وەک گیاه ڕۆژانی ⟨ن⟩؛ وەک گوڵی کێڵگە هەروا دەگوڵێتەوە.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "مەردوو"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "وەک گیاه"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "وەک گوڵ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کێڵگەکە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەروا"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "دەگوڵێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:00.341680780Z",
+  "model": "glm-5.3"
+}

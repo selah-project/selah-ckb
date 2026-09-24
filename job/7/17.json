@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 7:17",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "مرۆڤ چیکە کە گەورەی دەکەیت و کە دڵی خۆت دەخەیتە سەری؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چیکە"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תגדלנו",
+      "gloss": "گەورەی دەکەیت"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "و کە"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "دەخەیت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵی خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:35.586859006Z",
+  "model": "glm-5.3"
+}

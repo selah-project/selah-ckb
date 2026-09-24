@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕەکانی لێڤی: گەرشۆم، کەهات و مەراری.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گەرشۆم"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "کەهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "و مەراری"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:47.027659102Z",
+  "model": "glm-5.3"
+}

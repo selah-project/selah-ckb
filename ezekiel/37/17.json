@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 37:17",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و ⟨את⟩یان نزیک بکە یەک لە یەک، بۆ تۆ بۆ دارێکی یەک، و دەبن بە یەکان لە دەستت.",
+  "tokens": [
+    {
+      "surface": "וקרב",
+      "gloss": "و نزیک بکە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان",
+      "marks": "یەک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "بۆ دارێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "לאחדים",
+      "gloss": "بە یەکان"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "لە دەستت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:21:36.841782698Z",
+  "model": "glm-5.3"
+}

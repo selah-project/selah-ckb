@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 11:18",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ڕەحەبەعەم ژنێکی بۆ خۆی هێنا: ⟨את⟩ مەحەلەتی کچی یەریمۆتی کوڕی داڤید — ئەبیهایل کچی ئێلیاڤی کوڕی ییشای.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ڕەحەبەعەم"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەحەلەت"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "مەحەلەت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ירימות",
+      "gloss": "یەریمۆت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داڤید"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "ئەبیهایل"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ئێلیاڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ییشای"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:02.648673784Z",
+  "model": "glm-5.3"
+}

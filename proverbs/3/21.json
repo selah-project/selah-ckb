@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "کوڕم، با لە چاوەکانت لانەدەبن، بپارێزە توشییە و هۆشیاری.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با نا"
+    },
+    {
+      "surface": "ילזו",
+      "gloss": "لانەدەبن"
+    },
+    {
+      "surface": "مעיניך",
+      "gloss": "لە چاوەکانت"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "תשיה",
+      "gloss": "توشییە"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "و هۆشیاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:25.852545922Z",
+  "model": "glm-5.3"
+}

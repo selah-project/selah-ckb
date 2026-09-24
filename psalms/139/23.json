@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 139,
+  "translation": "پشکنم، ئەی ئێل، و دڵم بزانە؛ تاقم بکەوە و بیرهاتووەکانم بزانە.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "پشکنم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەی ئێل"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "و بزانە"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "تاقم بکەوە"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "و بزانە"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "بیرهاتووەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:23.017831115Z",
+  "model": "glm-5.3"
+}

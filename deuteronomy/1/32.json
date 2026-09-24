@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و لەم شتەدا ئێوە باوەڕیان نەهێنا بە یاهوە ئێلۆهیمی خۆتان.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "و لەم شتەدا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ئێوە نین"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "باوەڕهێنەر"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمی ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:58.226736195Z",
+  "model": "glm-5.3"
+}

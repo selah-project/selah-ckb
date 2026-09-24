@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و داود لە یەروشالایم ⟨قودس⟩ ژنانی دیکە هێنا و داود کوڕان و کچانی دیکە بوو بە خاوەن.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژنان"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە یەروشالایم"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "بوو بە خاوەن"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:36.040244818Z",
+  "model": "glm-5.3"
+}

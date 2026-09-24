@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بە سوود قەرز نادەیت لە براکەت: سوودی زیو، سوودی خواردن، سوودی هەر شتێک کە بە سوود دەدرێت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "بە سوود قەرز نادەیت"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "لە براکەت"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سوودی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سوودی"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خواردن"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سوودی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شتێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "بە سوود دەدرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:02.084453908Z",
+  "model": "glm-5.3"
+}

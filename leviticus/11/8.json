@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "لە گۆشتیان نانخۆن، و بە لاشەیانیش دەستان لێدانەدەن، پیسن ئەوان بۆ ئێوە.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "لە گۆشتیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەخۆن"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "و بە لاشەیانیش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "دەدەن"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "پیسن"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:04.142145883Z",
+  "model": "glm-5.3"
+}

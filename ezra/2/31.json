@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی عەیلامی دیکە، هەزار دوو سەد پەنجا و چوار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عەیلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چوار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:21.896789265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "یاهوە و زۆری بگەڕێنەوە، ڕوویەکی بەردەوام بگەڕێن.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "بگەڕێنەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "و زۆری"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "بگەڕێن"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕوویەکی"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "بەردەوام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:49.332466441Z",
+  "model": "glm-5.3"
+}

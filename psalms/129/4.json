@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 129,
+  "translation": "یاهوە ڕاستە، پەتەکانی زاڵمانی بڕینەوە.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستە"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "بڕینەوە"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "پەتەکانی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "زاڵمانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:50.334882765Z",
+  "model": "glm-5.3"
+}

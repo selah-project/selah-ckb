@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "خۆشەویستم دەستی لە کونەکەوە خستە ژوورەوە، و ناوەکەم لەسەری لەرزی هەڵکەوت.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "خۆشەویستم"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "خستە ژوورەوە"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "החר",
+      "gloss": "کونەکەوە"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "و ناوەکەم"
+    },
+    {
+      "surface": "המו",
+      "gloss": "لەرزی هەڵکەوت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:17.986642999Z",
+  "model": "glm-5.3"
+}

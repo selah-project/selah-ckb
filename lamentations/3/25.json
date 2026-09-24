@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چاکە یاهوە بۆ چاوەڕوانکەر، بۆ گیانێک کە دەیگەڕێت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "بۆ چاوەڕوانکەر"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "بۆ گیانێک"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "دەیگەڕێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:53:14.200654417Z",
+  "model": "glm-5.3"
+}

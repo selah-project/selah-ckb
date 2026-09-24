@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 22:8",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و گەلانی زۆر بە ئەم شارە تێدەپەڕن و دەڵێن، کەس بۆ هاوڕێکەی: بۆچی یاهوە وەها کردووە بۆ ئەم شارە گەورەکە؟",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "و تێدەپەڕن"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کەس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێکەی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردووە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "وەها"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "بۆ شارەکە"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "گەورەکە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:46:31.821385545Z",
+  "model": "glm-5.3"
+}

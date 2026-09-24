@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "سێ شت هەن کە ⟨هەنگاو⟩ باش دەهێنن، و چوار کە ڕۆیشتنیان جوانە.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "باش دەهێنن"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "هەنگاو"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "جوان دەڕۆن"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ڕۆیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:37.632302379Z",
+  "model": "glm-5.3"
+}

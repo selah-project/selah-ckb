@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 18:4",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و بە ئەوانی وت: وەک ئەمە و وەک ئەمە میکا بۆم کرد، و منی کرێکرد و بۆی بووم بۆ کاهین.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بە ئەوان"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "وەک ئەمە"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "و وەک ئەمە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    },
+    {
+      "surface": "וישכרני",
+      "gloss": "و منی کرێکرد"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "و بووم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "بۆ کاهین"
+    }
+  ],
+  "timestamp": "2026-09-24T11:14:10.872640477Z",
+  "model": "glm-5.3"
+}

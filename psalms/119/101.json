@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "لە هەموو ڕێگایەکی خراپ پێم ڕاگرت، بۆ ئەوەی وشەی تۆ بپارێزم.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "ڕاگرتم"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "بپارێزم"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "وشەی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:07.527966243Z",
+  "model": "glm-5.3"
+}

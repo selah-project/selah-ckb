@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "نزیک بوو لە هەموو خراپیدا بم، لە ناوەندی کۆبوونەوە و ئێڵدا.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "نزیک بوو"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپیدا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "لە ناوەندی"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "کۆبوونەوە"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "و ئێڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:42.673795212Z",
+  "model": "glm-5.3"
+}

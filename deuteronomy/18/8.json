@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "پشک وەک پشک دەخۆن، جیا لە فرۆشتنی ماڵی باوکی، لەسەر خێزانەکانی باوان.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "پشک"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "وەک پشک"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "دەخۆن"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جیا لە"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "فرۆشتنی ماڵی باوکی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "خێزانەکانی باوان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:59.907673419Z",
+  "model": "glm-5.3"
+}

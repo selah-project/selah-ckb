@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "عەدینا کوڕی شیزا ڕئوبێنییەکە، سەری ڕئوبێنییەکان، و لەگەڵی سی کەس بوون",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "عەدینا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "شیزا"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "ڕئوبێنییەکە"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "لראובני",
+      "gloss": "ڕئوبێنییەکان"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "و لەگەڵی"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "سی کەس"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:19.032451310Z",
+  "model": "glm-5.3"
+}

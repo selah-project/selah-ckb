@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "کە بۆ کاتی تەنگەسە، بۆ ڕۆژی شەڕ و جەنگ پاشەکەوتم کردووە",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "پاشەکەوتم کردووە"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "بۆ کاتی"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تەنگەسە"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بۆ ڕۆژی"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "و جەنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:20.065795173Z",
+  "model": "glm-5.3"
+}

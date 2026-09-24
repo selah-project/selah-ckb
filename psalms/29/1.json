@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "سروودی داود. بدەن بە یاهوە ئەی کوڕەکانی ئێلەکان، بدەن بە یاهوە شکۆ و توانا.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "سروود"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "لە داود"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "بدەن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ئێلەکان"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "بدەن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "و توانا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:15.440060559Z",
+  "model": "glm-5.3"
+}

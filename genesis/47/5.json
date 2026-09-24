@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "و فیڕعەون بە یوسێف ⟨یوسف⟩ وتینی بۆ وتن: باوکت و براکانت لای تۆ هاتوون.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتینی"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیڕعەون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف ⟨یوسف⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "و براکانت"
+    },
+    {
+      "surface": "באו",
+      "gloss": "هاتوون"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لای تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:34:12.185218200Z",
+  "model": "glm-5.3"
+}

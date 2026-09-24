@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "تسالمۆن ⟨ئەحۆحی⟩، مەهرای ⟨نەتۆفاتی⟩،",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "تسالمۆن"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "⟨ئەحۆحی⟩"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "مەهرای"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "⟨نەتۆفاتی⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:51.997327355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و بوو باژی یاهوە لە مەڕەکان شەش سەد پێنج و حەفتا",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "باژ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مەڕەکان"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و حەفتا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:00.840423376Z",
+  "model": "glm-5.3"
+}

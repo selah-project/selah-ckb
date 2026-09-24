@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و تێراخ حەفتا ساڵ ژیی و ⟨את⟩ ئاڤرام ⟨את⟩ ناحۆر و ⟨את⟩ هاران بەخوێند.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیی"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تێراخ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "حەفتا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بەخوێند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاڤرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ئاڤرام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحۆر"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحۆر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هاران"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:01.461470326Z",
+  "model": "glm-5.3"
+}

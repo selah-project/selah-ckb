@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەمانە کوڕەکانی لێڤی بوون بە ناوەکانیان: گێرشۆن و کەهات و مێراری.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "بە ناوەکانیان"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گێرشۆن"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "و کەهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "و مێراری"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:48.998436775Z",
+  "model": "glm-5.3"
+}

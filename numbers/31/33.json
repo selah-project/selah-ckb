@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و مەڕوماڵات دوو و حەفتا هەزار،",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "و مەڕوماڵات"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و حەفتا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:55.333062603Z",
+  "model": "glm-5.3"
+}

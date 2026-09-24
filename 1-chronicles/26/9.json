@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و بۆ مەشەلەمیاهو ⟨کوڕان و برایان⟩ کوڕانی چالاکی هەبوون، هەژدە کەس.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "و بۆ مەشەلەمیاهو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "و برایان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "چالاکی"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:26.817536547Z",
+  "model": "glm-5.3"
+}

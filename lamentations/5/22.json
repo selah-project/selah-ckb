@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ئایا چونکە بە تەواوی ڕەتت پێکردووین، توڕەییت لە ئێمە تا زۆرینەی زۆر؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "بە تەواوی"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "ڕەتت پێکردووین"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "توڕەییت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "لە ئێمە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆرینەی زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:54:51.535898041Z",
+  "model": "glm-5.3"
+}

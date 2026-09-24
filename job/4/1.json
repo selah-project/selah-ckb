@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 4:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ئەلیفاز ⟨تێمانی⟩ وەڵامی دایەوە و وتـی:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "وەڵامی دایەوە"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ئەلیفاز"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "⟨تێمانی⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتـی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:34:06.852301106Z",
+  "model": "glm-5.3"
+}

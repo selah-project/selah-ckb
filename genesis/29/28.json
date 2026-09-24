@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "یەعقوب ⟨یاقوب⟩ وا کرد و ئەم هەفتەیەی پڕکردەوە، و ⟨את⟩ راچێل کچەکەی خۆی بە ژنی بۆ دا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب ⟨یاقوب⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "پڕکردەوە"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هەفتەیەک"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راچێل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راچێل"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "کچەکەی خۆی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بە ژنی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:32.837370708Z",
+  "model": "glm-5.3"
+}

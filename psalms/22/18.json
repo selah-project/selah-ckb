@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "دەژمێرم هەموو ئێسکەکانم، ئەوان تەماشا دەکەن، دەیبینن لە من",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "دەژمێرم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ئێسکەکانم"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "تەماشا دەکەن"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "دەیبینن"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:56.354837520Z",
+  "model": "glm-5.3"
+}

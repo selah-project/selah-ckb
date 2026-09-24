@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ژنی کەمەهزمانی دەقیژێنێت، سادەیە و نازانێت چی.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "کەمەهزمانی"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "دەقیژێنێت"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "سادەیە"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:33.137889728Z",
+  "model": "glm-5.3"
+}

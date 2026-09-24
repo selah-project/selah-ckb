@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بۆ مەلکییاهو پێنجەم، بۆ مییامین شەشەم.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "بۆ مەلکییاهو"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پێنجەم"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "بۆ مییامین"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شەشەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:37.115295516Z",
+  "model": "glm-5.3"
+}

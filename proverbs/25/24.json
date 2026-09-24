@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "چاکترە دانیشتن لە گۆشەی سەربان، لە ژنێکی شەڕکەر و ماڵی هاوبەشی.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکترە"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "دانیشتن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "گۆشەی"
+    },
+    {
+      "surface": "גג",
+      "gloss": "سەربان"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "لە ژنێکی"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "شەڕکەر"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و ماڵی"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "هاوبەشی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:02.330542521Z",
+  "model": "glm-5.3"
+}

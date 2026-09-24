@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "ئەگەر لەگەڵ درۆیی ڕۆیشتم، و پێم بۆ فێڵ پەلە کێشا",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ڕۆیشتم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "درۆیی"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "و پەلە کێشا"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فێڵ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پێم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:19.392012267Z",
+  "model": "glm-5.3"
+}

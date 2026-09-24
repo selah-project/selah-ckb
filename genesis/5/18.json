@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و یەرەد شەست و دوو ساڵ و سەد ساڵ ژیی و خەنوخ ⟨את⟩ بوونی هێنا.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژیی"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یەرەد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شەست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "و سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "بوونی هێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خەنوخ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خەنوخ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:32.959039924Z",
+  "model": "glm-5.3"
+}

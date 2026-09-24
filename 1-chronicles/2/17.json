@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئاڤیگەیل ⟨את⟩ ئاماسای لەدایک کرد و باوکی ئاماسا یێتێری ئیشماعیلییە",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "و ئاڤیگەیل"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "لەدایک کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاماسا"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ئاماسا"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "و باوکی"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "ئاماسا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یێتێر"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "ئیشماعیلی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:24.087675426Z",
+  "model": "glm-5.3"
+}

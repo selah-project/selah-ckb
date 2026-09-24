@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "چاوەڕوانیی درێژکێشە نەخۆشیی دڵە، و دەرخواستی هاتوو دارێکی ژیانە.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "چاوەڕوانیی"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "درێژکێشە"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "نەخۆشیی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵە"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "و دارێکی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "دەرخواستی"
+    },
+    {
+      "surface": "באה",
+      "gloss": "هاتوو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:33.841682488Z",
+  "model": "glm-5.3"
+}

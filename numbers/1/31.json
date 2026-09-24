@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 1:31",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ژمارەدراوەکانیان بۆ هۆزی زیڤولون حەوت و پەنجا هەزار و چوار سەد بوو.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ژمارەدراوەکانیان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زیڤولون"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پەنجا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:21.865676114Z",
+  "model": "glm-5.3"
+}

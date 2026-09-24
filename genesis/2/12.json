@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و زێڕی ئەو زەویە باشە، لەوێ بیدلیوم و بەردی شۆهام ⟨هەیە⟩.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "و زێڕی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "بیدلیوم"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و بەردی"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "شۆهام"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:47.367608716Z",
+  "model": "glm-5.3"
+}

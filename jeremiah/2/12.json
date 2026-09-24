@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "سەرسام بن ئەی ئاسمانەکان لەسەر ئەمە، و لەرزن زۆر، بەتاڵ ببن زۆر — زۆری یاهوە.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "سەرسام بن"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمانەکان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "و لەرزن"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "بەتاڵ ببن"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "زۆری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:35:59.979369740Z",
+  "model": "glm-5.3"
+}

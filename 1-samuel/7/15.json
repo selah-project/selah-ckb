@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و شموئیل هەموو ڕۆژانی ژیانی ⟨את⟩ ئیسرائڵی دادوەری کرد.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "و دادوەری کرد"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئیسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ژیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:17:56.172182083Z",
+  "model": "glm-5.3"
+}

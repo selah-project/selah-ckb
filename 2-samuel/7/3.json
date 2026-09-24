@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ناتان بە پاشا وت: هەموو ئەوەی لە دڵتدایە بڕۆ بیکە چونکە یاهوە لەگەڵ تۆیە",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "لە دڵتدایە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بیکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆیە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:33:59.129519236Z",
+  "model": "glm-5.3"
+}

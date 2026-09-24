@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "یەک گای، کەی مالان، یەک بەرخ، یەک بەرخێ بەراز، کوڕی ساڵێکی خۆی، بۆ قوربانیی سووتاندن.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "گای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مالان"
+    },
+    {
+      "surface": "איל",
+      "gloss": "بەرخێ بەراز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بەرخێ بەراز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ساڵێکی خۆی"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "بۆ قوربانیی سووتاندن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:46.756048422Z",
+  "model": "glm-5.3"
+}

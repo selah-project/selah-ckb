@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "نەفرەت لەسەر ئەوەی کۆرەکە لە ڕێگادا سەرلێدەشێنێت، و هەموو گەل دەڵێن ئامین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نەفرەت لەسەر"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "سەرلێدەشێنێت"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کۆر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگادا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:51.337435402Z",
+  "model": "glm-5.3"
+}

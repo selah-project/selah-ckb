@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەمەتسییاهو کوڕی، عەزەرییە کوڕی، یۆتام کوڕی.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "ئەمەتسییاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عەزەرییە"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یۆتام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:53.612360766Z",
+  "model": "glm-5.3"
+}

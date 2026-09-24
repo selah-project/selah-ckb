@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "گیلعاد شاری کرکارانی خراپەیە، بە خوێن شوێنپێ کەوتووە.",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کرکارانی"
+    },
+    {
+      "surface": "און",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "شوێنپێ کەوتووە"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "بە خوێن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:28:00.380767920Z",
+  "model": "glm-5.3"
+}

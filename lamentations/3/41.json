@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "دڵمان هەڵکێشاومان بۆ سەر دەستەکان، بەرەو ئێل لە ئاسمانەکاندا.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "هەڵکێشاومان"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "دڵمان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ سەر"
+    },
+    {
+      "surface": "كפים",
+      "gloss": "دەستەکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "لە ئاسمانەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:32.874310533Z",
+  "model": "glm-5.3"
+}

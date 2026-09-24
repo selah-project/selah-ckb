@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "چونکە ئێوە وتووتانە: یاهوە بۆ ئێمە پێغەمبەران لە بابل هەڵدەستێنێت؛",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "وتووتانە"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "هەڵدەستێنێت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ ئێمە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "پێغەمبەران"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "لە بابل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:52:05.128354453Z",
+  "model": "glm-5.3"
+}

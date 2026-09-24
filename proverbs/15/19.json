@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 15:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ڕێگای کەمتەرخەم وەک بەردەواریی خارە، و ڕێگای ڕاستان هەموار کراوە.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کەمتەرخەم"
+    },
+    {
+      "surface": "כמשכת",
+      "gloss": "وەک بەردەواریی"
+    },
+    {
+      "surface": "חדק",
+      "gloss": "خار"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "و ڕێگای"
+    },
+    {
+      "surface": "ישرים",
+      "gloss": "ڕاستان"
+    },
+    {
+      "surface": "סלلה",
+      "gloss": "هەموار کراوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:28.117852705Z",
+  "model": "glm-5.3"
+}

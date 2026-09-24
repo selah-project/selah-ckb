@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 52,
+  "translation": "و شارەکە کەوتە ژێر گەمارۆوە تا یازدەیەمی ساڵی پادشایی سیدکیاهو ⟨سیدکیا⟩.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "و کەوتە"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ژێر گەمارۆوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یازدەیەمی"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "یازدەیەمی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پادشایی"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "سیدکیاهو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:03:20.218890608Z",
+  "model": "glm-5.3"
+}

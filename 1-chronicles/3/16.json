@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و کوڕەکانی یەهۆیاقیم: یەکۆنیا کوڕەکەی، تسیدقییاهو کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "یەهۆیاقیم"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یەکۆنیا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "تسیدقییاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:56.132191359Z",
+  "model": "glm-5.3"
+}

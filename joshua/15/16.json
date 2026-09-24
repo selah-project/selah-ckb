@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و کالێب وتی: ئەوەی قریەت سەفەر ⟨את⟩ بڵێسێت و بیگرێت، ئەمن ئەکسا کچەکەم بۆ ژنی پێ دەدم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالێب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "بڵێسێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قریەت سەفەر"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریەت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سەفەر"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "و بیگرێت"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "پێ دەدم"
+    },
+    {
+      "surface": "لו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەکسا"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "ئەکسا"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "کچەکەم"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بۆ ژنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:04.472182639Z",
+  "model": "glm-5.3"
+}

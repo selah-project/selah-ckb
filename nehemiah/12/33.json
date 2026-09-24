@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و عەزەریا، عێزرا و مێشوللام،",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "و عەزەریا"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "عێزرا"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "و مێشوللام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:56.242356098Z",
+  "model": "glm-5.3"
+}

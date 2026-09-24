@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ئەڤیمەلێخ سێ ساڵ حوکمی ئیسرائیل کرد",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "حوکمی کرد"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ئەڤیمەلێخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:07:20.875835347Z",
+  "model": "glm-5.3"
+}

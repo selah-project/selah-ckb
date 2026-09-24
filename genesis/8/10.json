@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و چاوەڕێی کرد هێشتا حەوت ڕۆژی دیکە، و دووبارە کبوترەکەی نارد ⟨את⟩ لە کەشتییەکەوە.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "و چاوەרێی کرد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "و دووبارە"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کبوترەکە"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کبوترەکە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کەشتییەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:21.360931155Z",
+  "model": "glm-5.3"
+}

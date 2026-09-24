@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "بە گا و بە گوێدرێژ پێکەوە ناکۆڵیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "دەکۆڵیت"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "بە گا"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "و بە گوێدرێژ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:14.071669754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 4:6",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "بۆ سەر سیۆن ئاڵا هەڵبگرن، هەڵبێن، مەوەستن، چونکە من خراپییەک لە باکوورەوە دەهێنم و شکستێکی گەورە.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "هەڵبگرن"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ئاڵا"
+    },
+    {
+      "surface": "ציונה",
+      "gloss": "بۆ سەر سیۆن"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "هەڵبێن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "وەستن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "دەهێنم"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "لە باکوورەوە"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "و شکست"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:48.724706317Z",
+  "model": "glm-5.3"
+}

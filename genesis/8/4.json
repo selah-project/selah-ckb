@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و کەشتی لە مانگی حەوتەمدا، لە حەڤدەیەم ڕۆژی مانگەکە، لەسەر چیاکانی ئارارات حەوانەوە.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "حەوانەوە"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کەشتی"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "لە مانگ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەم"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "لە حەوت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگەکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "چیاکانی"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ئارارات"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:26.712772533Z",
+  "model": "glm-5.3"
+}

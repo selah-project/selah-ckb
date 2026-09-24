@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و فەرموو: ڕووەکانم دەڕۆن و پشووم پێدەدەم بە تۆ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووەکانم"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "دەڕۆن"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "و پشووم پێدەدەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:54:24.457968356Z",
+  "model": "glm-5.3"
+}

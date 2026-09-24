@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "هەموو دارەکانت و بەرهەمی زەویەکەت مێروولەی باڵدار دەیخواتەوە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "دارەکانت"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "و بەرهەمی"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "زەویەکەت"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "دەیخواتەوە"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "مێروولەی باڵدار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:00.485999144Z",
+  "model": "glm-5.3"
+}

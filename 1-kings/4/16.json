@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "بەعنای کوڕی حوشای لە ئاشیر و لە بەعەلوت.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "بەعنا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حوشای"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "لە ئاشیر"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "و لە بەعەلوت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:44:58.428567200Z",
+  "model": "glm-5.3"
+}

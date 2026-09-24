@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "شۆڕەن و یاخیبووە، لە ماڵەکەیدا لە پێیانی نانیشن",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "شۆڕەن"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "و یاخیبووە"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "لە ماڵەکەیدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "نانیشن"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "پێیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:56.538388432Z",
+  "model": "glm-5.3"
+}

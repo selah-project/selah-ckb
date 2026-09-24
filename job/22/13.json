@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 22:13",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و دەڵێیت: چ ئێل دەزانێت؟ لەناو تاریکیی چڕدا حوکم دەکات؟",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "و دەڵێیت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "הבעד",
+      "gloss": "لەناو"
+    },
+    {
+      "surface": "ערפל",
+      "gloss": "تاریکیی چڕ"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "حوکم دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:40.021276061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "نسلێک ⟨هەیە⟩ لە باوکی خۆی نەفرەت دەکات و ⟨את⟩ دایکی خۆی دوعا بۆ ناکات",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسلێک"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "لە باوکی خۆی"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "نەفرەت دەکات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دایکی خۆی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی خۆی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "دوعا بۆ دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:58.051016386Z",
+  "model": "glm-5.3"
+}

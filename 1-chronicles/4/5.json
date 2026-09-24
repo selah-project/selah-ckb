@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بۆ ئەشحور ⟨ئەشحور⟩ باوکی تەقووع دوو ژن هەبوون: حەلئەه و نەعەرەه.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "و بۆ ئەشحور ⟨ئەشحور⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تەقووع"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هەبوون"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "حەلئەه"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "و نەعەرەه"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:01.065027367Z",
+  "model": "glm-5.3"
+}

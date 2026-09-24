@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و مامی شائول فەرموو: تکایە بۆم بڵێ شموئێل چی بۆتان وت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "مامی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆتان"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T11:20:20.316144553Z",
+  "model": "glm-5.3"
+}

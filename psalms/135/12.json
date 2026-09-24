@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 135,
+  "translation": "و زەوییان بە میرات دا، بە میرات بۆ ئیسرائیل گەلی خۆی.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "زەوییان"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "بە میرات"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "بە میرات"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "بۆ ئیسرائیل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گەلی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:41.305346041Z",
+  "model": "glm-5.3"
+}

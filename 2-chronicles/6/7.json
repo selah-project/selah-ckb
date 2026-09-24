@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئەوە لەگەڵ دڵی داود باوکی بوو ⟨کە⟩ ماڵێک ببنیاتنێت بۆ ناوی یاهوە ئێلۆهیمی یسرائیل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بۆ بنیاتنان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:30.272151387Z",
+  "model": "glm-5.3"
+}

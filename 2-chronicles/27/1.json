@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 27:1",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "کوڕی بیست و پێنج ساڵ یۆتام لە ملكردنیدا، و شازدە ساڵ ملکی کرد لە یەروشەلەم، و ناوی دایکی یەروشا کچی سادۆک بوو.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یۆتام"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "لە ملكردنیدا"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شازدە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملکی کرد"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە یەروشەلەم"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "ירושה",
+      "gloss": "یەروشا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "سادۆک"
+    }
+  ],
+  "timestamp": "2026-09-24T16:08:42.927132866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "چونکە لە کێڵگە پەیدای کردووە، کچە هاوبڕەکراوەکە هاواریکرد و ڕزگارکەرێکی بۆ نەبوو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "لە کێڵگە"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "پەیدای کردووە"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "هاواریکرد"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "کچەکە"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "هاوبڕەکراوەکە"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ڕزگارکەر"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:38.167833944Z",
+  "model": "glm-5.3"
+}

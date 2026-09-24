@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "و ⟨את⟩ هۆزی یەهودا و ⟨את⟩ کێوی سیۆنی هەڵبژارد، ئەوەی کە خۆشویست.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "هەڵبژارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هۆزی یەهودا"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کێوی سیۆن"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کێوی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سیۆن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "خۆشویست"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:29.274794568Z",
+  "model": "glm-5.3"
+}

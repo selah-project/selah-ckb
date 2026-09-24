@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "دەستی لێ مەخەنە ماشیاحەکانم، و پێغەمبەرەکانم زیانمەلێ نەکەن",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مەخەنە"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "دەستی لێ بکەن"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ماشیاحەکانم"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "و پێغەمبەرەکانم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نەکەن"
+    },
+    {
+      "surface": "תרעو",
+      "gloss": "زیان لێ بدەن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:50.374124616Z",
+  "model": "glm-5.3"
+}

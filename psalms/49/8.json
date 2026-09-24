@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "برا کەس ⟨بە هیچ شێوەیەک⟩ ناتوانێت بکڕێت، کەفارەتی بۆ ئێلۆهیم نادات.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "برا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "کڕین"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "دەکڕێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کەس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "نادات"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بۆ ئێلۆهیم"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "کەفارەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:23.877860541Z",
+  "model": "glm-5.3"
+}

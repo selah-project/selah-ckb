@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 9:24",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ئاوەها ڕۆژان دێن، زۆری یاهوە، و سەردانی هەموو خەتەنەکراو لە نەخەتەنیی دەکەم.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئاوەها"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "באים",
+      "gloss": "دێن"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "زۆری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "و سەردانی...دەکەم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מול",
+      "gloss": "خەتەنەکراو"
+    },
+    {
+      "surface": "בערלה",
+      "gloss": "لە نەخەتەنیی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:42:44.564940373Z",
+  "model": "glm-5.3"
+}

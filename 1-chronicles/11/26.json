@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و دڵیرانی لەشکرەکان ئەمانە بوون: عەسائێل برای یوئاب، ئێلحانانی کوڕی دۆدۆی بێت لەحمی.",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "و دڵیرانی"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "لەشکرەکان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ئەمانە بوون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "عەسائێل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوئاب"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "ئێلحانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دۆدۆ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەحمی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:26.909526333Z",
+  "model": "glm-5.3"
+}

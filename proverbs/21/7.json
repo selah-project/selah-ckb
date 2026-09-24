@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "تاڵانی خراپەکاران ڕایدانێت، چونکە ڕەتیان کرد دادپەروەری بکەن.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "تاڵانی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکاران"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "ڕایدانێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ڕەتیان کرد"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بکەن"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:57.911716872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 73,
+  "translation": "لە ماندووییەکەی مرۆڤی مردوودا نییان، و لەگەڵ مرۆڤ نانێدرێن.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "لە ماندووییەکەی"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرۆڤی مردوو"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "نییان"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "نانێدرێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:44.668088354Z",
+  "model": "glm-5.3"
+}

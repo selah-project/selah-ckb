@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 116,
+  "translation": "چونکە گوێی خەمکردۆتە بۆ من، و لە ڕۆژەکانم<dependency>دا بانگ دەکەم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "خەمکردۆتە"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "گوێی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "و لە ڕۆژەکانمدا"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "بانگ دەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:16.247469462Z",
+  "model": "glm-5.3"
+}

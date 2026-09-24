@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ئەو ئاژەڵە گەورانە کە چواریانە، چوار پادشاهن کە لە زەویەوە هەڵدەستن.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "ئاژەڵ"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "پادشاه"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "هەڵدەستن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:07:15.862010805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و لە ڕۆژی حەوتەمدا کۆبوونەوەی پیرۆز بۆ ئێوە دەبێت؛ هەموو کاری خزمەت ناکەن.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەمدا"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "کۆبوونەوە"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خزمەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:42.755072268Z",
+  "model": "glm-5.3"
+}

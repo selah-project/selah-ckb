@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "هاتە سەر بابل دەریاکە، بە زۆری شەپۆلەکانی داپۆشرا",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "هاتە سەر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریاکە"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "بە زۆری"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "شەپۆلەکانی"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "داپۆشرا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:02:37.657744833Z",
+  "model": "glm-5.3"
+}

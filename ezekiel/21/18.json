@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "چونکە تاقیکردنەوەیە، و چی ئەگەر حەتا تەختەش ڕەتکرا، چیتر نەبێت ⟨لێ⟩، وتەی ⟨ئەوەی⟩ ئادۆنای یاهوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "تاقیکردنەوەیە"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حەتا"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "تەختە"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "ڕەتکرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتەی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:13:42.062170492Z",
+  "model": "glm-5.3"
+}

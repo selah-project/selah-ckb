@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "ئایا بۆ باران باوکێک هەیە، یان کێ پارچەکانی شەونمی بووە باوک؟",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ئایا هەیە"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "بۆ باران"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باوکێک"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بووە باوکی"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "پارچەکانی"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شەونم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:38.977469634Z",
+  "model": "glm-5.3"
+}

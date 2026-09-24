@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و هەدەد مرد، و سەملە لە مەشرەقە لە جێی ئەو پاشایەتی کرد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هەدەد"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پاشایەتی کرد"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جێی ئەو"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سەملە"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "لە مەشرەقە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:38.864220939Z",
+  "model": "glm-5.3"
+}

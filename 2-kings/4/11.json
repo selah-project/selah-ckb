@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ڕۆژێک بوو و هاتە ئەوێ و ڕووکردە ژوورە بەرزەکە و خەوتی ئەوێ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژێک"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هاتە"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئەوێ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "و ڕووکردە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "ژوورە بەرزەکە"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "و خەوتی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:58:05.100798581Z",
+  "model": "glm-5.3"
+}

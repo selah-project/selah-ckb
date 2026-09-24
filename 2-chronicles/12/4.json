@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و ⟨את⟩ شارە قەڵابەندییەکانی ئەوانەی هی یەهودا بوون گرت، و هاتە دی یەروشالایم.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "و گرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شارەکان"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شارەکانی"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "قەڵابەندیی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوانەی"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "هی یەهودا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هاتە دی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یەروشالایم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:23.285234269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "ئەی تۆ ماتەمێک هەڵبگرە بۆ شازادانی ئیسرائیل",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ئەی تۆ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "هەڵبگرە"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتەمێک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "شازادانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:11:57.684061159Z",
+  "model": "glm-5.3"
+}

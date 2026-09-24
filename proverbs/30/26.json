@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "شەفانەکان گەلێکی نەبەهێزن، و لە بەردەوە ماڵانیان دادەنێن.",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "شەفانەکان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "و دادەنێن"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "لە بەرد"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "ماڵانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:25.838766926Z",
+  "model": "glm-5.3"
+}

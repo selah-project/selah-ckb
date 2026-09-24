@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئێستا ئەم زەویە ببەشە ⟨את⟩ زەویەکە بە میرات بۆ نۆ هۆز و نیوەی هۆزی مەناشێ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ببەشە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "بە میرات"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "بۆ نۆ"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "هۆز"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیوەی"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "مەناشێ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:57:50.959379819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و وت: تکایە ئەی ئادۆنای، بە دەستی ئەوەی ⟨کە⟩ دەنێریت، بە دڵسۆزییەوە بنێرە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بنێرە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بە دڵسۆزییەوە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "دەنێریت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:37:22.441312641Z",
+  "model": "glm-5.3"
+}

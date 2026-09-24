@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کۆرەکانی ماڵەکەمان سیدرەن، پانێڵەکانمانیش سەروون.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "کۆرەکان"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ماڵەکەمان"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "سیدرەکان"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "پانێڵەکانمان"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "سەروون"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:22.055016070Z",
+  "model": "glm-5.3"
+}

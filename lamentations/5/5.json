@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "لەسەر ملمان ڕاودێنراوین، ماندوو بووین، ئیستراحەت بۆ ئێمە نەکرا.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "ملمان"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "ڕاودێنراوین"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "ماندوو بووین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەکردا"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "ئیستراحەت"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:01.365836103Z",
+  "model": "glm-5.3"
+}

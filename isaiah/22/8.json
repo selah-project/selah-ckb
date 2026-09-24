@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و لادرا ⟨את⟩ داپۆشەری یهودا، و لە ڕۆژی ئەوەدا ڕوانیتە بۆ چەکەکانی ماڵی دارستان.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "و لادرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داپۆشەری یهودا"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "داپۆشەر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "و ڕوانیتە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "چەک"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "היער",
+      "gloss": "دارستان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:19:19.423695025Z",
+  "model": "glm-5.3"
+}

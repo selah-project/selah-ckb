@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "یاهوە لەگەڵ مۆشە ⟨موسا⟩ قسەی کرد و فەرموو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:44.787123215Z",
+  "model": "glm-5.3"
+}

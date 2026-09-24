@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کاسەی زێڕ سی، کاسەی زیڤی دووەم چوار سەد و دە، کەلوپەلی دیکەی هەزار",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "کاسەی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "کاسەی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیڤی"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "و دە"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "کەلوپەلی"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیکەی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:26.056513Z",
+  "model": "glm-5.3"
+}

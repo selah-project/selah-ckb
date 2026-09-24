@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 22:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "گوێت لار بکە و بیبێستەوە وشەکانی زانایان، و دڵت دابنێ بۆ زانینی من.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "لار بکە"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوێت"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "و بیبێستەوە"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "زانایان"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "و دڵت"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "دابنێ"
+    },
+    {
+      "surface": "לדעתי",
+      "gloss": "بۆ زانینی من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:21.394889448Z",
+  "model": "glm-5.3"
+}

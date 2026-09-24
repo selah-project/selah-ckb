@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و مان وەک تۆوی گەزنەرە بوو، و دەرکەوتنی وەک دەرکەوتنی بەدۆلاخ.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "و مان"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "وەک تۆوی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گەزنەرە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "و دەرکەوتنی"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "وەک دەرکەوتنی"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "بەدۆلاخ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:46.420402151Z",
+  "model": "glm-5.3"
+}

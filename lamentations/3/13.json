@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "کوڕەکانی ترکەکەی هێنایە ناو گورچیلەکانم",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "ناو گورچیلەکانم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "ترکەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:52.693901502Z",
+  "model": "glm-5.3"
+}

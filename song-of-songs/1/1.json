@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "گۆرانیی گۆرانیەکان، ئەوەی هی شلۆمۆ ⟨سلێمان⟩یە.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گۆرانیی"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "گۆرانیەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "هی شلۆمۆ ⟨سلێمان⟩یە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:22.354204235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ئێستا ئەی یاهوە، تکایە ⟨את⟩ گیانم لە من هەڵبگر، چونکە مەرگم لە ژیانم باشترە.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "קח",
+      "gloss": "هەڵبگر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیانم"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "مەرگم"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "لە ژیانم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:36:48.343950260Z",
+  "model": "glm-5.3"
+}

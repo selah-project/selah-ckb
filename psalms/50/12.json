@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "ئەگەر برسی بم، بۆ تۆ ناڵێم، چونکە هی منە زەوی و پڕییەتی.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "برسی بم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەڵێم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "هی منە"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "و پڕییەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:30.722042873Z",
+  "model": "glm-5.3"
+}

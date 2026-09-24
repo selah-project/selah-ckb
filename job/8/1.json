@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و بیلداد ⟨شوحییە⟩ وەڵامی دایەوە و وت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و وەڵامی دایەوە"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بیلداد"
+    },
+    {
+      "surface": "השוחی",
+      "gloss": "⟨شوحییە⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:18.597572756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و لەو شەوەدا لەوێ مایەوە و لەوەی لە دەستی هەبوو مینخەیەکی بۆ عیساوی برای هەڵبژارد",
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "مایەوە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "لە شەوێکدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "هەڵبژارد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ئەوەی هاتووە"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "لە دەستی"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مینخە"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "بۆ عیساو"
+    },
+    {
+      "surface": "אחיو",
+      "gloss": "برای"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:05.118441821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و داود ⟨את⟩ یاهوە لە ڕۆژی ئەودا ترسا و وت چۆن سندوقی یاهوە دێتە بۆ لای من؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و ترسا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ لای من"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "سندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:33:59.261030267Z",
+  "model": "glm-5.3"
+}

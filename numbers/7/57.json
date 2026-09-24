@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "یەک گای، کۆرەی گا، یەک قوچاخ، یەک بەرخ، کۆرەی ساڵێک، بۆ قوربانیی سووتاندن.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "گای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کۆرەی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچاخ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کۆرەی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "بۆ قوربانیی سووتاندن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:16:24.722411752Z",
+  "model": "glm-5.3"
+}

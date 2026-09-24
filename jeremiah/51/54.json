@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "دەنگێکی هاوار لە بابل، و شکانێکی گەورە لە خاکی کاشدییەکان.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "هاوار"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "لە بابل"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "و شکانی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە خاکی"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کاشدییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:03:34.336204416Z",
+  "model": "glm-5.3"
+}

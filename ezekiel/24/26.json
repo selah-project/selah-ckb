@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "لەو ڕۆژەدا هەڵاتووەکە دێتە لای تۆ، بۆ ئەوەی گوێکان ببیستنەوە.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "هەڵاتووەکە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لای تۆ"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "بۆ بەگوێکردنەوە"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "گوێکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:14:59.578129377Z",
+  "model": "glm-5.3"
+}

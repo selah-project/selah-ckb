@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "دوورە ئەوەی کە بووە، و قووڵ، قووڵ — کێ دەیدۆزێتەوە؟",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "دوورە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "کە بووە"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "و قووڵ"
+    },
+    {
+      "surface": "عמק",
+      "gloss": "قووڵ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "دەیدۆزێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:40.232676714Z",
+  "model": "glm-5.3"
+}

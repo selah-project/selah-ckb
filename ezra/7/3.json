@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕی ئەمەریا کوڕی عەزەریا کوڕی مەرایۆت",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ئەمەریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عەزەریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مەرایۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:12:16.665223967Z",
+  "model": "glm-5.3"
+}

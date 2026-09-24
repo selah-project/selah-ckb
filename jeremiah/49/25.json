@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "چۆن بەجێنهێڵدرا شاری ستایش، شاری شادیی من!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "بەجێنهێڵدرا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ستایش"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "شادیی من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:01:15.573474656Z",
+  "model": "glm-5.3"
+}

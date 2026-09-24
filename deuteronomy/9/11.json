@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و لە کۆتایی چل ڕۆژ و چل شەودا بوو کە یاهوە ⟨את⟩ دوو لوحەی بەرد — لوحەکانی پەیمان — بە من دا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چل"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دوو لوحەی بەرد"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوحەی"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "لوحەکانی"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "پەیمان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:39:32.197115766Z",
+  "model": "glm-5.3"
+}

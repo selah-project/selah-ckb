@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "هەروەها لەسەر من یاهوە تووڕە بوو بەهۆی ئێوەوە، بە فەرموونەوەی: تۆش لەوێ ناچیتە ژوورەوە.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لەسەر من"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "تووڕە بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "بەهۆی ئێوەوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە فەرموونەوەی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ناچیتە ژوورەوە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:36.772955471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و بۆ پاککردنەوەی ⟨את⟩ ماڵەکە دوو باڵندە و دارى ئەرز و شەنی تۆلعەت و ئەزۆب دەگرێت.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "دەگرێت"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "بۆ پاککردنەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڵەکە"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ماڵەکە"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "باڵندە"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "و دار"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ئەرز"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و شەنی"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "تۆلعەت"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "و ئەزۆب"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:26.528625760Z",
+  "model": "glm-5.3"
+}

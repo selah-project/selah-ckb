@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 108,
+  "translation": "کێ من دەهێنێتە ناو شاری قەڵادار؟ کێ من دەگەیەنێت تا ئەدۆم؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "دەهێنێتە ناو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "قەڵادار"
+    },
+    {
+      "surface": "مי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "دەگەیەنێت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:39.656229881Z",
+  "model": "glm-5.3"
+}

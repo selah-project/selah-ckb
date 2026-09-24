@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "کوڕی سی ساڵ داود بوو لە پاشایبوونیدا؛ چل ساڵ پاشای بوو.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "لە پاشایبوونیدا"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:34:34.361524961Z",
+  "model": "glm-5.3"
+}

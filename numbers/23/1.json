@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 23:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و بیلعام ⟨بالاق⟩ وت: لێرە بۆ من حەوت قوربانگا بدرووستکە و لێرە بۆ من حەوت گا و حەوت بەرخێن ئامادە بکە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "⟨بالاق⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بدرووستکە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "لێرە"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "قوربانگا"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "و ئامادە بکە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "لێرە"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گا"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "بەرخێن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:27:31.156904944Z",
+  "model": "glm-5.3"
+}

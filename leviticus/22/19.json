@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 22:19",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "بۆ ڕەزامەندیتان بێ عەیبێک ⟨بێت⟩ نێرینە لە گا لە مەڕ و لە بزن",
+  "tokens": [
+    {
+      "surface": "לרצנכם",
+      "gloss": "بۆ ڕەزامەندیتان"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بێ عەیب"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێرینە"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "لە گا"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "لە مەڕ"
+    },
+    {
+      "surface": "ובעזים",
+      "gloss": "و لە بزن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:17.260165314Z",
+  "model": "glm-5.3"
+}

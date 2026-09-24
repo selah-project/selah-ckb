@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و گەڕایەوە لای براکانی و وت منداڵەکە نییە و من بۆ کوێوە دەڕۆم.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "گەڕایەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "براکانی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "منداڵەکە"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "بۆ کوێوە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دەڕۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:28:54.394340971Z",
+  "model": "glm-5.3"
+}

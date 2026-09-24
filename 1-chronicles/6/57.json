@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و لە هۆزی ییساخار ⟨את⟩ قەدەش و ⟨את⟩ مەزراکانی و ⟨את⟩ دابرەت و ⟨את⟩ مەزراکانی",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "و لە هۆزی"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییساخار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قەدەش"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قەدەش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەزراکانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دابرەت"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "دابرەت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەزراکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:08.579212314Z",
+  "model": "glm-5.3"
+}

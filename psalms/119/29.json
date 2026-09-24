@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "ڕێگای درۆ لە من لابەرە، و بە تۆرات خۆت لێم بشکێنە.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "لابەرە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "و بە تۆرات خۆت"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "لێم بشکێنە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:40.211099892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "متمانە بە یاهوە بێ و چاکە بکە، لە زەوییدا بژێ و دڵسۆزی بپارێز.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "متمانە بێ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "بژێ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "و بپارێز"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "دڵسۆزی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:27.667702641Z",
+  "model": "glm-5.3"
+}

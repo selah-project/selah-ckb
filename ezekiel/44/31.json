@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "هەموو لاشەی مردوو و دڕدراو، لە باڵندە و لە ماڵات، کاهینەکان نایخۆن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "لاشەی مردوو"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "و دڕدراو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "باڵندە"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "نایخۆن"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهینەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:25:53.422589565Z",
+  "model": "glm-5.3"
+}

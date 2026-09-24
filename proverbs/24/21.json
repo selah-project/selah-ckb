@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "کوڕەکەم، لە یاهوە ⟨את⟩ و لە پاشا بترسە، و لەگەڵ ئاڵۆزەکان تێکەڵ مەبە.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "بترسە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکەم"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و پاشا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "ئاڵۆزەکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "تێکەڵ بە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:47.728001528Z",
+  "model": "glm-5.3"
+}

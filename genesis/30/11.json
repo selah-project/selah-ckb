@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و لێیا وت «بەخت!» و ناوی ⟨את⟩ گاد ⟨گاد⟩ نا.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێیا"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "بەخت"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناوی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد ⟨گاد⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:32.517750090Z",
+  "model": "glm-5.3"
+}

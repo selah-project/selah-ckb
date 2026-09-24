@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و یاهوە قسەی لەگەڵ ئاهارۆن کرد و فەرموو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:41.506328512Z",
+  "model": "glm-5.3"
+}

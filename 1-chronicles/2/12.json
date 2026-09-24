@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و بوعەز عۆبەیدی بەخێو کرد و ⟨את⟩ عۆبەید ⟨את⟩ ییشای بەخێو کرد",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "و بوعەز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عۆبەید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عۆبەید"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "و عۆبەید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ییشای"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ییشای"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:08.982727752Z",
+  "model": "glm-5.3"
+}

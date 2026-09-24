@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و شەقەکانی شارەکە پڕ دەبن لە کوڕان و کچان کە یاری دەکەن لە شەقەکانی.",
+  "tokens": [
+    {
+      "surface": "ורחבות",
+      "gloss": "و شەقاکانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "پڕ دەبن"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "و کچان"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "یاری دەکەن"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "لە شەقاکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:20.881111843Z",
+  "model": "glm-5.3"
+}

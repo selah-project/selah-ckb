@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "ئاسن لە خۆڵەوە دەهێنرێت، و بەرد بە مس دەتوێتەوە.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسن"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "لە خۆڵەوە"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "دەهێنرێت"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و بەرد"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "دەتوێتەوە"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:39.296632581Z",
+  "model": "glm-5.3"
+}

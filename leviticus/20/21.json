@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و مرۆڤێک کە ژنی برای خۆی ⟨את⟩ بگرێت، ئەوە پیساییە؛ عورەتی برای خۆی ئاشکرا کردووە؛ بێ منداڵ دەبن.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و مرۆڤێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگرێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ژنی برای خۆی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای خۆی"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "پیسایی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "عورەتی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای خۆی"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ئاشکرا کردووە"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "بێ منداڵ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:45.159029688Z",
+  "model": "glm-5.3"
+}

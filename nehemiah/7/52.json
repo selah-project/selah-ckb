@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی بێسای، کوڕەکانی مەئونیم، کوڕەکانی نەفوشەسیم،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "بێسای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "مەئونیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "نەفوشەسیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:14.407274709Z",
+  "model": "glm-5.3"
+}

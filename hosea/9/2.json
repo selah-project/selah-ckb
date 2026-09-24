@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "خرمانگ و مەڕەکەرگە نایانخۆمێننن و شەرابی نوێ درۆی لێدەکات.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "خرمانگ"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "مەڕەکەرگە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "نایانخۆمێننن"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "شەرابی نوێ"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "درۆ دەکات"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لەی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:30:32.584756855Z",
+  "model": "glm-5.3"
+}

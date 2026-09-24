@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "کوڕانن ئێوە بۆ یاهوە ئێلۆهیمی خۆتان؛ خۆتان مەبڕن و کەچەڵی نێوان چاوەکانتان بۆ مردوو دابنەن.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمی خۆتان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "خۆتان مەبڕن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "دابنەن"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "کەچەڵی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "نێوان"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "چاوەکانتان"
+    },
+    {
+      "surface": "למת",
+      "gloss": "بۆ مردوو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:16.090445328Z",
+  "model": "glm-5.3"
+}

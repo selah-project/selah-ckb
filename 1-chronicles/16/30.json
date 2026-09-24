@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "بلەرزن لە پێش ڕووی هەموو زەوی؛ هەروەها تێبڵ ڕادەوەستێت، نالەرزێت.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "بلەرزن"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "لە پێش ڕووی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ڕادەوەستێت"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تێبڵ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "لەرزێت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:27:41.279034469Z",
+  "model": "glm-5.3"
+}

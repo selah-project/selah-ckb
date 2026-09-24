@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لەوێ قوربانگایەکی دامەزراند، و ناوی نا ئێل، ئێلۆهیمی یسرائێل.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "و دامەزراند"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قوربانگا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائێل"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:50.323555381Z",
+  "model": "glm-5.3"
+}

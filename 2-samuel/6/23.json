@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و بۆ میکال کچی شائول منداڵێک نەبوو، هەتا ڕۆژی مردنەکەی.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "و بۆ میکال"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "منداڵێک"
+    },
+    {
+      "surface": "عד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "مותה",
+      "gloss": "مردنەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:32:58.691314828Z",
+  "model": "glm-5.3"
+}

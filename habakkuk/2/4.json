@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئەوەتا سووڕاوەتەوە، گیانی لە ناوی ڕاست نییە؛ بەڵام دادپەروەر بە دڵسۆزیی خۆی دەژی.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "سووڕاوەتەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە ناوی"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "و دادپەروەر"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "بە دڵسۆزیی خۆی"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "دەژی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:11.317905720Z",
+  "model": "glm-5.3"
+}

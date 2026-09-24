@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 115,
+  "translation": "یاهوە بۆ ئێوە زیاد دەکات، بۆ ئێوە و بۆ کوڕەکانتان.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "زیاد دەکات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "کوڕەکانتان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:16.053673846Z",
+  "model": "glm-5.3"
+}

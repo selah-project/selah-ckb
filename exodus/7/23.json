@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و فیرعەون پێچایەوە و چووە ناو خانووی خۆی، و دڵی نەخستە ئەمەش بەرچاو.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "و پێچایەوە"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیرعەون"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خانووی خۆی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שת",
+      "gloss": "خست"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ئەمەش بەرچاو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:37:08.960824731Z",
+  "model": "glm-5.3"
+}

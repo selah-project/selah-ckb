@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بەرخەکەی کە تۆت بینی، خاوەنی قۆچەکان، پاشاکانی ماد و پارسن.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "بەرخەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "تۆت بینی"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "خاوەنی"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "قۆچەکان"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاشاکانی"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ماد"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "و پارس"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:56.139379245Z",
+  "model": "glm-5.3"
+}

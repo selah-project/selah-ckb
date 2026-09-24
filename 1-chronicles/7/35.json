@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و کوڕی هێلێم برای ئەو: سۆفاخ، و ییمنا، و شێلێش، و عەمال.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "و کوڕی"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "هێلێم"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای ئەو"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "سۆفاخ"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "و ییمنا"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "و شێلێش"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "و عەمال"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:21.759261702Z",
+  "model": "glm-5.3"
+}

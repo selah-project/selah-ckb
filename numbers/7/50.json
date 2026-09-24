@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کفێکی زێڕین یەک، دە شێکڵ، پڕ لە بووی خۆشبوو،",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کفێکی"
+    },
+    {
+      "surface": "ئاحد",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-24T10:16:27.830047047Z",
+  "model": "glm-5.3"
+}

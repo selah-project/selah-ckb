@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "یاهوە ئێلۆهیم پەڵکەکەی کە لە ئادەمی وەرگرتبوو، بە ژن بنیاتی نا، و ئەوی هێنا بۆ لای ئادەم.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "بنیاتی نا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەڵکەکە"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "پەڵکەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "لקח",
+      "gloss": "وەرگرتبوو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بە ژن"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "و هێنا ئەوی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئادەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:53.264509981Z",
+  "model": "glm-5.3"
+}

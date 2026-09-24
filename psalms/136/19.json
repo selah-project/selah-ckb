@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 136:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "سیحۆنی پادشای ئەمۆرییەکان، چونکە بۆ ئەبەدە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "سیحۆن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ئەمۆرییەکان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ ئەبەد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:15.333902284Z",
+  "model": "glm-5.3"
+}

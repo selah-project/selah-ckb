@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "چونکە دەرگاکانی برۆنزی شکاند و توپڕەکانی ئاسنی بڕی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکاند"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "دەرگاکانی"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "برۆنز"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "و توپڕەکانی"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسن"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "بڕی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:49.096549903Z",
+  "model": "glm-5.3"
+}

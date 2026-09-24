@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "وەکو گرتن بە گوێی سەگ، ئەوەی دەپەڕێت و خۆی توڕە دەکات لەسەر شەڕێک کە هی خۆی نییە.",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "گرتن"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "بە گوێی"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "سەگ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "دەپەڕێت"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "خۆی توڕە دەکات"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "شەڕێک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:19.691765141Z",
+  "model": "glm-5.3"
+}

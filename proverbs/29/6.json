@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "لە تاوانی پیاوێکی خراپدا داوێک ⟨هەیە⟩، و دادپەروەر دەچڕێنێت و دڵخۆشە",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "لە تاوان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "داوێک"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "و دادپەروەر"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "دەچڕێنێت"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "و دڵخۆشە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:40.886678938Z",
+  "model": "glm-5.3"
+}

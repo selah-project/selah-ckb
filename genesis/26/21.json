@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و بیرێکی دیکەیان هەڵکەند و هەم لەسەری شەڕیان کرد و ناوی نا سیتنە ⟨شەڕێنە⟩",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "هەڵکەندیان"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دیكە"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "شەڕیان کرد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەم"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ناویدا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "سیتنە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:21.658011557Z",
+  "model": "glm-5.3"
+}

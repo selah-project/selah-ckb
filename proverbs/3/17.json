@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ڕێگاکانی ڕێگای خۆشی و ڕەنگینە، و هەموو پێڕەکانی شالۆمن.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "ڕێگاکانی"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "خۆشی و ڕەنگینە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "پێڕەکانی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:02.569885682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ژنێک بۆ خۆت مەهێنیت، و کوڕ و کچیش بۆت نابن لەم شوێندا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "مەهێنیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "لە شوێن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمدا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:47.664776941Z",
+  "model": "glm-5.3"
+}

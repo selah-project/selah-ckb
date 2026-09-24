@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "پەیمانەکەم پیس ناکەم و دەرچووی لێوەکانم ناگۆڕم.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "پیس دەکەم"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "پەیمانەکەم"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانم"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "دەگۆڕم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:54.338197553Z",
+  "model": "glm-5.3"
+}

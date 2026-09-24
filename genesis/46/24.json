@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "و کوڕەکانی نەفتالی: یەحتسێل و گونی و یێتسەر و شیلێم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "نפתלי",
+      "gloss": "نەفتالی"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "یەحتسێل"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "و گونی"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "و یێتسەر"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "و شیلێم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:45.753136024Z",
+  "model": "glm-5.3"
+}

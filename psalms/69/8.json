@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "چونکە لە خاتری تۆ سووکایەتی هەڵگرتووە، شەرم ڕووم داپۆشیوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لە خاتری تۆ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "هەڵگرتووە"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "سووکایەتی"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "داپۆشیوە"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "شەرم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:32.112712923Z",
+  "model": "glm-5.3"
+}

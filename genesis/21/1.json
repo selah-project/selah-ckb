@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و یاهوە سارای ⟨את⟩ سەردان کرد وەک چۆن فەرموو، و یاهوە بۆ سارا کرد وەک چۆن وت.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "سەردان کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سارا"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "بۆ سارا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:19:11.374389500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و یۆئێل و یێهوو کوڕی یۆشیفیا کوڕی سێرایا کوڕی عەسیئێل،",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "و یۆئێل"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "و یێهوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "یۆشیفیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سێرایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "عەسیئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:13.379311509Z",
+  "model": "glm-5.3"
+}

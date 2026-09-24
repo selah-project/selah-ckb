@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و کوڕانی بۆ بوو: ⟨את⟩ یەعوش و ⟨את⟩ شەمەریا و ⟨את⟩ زەهام.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "بوو بە خاوەن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "بנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەعوش"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "یەعوش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شەمەریا"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شەمەریا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زەهام"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "زەهام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:02.648823257Z",
+  "model": "glm-5.3"
+}

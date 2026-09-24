@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "یاهوە گیانی ڕاستەقینە برسیو ناکات، و خواستی خراپەکاران لادەبات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "برسیو ناکات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستەقینە"
+    },
+    {
+      "surface": "והות",
+      "gloss": "و خواستی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکاران"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "لادەبات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:06.772610498Z",
+  "model": "glm-5.3"
+}

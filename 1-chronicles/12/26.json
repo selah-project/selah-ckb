@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "لە کوڕانی شیمعۆن شەڕڤانانی هێز بۆ سوپاکا حەوت هەزار و یەک سەد.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعۆن"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "شەڕڤانانی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "بۆ سوپاکا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "و یەک سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:55.637299175Z",
+  "model": "glm-5.3"
+}

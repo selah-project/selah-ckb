@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "هەموو ئێسکەکانی دەپارێزێت، یەکێک لەوان نەشکاوە.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "دەپارێزێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "ئێسکەکانی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "شکاوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:06.776047207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 121,
+  "translation": "ڕۆژان خۆر نا لێت دەدات، و مانگیش بە شەو.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "لێت دەدات"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "و مانگ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "بە شەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:35.590894663Z",
+  "model": "glm-5.3"
+}

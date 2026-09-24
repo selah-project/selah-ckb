@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 83,
+  "translation": "چونکە بە دڵ بە یەکەوە ئامۆژگارییان کرد، لە دژی تۆ پەیمان دەبەستن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "ئامۆژگارییان کرد"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "بە یەکەوە"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لە دژی تۆ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پەیمان"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "دەبەستن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:09.735735760Z",
+  "model": "glm-5.3"
+}

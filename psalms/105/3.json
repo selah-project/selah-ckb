@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "لە ناوی پیرۆزی بنازن، دڵی ئەوانەی یاهوە دەگەڕێن شاد بێت.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "بنازن"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "لە ناوی"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بێت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ئەوانەی دەگەڕێن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:24.003253098Z",
+  "model": "glm-5.3"
+}

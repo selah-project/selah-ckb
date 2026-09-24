@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "دانیشتنی تۆ لە ناوەڕاستی فێڵدایە؛ بە فێڵ زانینی ⟨את⟩ منیان ڕەت کرد، وتاری یاهوە.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "دانیشتنی تۆ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "لە ناوەڕاستی"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فێڵ"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "بە فێڵ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ڕەتیان کرد"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانین"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ من",
+      "marks": "زانین"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:42:23.645714575Z",
+  "model": "glm-5.3"
+}

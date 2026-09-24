@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و باوکی کچە گەنجەکە بۆ پیرانەکە دەڵێت ⟨את⟩ کچەکەم بەم پیاوە بۆ ژن دام و ڕقی لێ هات،",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "کچە گەنجەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "پیرانەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کچەکەم"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "کچەکەم"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دام"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ پیاو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بۆ ژن"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "و ڕقی لێ هات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:25.458885383Z",
+  "model": "glm-5.3"
+}

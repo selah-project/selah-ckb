@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و یاهوە پێی فەرموو: سەلاماتی بۆ تۆ، مەترسە، نامری.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سەلاماتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ترسە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "دەمری"
+    }
+  ],
+  "timestamp": "2026-09-24T11:05:58.364692087Z",
+  "model": "glm-5.3"
+}

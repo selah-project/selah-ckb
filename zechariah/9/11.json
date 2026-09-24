@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "تۆش، بە خوێنی پەیمانەکەت، ئاسیرەکانیت لە چاڵێک کە ئاوی تێدا نییە ناردم.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "بە خوێنی"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "پەیمانەکەت"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ناردم"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "ئاسیرەکانیت"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "لە چاڵ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:45:29.922590125Z",
+  "model": "glm-5.3"
+}

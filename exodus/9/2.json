@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "چونکە ئەگەر تۆ ڕازی نەبیت بیاننێریت و هێشتا بە توندی ڕایان گرتووە،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ڕازی نەبیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "بۆ ناردنیان"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "و هێشتا تۆ"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "بە توندی ڕاگیرکەری"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:40:41.013000584Z",
+  "model": "glm-5.3"
+}

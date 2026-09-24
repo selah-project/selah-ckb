@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 58,
+  "translation": "کە گوێی نایگرێت بە دەنگی جادووگەران، شارەزاترین لە بەستنی فێڵەکان",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "بیستێت"
+    },
+    {
+      "surface": "لקול",
+      "gloss": "بە دەنگی"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "جادووگەران"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "فێڵباز"
+    },
+    {
+      "surface": "חברیم",
+      "gloss": "فێڵەکان"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "شارەزا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:08.495954941Z",
+  "model": "glm-5.3"
+}

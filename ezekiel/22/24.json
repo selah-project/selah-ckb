@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "کوڕی مرۆڤ، پێی بڵێ: تۆ خاكێکی نەپاک، ئەوەیە، بارانی لێ نەباراوە له ڕۆژی تووڕەییدا.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "پێی بڵێ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "خاكێکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "نەپاک"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "بارانی لێ نەباراوە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "له ڕۆژی"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "تووڕەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:14:04.887804865Z",
+  "model": "glm-5.3"
+}

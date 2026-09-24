@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و تسیذقیاهو بە ییرمیاهووی فەرموو: با هیچ پیاوێک ئەم قسانە نەزانێت و نامریت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "تسیذقیاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ییرمیاهو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با نە"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "بزانێت"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ئەم قسانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "بمریت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:57:17.062695880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "چونکە ڕۆژێک نزیکە، و ڕۆژێک نزیکە بۆ یاهوە؛ ڕۆژێکی هەورە، کاتی گەلان دەبێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزیکە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژێک"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "و نزیکە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژێک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژێکی"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "هەورە"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتی"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:17:58.949775902Z",
+  "model": "glm-5.3"
+}

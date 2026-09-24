@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و وشەی یاهوە سەڤائۆت بەم واتە بوو:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم واتە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:59.148474573Z",
+  "model": "glm-5.3"
+}

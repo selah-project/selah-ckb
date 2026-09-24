@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و یۆئاڤ کوڕی تسرویە لەسەر لەشکرەکە بوو، و یەهۆشافات کوڕی ئەحیلود تۆمارکەر بوو.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "یۆئاڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تسرویە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لەشکرەکە"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "یەهۆشافات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ئەحیلود"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "تۆمارکەر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:27:32.252356864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ژیانی گۆشت دڵی چاککەرە، و کڵۆفاوی ئێسقان حەسەدە",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ژیانی"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "چاککەر"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "و کڵۆفاوی"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ئێسقان"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "حەسەد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:45.324888810Z",
+  "model": "glm-5.3"
+}

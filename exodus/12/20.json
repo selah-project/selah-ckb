@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "هەموو شتی هاویرتوو ناخۆن، لە هەموو نشینگەکانتاندا ماتزە دەخۆن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "شتی هاویرتوو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەخۆن"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "نشینگەکانتان"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەخۆن"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ماتزە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:42:59.182709919Z",
+  "model": "glm-5.3"
+}

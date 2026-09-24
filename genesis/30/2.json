@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و توڕەییی یەعقوب لە راشێل هەڵگیرسا و وت: ئایا من لە جێی ئێلۆهیمم کە بەرهەوی زگی لە تۆ ڕاگرتووە؟",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "و هەڵگیرسا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "توڕەیی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "لە راشێل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "لە جێی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "ڕاگرتووە"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "بەرهەو"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "زگ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:24:18.297746080Z",
+  "model": "glm-5.3"
+}

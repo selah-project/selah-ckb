@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕانی ئاشێر: ییمنا و ییشوا و ییشڤی و بەریئا و سێراخ خوشکی ئەوان.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشێر"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ییمنا"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "و ییشوا"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "و ییشڤی"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "و بەریئا"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "و سێراخ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "خوشکی ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:50.244606435Z",
+  "model": "glm-5.3"
+}

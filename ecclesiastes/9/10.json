@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "هەر ئەوەی دەستت بۆ کردنی دەیدۆزێتەوە، بە هێزی خۆت بیکە، چونکە کردار و ژماردن و زانست و دانایی لە شێئۆلدا نییە، کە تۆ بۆی دەچیت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەر ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "دەدۆزێتەوە"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردنی"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "بە هێزی خۆت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بیکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کردار"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "و ژماردن"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و زانست"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "و دانایی"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "لە شێئۆلدا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "دەچیت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:35.962425387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەو ورچێکی خۆدزێنەوەیە بۆ من، شێرێک لە شاردنەوەکاندا.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ورچ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "خۆدزێنەوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شێر"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "لە شاردنەوەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:31.973334265Z",
+  "model": "glm-5.3"
+}

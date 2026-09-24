@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "هی یاهوەیە ⟨ی⟩ ڕزگاری؛ لەسەر گەلەکەت بەرەکەتەکەت ⟨هەیە⟩. سەلا.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "هی یاهوەیە"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ڕزگاری"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلەکەت"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "بەرەکەتەکەت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سەلا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:18.744391961Z",
+  "model": "glm-5.3"
+}

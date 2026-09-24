@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "پیاوانی بەیت لەخەم و نەتۆفا ⟨موسا⟩ سەد هەشتا و هەشت.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەخەم ⟨موسا⟩"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "و نەتۆفا ⟨موسا⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "هەشتا"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:25.375086678Z",
+  "model": "glm-5.3"
+}

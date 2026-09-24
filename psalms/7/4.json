@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ئەی یاهوە ئێلۆهای من، ئەگەر ئەمەم کردبێت، ئەگەر ستەم لە دەستەکانمدا هەبێت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهای من"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کردبێت"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەبێت"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ستەم"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "لە دەستەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:45.631240355Z",
+  "model": "glm-5.3"
+}

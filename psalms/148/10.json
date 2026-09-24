@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 148,
+  "translation": "ئاژەڵ و هەموو ماڵات، خشۆك و باڵندەی باڵدار",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "ئاژەڵ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "خشۆك"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "و باڵندەی"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "باڵدار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:47.410295845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "دامێنی مرۆڤە کە بێنگاندن «پیرۆزە» دەڵێت، و دوای نەزەرەکان دەپشکنێت.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "دامێنی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤە"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "بێنگاندن دەڵێت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "«پیرۆزە»"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "و دوای"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "نەزەرەکان"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "دەپشکنێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:17.642401405Z",
+  "model": "glm-5.3"
+}

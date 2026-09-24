@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و لە ڕۆژی پازدەیەمی ئەم مانگەدا جەژنە؛ حەوت ڕۆژ نانی بێهەویر دەخورێت.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "و لە پازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "یەم"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "חג",
+      "gloss": "جەژن"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "نانی بێهەویر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخورێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:18.022279326Z",
+  "model": "glm-5.3"
+}

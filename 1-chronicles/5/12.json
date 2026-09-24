@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "یۆئێڵ سەرەکە و شەفەم دووەم و یەعنای و شەفەت لە باشان.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یۆئێڵ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سەرەکە"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "و شەفەم"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "و یەعنای"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "و شەفەت"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "لە باشان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:24.496766766Z",
+  "model": "glm-5.3"
+}

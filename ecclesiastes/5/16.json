@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "هەروەها هەموو ڕۆژەکانی لە تاریکیدا دەخوات، و قەهرەرێکی زۆر و نەخۆشییەکەی و غەزەب.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "لە تاریکیدا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "و قەهرەرێکی"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "و نەخۆشییەکەی"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "و غەزەب"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:04.696469696Z",
+  "model": "glm-5.3"
+}

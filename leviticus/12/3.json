@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و لە ڕۆژی هەشتەمدا گۆشتی پێستی سەری ئەندامەکەی خەتنە دەکرێت.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هەشتەم"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "خەتنە دەکرێت"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشتی"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "پێستی سەری ئەندامەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:00.179290468Z",
+  "model": "glm-5.3"
+}

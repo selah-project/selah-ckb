@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "بۆ سەرپەڕەوە، بۆ کوڕانی قورەح، مەزموور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ سەرپەڕەوە"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورەح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموور"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:15.455132515Z",
+  "model": "glm-5.3"
+}

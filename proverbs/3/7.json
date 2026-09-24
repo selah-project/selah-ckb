@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "لە چاوەکانی خۆتتا دانەبڕا، لە ⟨את⟩ یاهوە بترسە ⟨את⟩ و لە خراپە هەڵبگەڕێوە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "دانە"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بە"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانەبڕا"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "لە چاوەکانی خۆتتا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨את⟩ یاهوە"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "و هەڵبگەڕێوە"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "لە خراپە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:46.188537528Z",
+  "model": "glm-5.3"
+}

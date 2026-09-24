@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "دەبڕدرێت شۆمێرۆن، پادشای، وەک کەف لەسەر ڕووی ئاو.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "دەبڕدرێت"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شۆمێرۆن"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "وەک کەف"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:31:19.581594035Z",
+  "model": "glm-5.3"
+}

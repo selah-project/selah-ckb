@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و وشەی یاهوە هات بۆ یرمیاهو ⟨ئیرمیا⟩ لە ⟨את⟩ یاهوە، بۆ ئەوەی بڵێت:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یەرمیاهو ⟨ئیرمیا⟩"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ ئەوەی بڵێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:54:18.171845500Z",
+  "model": "glm-5.3"
+}

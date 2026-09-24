@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "دە زەرەع درێژیی تەختەکەیە، و زەرەعێک و نیو زەرەع پانیی یەک تەختە.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "زەرەع"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درێژی"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تەختەکە"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "و زەرەعێک"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیو"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "زەرەع"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تەختەکە"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:39.824337169Z",
+  "model": "glm-5.3"
+}

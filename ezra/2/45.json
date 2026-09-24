@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی لەڤاناه، کوڕەکانی حاگاڤاه، کوڕەکانی عەقوب.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لەڤاناه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "حاگاڤاه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "عەقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T15:10:34.049289220Z",
+  "model": "glm-5.3"
+}

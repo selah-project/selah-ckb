@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و ⟨את⟩ ئەوی لە دۆڵێکدا لە زەوی مۆئاب بە خاک سپارد، بەرامبەر بەیت پەعۆر، و هیچ پیاوێک ⟨את⟩ گۆڕەکەی نەزانی تا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "و بە خاک سپارد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "مۆشە"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "لە دۆڵێکدا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "מול",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "پەعۆر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هیچ پیاوێک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گۆڕەکەی"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "گۆڕەکەی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:16.694739798Z",
+  "model": "glm-5.3"
+}

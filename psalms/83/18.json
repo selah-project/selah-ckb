@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 83,
+  "translation": "بشێوێن و بترسێن تا هەتاهەتایە، و شەرمن بن و لەناو بچن.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "بشێوێن"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "و بترسێن"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتاهەتایە"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "و شەرمن بن"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "و لەناو بچن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:46.076272991Z",
+  "model": "glm-5.3"
+}

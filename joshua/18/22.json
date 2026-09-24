@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و بێت هەعەرەبا، و تسماراییم، و بێت ئێل،",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "و بێت"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "هەعەرەبا"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "و تسماراییم"
+    },
+    {
+      "surface": "وבית",
+      "gloss": "و بێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:08.505656277Z",
+  "model": "glm-5.3"
+}

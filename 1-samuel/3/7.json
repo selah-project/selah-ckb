@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و شەموئێل هێشتا نەیدەزانی ⟨את⟩ یاهوە و هێشتا وشەی یاهوە بۆی ئاشکرا نەبووە",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "و شەموئێل"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "هێشتا نا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "و هێشتا نا"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ئاشکرا بووە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:17:06.323255908Z",
+  "model": "glm-5.3"
+}

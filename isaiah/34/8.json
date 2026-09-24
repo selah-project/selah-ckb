@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "چونکە ڕۆژی تۆڵە بۆ یاهوەیە، ساڵی بەرەبڕینەکان بۆ کێشەی زایۆن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "تۆڵە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "بەرەبڕینەکان"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "بۆ کێشەی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زایۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:25:32.563837611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کوڕی شەمای مەئۆن ⟨بوو⟩، و مەئۆن باوکی بەیت تسور ⟨بوو⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "و کوڕی"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شەمای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مەئۆن"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "و مەئۆن"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تسور"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:20.660852002Z",
+  "model": "glm-5.3"
+}

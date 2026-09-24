@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "و قەرەبەڵا لە زەویەکەدا قورس بوو.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "و قەرەبەڵا"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "قورس بوو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویەکەدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:28.628720674Z",
+  "model": "glm-5.3"
+}

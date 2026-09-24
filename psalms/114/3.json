@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 114,
+  "translation": "دەریاکە بینی و هەڵات، یاردێن ⟨وردون⟩ بۆ دواوە گەڕایەوە.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "دەریاکە"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "و هەڵات"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردێن"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "گەڕایەوە"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "بۆ دواوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:20.991978522Z",
+  "model": "glm-5.3"
+}

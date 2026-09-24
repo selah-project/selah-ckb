@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و بوو کە پاشا لە ماڵەکەی دانیشت و یاهوە پشووی پێدا بە دەوری لە هەموو دوژمنانی",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "دانیشت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "لە ماڵەکەی"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "پشووی پێدا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆیی"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "بە دەوری"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "دوژمنانی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:33:59.129144856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "خوداکانی دیکەی پێ نابێت لە ڕوومدا بۆ تۆ بن",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خوداکان"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕوومدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:35:50.924771791Z",
+  "model": "glm-5.3"
+}

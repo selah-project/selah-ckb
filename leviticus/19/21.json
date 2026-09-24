@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و قەرەبووی خۆی ⟨את⟩ بۆ یاهوە دەهێنێت، هەتا دەرگای چادری چاوپێکەوتن، قوچێکی قەرەبوو.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "و دەهێنێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قەرەبووی خۆی"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "قەرەبووی خۆی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "قەرەبوو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:20.488307684Z",
+  "model": "glm-5.3"
+}

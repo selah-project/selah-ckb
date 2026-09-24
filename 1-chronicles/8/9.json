@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و لە ژنی خۆی کە حودەش ⟨ئەی⟩ بوو، ⟨את⟩ یۆڤاڤ و ⟨את⟩ تسیڤیا و ⟨את⟩ مەیشا و ⟨את⟩ مەلکام بوونی هێنا.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "بوونی هێنا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "حودەش"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنی خۆی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یۆڤاڤ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یۆڤاڤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تسیڤیا"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "تسیڤیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەیشا"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "مەیشا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەلکام"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "مەلکام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:05.945210237Z",
+  "model": "glm-5.3"
+}

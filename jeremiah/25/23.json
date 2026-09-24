@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ⟨את⟩ دەدان و ⟨את⟩ تەیما و ⟨את⟩ بووز و ⟨את⟩ هەموو قەتقەکراوی لێواراوان",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دەدان"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "دەدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تەیما"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "تەیما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩ "
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بووز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو قەتقەکراوی لێواراوان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "قەتقەکراوی"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "لێواراوان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:48:14.173854027Z",
+  "model": "glm-5.3"
+}

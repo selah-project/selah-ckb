@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 94,
+  "translation": "ئێلی تۆڵەکان یاهوە، ئێلی تۆڵەکان، ڕووناک بکەرەوە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ئێلی"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "تۆڵەکان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێلی"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "تۆڵەکان"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ڕووناک بکەرەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:54.781661294Z",
+  "model": "glm-5.3"
+}

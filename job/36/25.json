@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "هەموو مرۆڤ ئەوی بینیوە؛ ئینسان لە دوورەوە ڕوانێت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "بینیویە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئەوی"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ئینسان"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ڕوانێت"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "لە دوورەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:58.325673378Z",
+  "model": "glm-5.3"
+}

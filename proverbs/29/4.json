@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "پادشا بە داد زەوی سەقام دەکات، و پیاوێک بەخشینەکان دەیڕووخێنن.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "بە داد"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "سەقام دەکات"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوێک"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "بەخشینەکان"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "دەیڕووخێنن"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:01.254822932Z",
+  "model": "glm-5.3"
+}

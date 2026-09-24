@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و وەرەش یەک و شەست هەزار،",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "و وەرەش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شەست"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:55.333300851Z",
+  "model": "glm-5.3"
+}

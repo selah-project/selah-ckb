@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "نیشتەجێنی میوان و کرێکار لەوی نایخۆن.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "نیشتەجێنی میوان"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "و کرێکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "نایخۆن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:42:02.068661153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "⟨את⟩ کچەکەت پیس مەکە بۆ زیناحکردنی؛ و زەوی زیناح نەکات، و زەوی پڕ دەبێت لە ناپاکی.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "پیس مەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کچەکەت"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "کچەکەت"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "بۆ زیناحکردنی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەک"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "زیناح نەکات"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "و پڕ دەبێت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ناپاکی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:51:18.339796859Z",
+  "model": "glm-5.3"
+}

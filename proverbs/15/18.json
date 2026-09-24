@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "پیاوێکی تووڕە ناکۆکی هەڵدەکاتەوە، و درێژ لە تووڕەیی کێشە ئارام دەکات.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "پیاوێکی"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "تووڕە"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "هەڵدەکاتەوە"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ناکۆکی"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "و درێژ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "لە تووڕەیی"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "ئارام دەکات"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "کێشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:28.117705398Z",
+  "model": "glm-5.3"
+}

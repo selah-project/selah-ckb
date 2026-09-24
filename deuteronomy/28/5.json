@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "بەرەکەتدار بێت سەبەتەکەت و تەختەی خەمیرکردنەکەت.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "بەرەکەتدار بێت"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "سەبەتەکەت"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "و تەختەی خەمیرکردنەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:10.827564775Z",
+  "model": "glm-5.3"
+}

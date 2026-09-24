@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "پاشای یارموت یەک؛ پاشای لاکیش یەک؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "یارموت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "لاکیش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:37.101950234Z",
+  "model": "glm-5.3"
+}

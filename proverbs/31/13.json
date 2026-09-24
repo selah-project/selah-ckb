@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 31:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "گەڕی پشم و کتان، و بە دڵخۆشییەوە بە دەستەکانی دروستی کرد.",
+  "tokens": [
+    {
+      "surface": "דרשה",
+      "gloss": "گەڕی"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "پشم"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "و کتان"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "و دروستی کرد"
+    },
+    {
+      "surface": "בחפץ",
+      "gloss": "بە دڵخۆشییەوە"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "بە دەستەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:23.760223696Z",
+  "model": "glm-5.3"
+}

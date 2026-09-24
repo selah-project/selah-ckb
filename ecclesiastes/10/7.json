@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "خزمەتکارانم لەسەر ئەسپەکان بینی، و ئەمیران وەک خزمەتکاران بە سەر زەویدا دەڕۆیشتن.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "خزمەتکاران"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ئەسپەکان"
+    },
+    {
+      "surface": "وשרים",
+      "gloss": "و ئەمیران"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "دەڕۆیشتن"
+    },
+    {
+      "surface": "كעבדים",
+      "gloss": "وەک خزمەتکاران"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە سەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:39.329474430Z",
+  "model": "glm-5.3"
+}

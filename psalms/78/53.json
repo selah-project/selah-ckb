@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "بە دڵنیایی ئیانی برد و نەترسان، و دەریا ⟨את⟩ دوژمنانیانی بەگرت.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ئیانی برد"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بە دڵنیایی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "فחדו",
+      "gloss": "ترسان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دوژمنانیان"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "دوژمنانیان"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "بەگرت"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:47.801832628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "لە پیرۆزی پیرۆزانەدا دەیخۆیت؛ هەموو نێرێک دەیخوات ⟨את⟩ ئەو؛ پیرۆز دەبێت بۆ تۆ.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "لە پیرۆزی"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پیرۆزترین"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "دەیخۆیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەیخوات"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "پیرۆزی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:23:58.376841516Z",
+  "model": "glm-5.3"
+}

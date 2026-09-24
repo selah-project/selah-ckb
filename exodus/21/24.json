@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "چاو لە بەر چاو، ددان لە بەر ددان، دەست لە بەر دەست، پێ لە بەر پێ.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە بەر"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە بەر"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە بەر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پێ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە بەر"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پێ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:53.785528911Z",
+  "model": "glm-5.3"
+}

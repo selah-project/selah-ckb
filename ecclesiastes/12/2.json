@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "تاوەکو کە خۆر و ڕووناکی و مانگ و ئەستێرەکان تاریک نەبوون، و هەورەکان بە دوای باراندا بگەڕێنەوە.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تاوەکو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "تاریک بوون"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "وהאור",
+      "gloss": "و ڕووناکی"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "و مانگ"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "و ئەستێرەکان"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "و بگەڕێنەوە"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "هەورەکان"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بە دوای"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "باران"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:57.875647441Z",
+  "model": "glm-5.3"
+}

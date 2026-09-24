@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و کاهین ⟨את⟩ ئەم نەفرەتانە لە کتێبێکدا دەنووسێت و دەیانشێتێتە ناو ئاوی تاڵەکە.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "و دەنووسێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نەفرەتەکان"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "نەفرەتەکان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "لە کتێب"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "و دەشێنێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "تاڵەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:16:21.066178272Z",
+  "model": "glm-5.3"
+}

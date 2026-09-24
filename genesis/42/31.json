@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و پێی وتین: ئێمە ڕاستگۆین، سیخوڕ نەبووین.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "و وتین"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ڕاستگۆ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ئێمە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "بووین"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "سیخوڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:26.518013338Z",
+  "model": "glm-5.3"
+}

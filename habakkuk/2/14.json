@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "چونکە زەویەکە دەپڕێت بە زانینی ⟨את⟩ شکۆی یاهوە، وەک ئاوەکان دەریایەکە دەپۆشن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "دەپڕێت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "بە زانینی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شکۆی یاهوە"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "وەک ئاوەکان"
+    },
+    {
+      "surface": "یכסו",
+      "gloss": "دەپۆشن"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریایەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:28.487395798Z",
+  "model": "glm-5.3"
+}

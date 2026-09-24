@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئەوەی زیناح لەگەڵ ژنێک دەکات کەم‌دڵە — ئەو گیانی خۆی خۆی خراپ دەکات، ئەو خۆی ئەم دەکات.",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "زیناح دەکات"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێک"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کەم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "خراپ دەکات"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی خۆی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو خۆی"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "ئەو دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:18.246331061Z",
+  "model": "glm-5.3"
+}

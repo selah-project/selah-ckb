@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و یاهوە قسەی کرد لەگەڵ مۆشە ⟨موسا⟩ و فەرمووی:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:53:04.582666243Z",
+  "model": "glm-5.3"
+}

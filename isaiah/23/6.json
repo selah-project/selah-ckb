@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "تێپەڕن ⟨بۆ⟩ تارشیش، هاوار بکەن دانیشتووانی دوورگە.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "تێپەڕن"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "بۆ تارشیش"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "هاوار بکەن"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "אי",
+      "gloss": "دوورگە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:26.353443368Z",
+  "model": "glm-5.3"
+}

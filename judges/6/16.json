@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و یاهوە پێی فەرموو: چونکە من لەگەڵتم دەبم، و میدیان ⟨את⟩ وەک یەک پیاو دەیدەیت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "دەبم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵتم"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "و دەیدەیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "وەک پیاوێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T11:06:04.885845597Z",
+  "model": "glm-5.3"
+}

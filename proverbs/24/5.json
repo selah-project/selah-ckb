@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "پیاوێکی زیرەک بەهێزە، و پیاوێکی زانست هێز دەبەهێزێنێت.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "پیاوێکی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "زیرەک"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوێکی"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانست"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "دەبەهێزێنێت"
+    },
+    {
+      "surface": "כח",
+      "gloss": "هێز"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:36.354093411Z",
+  "model": "glm-5.3"
+}

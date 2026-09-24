@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و ئێلۆهیم فەرموو بۆ نوەح ⟨نوح⟩ و بۆ کوڕەکانی لەگەڵ ⟨את⟩ ئەو، بە وتن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوەح ⟨نوح⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "لەگەڵ ⟨את⟩ ئەو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:22.582664603Z",
+  "model": "glm-5.3"
+}

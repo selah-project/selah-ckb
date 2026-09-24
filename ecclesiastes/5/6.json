@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چونکە لە زۆری خەونەکان و پووچەڵییەکان و قسەی زۆردا؛ بەڵام ⟨את⟩ ئێلۆهیم بترسە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "لە زۆری"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "خەونەکان"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "و پووچەڵییەکان"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "و قسەکان"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئێلۆهیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "بترسە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:19.674753687Z",
+  "model": "glm-5.3"
+}

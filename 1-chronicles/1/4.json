@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "نۆح، شێم، حام، و یافێت.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "نۆح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شێم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "و یافێت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:30.992015653Z",
+  "model": "glm-5.3"
+}

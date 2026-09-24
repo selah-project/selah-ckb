@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 29:17",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لە ڕۆژی دووەمدا دوانزە گوێرەکەی گا، کوڕانی ڕەوەی گا، دوو قوچ، چواردە بەرخ، کوڕانی ساڵێک، بێخەوش.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گوێرەکە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ڕەوەی گا"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بێخەوش"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:16.006525985Z",
+  "model": "glm-5.3"
+}

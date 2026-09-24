@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "⟨את⟩ ئەمە دەیخۆن لە هەموو ئەوەی لە ئاوەکاندایە؛ هەموو ئەوەی پەڵەوانگ و قەپرەڵەی هەیە دەیخۆن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەمە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەیخۆن"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "במים",
+      "gloss": "لە ئاوەکاندایە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پەڵەوانگ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "و قەپرەڵە"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەیخۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:00.401235281Z",
+  "model": "glm-5.3"
+}

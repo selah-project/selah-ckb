@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "پارعۆ بینی کە حەسانەوەکە هەبوو و ⟨את⟩ دڵی خۆی قورس کرد و گوێی لێیان نەگرت وەک یاهوە فەرمووی بوو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و بینی"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارعۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "حەسانەوەکە"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "و قورسی کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵی خۆی"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی خۆی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ گرت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لێیان"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:39:48.595186883Z",
+  "model": "glm-5.3"
+}

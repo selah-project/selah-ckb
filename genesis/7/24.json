@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ئاوەکان زاڵ بوون بەسەر زەویەکەدا پەنجا و سەد ڕۆژ.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "و زاڵ بوون"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ئاوەکان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەسەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکەدا"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "ومאת",
+      "gloss": "و سەد"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:46.506748136Z",
+  "model": "glm-5.3"
+}

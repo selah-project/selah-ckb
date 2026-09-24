@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "لە سێکەوە لە دووەکە پێناودارتر بوو، و بوو بە سەرکردەیان، بەڵام تا ئەو سێ یەکەمەی نەگەیشت.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "سێکەوە"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "لە دووەکە"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "پێناودارتر بوو"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "بە سەرکردە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "ئەو سێ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "گەیشت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:32.879274683Z",
+  "model": "glm-5.3"
+}

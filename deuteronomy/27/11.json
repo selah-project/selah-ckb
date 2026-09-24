@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و مۆشە لەو ڕۆژەدا فەرمانی بە ⟨את⟩ گەلەکە کرد و کوتی:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "و فەرمانی کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەلەکە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لەو ڕۆژەدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و کوتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:11.806414700Z",
+  "model": "glm-5.3"
+}

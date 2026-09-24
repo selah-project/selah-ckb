@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 10:34",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و هەوراوی یاهوە لەسەریان بوو ڕۆژانە، لە کۆچکردنیان لە ئۆردوگا.",
+  "tokens": [
+    {
+      "surface": "וענן",
+      "gloss": "و هەوراوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "لەسەریان"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ڕۆژانە"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "لە کۆچکردنیان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ئۆردوگا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:18:26.071843882Z",
+  "model": "glm-5.3"
+}

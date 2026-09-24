@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بۆ یەهودییەکان ڕووناکی و شادی و خۆشی و شکۆ هەبوو.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "بۆ یەهودییەکان"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "هەبوو"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "ڕووناکی"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "و شادی"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "و خۆشی"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "و شکۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:01:01.378884357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "⟨את⟩ من ڕاندەوە و لە تاریکیدا برد، و نە بۆ ڕووناکی",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ من",
+      "marks": "من"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ڕاندەوە"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و برد"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ڕووناکی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:55.889310941Z",
+  "model": "glm-5.3"
+}

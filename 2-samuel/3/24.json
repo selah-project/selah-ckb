@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 3:24",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و یوئاب هاتە لای پاشا و وت: چیت کرد؟ ئەوا ئاڤنەر هاتە لات، بۆچی <ه>: ناردی و ڕۆیشت و ڕۆیشت؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و هاتە"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوئاب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتە"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ئاڤنەر"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لات"
+    },
+    {
+      "surface": "لמה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "שלחתו",
+      "gloss": "ناردی"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیشت"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "و ڕۆیشت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:32:58.439546975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و کوڕەکانی قێناز عوتنیئێل و سێرایا بوون؛ و کوڕانی عوتنیئێل حەتات.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قێناز"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عوتنیئێل"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "و سێرایا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عوتنیئێل"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "حەتات"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:32.099051193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بیسە ئامۆژگاری و زیرەک بن و وازی لێ مەهێنن.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بیسە"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ئامۆژگاری"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "و زیرەک بن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "وازی لێ مەهێنن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:23.776841967Z",
+  "model": "glm-5.3"
+}

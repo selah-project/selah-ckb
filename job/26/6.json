@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 26:6",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "شێئۆل ڕووتە لەبەردەمی و پۆشینێک نییە بۆ ئاڤدۆن",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شێئۆل"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "لەبەردەمی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و پۆشینێک نییە"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "پۆشین"
+    },
+    {
+      "surface": "לאבדון",
+      "gloss": "بۆ ئاڤدۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:14.368958300Z",
+  "model": "glm-5.3"
+}

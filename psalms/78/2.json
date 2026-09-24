@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "دەمم بە مەسەل دەکەڵمەوە، پەیدە نیم نادیارەکان لە کۆنەوە.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "دەکەڵمەوە"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "بە مەسەل"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمم"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "پەیدە نیم"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "نادیارەکان"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "کۆنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:58.574817446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و پیاوێک بە برایەی وت: با سەرێک دابنێین و بگەڕێینەوە میتسرایم.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برایەی"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "دابنێین"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "و بگەڕێینەوە"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "میتسرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:49.388195955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و سێ ساڵ دانیشتن، شەڕ نەبوو لە نێوان ئارام و لە نێوان ئیسرائیل.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "دانیشتن"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نەبوو"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ئارام"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و لە نێوان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T11:58:40.467198511Z",
+  "model": "glm-5.3"
+}

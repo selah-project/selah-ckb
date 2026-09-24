@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە دەریای سووف کوچیان کرد و لە بیابانی سین چادر هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچیان کرد"
+    },
+    {
+      "surface": "מים",
+      "gloss": "لە دەریای"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سووف"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و چادر هەڵکێشا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیابانی"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:37.582684067Z",
+  "model": "glm-5.3"
+}

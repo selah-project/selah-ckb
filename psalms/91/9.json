@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 91,
+  "translation": "چونکە تۆ یاهوە پەناگاهی منیت، عەلییۆن ماڵی خۆت داناوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "پەناگاهی منیت"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عەلییۆن"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "داناوە"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "ماڵی خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:46.796945958Z",
+  "model": "glm-5.3"
+}

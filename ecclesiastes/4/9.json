@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "دووکە لە یەکەکە چاکترن، کە پاداشتی چاکیان بۆ هەیە لە زەحمەتییاندا.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "چاکترن"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "دووکە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "پاداشت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "لە زەحمەتییاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:23.922600898Z",
+  "model": "glm-5.3"
+}

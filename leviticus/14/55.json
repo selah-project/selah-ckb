@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و بۆ سەرەتی جل و بۆ خانوو،",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "و بۆ سەرەتی"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "جل"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "و بۆ خانوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:51:49.987129648Z",
+  "model": "glm-5.3"
+}

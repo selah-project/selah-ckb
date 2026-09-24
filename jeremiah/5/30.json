@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "شۆک و دڵتڕێزەر لە زەویدا ڕوویداوە.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شۆک"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "و دڵتڕێزەر"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ڕوویداوە"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:39:35.123992709Z",
+  "model": "glm-5.3"
+}

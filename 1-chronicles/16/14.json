@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ئەو یاهوەیە، ئێلۆهیمی ئێمە؛ لە هەموو زەویدا حوکمەکانی ئێلۆهیمن.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیمی ئێمە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویدا"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "حوکمەکانی ئێلۆهیمن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:27:01.548873158Z",
+  "model": "glm-5.3"
+}

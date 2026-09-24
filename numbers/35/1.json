@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ فەرموو لە دەشتەکانی مۆئاب، لەسەر ئۆردەن لای یەریخۆ، وتی:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "لە دەشتەکانی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ئۆردەن"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یەریخۆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:42.788390537Z",
+  "model": "glm-5.3"
+}

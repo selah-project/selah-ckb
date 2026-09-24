@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 115,
+  "translation": "نا بۆ ئێمە ئەی یاهوە، نا بۆ ئێمە، چونکە بۆ ناوی خۆت شکۆ بدە، لەسەر حەسەدی خۆت، لەسەر ڕاستیی خۆت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ ئێمە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ ئێمە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "بۆ ناوی خۆت"
+    },
+    {
+      "surface": "תן",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حەسەدی خۆت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ڕاستیی خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:36.746681880Z",
+  "model": "glm-5.3"
+}

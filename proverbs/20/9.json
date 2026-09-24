@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "کێ بڵێت: دڵم پاک کردەوە، لە گوناهەکەم پاک بووم؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "بڵێت"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "پاک کردەوە"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "پاک بووم"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "لە گوناهەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:33.143951402Z",
+  "model": "glm-5.3"
+}

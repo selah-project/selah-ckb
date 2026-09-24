@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و وشەی یاهوە هاتە لای شلۆمۆ ⟨سلەمان⟩ بەم وتەیە:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ ⟨سلەمان⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم وتەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:47:05.887974213Z",
+  "model": "glm-5.3"
+}

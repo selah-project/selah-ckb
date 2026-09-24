@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و حەتسەرشوئاڵ و باڵا و عەتسەم.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "و حەتسەر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوئاڵ"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "و باڵا"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "و عەتسەم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:57.887830175Z",
+  "model": "glm-5.3"
+}

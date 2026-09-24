@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و گای یان مەڕ، ⟨את⟩ ئەو و ⟨את⟩ کۆرەکەی، لە یەک ڕۆژدا مەکوژن.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "و گای"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "שה",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "گای یان مەڕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کۆرەکەی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کۆرەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "مەکوژن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژدا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:32.642348740Z",
+  "model": "glm-5.3"
+}

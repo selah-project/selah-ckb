@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "چونکە مرۆڤ نییە دادپەروەر لەسەر زەوی کە چاکە بکات و هەڵە نەکات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادپەروەر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لەسەر زەوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بکات"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "هەڵە بکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:40.468819700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و ئەگەر دەربچێت بەرەبەرە قاتڵ ⟨את⟩ سنووری شاری پەناهەوارەکەی کە بۆی ڕایکردووە،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "دەربچێت"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بەرەبەرە"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتڵ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سنوور"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنوور"
+    },
+    {
+      "surface": "عיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "پەناهەوارەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ڕایکردووە"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:58.137028653Z",
+  "model": "glm-5.3"
+}

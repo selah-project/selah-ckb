@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "سەری وەک زێڕی پاکی ڕەوانکراوە، لێچووەکانی کوڵەکوڵن، ڕەشن وەک قەڵەمە.",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "وەک زێڕی پاک"
+    },
+    {
+      "surface": "פז",
+      "gloss": "ڕەوانکراو"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "لێچووەکانی"
+    },
+    {
+      "surface": "תלتלים",
+      "gloss": "کوڵەکوڵن"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "ڕەشن"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "وەک قەڵەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:49.705514298Z",
+  "model": "glm-5.3"
+}

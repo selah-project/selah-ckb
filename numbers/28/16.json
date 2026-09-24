@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و لە مانگی یەکەمدا، لە چوارەم و دەی ڕۆژی مانگدا، پەسەخی بۆ یاهوە.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "و لە مانگ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یەکەمدا"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "لە چوارەم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "و دەی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگدا"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پەسەخی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:46.151494027Z",
+  "model": "glm-5.3"
+}

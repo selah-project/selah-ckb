@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 74,
+  "translation": "ڕۆژ ⟨هی⟩ تۆیە، شەویش ⟨هی⟩ تۆیە، تۆ ڕووناکی و خۆرت ئامادە کرد.",
+  "tokens": [
+    {
+      "surface": "لך",
+      "gloss": "هی تۆ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "לך",
+      "gloss": "هی تۆ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ئامادەت کرد"
+    },
+    {
+      "surface": "מאوור",
+      "gloss": "ڕووناکی"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "و خۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:39.173457221Z",
+  "model": "glm-5.3"
+}

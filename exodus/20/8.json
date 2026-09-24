@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "بیربکەوە ڕۆژی شابات ⟨את⟩ بۆ پیرۆزکردنی.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "بیربکەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕۆژی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شابات"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "بۆ پیرۆزکردنی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:09.777999943Z",
+  "model": "glm-5.3"
+}

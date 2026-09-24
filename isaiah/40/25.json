@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و بۆ کێ من بەراورد دەکەن و هاوشێوەم دەکەن؟ فەرمووی پیرۆز",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "من بەراورد دەکەن"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "و هاوشێوەم دەکەن"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆز"
+    }
+  ],
+  "timestamp": "2026-09-24T12:26:56.199585972Z",
+  "model": "glm-5.3"
+}

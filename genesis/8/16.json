@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بڕۆ لە کەشتییەکەوە، تۆ و ژنەکەت و کوڕەکانت و ژنانی کوڕانت لەگەڵت ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "مן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کەشتییەکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "و ژنەکەت"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "و کوڕەکانت"
+    },
+    {
+      "surface": "وנשי",
+      "gloss": "و ژنانی"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "کوڕانت"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ لەگەڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:19.626757981Z",
+  "model": "glm-5.3"
+}

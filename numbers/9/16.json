@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "هەروا هەمیشە دەبوو، هەورەکە دەیپۆشی و دەرکەوتنی ئاگر بە شەو.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "هەروا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبوو"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هەمیشە"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "هەورەکە"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "دەیپۆشی"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "و دەرکەوتنی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "بە شەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:24.599634985Z",
+  "model": "glm-5.3"
+}

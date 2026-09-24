@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بەڵام بۆ ئەم گەڵە دڵێکی سەرکێش و یاخی بووە، هەڵگەڕاونەتەوە و ڕۆیشتوون.",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "بەڵام بۆ گەڵ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵێکی"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "سەرکێش"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "و یاخی"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "هەڵگەڕاونەتەوە"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و ڕۆیشتوون"
+    }
+  ],
+  "timestamp": "2026-09-24T12:39:56.170854368Z",
+  "model": "glm-5.3"
+}

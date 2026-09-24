@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "هەڵم بگەرێ ئێلۆهیم، چونکە ئاوەکان هاتوونەتە ناو گیانم.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "هەڵم بگەرێ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "באו",
+      "gloss": "هاتوونەتە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاوەکان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:08.512591875Z",
+  "model": "glm-5.3"
+}

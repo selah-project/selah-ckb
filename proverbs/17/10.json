@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "سەرکێشی لە تێگەیشتوودا دەنووسێت، زیاتر لە سەد لێدان لە گێل.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "دەنووسێت"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "سەرکێشی"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "لە تێگەیشتوو"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "لە لێدان"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "گێل"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:00.148885324Z",
+  "model": "glm-5.3"
+}

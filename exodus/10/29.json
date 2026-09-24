@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "مۆشە ⟨موسا⟩ وت: بەڵێ، بەم شێوەیە قسەت کرد؛ ئیتر زیاتر ڕوومەتەکەت نابینم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "بەڵێ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "قسەت کرد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "زیاتر"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "نابینم"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕوومەتەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:39:20.757883674Z",
+  "model": "glm-5.3"
+}

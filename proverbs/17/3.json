@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "کورەی تاقیکردنەوە بۆ زیو و تاوەر بۆ زێر، و یاهوە دڵەکان تاقی دەکاتەوە.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "کورەی تاقیکردنەوە"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "بۆ زیو"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "و تاوەر"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "بۆ زێر"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "و تاقی دەکاتەوە"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دڵەکان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:30.813796277Z",
+  "model": "glm-5.3"
+}

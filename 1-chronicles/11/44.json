@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ئوزیا عەشتەرەتییەکە، شەمعا و یەعوئێل کوڕانی حووتەم عەرۆئێرییەکە",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "ئوزیا"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "عەشتەرەتییەکە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شەمعا"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "و یەعوئێل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حووتەم"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "عەرۆئێرییەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:19.032774702Z",
+  "model": "glm-5.3"
+}

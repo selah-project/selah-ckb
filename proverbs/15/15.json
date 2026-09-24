@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "هەموو ڕۆژانی خەمبار خراپن، و باشی دڵ میهمانییەکی هەمیشەییە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "خەمبار"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "خراپن"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "و باشی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "میهمانی"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هەمیشەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:10.019182831Z",
+  "model": "glm-5.3"
+}

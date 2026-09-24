@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "گەورەپەرست و گەمزەکەر، ناوەکەیەتی، کرکار لە توڕەیی زۆردارییدا.",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "گەورەپەرست"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "گەمزەکەر"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ناوەکەیەتی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوەکەیەتی"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "کرکار"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "لە توڕەیی"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "زۆردارییدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:21.089678800Z",
+  "model": "glm-5.3"
+}

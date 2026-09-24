@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و لە نزیک هەموو گیانی مردوو نایەت؛ بۆ باوکی و بۆ دایکی خۆی خۆی پیس ناکات.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لە نزیک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مردوو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "بۆ باوکی"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "و بۆ دایکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پیس دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:02.550041233Z",
+  "model": "glm-5.3"
+}

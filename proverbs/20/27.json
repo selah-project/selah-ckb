@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "چرا یاهوە گیانی ⟨هەیە⟩ مرۆڤ، هەموو ژوورەکانی سک دەگەڕێت.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "دەگەڕێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ژوورەکانی"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "سک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:17.642831453Z",
+  "model": "glm-5.3"
+}

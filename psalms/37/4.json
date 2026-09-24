@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و لە یاهوە چێژ وەربگرە و ئاواتەکانی دڵت پێ دەبەخشێت.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "و چێژ وەربگرە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و دەبەخشێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ئاواتەکانی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:27.667817050Z",
+  "model": "glm-5.3"
+}

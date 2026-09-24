@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ حەشبۆن و ⟨את⟩ دەورەکانی و ⟨את⟩ یاعزیر و ⟨את⟩ دەورەکانی",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حەشبۆن"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حەشبۆن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دەورەکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "دەورەکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یاعزیر"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "یاعزیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دەورەکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "دەورەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:54.197306371Z",
+  "model": "glm-5.3"
+}

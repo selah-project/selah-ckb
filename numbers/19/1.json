@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و یاهوە بۆ مۆشە ⟨موسا⟩ و بۆ ئاهارۆن ⟨هارون⟩ فەرموو، بەم زوانە:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن ⟨هارون⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:01.856792175Z",
+  "model": "glm-5.3"
+}

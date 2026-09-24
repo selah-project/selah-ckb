@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ و بە ئاهارۆن قسەی کرد و فەرموو بڵێن،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بە"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:58.221941666Z",
+  "model": "glm-5.3"
+}

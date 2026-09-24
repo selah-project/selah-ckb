@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "پێچانەوەی چاو ئازار دەدات، و نەفامی لێوەکان دەکەوێتە خوارەوە.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "پێچانەوەی"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ئازار"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "و نەفامی"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لێوەکان"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "دەکەوێتە خوارەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:03.910027151Z",
+  "model": "glm-5.3"
+}

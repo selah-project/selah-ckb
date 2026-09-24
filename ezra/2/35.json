@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی سەنائە، سێ هەزار و شەش سەد و سی.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سەنائە"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:43.353042297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و پێوانەی کرد ⟨את⟩ پانی کراوەی دەرگا دە ئانە، درێژیی دەرگا سێزدە ئانە.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "و پێوانەی کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پانی کراوەی دەرگا"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "کراوەی"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ئانە"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درێژیی"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ئانە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:23:29.647366450Z",
+  "model": "glm-5.3"
+}

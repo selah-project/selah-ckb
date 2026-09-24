@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و داود ⟨את⟩ قسەکانی لە دڵی خۆیدا نا و زۆر ترسا لە چاوی ئاکیش پاشای گات.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قسەکان"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "قسەکان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "لە دڵی خۆیدا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و ترسا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ئاکیش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گات"
+    }
+  ],
+  "timestamp": "2026-09-24T11:26:19.253062636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و یاهوە بە مۆشەی فەرموو بۆ وتن.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرمووی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:30.465779353Z",
+  "model": "glm-5.3"
+}

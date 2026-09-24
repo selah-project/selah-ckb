@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "داغکردن لە جیاتی داغکردن، برین لە جیاتی برین، شین لە جیاتی شین.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "داغکردن"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە جیاتی"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "داغکردن"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "برین"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە جیاتی"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "برین"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "شین"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە جیاتی"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "شین"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:56.340005737Z",
+  "model": "glm-5.3"
+}

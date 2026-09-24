@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 52,
+  "translation": "خراپییەکەت خۆشویست لە چاکیدا، درۆ لە قسەی ڕاستیدا. سێلا",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "خۆشویستت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "لە چاکیدا"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "لە قسەکردندا"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سێلا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:36.025359359Z",
+  "model": "glm-5.3"
+}

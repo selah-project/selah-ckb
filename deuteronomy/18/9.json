@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 18:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "چونکە تۆ دەچیتە ناو ئەو زەوییەی یاهوە ئێلۆهیمت پێت دەدات، فێری کردنی بێزیاریەکانی ئەو گەلانە مەبە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دەچیتە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ئەو زەوییە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "پێت دەدات"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "תלמד",
+      "gloss": "فێر مەبە"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کردن"
+    },
+    {
+      "surface": "כתועבת",
+      "gloss": "وەک بێزیاریەکانی"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "گەلانە"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ئەوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:59.269583324Z",
+  "model": "glm-5.3"
+}

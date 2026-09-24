@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "چونکە ئەو فەرمووی و بوو، ئەو فەرمانی کرد و ڕاوەستا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کرد"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "و ڕاوەستا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:11.735675691Z",
+  "model": "glm-5.3"
+}

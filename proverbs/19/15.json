@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "کاهیڵی خەوی قووڵ دەخەوێنێت، و گیانی سست برسی دەبێت.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "کاهیڵی"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "دەخەوێنێت"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "خەوی قووڵ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "و گیانی"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "سست"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "برسی دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:42.303001374Z",
+  "model": "glm-5.3"
+}

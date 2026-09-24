@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 27:14",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "ئەگەر منداڵانی زۆر ببن، بۆ شەمشیرن، و نەوەکانی لە نان تێر نابن.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "زۆر ببن"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "منداڵانی"
+    },
+    {
+      "surface": "למו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشیر"
+    },
+    {
+      "surface": "וצאצאיו",
+      "gloss": "و نەوەکانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نابن"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "تێر"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:47.270121567Z",
+  "model": "glm-5.3"
+}

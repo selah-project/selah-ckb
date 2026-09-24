@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "تەنها خوێن نەخۆن؛ لەسەر زەوی بڕێژنی وەک ئاو.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخۆن"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەیخۆن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "بڕێژنی"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "وەک ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:41.678911365Z",
+  "model": "glm-5.3"
+}

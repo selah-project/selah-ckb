@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و شاژنی شێبا ⟨את⟩ هەموو دانایی شلۆمۆی بینی و ئەو خانووەی دروستی.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "و بینی"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "شاژنی"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شێبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "و ئەو خانووەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "دروستی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:49:56.792016226Z",
+  "model": "glm-5.3"
+}

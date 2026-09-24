@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و عێبەر چوار و سی ساڵ ژیا و بووە باوکی ⟨پالێگ⟩",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عێبەر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بووە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پالێگ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پالێگ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:59.410843828Z",
+  "model": "glm-5.3"
+}

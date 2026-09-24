@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و لە روونی چەورکردن لەسەر سەری ئەهارۆن ڕشت، و ⟨את⟩ ئەو چەورکردی، بۆ پیرۆزکردنی.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "ڕشت"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "لە روونی"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "چەورکردن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئەهارۆن"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "چەورکردی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "بۆ پیرۆزکردنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:47.991650769Z",
+  "model": "glm-5.3"
+}

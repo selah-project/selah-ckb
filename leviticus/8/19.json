@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و سەربڕی، و مۆشە ⟨את⟩ خوێنەکەی بە دەوری قوربانگاکەدا بڵاوکردەوە.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "سەربڕی"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "بڵاوکردەوە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوێنەکەی"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خوێنەکەی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قوربانگاکە"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "بە دەوری"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:58.088037265Z",
+  "model": "glm-5.3"
+}

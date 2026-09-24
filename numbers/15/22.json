@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و ئەگەر سەرلێشێون و ئەنجامی نەدەن ⟨את⟩ هەموو ئەم فەرمانانەی کە یاهوە بۆ مۆشە ⟨موسا⟩ فەرموو،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "سەرلێشێون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ئەنجامی نەدەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "فەرمانەکان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T15:53:24.867204350Z",
+  "model": "glm-5.3"
+}

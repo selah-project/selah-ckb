@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و شاول مرد، و لە جێگەی ئەو بەعل حەنان کوڕی عەکبور پاشا بوو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پاشا بوو"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جێگەی ئەو"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بەعل"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حەنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "عەکبور"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:48.653759102Z",
+  "model": "glm-5.3"
+}

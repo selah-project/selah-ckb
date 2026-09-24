@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و لەسەر لەشکری هۆزی کوڕانی ئەشیر پەغعیئێل کوڕی عەکران بوو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لەشکری"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەشیر"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پەغعیئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عەکران"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:51.001755019Z",
+  "model": "glm-5.3"
+}

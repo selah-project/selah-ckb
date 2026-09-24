@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "هەروەها شایەتییەکانت خۆشییەکانم و کەسانی ڕاوێژم.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "شایەتییەکانت"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "خۆشییەکانم"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "کەسانی"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ڕاوێژم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:43.731566378Z",
+  "model": "glm-5.3"
+}

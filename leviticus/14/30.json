@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ⟨את⟩ یەکێک لە تورترەکان یان لە بەچکەکانی کۆتر دەیکات، لەوەی دەستی پێی گەیشتووە.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "و دەیکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەکێک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "تورترەکان"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بەچکەکانی"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کۆتر"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "لەوەی"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "گەیاندووە"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:35.697666251Z",
+  "model": "glm-5.3"
+}

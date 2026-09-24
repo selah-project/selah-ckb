@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و خۆر بۆی هەڵات کاتێک لە پەنیوئێل ⟨את⟩ تێپەڕی، و ئەو لەسەر ڕانی خۆی لەدەکات.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "و هەڵات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تێپەڕی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەنیوئێل"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پەنیوئێل"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "لەدەکات"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ڕانی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:49:09.043248468Z",
+  "model": "glm-5.3"
+}

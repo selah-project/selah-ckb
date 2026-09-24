@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و یاهوە دەردەچێت و لەگەڵ ئەو گەلانە شەڕ دەکات، وەک شەڕکردنی لە ڕۆژی شەڕدا.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەردەچێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "و شەڕ دەکات"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "لەگەڵ گەلان"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ئەوانە"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "وەک ڕۆژ"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "شەڕکردنی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "شەڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:48.519025596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "هەموو بزۆکی باڵندەی سەر چوار ڕاوەستاوە — شەکەزە بۆ ئێوەیە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "بزۆک"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "باڵندە"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "سەر ڕاوەستاوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "شەکەزە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ـە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:13.848029218Z",
+  "model": "glm-5.3"
+}

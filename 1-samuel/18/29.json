@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و شائول زیاتر کرد ⟨و ترسا⟩ لەبەر داود هێشتا، و شائول بوو بە دوژمنی ⟨את⟩ داود هەموو ڕۆژەکان.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "زیاتر کرد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "ترسا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "איב",
+      "gloss": "دوژمن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڕۆژەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:24:05.743771649Z",
+  "model": "glm-5.3"
+}

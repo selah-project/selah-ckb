@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و نەتواستی خستبێت منی دەستەی دوژمن، لە فراوانیدا پێم ڕاگرت.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "خستبێت منی"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "لە دەستەی"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دوژمن"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "ڕاگرت"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "لە فراوانیدا"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پێم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:04.350992439Z",
+  "model": "glm-5.3"
+}

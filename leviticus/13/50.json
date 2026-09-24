@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و کاهین ⟨את⟩ زیانەکە دەبینێت و ⟨את⟩ زیانەکە حەوت ڕۆژ دەکاتە دەرگابەندی.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "و دەبینێت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زیانەکە"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "زیانەکە"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "و دەکاتە دەرگابەندی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زیانەکە"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "زیانەکە"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:04:54.811951195Z",
+  "model": "glm-5.3"
+}

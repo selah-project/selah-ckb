@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "هەموو ئەمە هاتە سەر نەڤوخەدنەتسەر ⟨نەبوخەدنەسەر⟩ پاشا.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "هاتە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "نەڤوخەدنەتسەر ⟨نەبوخەدنەسەر⟩"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:05:01.938186630Z",
+  "model": "glm-5.3"
+}

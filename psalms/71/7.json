@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 71,
+  "translation": "وەک عەجایبێک بووم بۆ زۆران، و تۆ پەناغەی بەهێزی منیت.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "وەک عەجایبێک"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "بۆ زۆران"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "پەناغەی منیت"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بەهێزی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:08.777971843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "چونکە دەبن بۆ ئەو بۆ کۆیلە، و دەزانن خزمەتی من و خزمەتی شانشینەکانی وڵاتان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "بۆ کۆیلە"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "و دەزانن"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "خزمەتی من"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "و خزمەتی"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "شانشینەکانی"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "وڵاتان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:23.130227265Z",
+  "model": "glm-5.3"
+}

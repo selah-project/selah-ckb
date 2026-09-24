@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "تسۆفەری نەعاماتی وەڵامی دایەوە و وتی:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "وەڵامی دایەوە"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "تسۆفەر"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "نەعاماتی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:52.837738921Z",
+  "model": "glm-5.3"
+}

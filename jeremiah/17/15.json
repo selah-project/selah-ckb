@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "ئەوەتا ئەوان پێم دەڵێن: لە کوێیە وشەی یاهوە؟ با بێت.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "איה",
+      "gloss": "لە کوێیە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "با"
+    }
+  ],
+  "timestamp": "2026-09-24T12:45:49.328420025Z",
+  "model": "glm-5.3"
+}

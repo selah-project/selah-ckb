@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و بانای، و بینووی، شیمعای",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و بانای"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "و بینووی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعای"
+    }
+  ],
+  "timestamp": "2026-09-24T15:12:53.511715141Z",
+  "model": "glm-5.3"
+}

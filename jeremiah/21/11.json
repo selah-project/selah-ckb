@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و بۆ ماڵی پادشای یەهودا ⟨یەهوودا⟩: گوێ لە وشەی یاهوە بگرن،",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "و بۆ ماڵ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا ⟨یەهوودا⟩"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوێ بگرن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:46:21.665750666Z",
+  "model": "glm-5.3"
+}

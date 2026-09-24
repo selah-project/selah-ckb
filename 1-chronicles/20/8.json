@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "ئەمانە لە هەڕەفا لە گت لەدایک بوون، و بە دەستی داود و بە دەستی خزمەتکارانی کەوتن.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "لەدایک بوون"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "لە هەڕەفا"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "لە گت"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "و کەوتن"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "و بە دەستی"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "خزمەتکارانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:46.885264577Z",
+  "model": "glm-5.3"
+}

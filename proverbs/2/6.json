@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "چونکە یاهوە دانایی دەدات، لە دەمی ئەو ناسیاری و تێگەیشتن ⟨هەیە⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "لە دەمی ئەو"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ناسیاری"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "و تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:18.884621713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "یاهوە ئێلۆهیممان پەیمانێک لەگەڵ ئێمە لە حۆرێب ⟨بڕی⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیممان"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بڕی"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "لەگەڵ ئێمە"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پەیمان"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "لە حۆرێب"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:37.813525171Z",
+  "model": "glm-5.3"
+}

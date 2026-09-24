@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 13:8",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و دەبێت لە هەموو زەویەکەدا، وتاری یاهوە، دوو بەشی لەو دەبڕدرێن و دەمرن، و سێیەم لەو دەمێنێتەوە.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکەدا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "פי",
+      "gloss": "بەشی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لەو"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "دەبڕدرێن"
+    },
+    {
+      "surface": "יגועו",
+      "gloss": "دەمرن"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "و سێیەم"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "دەمێنێتەوە"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لەو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:05.448875338Z",
+  "model": "glm-5.3"
+}

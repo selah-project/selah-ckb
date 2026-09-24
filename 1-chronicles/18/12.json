@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ئەبیشای کوڕی تسروییە ⟨את⟩ ئەدۆمی لە دۆڵی خوێدا لێیدا — هەژدە هەزار.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "و ئەبیشای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تسروییە"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "لێیدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەدۆم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "لە دۆڵی"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "خوێ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:08.486056150Z",
+  "model": "glm-5.3"
+}

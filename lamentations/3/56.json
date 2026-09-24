@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "دەنگم بیستت، گوێت لە هەناسەم و لە هاوارم مەشارەوە.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "دەنگم"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "بیستت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "شارەوە"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوێت"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "لە هەناسەم"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "لە هاوارم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:59.016257203Z",
+  "model": "glm-5.3"
+}

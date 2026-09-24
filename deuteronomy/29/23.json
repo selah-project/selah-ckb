@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و هەموو گەلەکان دەڵێن: بۆچی یاهوە وەها کرد بەم زەویە؟ چییە گڕی ئەم تووڕەییە گەورەیە؟",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "وەها"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "بە زەوی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چییە"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "گڕی"
+    },
+    {
+      "surface": "האף",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:48:30.164227921Z",
+  "model": "glm-5.3"
+}

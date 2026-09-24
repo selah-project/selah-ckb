@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "و شەوکەتی یاهوە هاتە ناو ماڵەکە، بە ڕێگای دەروازەیەک کە ڕووی بە ڕۆژهەڵاتەوە بوو.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "و شەوکەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ماڵەکە"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "بە ڕێگای"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەروازەیەک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "بە ڕێگای"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ڕۆژهەڵات"
+    }
+  ],
+  "timestamp": "2026-09-24T16:02:22.996988497Z",
+  "model": "glm-5.3"
+}

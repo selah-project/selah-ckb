@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و یۆئاش ئەوەی کرد کە ڕاستە لە چاوی یاهوەدا، هەموو ڕۆژانی یەهۆیاداع کاهین.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یۆئاش"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ئەوەی کە ڕاستە"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یەهۆیاداع"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    }
+  ],
+  "timestamp": "2026-09-24T15:40:37.718435679Z",
+  "model": "glm-5.3"
+}

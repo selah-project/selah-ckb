@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی عێلام ⟨ئەی⟩ یەک هەزار و دوو سەد و پەنجا و چوار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عێلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "یەک هەزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چوار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:13.515067532Z",
+  "model": "glm-5.3"
+}

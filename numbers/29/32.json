@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 29:32",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لە ڕۆژی حەوتەمدا حەوت گا و دوو قوچخان و چواردە بەرخ، کوڕانی یەک ساڵ، بێ کەللە.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژی"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەمدا"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچخان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "یەک ساڵ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بێ کەللە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:18.584747879Z",
+  "model": "glm-5.3"
+}

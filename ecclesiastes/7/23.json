@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "هەموو ئەمە بە دانایی تاقیکردەوە، وتم دەبم بە دانا، و ئەو ⟨⟨دوورە⟩⟩ لە من.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "تاقیکردەوە"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "بە دانایی"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "دەبم بە دانا"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "دوورە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:40.232466894Z",
+  "model": "glm-5.3"
+}

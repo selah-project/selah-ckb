@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "شەرانەوان تەڵەیان بۆ من دانا، و لە فەرمانەکانت نەگەڕامەوە.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "دانیان"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شەرانەوان"
+    },
+    {
+      "surface": "פח",
+      "gloss": "تەڵە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "و لە فەرمانەکانت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תעיתی",
+      "gloss": "گەڕامەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:32.867074049Z",
+  "model": "glm-5.3"
+}

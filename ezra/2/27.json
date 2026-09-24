@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "پیاوەکانی میخماش، سەد و بیست و دوو.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوەکانی"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "میخماش"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:25.456789412Z",
+  "model": "glm-5.3"
+}

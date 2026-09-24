@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ژنی ئوریا بیست کە ئوریا پیاوەکەی مرد، و بۆ مێردەکەی ماتەمی گرت.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ئوریا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ئوریا"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "پیاوەکەی"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "و ماتەمی گرت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "مێردەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:36:24.622737752Z",
+  "model": "glm-5.3"
+}

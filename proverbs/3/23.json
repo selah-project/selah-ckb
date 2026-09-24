@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەوکات بە دڵنیاییەوە ڕێگات دەڕۆی و پێت لێنادرێت.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "دەڕۆی"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بە دڵنیاییەوە"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ڕێگات"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "و پێت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "لێنادرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:25.852970312Z",
+  "model": "glm-5.3"
+}

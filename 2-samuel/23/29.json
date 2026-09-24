@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 23:29",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "حێلێڤ کوڕی بەعانە هە نێتۆفاتی، ئیتای کوڕی ریبای لە گیڤەعات بنیامین.",
+  "tokens": [
+    {
+      "surface": "חלב",
+      "gloss": "حێلێڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "بەعانە"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "نێتۆفاتی"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ئیتای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ریبای"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "لە گیڤەعات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "یامین"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:00.427627609Z",
+  "model": "glm-5.3"
+}

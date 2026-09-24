@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 73,
+  "translation": "بەڵام من هەمیشە لەگەڵتم، تۆ دەستی ڕاستی من گرت",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "بەڵام من"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هەمیشە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵتم"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ڕاستی من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:45.424596368Z",
+  "model": "glm-5.3"
+}

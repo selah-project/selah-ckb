@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "لێوەکانی دادپەروەر زۆر کەس دەڵووڕێنن و گێلەکان بە کەمیی دڵ دەمرن",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادپەروەر"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "دەڵووڕێنن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر کەس"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "و گێلەکان"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "بە کەمیی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "دەمرن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:12.209652136Z",
+  "model": "glm-5.3"
+}

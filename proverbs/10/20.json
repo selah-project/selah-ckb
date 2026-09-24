@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "زمانی ڕاستگۆ زیوی هەڵبژێردراوە، دڵی شەرتانیش وەک کەم ⟨بەها⟩.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "هەڵبژێردراو"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستگۆ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شەرتان"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "وەک کەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:18.588342814Z",
+  "model": "glm-5.3"
+}

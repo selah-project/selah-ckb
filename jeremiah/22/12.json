@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "چونکە لەو شوێنەی کە بەدیاییان بردن ⟨את⟩ ئەو، ئەوێ دەمرێت و ⟨את⟩ ئەم زەویە نادەبینێت دیتر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "لەو شوێنەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "بەدیاییان بردن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "شالووم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئەوێ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "دەمرێت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئەم زەویە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دەبینێت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیتر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:47:11.685431279Z",
+  "model": "glm-5.3"
+}

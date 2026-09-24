@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 82,
+  "translation": "من وتیمان: خوداکان ئێوەن، و کوڕانی عێلیۆن هەمووتان.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وتیمان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خوداکان"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عێلیۆن"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "هەمووتان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:07.464840478Z",
+  "model": "glm-5.3"
+}

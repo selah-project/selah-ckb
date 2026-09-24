@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و خوشکەکەی هامۆلێخێت ئیشهۆدی ⟨את⟩ و ئەبیعەزەری ⟨את⟩ و ماكلای ⟨את⟩ بوو باوک.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "و خوشکەکەی"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "هامۆلێخێت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بوو باوک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئیشهۆد"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "ئیشهۆد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئەبیعەزەر"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ئەبیعەزەر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ماكلا"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ماكلا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:29.856124487Z",
+  "model": "glm-5.3"
+}

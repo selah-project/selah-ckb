@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و دەرەکە لە چاومدا چاک بوو، و دوازدە پیاوم لە ئێوە وەرت، پیاوێک بۆ هەر هۆزێک.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "و چاک بوو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاومدا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دەرەکە"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "و وەرتم"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "لە ئێوە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "بۆ هۆزێک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:53.764325545Z",
+  "model": "glm-5.3"
+}

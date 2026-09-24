@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ فرشەی خانووەکە بە زێڕی داپۆشی، لە ناوەوە و لە دەرەوە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "فرشەی"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "فرشەی"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانووەکە"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "داپۆشی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "لە ناوەوە"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "و لە دەرەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:47:30.377804875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئاشتییان و چاکەیان بە هەموو ڕۆژانی تۆوە، بۆ هەتاهەتایە، بەدوادا مەچۆ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مەچۆ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "بەدوادا بگەڕێ"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "ئاشتییان"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "و چاکەیان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ڕۆژانی تۆ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەتاهەتایە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:20.130427890Z",
+  "model": "glm-5.3"
+}

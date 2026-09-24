@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و لەسەر سنووری ڕئوبەن، لە لای ڕۆژهەڵاتەوە تا لای ڕۆژئاوا، یەهودا یەک ⟨بەش⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ڕئوبەن"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ڕۆژهەڵاتەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "لای"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ڕۆژئاوا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:12.821215934Z",
+  "model": "glm-5.3"
+}

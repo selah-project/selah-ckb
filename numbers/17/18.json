@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و ناوی ئاهارۆن ⟨את⟩ لەسەر مەتی لێڤی بنووسە، چونکە یەک مەتە بۆ سەری ماڵی باوکانیان.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ناوی ئاهارۆن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "بنووسە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "مەتی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "مەت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "بۆ سەری"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "باوکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:22:58.050423592Z",
+  "model": "glm-5.3"
+}

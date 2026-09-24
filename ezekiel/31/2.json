@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "کوڕی مرۆڤ، بڵێ بۆ فیرعەون ⟨فیرعەون⟩ پاشای میتسرایم و بۆ کۆمەڵەکەی: لە گەورەییتدا بە چ کەسێک دەچیت؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیرعەون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "کۆمەڵەکەی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "بە چ کەسێک"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "دەچیت"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "لە گەورەییتدا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:30.861013539Z",
+  "model": "glm-5.3"
+}

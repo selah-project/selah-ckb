@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و گێدۆر و ئەحیۆ و زێخەریا و میکلۆت.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "و گێدۆر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و ئەحیۆ"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "و زێخەریا"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "و میکلۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:06.111178602Z",
+  "model": "glm-5.3"
+}

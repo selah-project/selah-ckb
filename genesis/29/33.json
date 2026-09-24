@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 29:33",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "دووبارە سکی گرتەوە و کوڕێکی بوو، و وت: چونکە یاهوە بیستی کە من ڕق لێکراوم، بۆیە ئەمەشی بە من دا؛ و ناوی نا شیمئۆن ⟨شیمئۆن⟩.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "سکی گرتەوە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دووبارە"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بیستی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "ڕق لێکراوم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئەمەشی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەمە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ناوی نا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمئۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:48.681094949Z",
+  "model": "glm-5.3"
+}

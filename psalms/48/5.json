@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "چونکە ئا، شاکان کۆبوونەوە، پێکەوە تێپەڕین.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئا"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "شاکان"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "کۆبوونەوە"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "تێپەڕین"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:03.321119557Z",
+  "model": "glm-5.3"
+}

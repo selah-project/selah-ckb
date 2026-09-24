@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 121,
+  "translation": "با نەدات پێی تۆ بلەرزێت، با پارێزەری تۆ خەوی نەکات.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "با نە"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دات"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "بلەرزێت"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پێی تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با نە"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "خەوی بکات"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "پارێزەری تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:22.606140163Z",
+  "model": "glm-5.3"
+}

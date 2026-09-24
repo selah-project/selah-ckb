@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "چونکە دەڵێت: ئایا سەرکردەکانی من هەموویان پاشا نین؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "یאמר",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئایا … نین"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سەرکردەکانی من"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "هەموویان"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:09.928228067Z",
+  "model": "glm-5.3"
+}

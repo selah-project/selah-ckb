@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و بوو کە چلۆن بۆمان لێکدا، هەر وەها بوو؛ منی گەڕاندەوە سەر پێگەی خۆم و ئەوی ⟨את⟩ هەڵواسی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کە چلۆن"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "لێکدا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆمان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وەها"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ منی",
+      "marks": "من"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "گەڕاندەوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "כני",
+      "gloss": "پێگەی خۆم"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "و ⟨את⟩ ئەوی",
+      "marks": "ئەو"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "هەڵواسی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:30:37.694042357Z",
+  "model": "glm-5.3"
+}

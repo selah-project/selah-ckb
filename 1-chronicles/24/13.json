@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بۆ حوپپا سێ دە، بۆ یەشەڤئاڤ چوار دە.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "بۆ حوپپا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "بۆ یەشەڤئاڤ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:44.435451857Z",
+  "model": "glm-5.3"
+}

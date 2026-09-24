@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "خۆشبەختە ئەوەی چاوەڕوان دەکات و دەگاتە هەزار و سێ سەد و سی و پێنج ڕۆژ.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خۆشبەخت"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "چاوەڕوانکەر"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "و دەگات"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "بۆ ڕۆژان"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:15.656435017Z",
+  "model": "glm-5.3"
+}

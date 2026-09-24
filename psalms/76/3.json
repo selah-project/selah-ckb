@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 76,
+  "translation": "و بوو لە شالێمدا شووکەی، و ماڵ و شوێنی دانەوانەکەی لە تسیۆندا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "لە شالێم"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "شووکەی"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "و دانەوانەکەی"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "لە تسیۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:11.428691894Z",
+  "model": "glm-5.3"
+}

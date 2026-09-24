@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "کۆڵەپێی ڕاست و ئەمەش ڕاست و بەت ڕاست هەبن ⟨بۆ⟩ ئێوە.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "کۆڵەپێی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "و ئەمەش ڕاست"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "و بەت ڕاست"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "هەبن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:25:16.902108696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کوڕەکانی عیلی ⟨عەلی⟩ کوڕانی بەلیاڵ بوون، ⟨את⟩ یاهوویان نەدەزانی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عیلی ⟨عەلی⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بەلیاڵ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "نەدەزانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:15:10.196515745Z",
+  "model": "glm-5.3"
+}

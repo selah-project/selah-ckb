@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و سکی گرت و کوڕێکی بوو، و وت: ئێلۆهیم شەرمەکەم ⟨את⟩ لایبرد",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "سکی گرت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "کوڕێکی بوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "لایبرد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شەرمەکەم"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "شەرمەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:13.641826187Z",
+  "model": "glm-5.3"
+}

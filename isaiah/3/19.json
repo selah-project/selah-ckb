@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ڕاڤکەکان و ملوانکەکان و دەمچەکان،",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "ڕاڤکەکان"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "و ملوانکەکان"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "و دەمچەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:13:42.814099038Z",
+  "model": "glm-5.3"
+}

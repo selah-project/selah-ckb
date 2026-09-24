@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "کوڕەکانی هاشێم ⟨الگیزونی⟩، یۆناتان کوڕی شاگێ ⟨الهەراری⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "השם",
+      "gloss": "هاشێم"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "⟨الگیزونی⟩"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یۆناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "شاگێ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "⟨الهەراری⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:30.724837328Z",
+  "model": "glm-5.3"
+}

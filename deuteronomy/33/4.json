@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "تۆرا مۆشە بۆ ئێمە فەرمان کرد، میراتی کۆمەڵی یەعقووب.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "تۆرا"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمان کرد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ ئێمە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "میرات"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کۆمەڵی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقووب"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:46.319912761Z",
+  "model": "glm-5.3"
+}

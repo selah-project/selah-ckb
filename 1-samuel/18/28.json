@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 18:28",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و شائول بینی و زانی کە یاهوە لەگەڵ داودە، و میخال کچی شائول خۆشی ئەویست.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ומיכל",
+      "gloss": "و میخال"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "אהבתהو",
+      "gloss": "خۆشی ئەویست"
+    }
+  ],
+  "timestamp": "2026-09-24T11:24:44.305080045Z",
+  "model": "glm-5.3"
+}

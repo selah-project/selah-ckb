@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "بۆ فێرکردن لە ڕۆژی پیسیدا و لە ڕۆژی پاکیدا؛ ئەمە تۆرای تسارائوتە.",
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "بۆ فێرکردن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "پیسیدا"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژی"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "پاکیدا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تۆرای"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "تسارائوتە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:06.011440920Z",
+  "model": "glm-5.3"
+}

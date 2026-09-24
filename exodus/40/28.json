@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و ڕایسووڕەکەی دەمەوێ دەم قوتەکە دانا.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕایسووڕەکەی دەمەوێ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ڕایسووڕ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "دەمەوێ دەم"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "قوتەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:57:20.301507760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و یاهوشوا جلانی پیس لەبەرکردبوو و بەرامبەر فریشتەکە ڕاوەستابوو.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "و یاهوشوا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "لەبەرکردبوو"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "جلان"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "پیس"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "و ڕاوەستابوو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فریشتەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:18.885514293Z",
+  "model": "glm-5.3"
+}

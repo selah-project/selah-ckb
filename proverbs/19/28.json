@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "شایەتی بێبەها گاڵتە بە داد دەکات، و دەمی خراپەکاران خراپی قوت دەدات.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شایەتی"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بێبەها"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "گاڵتە دەکات"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "و دەمی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکاران"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "قوت دەدات"
+    },
+    {
+      "surface": "און",
+      "gloss": "خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:54.795707685Z",
+  "model": "glm-5.3"
+}

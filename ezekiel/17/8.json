@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 17:8",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "بۆ کێڵگەیەکی باش، لەنێو زۆر ئاو، ئەو چێنراوە — بۆ کردن لق و هەڵگرتنی بەر، بۆ بوون بە مێوێکی شکۆدار.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کێڵگەی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەنێو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "چێنراوە"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردن"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "لق"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "و بۆ هەڵگرتن"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "بەر"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بۆ بوون"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "بە مێو"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "شکۆدار"
+    }
+  ],
+  "timestamp": "2026-09-24T13:11:29.743936903Z",
+  "model": "glm-5.3"
+}

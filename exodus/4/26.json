@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و لێی هێشەوە؛ ئەوکات وتی زاوای خوێنەکان، بەپێی خەتنەکان.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "و لێی هێشەوە"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "زاوای"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خوێنەکان"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "بەپێی خەتنەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:38:21.617475771Z",
+  "model": "glm-5.3"
+}

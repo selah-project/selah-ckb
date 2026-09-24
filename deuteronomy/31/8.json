@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و یاهوە ئەوەیە کە لە پێشتەوە دەڕوات، ئەو لەگەڵت دەبێت، لاوازت ناکات و بەجێت ناهێڵێت، نەترسە و مەشەوانبە.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ئەوەیە کە دەڕوات"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "لە پێشتەوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "لاوازت ناکات"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "بەجێت ناهێڵێت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ترسە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "شەوانبە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:14.821291351Z",
+  "model": "glm-5.3"
+}

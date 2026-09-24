@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 33:32",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە بەنیی یاعاکان ڕۆیشتن و لە حۆرۀهەگیدگاد چادریان هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "لە بەنیی"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یاعاکان"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و چادریان هەڵکێشا"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "لە حۆر"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "هەگیدگاد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:30.480959981Z",
+  "model": "glm-5.3"
+}

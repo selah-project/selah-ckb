@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ⟨את⟩ بنکەکان دە، و ⟨את⟩ حەوزەکان دە لەسەر بنکەکان",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بنکەکان"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنکەکان"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حەوزەکان"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "حەوزەکان"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنکەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:46:57.055068236Z",
+  "model": "glm-5.3"
+}

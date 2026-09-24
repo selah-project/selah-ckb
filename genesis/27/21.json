@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ییتسچاق بە یاکۆب وتی: وەرە با و دەستت لێ بدەمێ، کوڕم؛ ئایا تۆ ئەویت کوڕم عیساو، یان نا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسچاق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاکۆب"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "وەرە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "با"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "و دەستت لێ بدەمێ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ئایا تۆ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەویت"
+    },
+    {
+      "surface": "بני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:31.894856682Z",
+  "model": "glm-5.3"
+}

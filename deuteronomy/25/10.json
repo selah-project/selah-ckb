@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ناوی لە ئیسرائیلدا دەنرێت: ماڵی هەڵکێشراوی پێلاو.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "و دەنرێت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "لە ئیسرائیلدا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "هەڵکێشراوی"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "پێلاو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:01.093191198Z",
+  "model": "glm-5.3"
+}

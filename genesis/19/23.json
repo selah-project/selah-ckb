@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "خۆر لەسەر زەوی دەرچووبوو و لۆت هاتە ناو تسوعار.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "دەرچووبوو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "و لۆت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "تسوعار"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:25.615927727Z",
+  "model": "glm-5.3"
+}

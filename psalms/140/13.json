@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 140,
+  "translation": "دەزانم کە یاهوە دادەی ئەزموودار و حوکمی هەژاران دەکات.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "دەزانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דין",
+      "gloss": "دادەی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ئەزموودار"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حوکمی"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "هەژاران"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:06.175554103Z",
+  "model": "glm-5.3"
+}

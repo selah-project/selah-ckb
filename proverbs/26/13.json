@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "سستەکە دەڵێت شێ لەسەر ڕێگایەکەیە، شێ لە نێوان گۆڕەپانەکاندا.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سستەکە"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شێ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لەسەر ڕێگایەکەیە"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شێ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "گۆڕەپانەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:44.539058638Z",
+  "model": "glm-5.3"
+}

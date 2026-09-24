@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "لەگەڵ هەڵبژێردە دەبیتە هەڵبژێردە، و لەگەڵ لار دەبیتە لار.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "هەڵبژێردە"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "دەبیتە هەڵبژێردە"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "لار"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "دەبیتە لار"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:48.389189600Z",
+  "model": "glm-5.3"
+}

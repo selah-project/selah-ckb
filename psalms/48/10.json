@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "بەراوردمان کرد، ئەی ئێلۆهیم، حەسەدی تۆ، لە ناو هەیکەڵت.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "بەراوردمان کرد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حەسەدی تۆ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "لە ناو"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "هەیکەڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:37.352462649Z",
+  "model": "glm-5.3"
+}

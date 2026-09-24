@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بە حیکمەت بڵێ: خوشکی من تۆی، و بە ⟨את⟩ فامی قووڵ بانگی خزمی بکە.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "بە حیکمەت"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "خوشکی من"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆی"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "و بە فامی قووڵ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "بە تێگەیشتن"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "بانگی خزمی بکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:47.501784642Z",
+  "model": "glm-5.3"
+}

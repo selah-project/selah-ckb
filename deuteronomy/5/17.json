@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "کوشتن ناکەیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە · ناکەیت"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "کوشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:35:22.207914650Z",
+  "model": "glm-5.3"
+}

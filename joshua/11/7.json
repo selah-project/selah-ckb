@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 11:7",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و یەهوشواع و هەموو گەلی شەڕ لەگەڵی هاتنە سەریان، لە ئاوی مێرۆم، لەناکاو، و کەوتنە سەریان.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهوشواع"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەلی"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "سەریان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ئاوی"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "مێرۆم"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "لەناکاو"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "کەوتنە"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "سەریان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:08.066241449Z",
+  "model": "glm-5.3"
+}

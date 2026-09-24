@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "بەخێربێت یاهوە بۆ هەتاهەتایە. ئامین، و ئامین.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "بەخێربێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەتاهەتایە"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامین"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "و ئامین"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:37.367089494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 7:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "چونکە تۆ گەلێکی پیرۆزی بۆ یاهوە ئێلۆهیمت — تۆیە کە یاهوە ئێلۆهیمت هەڵبژاردووە بۆ ئەو بە گەلێکی تایبەت لە هەموو گەلانی سەر ڕووی زەوی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەلی"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "هەڵبژاردووە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "کە ببیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "بە گەلی"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "تایبەت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:35.870712733Z",
+  "model": "glm-5.3"
+}

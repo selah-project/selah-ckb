@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "کوڕی مرۆڤ، ئایا ناوت پێ نەوتن ئەی ماڵی یسرائیل ⟨مائی⟩ یاخیبوو، تۆ چ دەکەیت؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئایا نا"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "وتویانە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "یاخیبوو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دەکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:00:19.086860700Z",
+  "model": "glm-5.3"
+}

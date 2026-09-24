@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و پادشا داود هات و دانیشت لەبەردەمی یاهوە و فەرموو: کێم ئەمن ئەی یاهوە ئێلۆهیم و کێ ماڵی من کە گەیاندتی من هەتا ئێرە",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و دانیشت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەمی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ئەمن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ماڵی من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הביאתנی",
+      "gloss": "گەیاندتی من"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ئێرە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:15.462798263Z",
+  "model": "glm-5.3"
+}

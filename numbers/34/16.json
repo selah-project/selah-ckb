@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و یاهوە قسەی لەگەڵ مۆشە کرد و فەرموو:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:03.162941727Z",
+  "model": "glm-5.3"
+}

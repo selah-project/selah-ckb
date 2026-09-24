@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "تۆ بەردی لەدایککەری خۆت لەبەربردووە، و ئێلی دروستکەری خۆت لەبەریت کردووە.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "لەدایککەری تۆ"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "لەبەربردووی"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "و لەبەریت کردووە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "دروستکەری تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:32.466951773Z",
+  "model": "glm-5.3"
+}

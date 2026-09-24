@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و یاهوە چوار پیشەسازیارم پیشان دا.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "پیشان دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "پیشەسازیار"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:35.463441240Z",
+  "model": "glm-5.3"
+}

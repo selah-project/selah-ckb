@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و زاباد ئەفلالی بەخێو کرد ⟨موسا⟩، و ئەفلال عوبەیدی بەخێو کرد.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "و زاباد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەفلال"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ئەفلال"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "و ئەفلال"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوبەید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوبەید"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:40.530922753Z",
+  "model": "glm-5.3"
+}

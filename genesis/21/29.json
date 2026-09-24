@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 21:29",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و وتی ئەڤیمەلەخ بۆ ئاڤراهام: چییە ئەمانە، حەوت مەڕی مێی ئەمانەی کە تۆ بەتەنهای دانایت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ئەڤیمەلەخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چییە"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "مەڕی مێی"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەمانەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "دانایت"
+    },
+    {
+      "surface": "לבדנה",
+      "gloss": "بەتەنهای"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:57.142255316Z",
+  "model": "glm-5.3"
+}

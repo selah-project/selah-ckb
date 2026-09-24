@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و لەسەر سنووری زەڤولون لە لای ڕۆژهەڵاتەوە تا لای ڕۆژاوا گاد یەکە",
+  "tokens": [
+    {
+      "surface": "وעל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنوور"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زەڤولون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ڕۆژهەڵاتەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "لای"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ڕۆژاوا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:33.018262315Z",
+  "model": "glm-5.3"
+}

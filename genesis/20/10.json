@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و ئاڤیمەلێخ بە ئەڤراهامی وت: چیت بینی، کە ئەم کارەت کرد؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ئاڤیمەلێخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئەڤراهام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "بینیوتە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردووتە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم کارە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:36.393884458Z",
+  "model": "glm-5.3"
+}

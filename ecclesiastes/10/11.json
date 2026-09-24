@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ئەگەر مارەکە بەبێ جادوو گاز بگرێت، سوودێک نییە بۆ خاوەن زمانەکە.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "گاز بگرێت"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مارەکە"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "جادوو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "سوود"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "بۆ خاوەن"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "زمانەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:40.588294135Z",
+  "model": "glm-5.3"
+}

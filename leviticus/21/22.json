@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "نانی ئێلۆهیمی خۆی، لە پیرۆزترین پیرۆزەکان و لە پیرۆزەکان دەخوات.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نانی"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ئێلۆهیمی خۆی"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "لە پیرۆزترین"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:43.550998353Z",
+  "model": "glm-5.3"
+}

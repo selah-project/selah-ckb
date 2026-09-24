@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و بیلها کۆمەڵتی ڕاچێل دیسان سکی پڕ کرد و بۆ یەعقوب کوڕێکی دووەمی بوێژا.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "سکی پڕ کرد و"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیسان"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "بوێژا و"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بیلها"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "کۆمەڵتی"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ڕاچێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێک"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "بۆ یەعقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:42.962107616Z",
+  "model": "glm-5.3"
+}

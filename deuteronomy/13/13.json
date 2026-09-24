@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 13:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەگەر لە یەکێک لە شارەکانت بیبیستیت — کە یاهوە ئێلۆهیمی تۆ دەیداتێ بۆ دانیشتنی لێی — بەم زاراوەیە کە:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "بیبیستیت"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "لە یەکێک"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "لە شارەکانت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "بۆ دانیشتن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زاراوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:41:08.983787665Z",
+  "model": "glm-5.3"
+}

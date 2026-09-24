@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و بوو لە کۆتایی حەوت ڕۆژدا، ئاوەکانی تۆفان هاتنە سەر زەوییەکە.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "لە کۆتایی حەوت"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و ئاوەکانی"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "تۆفان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "هاتنە سەر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوییەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:07.712244997Z",
+  "model": "glm-5.3"
+}

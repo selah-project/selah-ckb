@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "یەعقوب پێیانی هەڵگرت و بۆ زەوی کوڕەکانی ڕۆژهەڵات ڕۆیی.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "هەڵگرت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "پێیانی"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیی"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "بۆ زەوی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ڕۆژهەڵات"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:37.173319841Z",
+  "model": "glm-5.3"
+}

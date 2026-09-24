@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و یەعقوڤ ⟨את⟩ ڕووی لاڤانی بینی، و ئەوەتا وەک دوێنێ و پێش دوێنێ لەگەڵی نەبوو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوڤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاڤان"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نەبوو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "وەک دوێنێ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "و پێش دوێنێ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:29.565969816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 5:29",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و بۆ شلۆمۆ حەفتا هەزار بارهەڵگر بوون، و هەشتا هەزار بڕینار لە چیا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "بۆ شلۆمۆ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "حەفتا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "بارهەڵگر"
+    },
+    {
+      "surface": "סבל",
+      "gloss": "بار"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "و هەشتا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "بڕینار"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:47:14.501194026Z",
+  "model": "glm-5.3"
+}

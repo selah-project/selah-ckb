@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "سوژدەی کرد و وتی: خزمەتکاری تۆ کێیە، کە ڕووی تۆ کردووەتە لای سەگی مردووی وەکوو من؟",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "سوژدەی کرد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خزمەتکاری تۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "ڕووی تۆ کردووەتە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "سەگ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مردوو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "وەکوو"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T11:34:24.531080467Z",
+  "model": "glm-5.3"
+}

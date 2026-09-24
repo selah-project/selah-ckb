@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بەڵام داود ⟨את⟩ قەڵاتەکەی سیۆنی گرت — ئەوە شارەکەی داودە.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قەڵاتەکە"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "قەڵات"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سیۆن"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-09-24T11:33:40.567703960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 115,
+  "translation": "ئێلۆهیمەمان لە ئاسمانەکاندایە؛ هەموو ئەوەی ویستی کردووە.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "و ئێلۆهیمەمان"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "لە ئاسمانەکاندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ویستی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردووە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:36.747067156Z",
+  "model": "glm-5.3"
+}

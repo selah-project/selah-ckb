@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "شەلۆمۆ ⟨سولەیمان⟩ پاشا بۆ خۆی لە دارەکانی لەڤانۆن تاقتەڕەوانێکی دروستکرد.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "تاقتەڕەوان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دروستکرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شەلۆمۆ ⟨سولەیمان⟩"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "لە دارەکانی"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لەڤانۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:18.717782292Z",
+  "model": "glm-5.3"
+}

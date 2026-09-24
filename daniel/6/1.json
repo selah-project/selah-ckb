@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 6:1",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "داریاوشی مادایي شانشینی وەرگرت، کاتێک نزیکەی شەست و دوو ساڵ بوو.",
+  "tokens": [
+    {
+      "surface": "ודריוש",
+      "gloss": "داریاوشی"
+    },
+    {
+      "surface": "מדיא",
+      "gloss": "مادایي"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "وەرگرت"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "شانشینی"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "کاتێک نزیکەی"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "شەست"
+    },
+    {
+      "surface": "ותרתין",
+      "gloss": "و دوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:06:57.541873436Z",
+  "model": "glm-5.3"
+}

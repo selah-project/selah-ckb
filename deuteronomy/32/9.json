@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "چونکە پارەی یاهوە گەلەکەیەتی، یەعقوب ⟨هەڵبژاردەی⟩ کەڵەکەی میراتەکەیەتی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "پارە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گەلەکەی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "⟨هەڵبژاردەی⟩ کەڵ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراتەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:19.111332066Z",
+  "model": "glm-5.3"
+}

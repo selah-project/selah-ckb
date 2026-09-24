@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئەو جلەی کە نەخۆشیی تووشبوونێکی تێدا بێت، لە جلی پەشمیدا یان لە جلی کتانا",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "و ئەو جلەی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێدا"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نەخۆشی"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "تووشبوون"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "لە جلی"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "پەشمی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "لە جلی"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "کتانا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:31.316030020Z",
+  "model": "glm-5.3"
+}

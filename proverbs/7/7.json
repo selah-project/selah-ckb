@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و لە ناوداواندا بینیم، لە کوڕاندا تێگەیشتم: گەنجێکی کەم عەقل.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "و بینیم"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "لە ناوداواندا"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "تێگەیشتم"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "لە کوڕاندا"
+    },
+    {
+      "surface": "נער",
+      "gloss": "گەنجێکی"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کەم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "عەقل"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:09.184706200Z",
+  "model": "glm-5.3"
+}

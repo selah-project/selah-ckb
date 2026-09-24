@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "و کوڕەکانی لێڤی: گێرشۆن و قەهات و مێراری.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گێرشۆن"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قەهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "و مێراری"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:58.481730188Z",
+  "model": "glm-5.3"
+}

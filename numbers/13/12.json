@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بۆ هۆزی دان عەمیئێل ⟨عەمیئێل⟩ کوڕی گەمەلی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عەمیئێل ⟨عەمیئێل⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "گەمەلی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:41.581674404Z",
+  "model": "glm-5.3"
+}

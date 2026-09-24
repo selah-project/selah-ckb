@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و داود بیستی و ⟨את⟩ یوئاب و ⟨את⟩ هەموو لەشکری بەهێزەکانی نارد.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و بیستی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "و ناردی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوئاب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوئاب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو لەشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لەشکر"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "بەهێزەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:17.801876140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "مرۆڤ، لە ژن لەدایکبوو، کەمی ڕۆژە و پڕە لە نائارامی.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "لەدایکبوو"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "کەم"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و پڕ"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "نائارامی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:38:10.107493919Z",
+  "model": "glm-5.3"
+}

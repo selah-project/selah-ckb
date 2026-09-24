@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "چونکە بە لێوی گاڵتەجاڕ و بە زمانێکی دیکە دەقسێت لەگەڵ ئەم گەلە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "بە لێوی گاڵتەجاڕ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لێو"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "و بە زمان"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "یەکێکی دیکە"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "دەقسێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:52.354689140Z",
+  "model": "glm-5.3"
+}

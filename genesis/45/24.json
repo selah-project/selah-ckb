@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "و براکانی ⟨את⟩ نارد و ڕۆیشتن، و پێیان فەرموو: لە ڕێگادا توڕە مەبن.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و نارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "براکانی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "براکانی"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و ڕۆیشتن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "توڕە بن"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگادا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:33:13.081750678Z",
+  "model": "glm-5.3"
+}

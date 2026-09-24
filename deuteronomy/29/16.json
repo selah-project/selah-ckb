@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و بینیتان ⟨את⟩ قێزەونەکانیان و ⟨את⟩ بتەکانیان، دار و بەرد، زیو و زێر، کە لەگەڵیان بوون",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "و بینیتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قێزەونەکانیان"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "قێزەونەکانیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بتەکانیان"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "بتەکانیان"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و بەرد"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و زێر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "لەگەڵیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:42.679289390Z",
+  "model": "glm-5.3"
+}

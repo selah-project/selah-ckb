@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و فیرعەون ⟨את⟩ دڵی خۆی قورس کرد، هەروەها لەم جارەدا، و گەلەکە ⟨את⟩ نەنێرێتە دەرەوە.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "و قورس کرد"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیرعەون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵی خۆی"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی خۆی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "لە… جار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەلەکە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:40:20.581887675Z",
+  "model": "glm-5.3"
+}

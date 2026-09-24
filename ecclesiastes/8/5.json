@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "شوێنکەوتووی فەرمان هیچ شتێکی خراپ نازانێت، و کات و دادپەروەری دڵی زاناو دەزانێت.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "شوێنکەوتوو"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "فەرمان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کات"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و دادپەروەری"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "زاناو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:51.994068226Z",
+  "model": "glm-5.3"
+}

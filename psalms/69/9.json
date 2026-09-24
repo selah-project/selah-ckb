@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "بیانی بووم بۆ برایەکانم و نامۆ بۆ کوڕانی دایکم.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "بیانی"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "بۆ برایەکانم"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "و نامۆ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "دایکم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:10.500636503Z",
+  "model": "glm-5.3"
+}

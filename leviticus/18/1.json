@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ فەرموویەوە و وتی",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموویەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:06:19.937535278Z",
+  "model": "glm-5.3"
+}

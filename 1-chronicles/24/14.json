@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بۆ بیڵگا پێنج دە، بۆ ئیمەر شەش دە.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "بۆ بیڵگا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ ئیمەر"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:44.435697089Z",
+  "model": "glm-5.3"
+}

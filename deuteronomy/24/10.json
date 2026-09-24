@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "کاتێک بە هاوڕێیت قەرزێکی هەر شتێک بدەیت، ناچیتە ناو ماڵی ئەو بۆ وەرگرتنی زەمینی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "بدەیت"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "بە هاوڕێیت"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "قەرز"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هەر شتێک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ناچیتە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ناو ماڵی ئەو"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "بۆ وەرگرتنی"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "زەمینی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:08.376935895Z",
+  "model": "glm-5.3"
+}

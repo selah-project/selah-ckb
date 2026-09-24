@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "هەموو گەلەکان بە دەست تەقە بکەن، بە دەنگی هەرا بۆ ئێلۆهیم بانگ بکەن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "تەقە بکەن"
+    },
+    {
+      "surface": "כף",
+      "gloss": "بە دەست"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "بانگ بکەن"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بۆ ئێلۆهیم"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "بە دەنگی"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "هەرا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:21.432813484Z",
+  "model": "glm-5.3"
+}

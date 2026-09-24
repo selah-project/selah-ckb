@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "گاڵتەکار بڕەوانە و ململانێ دەردەچێت و کێشە و شەرم بەس دەچن.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "بڕەوانە"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "گاڵتەکار"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و دەردەچێت"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ململانێ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "و بەس دەچن"
+    },
+    {
+      "surface": "דין",
+      "gloss": "کێشە"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "و شەرم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:29.103381708Z",
+  "model": "glm-5.3"
+}

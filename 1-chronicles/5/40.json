@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و عەزەریا ⟨את⟩ سێرایای بەخێوکرد و سێرایا ⟨את⟩ یەهۆساداقی بەخێوکرد.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "و عەزەریا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێوکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سێرایا"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سێرایا"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "و سێرایا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێوکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەهۆساداق"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "یەهۆساداق"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:47.399739443Z",
+  "model": "glm-5.3"
+}

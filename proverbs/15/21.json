@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "گەمژەیی شادییە بۆ کەم‌دڵ، و پیاوی تێگەیشتن ڕێگای ڕاست دەکات بۆ ڕۆیشتن.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "گەمژەیی"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادییە"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "بۆ کەم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوی"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تێگەیشتن"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "ڕاست دەکات"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "بۆ ڕۆیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:45.595229615Z",
+  "model": "glm-5.3"
+}

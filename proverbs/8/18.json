@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "دەوڵەمەندی و شکۆ لەگەڵ منن؛ سامانی درێژخایەن و دادپەروەری.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دەوڵەمەندی"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و شکۆ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ لەگەڵ من",
+      "marks": "دەوڵەمەندی و شکۆ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "درێژخایەن"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "و دادپەروەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:40.852756558Z",
+  "model": "glm-5.3"
+}

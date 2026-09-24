@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و چوو و گۆمەری ⟨دبلایم⟩ کچی دیبلایمی گرت، و دوکی گرت و کوڕێکی بۆ لەدایک کرد.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گۆمەر"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گۆمەر"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "دیبلایم"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "و دوکی گرت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و لەدایکی کرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:29:06.348150143Z",
+  "model": "glm-5.3"
+}

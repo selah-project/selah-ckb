@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "وەڵامی نەفام بە گێلەیی خۆی مەدەوێ، ئەگینا تۆیش دەبیتە هاوشێوەی ئەو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תען",
+      "gloss": "وەڵام بدە"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نەفام"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "بە گێלەیی خۆی"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ئەگینا"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "دەبیتە هاوشێوە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:01.574563994Z",
+  "model": "glm-5.3"
+}

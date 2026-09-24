@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "حەتسرۆ کەرمیلی، پەعەرای ئەرپی،",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "حەتسرۆ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "کەرمیلی"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "پەعەرای"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ئەرپی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:04.891891895Z",
+  "model": "glm-5.3"
+}

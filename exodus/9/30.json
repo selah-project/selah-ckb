@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و تۆ و خزمەتکارانت دەزانم کە هێشتا لە ڕووی یاهوە ئێلۆهیم ناترسن.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "و خزمەتکارانت"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دەزانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ناترسن"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لە ڕووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:40:13.354406040Z",
+  "model": "glm-5.3"
+}

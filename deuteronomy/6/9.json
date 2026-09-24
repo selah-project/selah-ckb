@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و دەینووسیت لەسەر لەشتی دەرگاکانی ماڵەکەت و لەسەر دەرگاکانت.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "و دەینووسیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "لەشتی دەرگاکانی"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ماڵەکەت"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "و لەسەر دەرگاکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:28.974217013Z",
+  "model": "glm-5.3"
+}

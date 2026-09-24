@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "منیش لەسەر تۆ پشتم بەست، ئەی یاهوە، وتم ئێلۆهیمی تۆی.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "منیش"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەر تۆ"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "پشتم بەست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:27.756525619Z",
+  "model": "glm-5.3"
+}

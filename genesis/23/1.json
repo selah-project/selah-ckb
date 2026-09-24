@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ژیانی سارە ⟨سارا⟩ سەد ساڵ و بیست ساڵ و حەوت ساڵ بوو؛ ساڵانی ژیانی سارە بوون.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ژیانی"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارە ⟨سارا⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ساڵانی"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ژیانی"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:19:39.221154291Z",
+  "model": "glm-5.3"
+}

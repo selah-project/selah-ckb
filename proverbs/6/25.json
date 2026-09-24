@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "جوانیی ⟨ئەو⟩ لە دڵتدا مەپەرێنە و با لە پلکەکانی ⟨ئەو⟩ نەباتت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תחמد",
+      "gloss": "مەپەرێنە"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "جوانیی ⟨ئەو⟩"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "لە دڵتدا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و با"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "نەباتت"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "لە پلکەکانی ⟨ئەو⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:03.943950389Z",
+  "model": "glm-5.3"
+}

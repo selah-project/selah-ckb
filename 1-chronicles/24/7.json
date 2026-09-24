@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و قوڕاخەکەی یەکەم بۆ یاهویرێب ⟨دەرچوو⟩، بۆ یێدعیا دووەم.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و ⟨دەرچوو⟩"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قوڕاخەکەی"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "بۆ یاهویرێب"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "بۆ یێدعیا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:37.927826353Z",
+  "model": "glm-5.3"
+}

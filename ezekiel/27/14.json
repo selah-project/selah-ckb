@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 27:14",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "لە ماڵی تۆگەرمە ئەسپ و سوار و وردەئەسپ عەزەبۆنی تۆیان دا.",
+  "tokens": [
+    {
+      "surface": "מבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "תוגרמה",
+      "gloss": "تۆگەرمە"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ئەسپ"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "و سوار"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "و وردەئەسپ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "داویان"
+    },
+    {
+      "surface": "עזבוניך",
+      "gloss": "عەزەبۆنی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T16:01:16.592690569Z",
+  "model": "glm-5.3"
+}

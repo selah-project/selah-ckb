@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و وەڵامم دایەوە و وتیم بە فریشتەی قسەکەر لەگەڵم: ئەمانە چیین، ئەی ئادۆنایم؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "و وەڵامم دایەوە"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و وتیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فریشتە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسەکەر"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لەگەڵم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چیین"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئەی ئادۆنایم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:07.093169353Z",
+  "model": "glm-5.3"
+}

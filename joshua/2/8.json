@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئەوان پێش ئەوەی بخەون، ئەو هاتە سەرەوە بۆ لایان، لەسەر سەربان.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "و ئەوان"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "پێش ئەوەی"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "بخەون"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "هاتە سەرەوە"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بۆ لایان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "سەربان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:52:02.452323900Z",
+  "model": "glm-5.3"
+}

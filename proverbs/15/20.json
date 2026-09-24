@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "کوڕێکی زانا باوک شاد دەکات، و گێلی مرۆڤ دایکی بێڕێز دەکات.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "زانا"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد دەکات"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باوک"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "و گێلی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "بێڕێز دەکات"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:28.117977801Z",
+  "model": "glm-5.3"
+}

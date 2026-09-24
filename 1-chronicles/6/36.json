@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "بوکی کوڕی ئەو، عوزی کوڕی ئەو، زەراحیا کوڕی ئەو.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "بوکی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی ئەو"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عوزی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی ئەو"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زەراحیا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:19.295909594Z",
+  "model": "glm-5.3"
+}

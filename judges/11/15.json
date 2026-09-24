@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و پێی فەرموو: وا یفتاح دەڵێت: ئیسرائیل ⟨את⟩ زەوی موئاڤ و ⟨את⟩ زەوی کوڕانی عەمۆنی نەگرتووە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یفتاح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرتووە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەوی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاڤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زەوی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عەمۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:10:40.761999525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ فەرموو، بە وتنی",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:01.041354317Z",
+  "model": "glm-5.3"
+}

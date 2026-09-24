@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و من بیستم و تێنەگەیشتم، و وتmehrم: ئەی ئادۆنایم، چی ⟨دەبێت⟩ کۆتایی ئەمانە؟",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "بیستم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "تێنەگەیشتم"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "و وتmehrم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئەی ئادۆنایم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "کۆتایی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:10:19.793655845Z",
+  "model": "glm-5.3"
+}

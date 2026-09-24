@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 22:19",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و ئێستا تکایە ئێوەش لەم شەوە بمێننەوە، و بزانم چی یاهوە زیاتر دەکات لە قسەکردن لەگەڵ من.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "بمێننەوە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "لێرە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەرواها"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ئەم شەوە"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "و بزانم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "زیاتر دەکات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەکردن"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "لەگەڵ من"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:26.663309126Z",
+  "model": "glm-5.3"
+}

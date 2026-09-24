@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ئەگەر فرۆشتنێک دەفرۆشن بۆ هاوڕێت، یان دەکڕن لە دەستی هاوڕێت، مەکەن زوڵم پیاوێک ⟨את⟩ برای خۆی.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "دەفرۆشن"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "فرۆشتنێک"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "بۆ هاوڕێت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "دەکڕن"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "لە دەستی"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "هاوڕێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "زوڵم بکەن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برای خۆی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:10:53.295572405Z",
+  "model": "glm-5.3"
+}

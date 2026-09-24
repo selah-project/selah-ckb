@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "وای بۆ ئەوەی یاخیبووە و پیسکراوە، شارِ ستەمکارەکە!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "یاخیبووە"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "و پیسکراوە"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ستەمکارەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:41:45.421582649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و یاهوە لەگەڵ مەناشە و لەگەڵ گەلەکەی قسەی کرد و گوێیان نەگرت.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەناشە"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گەلەکەی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "گوێیان نەگرت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:44:25.278235413Z",
+  "model": "glm-5.3"
+}

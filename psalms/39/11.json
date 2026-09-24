@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "لێدانت لەسەرم لابدە، لە پەلاماری دەستت من تەواو بووم.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "لابدە"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "لەسەرم"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "لێدانت"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "لە پەلاماری"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "تەواو بووم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:03.656605813Z",
+  "model": "glm-5.3"
+}

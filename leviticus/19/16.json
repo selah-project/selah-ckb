@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "لە نێو گەلەکەتدا بە خووشخەبەری مەگەڕێ، لەسەر خوێنی هاوڕێیەکەت ڕامەستە؛ من یاهوەم.",
+  "tokens": [
+    {
+      "surface": "لא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "مەگەڕێ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "بە خووشخەبەری"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "لە نێو گەلەکەتدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ڕامەستە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خوێنی"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "هاوڕێیەکەت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:05.071409740Z",
+  "model": "glm-5.3"
+}

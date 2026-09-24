@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و هامان بۆ پادشای وت: ⟨بۆ⟩ پیاوەی کە پادشا حەز بە شکۆنەکردنی دەکات،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "حەز دەکات"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "بە شکۆنەکردنی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:00:05.707181155Z",
+  "model": "glm-5.3"
+}

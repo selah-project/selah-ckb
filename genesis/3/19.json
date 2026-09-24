@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بە ئارقی ڕووت نان دەخۆیت، هەتا گەڕانەوەت بۆ زەویەکە، چونکە لێی وەرگیراویت؛ چونکە تۆ خۆڵی و بۆ خۆڵ دەگەڕێیتەوە.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "بە ئارق"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "دەخۆیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "گەڕانەوەت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "وەرگیراویت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خۆڵ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خۆڵ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "دەگەڕێیتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:46.512325189Z",
+  "model": "glm-5.3"
+}

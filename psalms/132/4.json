@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 132,
+  "translation": "ئەگەر بە چاوەکانم خەو بدەم، بە پەڵەکانم چرپەخەو،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "بدەم"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "خەو"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "بە چاوەکانم"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "بە پەڵەکانم"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "چرپەخەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:21.570325065Z",
+  "model": "glm-5.3"
+}

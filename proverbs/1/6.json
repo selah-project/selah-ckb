@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بۆ تێگەیشتن لە مەسەل و وێنە، قسەی حەکیمان و پوچکاڵەکانیان.",
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "بۆ تێگەیشتن"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مەسەل"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "و وێنە"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "قسەی"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حەکیمان"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "و پوچکاڵەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:50.365189098Z",
+  "model": "glm-5.3"
+}

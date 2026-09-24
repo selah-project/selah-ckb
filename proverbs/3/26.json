@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چونکە یاهوە دەبێتە پشتبەستنی تۆ و پێی تۆ لە بەند دەپارێزێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "پشتبەستنی تۆ"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "و دەپارێزێت"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پێی تۆ"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "لە بەند"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:06.383713674Z",
+  "model": "glm-5.3"
+}

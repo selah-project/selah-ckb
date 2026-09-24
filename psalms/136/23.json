@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "کە لە نزمداوماندا یادی کردین، چونکە بۆ هەمیشەیە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "لە نزمداوماندا"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یادی کردین"
+    },
+    {
+      "surface": "לנو",
+      "gloss": "ئێمە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "חסדو",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:07.664615692Z",
+  "model": "glm-5.3"
+}

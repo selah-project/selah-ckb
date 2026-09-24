@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "زنجیرێک بەستە، چونکە زەوی پڕە لە حوکمی خوێنەکان و شار پڕە لە توندوتیژی",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "بەستە"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "زنجیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕە"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حوکمی"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خوێنەکان"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "و شار"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕە"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "توندوتیژی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:05:18.114658088Z",
+  "model": "glm-5.3"
+}

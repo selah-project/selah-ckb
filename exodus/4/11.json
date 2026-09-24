@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و یاهوە فەرمووی بە ئەو: کێ دەمی بۆ مرۆڤ داناوە، یان کێ دەیکات بێدەم، یان کەڕ، یان بیناو، یان کوێر؟ ئەر نەخێر منم یاهوە؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بە ئەو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "داناوە"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بۆ مرۆڤ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "دادەنێت"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "بێدەم"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کەڕ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "بیناو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کوێر"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئەر نەخێر"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "منم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:38:44.983712309Z",
+  "model": "glm-5.3"
+}

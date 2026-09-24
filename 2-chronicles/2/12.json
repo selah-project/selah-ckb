@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئێستا پیاوێکی ژیرم ناردووە، زانای تێگەیشتن، بۆ حورام باوکم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ناردووە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێکی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ژیر"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "زانای"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "بۆ حورام"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:38.116790125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "ئاوەکانیانی کردە خوێن، و ماسییەکانیانی مەراند",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "کردە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاوەکانیان"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ئاوەکانیان"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "بۆ خوێن"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مەراند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماسییەکانیان"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ماسییەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:37.313542453Z",
+  "model": "glm-5.3"
+}

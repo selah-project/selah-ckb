@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "سێرایا عەزەریا ییرمیا",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "سێرایا"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عەزەریا"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ییرمیا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:30.294272205Z",
+  "model": "glm-5.3"
+}

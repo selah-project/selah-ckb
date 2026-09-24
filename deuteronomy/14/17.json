@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و قازە شینە و ⟨את⟩ هەڵۆی دەریایی و ⟨את⟩ باڵندەی ماسیخۆر",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "قازە شینە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەڵۆی دەریایی"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "هەڵۆی دەریایی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "باڵندەی ماسیخۆر"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "باڵندەی ماسیخۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:02.788337404Z",
+  "model": "glm-5.3"
+}

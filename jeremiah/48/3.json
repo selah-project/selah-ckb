@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "دەنگێکی هاوارکردن لە حۆرۆنایم: وێرانکاری و شکستنێکی گەورە",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "دەنگێکی"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "هاوارکردن"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "لە حۆرۆنایم"
+    },
+    {
+      "surface": "שד",
+      "gloss": "وێرانکاری"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "و شکستنێکی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:00:00.362734427Z",
+  "model": "glm-5.3"
+}

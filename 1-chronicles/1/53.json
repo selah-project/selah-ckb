@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "سەرکردە قیناز، سەرکردە تێمان، سەرکردە میبتسار.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سەرکردە"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قیناز"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سەرکردە"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تێمان"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سەرکردە"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "میبتسار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:22.756895647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "لە هەموو پاراستنێکەوە دڵت بپارێزە، چونکە لەوەوە دەرهێنەکانی ژیانن.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "پاراستن"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لەوەوە"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "دەرهێنەکانی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:22.017462530Z",
+  "model": "glm-5.3"
+}

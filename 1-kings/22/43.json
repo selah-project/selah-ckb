@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 22:43",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "لە هەموو ڕێگای ئاسا باوکی ڕۆیی، لێی نەسوڕایەوە، بۆ کردنی ڕاستی لە چاوانی یاهوە.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ئاسا"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "סר",
+      "gloss": "سوڕایەوە"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردنی"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:57:15.398522750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ ئەمانە لە باڵندەکان پیس بزانن، نەخۆردەبن، پیسن: ⟨את⟩ نەشێر و ⟨את⟩ پەرێس و ⟨את⟩ عەزنییە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئەمانە"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "پیس بزانن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "باڵندەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خۆردەبن"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "پیس"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نەشێر"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "نەشێر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پەرێس"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "پەرێس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەزنییە"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "عەزنییە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:27.604043298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و وشەی یاهوە هات لای ییرمیاہوو ⟨ئیرمیا⟩ پێغەمبەر، بەمەی فەرموو:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ییرمیاہوو ⟨ئیرمیا⟩"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەمەی فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:55:49.693492395Z",
+  "model": "glm-5.3"
+}

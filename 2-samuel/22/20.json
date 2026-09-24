@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و بۆ شوێنی فراوان ⟨את⟩ من دەرهێنا، ڕزگاری کردم، چونکە منی خۆشویست.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرهێنا"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "بۆ شوێنی فراوان"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "ڕزگاری کردم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خۆشویست"
+    },
+    {
+      "surface": "בי",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:45.104289311Z",
+  "model": "glm-5.3"
+}

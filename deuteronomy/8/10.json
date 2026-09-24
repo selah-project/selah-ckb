@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و دەخۆیت و تێر دەبیت، و ⟨את⟩ یاهوە ئێلۆهیمی خۆت بە زەویە باشەکەی سوپاس دەکەیت کە بە تۆی داوە.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "و دەخۆیت"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "و تێر دەبیت"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "و سوپاس دەکەیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی خۆت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "باشەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داوە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:33.334160247Z",
+  "model": "glm-5.3"
+}

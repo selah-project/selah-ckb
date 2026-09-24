@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "حەوت مانگا خۆشەکان حەوت ساڵن، و حەوت دەستە خۆشەکان حەوت ساڵن؛ خەونەکە یەک ⟨ئەوەیە⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "مانگا"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "خۆشەکان"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هەن"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "دەستەکان"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "خۆشەکان"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "هەن"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خەون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئەوەیە⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T09:30:19.428266434Z",
+  "model": "glm-5.3"
+}

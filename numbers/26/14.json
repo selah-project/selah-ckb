@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "ئەمانە بنەماڵەکانی شیمعۆنین، بیست و دوو هەزار و دوو سەد",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "بنەماڵەکانی"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "شیمعۆنین"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "و دوو سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:27:42.163405734Z",
+  "model": "glm-5.3"
+}

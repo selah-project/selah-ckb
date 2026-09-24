@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "نەفرەتلێکراوە ئەوەی سەدەرە وەرگرتن بۆ لێدان گیانێک خوێنی بێتاوان، و هەموو گەلەکە دەڵێت ئامێن.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نەفرەتلێکراوە"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ئەوەی وەرگرتن"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "سەدەرە"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "بۆ لێدان"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیانێک"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خوێنی"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بێتاوان"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامێن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:43.821970855Z",
+  "model": "glm-5.3"
+}

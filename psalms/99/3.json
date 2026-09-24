@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 99,
+  "translation": "ستایشی ناوت بکەن — گەورە و پڕشکاو — ئەو پیرۆزە.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ستایش دەکەن"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "و پڕشکاو"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:52.879434276Z",
+  "model": "glm-5.3"
+}

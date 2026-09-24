@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە یاهوە ئێلۆهیمت ئاگرێکی خۆراکەرە، ئەو ئێلێکی قەنوەتە",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "خۆراکەر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "قەنوەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:04.802181424Z",
+  "model": "glm-5.3"
+}

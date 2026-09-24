@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "هەموو ڕێگای پیاو ڕاستە لە چاوەکانی خۆیدا، بەڵام یاهوە دڵەکان دەپێوێتەوە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاستە"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "لە چاوەکانی خۆیدا"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "بەڵام دەپێوێتەوە"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "دڵەکان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:01.957791599Z",
+  "model": "glm-5.3"
+}

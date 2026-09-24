@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "یاهوە ⟨את⟩ بارانی زەویەکەت دەکات بە تۆز و خۆڵ؛ لە ئاسمانەوە دێتە خوارەوە لەسەر تۆ، تا لەناوبردنی تۆ.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دەکات بە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بارانەکە"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "باران"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "زەویەکەت"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "تۆز"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "و خۆڵ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەوە"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "دێتە خوارەوە"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەر تۆ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "لەناوبردنت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:36.413707359Z",
+  "model": "glm-5.3"
+}

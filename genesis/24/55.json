@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "genesis 24:55",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و برای و دایکی وتیان: با کچەکە ⟨את⟩ لەگەڵمان ڕۆژانێک یان دە ڕۆژ بمێنێت، پاشان بڕوات.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتیان"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "برای"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "و دایکی"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "بمێنێت"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "کچەکە"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ لەگەڵمان"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژانێک"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "دە ڕۆژ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "پاشان"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "بڕوات"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:10.304652663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و کوڕەکانی مێراری ⟨هی⟩ برایانیان لای چەپ ⟨ئەوەن⟩: ئەیتان ⟨مەل>: کوڕی قیشی، کوڕی عەبدی، کوڕی مەلوخ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مێراری"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "برایانیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لای"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "چەپ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ئەیتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "قیشی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عەبدی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "مەلوخ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:01.843178322Z",
+  "model": "glm-5.3"
+}

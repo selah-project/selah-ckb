@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "یاهوە قسەی کرد لەگەڵ مۆشە ⟨موسا⟩ و فەرمووی:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:07:17.672391817Z",
+  "model": "glm-5.3"
+}

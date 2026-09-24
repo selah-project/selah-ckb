@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 33:18",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "گیانی لە چاڵ دەپارێزێت و ژیانی لە تێپەڕین بە ڕم",
+  "tokens": [
+    {
+      "surface": "יחשך",
+      "gloss": "دەپارێزێت"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "چاڵ"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "و ژیانی"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "تێپەڕین"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "بە ڕم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:08.089717891Z",
+  "model": "glm-5.3"
+}

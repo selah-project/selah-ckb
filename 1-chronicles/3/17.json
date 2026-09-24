@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و کوڕەکانی یێخۆنییاهو ⟨ئەسیر⟩، شەئەلتیئێل کوڕی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یێخۆنییاهو"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "⟨ئەسیر⟩"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "شەئەلتیئێل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:09.086360518Z",
+  "model": "glm-5.3"
+}

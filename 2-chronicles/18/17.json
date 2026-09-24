@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و شای ئیسرائیل فەرمووی بۆ یەهۆشافات: ئایا نەموت بۆ تۆ کە چاک بۆ من پێغەمبەرێت ناکات، بەڵکو بۆ خراپی؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شای"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یەهۆشافات"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "نەموت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناکات"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "پێغەمبەرێت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לרע",
+      "gloss": "بۆ خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:38:39.557734472Z",
+  "model": "glm-5.3"
+}

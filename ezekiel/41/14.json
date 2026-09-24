@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و پانیی ڕووی ماڵەکە و جیاکراوەکە بەرەو ڕۆژهەڵات، سەد ئارشین.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "و پانیی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ماڵەکە"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "و جیاکراوەکە"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "بەرەو ڕۆژهەڵات"
+    },
+    {
+      "surface": "مאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ئارشین"
+    }
+  ],
+  "timestamp": "2026-09-24T13:24:07.292721734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 22:33",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئێل قەڵای من و هێزی منە، و ڕێگای بێگوناهەکە یەکسان دەکات",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "قەڵای من"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "هێزی شەڕ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "یەکسان دەکات"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بێگوناهەکە"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ڕێگای"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:57.661800831Z",
+  "model": "glm-5.3"
+}

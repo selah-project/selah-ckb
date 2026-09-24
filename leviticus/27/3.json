@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 27:3",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "ئەوا بهای تۆ بۆ نێرینەکە لە بیست ساڵییەوە تا شەست ساڵی، با بهای تۆ پەنجا شەکەل زیو بێت، بە شەکەلی پیرۆزگا.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ئەوا"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "بهای تۆ"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "بۆ نێرینەکە"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "لە بیست ساڵییەوە"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شەست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "با ... بێت"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "بهای تۆ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شەکەل"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "بە شەکەلی"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزگا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:21.693271419Z",
+  "model": "glm-5.3"
+}

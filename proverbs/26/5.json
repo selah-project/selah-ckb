@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "گەمژە بە گەمژەیی خۆی وەڵام بدەوە، ئەگینا ⟨دەبێت⟩ داناو لە چاوی خۆیدا.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "وەڵام بدەوە"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "گەمژە"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "بە گەمژەیی خۆی"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ئەگینا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "داناو"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "لە چاوی خۆیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:59.716017378Z",
+  "model": "glm-5.3"
+}

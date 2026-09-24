@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و بە توڕەیی و بە کینە تۆڵە دەکەم ⟨את⟩ گەلان کە گوێیان نەگرت.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "و دەکەم"
+    },
+    {
+      "surface": "באף",
+      "gloss": "بە توڕەیی"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "و بە کینە"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "تۆڵە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەلان"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوێیان نەگرت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:36:09.744999283Z",
+  "model": "glm-5.3"
+}

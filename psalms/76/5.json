@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 76,
+  "translation": "ڕووناک تۆی، گەورە لە چیاکانی ڕاویت.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ڕووناک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "لە چیاکانی"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ڕاو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:29.421164767Z",
+  "model": "glm-5.3"
+}

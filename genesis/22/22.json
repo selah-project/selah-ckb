@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و ⟨את⟩ کێشەد، و ⟨את⟩ حەزۆ، و ⟨את⟩ پیلداش، و ⟨את⟩ ییدلاف، و ⟨את⟩ بێتوێئێڵ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کێشەد"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "کێشەد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حەزۆ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "حەزۆ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پیلداش"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "پیلداش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ییدلاف"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ییدلاف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بێتوێئێڵ"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بێتوێئێڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:32.088017764Z",
+  "model": "glm-5.3"
+}

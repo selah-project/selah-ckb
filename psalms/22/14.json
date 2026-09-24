@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "دەمەکانیان لەسەرم کردەوە، شێرێکی دڕێنەر و گڕە.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "کردەوە"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەرم"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "دەمەکانیان"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شێرێکی"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "دڕێنەر"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "و گڕە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:53.428012375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "زیرەکی دڵ فەرمانەکان وەردەگرێت، بەڵام گێلی شەونم ⟨دەکەوێت⟩.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "زیرەکی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وەردەگرێت"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فەرمانەکان"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "بەڵام گێلی"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "شەونم"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "دەکەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:10.820763113Z",
+  "model": "glm-5.3"
+}

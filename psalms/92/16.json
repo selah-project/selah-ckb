@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 92,
+  "translation": "بۆ ئەوەی ڕابگەیەنێت کە یاهوە ڕاستە، صەخرەی من، و ناڕاستی تێیدا نییە.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "بۆ ڕاگەیاندن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاستە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "صەخرەی من"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ناڕاستی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:16.540424232Z",
+  "model": "glm-5.3"
+}

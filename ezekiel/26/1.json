@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و بوو لە ساڵی یازدەیەمدا، لە یەکەمی مانگدا، وشەی یاهوە هاتە لای من بەم دەمە",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "لە یازدە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "لە یەکەمی"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم دەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:16:01.085370447Z",
+  "model": "glm-5.3"
+}

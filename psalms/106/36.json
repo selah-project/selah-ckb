@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 106,
+  "translation": "و ⟨את⟩ بتەکانیان خزمەت کرد و بوون بۆیان بۆ تەڵە.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "و خزمەتیان کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بتەکانیان"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "بتەکانیان"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "بۆ تەڵە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:47.406047112Z",
+  "model": "glm-5.3"
+}

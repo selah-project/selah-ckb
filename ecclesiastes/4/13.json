@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "باشتر ⟨هەیە⟩ منداڵی هەژار و لێهاتوو لە پاشایەکی بەساڵاچوو و نەفام، کە ئیتر نازانێت ئاگاداری وەربگرێت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "باشتر"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "منداڵ"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "هەژار"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "و لێهاتوو"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "لە پاشا"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "بەساڵاچوو"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "و نەفام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "ئاگاداری وەربگرێت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:48.031268245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "تاحات کوڕەکەی، ئوریێل کوڕەکەی، عوززیا کوڕەکەی، و شائول کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تاحات"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "ئوریێل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "عوززیا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "و شائول"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:41.086560349Z",
+  "model": "glm-5.3"
+}

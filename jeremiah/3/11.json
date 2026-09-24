@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 3:11",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و یاهوە بۆم فەرموو: ڕاست دەرچووە گیانی، ئیسرائیلی گەڕاوە، لە یەهودای خائن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ڕاست دەرچووە"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "گەڕاوە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "מבגדה",
+      "gloss": "لە خائن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:37:36.245644727Z",
+  "model": "glm-5.3"
+}

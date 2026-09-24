@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و وت بۆ ئەو: ئەگەر نییە ڕووەکانت دەڕۆن، مەهێنەمان لە ئەمێوە سەرەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووەکانت"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "دەڕۆن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "هێنانەمان"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "لە ئەمێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:54:24.458114615Z",
+  "model": "glm-5.3"
+}

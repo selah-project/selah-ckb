@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و ⟨את⟩ حیڤی و ⟨את⟩ عەرقی و ⟨את⟩ سینی،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حیڤی"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حیڤی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەرقی"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "عەرقی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سینی"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سینی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:11.925885998Z",
+  "model": "glm-5.3"
+}

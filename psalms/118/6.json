@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "یاهوە بۆ منە، ناترسم؛ مرۆڤ چی بۆ من دەکات؟",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ناترسم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:51.202998027Z",
+  "model": "glm-5.3"
+}

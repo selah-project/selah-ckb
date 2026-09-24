@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "تەم بپارێزە و ڕاست ببینە، چونکە دواڕۆژی پیاوی ئاشتی ⟨هەیە⟩.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "תם",
+      "gloss": "تەم"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببینە"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "دواڕۆژ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ پیاو"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:57.229865656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و هەموو دەیەمی زەوی — لە تۆوی زەوی و لە میوەی دار — ئەوەی یاهوەیە، پیرۆزی یاهوەیە.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "دەیەم"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "لە تۆوی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "لە میوەی"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:56.049679752Z",
+  "model": "glm-5.3"
+}

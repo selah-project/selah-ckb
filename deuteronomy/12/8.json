@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "وەک هەموو ئەوەی کە ئێمە لێرە ئەمڕۆ دەیکەین ناکەن — هەر پیاوێک ⟨هەموو⟩ ئەوەی ڕاستە لە چاوەکانی خۆیدا.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ناکەن"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "وەک هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ئێمە"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "دەیکەین"
+    },
+    {
+      "surface": "פה",
+      "gloss": "لێرە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هەر پیاوێک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ئەوەی ڕاستە"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "لە چاوەکانی خۆیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:52.321498527Z",
+  "model": "glm-5.3"
+}

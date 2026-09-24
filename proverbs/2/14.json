@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کە شادن بە کردنی خراپە، دڵخۆشن بە تەڵەکەی خراپە،",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "شادن"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بە کردنی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "دڵخۆشن"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "بە تەڵەکەی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:38.376237223Z",
+  "model": "glm-5.3"
+}

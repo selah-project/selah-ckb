@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و فریشتەی یاهوە لای یەهۆشوعا ⟨یوشا⟩ ئاگاداریکردەوە و فەرموو:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "و ئاگاداریکردەوە"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فریشتەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "لای یەهۆشوعا ⟨یوشا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:45.206062007Z",
+  "model": "glm-5.3"
+}

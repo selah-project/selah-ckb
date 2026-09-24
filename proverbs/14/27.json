@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ترسی یاهوە کانیی ژیانە، بۆ گەڕانەوە لە تەڵەکانی مردن.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "کانیی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "بۆ گەڕانەوە"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "لە تەڵەکانی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:40.808790310Z",
+  "model": "glm-5.3"
+}

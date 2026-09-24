@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "پاش ئەوە ئەییۆب ⟨ئەیوب⟩ ⟨את⟩ دەمی کردەوە و ⟨את⟩ ڕۆژەکەی نەفرەت لێکرد.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "پاش"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "کردەوە"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەییۆب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەمی"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "و نەفرەت لێکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕۆژەکەی"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ڕۆژەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:34:08.619342070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 68,
+  "translation": "ئادۆنای قسە دەدات؛ ئەو هەواڵبەرانە ژنانە — سوپایەکی زۆر.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قسە"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "ئەو هەواڵبەرانە ژنانە"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "سوپای"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:00.793834138Z",
+  "model": "glm-5.3"
+}

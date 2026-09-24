@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی باتسلوت، کوڕەکانی مەحیدا، کوڕەکانی حەرشا،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "باتسلوت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "مەحیدا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "حەرشا"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:21.366317918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 137,
+  "translation": "چۆن گۆرانی یاهوە ⟨את⟩ بۆ بزانین لە سەر زەویی بێگانە؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "بۆ بزانین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گۆرانی"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گۆرانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە سەر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زەویی"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بێگانە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:00.242692708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی قێرۆس، کوڕەکانی سیئاها، کوڕەکانی پادۆن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "قێرۆس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "سیئاها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "پادۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:10:40.227648094Z",
+  "model": "glm-5.3"
+}

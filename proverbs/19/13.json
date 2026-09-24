@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "کارەسات بۆ باوکی کوڕی نەفامە، و دڵۆپانێکی بەردەوام کێشەکانی ژن ⟨هەیە⟩.",
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "کارەسات"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "بۆ باوکی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نەفام"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "و دڵۆپان"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "فشار دەهێنێت"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "کێشەکانی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:42.302531163Z",
+  "model": "glm-5.3"
+}

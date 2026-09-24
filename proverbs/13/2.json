@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "لە بەرهەمی دەم مرۆڤ چاکە دەخوات، و گیانی نەیارەکان زوڵم ⟨دەخوات⟩.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "لە بەرهەمی"
+    },
+    {
+      "surface": "پי",
+      "gloss": "دەم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "و گیانی"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "نەیارەکان"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زوڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:15.911984137Z",
+  "model": "glm-5.3"
+}

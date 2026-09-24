@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئەویش بە ڕێگاکانی ماڵی ئەحئابدا ڕۆیشت، چونکە دایکی بوو بە ئامۆژگاردەری بۆ کردنی خراپە.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ئەویش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ڕۆیشت"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "بە ڕێگاکانی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ئەحئاب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "ئامۆژگاردەری"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "بۆ کردنی خراپە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:41:08.505377570Z",
+  "model": "glm-5.3"
+}

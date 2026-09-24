@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "پەیامگری شەڕ دەکەوێتە ناو خراپی، و نێردەی باوەڕداری چارەسەرە.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "پەیامگر"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "دەکەوێت"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ناو خراپی"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "و نێردە"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "باوەڕداری"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "چارەسەر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:28.689899218Z",
+  "model": "glm-5.3"
+}

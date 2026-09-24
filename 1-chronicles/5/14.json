@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ئەمانە کوڕانی ئەڤیهایل کوڕی حووری کوڕی یارۆح کوڕی گیلعەد کوڕی مایکێل کوڕی یەشیشای کوڕی یەحدو کوڕی بووز بوون.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "ئەڤیهایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "حووری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "یارۆح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعەد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "مایکێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "یەشیشای"
+    },
+    {
+      "surface": "بן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یەحدو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بووز"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:35.313411930Z",
+  "model": "glm-5.3"
+}

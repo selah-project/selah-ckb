@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و گێکۆ و گەورەکەسک و مارمێنکە و خشۆکی لم و هەڵگەڕاوە",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "و گێکۆ"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "و گەورەکەسک"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "و مارمێنکە"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "و خشۆکی لم"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "و هەڵگەڕاوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:29.828108984Z",
+  "model": "glm-5.3"
+}

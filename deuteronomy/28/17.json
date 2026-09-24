@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "نەفرەت لێکراوە سەبەتەکەت و کاسەی هەویرەکەت.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نەفرەت لێکراوە"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "سەبەتەکەت"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "و کاسەی هەویرەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:48:37.458781878Z",
+  "model": "glm-5.3"
+}

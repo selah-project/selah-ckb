@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 2:28",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "خواردن بە دراو بفرۆشەرەم و دەیخۆم، و ئاو بە دراو بیدەم و دەیخۆمەوە؛ تەنها بە پێمەوە تێپەڕم.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "خواردن"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بە دراو"
+    },
+    {
+      "surface": "תשברני",
+      "gloss": "بفرۆشەرەم"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "و دەیخۆم"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "و ئاو"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بە دراو"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بیدە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "م"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "و دەیخۆمەوە"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "تێپەڕم"
+    },
+    {
+      "surface": "ברגלי",
+      "gloss": "بە پێمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:34:00.500330735Z",
+  "model": "glm-5.3"
+}

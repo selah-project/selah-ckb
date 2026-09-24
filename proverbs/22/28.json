@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "سنووری کۆن مەجوڵێنە، ئەوەی باپیرانت دایناون.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "جوڵێنە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "کۆن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "دایناون"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "باپیرانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:58.011894201Z",
+  "model": "glm-5.3"
+}

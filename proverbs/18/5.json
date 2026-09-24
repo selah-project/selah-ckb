@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "هەڵگرتنی ڕووی خراپ لە باش نییە، بۆ لارکردنەوەی ڕاستودروست لە داد.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "هەڵگرتنی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "بۆ لارکردنەوە"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستودروست"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "لە داد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:48.979515983Z",
+  "model": "glm-5.3"
+}

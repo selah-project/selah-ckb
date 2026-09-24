@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "چونکە کێ ئێلە جگە لە یاهوە؟ و کێ بەردە جگە لە ئێلۆهیمی ئێمە؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێلە"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "جگە لە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "بەردە"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "جگە لە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیمی ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:31.243058484Z",
+  "model": "glm-5.3"
+}

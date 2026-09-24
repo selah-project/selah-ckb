@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 40:18",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و بۆ کێ ئێوە ئێڵ دەچەسپێنن؟ و چ شێوەیەک بۆ دەنێن؟",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "תדמיון",
+      "gloss": "ئێوە ئێڵ دەچەسپێنن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چ"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "شێوەیەک"
+    },
+    {
+      "surface": "תערכו",
+      "gloss": "بۆ دەنێن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:27:35.244793878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ڕوانیان و ڕزگارکەرێک نەبوو، بۆ لای یاهوە و وەڵامی نەدانەوە.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "ڕوانیان"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نەبوو"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "ڕزگارکەر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "وەڵام"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:48.858247059Z",
+  "model": "glm-5.3"
+}

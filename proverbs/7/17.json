@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "خەوڵەم بە مۆر و عوود و دارچین شێواندم",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "شێواندم"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "خەوڵەم"
+    },
+    {
+      "surface": "מר",
+      "gloss": "مۆر"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "عوود"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "و دارچین"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:43.147212374Z",
+  "model": "glm-5.3"
+}

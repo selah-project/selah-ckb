@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕی ئەلقانە ⟨ئەلقانە⟩، کوڕی یۆئێل، کوڕی عەزەریا، کوڕی تسفانیا.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یۆئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عەزەریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "تسفانیا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:56.317658845Z",
+  "model": "glm-5.3"
+}

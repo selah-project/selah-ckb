@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "مامزێر نا دێتە ژوورەوە بە کۆڕی یاهوە؛ هەتا نەوەی دەیەمی ئەو نا دێتە ژوورەوە بە کۆڕی یاهوە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێتە ژوورەوە"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "مامزێر"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "بە کۆڕی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نەوە"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "دەیەم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێتە ژوورەوە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "بە کۆڕی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:23.435448796Z",
+  "model": "glm-5.3"
+}

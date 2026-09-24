@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "تا کەی ئاڵا ببینم، دەنگی شۆفەر ببیستم؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ببینم"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ئاڵا"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ببیستم"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شۆفەر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:28.830655017Z",
+  "model": "glm-5.3"
+}

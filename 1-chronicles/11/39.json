@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "تسلێکی عەممۆنی، نەحرەیی بێرۆتی، هەڵگری کەرەستەکانی یوئابی کوڕی تسرویە،",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "تسلێکی"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "عەممۆنی"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "نەحرەیی"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "بێرۆتی"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "هەڵگری"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "کەرەستەکانی"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوئابی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تسرویە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:06.550135290Z",
+  "model": "glm-5.3"
+}

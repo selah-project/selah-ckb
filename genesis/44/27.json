@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "و خزمەتکاری تۆ باوکمان پێمان فەرموو: ئێوە دەزانن کە دوو منی بەخشی ژنەکەم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خزمەتکاری تۆ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "پێمان"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "دەزانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بەخشی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "منی"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ژنەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:33:00.539307136Z",
+  "model": "glm-5.3"
+}

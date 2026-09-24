@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "دروستکەری عەیش و کیسیل و کیمە و ژوورەکانی باشوور",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "دروستکەری"
+    },
+    {
+      "surface": "עש",
+      "gloss": "عەیش"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کیسیل"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "و کیمە"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "و ژوورەکانی"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "باشوور"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:37.784099601Z",
+  "model": "glm-5.3"
+}

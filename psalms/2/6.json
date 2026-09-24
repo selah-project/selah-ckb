@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و من پاشای خۆم لەسەر تسیۆن ⟨زایۆن⟩ چیای پیرۆزیی خۆم داناوە.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "داناوە"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاشای خۆم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیۆن ⟨زایۆن⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "پیرۆزیی خۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:16.733638309Z",
+  "model": "glm-5.3"
+}

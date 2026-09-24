@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "شارەکانت بە زەوی‌وێران دەکەم، و تۆ بە وێرانە دەبیت، و دەزانیت کە من یاهوەم",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "شارەکانت"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "بە زەوی‌وێران"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "دەکەم"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "بە وێرانە"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبیت"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "و دەزانیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:20:26.292567478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 102,
+  "translation": "چونکە یاهوە زیۆنی بنیات نا، لە شکۆی خۆیدا دەرکەوت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنیات نا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زیۆن"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "دەرکەوت"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "لە شکۆی خۆیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:54.211752396Z",
+  "model": "glm-5.3"
+}

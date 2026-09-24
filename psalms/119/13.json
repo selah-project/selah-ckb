@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "بە لێوەکانم هەموو حوکمەکانی دەم تۆم گێڕاوەتەوە.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "بە لێوەکانم"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "گێڕاوەتەوەم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "حوکمەکانی"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دەم تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:27.238978659Z",
+  "model": "glm-5.3"
+}

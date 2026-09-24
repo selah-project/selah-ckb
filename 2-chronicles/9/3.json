@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و ملکەی شێبا ⟨את⟩ دانایی شلۆمۆهی بینی و خانووەکەی کە بینیبووی.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "و بینی"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ملکەی"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شێبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دانایی شلۆمۆه"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆه"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "و خانووەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بینیبووی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:42.239678008Z",
+  "model": "glm-5.3"
+}

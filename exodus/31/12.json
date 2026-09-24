@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و یاهوە فەرمووی بۆ مۆشە ⟨موسا⟩ كە بڵێت،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "كە بڵێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:49.620656547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "بۆی بژێنن، بۆی مۆسیقا بکەن، لە هەموو عەجائیبەکانی قسە بکەن.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "بژێنن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "مۆسیقا بکەن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "قسە بکەن"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "عەجائیبەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:49.332050921Z",
+  "model": "glm-5.3"
+}

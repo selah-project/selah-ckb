@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بەسەر چیای سیۆن ⟨کە⟩ چۆڵ بووە، شەغاڵەکان بەسەریدا ڕۆیشتوون.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "بەسەر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سیۆن"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "چۆڵ بووە"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "شەغاڵەکان"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ڕۆیشتوون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بەسەریدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:54:58.651598240Z",
+  "model": "glm-5.3"
+}

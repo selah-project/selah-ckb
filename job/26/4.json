@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "⟨את⟩ کێ وشەکانی پێ گوتووت؟ و هەناسەی کێ لە تۆوە دەرچووە؟",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کێ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "گوتووت"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "وشەکان"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "و هەناسەی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "دەرچووە"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:09.277295346Z",
+  "model": "glm-5.3"
+}

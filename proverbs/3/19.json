@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "یاهوە بە زانین زەوییەکەی بنیات نا، ئاسمانەکانی بە تێگەیشتن ڕاگرت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "بە زانین"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "بنیات نا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوییەکەی"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ڕاگرت"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمانەکانی"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "بە تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:02.570249794Z",
+  "model": "glm-5.3"
+}

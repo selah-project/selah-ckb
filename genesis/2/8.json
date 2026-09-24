@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و یاهوە ئێلۆهیم باخچەیەکی لە عێدەن لە ڕۆژهەڵات ڕوواند و ⟨את⟩ مرۆڤ کە دروستی کردبوو لەوێ دانا",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "و ڕوواند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "גן",
+      "gloss": "باخچە"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "لە عێدەن"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "لە ڕۆژهەڵات"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "و دانا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرۆڤ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "دروستی کردبوو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:29.346104630Z",
+  "model": "glm-5.3"
+}

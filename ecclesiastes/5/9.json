@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "خۆشەویستی زێر بە زێر تێر نابێت و ئەوەی دەوڵەمەندی خۆش دەوێت داهاتێکی نییە؛ ئەمەش بەتاڵییە.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "خۆشەویستی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زێر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "تێر دەبێت"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زێر"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و ئەوەی"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "خۆش دەوێت"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "دەوڵەمەندی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "داهات"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بەتاڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:02.030731476Z",
+  "model": "glm-5.3"
+}

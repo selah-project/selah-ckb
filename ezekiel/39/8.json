@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 39:8",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "ئەوەتا دێت و ڕوودەدات، فەرمووی ئادۆنای یاهوە؛ ئەوە ڕۆژەکەیە کە قسەم لێکردووە.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "באה",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "ונהיתה",
+      "gloss": "و ڕوودەدات"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژەکەیە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "قسەم لێکردووە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:21:50.130491775Z",
+  "model": "glm-5.3"
+}

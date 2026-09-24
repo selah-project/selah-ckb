@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "مێروولەکان گەلێک نین بەهێز، و لە هاویندا خواردنیان ئامادە دەکەن.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "مێروولەکان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "و ئامادەی دەکەن"
+    },
+    {
+      "surface": "بקיץ",
+      "gloss": "لە هاوین"
+    },
+    {
+      "surface": "لחמם",
+      "gloss": "خواردنیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:25.838411405Z",
+  "model": "glm-5.3"
+}

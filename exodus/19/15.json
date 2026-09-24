@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و بە گەلەکەی فەرموو: بۆ سێ ڕۆژ ئامادە بن؛ نزیک نەبنەوە لە ژن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "ئامادە"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "بۆ سێ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "نزیک نەبنەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:52.580085309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "وشەکانی بوختانکەر وەک لوقمەی خۆشن، و ئەوان دەچنە ژوورەکانی ناو سک.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "بوختانکەر"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "وەک لوقمەی خۆش"
+    },
+    {
+      "surface": "והם",
+      "gloss": "و ئەوان"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "دەچنە ژوور"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ژوورەکانی"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "سک"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:52.645787793Z",
+  "model": "glm-5.3"
+}

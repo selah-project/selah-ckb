@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کە سەرکردەیەکی نییە بۆی، نە چاودێر نە فەرمانڕەوا.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "سەرکردەیەکی"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "چاودێر"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "و فەرمانڕەوا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:39.800366655Z",
+  "model": "glm-5.3"
+}

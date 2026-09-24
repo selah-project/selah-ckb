@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "بەرەکەتدار بیت تۆ لە هاتنەکەتدا، و بەرەکەتدار بیت تۆ لە ڕۆشانەکەتدا.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "بەرەکەتدار بیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "لە هاتنەکەتدا"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "و بەرەکەتدار بیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "لە ڕۆشانەکەتدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:10.827787937Z",
+  "model": "glm-5.3"
+}

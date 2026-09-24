@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "بیستە ئەی یاهوە و بەزاری بمبڕە، یاهوە ببە بە یاریدەدەرم.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "بیستە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "و بەزاری بمبڕە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ببە بە"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "یاریدەدەرم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:02.800874479Z",
+  "model": "glm-5.3"
+}

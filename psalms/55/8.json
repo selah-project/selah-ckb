@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 55,
+  "translation": "ئەوەتا دوور دەکەومەوە، لە بیابان دەمێنمەوە. سەلا.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "دوور دەکەومەوە"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "سەرگردان دەبم"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "دەمێنمەوە"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیابان"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سەلا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:01.613855681Z",
+  "model": "glm-5.3"
+}

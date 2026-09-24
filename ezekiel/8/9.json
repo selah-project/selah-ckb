@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و فەرمووی بۆم: بچۆرەژوورەوە و ببینە ⟨את⟩ قێرگەکانی خراپی کە ئەوان لێرە دەیکەن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "בא",
+      "gloss": "بچۆرەژوورەوە"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببینە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قێرگەکانی خراپ"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "قێرگەکانی"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "دەیکەن"
+    },
+    {
+      "surface": "פה",
+      "gloss": "لێرە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:00:30.557580650Z",
+  "model": "glm-5.3"
+}

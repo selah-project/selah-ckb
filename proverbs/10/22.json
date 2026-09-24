@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "بەرەکەتی یاهوە ئەوەیە دەوڵەمەند دەکات و ئازار لەگەڵی زیاد ناکات",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "بەرەکەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "دەوڵەمەند دەکات"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "زیاد دەکات"
+    },
+    {
+      "surface": "עצب",
+      "gloss": "ئازار"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "لەگەڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:12.209902398Z",
+  "model": "glm-5.3"
+}

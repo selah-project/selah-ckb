@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و دەبێت ئەگەر بە یەکێک لەمانە تاوانبار بێت، و دانی دەنێت بەوەی کە لەوە تاوانی کردووە",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "تاوانبار بێت"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "بە یەکێک"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "لەمانە"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "و دانی دەنێت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "تاوانی کردووە"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:01.902657339Z",
+  "model": "glm-5.3"
+}

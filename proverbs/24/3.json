@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بە دانایی خانووێک دروست دەکرێت، و بە تێگەیشتن پتەو دەکرێت.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "بە دانایی"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "دروست دەکرێت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانوو"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "و بە تێگەیشتن"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "پتەو دەکرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:53.279537911Z",
+  "model": "glm-5.3"
+}

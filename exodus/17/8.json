@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و عەمالێق هات و لەگەڵ ئیسڕائیل شەڕی کرد لە ڕەفیدیم.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عەمالێق"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "و شەڕی کرد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسڕائیل"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "لە ڕەفیدیم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:45:21.094058748Z",
+  "model": "glm-5.3"
+}

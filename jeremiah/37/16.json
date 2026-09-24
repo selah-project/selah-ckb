@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "کاتێک یەرمیا هاتە ماڵی بیرەکە و بۆ ژوورەکان، یەرمیا لەوێ ڕۆژانی زۆر مایەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یەرمیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "ژوورەکان"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و مایەوە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یەرمیا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:55:52.294829334Z",
+  "model": "glm-5.3"
+}

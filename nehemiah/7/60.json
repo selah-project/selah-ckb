@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "هەموو نەتینیمەکان و کوڕەکانی خزمەتکارانی شەلۆمۆ: سێ سەد و نەوەد و دوو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "نەتینیمەکان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "خزمەتکارانی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شەلۆمۆ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نەوەد"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:36.984361382Z",
+  "model": "glm-5.3"
+}

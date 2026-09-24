@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ئەمانە ناوەکانیان ⟨ن⟩: کوڕی حور ⟨بێنحور⟩ لە چیای ئێفرایم.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ناوەکانیان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیای"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:45:10.274819782Z",
+  "model": "glm-5.3"
+}

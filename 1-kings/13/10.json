@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بە ڕێگایەکی دیکە ڕۆیشت و نەگەڕایەوە بەو ڕێگایەی کە تێیدا هاتبوو بەرەو بەیت ئێل.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیشت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "بە ڕێگا"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שב",
+      "gloss": "گەڕایەوە"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "بەو ڕێگایەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T11:52:09.014729076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و کوڕەکانی ئوولا: ئارەح و حەنیئێل و ریتیا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ئوولا"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ئارەح"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "و حەنیئێل"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "و ریتیا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:32.810549488Z",
+  "model": "glm-5.3"
+}

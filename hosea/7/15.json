@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و من ڕاهێنام، بازوویان پتەو کردم، بەڵام دژبە من خراپی دەڕێنن.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "ڕاهێنام"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "پتەو کردم"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "بازوویان"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "دژبە من"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "دەڕێنن"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:29:49.013928093Z",
+  "model": "glm-5.3"
+}

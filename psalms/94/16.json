@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 94,
+  "translation": "کێ بۆ من هەڵدەستێت لەگەڵ خراپەکاران؟ کێ بۆ من ڕادەوەستێت لەگەڵ کردەکارانی بێداد؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "هەڵدەستێت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "خراپەکاران"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ڕادەوەستێت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کردەکارانی"
+    },
+    {
+      "surface": "און",
+      "gloss": "بێداد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:53.562469217Z",
+  "model": "glm-5.3"
+}

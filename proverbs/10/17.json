@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ڕێگای ژیان پارێزەری چاکسازییە، و بەجێهێنەری سەرزەنشت گومڕا دەبێت.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "پارێزەر"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "چاکسازی"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "و بەجێهێنەر"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "سەرزەنشت"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "گومڕا دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:18.587769300Z",
+  "model": "glm-5.3"
+}

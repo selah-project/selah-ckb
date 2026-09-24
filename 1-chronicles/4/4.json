@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و پەنوئێل باوکی گێدۆر، و عێزێر باوکی حووشا. ئەمانە کوڕانی حوورن، کوڕە گەورەی ئێفراتە، باوکی بەیتلەحم.",
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "و پەنوئێل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گێدۆر"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "و عێزێر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "حووشا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حوور"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "کوڕە گەورەی"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ئێفراتە"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەحم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:38.163588064Z",
+  "model": "glm-5.3"
+}

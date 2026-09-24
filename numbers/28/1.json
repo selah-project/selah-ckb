@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و یاهوە قسەی کرد بۆ مۆشە ⟨موسا⟩ بە وتنی،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:15.243345217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕانی کێهات: عەمینادەڤ کوڕی، قۆڕاخ کوڕی، ئەسیر کوڕی.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "کێهات"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عەمینادەڤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قۆڕاخ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ئەسیر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:41.846837875Z",
+  "model": "glm-5.3"
+}

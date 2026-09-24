@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ئێلیشاماع و ئێلیاداع و ئێلیپالێت نۆ.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "و ئێلیشاماع"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "و ئێلیاداع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "و ئێلیپالێت"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:01.059814127Z",
+  "model": "glm-5.3"
+}

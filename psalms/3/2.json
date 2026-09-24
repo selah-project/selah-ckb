@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەی یاهوە، چەند زۆربوون تەنگەکانم! زۆرن ئەوانەی کە لە دژی من هەڵدەستن.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "زۆربوون"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "تەنگەکانم"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆرن"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "هەڵدەستن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "دژی من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:16.311842689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 5:19",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "لە شەش تەنگانەدا ڕزگاریت دەکات، و لە حەوتدا خراپی ناگاتە تۆ.",
+  "tokens": [
+    {
+      "surface": "בשש",
+      "gloss": "لە شەش"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "تەنگانە"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ڕزگاریت دەکات"
+    },
+    {
+      "surface": "ובשבע",
+      "gloss": "و لە حەوت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "دەگات"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:17.360873971Z",
+  "model": "glm-5.3"
+}

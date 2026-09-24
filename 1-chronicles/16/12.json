@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "عەجائیبەکانی بیر بکەنەوە کە کردی، نیشانەکانی و حوکمەکانی دەمی.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "بیر بکەنەوە"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "عەجائیبەکانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردی"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "نیشانەکانی"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "و حوکمەکانی"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "دەمی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:49.332624644Z",
+  "model": "glm-5.3"
+}

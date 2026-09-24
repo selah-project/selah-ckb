@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "دەستی بۆ هەژار کراوە کردبوو و دەستەکانی بۆ نەدار درێژ کردبوو.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "کراوە کردبوو"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "بۆ هەژار"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "و دەستەکانی"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "درێژ کردبوو"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "بۆ نەدار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:12.661656088Z",
+  "model": "glm-5.3"
+}

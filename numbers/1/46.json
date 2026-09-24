@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و بوون هەموو ژماردراوەکان شەش سەد هەزار و سێ هەزار و پێنج سەد و پەنجا.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ژماردراوەکان"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پەنجا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:05.303590305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و بوون بە تاڵیی ڕۆح بۆ ییسحاق و بۆ ڕیڤکە.",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "تاڵیی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "بۆ ییسحاق"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "و بۆ ڕیڤکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:25.456761201Z",
+  "model": "glm-5.3"
+}

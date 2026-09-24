@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لە ڕۆژی چوارەمدا ئێلیتسور کوڕی شێدێئور، سەرۆکی کوڕانی ڕەئووبێن.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوارەمدا"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ڕەئووبێن"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "ئێلیتسور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "شێدێئور"
+    }
+  ],
+  "timestamp": "2026-09-24T10:16:07.218909868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و پەنجەرەکان سێ ڕیزن، و دیمەن بەرامبەر دیمەن سێ جار.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "و پەنجەرەکان"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "ڕیز"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "و دیمەن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "دیمەن"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "جار"
+    }
+  ],
+  "timestamp": "2026-09-24T11:47:55.832947154Z",
+  "model": "glm-5.3"
+}

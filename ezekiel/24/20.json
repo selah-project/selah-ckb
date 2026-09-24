@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و من پێیان وت: وشەی یاهوە هاتە لای من بۆ وتن.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هاتە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:14:48.101316156Z",
+  "model": "glm-5.3"
+}

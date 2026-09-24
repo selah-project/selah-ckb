@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "با کەمێک ئاو بهێنرێت و پێکانتان بشۆرێت، و پشت بە دارەکە ببەستن",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "بهێنرێت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "با"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کەمێک"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "و بشۆرێت"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "پێکانتان"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "و پشت ببەستن"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بە"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دارەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:13.379948519Z",
+  "model": "glm-5.3"
+}

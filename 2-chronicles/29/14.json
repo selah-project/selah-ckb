@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 29:14",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لە کوڕەکانی هێمان یەحیئێل و شیمعی، و لە کوڕەکانی یەدوتون شەمایا و عوزیئێل.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "هێمان"
+    },
+    {
+      "surface": "יחואל",
+      "gloss": "یەحیئێل"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "و شیمعی"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "یەدوتون"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شەمایا"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "و عوزیئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:43:23.102921943Z",
+  "model": "glm-5.3"
+}

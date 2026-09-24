@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "لە ڕۆژی ئەوەدا باخی مێوێکی خۆش — وەڵامی بدەنەوە.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "باخی مێو"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "خۆش"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "وەڵام بدەنەوە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:21:28.072748340Z",
+  "model": "glm-5.3"
+}

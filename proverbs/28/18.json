@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "هەرکەس بێگەردە دەگەڕێت ڕزگار دەبێت و لارەڕێی ڕێکان لە یەکدا دەکەوێت",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "دەگەڕێت"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بێگەرد"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "ڕزگار دەبێت"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "و لارەڕێی"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "ڕێکان"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "دەکەوێت"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "لە یەکدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:26.762634617Z",
+  "model": "glm-5.3"
+}

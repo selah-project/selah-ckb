@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و قوڕغ دەبن بۆ ئێوە؛ لە گۆشتیان ناکۆن و ⟨את⟩ لاشەیانیان قوڕغ دەزانن.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "و قوڕغ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "لە گۆشتیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەخۆن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "لاشەیانیان"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "لاشەیانیان"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "قوڕغ دەزانن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:37.011304901Z",
+  "model": "glm-5.3"
+}

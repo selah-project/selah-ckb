@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 66,
+  "translation": "ئەوەی لێوەکانم کردەوە، و دەمی من لە تەنگانەدا قسەی کرد.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "کردەوە"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانم"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی من"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "لە تەنگانەدا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:05.011583208Z",
+  "model": "glm-5.3"
+}

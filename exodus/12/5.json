@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "شەیەکی تەواو، نێر، کوڕی یەک ساڵ، بۆ ئێوە دەبێت؛ لە مەڕەکان و لە بزنەکان وەریدەگرن.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "شە"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تەواو"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "یەک ساڵ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "مەڕەکان"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "بزنەکان"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "وەریدەگرن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:41:11.309226216Z",
+  "model": "glm-5.3"
+}

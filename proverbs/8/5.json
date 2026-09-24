@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئەی سادەکان، بە زیرەکی تێبگەن؛ و ئەی گێلەکان، بە دڵ تێبگەن.",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "تێبگەن"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ئەی سادەکان"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "زیرەکی"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "و ئەی گێلەکان"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "تێبگەن"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:10.161990174Z",
+  "model": "glm-5.3"
+}

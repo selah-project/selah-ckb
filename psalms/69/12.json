@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "خورماڵۆچ کردم بە جلەکەم و بووم بۆ ئەوان بە پەند.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "و کردم بە"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "جلەکەم"
+    },
+    {
+      "surface": "שק",
+      "gloss": "خورماڵۆچ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "و بووم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "بە پەند"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:10.501092115Z",
+  "model": "glm-5.3"
+}

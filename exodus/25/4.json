@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و شین، و ئەرغەوان، و قرمزی شنی، و کتان، و ⟨مووی⟩ بزنەکان.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "و شین"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "و ئەرغەوان"
+    },
+    {
+      "surface": "ותולעت",
+      "gloss": "و قرمزی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "شنی"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و کتان"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "و بزنەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:28.360897388Z",
+  "model": "glm-5.3"
+}

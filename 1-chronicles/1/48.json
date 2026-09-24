@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و سەملە مرد و شائولی ڕەحۆڤۆتی ڕووبارەکە لە جێی ئەو پاشای بوو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سەملە"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پاشای بوو"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جێی ئەو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "ڕەحۆڤۆت"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ڕووبارەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:04.419173793Z",
+  "model": "glm-5.3"
+}

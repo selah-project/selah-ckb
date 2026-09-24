@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و ئەوان ⟨את⟩ زێڕ و ⟨את⟩ تەکێلەت و ⟨את⟩ مۆر و ⟨את⟩ کرمی سوور و ⟨את⟩ کەتان وەردەگرن.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "و ئەوان"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "وەردەگرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زێڕ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تەکێلەت"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "تەکێلەت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مۆر"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "مۆر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کرمی سوور"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "کرمی"
+    },
+    {
+      "surface": "השני",
+      "gloss": "سوور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کەتان"
+    },
+    {
+      "surface": "השש",
+      "gloss": "کەتان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:26.713741928Z",
+  "model": "glm-5.3"
+}

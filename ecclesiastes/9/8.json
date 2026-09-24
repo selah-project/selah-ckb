@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "لە هەموو کاتێک جلەکانت سپی بن، و ڕۆن لەسەر سەرت کەم نەبێتەوە.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "جلەکانت"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "سپی"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "و ڕۆن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "سەری تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کەم بێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:54.583300487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "وەک پێکەنینە بۆ گێل کردن⟨ی⟩ خراپە و چارەباسی بۆ پیاوی تێگەیشتن⟨ە⟩",
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "وەک پێکەنین"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "بۆ گێل"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کردن"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "و چارەباسی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ پیاو"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:12.210088540Z",
+  "model": "glm-5.3"
+}

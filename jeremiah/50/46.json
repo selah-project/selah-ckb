@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "jeremiah 50:46",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "لە دەنگی گرتنی بابل زەوی لەرزی، و هاوار لە نێو گەلەکاندا بیسترا.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "لە دەنگی"
+    },
+    {
+      "surface": "נתפשה",
+      "gloss": "گرتنی"
+    },
+    {
+      "surface": "بבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "נרעשה",
+      "gloss": "لەرزی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "וזעקה",
+      "gloss": "و هاوار"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "لە نێو گەلەکاندا"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "بیسترا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:00:28.873436038Z",
+  "model": "glm-5.3"
+}

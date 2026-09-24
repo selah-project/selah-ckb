@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "دڵخۆش بێت باوکت و دایكت، و دڵشاد بێت ئەوەی تۆی زانی.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "دڵخۆش بێت"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "و دایكت"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "و دڵشاد بێت"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "ئەوەی تۆی زانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:29.606755138Z",
+  "model": "glm-5.3"
+}

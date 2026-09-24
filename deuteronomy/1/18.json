@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و لەو کاتەدا فەرمانم بە ئێوە ⟨את⟩ کرد ⟨את⟩ هەموو ئەو وشەیانەی کە دەیکەن.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "و فەرمانم کرد"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": "ئێوە"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "لە کاتدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەو وشەیانە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ئەو وشەیانە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "دەیکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:35:00.795404734Z",
+  "model": "glm-5.3"
+}

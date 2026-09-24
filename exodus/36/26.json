@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و چل بنکەی زیوینیان — دوو بنکە لە ژێر تختێک و دوو بنکە لە ژێر تختێک",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "و چل"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "بنکەی زیوینیان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیوین"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "بنکە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە ژێر"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختێک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "بنکە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە ژێر"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختێک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:13.863586571Z",
+  "model": "glm-5.3"
+}

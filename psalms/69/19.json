@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "نزیک ببەوە بۆ گیانم بکڕیوە لەبەر دوژمنانم ئازادم بکە",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "نزیک ببەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "بکڕیوە"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "دوژمنانم"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ئازادم بکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:09.693756999Z",
+  "model": "glm-5.3"
+}

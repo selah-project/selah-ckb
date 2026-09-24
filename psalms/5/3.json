@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "هەراس ببە لە دەنگی هاوارم پاشای من و ئێلۆهیمم چونکە بۆ تۆ دەپاڕمەوە",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "هەراس ببە"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "لە دەنگی"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "هاوارم"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاشای من"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "و ئێلۆهیمم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "دەپاڕمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:16.075142141Z",
+  "model": "glm-5.3"
+}

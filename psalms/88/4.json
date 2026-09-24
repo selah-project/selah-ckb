@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 88,
+  "translation": "چونکە گیانم لە خراپییەکان تێر بووە، و ژیانم گەیشتووەتە شێئۆل",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "تێر بووە"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "لە خراپییەکان"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "وחיי",
+      "gloss": "و ژیانم"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شێئۆل"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "گەیشتووەتە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:11.835720059Z",
+  "model": "glm-5.3"
+}

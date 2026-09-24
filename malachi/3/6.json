@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چونکە منم یاهوە، نەگۆڕم، و ئێوە کوڕانی یەعقوب هەر نەبوونە سەرەوە، نەکیساون.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "منم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "نەگۆڕم"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "و ئێوە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "نەکیساون"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:52.012079748Z",
+  "model": "glm-5.3"
+}

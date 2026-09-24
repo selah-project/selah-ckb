@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و بە ماکیر گیلعادی دام ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "و بە ماکیر"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گیلعاد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:52.571375977Z",
+  "model": "glm-5.3"
+}

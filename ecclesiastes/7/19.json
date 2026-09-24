@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "حیکمەتەکە هێز دەبەخشێت بە زاناو، لە دە دەسەڵاتداران زیاتر کە لە شارەکەدا بوون.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "حیکمەتەکە"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "هێز دەبەخشێت"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "بە زاناو"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "لە دە"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "دەسەڵاتداران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "لە شارەکەدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:40.468654233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 33:37",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە قادێش ڕۆیشتن و لە چیای هۆر، لە قەراغی زەوی ئەدۆم، خێوەتیان گرت.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "قادێش"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خێوەتیان گرت"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیای"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هۆر"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "لە قەراغی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:10.179539246Z",
+  "model": "glm-5.3"
+}

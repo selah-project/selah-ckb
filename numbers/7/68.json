@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "یەک کەوپێڵی زێڕی دە شەکێل، پڕ لە بووکێنە.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کەوپێڵ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "عשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بووکێنە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:46.027090873Z",
+  "model": "glm-5.3"
+}

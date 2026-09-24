@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "شێم، ئەرپەخشاد، شێلاح.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "شێم"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ئەرپەخشاد"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شێلاح"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:21.420473425Z",
+  "model": "glm-5.3"
+}

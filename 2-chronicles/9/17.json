@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و پادشاه تەختێکی گەورەی لە عەنجیر دروست کرد و بە زێڕی پاک دایپۆشی.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و دروست کرد"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تەخت"
+    },
+    {
+      "surface": "שן",
+      "gloss": "عەنجیر"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "و دایپۆشی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:28.835742355Z",
+  "model": "glm-5.3"
+}

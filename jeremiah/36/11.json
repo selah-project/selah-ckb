@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و میکایاهو کوڕی گەمەریاهو کوڕی شافان ⟨את⟩ هەموو وشەکانی یاهوە لە کتێبەکە بیست.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "میکایاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "گەمەریاهو"
+    },
+    {
+      "surface": "بן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو وشەکانی یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتێبەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:54:28.339128254Z",
+  "model": "glm-5.3"
+}

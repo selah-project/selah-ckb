@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "ئایا ئەو لەلای من کۆنەکراوە و مۆرکراوە لە گەنجینەکانم دا؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "כמוס",
+      "gloss": "کۆنەکراوە"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لەلای من"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مۆرکراوە"
+    },
+    {
+      "surface": "באוצרותי",
+      "gloss": "لە گەنجینەکانم دا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:47.612879989Z",
+  "model": "glm-5.3"
+}

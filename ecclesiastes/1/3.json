@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "چی قازانجێک ⟨هەیە⟩ بۆ مرۆڤ لە هەموو زەحمەتییدا کە دەیکات لە ژێر خۆردا؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "قازانج"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بۆ مرۆڤ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "زەحمەتییدا"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "کە دەیکات"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە ژێر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆردا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:50.472214125Z",
+  "model": "glm-5.3"
+}

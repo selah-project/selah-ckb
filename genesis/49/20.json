@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "لە ئاشێرەوە نانی چەور دەبێت، و ئەو خواردنی پاشا دەبەخشێت.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "لە ئاشێرەوە"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "چەور"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "نانی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەبەخشێت"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "خواردنی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:07.197055749Z",
+  "model": "glm-5.3"
+}

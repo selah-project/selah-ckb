@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و عەدایا و بێرایا و شیمرات کوڕانی شیمعی",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "و عەدایا"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "و بێرایا"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "و شیمرات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:50.478360746Z",
+  "model": "glm-5.3"
+}

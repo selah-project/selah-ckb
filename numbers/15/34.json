@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و هێشتویانە ⟨אתו⟩ لە بەندکردندا، چونکە ڕوون نەکرابووەوە چی بۆی دەکرێت.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "هێشتویانە"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "لە بەندکردندا"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "لە بەندکردندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ڕوون کرابووەوە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکرێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:22:43.849164471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئێستا بۆ ئێوەیە ئەم فەرمانە، ئەی کاهینەکان.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "فەرمانەکە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهینەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:05.700722572Z",
+  "model": "glm-5.3"
+}

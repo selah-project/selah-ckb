@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بۆ گێرشۆن هۆزی لێڤینی و هۆزی شیمعی؛ ئەمانەن هۆزەکانی گێرشۆنییەکان.",
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "بۆ گێرشۆن"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "لێڤینی"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "و هۆزی"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "شیمعی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ن"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "هۆزەکانی"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "گێرشۆنییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:53:17.064448515Z",
+  "model": "glm-5.3"
+}

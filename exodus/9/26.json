@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "تەنها لە زەوی گۆشێندا، کە کوڕانی ئیسرائیل لەوێ بوون، تێڵ نەبوو.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "گۆشێن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "تێڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:40:23.281376168Z",
+  "model": "glm-5.3"
+}

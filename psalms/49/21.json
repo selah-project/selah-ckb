@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "مرۆڤ لە شەرەفتدا و تێنەگات، هاوشێوەی ماڵات بووە، لەناوچوون.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "لە شەرەفتدا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "تێنەگات"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "هاوشێوەی"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "لەناوچوون"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:54.134281721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "یهۆشافات ⟨⟨את⟩ نا⟩ کوڕی پارواخ لە ییساخار",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "یهۆشافات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "پارواخ"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "لە ییساخار"
+    }
+  ],
+  "timestamp": "2026-09-24T11:46:26.921677289Z",
+  "model": "glm-5.3"
+}

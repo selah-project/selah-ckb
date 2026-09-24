@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و تێیدا دەژین و تڵانەکردن ئیتر نابێت؛ و یەروشالایم بە ئارامی دەمێنێتەوە.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "و دەژین"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "و تڵانەکردن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "و دەمێنێتەوە"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یەروشالایم"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بە ئارامی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:21.045561521Z",
+  "model": "glm-5.3"
+}

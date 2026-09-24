@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و حوکمی کرد ⟨את⟩ یسرائیل بیست و سێ ساڵ، و مرد و لە شامیر نێژرا.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "و حوکمی کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "و نێژرا"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "لە شامیر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:08:19.405962432Z",
+  "model": "glm-5.3"
+}

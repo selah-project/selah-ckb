@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "یادی دادپەروەر بۆ برکەتە، و ناوی خراپەکاران دەشیەوێت.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یادی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادپەروەر"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "بۆ برکەت"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکاران"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "دەشیەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:10.820638087Z",
+  "model": "glm-5.3"
+}

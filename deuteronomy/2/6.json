@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "خواردن لە ⟨את⟩ ئەوان بە زێو بکڕن و بیخۆن، و هەروەها ئاو لە ⟨את⟩ ئەوان بە زێو بکڕن و بیخۆنەوە.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "خواردن"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "بکڕن"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "لە ⟨את⟩ ئەوان"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بە زێو"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "و بیخۆن"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "بکڕن"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "لە ⟨את⟩ ئەوان"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بە زێو"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "و بیخۆنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:34:51.404597216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و گەنم و سپێلە لێنەدران، چونکە دواکەوتوون.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "و گەنم"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "و سپێلە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "لێدران"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "دواکەوتوون"
+    },
+    {
+      "surface": "הנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-24T09:40:13.354709107Z",
+  "model": "glm-5.3"
+}

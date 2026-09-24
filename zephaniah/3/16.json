@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "لە ڕۆژیدا بە ئۆرشەلیم دەگوترێت، مەترسە، ئەی سیۆن، دەستەت لاواز نەبێت",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژیدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "بەو"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "دەگوترێت"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "بە ئۆرشەلیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەترسە"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "مەترسە"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ئەی سیۆن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "لاواز نەبێت"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "دەستەت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:57.146018571Z",
+  "model": "glm-5.3"
+}

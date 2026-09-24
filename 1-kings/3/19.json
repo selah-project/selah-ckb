@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و کوڕی ئەم ژنەکە لە شەودا مرد، چونکە لەسەری خەوتبوو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ژنەکە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "خەوتبوو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T11:45:48.102051855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ئەی یاهوە گوێ لە قسەکانم بگرە لێڵۆکەی من تێبگە",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "قسەکانم"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێبگە"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "لێڵۆکەی من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:16.075024449Z",
+  "model": "glm-5.3"
+}

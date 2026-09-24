@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "تاریکایەتی نارد و تاریک بوو، و ⟨את⟩ وشەکەی نەشێواندن",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکایەتی"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "و تاریک بوو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "شێواندن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەکەی"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "وشەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:47.458185794Z",
+  "model": "glm-5.3"
+}

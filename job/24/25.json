@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 24:25",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و ئەگەر نا، ئێستا کێ درۆم لێ دەکاتەوە و وشەی من بۆ هیچ دادەنێت؟",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "درۆم لێ دەکاتەوە"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "و دادەنێت"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "بۆ هیچ"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "وشەی من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:07.572448803Z",
+  "model": "glm-5.3"
+}

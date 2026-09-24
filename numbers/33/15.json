@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 33:15",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە ڕەفیدیمەوە بزوانین، و لە بیابانی سینای ڕاوەستان.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و بزوانین"
+    },
+    {
+      "surface": "מרפידם",
+      "gloss": "لە ڕەفیدیمەوە"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و ڕاوەستان"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیابان"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینای"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:29.604459904Z",
+  "model": "glm-5.3"
+}

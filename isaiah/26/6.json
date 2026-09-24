@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "پێ دەیپێکێت — پێیانی نەدار و هەنگاوانی لاوازەکان.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "دەیپێکێت"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پێ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پێیانی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "نەدار"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "هەنگاوانی"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "لاوازەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:09.803502632Z",
+  "model": "glm-5.3"
+}

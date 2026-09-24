@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ببیسن ⟨את⟩ وشەکەی ئەوەی یاهوە بۆ ئێوە فەرموویەتی، ئەی ماڵی ئیسرائیل.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ببیسن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەکە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "وشەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموویەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:42:47.480643430Z",
+  "model": "glm-5.3"
+}

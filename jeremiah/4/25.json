@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "بینیم و ئەوەتا مرۆڤ نییە، و هەموو باڵندەکانی ئاسمان ڕایانکردەوە.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "باڵندەکانی"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ڕایانکردەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:30.579078027Z",
+  "model": "glm-5.3"
+}

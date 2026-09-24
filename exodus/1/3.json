@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ییساسکار، زیڤولون و بێنیامین.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "ییساسکار"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زیڤولون"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "و بێنیامین"
+    }
+  ],
+  "timestamp": "2026-09-24T09:36:13.549589881Z",
+  "model": "glm-5.3"
+}

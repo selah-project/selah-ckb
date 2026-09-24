@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "بۆ یاهوە بێن، هەموو زەوی، لە ڕۆژێکەوە بۆ ڕۆژێک ڕزگارییەکەی پێڕاگەیەنن",
+  "tokens": [
+    {
+      "surface": "שירو",
+      "gloss": "بێن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "هארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "پێڕاگەیەنن"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "لە ڕۆژێکەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژێک"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ڕزگارییەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:50.374338837Z",
+  "model": "glm-5.3"
+}

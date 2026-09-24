@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ⟨راشێل⟩ ⟨את⟩ بیلهەی خزمەتکارەکەی بۆ ژن بە یەعقوب دا و یەعقوب چوو لای ئەو.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیلهە"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بیلهە"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "خزمەتکارەکەی"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بۆ ژن"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لای ئەو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T09:24:18.298116757Z",
+  "model": "glm-5.3"
+}

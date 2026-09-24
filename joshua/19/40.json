@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 19:40",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "بۆ هۆزی کوڕانی دان بۆ خێزانەکانیان، قورعەی حەوتەم دەرچوو.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "بۆ خێزانەکانیان"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "دەرچوو"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قورعە"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:14.171965214Z",
+  "model": "glm-5.3"
+}

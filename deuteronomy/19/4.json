@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئەمە دۆخی کوژەرەکەیە کە بۆ ئەوێ هەڵدێت و دەژیت: ئەوەی کە ⟨את⟩ هاوڕێی بەبێ زانیاری دەیدە، و ئەو ڕقی لێی نەبووە لە دوێنێ و پێش دوێنێ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دۆخ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "کوژەرەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "هەڵدێت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "بۆ ئەوێ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "و دەژیت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "دەیدە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هاوڕێی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ڕق"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "لە دوێنێ"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "پێش دوێنێ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:34.938556825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "گاد ⟨گاد⟩ هاتە لای داود ⟨داود⟩ و پێی فەرموو: بەم شێوەیە وتویەتی یاهوە: قەبوڵ بکە بۆ خۆت.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "هاتە"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد ⟨گاد⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود ⟨داود⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "بەم شێوەیە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وتویەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "قەبوڵ بکە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:35.596691703Z",
+  "model": "glm-5.3"
+}

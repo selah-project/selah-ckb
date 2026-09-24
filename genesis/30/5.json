@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و بیلها سکی پڕ کرد و بۆ یەعقوب کوڕێکی بوێژا.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "سکی پڕ کرد و"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بیلها"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "بوێژا و"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "بۆ یەعقوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:42.961675894Z",
+  "model": "glm-5.3"
+}

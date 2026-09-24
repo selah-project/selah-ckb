@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و مۆشە کرد وەک چۆن یاهوە فەرمانی بە ⟨את⟩ ئەو کرد هەروا کرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "مۆشە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەروا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:23:47.357263055Z",
+  "model": "glm-5.3"
+}

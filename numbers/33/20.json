@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە ڕیمۆن پێرێس ڕۆیشتن و لە ڵیڤنا چادران هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "لە ڕیمۆن"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پێرێس"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "چادران هەڵکێشا"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "لە ڵیڤنا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:38.993989943Z",
+  "model": "glm-5.3"
+}

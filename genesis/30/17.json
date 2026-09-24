@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ئێلۆهیم گوێی لە لێئا گرت و سکی گرت و کوڕێکی پێنجەمی بۆ یەعقۆب بوو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و گوێی گرت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێئا"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "و سکی گرت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "بۆ یەعقۆب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "پێنجەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:47.973597289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و بەڵام ئێوە تەڵاقکەری درۆیکن، چاککەری بێسوود — هەمووتان.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "و بەڵام"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "تەڵاقکەری"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "چاککەری"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "بێسوود"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "هەمووتان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:57.576498512Z",
+  "model": "glm-5.3"
+}

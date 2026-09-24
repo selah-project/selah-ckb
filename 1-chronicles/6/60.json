@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ حووقوق و ⟨את⟩ مەزراکانی و ⟨את⟩ ڕەحۆب و ⟨את⟩ مەزراکانی",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حووقوق"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "حووقوق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەزراکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ڕەحۆب"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ڕەحۆب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەزراکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:08.579764245Z",
+  "model": "glm-5.3"
+}

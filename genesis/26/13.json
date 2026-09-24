@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و ئەو پیاوە گەورە بوو و بەردەوام ڕۆیشت و گەورەتر بوو تا کە زۆر گەورە بوو.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "گەورە بوو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ئەو پیاوە"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیشت"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "بەردەوام"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "گەورەتر بوو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گەورە بوو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:00.184173856Z",
+  "model": "glm-5.3"
+}

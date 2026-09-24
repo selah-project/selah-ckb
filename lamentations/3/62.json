@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "لێوەکانی هەڵستێنەرەوەکانم لە دژی من، و چرپەکانیان لە دژی من هەموو ڕۆژەکە.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "هەڵستێنەرەوەکانم"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "و چرپەکانیان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لە دژی من"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:28.629092475Z",
+  "model": "glm-5.3"
+}

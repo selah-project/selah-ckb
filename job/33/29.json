@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "ئاوەسا، هەموو ئەمانە ئێل ئەکات، دوو — سێ جار لەگەڵ مرۆڤ.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ئاوەسا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ئەکات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "جار"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:34.336166828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ئێفراییم ⟨هەیە⟩ بە بتەکان بەستراوە — وازی لێبهێنە ⟨لەو⟩.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "بەستراوە"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "بە بتەکان"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفراییم"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "وازی لێبهێنە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لەو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:47.542640132Z",
+  "model": "glm-5.3"
+}

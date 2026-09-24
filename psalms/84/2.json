@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 84,
+  "translation": "چۆن خۆشەویزن میشکانەکانت، ئەی یاهوە سەڤائۆت!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "خۆشەویزن"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "میشکانەکانت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:28.292498833Z",
+  "model": "glm-5.3"
+}

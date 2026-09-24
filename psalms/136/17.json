@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "لە کوشتنی پادشایانی گەورە، چونکە بۆ ئەبەدە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "لە کوشتنی"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادشایانی"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ ئەبەد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:15.333611301Z",
+  "model": "glm-5.3"
+}

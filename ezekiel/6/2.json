@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕی ئادەم، ڕووەکەت بەرەو چیاکانی ئیسرائیل بکە و پێغەمبەرییان بکە،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "بکە"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووەکەت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "چیاکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "و پێغەمبەری بکە"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "بۆ ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:06:36.818952609Z",
+  "model": "glm-5.3"
+}

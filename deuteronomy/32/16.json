@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "بە بیانییان هەڵهێنایان، بە قێزەونەکان توڕەیان کرد",
+  "tokens": [
+    {
+      "surface": "יקنאהו",
+      "gloss": "هەڵهێنایان"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "بە بیانییان"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "بە قێزەونەکان"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "توڕەیان کرد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:23.609734825Z",
+  "model": "glm-5.3"
+}

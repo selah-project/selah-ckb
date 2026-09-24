@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "ئەو وشەیەی کە بە ناوی یاهوە پێمان وتووە، گوێی لێ ناگرین لە تۆ.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ئەو وشەیەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "وتووتە"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "پێمان"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "بە ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "گوێ دەگرین"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لە تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:59:25.206870312Z",
+  "model": "glm-5.3"
+}

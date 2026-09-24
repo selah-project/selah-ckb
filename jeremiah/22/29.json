@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئەی زەوی، زەوی، زەوی، گوێ لە وشەی یاهوە بگرە.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ئەی زەوی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:45:45.595697803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "و ئاریێلەکە درێژیی دوازدە <\">\">\"< بە درێژیی دوازدە پانی چوارگۆشە بۆ چوار لای خۆی.",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "و ئاریێلەکە"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درێژیی"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "بە دوو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "چوارگۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "لایەکانی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:24:30.329774954Z",
+  "model": "glm-5.3"
+}

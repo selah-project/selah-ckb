@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 16:4",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "لە دوای ئەمە ژنێکی خۆشەویست لە ناوچەی سۆرێک هەبوو، ناوی دلیلا بوو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "خۆشەویست"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێکی"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "لە ناوچەی"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "سۆرێک"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "دلیلا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:13:26.480235301Z",
+  "model": "glm-5.3"
+}

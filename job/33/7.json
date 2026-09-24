@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 33:7",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "ئەوەتا ترسم لە تۆ ناترسێنێت، و کێشی من لەسەر تۆ قورس نابێت.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "ترسم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناترسێنێت"
+    },
+    {
+      "surface": "תבעתך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "ואכפי",
+      "gloss": "و کێشی من"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەر تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "قورس دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:13.979015956Z",
+  "model": "glm-5.3"
+}

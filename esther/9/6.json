@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و لە شوشنی قەڵادا یەهوودییەکان پێنج سەد پیاویان کوشت و ڕووخاند.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "و لە شوشن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قەڵا"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "کوشتیان"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یەهوودییەکان"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "و ڕووخاند"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:00:49.683163998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "لە سەرەوەی بەرزەکاندا لەسەر ڕێگا لە ناوەندی پاتەپاتەکاندا ڕادەوەستێت",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "لە سەرەوەی"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "بەرزەکان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ناوەندی"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "پاتەپاتەکان"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ڕادەوەستێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:38.575550316Z",
+  "model": "glm-5.3"
+}

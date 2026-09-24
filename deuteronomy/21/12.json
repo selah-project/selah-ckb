@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ئەو دەهێنیتە ناو ماڵەکەتەوە و سەری ⟨את⟩ دەتاشێت و نینجیلانی ⟨את⟩ دەخڕێنێت.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "دەهێنیتەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ناوەڕۆکی"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ماڵەکەت"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "و دەتاشێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سەری"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "و دەخڕێنێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نینجیلانی"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "نینجیلانی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:39.455277408Z",
+  "model": "glm-5.3"
+}

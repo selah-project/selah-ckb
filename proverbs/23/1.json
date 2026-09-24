@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کاتێک دادەنیشیت بۆ خواردن ⟨את⟩ حاکمێک، تێبگە و تێبگە بە ⟨את⟩ ئەوەی لەبەردەمتدایە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "دادەنیشیت"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "بۆ خواردن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حاکمێک"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاکمێک"
+    },
+    {
+      "surface": "בין",
+      "gloss": "تێبگە"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "تێبگە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "لەبەردەمت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:26.371930842Z",
+  "model": "glm-5.3"
+}

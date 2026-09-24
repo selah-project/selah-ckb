@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و بوو عیساو کوڕی چل ساڵ، و ژنی هێنا ⟨את⟩ یێهودیث کچی بئەری حیتییەکە و ⟨את⟩ بەسمەت کچی ئیلۆن حیتییەکە.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و ژنی هێنا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یێهودیث"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "یێهودیث"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "بئەری"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حیتییەکە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بەسمەت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بەسمەت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "ئیلۆن"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حیتییەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:25.456611311Z",
+  "model": "glm-5.3"
+}

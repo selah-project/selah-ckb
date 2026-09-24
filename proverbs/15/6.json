@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ماڵی ڕاستگۆ سامانێکی زۆرە، و داهاتی خراپەکار تێکدەچێت.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستگۆ"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "و داهاتی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپەکار"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "تێکدەچێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:48.531206965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "لۆد و ئۆنۆ، دۆڵی حەراشیم.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "لۆد"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "و ئۆنۆ"
+    },
+    {
+      "surface": "גי",
+      "gloss": "دۆڵ"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "حەراشیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:09.010351202Z",
+  "model": "glm-5.3"
+}

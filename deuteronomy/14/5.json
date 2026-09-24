@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ئاسکی نێر و غەزال و یەحمور و ئەقوو و دیشۆن و گامێشی کێوی و زیمر.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ئاسکی نێر"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "و غەزال"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "و یەحمور"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "و ئەقوو"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "و دیشۆن"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "و گامێشی کێوی"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "و زیمر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:41:39.384651652Z",
+  "model": "glm-5.3"
+}

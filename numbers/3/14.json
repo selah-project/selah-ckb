@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و یاهوە لە بیابانی سینادا لەگەڵ مۆشە ⟨موسا⟩ قسەی کرد بە دەم.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیابان"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە دەم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:39.788863016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بێباوک بووین، باوکمان ⟨نییە⟩، دایکانمان وەک بێوەژنان.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "بێباوک بووین"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "بووین"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨نییە⟩"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باوکمان"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "دایکانمان"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "وەک بێوەژنان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:10.473473307Z",
+  "model": "glm-5.3"
+}

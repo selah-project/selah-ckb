@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "نەگەڕانەوە لە حەزیان، هێشتا خواردنیان لە دەمیاندا بوو،",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "گەڕانەوە"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "لە حەزیان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "خواردنیان"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "لە دەمیاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:32.966576315Z",
+  "model": "glm-5.3"
+}

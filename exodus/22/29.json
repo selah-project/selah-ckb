@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 22:29",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "هەروا بۆ گاوت و بۆ مەڕەکانت بکە؛ حەوت ڕۆژ دەبێت لەگەڵ دایکی؛ لە ڕۆژی هەشتەمدا بۆ من دەیدەن.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "هەروا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکە"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "بۆ گاوت"
+    },
+    {
+      "surface": "לצאנך",
+      "gloss": "بۆ مەڕەکانت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هەشتەم"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "دەیدەن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:38.668761994Z",
+  "model": "glm-5.3"
+}

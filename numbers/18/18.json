@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 18:18",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و گۆشتیان بۆ تۆ دەبێت، وەک سنگِ شەپۆلەکە و وەک ڕانی ڕاست، بۆ تۆ دەبێت.",
+  "tokens": [
+    {
+      "surface": "ובשרם",
+      "gloss": "و گۆشتیان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "כחזה",
+      "gloss": "وەک سنگی"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "شەپۆلەکە"
+    },
+    {
+      "surface": "וכשוק",
+      "gloss": "و وەک ڕانی"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:24:33.010973377Z",
+  "model": "glm-5.3"
+}

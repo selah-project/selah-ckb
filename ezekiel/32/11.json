@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "چونکە هەر وا ئادۆنای یاهوە فەرمووی: شمشێری پاشای بابل دێتە سەرت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێری"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "دێتە سەرت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:31.031536648Z",
+  "model": "glm-5.3"
+}

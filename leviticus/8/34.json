@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "وەک ئەوەی لەم ڕۆژەدا کرا، یاهوە فەرمانی کرد بیکەن بۆ ڕەوانکردن ⟨لە⟩ سەر ئێوە",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "وەک ئەوەی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "بیکەن"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "بۆ ڕەوانکردن"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "سەر ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:20.917834018Z",
+  "model": "glm-5.3"
+}

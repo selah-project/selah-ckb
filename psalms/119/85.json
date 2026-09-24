@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "زێدەکان گۆمەکانیان بۆم هەڵکەند، ئەوانەی لەگەڵ تۆراتی تۆ نین.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "هەڵکەندن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "زێدەکان"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "گۆمەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوانەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نین"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "تۆراتی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:04.342750012Z",
+  "model": "glm-5.3"
+}

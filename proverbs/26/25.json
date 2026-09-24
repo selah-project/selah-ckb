@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "کاتێک دەنگی خۆی شیرین دەکات، متمانەی پێی مەکە، چونکە حەوت قێژە لە دڵیدا",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "شیرین دەکات"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "دەنگی خۆی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەکە"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "متمانەی پێی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بەو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "قێژە"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "لە دڵیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:41.783109969Z",
+  "model": "glm-5.3"
+}

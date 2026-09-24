@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و یاهوە قسەی کرد لەگەڵ مۆشە ⟨موسا⟩ بە وتنی:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:07.293260693Z",
+  "model": "glm-5.3"
+}

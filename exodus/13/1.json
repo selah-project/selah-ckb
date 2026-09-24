@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ قسەی فەرموو، بە وتن،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:43:41.664371174Z",
+  "model": "glm-5.3"
+}

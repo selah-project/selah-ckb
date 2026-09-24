@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بارێکی بابل کە یەشعیاهو ⟨کوڕی ئامۆتس⟩ بینیویەتی.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "بینیویەتی"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یەشعیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ئامۆتس"
+    }
+  ],
+  "timestamp": "2026-09-24T12:17:16.944088590Z",
+  "model": "glm-5.3"
+}

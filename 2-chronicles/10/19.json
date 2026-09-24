@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و ئیسرائیل ئاوڕێدا لە ماڵی داوود تا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "و ئاوڕێدا لە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود ⟨داود⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:00.826541362Z",
+  "model": "glm-5.3"
+}

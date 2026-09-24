@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 15:26",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و ئەگەر وا بفەرموو کە دڵخۆش نیم بە تۆ — لێرەم، با بۆ من بکات وەک ئەوەی چاکە لە چاوانی ئەو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "بفەرموو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نیم"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "دڵخۆش"
+    },
+    {
+      "surface": "בך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "لێرەم"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بکات"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک ئەوەی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "لە چاوانی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:39:39.085268223Z",
+  "model": "glm-5.3"
+}

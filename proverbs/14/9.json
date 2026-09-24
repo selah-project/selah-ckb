@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "نەفامان ⟨את⟩ گوناه بە گاڵتە دەگرن، و لە نێوان ڕاستاندا ڕەزامەندییە.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "نەفامان"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "بە گاڵتە دەگرن"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "گوناه"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و لە نێوان"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ڕاستان"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ڕەزامەندی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:43.891151338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 28:26",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و لاشەت دەبێت بۆ خواردن بۆ هەموو باڵندەی ئاسمان و بۆ ماڵاتی زەوی، و ترسێنەرێک نییە.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "لاشەت"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "بۆ خواردن"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "باڵندەی"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "و بۆ ماڵاتی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "ترسێنەرێک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:38.082575858Z",
+  "model": "glm-5.3"
+}

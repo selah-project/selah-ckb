@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "کاتێک بۆ دڕان و کاتێک بۆ دووین، کاتێک بۆ بێدەنگی و کاتێک بۆ قسەکردن.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "بۆ دڕان"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کاتێک"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "بۆ دووین"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "بۆ بێدەنگی"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کاتێک"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "بۆ قسەکردن"
+    }
+  ],
+  "timestamp": "2026-09-24T16:06:00.129149345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و هەڕەبیت، و قیشیئۆن، و ئاڤێز.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "و هەڕەبیت"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "و قیشیئۆن"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "و ئاڤێز"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:06.741721172Z",
+  "model": "glm-5.3"
+}

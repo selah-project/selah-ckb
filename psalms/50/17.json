@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "و تۆ ڕاهێنانی ڕەت کردووە و وشەکانی من لە پشت خۆت فڕێ داوە.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ڕەتت کردووە"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ڕاهێنان"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "و فڕێت داوە"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "لە پشت خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:45.090064189Z",
+  "model": "glm-5.3"
+}

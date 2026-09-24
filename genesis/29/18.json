@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و یاعکۆڤ ⟨את⟩ راحێلی خۆشویست و گوتی: بۆ راحێل کچە بچووکەکەت حەوت ساڵ خزمەتت دەکەم.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "و خۆشویست"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعکۆڤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راحێل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحێل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و گوتی"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "خزمەتت دەکەم"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "بۆ راحێل"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "کچەکەت"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "بچووک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:20.252407405Z",
+  "model": "glm-5.3"
+}

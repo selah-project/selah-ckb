@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ لۆڕوحامەی شیر لێبڕی، و سکی پێ کردەوە و کوڕێکی بوو.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "و شیر لێبڕی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لۆڕوحامە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "لۆ (نا)"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ڕوحامە (ڕەحمەت)"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "و سکی پێ کردەوە"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:28:43.438935629Z",
+  "model": "glm-5.3"
+}

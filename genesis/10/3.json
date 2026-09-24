@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و کوڕانی گۆمەر: ئاشکەناز و ڕیفات و تۆگەرماه.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گۆمەر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ئاشکەناز"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "و ڕیفات"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "و تۆگەرماه"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:16.939179520Z",
+  "model": "glm-5.3"
+}

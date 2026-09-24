@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "بۆ ڕێبەر، لەسەر «مێگەڵی بەیانی»، مەزموورێک بۆ داود ⟨داوید⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕێبەر"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "مێگەڵی"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:57.921385819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "سەرەتای حەکیمەت ترسی یاهوەیە، و ناسینی پیرۆزەکان تێگەیشتنە.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "سەرەتای"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حەکیمەت"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و ناسین"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:50.205769716Z",
+  "model": "glm-5.3"
+}

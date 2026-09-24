@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 31:23",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "چونکە کارەساتێکی لای ئێل ترسێکە بۆ من، و لە بەرزییەکەی ناتوانم؛",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "איד",
+      "gloss": "کارەسات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ומשאתו",
+      "gloss": "و لە بەرزییەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "دەتوانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:00.028359143Z",
+  "model": "glm-5.3"
+}

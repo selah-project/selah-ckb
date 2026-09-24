@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ئەوەتا من ئەمڕۆ لەبەردەمتان بەرەکەت و نەفرەت دەنێم.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دەنێم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "لەبەردەمتان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "بەرەکەت"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "و نەفرەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:13.817090694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "لەگەڵیان و لەگەڵ خوداکانیان پەیمان مەبڕە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "بڕە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لەگەڵیان"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "و لەگەڵ خوداکانیان"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پەیمان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:48:16.001494066Z",
+  "model": "glm-5.3"
+}

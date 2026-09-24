@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "کاتێک زەخمێکی سەرەکی ⟨ئەوە⟩ کەس هەیە، ⟨هێنان⟩ کۆهێنەکە دەخرێت لای کۆهێن",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "زەخم"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "سەرەک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "لە ئەنسان"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "و ⟨هێنان⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کۆهێن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:16.727187203Z",
+  "model": "glm-5.3"
+}

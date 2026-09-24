@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "یەک بە یەک نزیک دەبنەوە، و با لە نێوانیاندا نایەت.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "بە یەک"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "نزیک دەبنەوە"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "و با"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "لە نێوانیاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:17.769374140Z",
+  "model": "glm-5.3"
+}

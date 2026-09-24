@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و یاهوە فەرمووی: ئایا بۆ تۆ باشە کە تووڕە بیت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ئایا باشە"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "تووڕە بوون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:36:48.344058523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "گەنجانی ئاڤێن و پی بێسێت بە شمشێر دەکەون، و ئەوانە بە دیلەتی دەڕۆن.",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "گەنجانی"
+    },
+    {
+      "surface": "און",
+      "gloss": "ئاڤێن"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "و پی"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "بێسێت"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "بە شمشێر"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "دەکەون"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوانە"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "بە دیلەتی"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "دەڕۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:17:09.627653607Z",
+  "model": "glm-5.3"
+}

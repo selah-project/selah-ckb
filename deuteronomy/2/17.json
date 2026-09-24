@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و یاهوە بە منی فەرموو بە وتنی",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:56.635555189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 31:19",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "ئەگەر گومڕایەکی بێ جل بینیبێت، و هەژار پۆشاک نەبووبێت،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "بینیبێت"
+    },
+    {
+      "surface": "אובד",
+      "gloss": "گومڕایەک"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "جل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نەبوو"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "پۆشاک"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "هەژار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:43.803005853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و یڤهار و ئێلیشاماع و ئێلیپالێت.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "و یڤهار"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "و ئێلیشاماع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "و ئێلیپالێت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:01.059570221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 14:33",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لە دڵی هۆشاردا حیکمەت حەسانە، و لە نێو گەمژەکاندا خۆی دەناسێنێت.",
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "لە دڵی"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "هۆشار"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "حەسانە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "ובקרב",
+      "gloss": "و لە نێو"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "گەمژەکاندا"
+    },
+    {
+      "surface": "תודע",
+      "gloss": "خۆی دەناسێنێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:28.274028562Z",
+  "model": "glm-5.3"
+}

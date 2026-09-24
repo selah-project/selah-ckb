@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 25:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ڕابەی دەکەم بۆ لانەی وشتران و بەنی عەممۆن بۆ ئاودەری مەڕ، و ئێوە دەزانن کە من یاهوەم.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "و دەیدەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕابە"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ڕابە"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "بۆ لانەی"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "وشتران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بەنی عەممۆن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بەنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عەممۆن"
+    },
+    {
+      "surface": "למרבץ",
+      "gloss": "بۆ ئاودەری"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "و ئێوە دەزانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:15:54.644582030Z",
+  "model": "glm-5.3"
+}

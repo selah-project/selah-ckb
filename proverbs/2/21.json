@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "چونکە ڕاستەکان لە زەوی ⟨دەژین⟩، و تەواوەکان لەیدا دەمێننەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ڕاستەکان"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "⟨دەژین⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "و تەواوەکان"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "دەمێننەوە"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لەیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:07.668651120Z",
+  "model": "glm-5.3"
+}

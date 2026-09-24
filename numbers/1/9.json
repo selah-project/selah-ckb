@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بۆ زەبولون: ئەلیئاب کوڕی حێلۆن.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "بۆ زەبولون"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ئەلیئاب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حێلۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:49.970818203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ⟨את⟩ دەرزەکان لە دار شیتیم دەکەیت و ⟨את⟩ ئەوان بە زێڕ داپۆشییت.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و دەکەیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەرزەکان"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "دەرزەکان"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "دار"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شیتیم"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "و داپۆشییت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "دەرزەکان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:49.164704307Z",
+  "model": "glm-5.3"
+}

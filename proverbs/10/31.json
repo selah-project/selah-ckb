@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "دەمی ڕاستەقینە حیکمەت بەرهەم دەهێنێت، و زمانی سەرەلۆ چاپ دەکرێت.",
+  "tokens": [
+    {
+      "surface": "پי",
+      "gloss": "دەم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستەقینە"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "بەرهەم دەهێنێت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "و زمان"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "سەرەلۆ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "چاپ دەکرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:12.211911131Z",
+  "model": "glm-5.3"
+}

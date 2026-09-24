@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "دەرهێنەرم لە تۆڕی ئەوەی کە بۆم شاردوویەتەوە، چونکە تۆ قەڵای منی.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "دەرهێنەرم"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "لە تۆڕ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "شاردوویەتەوە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "قەڵای من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:53.498704943Z",
+  "model": "glm-5.3"
+}

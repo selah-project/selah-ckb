@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "ئەگەر دزێکت بینی و لەگەڵی ڕامێنی، و بە زیناحکارانەوە بەشەکەت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "دز"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "و ڕامێنی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "زیناحکاران"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "بەشەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:45.090307955Z",
+  "model": "glm-5.3"
+}

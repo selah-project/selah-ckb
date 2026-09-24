@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کوڕەکانی گێرشۆم شێڤوئێل سەرۆک بوون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گێرشۆم"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "شێڤوئێل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سەرۆک"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:01.878317990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 55,
+  "translation": "دڵم لە ناومدا دەشێوێت و ترسەکانی مردن لەسەرم کەوتن.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "دەشێوێت"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "لە ناومدا"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "و ترسەکانی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردن"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "کەوتن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەرم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:01.613199678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و توعو ⟨تۆی⟩ پاشای حەمات بیستی کە داود ⟨את⟩ هەموو لەشکری هەدادەزەر پاشای زۆڤای لێیدا.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و بیستی"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "توعو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حەمات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "لێیدا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو لەشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لەشکر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هەدادەزەر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "زۆڤا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:08.485342872Z",
+  "model": "glm-5.3"
+}

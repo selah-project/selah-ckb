@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئییۆڤ ⟨ئەیوب⟩ وەڵامی دایەوە و فەرموو:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و وەڵامی دایەوە"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئییۆڤ ⟨ئەیوب⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:43.938398007Z",
+  "model": "glm-5.3"
+}

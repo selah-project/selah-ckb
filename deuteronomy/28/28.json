@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "یاهوە لێت دەدات بە شێتایی و بە کوێرایی و بە سەرسوڕمانی دڵ.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "لێت دەدات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "بە شێتایی"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "و بە کوێرایی"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "و بە سەرسوڕمانی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:38.082897503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕم، وشەکانم بپارێزە و فەرمانەکانم لەگەڵ ⟨את⟩ تۆ بشارێنەوە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "وشەکانم"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "و فەرمانەکانم"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "بشارێنەوە"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تۆ",
+      "marks": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:47.501221745Z",
+  "model": "glm-5.3"
+}

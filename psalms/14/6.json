@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ڕاوێژی هەژار دەشەرمێنن، چونکە یاهوە پەنایەری ئەوە.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "ڕاوێژی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "هەژار"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "دەشەرمێنن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "پەنایەری ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:57.999302327Z",
+  "model": "glm-5.3"
+}

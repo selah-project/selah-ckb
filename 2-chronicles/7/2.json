@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و کاهینەکان نەیانتوانی بچنە ناو ماڵی یاهوە، چونکە شکۆی یاهوە پڕی کردبوو ⟨את⟩ ماڵی یاهوە.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "توانی"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهینەکان"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "بۆ چوون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕی کردبوو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڵی یاهوە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:34:58.291036633Z",
+  "model": "glm-5.3"
+}

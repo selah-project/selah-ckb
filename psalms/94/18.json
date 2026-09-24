@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 94,
+  "translation": "ئەگەر وت، پێم دەخلیسکێت، حەسەدی تۆ ئەی یاهوە پشتگیریم دەکات.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وت"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "دەخلیسکێت"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حەسەدی تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "پشتگیریم دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:09.897437248Z",
+  "model": "glm-5.3"
+}

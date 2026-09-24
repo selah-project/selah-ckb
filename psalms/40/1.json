@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "بۆ ڕابەری مۆسیقا، بۆ داود، زەمورە.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕابەری مۆسیقا"
+    },
+    {
+      "surface": "لדוד",
+      "gloss": "بۆ داود"
+    },
+    {
+      "surface": "مזמור",
+      "gloss": "زەمورە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:22.613718044Z",
+  "model": "glm-5.3"
+}

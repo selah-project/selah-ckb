@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "عەقرون ⟨عەکرۆن⟩ و کچەکانی و گوندەکانی،",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "عەقرون ⟨عەکرۆن⟩"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "و کچەکانی"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "و گوندەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:05.465145907Z",
+  "model": "glm-5.3"
+}

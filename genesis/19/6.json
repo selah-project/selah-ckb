@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و لوت هاتە دەر بۆ لای ئەوان بۆ دەرگا و دەرگاکەی لە پشت خۆیەوە داخست.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "هاتە دەر"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆ لای ئەوان"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "بۆ دەرگا"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "و دەرگاکەی"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "داخست"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "لە پشت خۆیەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:16:59.796787544Z",
+  "model": "glm-5.3"
+}

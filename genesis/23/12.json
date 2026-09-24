@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و ئاڤراهام لەبەر گەلی وڵاتەکە چۆکی نیا.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "و چۆکی نیا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەلی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "وڵاتەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:37.290114547Z",
+  "model": "glm-5.3"
+}

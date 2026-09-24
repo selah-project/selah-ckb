@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و فەرمووی: من خزمەتکاری ئاڤراهام ⟨ئیبراهیم⟩م.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خزمەتکار"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام ⟨ئیبراهیم⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:47.845744565Z",
+  "model": "glm-5.3"
+}

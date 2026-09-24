@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و چەقۆیەک دەخەیتە سەر گەرووت، ئەگەر خاوەنی گیانێکی زۆری.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "دەخەیتە"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "چەقۆیەک"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "سەر گەرووت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "خاوەنی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:26.372380099Z",
+  "model": "glm-5.3"
+}

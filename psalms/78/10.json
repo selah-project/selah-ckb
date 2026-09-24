@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "پەیمانی ئێلۆهیمیان نەپاراست و بە تۆرای ڕەتیان کردەوە ⟨بڕۆن⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "پاراست"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پەیمان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "و بە تۆرای"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ڕەتیان کردەوە"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "بڕۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:48.544431744Z",
+  "model": "glm-5.3"
+}

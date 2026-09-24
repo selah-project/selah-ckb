@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 36:14",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "لەبەرئەوە مرۆڤ ناخۆیتەوە، و گەلەکانت تێکناچێتەوە، فەرمووشەی ئادۆنای یاهوە",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لەبەرئەوە"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "ناخۆیتەوە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "וגויך",
+      "gloss": "و گەلەکانت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תכשלي",
+      "gloss": "تێکناچێتەوە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فەرمووشەی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:20:44.482822307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "مەشق خراپەیە بۆ وەلاسێنەری ڕێگ، ڕقی لە ڕەخنە دەبێت دەمرێت.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "مەشق"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "بۆ وەلاسێنەری"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ڕێگ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ڕقی لە دەبێت"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ڕەخنە"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "دەمرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:50.606658747Z",
+  "model": "glm-5.3"
+}

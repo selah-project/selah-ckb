@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "ئایا ئێلۆهیم ئەمە بە وردی ناکۆڵێتەوە؟ چونکە ئەو نهێنییەکانی دڵ دەزانێت.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ناکۆڵێتەوە"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "نهێنییەکانی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:08.199512789Z",
+  "model": "glm-5.3"
+}

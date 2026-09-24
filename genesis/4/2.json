@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و درێژەی دا بە زایین ⟨את⟩ برای ئەو ⟨את⟩ هابیل، و هابیل بوو چاوەری مەڕ، و قایین بوو کارکەری زەوی.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "و درێژەی دا"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "بە زایین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برای ئەو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای ئەو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هابیل"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هابیل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هابیل"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چاوەری"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "و قایین"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کارکەری"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:52.376620411Z",
+  "model": "glm-5.3"
+}

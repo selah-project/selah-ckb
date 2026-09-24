@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چونکە درێژیی ڕۆژان و ساڵانی ژیان و ئاشتی بۆ تۆ زیاد دەکەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درێژیی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "و ساڵانی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "و ئاشتی"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "زیاد دەکەن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:15.747855906Z",
+  "model": "glm-5.3"
+}

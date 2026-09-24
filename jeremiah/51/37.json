@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 51:37",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "و دەبێت باڤیل بۆ تەڵەکان، دێری کەڵبەکان، خاپوور و قیژە، بێ دانیشتوو.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "باڤیل"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "بۆ تەڵەکان"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "دێری"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "کەڵبەکان"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "خاپوور"
+    },
+    {
+      "surface": "ושרקה",
+      "gloss": "و قیژە"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "دانیشتوو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:02:49.243545753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و ئەگەر بە ڕقەوە پاڵی پێ نا، یان بە دەسەڵەوە شتێکی خستە سەری و مرد،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "بە ڕقەوە"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "پاڵی پێ نا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "خست"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "بە دەسەڵەوە"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:27.472763752Z",
+  "model": "glm-5.3"
+}

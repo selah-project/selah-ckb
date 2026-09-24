@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و فەرمانەکانم پارێزن و ⟨את⟩ ئەوان دەکەن؛ من یاهوەم.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "و پارێزن"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "فەرمانەکانم"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "و دەکەن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان",
+      "marks": "فەرمانەکانم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:00.975161467Z",
+  "model": "glm-5.3"
+}

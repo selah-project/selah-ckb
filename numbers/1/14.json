@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بۆ گاد ⟨گاد⟩، ئێلیاساف کوڕی دێئوێل.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "بۆ گاد ⟨گاد⟩"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ئێلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دێئوێل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:03.395439024Z",
+  "model": "glm-5.3"
+}

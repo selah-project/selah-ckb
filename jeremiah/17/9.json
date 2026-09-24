@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "فێڵکارە دڵ لە هەموو شت، و ناچاریشە — کێ دەیناسێت؟",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "فێڵکارە"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو شت"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "و ناچاریشە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "دەیناسێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:27.979071844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و مۆشە سەرکەوت بۆ چیاکە، و هەورەکە ⟨את⟩ چیاکەی داپۆشی.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و سەرکەوت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "چیاکە"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "و داپۆشی"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "هەورەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چیاکە"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "چیاکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:44.069157770Z",
+  "model": "glm-5.3"
+}

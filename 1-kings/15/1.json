@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و لە ساڵی حەڤدەیەمی پاشا یاراڤعام کوڕی نەڤات، ئاڤییام لەسەر یهودا پاشا بوو.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "و لە ساڵی"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ياراڤعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نەڤات"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا بوو"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "ئاڤییام"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:54:49.540265889Z",
+  "model": "glm-5.3"
+}

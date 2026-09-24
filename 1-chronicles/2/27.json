@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕانی ڕام یەکەم‌زادی یەڕەحمئێل ئەوانە بوون: مەعەس و یامین و عێکێر.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ڕام"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "یەکەم‌زادی"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یەڕەحمئێل"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "مەعەس"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "و یامین"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "و عێکێر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:07.796683887Z",
+  "model": "glm-5.3"
+}

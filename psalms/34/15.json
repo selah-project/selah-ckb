@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "لە خراپی ڕابکێشە و چاکە بکە، ئاشتی بگەڕێ و ڕاوی بکە.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ڕابکێشە"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "لە خراپی"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "بگەڕێ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "و ڕاوی بکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:42.800655805Z",
+  "model": "glm-5.3"
+}

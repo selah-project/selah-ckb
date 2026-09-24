@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "یەک و بیست بۆ هۆتیر، کوڕەکانی و براکانی، دوازدە.",
+  "tokens": [
+    {
+      "surface": "לאחד",
+      "gloss": "بۆ یەک"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "להותיר",
+      "gloss": "بۆ هۆتیر"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "و دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:49.610991928Z",
+  "model": "glm-5.3"
+}

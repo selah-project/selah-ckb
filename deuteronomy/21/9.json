@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و تۆ خوێنی بێتاوان لە ناوەڕۆکی خۆتدا دەسڕیتەوە، چونکە ئەوەی ڕاستە لە چاوی یاهوەدا دەکەیت.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "دەسڕیتەوە"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "بێتاوان"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "لە ناوەڕۆکی خۆتدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەکەیت"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ئەوەی ڕاستە"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:39.454686851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 38:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و یەهودا لەوێ کچی پیاوێکی کەنەعانی بینی کە ناوی شوعا بوو و ئەوی هێنا و چووە لای ⟨ئەو⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "כנעני",
+      "gloss": "کەنەعانی"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "شوعا"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ئەوی هێنا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "چووە"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لای"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:17.808842194Z",
+  "model": "glm-5.3"
+}

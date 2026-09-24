@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "نەوەک بیانیان لە هێزت تێر بن، و ماندووبوونەکانت لە ماڵی بێگانەدا بن.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "نەوەک"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "تێر بن"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "بیانیان"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "هێزت"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "و ماندووبوونەکانت"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "بێگانە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:23.940724558Z",
+  "model": "glm-5.3"
+}

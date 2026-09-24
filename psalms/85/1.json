@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 85,
+  "translation": "بۆ سەرپەرشتیار، بۆ کوڕانی قورەح ⟨قارون⟩، مەزموور",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ سەرپەرشتیار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورەح ⟨قارون⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموور"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:13.875652674Z",
+  "model": "glm-5.3"
+}

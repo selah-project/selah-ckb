@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و زیلپا ⟨زڵفا⟩ کۆیلەی لێیا بۆ یاکۆڤ ⟨یەعقوب⟩ کوڕێکی زا.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "زا"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زیلپا ⟨زڵفا⟩"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "کۆیلەی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێیا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "بۆ یاکۆڤ ⟨یەعقوب⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:32.517609698Z",
+  "model": "glm-5.3"
+}

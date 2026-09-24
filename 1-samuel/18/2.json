@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و شائول ئەوی لەو ڕۆژەدا هەڵگرت و نەیهێشت بگەڕێتەوە بۆ ماڵی باوکی",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ئەوی هەڵگرت"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "نەیهێشت"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "بگەڕێتەوە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بۆ ماڵی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:25:03.809270334Z",
+  "model": "glm-5.3"
+}

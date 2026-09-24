@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 132,
+  "translation": "چونکە یاهوە سیۆنی هەڵبژاردەوە، حەزێکی کرد ⟨بێتا⟩ بۆ دانیشتنی خۆی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "هەڵبژاردەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "سیۆن"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "حەزێکی کرد"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "بۆ دانیشتن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:00.408960037Z",
+  "model": "glm-5.3"
+}

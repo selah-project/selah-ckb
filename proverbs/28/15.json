@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "شێرێکی گڕیداو و ورچێکی ڕاوکەر، فەرمانڕەوایەکی بێدادەیە لەسەر گەلێکی هەژار.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "شێر"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "گڕیداو"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "و ورچ"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ڕاوکەر"
+    },
+    {
+      "surface": "משל",
+      "gloss": "دەفەرمانڕەوایێت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بێدادە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "דל",
+      "gloss": "هەژار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:02.829128277Z",
+  "model": "glm-5.3"
+}

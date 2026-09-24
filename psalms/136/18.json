@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "و پادشایانی بەهێزی کوشت، چونکە بۆ ئەبەدە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "و کوشت"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادشایانی"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ ئەبەد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:15.333790319Z",
+  "model": "glm-5.3"
+}

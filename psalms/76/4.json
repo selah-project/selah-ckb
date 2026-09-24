@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 76,
+  "translation": "لەوێ شکاندی تری ڕوونەی کەوان، قەڵغان و شمشێر و جەنگ. سەلا.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکاند"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "تری ڕوونە"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کەوان"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "قەڵغان"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "و شمشێر"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "و جەنگ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سەلا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:11.428808190Z",
+  "model": "glm-5.3"
+}

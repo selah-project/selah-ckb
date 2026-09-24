@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و یاهوە بە مۆشەی ⟨موسا⟩ فەرموو بەم زوانە:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:12.576742527Z",
+  "model": "glm-5.3"
+}

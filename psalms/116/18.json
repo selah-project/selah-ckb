@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 116,
+  "translation": "نەزیرەکانی م بۆ یاهوە دەسەرم، لەبەردەم هەموو گەلەکەی.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "نەزیرەکانی م"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "دەسەرم"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گەلەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:43.986813047Z",
+  "model": "glm-5.3"
+}

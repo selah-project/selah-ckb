@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "لە فەرمانەکانت تێدەگەم، لەبەر ئەوە لە هەموو ڕێگای درۆ ڕقم لێیەتی.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "لە فەرمانەکانت"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "تێدەگەم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ڕقم لێیەتی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:07.528566509Z",
+  "model": "glm-5.3"
+}

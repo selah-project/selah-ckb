@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "شێئۆل و زگی داخراو، زەوی بە ئاو تێر نابێت و ئاگر نەوتووە بەسە.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "شێئۆل"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "و داخراو"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "زگ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "تێر نابێت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "و ئاگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "وتووە"
+    },
+    {
+      "surface": "הון",
+      "gloss": "بەسە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:24.329616013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و مۆشە ⟨את⟩ ماتەکان لەبەردەم یاهوە دانا، لە چادری شایەتیدا.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "و دانا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماتەکان"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "ماتەکان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "لە چادری"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "شایەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:22:42.251825549Z",
+  "model": "glm-5.3"
+}

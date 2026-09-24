@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 1:2",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کە وشەی یاهوە بۆی ھات لە ڕۆژانی یۆشیا کوڕی ئامۆن پاشای یەهودا، لە ساڵی سێزدەیەمی پاشایەتیی ئەو.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ھات"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "لە ڕۆژانی"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یۆشیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ئامۆن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "لە سێ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "سێزدەیەم"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "پاشایەتیی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:37:32.137576722Z",
+  "model": "glm-5.3"
+}

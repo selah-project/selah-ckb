@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و کۆڕی گاد دیبۆن و عەتارۆت و عەرۆئێریان دروستکرد.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "دروستکردیان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کۆڕی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیبۆن"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "دیبۆن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەتارۆت"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عەتارۆت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەرۆئێر"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "عەرۆئێر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:34.620976469Z",
+  "model": "glm-5.3"
+}

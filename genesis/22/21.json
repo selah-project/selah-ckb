@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "⟨את⟩ عووتز یەکەم لەدایکبووی ⟨موسا⟩، و ⟨את⟩ بووز برای، و ⟨את⟩ کێموێئێڵ باوکی ئارام.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عووتز"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عووتز"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "یەکەم لەدایکبووی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بووز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بووز"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کێموێئێڵ"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "کێموێئێڵ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ئارام"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:32.087664341Z",
+  "model": "glm-5.3"
+}

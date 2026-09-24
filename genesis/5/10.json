@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و ئەنۆش دوای بوونی بە باوکی ⟨את⟩ قەینان پێنج ساڵ و هەشت سەد ساڵ ژیا و بووە باوکی کوڕان و کچان.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ئەنۆش"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "بوونی بە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قەینان"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قەینان"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بووە باوکی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:49.289974527Z",
+  "model": "glm-5.3"
+}

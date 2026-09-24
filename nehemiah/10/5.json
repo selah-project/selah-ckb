@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "حاتووش ⟨شەبەنیا⟩، ⟨مالووخ⟩،",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "حاتووش"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "شەبەنیا"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "مالووخ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:32.527364097Z",
+  "model": "glm-5.3"
+}

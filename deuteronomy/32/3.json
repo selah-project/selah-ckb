@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "چونکە ناوی یاهوە دەبانگم، گەورەیی بدەن بە ئێلۆهیمەمان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "دەبانگم"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "بدەن"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گەورەیی"
+    },
+    {
+      "surface": "لאלהינו",
+      "gloss": "بە ئێلۆهیمەمان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:57.553754349Z",
+  "model": "glm-5.3"
+}

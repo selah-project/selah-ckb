@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 14:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "دڵی لاسووک لە ڕێگاکانی خۆی تێر دەبێت و لە لای ئەو پیاوی چاکە لە خۆیەوە ⟨دەبێت⟩.",
+  "tokens": [
+    {
+      "surface": "מדרכיו",
+      "gloss": "لە ڕێگاکانی خۆی"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "تێر دەبێت"
+    },
+    {
+      "surface": "סוג",
+      "gloss": "لاسووک"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "ומעליו",
+      "gloss": "و لە لای ئەو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:12.156982189Z",
+  "model": "glm-5.3"
+}

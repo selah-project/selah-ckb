@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ئەمەش تۆرای ئەشامە — پیرۆزی پیرۆزانە ئەوەیە.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "و ئەمەش"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تۆرای"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ئەشام"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پیرۆزانە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:16.831704847Z",
+  "model": "glm-5.3"
+}

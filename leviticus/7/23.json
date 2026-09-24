@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "قسە لەگەڵ کوڕانی ئیسرائیل بکە بە وتنی: هەموو چەوری گا و مەڕ و بزن نایخۆن.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "قسە...بکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "بני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چەوری"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گا"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "و مەڕ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "و بزن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەیخۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:20.855447166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "چونکە پێیانیان بۆ خراپە ڕادەدەن و خۆیان دەخزێنن بۆ ڕشتنی خوێن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "پێیانیان"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "بۆ خراپە"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ڕادەدەن"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "و خۆیان دەخزێنن"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "بۆ ڕشتنی"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خوێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:56.808411604Z",
+  "model": "glm-5.3"
+}

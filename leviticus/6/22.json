@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "هەموو نێرینەیەک لە کاهینەکان دەیخوات ⟨את⟩؛ پیرۆزی پیرۆزەکانە ئەو ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێرینە"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "لە کاهینەکان"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەیخوات"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "قوربانییەکە"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:05.188991461Z",
+  "model": "glm-5.3"
+}

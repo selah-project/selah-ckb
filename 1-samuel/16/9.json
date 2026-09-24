@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و ئیشای شامّا تێپەڕاند و فەرموو: هەروەها یاهوە ئەمەی هەڵنەبژاردەوە.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "تێپەڕاند"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ئیشای"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شامّا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "گם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "هەڵبژاردەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:23:22.672791484Z",
+  "model": "glm-5.3"
+}

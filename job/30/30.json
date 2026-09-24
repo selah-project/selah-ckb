@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "پێستم لەسەرم ڕەش بووە و ئێسکەکانم لە گەرمایەوە سووتاون.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "پێستم"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ڕەش بووە"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "لەسەرم"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "و ئێسکەکانم"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "سووتاون"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "گەرما"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:03.232438017Z",
+  "model": "glm-5.3"
+}

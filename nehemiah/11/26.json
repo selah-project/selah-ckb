@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە یەشووا و لە مۆلاڤدا و لە بێت پالێت.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "و لە یەشووا"
+    },
+    {
+      "surface": "وבמולדה",
+      "gloss": "و لە مۆلاڤدا"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "و لە بێت"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "پالێت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:43.232125225Z",
+  "model": "glm-5.3"
+}

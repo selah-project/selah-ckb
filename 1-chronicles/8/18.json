@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و ییشمەرای و ییزلیا و یۆڤاڤ، كوڕانی ئێلپەعال.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "و ییشمەرای"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "و ییزلیا"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "و یۆڤاڤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "كوڕانی"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ئێلپەعال"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:16.536090501Z",
+  "model": "glm-5.3"
+}

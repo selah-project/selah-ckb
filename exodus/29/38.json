@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و ئەمە ئەوەیە کە دەیکەیت لەسەر قوربانگاکە بەرخانی ساڵان دوو بە ڕۆژ بەردەوام",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەیکەیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قوربانگاکە"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کۆرەی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بە ڕۆژ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "بەردەوام"
+    }
+  ],
+  "timestamp": "2026-09-24T09:51:18.584790758Z",
+  "model": "glm-5.3"
+}

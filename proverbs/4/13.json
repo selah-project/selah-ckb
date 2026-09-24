@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "فێرکاری بە توندی بگرە، وازنەهێنە، پارێزی بکە، چونکە ئەوە ژیانی تۆیە.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "بە توندی بگرە"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "فێرکاری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "وازنەهێنە"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "پارێزی بکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ژیانی تۆیە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:59.664302106Z",
+  "model": "glm-5.3"
+}

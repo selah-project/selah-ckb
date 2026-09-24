@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و مۆشە ⟨موسا⟩ هاواری کرد بۆ یاهوە بە وتنی: ئەی ئێل، تکایە چاکی بکەرەوە، تکایە، بۆ ئەو.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "و هاواری کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەی ئێل"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "چاکی بکەرەوە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:04.095516709Z",
+  "model": "glm-5.3"
+}

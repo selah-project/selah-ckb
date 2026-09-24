@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "تاجی زانایان سامانیانە، گەمژەیی گەمژەکان گەمژەیییە.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاجی"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "زانایان"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "سامانیانە"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "گەمژەیی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "گەمژەکان"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "گەمژەیییە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:44.328353142Z",
+  "model": "glm-5.3"
+}

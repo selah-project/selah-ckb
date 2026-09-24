@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 41:20",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "کوڕی کەوان ناتوانێت هەڵبێنێت، بەردەکانی فێنگ بۆی دەبن بە کۆڵەشمسە",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבריחנו",
+      "gloss": "هەڵبێنێت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "قשת",
+      "gloss": "کەوان"
+    },
+    {
+      "surface": "לקש",
+      "gloss": "کۆڵەشمسە"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "دەبن بە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "بەردەکانی"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "فێنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:28.006492904Z",
+  "model": "glm-5.3"
+}

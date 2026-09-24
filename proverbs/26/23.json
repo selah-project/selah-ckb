@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "زیوی قاش و قۆخ دادەپۆشرێت لەسەر پارچە گوڵدان — لێڵەکانی سووتاو و دڵێکی خراپ.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "زیوی"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "قاش و قۆخ"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "دادەپۆشرێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "پارچە گوڵدان"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لێڵەکان"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "سووتاو"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "و دڵ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:47.204602094Z",
+  "model": "glm-5.3"
+}

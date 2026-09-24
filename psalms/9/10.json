@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و یاهوە بۆ زەحمەتکێش قەڵایە، قەڵایە بۆ کاتەکانی تەنگەسەیی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "قەڵا"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "بۆ زەحمەتکێش"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "قەڵا"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "بۆ کاتەکانی"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "تەنگەسەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:49.072021757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کوڕانی عەساڤ: ئەلیفاز، ڕەئوئیل، یەعوش، یەعلام و قۆراح.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عەساڤ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ئەلیفاز"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ڕەئوئیل"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "یەعوش"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "یەعلام"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "و قۆراح"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:03.167914661Z",
+  "model": "glm-5.3"
+}

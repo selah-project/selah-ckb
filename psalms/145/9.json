@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 145,
+  "translation": "چاکە یاهوە بۆ هەموو، و ڕەحمەتەکانی لەسەر هەموو کارەکانی‌یە.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "و ڕەحمەتەکانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "کارەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:57.152072640Z",
+  "model": "glm-5.3"
+}

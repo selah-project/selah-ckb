@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئەرپەخشاد ⟨את⟩ شەلاخی بووە باوکی، و شەلاخ ⟨את⟩ عەێبەری بووە باوکی.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "و ئەرپەخشاد"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "بووە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شەلاخ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شەلاخ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "و شەلاخ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "بووە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەێبەر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عەێبەر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:03.937686180Z",
+  "model": "glm-5.3"
+}

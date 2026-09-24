@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و ناوی نا ⟨את⟩ شیڤعە، لەبەر ئەوە ناوی شارەکە بئەرشەڤعە تا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "شیڤعە"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "شیڤعە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئەر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شەڤعە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:25.456237002Z",
+  "model": "glm-5.3"
+}

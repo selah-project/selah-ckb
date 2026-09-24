@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و هەموو ڕۆژەکانی مەهەلالێل پێنج و نەوەد ساڵ و هەشت سەد ساڵ بوون و مرد.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مەهەلالێل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "و نەوەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:32.958692783Z",
+  "model": "glm-5.3"
+}

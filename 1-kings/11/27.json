@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەمە ئەو شتە بوو کە بۆی دەستی هەڵبڕی دژی پاشا: شلۆمۆ میلۆ بنیات نا، دەرگای شاری داودی باوکی داخست.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئەو شتە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "هەڵبڕی"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "دژی پاشا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنیات نا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میلۆ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "میلۆ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "داخست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەرگا"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:52:21.172118294Z",
+  "model": "glm-5.3"
+}

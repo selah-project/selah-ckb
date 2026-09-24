@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "وا یاهوەی سەڤائۆت فەرموو: ئەوەتا من ⟨את⟩ کەوانەی عەیلام دەشکێنم، سەرەتای هێزیان.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ئەوەتا من"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "دەشکێنم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کەوانە"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کەوانە"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عەیلام"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "سەرەتا"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "هێزیان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:01:56.730650406Z",
+  "model": "glm-5.3"
+}

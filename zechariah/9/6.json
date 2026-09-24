@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 9:6",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و مامزەرێک لە ئەشدۆد دەژی، و شانی فەلیستییەکان دەبڕمەوە.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "دەژی"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "مامزەرێک"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "لە ئەشدۆد"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "و دەبڕمەوە"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "شان"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فەلیستییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:45:28.498472500Z",
+  "model": "glm-5.3"
+}

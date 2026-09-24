@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "چونکم وت: نەک بە شادی بکەن بۆم؛ لە لەقانی پێم لەسەرم گەورە بوون.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکم"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نەک"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "بە شادی بکەن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "لە لەقانیدا"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەرم"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "گەورە بوون"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:56.368345272Z",
+  "model": "glm-5.3"
+}

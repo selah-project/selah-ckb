@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 52,
+  "translation": "لە هاتنی دۆئەگ ئەدۆمی، و بۆ شائولی ناسی و پێی وت: داود هاتۆتە ماڵی ئەحیمەلەخ.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "لە هاتنی"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "دۆئەگ"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ئەدۆمی"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "و ناسی"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "بۆ شائول"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ئەحیمەلەخ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:01.083181566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "هەر ئەوەی کە عەیبێکی تێدایە پێشکەشی مەکەن چونکە بۆ ڕەزامەندی نابێت ⟨بێت⟩ بۆ ئێوە",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەر ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێدایە"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عەیبێکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مەکەن"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "پێشکەشی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "بۆ ڕەزامەندی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:17.260291248Z",
+  "model": "glm-5.3"
+}

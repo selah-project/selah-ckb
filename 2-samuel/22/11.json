@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و سەر کەرووب سواربوو و فڕی و دەرکەوت لەسەر باڵەکانی با.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "و سواربوو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "کەرووب"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "و فڕی"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "و دەرکەوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "باڵەکانی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "با"
+    }
+  ],
+  "timestamp": "2026-09-24T11:40:20.713579477Z",
+  "model": "glm-5.3"
+}

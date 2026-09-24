@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "چونکە هەر گیانێک کە لە خودی ئەم ڕۆژەدا خۆڵەمێش نەبێت، لە گەلەکەی دەبڕدرێتەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "گیانێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "خۆڵەمێش بێت"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "لە خودی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "و دەبڕدرێتەوە"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "لە گەلەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:04.758578075Z",
+  "model": "glm-5.3"
+}

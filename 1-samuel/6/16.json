@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و پێنج سەرۆکی فەلەستییەکان بینیان و لەو ڕۆژەدا گەڕانەوە ⟨بۆ⟩ عەقڕۆن.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "سەرۆکانی"
+    },
+    {
+      "surface": "پלیشتی",
+      "gloss": ""
+    },
+    {
+      "surface": "ראו",
+      "gloss": "بینیان"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "و گەڕانەوە"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "عەقڕۆن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:18:17.707896942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 66,
+  "translation": "سەرمایی ئەگەر لە دڵمدا بینیبایە، ئادۆنای نەیدەبیست ⟨ئێستە⟩.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "سەرماڵی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ראיתی",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "لە دڵمدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "دەبیستێت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:00.964405007Z",
+  "model": "glm-5.3"
+}

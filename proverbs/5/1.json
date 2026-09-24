@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "کوڕەکەم بۆ حیکمەتی من گوێ ڕابگرە، بۆ تێگەیشتنی من گوێت لار بکە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکەم"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "بۆ حیکمەتی من"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "گوێ ڕابگرە"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "بۆ تێگەیشتنی من"
+    },
+    {
+      "surface": "הט",
+      "gloss": "لار بکە"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:24.968215295Z",
+  "model": "glm-5.3"
+}

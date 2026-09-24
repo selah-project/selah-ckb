@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "توڕەیی لە مندا نییە؛ کێ لە شەڕدا خار و وشکم پێ بدات؟ بەسەری دەچم، بە یەکجار دەیسووتێنم.",
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "توڕەیی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "پێ بدات"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "خار"
+    },
+    {
+      "surface": "שית",
+      "gloss": "وشک"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "لە شەڕ"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "دەچمە سەری"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بەسەری"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "دەیسووتێنم"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "بە یەکجار"
+    }
+  ],
+  "timestamp": "2026-09-24T12:21:28.073043724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 21:5",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "کوڕی سی و دوو ساڵ یەهۆرام لە ملککردنیدا، و هەشت ساڵ لە ئوروشالیم ملکی کرد.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "یەهۆرام"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "لە ملککردنیدا"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "و هەشت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملکی کرد"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە ئوروشالیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:40:22.826768888Z",
+  "model": "glm-5.3"
+}

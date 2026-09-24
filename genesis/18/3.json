@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و فەرمووی: ئەی ئادۆنای، ئەگەر بەخششم لە چاوەکانتدا دۆزیوە، تکایە لە خزمەتکاریت مەڕۆ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئەی ئادۆنای"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بەخششم"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "دۆزیوە"
+    },
+    {
+      "surface": "חן",
+      "gloss": "بەخشش"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "لە چاوەکانتدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خزمەتکاریت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:13.379781167Z",
+  "model": "glm-5.3"
+}

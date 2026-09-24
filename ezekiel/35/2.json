@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "کوڕی ئادەم، ڕووی خۆت لەسەر چیای سەئیر دابنێ و لەسەری پێغەمبەریی بکە",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "دابنێ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووی خۆت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سەئیر"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "و پێغەمبەریی بکە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T13:20:26.292246392Z",
+  "model": "glm-5.3"
+}

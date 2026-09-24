@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "چی دەکەن بۆ ڕۆژی چاوپێکەوتن و بۆ ڕۆژی جەژنی یاهوە؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "دەکەن"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بۆ ڕۆژی"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "و بۆ ڕۆژی"
+    },
+    {
+      "surface": "חג",
+      "gloss": "جەژن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:31:27.828555744Z",
+  "model": "glm-5.3"
+}

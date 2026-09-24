@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و لوتمەکەم بە تەنها خوارد، و هەتیو لێی نەخوارد،",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "و خوارد"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "لوتمەکەم"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "بە تەنها"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوارد"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "هەتیو"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "لێی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:43.802530124Z",
+  "model": "glm-5.3"
+}

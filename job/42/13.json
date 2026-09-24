@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و بۆی حەوت کوڕ و سێ کچ بوو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:45.166572229Z",
+  "model": "glm-5.3"
+}

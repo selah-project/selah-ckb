@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بالاق ئەوەی کرد کە بیلعام وتنی و لەسەر ⟨هەر⟩ قوربانگایەک گا و قوچێک هەڵکرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک ئەوەی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وتنی"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "و هەڵکرد"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "و قوچ"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "لەسەر قوربانگا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:24.601302948Z",
+  "model": "glm-5.3"
+}

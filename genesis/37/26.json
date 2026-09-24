@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و یەهودا وتی بە براکانی: چ سوودێک، ئەگەر ⟨את⟩ براکەمان بکوژین و ⟨את⟩ خوێنی بشارین؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "براکانی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "سوودێک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "بکوژین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "براکەمان"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "براکەمان"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "و بشارین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوێنی"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "خوێنی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:12.801332935Z",
+  "model": "glm-5.3"
+}

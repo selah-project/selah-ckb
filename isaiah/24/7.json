@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "شەرابی تازە شینی گرت، مێو زەواند، هەموو شادەکانی دڵ هەناسەیان دا.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "شینی گرت"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "شەرابی تازە"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "زەواند"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "مێو"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "هەناسەیان دا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "شادەکانی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:58.454378088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بۆ ڕەحەبیاهوو: بۆ کوڕانی ڕەحەبیاهوو، سەرەکەیان ییشییاه بوو.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "بۆ ڕەحەبیاهوو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "ڕەحەبیاهوو"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سەرەکەیان"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ییشییاه"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:38.728381593Z",
+  "model": "glm-5.3"
+}

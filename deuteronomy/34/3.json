@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و ⟨את⟩ نەگەڤ، و ⟨את⟩ دەشتایی دۆڵی یەریحۆ، شاری دار خورمەکان، تا تسۆئار.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "نەگەڤ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "نەگەڤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دەشتایی"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "دەشتایی"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "دۆڵی"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یەریحۆ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "دار خورمەکان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "צער",
+      "gloss": "تسۆئار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:19.815693278Z",
+  "model": "glm-5.3"
+}

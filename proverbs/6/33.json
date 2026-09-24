@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "زیانێک و شەرمەزاری دەدۆزێتەوە، و نەفرەتەکەی ناسڕدرێتەوە.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "زیانێک"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "و شەرمەزاری"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "دەدۆزێتەوە"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "و نەفرەتەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "سڕدرێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:39.894631315Z",
+  "model": "glm-5.3"
+}

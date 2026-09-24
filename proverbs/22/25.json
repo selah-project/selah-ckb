@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "نەبێت ڕێیەکانی ئەو فێر بکەیت و تەڵەیەک بۆ گیانەکەت وەربگریت.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "نەبێت"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "فێر بکەیت"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "ڕێیەکانی ئەو"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "و وەربگریت"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "تەڵەیەک"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "بۆ گیانەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:58.011293516Z",
+  "model": "glm-5.3"
+}

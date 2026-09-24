@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و بوو لە کاتی لەدایکبوونیدا، و ئەوا دووانەکان لە سکی دابوون.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "لە کاتی"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "لەدایکبوونیدا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوا"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "دووانەکان"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "لە سکی دابوون"
+    }
+  ],
+  "timestamp": "2026-09-24T09:28:52.957909735Z",
+  "model": "glm-5.3"
+}

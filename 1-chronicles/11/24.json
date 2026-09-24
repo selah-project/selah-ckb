@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ئەمانە بەنایای کوڕی یێهۆیاداع کردی، و ناوی لە نێو سێ جەنگاوەرەکەدا بوو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردی"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بەنایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یێهۆیاداع"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "و بۆی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "لە نێو سێ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "جەنگاوەرەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:32.880314426Z",
+  "model": "glm-5.3"
+}

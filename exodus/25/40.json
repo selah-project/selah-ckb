@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ببینە و بیکە بە پێشانگەیان ئەوەی تۆ دەیبینیت لەچیاکە",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "و ببینە"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بیکە"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "بە پێشانگەیان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "دەیبینیت"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لەچیاکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:01.298605566Z",
+  "model": "glm-5.3"
+}

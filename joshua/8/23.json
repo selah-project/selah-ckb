@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و شای عای ⟨את⟩ بە زیندوویی گرتن و نزیکیان کردە لای یەهۆشوا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شای"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شای"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عای"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "گرتن"
+    },
+    {
+      "surface": "חי",
+      "gloss": "بە زیندوویی"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "و نزیکیان کرد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهۆشوا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:55:02.450056516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "هەر بە کردەوەکانی خۆیەوە گەنج دەناسرێتەوە، ئایا پاکە و ئایا ڕاستە کردەکەی.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "بە کردەوەکانی خۆیەوە"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "دەناسرێتەوە"
+    },
+    {
+      "surface": "נער",
+      "gloss": "گەنج"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "זך",
+      "gloss": "پاکە"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و ئایا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاستە"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کردەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:33.144396258Z",
+  "model": "glm-5.3"
+}

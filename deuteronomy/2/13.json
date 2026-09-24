@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئێستا هەستن و بۆ خۆتان ⟨את⟩ چۆمی زێرێد ببڕنەوە، و ⟨את⟩ چۆمی زێرێد پەڕاندینەوە.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "هەستن"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "و ببڕنەوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ خۆتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چۆمی زێرێد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "چۆم"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زێرێد"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "و پەڕاندینەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چۆمی زێرێد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "چۆم"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زێرێد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:32.475679358Z",
+  "model": "glm-5.3"
+}

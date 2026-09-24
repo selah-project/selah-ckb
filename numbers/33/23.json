@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و بەرکەوتن لە کێهێلاتەوە، و لە شاخی شافەر ⟨خێوەیان دان⟩.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و بەرکەوتن"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "لە کێهێلاتەوە"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و خێوەیان دان"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە شاخی"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شافەر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:30.547093553Z",
+  "model": "glm-5.3"
+}

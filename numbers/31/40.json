@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و گیانی مرۆڤ شەزدە هەزار و باژی وان بۆ یاهوە دوو و سی گیان",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "و گیانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "و باژی وان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:00.841097888Z",
+  "model": "glm-5.3"
+}

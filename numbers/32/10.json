@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و تووڕەیی لە یاهوە هەڵگیرسا لەو ڕۆژەدا، و سوێندی خوارد بە وتنەوە،",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "و هەڵگیرسا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "و سوێندی خوارد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:12.167123287Z",
+  "model": "glm-5.3"
+}

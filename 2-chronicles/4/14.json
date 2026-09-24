@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ⟨את⟩ بنکەکانی کرد، و ⟨את⟩ حەوزەکانی کرد، لەسەر بنکەکان.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بنکەکان"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنکەکان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حەوزەکان"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "حەوزەکان"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنکەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:28.611435165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "پیاوانی قیریات یەعاریم، کەفیرە و بێرۆت، حەوت سەد و چل و سێ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قیریات"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یەعاریم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "کەفیرە"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "و بێرۆت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:21.580081782Z",
+  "model": "glm-5.3"
+}

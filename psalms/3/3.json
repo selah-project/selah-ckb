@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "زۆران بە گیانم دەڵێن: ڕزگاری بۆ ئەو لە ئێلۆهیمدا نییە. سێلا.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "زۆران"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "بە گیانم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "ڕزگاری"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "لە ئێلۆهیمدا"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سێلا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:16.311989019Z",
+  "model": "glm-5.3"
+}

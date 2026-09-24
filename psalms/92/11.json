@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 92,
+  "translation": "و شاخەکەم وەک ڕەئیم بەرزتکردووە، بە ڕۆنی تازە تێرکراوم",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "و بەرزتکردووە"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "وەک ڕەئیم"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "شاخەکەم"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "تێرکراوم"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "بە ڕۆن"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "تازە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:08.873608994Z",
+  "model": "glm-5.3"
+}

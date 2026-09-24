@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ڕووی هیچ لەپارێک قبوڵ ناکات، و ڕازی نابێت، ئەگەرچی تاوانباخش زۆر بکەیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "قبوڵ ناکات"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "لەپارێک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "ڕازی دەبێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەرچی"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "زۆر بکەیت"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "تاوانباخش"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:39.895057173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بەڵام لە ڕۆژێکدا کە گۆشتی زیندوو تێیدا دەبینرێت، بە پیس دادەنرێت.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژێکدا"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "دەبینرێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندوو"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "بە پیس دادەنرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:16.262906490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "نا دانیشتم لەگەڵ پیاوانی بەتاڵ، و لەگەڵ شاردەوانەکان نا دەچمە ناوەوە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "دانیشتم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بەتاڵ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "شاردەوانەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "دەچمە ناوەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:41.036501028Z",
+  "model": "glm-5.3"
+}

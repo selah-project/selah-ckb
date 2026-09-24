@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئەلیشەع پێی وت: کەوانە و تیر بگرە. و ئەو بۆی کەوانە و تیر گرت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ئەلیشەع"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بگرە"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کەوانە"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "و تیر"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و گرت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کەوانە"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "و تیر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:06:01.336245396Z",
+  "model": "glm-5.3"
+}

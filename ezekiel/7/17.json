@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "هەموو دەستەکان دەلاواز دەبن و هەموو ئەژنۆکان ⟨وەکو⟩ ئاو دەڕۆن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "دەستەکان"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "دەلاواز دەبن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ئەژنۆکان"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "دەڕۆن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:05:57.629005701Z",
+  "model": "glm-5.3"
+}

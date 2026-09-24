@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "خراپەکار چاو لە ڕاست دەکێشێت و بۆ کوشتنی دەگەڕێت.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "چاو دەکێشێت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپەکار"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "لە ڕاست"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "و دەگەڕێت"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "بۆ کوشتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:41.666002904Z",
+  "model": "glm-5.3"
+}

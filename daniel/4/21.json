@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ئەمە پێشاندانی پادشایە، و بڕیاری بەرزترین ئەوەیە کە گەیشتووەتە سەر ئاغا پادشا.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "پێشاندانی"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "و بڕیاری"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "بەرزترین"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "گەیشتووەتە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "ئاغا"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پادشا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:05:38.145231570Z",
+  "model": "glm-5.3"
+}

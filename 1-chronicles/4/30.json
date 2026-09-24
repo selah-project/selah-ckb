@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و لە بێتوئێل و لە حورما و لە سیقلاغ",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "و لە بێتوئێل"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "و لە حورما"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "و لە سیقلاغ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:47.759962767Z",
+  "model": "glm-5.3"
+}

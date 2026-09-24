@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و لە گیانی مرۆڤ شازدە هەزار،",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "و لە گیان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "شازدە"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:39.399076424Z",
+  "model": "glm-5.3"
+}

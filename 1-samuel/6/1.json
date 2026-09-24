@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و سندوقی یاهوە حەوت مانگ لە کێڵگەی فلیشتییەکان ⟨مایەوە⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "سندوقی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "لە کێڵگەی"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلیشتییەکان"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:18:34.156950550Z",
+  "model": "glm-5.3"
+}

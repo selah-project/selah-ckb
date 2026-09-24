@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "لە ماڵەکەتدا بۆ تۆ ئەیفە و ئەیفە نەبێت، گەورە و بچووک.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نەبێت"
+    },
+    {
+      "surface": "یהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "لە ماڵەکەتدا"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ئەیفە"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "و ئەیفە"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "و بچووک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:50.542416750Z",
+  "model": "glm-5.3"
+}

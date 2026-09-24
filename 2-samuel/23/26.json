@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "حەلەس ⟨پەلتی⟩، عیرا کوڕی عیکێش ⟨تەقۆیی⟩،",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "حەلەس"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "⟨پەلتی⟩"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عیکێش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "⟨تەقۆیی⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:51.997102587Z",
+  "model": "glm-5.3"
+}

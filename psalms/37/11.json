@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و نەرمەکان میراتی زەوی دەگرن و لە فراوانی ئاشتیدا دڵخۆش دەبن.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "و نەرمەکان"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "میرات دەگرن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "و دڵخۆش دەبن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "רב",
+      "gloss": "فراوانی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:09.576832740Z",
+  "model": "glm-5.3"
+}

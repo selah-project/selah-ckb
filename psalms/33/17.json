@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "هەڵەیە ئەسپەکە بۆ ڕزگاری، و بە فرەیی هێزەکەی خۆی ڕانادەرێت.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "هەڵەیە"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ئەسپەکە"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "بۆ ڕزگاری"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "و بە فرەیی"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "هێزەکەی خۆی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ڕادەرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:40.948207960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "هەموو زیرەکێک بە زانیاری دەکات، و نەفام گەمژەیی دەخاتە ڕوو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "زیرەکێک"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "بە زانیاری"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "و نەفام"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "دەخاتە ڕوو"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "گەمژەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:09.621311426Z",
+  "model": "glm-5.3"
+}

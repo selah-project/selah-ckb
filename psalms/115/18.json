@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 115,
+  "translation": "بەڵام ئێمە یاه دەپەرستین، لە ئێستاوە تا هەتاهەتایە. ستێنن بۆ یاه.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "بەڵام ئێمە"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "دەپەرستین"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "لە ئێستاوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەتاهەتایە"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستێنن"
+    },
+    {
+      "surface": "יה",
+      "gloss": "بۆ یاه"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:41.760514622Z",
+  "model": "glm-5.3"
+}

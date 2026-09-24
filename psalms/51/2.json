@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "کاتێک ناتان پێغەمبەرەکە هاتبوو لای ئەو، وەک چۆن چووبووە لای بات شێڤا",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "کاتێک هاتبوو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لای ئەو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەرەکە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "בא",
+      "gloss": "چووبووە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بات"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شێڤا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:05.076446732Z",
+  "model": "glm-5.3"
+}

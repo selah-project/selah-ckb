@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 102,
+  "translation": "و تۆ ئەو یە، و ساڵەکانت هەرگیز کۆتایی نایەن.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "و ساڵەکانت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "کۆتایی نایەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:28.959739456Z",
+  "model": "glm-5.3"
+}

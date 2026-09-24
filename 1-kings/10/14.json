@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و کێشی زێڕەکە کە هات بۆ شێلۆمۆ لە یەک ساڵدا بوو شەش سەد شەست و شەش تالانت زێڕ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "کێشی"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زێڕەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "بۆ شێلۆمۆ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "لە ساڵدا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شەست"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "تالانت"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "زێڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:49:27.447360294Z",
+  "model": "glm-5.3"
+}

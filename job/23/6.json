@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بە زۆریی هێز دەمەتلێقێت لەگەڵ من؟ نەخێر، تەنها ئەو ⟨تێگەیشتن⟩ دەنێت لە من.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "بە زۆریی"
+    },
+    {
+      "surface": "כח",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "دەمەتلێقێت"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لەگەڵ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "دەنێت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:01.848954419Z",
+  "model": "glm-5.3"
+}

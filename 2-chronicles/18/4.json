@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و یەهۆشافات فەرمووی کرد بۆ پاشای ئیسرائیل: تکایە ئەمڕۆ بگەڕێ بۆ ⟨את⟩ وشەی یاهوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو کرد"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یەهۆشافات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "بگەڕێ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەی یاهوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:39:15.176895229Z",
+  "model": "glm-5.3"
+}

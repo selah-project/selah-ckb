@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "بەسە بۆتان بە دەوری ⟨את⟩ ئەم چیایە سوورانەوە؛ ڕوو بۆ خۆتان بخۆنەوە بەرەو باکوور.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "بەسە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆتان"
+    },
+    {
+      "surface": "סב",
+      "gloss": "سوورانەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم چیایە"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ڕوو بخۆنەوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ خۆتان"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "بەرەو باکوور"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:56.686338919Z",
+  "model": "glm-5.3"
+}

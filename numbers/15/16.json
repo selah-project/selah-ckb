@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "تۆرایەک و حوکمێکی یەکگرتوو دەبێت بۆ ئێوە و بۆ ئەو بێگانەیەی لەگەڵ ئێوە ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "تۆرا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و حوکم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "و بۆ بێگانە"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ئەو بێگانەیە"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": "ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:22:38.956177878Z",
+  "model": "glm-5.3"
+}

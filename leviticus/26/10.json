@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و کۆنەکە دەخۆن، زۆر کۆن، و کۆنەکە لە بەردەم نوێیەکەوە دەردهێنن.",
+  "tokens": [
+    {
+      "surface": "ואכלتם",
+      "gloss": "و دەخۆن"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "کۆن"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "زۆر کۆن"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "و کۆن"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لە بەردەم"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوێ"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "دەردهێنن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:51.877455064Z",
+  "model": "glm-5.3"
+}

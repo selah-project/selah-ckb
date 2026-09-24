@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و فەرموو: ناتوانیت ⟨את⟩ ڕوومارم ببینی، چونکە مرۆڤ من نابینێت و دەژیت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "توانیت"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ببینی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕوومارم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕوومارم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "من نابینێت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "و دەژیت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:54:21.217688605Z",
+  "model": "glm-5.3"
+}

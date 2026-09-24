@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و ئێوە بەهێز بن و دەستان مەلاوێن، چونکە پاداشتی ⟨هەیە⟩ بۆ کردارەکانتان.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "بەهێز بن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "لاواز بکەن"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "دەستان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "پاداشت"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "بۆ کردارەکانتان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:38:34.036197645Z",
+  "model": "glm-5.3"
+}

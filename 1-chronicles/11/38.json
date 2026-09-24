@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "یوئێلی برای ناتان، میبخاری کوڕی هاگری،",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یوئێلی"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "میبخاری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "هاگری"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:06.549935737Z",
+  "model": "glm-5.3"
+}

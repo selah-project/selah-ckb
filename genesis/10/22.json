@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "کوڕانی شەم عەیلام و ئەشوور و ئەرپەخشەد و لوود و ئەرام.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شەم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عەیلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "و ئەشوور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "و ئەرپەخشەد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "و لوود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "و ئەرام"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:05.144454599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چاکە چاوەڕوانی کردن و بێدەنگ ڕاوەستان بۆ ڕزگاریی یاهوە.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "و چاوەڕوانی"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "و بێدەنگی"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "بۆ ڕزگاریی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:53:14.200912502Z",
+  "model": "glm-5.3"
+}

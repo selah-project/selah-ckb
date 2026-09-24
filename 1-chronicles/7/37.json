@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بەتسەر و هۆد و شەمما و شیلشە و یتران و بێرا.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "بەتسەر"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "و هۆد"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "و شەمما"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و شیلشە"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "و یتران"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "و بێرا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:32.810031223Z",
+  "model": "glm-5.3"
+}

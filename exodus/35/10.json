@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و هەموو داناو دڵ لە نێو ئێوەدا بێت، بێت و ⟨את⟩ هەموو ئەوەی کە یاهوە فەرموویتی بیکات.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "داناو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "لە نێو ئێوەدا"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "و بیکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرموویتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:52:35.080387418Z",
+  "model": "glm-5.3"
+}

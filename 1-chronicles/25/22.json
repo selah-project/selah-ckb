@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "پازدەیەم بۆ یەریمۆت، کوڕەکانی و برایانی، دوازدە.",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "پازدەیەم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "پازدەیەم"
+    },
+    {
+      "surface": "لירמות",
+      "gloss": "یەریمۆت"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برایانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دوازدە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:40.891444252Z",
+  "model": "glm-5.3"
+}

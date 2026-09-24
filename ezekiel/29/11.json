@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "پێی مرۆڤ تێیدا تێناپەڕێت و پێی ماڵات تێیدا تێناپەڕێت، و چل ساڵ دانیشتوو تێیدا نابێت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "تێناپەڕێت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "و پێی"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "تێناپەڕێت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "دانیشتوو نابێت"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:22.924016363Z",
+  "model": "glm-5.3"
+}

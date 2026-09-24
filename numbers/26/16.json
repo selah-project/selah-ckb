@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "بۆ ئۆزنی بنەماڵەی ئۆزنی، بۆ عێری بنەماڵەی عێری",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "بۆ ئۆزنی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "بنەماڵەی"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "ئۆزنی"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "بۆ عێری"
+    },
+    {
+      "surface": "مשפחת",
+      "gloss": "بنەماڵەی"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "عێری"
+    }
+  ],
+  "timestamp": "2026-09-24T10:27:42.163766563Z",
+  "model": "glm-5.3"
+}

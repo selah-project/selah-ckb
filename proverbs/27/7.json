@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "گیانی تێر هەنگوینی پێدانراو لەپێ دەنێت، و گیانی برسیا هەموو تاڵی شیرینە.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "تێر"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "لەپێ دەنێت"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "هەنگوینی پێدانراو"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "و گیانی"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "برسیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تاڵی"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "شیرینە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:42.808576357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و لای ئەو پیاوانی یەریحۆ دروستیانکرد، و لای ئەو زاکوور کوڕی ئیمری دروستیکرد.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لای"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی ئەو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "دروستیانکرد"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یەریخۆ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لای"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی ئەو"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "دروستیکرد"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زاکوور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ئیمری"
+    }
+  ],
+  "timestamp": "2026-09-24T15:16:37.199787044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "وا فەرموو یاهوەی سەڤائۆت: بپرسە ئەی لە ⟨את⟩ کاهینەکان تۆرا بە وتن.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "بپرسە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئەی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاهینەکان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهینەکان"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تۆرا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:42:24.982968796Z",
+  "model": "glm-5.3"
+}

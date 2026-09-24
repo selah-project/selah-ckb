@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چاوێکم ڕژاوە و ناوەستێت، لەبەر نەبوونی هیچ وچانێک",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "چاوێکم"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ڕژاوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "دەوەستێت"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "لەبەر نەبوونی"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "وچان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:33.985116513Z",
+  "model": "glm-5.3"
+}

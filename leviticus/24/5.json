@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و ئاردی ساف وەردەگریت و ⟨את⟩ دوازدە نانی لێ دەپژێنیت، دوو دەیەک دەبێت بۆ یەک نان",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "و وەردەگریت"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ئاردی ساف"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "و دەپژێنیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "دوازدە نان"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "نان"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "دەیەک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "نان"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:10:49.791809880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و لێڤی کە لە دەرگاکانتدای، جێی مەهێڵە، چونکە بەش و میراتێکی لەگەڵ تۆ نییە.",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "و لێڤی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "لە دەرگاکانتدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "جێی مەهێڵە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "و میرات"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:16.281709277Z",
+  "model": "glm-5.3"
+}

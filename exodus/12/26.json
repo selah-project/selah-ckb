@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و دەبێت، کە کۆرەکانتان بە ئێوە دەڵێن: ئەم خزمەتە بۆ ئێوە چییە؟",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "بە ئێوە"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "کۆرەکانتان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خزمەت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:42:57.318042184Z",
+  "model": "glm-5.3"
+}

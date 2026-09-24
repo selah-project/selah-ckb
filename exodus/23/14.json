@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "سێ جار لە ساڵدا جەژن بۆ من بپیرێت.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "جار (پێ)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "جەژن بپیرێت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "لە ساڵدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:22.721159518Z",
+  "model": "glm-5.3"
+}

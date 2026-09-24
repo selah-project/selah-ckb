@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "یەدیائێل کوڕی شیمری و یۆحا برای ئەو، تیزییە.",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "یەدیائێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شیمری"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "و یۆحا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای ئەو"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "تیزییە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:23.939306222Z",
+  "model": "glm-5.3"
+}

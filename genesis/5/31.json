@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و هەموو ڕۆژانی لەمەخ بوون حەوت و حەفتا ساڵ و حەوت سەد ساڵ، و مرد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لەمەخ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و حەفتا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:26.008897665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "لە ڕێگای شایەتییەکانت شوادم کرد، وەک <span dir=\"rtl\">سەر<\/span> هەموو سامان.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگای"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "شایەتییەکانت"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "شوادم کرد"
+    },
+    {
+      "surface": "كعل",
+      "gloss": "وەک سەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הון",
+      "gloss": "سامان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:27.239197560Z",
+  "model": "glm-5.3"
+}

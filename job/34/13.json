@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "کێ فەرمانی لەسەر زەوی داوەتێ؟ و کێ تەبێڵی هەمووی داناوە؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "فەرمانی داوەتێ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "داناوە"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تەبێڵ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "هەمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:35.888621756Z",
+  "model": "glm-5.3"
+}

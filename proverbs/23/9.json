@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "لە گوێکانی گێمە قسە مەکە، چونکە سووکایەتی بە ژیریی وشەکانت دەکات.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "لە گوێکانی"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "گێمە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "قسە مەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "سووکایەتی دەکات"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "بە ژیریی"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "وشەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:54.235892478Z",
+  "model": "glm-5.3"
+}

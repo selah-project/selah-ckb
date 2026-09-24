@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "ڕۆژ بۆ ڕۆژ قسە دەڕێژێت و شەو بۆ شەو زانیاری ئاشکرا دەکات.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بۆ ڕۆژ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "دەڕێژێت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قسە"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "و شەو"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "بۆ شەو"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ئاشکرا دەکات"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:50.015805166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "وشەکانی دەمی ژیر مەهربانین، و لێوەکانی گێل ئەی قووت دەدەن.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ژیر"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مەهربانین"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "و لێوەکانی"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "گێل"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ئەی قووت دەدەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:40.588436693Z",
+  "model": "glm-5.3"
+}

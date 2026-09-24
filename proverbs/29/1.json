@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "پیاوێکی ڕەخنەی زۆر مل سەخت دەکات، لەناکاو دەشکێت و چارەسەرێک نییە.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ڕەخنەی زۆر"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "سەخت دەکات"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "مل"
+    },
+    {
+      "surface": "فתע",
+      "gloss": "لەناکاو"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "دەشکێت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "چارەسەر"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:52.633878602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 22:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "چونکە خۆشە ئەگەر ئەوان لە ناو سکت پارێزی، پێکەوە جێگیر دەبن لەسەر لێوەکانت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "خۆشە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "ئەوان پارێزی"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "لە ناو سکت"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "جێگیر دەبن"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "لێوەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:21.395095008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و تۆ کوڕی ئەو بێلشەتسار ⟨بەلشەززار⟩ دڵت نزم نەکرد، سەرڕێی ئەوەی کە هەموو ئەمەت زانی.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "بێلشەتسار ⟨بەلشەززار⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەکرد"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "نزم کرد"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دڵت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "سەرڕێی"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "زانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:03:59.407390473Z",
+  "model": "glm-5.3"
+}

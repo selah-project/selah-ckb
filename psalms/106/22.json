@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 106,
+  "translation": "شتی سەیر لە زەوی حام، شتی ترسناک لەسەر دەریای سووف.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "شتی سەیر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "شتی ترسناک"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سووف"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:16.134400250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئەگەر زیان بێتەوە، گیان لە بەر گیان دەدەی.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "زیان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "و دەدەی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە بەر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:53.785376156Z",
+  "model": "glm-5.3"
+}

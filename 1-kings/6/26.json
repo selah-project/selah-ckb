@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "بەرزیی کێرووبی یەکەم دە ئەمەرە بوو، و هەمان جۆر کێرووبی دووەم.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "بەرزیی"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کێرووبی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ئەمەرە"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "و هەمان جۆر"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کێرووبی"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:47:45.506735798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "وشەکانی خراپەکان کوێباشی خوێنن، و دەمی ڕاستان ڕزگاریان دەکات.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکان"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "کوێباشی"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "و دەمی"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ڕاستان"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "ڕزگاریان دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:47.343376837Z",
+  "model": "glm-5.3"
+}

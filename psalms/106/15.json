@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 106,
+  "translation": "و داوی دا بە داواکارییان، و لاوازی نارد بۆ ناخیان.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بەوان"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "داواکارییان"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "و نارد"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "لاوازی"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "بۆ ناخیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:28.168899765Z",
+  "model": "glm-5.3"
+}

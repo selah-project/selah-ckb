@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و چاوانی لێئاه لاواز بوون، و راحێل جوانی ڕوخسار و جوانی دیمەن بوو.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "و چاوانی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێئاه"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "لاواز"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "و راحێل"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ڕوخسار"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "و جوانی"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "دیمەن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:20.252066763Z",
+  "model": "glm-5.3"
+}

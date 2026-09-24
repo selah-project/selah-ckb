@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و وتنیان بە ئەو هەموو پیرانەکان و هەموو گەلەکە مەبیستە و ڕازی مەبە",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و وتنیان"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بە ئەو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "پیرانەکان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ببیستە"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ڕازی ببە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:56:59.107576392Z",
+  "model": "glm-5.3"
+}

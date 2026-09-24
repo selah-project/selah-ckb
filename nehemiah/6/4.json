@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و وەک ئەم وتەیە چوار جار بۆ منیان نارد و وەک ئەم وتەیە ⟨את⟩ ئەوانم وەڵام دانەوە",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ناردیان"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "وەک وتەی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "جار"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "و وەڵامم دانەوە"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ئەوان"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "وەک وتەی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:30.539066631Z",
+  "model": "glm-5.3"
+}

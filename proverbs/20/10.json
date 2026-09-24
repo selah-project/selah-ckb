@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "بەردێک و بەردێک، ئیفەیەک و ئیفەیەک، زگیڕی یاهوە هەردووکیانیش.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "بەردێک"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و بەردێک"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ئیفەیەک"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "و ئیفەیەک"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "زگیڕی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "یش"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "هەردووکیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:33.144192095Z",
+  "model": "glm-5.3"
+}

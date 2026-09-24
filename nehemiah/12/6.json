@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "شەمەیا و یۆیاریڤ، یەدەیا.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "شەمەیا"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "و یۆیاریڤ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یەدەیا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:14.443340744Z",
+  "model": "glm-5.3"
+}

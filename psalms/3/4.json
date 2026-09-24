@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و تۆ ئەی یاهوە، قەڵغانێکی دەوری، شکۆم، و بەرزکەرەوەی سەرم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "قەڵغانێکی"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "دەوری"
+    },
+    {
+      "surface": "كבודי",
+      "gloss": "شکۆم"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "و بەرزکەرەوەی"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سەرم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:16.312127456Z",
+  "model": "glm-5.3"
+}

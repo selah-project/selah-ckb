@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 3:18",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "دوای ئەو برایانیان پتەویان کرد — باڤای کوڕی حێناداد، سەرۆکی نیوەی ناوچەی کەئیلا.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "دوای ئەو"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "پتەویان کرد"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "برایانیان"
+    },
+    {
+      "surface": "בוי",
+      "gloss": "باڤای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "حێناداد"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سەرۆکی"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیوەی"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ناوچەی"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "کەئیلا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:16:17.608723952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "برس و تینوو، گیانیان لە ئەواندا شێواوی بوو.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "برس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "و"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "تینوو"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "گیانیان"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لە ئەواندا"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "شێواوی بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:06.085176Z",
+  "model": "glm-5.3"
+}

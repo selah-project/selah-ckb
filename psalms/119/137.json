@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "ڕاستت یاهوە، و ڕاستن حوکمەکانت.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "و ڕاست"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "حوکمەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:33.901349013Z",
+  "model": "glm-5.3"
+}

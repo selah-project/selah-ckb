@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بوو لە کۆتایی ڕۆژاندا، و قایین هێنا لە میوەی زەویەکە پێشکەشێک بۆ یاهوە.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هێنا"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایین"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "لە میوەی"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "پێشکەشێک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:52.376808789Z",
+  "model": "glm-5.3"
+}

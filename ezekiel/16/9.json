@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و تۆم لە ئاودا شۆرد، خوێنەکەتم لە سەرت شۆردەوە، و ب ڕۆنی چوورت کرد.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "و تۆم شۆرد"
+    },
+    {
+      "surface": "במים",
+      "gloss": "لە ئاودا"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "شۆردەوە"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "خوێنەکەت"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "لە سەرت"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "و چوورت کرد"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ب ڕۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:09:29.887155786Z",
+  "model": "glm-5.3"
+}

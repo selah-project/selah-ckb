@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "عیساو وت: ئەوا من بەرەو مردن دەڕۆم، و مافی یەکەم لەدایکبوونم چییە بۆ من؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "دەڕۆم"
+    },
+    {
+      "surface": "لמות",
+      "gloss": "بەرەو مردن"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "و بۆچی"
+    },
+    {
+      "surface": "زה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "مافی یەکەم لەدایکبوون"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:49.693037909Z",
+  "model": "glm-5.3"
+}

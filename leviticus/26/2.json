@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "⟨את⟩ شاباتەکانم بپارێزن و لە پەرستشگای من بترسەوەن — من یاهوەم.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شاباتەکانم"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "شاباتەکانم"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "بپارێزن"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "و پەرستشگای من"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "بترسەوەن"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:58.270585630Z",
+  "model": "glm-5.3"
+}

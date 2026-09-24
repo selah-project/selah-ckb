@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "⟨את⟩ سندوقی شایەتی و ⟨את⟩ تیرەکانی و ⟨את⟩ کاپۆرەت.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندوقی شایەتی"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "سندوقی"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "شایەتی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تیرەکانی"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "تیرەکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کاپۆرەت"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کاپۆرەت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:57:32.928599100Z",
+  "model": "glm-5.3"
+}

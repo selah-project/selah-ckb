@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "لە تۆ دڵی من وت: ڕووی من بگەڕێنەوە؛ ⟨את⟩ ڕووی تۆ، ئەی یاهوە، دەگەڕێمەوە.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵی من"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "بگەڕێنەوە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووی تۆ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووی تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "دەگەڕێمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:41.537894394Z",
+  "model": "glm-5.3"
+}

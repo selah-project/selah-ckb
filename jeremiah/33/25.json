@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "ئاوای فەرموو یاهوە: ئەگەر پەیمانی من بە ڕۆژ و بە شەو نەبێت، ئەوا حوکمەکانی ئاسمان و زەوی دانەم نا بێت.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ئاوای"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "پەیمانی من"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "بە ڕۆژ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "و بە شەو"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "حوکمەکانی"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "و زەوی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "دانانم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:01:35.030220917Z",
+  "model": "glm-5.3"
+}

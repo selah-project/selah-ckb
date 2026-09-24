@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "هەموومان کوڕانی یەک پیاوین ئێمە ڕاستین نەخێر خزمەتکارەکانت سیخوڕ نەبوون",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "هەموومان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "ئێمە"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ئێمە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "خزمەتکارەکانت"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "سیخوڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:09.158035154Z",
+  "model": "glm-5.3"
+}

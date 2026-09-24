@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و پادشاش بە ژنەکەی فەرموو: بڕۆ بۆ ماڵەکەت و ئەمن فەرمان دەدەم لەسەرت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشاش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ژنەکە"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "بۆ ماڵەکەت"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و ئەمن"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "فەرمان دەدەم"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەرت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:36:47.475491733Z",
+  "model": "glm-5.3"
+}

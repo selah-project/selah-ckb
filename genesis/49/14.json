@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "ئیساخار کەرێکی ئێسکدارە، لە نێوان باندەکاندا ڕادەکشێت.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "ئیساخار"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "کەرێکی"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ئێسکدار"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "ڕادەکشێت"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "باندەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:14.903707224Z",
+  "model": "glm-5.3"
+}

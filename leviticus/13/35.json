@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئەگەر نەتەقەکە لە پێستدا بڵاو ببێتەوە لەدوای پاکبوونەکەی،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "پשה",
+      "gloss": "بڵاو ببێتەوە"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "بڵاو ببێتەوە"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نەتەقەکە"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "لە پێست"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لەدوای"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "پاکبوونەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:45.811514886Z",
+  "model": "glm-5.3"
+}

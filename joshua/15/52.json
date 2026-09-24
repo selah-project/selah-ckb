@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "joshua 15:52",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "عەرەب و ڕوما و ئەشعان.",
+  "tokens": [
+    {
+      "surface": "ארב",
+      "gloss": "عەرەب"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "و ڕوما"
+    },
+    {
+      "surface": "ואשען",
+      "gloss": "و ئەشعان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:48.688769071Z",
+  "model": "glm-5.3"
+}

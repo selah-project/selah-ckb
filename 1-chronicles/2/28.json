@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕانی ئۆنام ئەوانە بوون: شەممای و یادەع؛ و کوڕانی شەممای نەداڤ و ئەڤیشوور بوون.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ئۆنام"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شەممای"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "و یادەع"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شەممای"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "نەداڤ"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "و ئەڤیشوور"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:07.796847120Z",
+  "model": "glm-5.3"
+}

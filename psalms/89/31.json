@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "ئەگەر کوڕەکانی ئەو تۆرام جێبهێڵن و لە حوکمەکانمی نەڕۆن",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "جێبهێڵن"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی ئەو"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "تۆرام"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "و لە حوکمەکانمی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ڕۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:07.944958613Z",
+  "model": "glm-5.3"
+}

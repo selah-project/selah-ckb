@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "هەروەها کە هاوار دەکەم و فریاد دەخوازم، نوێژەکەم دەیداتەوە.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "هاوار دەکەم"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "و فریاد دەخوازم"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "دەیداتەوە"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "نوێژەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:39.038466217Z",
+  "model": "glm-5.3"
+}

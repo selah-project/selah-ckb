@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 92,
+  "translation": "مەزموور، گۆرانی، بۆ ڕۆژی شابات.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گۆرانی"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بۆ ڕۆژی"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شابات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:32.619838482Z",
+  "model": "glm-5.3"
+}

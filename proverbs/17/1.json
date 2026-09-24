@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "باشترە لقمەیەکی وشک و ئارامی لەگەڵی، لە ماڵێک کە پڕە لە قوربانیی کێشە.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "פת",
+      "gloss": "لقمەیەک"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "وشک"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "و ئارامی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "لە ماڵێک"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕە"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قوربانیی"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "کێشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:30.813240364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "تەنها پیرۆزەکانت کە بۆ تۆ دەبن و نەزیرەکانت هەڵدەگریت و دێیتە ئەو شوێنەی یاهوە هەڵیدەبژێرێت.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "پیرۆزەکانت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "و نەزیرەکانت"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "هەڵدەگریت"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "و دێیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "شوێنەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "هەڵدەبژێرێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:11.918432105Z",
+  "model": "glm-5.3"
+}

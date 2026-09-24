@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 55,
+  "translation": "گیانمی لە ئاشتیدا لە نزیکی من ڕزگار کرد، چونکە لە زۆران بوون لەگەڵ من.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ڕزگار کرد"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "لە ئاشتیدا"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانمی"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "لە نزیکی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "لە زۆران"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لەگەڵ من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:45.782687961Z",
+  "model": "glm-5.3"
+}

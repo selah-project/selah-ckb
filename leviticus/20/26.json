@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و پیرۆز دەبن بۆ من، چونکە من یاهوە پیرۆزم، و ⟨את⟩ ئێوەم لە گەلان جیاکردەوە بۆ ئەوەی هی من بن.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "و جیاکردمەوە"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": "ئێوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بۆ ئەوەی بن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "هی من"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:10.666421934Z",
+  "model": "glm-5.3"
+}

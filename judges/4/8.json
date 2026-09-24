@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "وە بەڕەک پێی وت: ئەگەر تۆ لەگەڵ من بڕۆی، من دەچم؛ وە ئەگەر تۆ لەگەڵ من نەچی، من ناچم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وە وت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بەڕەک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "تۆ بڕۆی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "لەگەڵ من"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "من دەچم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "وە ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "تۆ بچی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "لەگەڵ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "من ناچم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:06:17.473304602Z",
+  "model": "glm-5.3"
+}

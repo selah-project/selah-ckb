@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "گوێ لەمە بگرن هەموو گەلەکان، سەرنج بدەن هەموو دانیشتووانی جیهان.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوێ بگرن"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "لەمە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "سەرنج بدەن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "جیهان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:15.455384523Z",
+  "model": "glm-5.3"
+}

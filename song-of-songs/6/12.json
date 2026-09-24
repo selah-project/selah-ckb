@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "نەمدەزانی، گیانم دانام ⟨لە⟩ عەرەبانەکانی گەلەکەمِ نادیب.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "نەمدەزانی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "دانام"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "عەرەبانەکانی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەلەکەم"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "نادیب"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:02.942400711Z",
+  "model": "glm-5.3"
+}

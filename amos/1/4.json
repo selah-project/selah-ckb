@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئاگر دەنێرم بۆ ماڵی حەزائێل و قەسرەکانی بەن هەدەد دەخواتەوە.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "و دەنێرم"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بۆ ماڵی"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "حەزائێل"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "و دەخواتەوە"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "قەسرەکانی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بەن"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هەدەد"
+    }
+  ],
+  "timestamp": "2026-09-24T13:33:49.082338083Z",
+  "model": "glm-5.3"
+}

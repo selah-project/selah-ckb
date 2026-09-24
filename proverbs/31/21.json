@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "بۆ ماڵەکەی لە بەفر ناترسێت، چونکە هەموو ماڵەکەی بە قرمزی شان دەپۆشرێت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "دەترسێت"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "بۆ ماڵەکەی"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "بەفر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ماڵەکەی"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "دەپۆشرێت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "قرمزی شان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:18.330415834Z",
+  "model": "glm-5.3"
+}

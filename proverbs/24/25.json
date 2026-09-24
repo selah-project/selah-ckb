@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و بۆ سەرزەنشتکەران خۆشە، و بەرەکەتی چاک دێتە سەریان.",
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "و بۆ سەرزەنشتکەران"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "خۆشە"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "و لەسەریان"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "بەرەکەتی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:34.200520317Z",
+  "model": "glm-5.3"
+}

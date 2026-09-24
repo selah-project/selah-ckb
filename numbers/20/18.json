@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 20:18",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و ئەدۆم ⟨بۆ⟩ ئەوی وت: بە مندا ناپەڕیت، نەوای بە شمشێرەوە دەرچم بە دیایتدا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ ئەوی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ناپەڕیت"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بە مندا"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نەوای"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "بە شمشێرەوە"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "دەرچم"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "بە دیایتدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:25:34.754475513Z",
+  "model": "glm-5.3"
+}

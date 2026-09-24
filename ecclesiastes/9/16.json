@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "«و من وتم: دانایی لە هێز چاکترە، بەڵام داناییی هەژارەکە بێقەدرە، و وشەکانی نانبیسترێنەوە.»",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "و وتم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاکتر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "لە هێز"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "و داناییی"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "هەژارەکە"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "بێقەدرە"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "و وشەکانی"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "نین"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "بیستران"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:28.823684988Z",
+  "model": "glm-5.3"
+}

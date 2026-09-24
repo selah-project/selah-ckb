@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و هەموو بزۆکی باڵندەی ڕۆمشوێن کە چوار قاچی هەیە، لەوەڕە لەلای ئێوە.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "بزۆک"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "باڵندەی ڕۆمشوێن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "قاچ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "لەوەڕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "لەلای ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:25.368884728Z",
+  "model": "glm-5.3"
+}

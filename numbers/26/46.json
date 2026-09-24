@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و ناوی کچی ئاشێر سەرەح ⟨بوو⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشێر"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "سەرەح"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:04.270896679Z",
+  "model": "glm-5.3"
+}

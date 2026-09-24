@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و یاهوە قسەی بە مۆشە ⟨موسا⟩ کرد و فەرمووی",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:26.670440585Z",
+  "model": "glm-5.3"
+}

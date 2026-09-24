@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و ڕیزەکەی دووەم: نۆفەخ و سەپیر و یەهەلۆم.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "و ڕیزەکە"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "نۆفەخ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "سەپیر"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "و یەهەلۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:48.405017978Z",
+  "model": "glm-5.3"
+}

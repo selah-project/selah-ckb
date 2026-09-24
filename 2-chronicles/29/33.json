@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و پیرۆزکراوەکان: گا شەش سەد و مەڕ سێ هەزار.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "و پیرۆزکراوەکان"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "و مەڕ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:44:12.678216476Z",
+  "model": "glm-5.3"
+}

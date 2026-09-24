@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "رشوەت لە ئەوسەری ستەمکار دەگیرێت، بۆ لارکردنەوەی ڕێگاکانی داد.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "رشوەت"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "لە ئەوسەری"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ستەمکار"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "دەگیرێت"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "بۆ لارکردنەوەی"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ڕێگاکانی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:11.650879295Z",
+  "model": "glm-5.3"
+}

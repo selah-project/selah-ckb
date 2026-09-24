@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "چاکە لەگەڵ خزمەتکارت بکە، بژیم و وشەی تۆ بپارێزم.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "چاکە بکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خزمەتکارت"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "بژیم"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "و بپارێزم"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "وشەی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:38.555996527Z",
+  "model": "glm-5.3"
+}

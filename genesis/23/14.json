@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و عەفڕۆن وەڵامی ⟨את⟩ ئاڤراهامی دایەوە بۆ وتن بۆ ئەو:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و وەڵامی دایەوە"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "عەفڕۆن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاڤراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:50.916527391Z",
+  "model": "glm-5.3"
+}

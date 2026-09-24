@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و عۆمەرەکە دەیەمی ئەیفەکەیە ئەوە.",
+  "tokens": [
+    {
+      "surface": "והעמر",
+      "gloss": "و عۆمەرەکە"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "دەیەم"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ئەیفەکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:56.957225881Z",
+  "model": "glm-5.3"
+}

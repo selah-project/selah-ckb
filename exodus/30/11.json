@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و یاهوە قسەی لەگەڵ مۆشە ⟨موسا⟩ کرد و وت:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:41.862458798Z",
+  "model": "glm-5.3"
+}

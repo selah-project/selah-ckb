@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ڕەفائیم هەروەها ئەوان وەک عەناقیم دەژمێردران، و مۆآبییەکان بۆ ئەوان دەڵێن ئیمیم.",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "ڕەفائیم"
+    },
+    {
+      "surface": "יחשבوا",
+      "gloss": "دەژمێردران"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "وەک عەناقیم"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "و مۆآبییەکان"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ئیمیم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:29.377320872Z",
+  "model": "glm-5.3"
+}

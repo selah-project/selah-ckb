@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و هەردووکیان ڕووت بوون، ئادەم ⟨و⟩ ژنەکەی، و شەرم نەدەکردن.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "هەردووکیان"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "و ژنەکەی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "شەرم دەکردن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:17.543910187Z",
+  "model": "glm-5.3"
+}

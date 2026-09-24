@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "کوڕی بیست و پێنج ساڵ بوو لە پاشایەتییەکەیدا، و شازدە ساڵ پاشایەتیی کرد لە یەروشالیم.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "لە پاشایەتییەکەیدا"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "شازدە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشایەتیی کرد"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە یەروشالیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:41:52.046361830Z",
+  "model": "glm-5.3"
+}

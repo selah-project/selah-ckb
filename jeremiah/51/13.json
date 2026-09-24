@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 51:13",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "ئەی دانیشتووی سەر ئاوە زۆرەکان، پڕی خەزنەکان، کۆتایی تۆ هاتووە، پێوانەی قازانجی تۆ.",
+  "tokens": [
+    {
+      "surface": "שכנתי",
+      "gloss": "دانیشتووی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆرەکان"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "پڕی"
+    },
+    {
+      "surface": "אוצרת",
+      "gloss": "خەزنەکان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتووە"
+    },
+    {
+      "surface": "קצך",
+      "gloss": "کۆتایی تۆ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "پێوانەی"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "قازانجی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:03:04.573404824Z",
+  "model": "glm-5.3"
+}

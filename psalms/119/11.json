@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "لە دڵی خۆمدا وشەی تۆم شاردووەتەوە، بۆ ئەوەی لە تۆ گوناه نەکەم.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "لە دڵی خۆمدا"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "شاردووەتەوە"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "وشەی تۆم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "گوناه نەکەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لە تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:58.663703844Z",
+  "model": "glm-5.3"
+}

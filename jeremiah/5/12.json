@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "درۆیان لەسەر یاهوە کرد و کوتیان ئەو نییە، و خراپی نایەتە سەرمان، و شمشێر و برسیتیش نابینین.",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "درۆیان کرد"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "لەسەر یاهوە"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و کوتیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "نایەت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "سەرمان"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "و شمشێر"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "و برسیتی"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ببینین"
+    }
+  ],
+  "timestamp": "2026-09-24T12:39:12.234229462Z",
+  "model": "glm-5.3"
+}

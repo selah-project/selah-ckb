@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "جارێ لە دەرەوە، جارێ لە گەڕەکەکاندا، و لە هەموو سووچێکەوە دەکەوێتە بۆسە",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "جارێ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "لە دەرەوە"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "جارێ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "لە گەڕەکەکاندا"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "و لە ...ەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "سووچ"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "دەکەوێتە بۆسە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:56.538582817Z",
+  "model": "glm-5.3"
+}

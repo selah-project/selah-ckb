@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "دەمت بکەرەوە، بە دادپەروەرییەوە حوکم بدە، و داوای ⟨هەموو⟩ هەژار و ندار بکە.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "بکەرەوە"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دەمت"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "حوکم بدە"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "بە دادپەروەرییەوە"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "و داوای بکە"
+    },
+    {
+      "surface": "עני",
+      "gloss": "هەژار"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و ندار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:09.884167280Z",
+  "model": "glm-5.3"
+}

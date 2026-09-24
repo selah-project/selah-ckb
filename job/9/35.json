@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ئەوسا قسە دەکەم و لێی ناترسم، چونکە من وا نیم لەگەڵ خۆمدا.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "قسە دەکەم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "دەترسم لێی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لەگەڵ خۆمدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:52.810643830Z",
+  "model": "glm-5.3"
+}

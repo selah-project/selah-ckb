@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "لە حوکمڕانیی مرۆڤی دوڕوو لە تەڵەکانی گەل",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "لە حوکمڕانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤی"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "دوڕوو"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "لە تەڵەکانی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    }
+  ],
+  "timestamp": "2026-09-24T14:45:30.299005061Z",
+  "model": "glm-5.3"
+}

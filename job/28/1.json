@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "چونکە بۆ زیو دەرچوونێک هەیە، و شوێنێک بۆ زێڕ کە پاڵێوراوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "بۆ زیو"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "دەرچوونێک"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "و شوێنێک"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "بۆ زێڕ"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "پاڵێوراوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:39.296242485Z",
+  "model": "glm-5.3"
+}

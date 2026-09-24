@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و مۆشە ⟨موسا⟩ ⟨את⟩ گیلعادی دا بە ماکیری کوڕی مەنەشە و لەوێ نیشتەجێ بوو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "بە ماکیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەشە"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "نیشتەجێ بوو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:07.897232851Z",
+  "model": "glm-5.3"
+}

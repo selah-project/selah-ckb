@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ناچن دوای خوداکانی دیکە، لە خوداکانی ئەو گەلانەی دەوروبەرتان.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "بچن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خوداکان"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "لە خوداکانی"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "دەوروبەرتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:00.250976776Z",
+  "model": "glm-5.3"
+}

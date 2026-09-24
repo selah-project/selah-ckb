@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بێزیم بووە — بۆ هەمیشە ناژیم؛ وازهێنە لە من، چونکە ڕۆژەکانم هەورن.",
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "بێزیم بووە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ناژیم"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "وازهێنە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەور"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:30.509130700Z",
+  "model": "glm-5.3"
+}

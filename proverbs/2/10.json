@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "چونکە حیکمەت دێتە ناو دڵت و زانین بۆ گیانت خۆش دەبێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "دێتە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ناو دڵت"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و زانین"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "بۆ گیانت"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "خۆش دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:15.190359462Z",
+  "model": "glm-5.3"
+}

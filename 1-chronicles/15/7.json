@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "لە کوڕانی گەرێشۆم یۆئێل سەرۆک و براکانی سەد و سی",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "لە کوڕانی"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گەرێشۆم"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یۆئێل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:00.045290437Z",
+  "model": "glm-5.3"
+}

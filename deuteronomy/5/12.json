@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "⟨את⟩ ڕۆژی شابات بپارێزە بۆ پیرۆزکردنی، وەک یاهوە ئێلۆهیمی خۆت فەرموویەتی.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕۆژی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شابات"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "بۆ پیرۆزکردنی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "فەرموویەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:18.656123342Z",
+  "model": "glm-5.3"
+}

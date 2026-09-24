@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و دەربارەی شەمعییاهو نەحەلامی تۆ دەڵێی، بەم زاری:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و دەربارەی"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شەمعییاهو"
+    },
+    {
+      "surface": "הנחלמی",
+      "gloss": "نەحەلامی"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تۆ دەڵێی"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "بەم زاری"
+    }
+  ],
+  "timestamp": "2026-09-24T12:52:07.402603615Z",
+  "model": "glm-5.3"
+}

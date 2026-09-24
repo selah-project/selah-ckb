@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لە تاریکەسەرەوەدا، لە ئێواریدا ڕۆژ، لە تاریکیدا شەو و ئەندێشان",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "لە تاریکەسەرەوەدا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "لە ئێواریدا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "بאישון",
+      "gloss": "لە تاریکیدا"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "و ئەندێشان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:56.537930375Z",
+  "model": "glm-5.3"
+}

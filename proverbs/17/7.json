@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "نا شایستەیە بۆ گێمەچڵە لێوارت بەرز، زۆر کەمتر بۆ خانزادە لێوتی درۆ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "شایستەیە"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "بۆ گێمەچڵە"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لێوار"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "بەرز"
+    },
+    {
+      "surface": "אף",
+      "gloss": "زۆر کەمتر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "خانزادە"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لێوتی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:33.931471897Z",
+  "model": "glm-5.3"
+}

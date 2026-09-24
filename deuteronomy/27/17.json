@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "نەفرەت لەسەر ئەوەی سنووری هاوڕێی خۆی دەگوازێتەوە، و هەموو گەل دەڵێن ئامین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نەفرەت لەسەر"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "دەگوازێتەوە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنوور"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی خۆی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:51.337171101Z",
+  "model": "glm-5.3"
+}

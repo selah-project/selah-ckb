@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و عێلی بانگی شموئێلی کرد و وت ⟨את⟩ شموئێل کوڕم و وت لێرەم",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و بانگی کرد"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عێلی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شموئێل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئێل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئێل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "لێرەم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:17:18.741769077Z",
+  "model": "glm-5.3"
+}

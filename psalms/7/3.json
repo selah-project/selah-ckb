@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "مەگەر وەک شێر گیانم بدڕێت، پارچە پارچە بکات، و ڕزگارکەرێک نەبێت.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "مەگەر"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "بدڕێت"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "وەک شێر"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "پارچە پارچە بکات"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نەبێت"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ڕزگارکەرێک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:45.631101848Z",
+  "model": "glm-5.3"
+}

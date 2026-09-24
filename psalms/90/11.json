@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 90,
+  "translation": "کێ توانای تووڕەییت دەزانێت، و غەزەبەکەت وەک ترسەکەتی تۆیە؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "עז",
+      "gloss": "توانای"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "تووڕەییت"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "و وەک ترسەکەت"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "غەزەبەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:06.538992958Z",
+  "model": "glm-5.3"
+}

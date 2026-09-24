@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەوکات دوو ژنی لەشفرۆش هاتن بۆ لای پادشا و لەبەردەمی ڕایگرتن.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "هاتن"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "لەشفرۆش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "و ڕایگرتن"
+    },
+    {
+      "surface": "لפניו",
+      "gloss": "لەبەردەمی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:45:14.626054797Z",
+  "model": "glm-5.3"
+}

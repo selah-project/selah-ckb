@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و سندوقی ئێلۆهیم گیرا و دوو کوڕی عێلی — حوفنی و فینەحاس — مردن.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "و سندوقی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "گیرا"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عێلی"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مردن"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "حوفنی"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "و فینەحاس"
+    }
+  ],
+  "timestamp": "2026-09-24T11:17:23.228963141Z",
+  "model": "glm-5.3"
+}

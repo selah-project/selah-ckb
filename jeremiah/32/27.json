@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "ئەوەتا من یاهوەم، ئێلۆهیمی هەموو گۆشت؛ ئایا هەر شتێک لە من سەیر بێت؟",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "یפלא",
+      "gloss": "سەیر بێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شتێک"
+    }
+  ],
+  "timestamp": "2026-09-24T12:52:59.982390039Z",
+  "model": "glm-5.3"
+}

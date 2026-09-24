@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 13:13",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بێدەنگ بن لە من و من دەقسێنم و بسەرمدا تێدەپەڕێت چیت دەبێت",
+  "tokens": [
+    {
+      "surface": "החרישו",
+      "gloss": "بێدەنگ بن"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "و دەقسێنم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "و تێدەپەڕێت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بسەر من"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:46.922003524Z",
+  "model": "glm-5.3"
+}

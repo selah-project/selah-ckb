@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "هەموو ڕۆژانی جیاکردنەوەیی بۆ یاهوە، لای گیانی مردوو ناچێتەوە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "جیاکردنەوەیی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لای"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مردوو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ناچێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:51.799554074Z",
+  "model": "glm-5.3"
+}

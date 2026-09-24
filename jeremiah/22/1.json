@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "وەها فەرمووی یاهوە: دابەزە بۆ ماڵی پادشای یەهودا، و لەوێ ئەم قسەیە ⟨את⟩ بێژە،",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "وەها"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "רד",
+      "gloss": "دابەزە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "و بێژە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم قسەیە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:47:15.566696179Z",
+  "model": "glm-5.3"
+}

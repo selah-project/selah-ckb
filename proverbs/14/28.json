@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لە زۆری گەل شکۆی پاشایە، و لە نەمانی نەتەوەش داڕمانی سەرکردەیە.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "لە زۆری"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "شکۆی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "و لە نەمانی"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "نەتەوە"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "داڕمانی"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "سەرکردە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:40.808975475Z",
+  "model": "glm-5.3"
+}

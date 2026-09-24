@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 106,
+  "translation": "و شکۆی خۆیان ⟨את⟩ گۆڕی بۆ سیمای گایەک کە گیا دەخۆیت.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "و گۆڕی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شکۆی خۆیان"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "شکۆی خۆیان"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "بۆ سیمای"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گایەک"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "دەخۆیت"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گیا"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:48.053668786Z",
+  "model": "glm-5.3"
+}

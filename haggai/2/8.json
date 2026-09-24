@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "زێو هی منە و زەریش هی منە، وتاری یاهوەی سەڤائۆت.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "هی منە"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "زێو"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "و هی منە"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زەریش"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەی"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:41:54.138723923Z",
+  "model": "glm-5.3"
+}

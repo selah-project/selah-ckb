@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئیهود دەستی چەپی درێژ کرد و شمشێرەکەی لەسەر ڕانی ڕاستی هەڵگرت و خستییە ناو زگیدا",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "دەستی درێژ کرد"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "ئیهود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەست"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "چەپی"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "هەڵگرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمشێرەکە"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "شمشێرەکە"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ڕان"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "خستییە"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "ناو زگیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:04:41.542550334Z",
+  "model": "glm-5.3"
+}

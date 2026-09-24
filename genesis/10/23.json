@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و کوڕانی ئەرام عووتس و حوول و گێسەر و مەش.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ئەرام"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عووتس"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "و حوول"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "و گێسەر"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "و مەش"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:05.144648774Z",
+  "model": "glm-5.3"
+}

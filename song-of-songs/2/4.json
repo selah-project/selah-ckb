@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "هێنامە ناو خانەی شەرابدا، و ئاڵاکەی لەسەر من خەشە بوو.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "هێنامە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانەی"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شەراب"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "و ئاڵاکەی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر من"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "خەشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:33.547556486Z",
+  "model": "glm-5.3"
+}

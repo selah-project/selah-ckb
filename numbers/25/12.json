@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "لەبەر ئەوە بڵێ: ئەوەتا من ⟨את⟩ پەیمانەکەی شالۆمی پێدەبەم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لەبەر ئەوە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "پێدەبەم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەیمانەکەی"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "پەیمانەکەی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:45.414637093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "نا وەک ئەوە خراپەکاران ⟨نِین⟩ بەڵکو وەک موژێکن کە با دەریاندەپەڕێنێت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وەک ئەوە"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "خراپەکاران"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "وەک موژ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "دەریاندەپەڕێنێت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "با"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:03.143333178Z",
+  "model": "glm-5.3"
+}

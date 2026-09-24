@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ⟨את⟩ نێر لەگەڵ خەوتنی ژن ناخەوێت — دڵتەزێنە ⟨هیە⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ناخەوێت"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "خەوتنی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "دڵتەزێنە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هیە⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:05.427042666Z",
+  "model": "glm-5.3"
+}

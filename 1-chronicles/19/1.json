@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و بوو لەدوای ئەوە، ناحاش پاشای کوڕانی عامۆن مرد، و کوڕەکەی لە جیاتی ئەو پاشا بوو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لەدوای"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ناحاش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عامۆن"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "پاشا بوو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جیاتی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:23.824330738Z",
+  "model": "glm-5.3"
+}

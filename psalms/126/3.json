@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 126,
+  "translation": "گەورەی کرد یاهوە بۆ کردنی لەگەڵ ئێمە؛ بووین شادەکان.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "گەورەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردنی"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "لەگەڵ ئێمە"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "بووین"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "شادەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:20.619981607Z",
+  "model": "glm-5.3"
+}

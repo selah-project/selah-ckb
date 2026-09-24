@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "و گرانە کڕینەوەی نەفەسیانە، و بۆ هەمیشە وازهێنراوە.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "و گرانە"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "کڕینەوە"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "نەفەسیان"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "و وازهێنراوە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:34.061887776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "وەک ئاو ڕووەکە بەرامبەر ڕووەکە، هەر وا دڵی مرۆڤەکە بەرامبەر مرۆڤەکە.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "وەک ئاو"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ڕووەکە"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "بەرامبەر ڕووەکە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤەکە"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بەرامبەر مرۆڤەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:11.194213024Z",
+  "model": "glm-5.3"
+}

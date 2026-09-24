@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "هی داود. ئەی یاهوە، گیانم بەرەو تۆ هەڵدەگرم.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "هی داود"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بەرەو تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "هەڵدەگرم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:55.661640123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "یەعقوب هەستایەوە و ⟨את⟩ کوڕەکانی و ⟨את⟩ ژنەکانی خستە سەر حوشترەکان.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "هەستایەوە"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "خستە سەر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕەکانی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ژنەکانی"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ژنەکانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "حوشترەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:16.925295626Z",
+  "model": "glm-5.3"
+}

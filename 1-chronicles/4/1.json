@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "کوڕانی یەهودا: پەرێتس، حەتسرۆن، کەرمی، حوور و شۆڤاڵ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پەرێتس"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حەتسرۆن"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "و کەرمی"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "و حوور"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "و شۆڤاڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:38.162815765Z",
+  "model": "glm-5.3"
+}

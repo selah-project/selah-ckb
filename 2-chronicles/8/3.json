@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و شلۆمۆ چوو بۆ حەمات سۆڤا و بەسەریدا زاڵ بوو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حەمات"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "سۆڤا"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "و زاڵ بوو"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "بەسەریدا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:50.818908939Z",
+  "model": "glm-5.3"
+}

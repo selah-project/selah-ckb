@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و بە ناوی من بە درۆ سوێند مەخۆن، و ⟨את⟩ ناوی ئێلۆهیمی خۆت پیس مەکە؛ من یاهوەم",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "سوێند دەخۆن"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "بە ناوی من"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "بۆ درۆ"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "و پیس دەکەی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:06:40.817176495Z",
+  "model": "glm-5.3"
+}

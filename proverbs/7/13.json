@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و بەهێزی گرت و ماچی کرد، ڕووی خۆی سەختکرد و بە پێی فەرموو:",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "و بەهێزی گرت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئەوی"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "و ماچی کرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئەوی"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "سەختکرد"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ڕووی خۆی"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بە پێی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:15.105055189Z",
+  "model": "glm-5.3"
+}

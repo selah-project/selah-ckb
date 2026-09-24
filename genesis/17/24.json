@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 17:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و ئاڤراهام کوڕی نەوەد و نۆ ساڵ بوو لە کاتی بڕدرانی گۆشتی پێستی نێرینەی.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "و ئاڤراهام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نەوەد"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "و نۆ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "لە بڕدرانی"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشتی"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "پێستی نێرینەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:08.563998974Z",
+  "model": "glm-5.3"
+}

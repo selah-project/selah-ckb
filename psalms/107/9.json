@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "چونکە گیانی تینووی تێرهێنا، و گیانی برسی بە چاکەیی پڕ کردەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "تێرهێنا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "تینوو"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "و گیانی"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "برسی"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕ کردەوە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:08.395997797Z",
+  "model": "glm-5.3"
+}

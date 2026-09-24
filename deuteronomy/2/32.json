@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و سیحۆن بەرەو ئێمە هاتە دەرێ، ئەو و هەموو گەلەکەی، بۆ شەڕ، یاهسا.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و هاتە دەرێ"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سیحۆن"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "بەرەو ئێمە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گەلەکەی"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "بۆ شەڕ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "یاهسا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:34:29.472468676Z",
+  "model": "glm-5.3"
+}

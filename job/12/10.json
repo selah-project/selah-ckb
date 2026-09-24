@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "کە لە دەستی ئەودا گیانی هەموو زیندوویە و ڕۆحی هەموو گۆشتی مرۆڤ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "لە دەستی ئەو"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندوو"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "و ڕۆح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشتی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:53.978720511Z",
+  "model": "glm-5.3"
+}

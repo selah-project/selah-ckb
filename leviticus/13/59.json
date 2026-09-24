@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "leviticus 13:59",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەمە تۆرای نەخۆشیی سورەزییە لە جلی پشم یان زێ یان تار یان پوو یان هەر کەلوپەلێکی پێست، بۆ پاککردنەوەی یان بۆ ناپاککردنەوەی.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تۆرای"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نەخۆشیی"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "سورەزی"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "جلی"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "پشم"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "הפשתים",
+      "gloss": "زێ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "تار"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "پوو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "کەلوپەلێکی"
+    },
+    {
+      "surface": "עור",
+      "gloss": "پێست"
+    },
+    {
+      "surface": "לטהרו",
+      "gloss": "بۆ پاککردنەوەی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "לטמאו",
+      "gloss": "بۆ ناپاککردنەوەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:55.359807053Z",
+  "model": "glm-5.3"
+}

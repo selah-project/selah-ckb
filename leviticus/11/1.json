@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و یاهوە قسەی بۆ مۆشە ⟨موسا⟩ و بۆ ئاهارۆن فەرموو، بۆ وتنیان، بۆ ئەوان:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتنیان"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆ ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:18.113842559Z",
+  "model": "glm-5.3"
+}

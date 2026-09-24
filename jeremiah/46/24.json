@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "شەرمەزار بوو کچی میتسرایم ⟨میسر⟩، درا بە دەستی گەلی باکوور.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "شەرمەزار بوو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "درا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەلی"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "باکوور"
+    }
+  ],
+  "timestamp": "2026-09-24T12:58:25.077208624Z",
+  "model": "glm-5.3"
+}

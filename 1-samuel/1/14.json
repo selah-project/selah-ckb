@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و عەلی پێی فەرموو: تا کەی سەرخۆش دەبیت؟ مەیەکەت لەسەر خۆت لاببە ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عەلی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "سەرخۆش دەبیت"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "لاببە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەیەکەت"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "مەیەکەت"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "لەسەر خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:16:01.614920816Z",
+  "model": "glm-5.3"
+}

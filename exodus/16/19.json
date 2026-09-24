@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "مۆشە ⟨موسا⟩ بەیانی کرد: هیچ کەسێک لێی بۆ بەیانی با پاشەکەوت نەکات.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "بەیانی کرد"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هیچ کەسێک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با نە"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "پاشەکەوت بکات"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بەیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:02.753936554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و داڤید سەردەکەوت بە وتەی گاد کە بە ناوی یاهوە وتینی.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "و سەردەکەوت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داڤید"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بە وتەی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وتینی"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "بە ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:05.723296541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و من پێی فەرموو: «ڕۆژانی زۆر بۆ من دادەنیشیت، ناچڵیت و نابیت بۆ هیچ پیاوێک، و منیش هەر بۆ تۆم».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و فەرمووم"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "بە ئەو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "دادەنیشیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "ناچڵیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "نابیت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ پیاوێک"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:28:36.923654789Z",
+  "model": "glm-5.3"
+}

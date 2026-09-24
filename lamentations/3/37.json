@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "کێ ئەمە وتوویەتی و بووە، و ئادۆنای فەرمانی نەکردووە؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وتوویەتی"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و بووە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کردووە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:56.217360151Z",
+  "model": "glm-5.3"
+}

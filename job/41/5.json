@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 41:5",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "کێ ڕووی جلەکەی ئاشکرا دەکات؟ لە نێو دوو ئارەکەیدا کێ دێت؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ئاشکرا دەکات"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "לבושו",
+      "gloss": "جلەکەی"
+    },
+    {
+      "surface": "בכפל",
+      "gloss": "لە نێو دوو ئارەکەیدا"
+    },
+    {
+      "surface": "רסנו",
+      "gloss": "ئارەکەی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:17.768765563Z",
+  "model": "glm-5.3"
+}

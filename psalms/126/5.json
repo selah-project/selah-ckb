@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 126,
+  "translation": "چێنکەران بە فرمێسکەوە، بە گۆرانی دەدرمێنن",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "چێنکەران"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "بە فرمێسکەوە"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "بە گۆرانی"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "دەدرمێنن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:36.275444362Z",
+  "model": "glm-5.3"
+}

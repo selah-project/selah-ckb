@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 116,
+  "translation": "چی بۆ یاهوە بگەڕێنەوە بەرامبەر بە هەموو چاکەکانی ئەو بۆ من؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "بگەڕێنەوە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "چاکەکانی ئەو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:45.872439922Z",
+  "model": "glm-5.3"
+}

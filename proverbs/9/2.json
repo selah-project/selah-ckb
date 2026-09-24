@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "سەربڕی سەربڕینەکەی، شەرابەکەی تێکەڵکرد، هەروەها سفرەکەی ڕێکخست.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "سەربڕی"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "سەربڕینەکەی"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "تێکەڵکرد"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "شەرابەکەی"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "ڕێکخست"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "سفرەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:53.988524598Z",
+  "model": "glm-5.3"
+}

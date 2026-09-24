@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و لە ئاشێر ⟨لە⟩ چووانە دەرەوە بۆ ڕیزکردنی شەڕ، چل هەزار.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "و لە ئاشێر"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "چووانە دەرەوە"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "بۆ ڕیزکردنی"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "چل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:25.769959328Z",
+  "model": "glm-5.3"
+}

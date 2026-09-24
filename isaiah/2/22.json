@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "وازبهێنن ئێوە لە مرۆڤ کە هەناسەیەک لە لووتکەی خۆیدایە، چونکە بە چ دەژمێردرێت ئەو",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "وازبهێنن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "هەناسەیەک"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "لە لووتکەی خۆی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "במה",
+      "gloss": "بە چ"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "دەژمێردرێت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:11:29.656836290Z",
+  "model": "glm-5.3"
+}

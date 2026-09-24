@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "جۆگەکانی ئاو دڵی پادشایە لە دەستی یاهوە، بۆ هەموو ئەوەی بیەوێت لاری دەیداتەوە.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "جۆگەکانی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "لە دەستی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "بیەوێت"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "لاری دەیداتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:01.957570603Z",
+  "model": "glm-5.3"
+}

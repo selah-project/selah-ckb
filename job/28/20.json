@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و دانایی لە کوێوە دێت، و ئەوەتا شوێنی تێگەیشتن کوێیە؟",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "و دانایی"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "لە کوێوە"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "و کوێ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێنی"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:25.960259318Z",
+  "model": "glm-5.3"
+}

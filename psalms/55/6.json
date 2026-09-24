@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 55,
+  "translation": "ترس و لەرزە دێنە ناومەوە و شێوانی من دادەپۆشێت.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "و لەرزە"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێنە"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ناومەوە"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "و دادەپۆشێت"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "شێوانی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:01.613545560Z",
+  "model": "glm-5.3"
+}

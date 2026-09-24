@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و بۆ شانەی دووەم پازدە پەردە؛ ستوونەکانیان سێ و بنکەکانیان سێ.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "و بۆ شانەی"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پازدە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "پازدە"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "پەردە"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ستوونەکانیان"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "و بنکەکانیان"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:04.835809537Z",
+  "model": "glm-5.3"
+}

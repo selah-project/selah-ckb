@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "مەترسە کاتێک پیاوێک دەوڵەمەند دەبێت، کاتێک شکۆی ماڵەکەی زۆر دەبێت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ترسە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "دەوڵەمەند دەبێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "زۆر دەبێت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆی"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ماڵەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:44.564894591Z",
+  "model": "glm-5.3"
+}

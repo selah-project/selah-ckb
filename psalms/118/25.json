@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "ئەی یاهوە، ڕزگارمان بکە تکایە؛ ئەی یاهوە، سەرکەوتنمان بدە تکایە.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ئەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ڕزگارمان بکە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ئەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "سەرکەوتنمان بدە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:11.386210483Z",
+  "model": "glm-5.3"
+}

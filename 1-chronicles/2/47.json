@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کوڕانی یەهدای: رەگێم و یوتام و گەیشان و پەلێت و عەیفا و شەئاف ⟨بوون⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "یەهدای"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "رەگێم"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "و یوتام"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "و گەیشان"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "و پەلێت"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "و عەیفا"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "و شەئاف"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:20.661343515Z",
+  "model": "glm-5.3"
+}

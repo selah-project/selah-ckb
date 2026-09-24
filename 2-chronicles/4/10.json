@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ⟨את⟩ دەریاکەی دان لە شانی ڕاستەکەوە بەرەو خۆرهەڵات، رووبەڕووی باشوور.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دەریاکە"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریاکە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "لە شانی"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ڕاستەکەوە"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "بەرەو خۆرهەڵات"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "رووبەڕووی"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "باشوور"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:32.527953172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ڕۆژانی زۆر یەهۆشوا ⟨את⟩ هەموو ئەم پاشایانە شەڕ کرد.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهۆشوا ⟨یۆشوا⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەم پاشایانە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "پاشایان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:35.062590775Z",
+  "model": "glm-5.3"
+}

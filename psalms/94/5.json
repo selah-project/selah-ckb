@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 94,
+  "translation": "گەلت ئەی یاهوە دەپچڕقێنن و میراتت دەستەوەستان دەکەن",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "گەلت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "دەپچڕقێنن"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "و میراتت"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "دەستەوەستان دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:56.195051954Z",
+  "model": "glm-5.3"
+}

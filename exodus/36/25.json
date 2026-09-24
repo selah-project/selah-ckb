@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و بۆ بەری دووەمی میشکان بۆ لای باکوور بیست تختی دروست کرد",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "و بۆ بەری"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "میشکان"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دووەمی"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "باکوور"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دروست کرد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تخت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:13.863308092Z",
+  "model": "glm-5.3"
+}

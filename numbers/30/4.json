@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ئەگەر ژنێک نەزری بۆ یاهوە بڵێت و بەندێک ببەستێت، لە ماڵی باوکی لە گەنجیی خۆیدا.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "و ژنێک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نەزری بڵێت"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نەزر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "و ببەستێت"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "بەند"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "لە گەنجیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:30.631119485Z",
+  "model": "glm-5.3"
+}

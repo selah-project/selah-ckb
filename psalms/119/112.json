@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "دڵم لاردووە بۆ کردنی حوکمەکانت، بۆ ھەمیشە، تا کۆتایی.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "لاردوومە"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردنی"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "حوکمەکانت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ ھەمیشە"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "تا کۆتایی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:32.867351062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و هەموو بەهایەکەت بە شێکەلی پیرۆزی دەبێت؛ بیست گێرە شێکەلەکە دەبێت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "بەهایەکەت"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "بە شێکەلی"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گێرە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شێکەلەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:57.552908182Z",
+  "model": "glm-5.3"
+}

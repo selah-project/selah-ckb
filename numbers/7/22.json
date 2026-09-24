@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بزنێکی نێرینە، یەک، بۆ قوربانیی هەڵە.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بزنێکی نێرینە"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزنەکان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "بۆ قوربانیی هەڵە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:56.831735134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و سەرکردەکانی ئیسرائیل و پاشا نەرم بوون و کوتیان: دادپەروەرە یاهوە.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "و نەرم بوون"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سەرکردەکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "و پاشا"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و کوتیان"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادپەروەر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:23.129826972Z",
+  "model": "glm-5.3"
+}

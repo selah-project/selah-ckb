@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 132,
+  "translation": "هەستە ئەی یاهوە بۆ حەوانەوەت، تۆ و سەندوقی توانات.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "هەستە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "بۆ حەوانەوەت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "و سەندوق"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "توانات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:17.090638379Z",
+  "model": "glm-5.3"
+}

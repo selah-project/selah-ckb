@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "شمشێرەکەت لەسەر ڕان ببە، ئەی جەنگاوەر؛ شکۆت و گەورەییەکت",
+  "tokens": [
+    {
+      "surface": "حگر",
+      "gloss": "ببە"
+    },
+    {
+      "surface": "حربخ",
+      "gloss": "شمشێرەکەت"
+    },
+    {
+      "surface": "علی",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "یرخ",
+      "gloss": "ڕان"
+    },
+    {
+      "surface": "جبور",
+      "gloss": "ئەی جەنگاوەر"
+    },
+    {
+      "surface": "هودخ",
+      "gloss": "شکۆت"
+    },
+    {
+      "surface": "وهدرخ",
+      "gloss": "و گەورەییەکت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:17.054589635Z",
+  "model": "glm-5.3"
+}

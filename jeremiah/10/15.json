@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "باهەتن ئەوان، کاری فێڵکارین، لە کاتی سزادانیاندا لەناو دەچن.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "باهەتن"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "مעשה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "فێڵکارین"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "لە کاتی"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "سزادانیاندا"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "لەناو دەچن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:41:40.397894006Z",
+  "model": "glm-5.3"
+}

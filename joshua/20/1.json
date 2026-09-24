@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و یاهوە لەگەڵ یەهوشوا قسەی کرد و فەرموی: بڵێ،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهوشوا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:01:04.936416688Z",
+  "model": "glm-5.3"
+}

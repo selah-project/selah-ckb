@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 93,
+  "translation": "جێگیرە تەختی تۆ لەوەتەوە، لە هەتاهەتایە تۆی.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "جێگیرە"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تەختی تۆ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "لەوەتەوە"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "لە هەتاهەتایە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:05.116992936Z",
+  "model": "glm-5.3"
+}

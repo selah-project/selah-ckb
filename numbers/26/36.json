@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و ئەمانە کوڕانی شووتێلاحن بۆ عێران خێزانی عێرانی",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "شووتێلاح"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "بۆ عێران"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خێزانی"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "عێرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:02.249795691Z",
+  "model": "glm-5.3"
+}

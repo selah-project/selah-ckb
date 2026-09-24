@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "شەرابیان خواردەوە و خوداکانی زێڕ و زیو و مس و ئاسن و دار و بەردیان ستایش کرد.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "خواردەوە"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "شەراب"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "ستایشیان کرد"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "خوداکانی"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "مس"
+    },
+    {
+      "surface": "פרזלا",
+      "gloss": "ئاسن"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "دار"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "بەرد"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:46.079299734Z",
+  "model": "glm-5.3"
+}

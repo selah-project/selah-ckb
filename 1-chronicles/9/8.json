@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 9:8",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و ییبنێیا کوڕی یەرۆحام و ئێلا کوڕی عوزی کوڕی میکری و مەشولام کوڕی شەفاتییا کوڕی رەعوئێل کوڕی ییبنییا.",
+  "tokens": [
+    {
+      "surface": "ויבניה",
+      "gloss": "و ییبنێیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یەرۆحام"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "و ئێلا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عوزی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "میکری"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "و مەشولام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شەفاتییا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رەعوئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יבניה",
+      "gloss": "ییبنییا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:14.708317222Z",
+  "model": "glm-5.3"
+}

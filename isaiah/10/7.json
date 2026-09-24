@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 10:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "بەڵام ئەو وا نابینێت، و دڵی وا نابڕوا، چونکە لە دڵیدا بۆ لەناوبردنە و بۆ بڕینەوەی گەلانی زۆر.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "بەڵام ئەو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "نابینێت"
+    },
+    {
+      "surface": "ולבבו",
+      "gloss": "و دڵی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "نابڕوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "بۆ لەناوبردنە"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "لە دڵیدا"
+    },
+    {
+      "surface": "ולהכרית",
+      "gloss": "و بۆ بڕینەوەی"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "مעט",
+      "gloss": "کەم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:09.928091725Z",
+  "model": "glm-5.3"
+}

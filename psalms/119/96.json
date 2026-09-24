@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "بۆ هەموو تەواوییەکە کۆتاییەکەم بینیوە، فەرمانت فراوانە زۆر.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "تەواوییەکە"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "کۆتایی"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "فراوانە"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "فەرمانت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:06.046596066Z",
+  "model": "glm-5.3"
+}

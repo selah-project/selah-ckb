@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 23:23",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بەڵکو لە ساڵی هەژدەیەمی پاشا یۆشیا ئەم پەسەحە بۆ یاهوە لە ئۆروشەلیم کرا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "لە هەشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یۆشیا ⟨یۆسیا⟩"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کرا"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پەسەح"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە ئۆروشەلیم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:10:31.919997532Z",
+  "model": "glm-5.3"
+}

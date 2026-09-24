@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و ئەمانەش ڕەچەڵەکی عەیساو ⟨باوکی⟩ ئەدۆمن لە چیای سەئیرن.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانەش"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ڕەچەڵەک"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عەیساو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیای"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سەئیر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:41.644153135Z",
+  "model": "glm-5.3"
+}

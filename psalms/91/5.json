@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 91,
+  "translation": "لە ترسی شەو ناترسێت، لە تیری فڕیو ڕۆژانە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "دەترسێت"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "لە ترس"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "لە تیر"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "فڕیو"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ڕۆژانە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:47.940331513Z",
+  "model": "glm-5.3"
+}

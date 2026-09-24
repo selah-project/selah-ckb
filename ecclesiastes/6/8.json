@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چونکە چی زیاترە بۆ زانا لە نەزان؟ چۆن بۆ هەژار ئەوەی دەیزانێت لەبەردەم زیندوواندا بڕوات؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "زیاترە"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "بۆ زانا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "نەزان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "بۆ هەژار"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "دەیزانێت"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "بڕوات"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زیندووان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:23.305412096Z",
+  "model": "glm-5.3"
+}

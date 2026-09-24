@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و دڕک و خارووبار بۆ تۆ دەڕوێنێت و ⟨את⟩ سەوزی کێڵگە دەخۆیت.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "و دڕک"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "و خارووبار"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "دەڕوێنێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "و دەخۆیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سەوزی کێڵگە"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "سەوز"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کێڵگە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:46.512103843Z",
+  "model": "glm-5.3"
+}

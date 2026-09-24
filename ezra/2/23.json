@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "پیاوەکانی عەناتۆت، سەد و بیست و هەشت.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوەکانی"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "عەناتۆت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:08:55.930885863Z",
+  "model": "glm-5.3"
+}

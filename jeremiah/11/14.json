@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 11:14",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و تۆ بۆ ئەم گەلە نوێژ مەکە و بۆیان هاوار و نوێژ هەڵمەگرە، چونکە من نایبیستم لە کاتی بانگکردنیان بۆ من بۆ خراپییان.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "نوێژ بکە"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "هەڵبە"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "هاوار"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "و نوێژ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "من نەم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "لە کات"
+    },
+    {
+      "surface": "קראם",
+      "gloss": "بانگکردنیان"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "خراپییان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:42:09.753823930Z",
+  "model": "glm-5.3"
+}

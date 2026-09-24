@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 150,
+  "translation": "هەموو هەناسەدارێک یاهەوە ستایش بکات، ستایشی یاه بکەن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "هەناسەدار"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "ستایش بکات"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاهەوە"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستایشی بکەن"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:43.053755573Z",
+  "model": "glm-5.3"
+}

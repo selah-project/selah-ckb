@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و بۆ لابان ⟨هەبوو⟩ دوو کچ، ناوی گەورەکە لەئا ⟨بوو⟩ و ناوی بچووکەکە ڕاحێل ⟨بوو⟩.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "و بۆ لابان"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "گەورەکە"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لەئا"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "بچووکەکە"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ڕاحێل"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:31.519783334Z",
+  "model": "glm-5.3"
+}

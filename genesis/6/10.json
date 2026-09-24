@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و نۆح سێ کوڕی بەخێناوە: ⟨את⟩ شێم، ⟨את⟩ حام، و ⟨את⟩ یافێت.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "بەخێناوە"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆح"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شێم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شێم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یافێت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:29.186458786Z",
+  "model": "glm-5.3"
+}

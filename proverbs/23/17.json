@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "دڵی تۆ لە گوناهکاران حەسودی مەکات، بەڵکو هەموو ڕۆژ لە ترسی یاهوەدا بێت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مەکات"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "حەسودی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵی تۆ"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "لە گوناهکاران"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "لە ترسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:18.928988574Z",
+  "model": "glm-5.3"
+}

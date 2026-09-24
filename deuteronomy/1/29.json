@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و من بۆ ئێوە فەرمووم: نەترسێن و لێیان مەترسێن.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و فەرمووم"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ترسێن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "مەترسێن"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "لێیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:58.225963547Z",
+  "model": "glm-5.3"
+}

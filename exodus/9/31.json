@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و کتانەکە و جۆکە لێدران، چونکە جۆکە ئاڤیڤ بوو و کتانەکە گوڵدار بوو.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "و کتانەکە"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "و جۆکە"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "لێدران"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "جۆکە"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "ئاڤیڤ"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "و کتانەکە"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "گوڵدار بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:40:13.354569203Z",
+  "model": "glm-5.3"
+}

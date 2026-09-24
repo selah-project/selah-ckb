@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ڕێگایەک هەیە کە لەبەرچاوی مرۆڤ ڕاستە، بەڵام کۆتاییەکەی ڕێگاکانی مردنە.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگایەک"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەرچاوی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "بەڵام کۆتاییەکەی"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێگاکانی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:43.892044683Z",
+  "model": "glm-5.3"
+}

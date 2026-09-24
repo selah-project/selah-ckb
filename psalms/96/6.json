@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 96,
+  "translation": "شکۆ و گەورەیی لە پێشی، هێز و شکۆفەیی لە پیرۆزگەکەی ئەودا.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "و گەورەیی"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "لە پێشی"
+    },
+    {
+      "surface": "עז",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "و شکۆفەیی"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "لە پیرۆزگەکەی ئەودا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:23.961995633Z",
+  "model": "glm-5.3"
+}

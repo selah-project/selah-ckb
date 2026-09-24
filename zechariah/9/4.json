@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 9:4",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ئەوەتا ئادۆنای بەتاڵی دەیکاتێ و هێزی لە دەریا دەکوژێت و ئەو بە ئاگر دەخورێت.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יורשנה",
+      "gloss": "بەتاڵی دەیکاتێ"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "و دەکوژێت"
+    },
+    {
+      "surface": "בים",
+      "gloss": "لە دەریا"
+    },
+    {
+      "surface": "חילה",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بە ئاگر"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "دەخورێت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:51.311160570Z",
+  "model": "glm-5.3"
+}

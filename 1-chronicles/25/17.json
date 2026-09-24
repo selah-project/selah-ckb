@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "دەیەمەم بۆ شیمعی ⟨مەگەر⟩، کوڕەکانی و براکانی — دوازدە ⟨بوون⟩.",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "دەیەمەم"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی ⟨مەگەر⟩"
+    },
+    {
+      "surface": "בניو",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיو",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:46.311394849Z",
+  "model": "glm-5.3"
+}

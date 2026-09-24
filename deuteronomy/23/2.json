@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "پێکەمەکراوێکی داکێڵراو و بڕدراوی ئەندامی نێرینە ناچێتە ناو کۆبوونەوەی یاهوە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ناچێتە"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "پێکەمەکراو"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "داکێڵراو"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "و بڕدراو"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ئەندامی نێرینە"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ناو کۆبوونەوەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:06.493585047Z",
+  "model": "glm-5.3"
+}

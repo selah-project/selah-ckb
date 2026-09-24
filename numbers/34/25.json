@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و بۆ هۆزی کوڕانی زەڤوڵون سەرۆک ئێلیتصافان کوڕی پارناک.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "و بۆ هۆز"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زەڤوڵون"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "ئێلیتصافان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "پارناک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:37.357524911Z",
+  "model": "glm-5.3"
+}

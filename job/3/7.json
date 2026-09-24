@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەوەتا ئەو شەوە بێ بەرەکەت بێت، هەڵبەست لە ناوی نەیەت.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شەوە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "بێ بەرەکەت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "هەڵبەست"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە ناوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:41.160858459Z",
+  "model": "glm-5.3"
+}

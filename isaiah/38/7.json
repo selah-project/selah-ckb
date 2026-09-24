@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و ئەمە بۆ تۆ نیشانەیە لە ⟨את⟩ یاهوە، کە یاهوە ⟨את⟩ ئەم قسە دەکات کە فەرموویەتی.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "האות",
+      "gloss": "نیشانەیە"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم قسە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئەم قسە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:25:17.289367674Z",
+  "model": "glm-5.3"
+}

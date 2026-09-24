@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "چونکە هەموو مێزەکان پڕ بوون لە ڕشانەوە و پیسایی، بێ هیچ شوێنێک.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "مێزەکان"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "پڕ بوون"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ڕشانەوە"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "پیسایی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "هیچ شوێنێک"
+    }
+  ],
+  "timestamp": "2026-09-24T12:21:31.001389458Z",
+  "model": "glm-5.3"
+}

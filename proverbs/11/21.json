@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "دەست بە دەست، بەد بێتاوان دەرناچێت؛ و تۆوی دادپەروەران ڕزگاری دەبێت.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "بە دەست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بێتاوان دەرناچێت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بەد"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "و تۆو"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "دادپەروەران"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "ڕزگاری دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:29.991267063Z",
+  "model": "glm-5.3"
+}

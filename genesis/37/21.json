@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و ڕوئوبێن بیستی و ڕزگاریکردنی لە دەستیان و وت نا گیانی لێبدەین",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و بیستی"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ڕوئوبێن"
+    },
+    {
+      "surface": "ויצלהו",
+      "gloss": "و ڕزگاریکردنی"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "لە دەستیان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "لێبدەین"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:39.214907225Z",
+  "model": "glm-5.3"
+}

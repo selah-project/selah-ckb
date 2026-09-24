@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئەیوب وەڵامی دایەوە و وت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و وەڵامی دایەوە"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەیوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:45.453908592Z",
+  "model": "glm-5.3"
+}

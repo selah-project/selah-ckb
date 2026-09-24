@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "خزمەتکارە کچەکانی نارد، بانگدەکات لەسەر لووتکە بەرزەکانی شارەکە.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "خزمەتکارە کچەکانی"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "بانگدەکات"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "لووتکە"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "بەرزەکانی"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شارەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:53.988719261Z",
+  "model": "glm-5.3"
+}

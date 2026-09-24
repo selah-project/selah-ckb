@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 37:3",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و پێم فەرموو: ئەی کوڕی ئادەم، ئایا ئەم ئێسقانە دەژین؟ و من وتم: ئەی ئادۆنای یاهوە، تۆ دەزانیت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "התחיינה",
+      "gloss": "دەژین"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "ئەم ئێسقانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و وتم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "دەزانیت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:02:23.054041051Z",
+  "model": "glm-5.3"
+}

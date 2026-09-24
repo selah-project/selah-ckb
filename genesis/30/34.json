@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و لابان وت: ئەوەتا، با بێت بەپێی وشەی تۆ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "با"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "بەپێی وشەی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:05.129717542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "پێش ڕووخان دڵی پیاو بەرزدەبێتەوە، و پێش شوڕەت نزمی ⟨هەیە⟩.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "پێش"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ڕووخان"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "بەرزدەبێتەوە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "و پێش"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شوڕەت"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "نزمی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:46.324735723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "هەروەها کوڕانی نۆف ⟨ممفیس⟩ و تاحپانێس لە لووتکەی سەری تۆ دەخۆنەوە.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "נף",
+      "gloss": "نۆف ⟨ممفیس⟩"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "و تاحپانێس"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "دەخۆنەوە"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "لووتکەی سەر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:36:37.774301886Z",
+  "model": "glm-5.3"
+}

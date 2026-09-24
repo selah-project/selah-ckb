@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "چاردەیەم بۆ مەتتیاهو ⟨ماتتیاها⟩، کوڕەکانی و برایانی، دوازدە.",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "چاردەیەم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "چاردەیەم"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "مەتتیاهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برایانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دوازدە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:40.891195178Z",
+  "model": "glm-5.3"
+}

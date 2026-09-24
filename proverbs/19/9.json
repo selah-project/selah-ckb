@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "شایەتی درۆیان نەبوورداری دەبێت، و هەناسەدەری درۆیان دەسڕێتەوە.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شایەتی"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "درویان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "ינקه",
+      "gloss": "بوورداری دەبێت"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "و هەناسەدەر"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "درویان"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "دەسڕێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:19.634075685Z",
+  "model": "glm-5.3"
+}

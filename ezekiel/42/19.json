@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "سووڕایەوە بۆ لاپەڕی ڕۆژئاوا و پێوەندی بە پێنج سەد قامیش بە قامیشی پێوانە.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "سووڕایەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "لاپەڕی"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ڕۆژئاوا"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "پێوەندی بە"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قامیش"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "بە قامیشی"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "پێوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:23:32.346756105Z",
+  "model": "glm-5.3"
+}

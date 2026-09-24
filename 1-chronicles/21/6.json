@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و لێڤی و بینیامین نەژمارد لە نێویاندا، چونکە وشەی پاشا لای ⟨את⟩ یوئاب بێزەهار بوو.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "و لێڤی"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "و بینیامین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ژمارد"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "لە نێویاندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "بێزەهار بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوئاب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوئاب"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:36.504073434Z",
+  "model": "glm-5.3"
+}

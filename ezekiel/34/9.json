@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "لەبەرئەوە ئەی شوانەکان، گوێ لە وشەی یاهوە بگرن.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لەبەرئەوە"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "شوانەکان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوێ بگرن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:19:25.334224049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و یەعقوب ⟨یاقوب⟩ لە بئیر شەڤا ⟨بیرسەعب⟩ دەرچوو و بەرەو حاران چوو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب ⟨یاقوب⟩"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "لە بئیری"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شەڤا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "بەرەو حاران"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:25.268355719Z",
+  "model": "glm-5.3"
+}

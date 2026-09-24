@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و زیلپا ⟨زڵفا⟩ کۆیلەی لێیا کوڕێکی دووەمی بۆ یاکۆڤ ⟨یەعقوب⟩ زا.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "زا"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زیلپا ⟨زڵفا⟩"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "کۆیلەی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دووەمی"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "بۆ یاکۆڤ ⟨یەعقوب⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:32.517881192Z",
+  "model": "glm-5.3"
+}

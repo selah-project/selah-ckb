@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و چل بنکەی ئەوان لە زیو؛ دوو بنکە لە ژێر تەختەیەک و دوو بنکە لە ژێر تەختەیەک.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "و چل"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "بنکەی ئەوان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "لە زیو"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "بنکە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە ژێر"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تەختەیەک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "بنکە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە ژێر"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تەختەیەک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:48:58.089676486Z",
+  "model": "glm-5.3"
+}

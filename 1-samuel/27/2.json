@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و داود هەستا و ئەو و شەش سەد پیاوی لەگەڵی بەرەو ئاکیش کوڕی ماوۆخ پاشای گەت تێپەڕین.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و هەستا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "و تێپەڕین"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ئاکیش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "ماوۆخ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گەت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:30:05.114213655Z",
+  "model": "glm-5.3"
+}

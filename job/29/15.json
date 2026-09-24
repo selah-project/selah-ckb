@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "چاو بووم بۆ کوێر، و پێ بۆ شەل — من.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "بۆ کوێر"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "و پێ"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "بۆ شەل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:40.302455418Z",
+  "model": "glm-5.3"
+}

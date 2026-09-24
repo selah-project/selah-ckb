@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ژماردراوەکانیان بۆ هۆزی یێهودا چوار و حەفتا هەزار و شەش سەد.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ژماردراوەکانیان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یێهودا"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و حەفتا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:30.547093553Z",
+  "model": "glm-5.3"
+}

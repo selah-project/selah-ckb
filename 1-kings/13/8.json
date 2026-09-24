@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و پیاوی ئێلۆهیم بە شای فەرموو: ئەگەر ⟨את⟩ نیوەی ماڵەکەت بۆ من بدەیت، لەگەڵ تۆ نایەم و نان ناخۆم و ئاو ناخۆمەوە لەم شوێنە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بدەیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیوەی"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیوەی"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ماڵەکەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "نایەم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ناخۆم"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ناخۆمەوە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "لە شوێن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:52:25.160223215Z",
+  "model": "glm-5.3"
+}

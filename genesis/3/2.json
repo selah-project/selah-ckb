@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ژنەکە بە مارەکەی وت: «لە میوەی دارەکانی باخچەکە دەخۆین،",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ژنەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مارەکەی"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "لە میوەی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دارەکانی"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باخچەکە"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "دەخۆین"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:31.479285599Z",
+  "model": "glm-5.3"
+}

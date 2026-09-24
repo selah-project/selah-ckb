@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی ئادۆنیکام ⟨هەموان⟩ شەش سەد شەست و شەش.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "ئادۆنیکام"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شەست"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "و شەش"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:38.886379222Z",
+  "model": "glm-5.3"
+}

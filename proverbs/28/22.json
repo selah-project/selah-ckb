@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "پەشۆکاوە بۆ سامان پیاوێکی چاوی خراپ، و نازانێت کە کەمی دێتە سەری.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "پەشۆکاوە"
+    },
+    {
+      "surface": "להון",
+      "gloss": "بۆ سامان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێکی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراو"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کەمی"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "دێتە سەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:54.919265814Z",
+  "model": "glm-5.3"
+}

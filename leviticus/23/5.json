@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "لە مانگی یەکەمدا، لە چواردەیەمی مانگ، لە نێوان ئێوارەکاندا، پێسەخی بۆ یاهوەیە.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "لە مانگی"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یەکەمدا"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "بۆ مانگ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ئێوارەکاندا"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پێسەخی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:23.807925510Z",
+  "model": "glm-5.3"
+}

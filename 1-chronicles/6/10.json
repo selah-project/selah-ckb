@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و کوڕەکانی ئەلقانە: عەماسای و ئەحیموت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانە"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عەماسای"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "و ئەحیموت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:41.086925439Z",
+  "model": "glm-5.3"
+}

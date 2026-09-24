@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "کڕینی خانووەکە و ئەشکەوتەکەی كە تێیدایە، لە ⟨את⟩ كوڕانی حێتە.",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "کڕینی"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "خانووەكە"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "و ئەشكەوتەكەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "كە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدایە"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "كوڕانی"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:32.779003359Z",
+  "model": "glm-5.3"
+}

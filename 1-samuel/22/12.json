@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و شائول فەرمووی: گوێ بگرە ئێستا ئەی کوڕی ئەخیتوب. و وت: لێرەم ئادۆنای.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ئەخیتوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "لێرەم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    }
+  ],
+  "timestamp": "2026-09-24T11:26:50.446255303Z",
+  "model": "glm-5.3"
+}

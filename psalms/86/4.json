@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 86,
+  "translation": "گیانی خزمەتکارت شاد بکە، چونکە بۆ تۆ، ئەی ئادۆنای، گیانم بەرز دەکەمەوە.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "شاد بکە"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خزمەتکارت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "بەرز دەکەمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:20.463832417Z",
+  "model": "glm-5.3"
+}

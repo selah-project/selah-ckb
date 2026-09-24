@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "دڵی لار باشی نادۆزێتەوە، و ئەوەی بە زمانی شێواو دەیکاتەوە، دەکەوێتە خراپییەوە.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "لار"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "دۆزێتەوە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باشی"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "و ئەوەی شێواو"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "بە زمانی خۆی"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "دەکەوێت"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "لە خراپیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:40.541394407Z",
+  "model": "glm-5.3"
+}

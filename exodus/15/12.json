@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "دەستی ڕاستت درێژکرد، زەوی ئەوانی خارد.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "درێژکردت"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "دەستی ڕاستت"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "ئەوانی خارد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:42:02.808898478Z",
+  "model": "glm-5.3"
+}

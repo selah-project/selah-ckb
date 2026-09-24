@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و بات شێڤا ⟨باتشێڤا⟩ وت: باش ⟨من قسە بۆ تۆ دەکەم⟩، من لە پێناوی تۆ لای پادشا قسە دەکەم.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بات"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شێڤا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "قسە دەکەم"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لە پێناوی تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:46:07.902471400Z",
+  "model": "glm-5.3"
+}

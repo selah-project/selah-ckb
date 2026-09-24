@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "خوشکێکی بچووکمان هەیە و مەمکی بۆ نییە، چ بکەین بۆ خوشکەکەمان لە ڕۆژێکدا کە قسەی لەسەری بکرێت؟",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "خوشکێک"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "مان هەیە"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "بچووک"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "و مەمک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "بکەین"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "بۆ خوشکەکەمان"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژێکدا"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "قسەی بکرێت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:10.356188238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "بەردی خۆشەویستی رشوەیە لە چاوی خاوەنەکەی؛ بۆ هەموو ئەوەی ڕووی تێدەکات سەرکەوتووە.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "بەردی"
+    },
+    {
+      "surface": "חן",
+      "gloss": "خۆشەویستی"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "رشوە"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "خاوەنەکەی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ڕووی تێدەکات"
+    },
+    {
+      "surface": "یשכיל",
+      "gloss": "سەرکەوتووە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:33.931661812Z",
+  "model": "glm-5.3"
+}

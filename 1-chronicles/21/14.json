@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و یاهوە وبای دا لە یسرائیل ⟨ئیسرائیل⟩ و لە یسرائیل حەفتا هەزار پیاو کەوتن.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وبا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "لە یسرائیل ⟨ئیسرائیل⟩"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "و کەوتن"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "لە یسرائیل"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "حەفتا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:27.862414771Z",
+  "model": "glm-5.3"
+}

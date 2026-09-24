@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 20:19",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و کوڕانی ئیسرائیل بە بەیانی هەستان و لەسەر گیڤعا خێوەتیان دا.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "هەستان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "بە بەیانی"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خێوەتیان دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "گیڤعا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:15:30.613888973Z",
+  "model": "glm-5.3"
+}

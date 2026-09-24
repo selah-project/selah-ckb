@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و لێئا دیسان سکی گرت و کوڕێکی شەشەمی بۆ یەعقۆب بوو.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "و سکی گرت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیسان"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێئا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "شەشەم"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "بۆ یەعقۆب"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:47.974060234Z",
+  "model": "glm-5.3"
+}

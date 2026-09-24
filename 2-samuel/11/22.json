@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و نێردەکە ڕۆیشت و هات و بۆ داود ⟨את⟩ هەموو ئەوەی یوئاب ناردی خستەڕوو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیشت"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "نێردەکە"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "و خستەڕوو"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەوەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ناردی"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوئاب"
+    }
+  ],
+  "timestamp": "2026-09-24T11:35:34.762644731Z",
+  "model": "glm-5.3"
+}

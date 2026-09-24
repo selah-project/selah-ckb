@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "شەش شتن ⟨ئەران⟩ کە یاهوە ڕقی لێیانەتی، و حەوت بێزاوەتی گیانی ئەو.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ئەران⟩ شتن"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ڕقی لێیانەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "بێزاوەتی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:49.795931320Z",
+  "model": "glm-5.3"
+}

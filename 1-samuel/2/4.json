@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کەوانی دڵیران شکان و ڕاوەستاوەکان بە هێز خۆیان بەست.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "کەوان"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "دڵیران"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "شکان"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "و ڕاوەستاوەکان"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "خۆیان بەست"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بە هێز"
+    }
+  ],
+  "timestamp": "2026-09-24T11:16:23.577143489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و یاهوە بۆ مۆشە ⟨موسا⟩ قسەی فەرموو بەم زاراوەیە:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زاراوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:05.293916791Z",
+  "model": "glm-5.3"
+}

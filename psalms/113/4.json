@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 113,
+  "translation": "بەرزە لەسەر هەموو گەلان یاهوە، لەسەر ئاسمانەکانیش شانازیی ئەوە.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "بەرزە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکانیش"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "شانازیی ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:24.036390707Z",
+  "model": "glm-5.3"
+}

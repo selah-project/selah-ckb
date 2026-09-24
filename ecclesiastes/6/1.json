@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "هەیە خرابییەک کە من لە ژێر خۆردا بینیومە، و ئەو زۆرە لەسەر مرۆڤ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خرابییەک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیومە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە ژێر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆردا"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "و زۆرە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:05.180331110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "هی عیدۆ زەخەریا، هی گینێتۆن مەشولام.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "هی عیدۆ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زەخەریا"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "هی گینێتۆن"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مەشولام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:47.144166001Z",
+  "model": "glm-5.3"
+}

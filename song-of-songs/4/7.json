@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "تەواوی تۆ جوانە، خۆشەویستەکەم، و هیچ کەموکوڕییەک لە تۆدا نییە.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "تەواوی تۆ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جوانە"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "خۆشەویستەکەم"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "و کەموکوڕی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "هیچ نییە"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە تۆدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:15.812124343Z",
+  "model": "glm-5.3"
+}

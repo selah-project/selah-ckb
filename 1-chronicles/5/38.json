@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و ئەحیتوب ⟨את⟩ سادۆکی بەخێوکرد و سادۆک ⟨את⟩ شالومی بەخێوکرد.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "و ئەحیتوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێوکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سادۆک"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "سادۆک"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "و سادۆک"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێوکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شالوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:47.399364085Z",
+  "model": "glm-5.3"
+}

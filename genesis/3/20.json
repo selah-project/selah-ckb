@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و مرۆڤەکە ناوی هاوسەرەی ناوا حەوە ⟨حەوا⟩، چونکە ئەو دایکی هەموو زیندوو بوو.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناو نا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤەکە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "هاوسەرەی"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "حەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندوو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:46.512554219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "با بێن، لە نانی من بخۆن و شەرابی تێکەڵم کردووە بخۆنەوە.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "با بێن"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "بخۆن"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "لە نانی من"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "و بخۆنەوە"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "شەراب"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "تێکەڵم کردووە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:49.767385341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "جلی ئەوی بگرە کە کەفلی بیانی بووە، و بۆ بیانییەکان گرفۆشی لێ بگرە.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "بگرە"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "جلی ئەوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کەفلی بووە"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیانی"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "بیانییەکان"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "گرفۆشی لێ بگرە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:52.428247621Z",
+  "model": "glm-5.3"
+}

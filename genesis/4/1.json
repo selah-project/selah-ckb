@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ئادەم ناسی ⟨את⟩ هاڤا ژنەکەی، و زگی گرت و زایین ⟨את⟩ قایین، و وت: پیاوێکم بەدەستهێناوە ⟨את⟩ یاهوە.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "و ئادەم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ناسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هاڤا"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "هاڤا"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنەکەی"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "و زگی گرت"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "و زایین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قایین"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایین"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "بەدەستم هێناوە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:52.376227380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ناوی ⟨את⟩ ناوهکەی داینا یۆسێف ⟨یوسف⟩، بە وتن: یاهوە بۆم زیاد بکات کوڕێکی دیکە",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "و داینا ناوی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناوهکەی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوهکەی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف ⟨یوسف⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "زیاد بکات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:13.641963855Z",
+  "model": "glm-5.3"
+}

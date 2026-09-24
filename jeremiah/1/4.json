@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و وشەی یاهوە بۆم ھات وتی:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:37:32.137859603Z",
+  "model": "glm-5.3"
+}

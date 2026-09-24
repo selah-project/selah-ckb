@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و نۆح پیاوی زەوی دەستی پێکرد و باخڕەکی ترێی ڕۆیەند.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "و دەستی پێکرد"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "و ڕۆیەند"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "باخڕەکی ترێ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:42.827182065Z",
+  "model": "glm-5.3"
+}

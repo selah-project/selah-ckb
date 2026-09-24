@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و دانیێل ⟨هەبوو⟩ هەتا ساڵی یەکەمی کۆرەش پاشا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیێل ⟨دانیال⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "کۆرەش ⟨سایرس⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:00:35.619586059Z",
+  "model": "glm-5.3"
+}

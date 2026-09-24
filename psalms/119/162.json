@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "شادم لەسەر قسەی تۆ، وەک دۆزیراوێکی غەنیمەتی زۆر.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "شادم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "قسەی تۆ"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "وەک دۆزیراوێکی"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "غەنیمەتی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:24.285012234Z",
+  "model": "glm-5.3"
+}

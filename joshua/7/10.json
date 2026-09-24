@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و یاهوە بۆ یەهوشوا فەرموو: هەستە بۆ خۆت؛ بۆچی ئەمە تۆ لەسەر ڕووت کەوتبیت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهوشوا ⟨یشوع⟩"
+    },
+    {
+      "surface": "קם",
+      "gloss": "هەستە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "کەوتبیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:54:34.244078514Z",
+  "model": "glm-5.3"
+}

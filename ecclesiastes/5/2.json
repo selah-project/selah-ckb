@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چونکە خەون لە زۆر دڵەڕاوکێدا دێت و دەنگی نەفامیش لە زۆر وشەدایە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "خەون"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "لە زۆر"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "دڵەڕاوکێ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "و دەنگی"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نەفام"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "لە زۆر"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "وشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:26.288408888Z",
+  "model": "glm-5.3"
+}

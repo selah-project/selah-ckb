@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "گوشاوێکی درۆ بەرز مەکە، دەستت لەگەڵ خراپەکار دانەنێ بۆ ئەوەی ببیت بە شایەتی زوڵم.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "بەرز مەکە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوشاو"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "دانەنێ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپەکار"
+    },
+    {
+      "surface": "להית",
+      "gloss": "بۆ ئەوەی ببیت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شایەت"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زوڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:49.628752985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 81,
+  "translation": "ئێلێکی بیانی لە تۆدا نەبێت و بۆ ئێلێکی بیانی خۆ نەچەمۆریت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە تۆدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێلێکی"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیانی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "خۆ چەمۆردن"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "بۆ ئێلێکی"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:01.701811127Z",
+  "model": "glm-5.3"
+}

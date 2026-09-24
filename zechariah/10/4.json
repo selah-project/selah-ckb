@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "لەو گۆشە بەرد، لەو میخ، لەو کەوانی شەڕ، لەو هەموو سەرکێش پێکەوە دێتە دەرەوە.",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "لەو"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "گۆشە بەرد"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لەو"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "میخ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لەو"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کەوانی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لەو"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "دێتە دەرەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "سەرکێش"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:21.702053905Z",
+  "model": "glm-5.3"
+}

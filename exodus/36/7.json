@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و کارەکە بەس بوو بۆ هەموو کارەکە بۆ کردنی ⟨את⟩ ئەو، و ماوە بوو.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "و کارەکە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דים",
+      "gloss": "بەس"
+    },
+    {
+      "surface": "لכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردنی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "کارەکە"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "و ماوە بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:56:17.972740163Z",
+  "model": "glm-5.3"
+}

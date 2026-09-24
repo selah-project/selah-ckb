@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ئەلیشاماع و بەئێلیاداع و ئەلیپالێت.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "و ئەلیشاماع"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "و بەئێلیاداع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "و ئەلیپالێت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:08.755128581Z",
+  "model": "glm-5.3"
+}

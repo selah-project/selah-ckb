@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "بێزاری یاهوە تاشە و تاشەیە، و تەرازووی فێڵکاری باش نییە.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "بێزاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "تاشە"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و تاشە"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "و تەرازووی"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فێڵکاری"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش نییە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:04.821111Z",
+  "model": "glm-5.3"
+}

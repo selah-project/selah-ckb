@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئەوکات شێلۆمۆ ⟨مۆشە⟩ بۆ عێتسیۆن گێبەر و بۆ ئێیلۆت ڕۆیشت، لە کەناری دەریاکە، لە زەوی ئەدۆم.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ڕۆیشت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شێلۆمۆ"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "بۆ عێتسیۆن"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گێبەر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ئێیلۆت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کەناری"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریاکە"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:01.277250281Z",
+  "model": "glm-5.3"
+}

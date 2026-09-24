@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ئەشتۆن ⟨את⟩ بەیت-ڕافا و ⟨את⟩ پاسەئاح و ⟨את⟩ تەحینا باوکی عیر-ناحاشی بەخێو کرد؛ ئەمانە پیاوانی ڕێکان.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "و ئەشتۆن"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەیت-ڕافا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ڕافا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پاسەئاح"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پاسەئاح"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تەحینا"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "تەحینا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ناحاش"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "ڕێکا"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:32.098815040Z",
+  "model": "glm-5.3"
+}

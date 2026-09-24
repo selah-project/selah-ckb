@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "سامان هاوەکان زۆر زیاد دەکات، و هەژار لە هاوەکەی جیا دەبێتەوە",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "زیاد دەکات"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "هاوەکان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "و هەژار"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "لە هاوەکەی"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "جیا دەبێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:37.318961289Z",
+  "model": "glm-5.3"
+}

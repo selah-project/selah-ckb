@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "حەداد، و تێما، یەتور، نەفیش، و قەدمە.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "حەداد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "و تێما"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "یەتور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نەفیش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "و قەدمە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:12.399902828Z",
+  "model": "glm-5.3"
+}

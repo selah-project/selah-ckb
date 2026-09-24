@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "سۆر قەڵایەکی بۆ خۆی بنیات نا و زیوی وەک خۆڵ و زێڕی وەک قوڕی شەقامەکان کۆکردەوە.",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "بنیات نا"
+    },
+    {
+      "surface": "צר",
+      "gloss": "سۆر"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "قەڵا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "و کۆکردەوە"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "وەک خۆڵ"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "و زێڕ"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "وەک قوڕ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "شەقامەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:51.311033168Z",
+  "model": "glm-5.3"
+}

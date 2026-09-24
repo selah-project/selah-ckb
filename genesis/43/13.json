@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "و ⟨את⟩ براکانی خۆتان ببەن و هەستن و بگەڕێنەوە بۆ لای ئەو پیاوە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "براکانی خۆتان"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "براکانی خۆتان"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ببەن"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "و هەستن"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "بگەڕێنەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ئەو پیاوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:38.988656018Z",
+  "model": "glm-5.3"
+}

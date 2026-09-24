@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە تاحات ڕۆیشتن و لە تارەح چادر هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "لە تاحات"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "چادر هەڵکێشا"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "لە تارەح"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:25.368271093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "هێشتا زەوی و دەشتەکان و سەری خۆڵەکانی جیهانی نەکردبوو،",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردبوو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "و دەشتەکان"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "و سەری"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "خۆڵەکان"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "جیهان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:10.459048997Z",
+  "model": "glm-5.3"
+}

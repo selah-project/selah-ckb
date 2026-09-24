@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 25:30",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "«بۆ بیست و سێیەم بۆ مەحەزیئۆت کوڕەکانی و براکانی دوازدە»",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "بۆ سێیەم"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "למחזיאות",
+      "gloss": "بۆ مەحەزیئۆت"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:55.018895042Z",
+  "model": "glm-5.3"
+}

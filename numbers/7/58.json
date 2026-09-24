@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "یەک چەڵەمێڕی بزن بۆ قوربانیی تاوان.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "چەڵەمێڕ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "بۆ قوربانیی تاوان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:16:24.722756657Z",
+  "model": "glm-5.3"
+}

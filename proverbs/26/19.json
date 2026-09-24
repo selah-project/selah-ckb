@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "هەر بەم شێوەیە پیاوێک هاوڕێی خۆی ⟨את⟩ فریو دەدات و دەڵێت: ئایا من یاری ناکەم؟",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "هەر بەم شێوەیە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "فریو دەدات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هاوڕێی خۆی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی خۆی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "یاری ناکەم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:19.692225783Z",
+  "model": "glm-5.3"
+}

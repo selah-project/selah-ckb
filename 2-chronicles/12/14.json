@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و کارە خراپەکەی کرد چونکە دڵی خۆی ئامادە نەکرد بۆ گەڕان بەدوای ⟨את⟩ یاهوە",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "خراپەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەکرد"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ئامادە کرد"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی خۆی"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "بۆ گەڕان بەدوای"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:27.203343119Z",
+  "model": "glm-5.3"
+}

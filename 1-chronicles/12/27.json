@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "لە کوڕانی لێڤی چوار هەزار و شەش سەد.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:55.637512139Z",
+  "model": "glm-5.3"
+}

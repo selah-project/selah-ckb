@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "دەستی چەپی لەژێر سەرمدایە و دەستی ڕاستی دەقاژەم دەگرێت.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "دەستی چەپی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سەرم"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "و دەستی ڕاستی"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "دەقاژەم دەگرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:50:57.696071278Z",
+  "model": "glm-5.3"
+}

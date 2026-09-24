@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 58,
+  "translation": "ون ببن وەک ئاو، بۆ ئەوان تێپەڕن؛ کەوانەکەی دەکێشێت، تیرەکەی وەکو ببڕدرێن",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "ون ببن"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "تێپەڕن"
+    },
+    {
+      "surface": "لמו",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "دەکێشێت"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "تیرەکەی"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەکو"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "ببڕدرێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:08.496252349Z",
+  "model": "glm-5.3"
+}

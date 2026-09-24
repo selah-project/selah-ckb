@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئەگەر لە پیاوێکدا گوناهێک بێت کە حوکمی مردنە و بکوژرێت و تۆ ⟨את⟩ ئەوی لەسەر دارێک هەڵبکەیت.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "لە پیاوێکدا"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گوناهێک"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حوکمی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردن"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "و بکوژرێت"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "و هەڵبکەیت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "ئەو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دارێک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:02.660116170Z",
+  "model": "glm-5.3"
+}

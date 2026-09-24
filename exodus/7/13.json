@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و دڵی پەرعەون قایم بوو و گوێی نەگرت بۆ ئەوان، وەک یاهوە فەرمووی بوو.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "قایم بوو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرعەون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێی نەگرت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرمووی بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:38:21.440271142Z",
+  "model": "glm-5.3"
+}

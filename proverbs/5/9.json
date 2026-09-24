@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "نەوەک شکۆت بە ئەوانی تر بدەیت، و ساڵەکانت بە بێبەزەیەک.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "نەوەک"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بدەیت"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "بە ئەوانی تر"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "شکۆت"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "و ساڵەکانت"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "بە بێبەزەیەک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:23.940368618Z",
+  "model": "glm-5.3"
+}

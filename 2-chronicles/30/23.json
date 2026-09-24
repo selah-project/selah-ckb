@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و هەموو کۆڕەکە بڕیاریاندا حەوت ڕۆژی دیکە بگێڕن، و حەوت ڕۆژیان بە شادی گێڕا.",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "و بڕیاریاندا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کۆڕەکە"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ گێڕان"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "و گێڕا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:45:13.873748562Z",
+  "model": "glm-5.3"
+}

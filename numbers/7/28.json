@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بەزنێکی نەر یەک بۆ قوربانیی خەتا.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بەزنێکی نەر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بەزن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "بۆ قوربانیی خەتا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:25.995614170Z",
+  "model": "glm-5.3"
+}

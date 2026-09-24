@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 55,
+  "translation": "وای، ئەی هەموو تینووەکان، وەرن بۆ ئاوەکان، و ئەوەی زیوی نییە بۆی، وەرن، بکڕن و بخۆن، و وەرن، بکڕن بەبێ زیو و بەبێ نرخ شەراب و شیر.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "تینوو"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "وەرن"
+    },
+    {
+      "surface": "למים",
+      "gloss": "بۆ ئاوەکان"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و ئەوەی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "وەرن"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "بکڕن"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "و بخۆن"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "و وەرن"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "بکڕن"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "و بەبێ"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "نرخ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شەراب"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "و شیر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:31:52.107582966Z",
+  "model": "glm-5.3"
+}

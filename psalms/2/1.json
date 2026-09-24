@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "بۆچی گەلەکان هەڕەشەیان کرد و خەڵکەکان بە بەتاڵی قسەیان کرد؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "هەڕەشەیان کرد"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "و خەڵکەکان"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "قسەیان کرد"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "بە بەتاڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:25.404061339Z",
+  "model": "glm-5.3"
+}

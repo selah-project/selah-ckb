@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "میراتمان گۆڕدرا بۆ بیگانەکان، خانووەکانمان بۆ نامەندان.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "میراتمان"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "گۆڕدرا"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "بۆ بیگانەکان"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "خانووەکانمان"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "بۆ نامەندان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:10.473337944Z",
+  "model": "glm-5.3"
+}

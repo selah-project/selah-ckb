@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و یۆسێف ⟨یوسف⟩ بۆ ئەوانی وت: ئەوەیە کە بۆ ئێوەم وت، بۆ وتن: ئێوە سیخوڕن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف ⟨یوسف⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "وتیم"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "سیخوڕن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:00.042028249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "پیاوێک لە چیای ئێفرایم بوو و ناوی میکایەهو ⟨بوو⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "لە چیای"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "میکایەهو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:13:05.131912684Z",
+  "model": "glm-5.3"
+}

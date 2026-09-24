@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "وەک هەموو ئەم قسانە و وەک هەموو ئەم دیتنە وا ناتان ⟨ناتان⟩ قسەی کرد بۆ داود ⟨داوود⟩",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "وەک هەموو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ئەم قسانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "و وەک هەموو"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "ئەم دیتنە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەی کرد"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:15.462628954Z",
+  "model": "glm-5.3"
+}

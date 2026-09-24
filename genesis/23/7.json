@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئاڤراهام هەستا و بۆ گەلی زەوییەکە کڕنووشی برد، بۆ کوڕانی حیت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "هەستا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "کڕنووشی برد"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "بۆ گەلی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوییەکە"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حیت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:59.125528190Z",
+  "model": "glm-5.3"
+}

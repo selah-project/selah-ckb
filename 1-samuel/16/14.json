@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و ڕۆحی یاهوە لە شائوڵ ⟨ساول⟩ وەرگەڕا و ڕۆحێکی خراپ لە ⟨את⟩ یاهوەوە ئەیترساند.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "و ڕۆح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "وەرگەڕا"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائوڵ"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "ئەیترساند"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:23:10.923415722Z",
+  "model": "glm-5.3"
+}

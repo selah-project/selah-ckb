@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ئێلۆهیم راشێلی ⟨את⟩ بیرهێنا، و ئێلۆهیم گوێی لێ گرت، و زگی ⟨את⟩ کردەوە گەشا",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "بیرهێنا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راشێل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راشێل"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "گوێی لێ گرت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لێ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "کردەوە گەشا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زگی"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "زگی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:13.641679718Z",
+  "model": "glm-5.3"
+}

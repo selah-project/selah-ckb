@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و ڕۆژانی زۆر بۆ ئیسرائیل بێ ئێلۆهیمی ڕاستی و بێ کاهینی فێرکەر و بێ تۆرا ⟨بوو⟩.",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "و ڕۆژان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "بۆ ئیسرائیل"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "و بێ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "فێرکەر"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "و بێ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تۆرا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:38:22.781085680Z",
+  "model": "glm-5.3"
+}

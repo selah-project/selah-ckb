@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کوڕەکانی زێراح: زیپری و ئێتان و هێمان و کەلکۆل و دارا — هەموویان پێنج بوون.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زێراح ⟨زەرەح⟩"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زیپری"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "و ئێتان"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "و هێمان"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "و کەلکۆل"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "و دارا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "هەموویان"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:22.443217963Z",
+  "model": "glm-5.3"
+}

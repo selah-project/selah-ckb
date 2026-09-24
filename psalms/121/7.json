@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 121,
+  "translation": "یاهوە لە هەموو خراپییەوە پارێزیت دەکات، ⟨את⟩ گیانت پارێزێت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "پارێزیت دەکات"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "پارێزێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیانت"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "گیانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:35.591060270Z",
+  "model": "glm-5.3"
+}

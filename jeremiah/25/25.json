@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ⟨את⟩ هەموو پاشاکانی زیمری و ⟨את⟩ هەموو پاشاکانی عێلام و ⟨את⟩ هەموو پاشاکانی مادای",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاشاکانی"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زیمری"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاشاکانی"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عێلام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاشاکانی"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای"
+    }
+  ],
+  "timestamp": "2026-09-24T12:49:19.843160600Z",
+  "model": "glm-5.3"
+}

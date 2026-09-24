@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و یاهوە قسەی کرد لەگەڵ مۆشە ⟨موسا⟩ بە وتنەوە،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:17.075155203Z",
+  "model": "glm-5.3"
+}

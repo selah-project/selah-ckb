@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 106,
+  "translation": "و ئاوەکان دوژمنانیانی داپۆشی؛ یەکێکیان لێ نەما",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "و داپۆشی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاوەکان"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "دوژمنانیانی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکێکیان"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "لێ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "ما"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:33.691407304Z",
+  "model": "glm-5.3"
+}

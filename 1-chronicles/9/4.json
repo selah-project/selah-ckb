@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "عوتای کوڕی عەمیهود کوڕی عۆمری کوڕی ئیمری کوڕی بانی، کوڕانی پێرێتس کوڕی یهودا.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "عوتای ⟨عوثەی⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عەمیهود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "عۆمری ⟨عومری⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ئیمری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بانی ⟨بنیمین⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پێرێتس ⟨پەرێتس⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:44.707529122Z",
+  "model": "glm-5.3"
+}

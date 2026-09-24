@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 5:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ڕێگات لە نزیکی ئەو دوور بکەرەوە، و بۆ دەرگای ماڵی ئەو نزیک مەبەوە.",
+  "tokens": [
+    {
+      "surface": "הרחק",
+      "gloss": "دوور بکەرەوە"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "لە نزیکی ئەو"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ڕێگات"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "نزیک مەبەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ماڵی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:44.796244388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و هەروەها شلۆمۆ لەسەر تەختی پاشایەتی دانیشتووە.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "دانیشتووە"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تەخت"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "پاشایەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:44:32.981843481Z",
+  "model": "glm-5.3"
+}

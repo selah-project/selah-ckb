@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 81,
+  "translation": "ئای گەلی من گوێ بگرن بۆ من ئیسرائێل لە ڕێیەکانی مندا دەڕۆن",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ئای"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەلی من"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ بگرن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائێل"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "لە ڕێیەکانی مندا"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "دەڕۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:23.854824608Z",
+  "model": "glm-5.3"
+}

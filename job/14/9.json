@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لە بۆنی ئاواوە شین دەبێتەوە و لقی وەک چاندنێک دەڕوێنێت",
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "لە بۆنی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "شین دەبێتەوە"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و دەڕوێنێت"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "لقی"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "چاندنێک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:47.274019189Z",
+  "model": "glm-5.3"
+}

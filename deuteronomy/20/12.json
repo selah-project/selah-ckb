@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و ئەگەر لەگەڵت ئاشتێتی ناکات و لەگەڵت شەڕ دەکات، و لەسەری گەمارۆی دەدەیت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "ئاشتێتی ناکات"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵت"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "و دەکات"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵت"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "و گەمارۆی دەدەیت"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:52.223879297Z",
+  "model": "glm-5.3"
+}

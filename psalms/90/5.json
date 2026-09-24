@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 90,
+  "translation": "وەک لافاو ڕایانگرتووە، خەو بوون، لە بەیانیدا وەک گیا دەگوزەرێت.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "ڕایانگرتووە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "خەو"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "لە بەیانیدا"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "وەک گیا"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "دەگوزەرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:38.093142243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "پیلەگەشی کالەب مەئاخا شەبێر و ⟨את⟩ تیرحانای بوو.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "پیلەگەش"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالەب"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مەئاخا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شەبێر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تیرحانا"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "تیرحانا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:20.661550262Z",
+  "model": "glm-5.3"
+}

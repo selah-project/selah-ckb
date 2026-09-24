@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و یاهوە وەڵامی ⟨את⟩ ئەیوب دایەوە و فەرموو.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "وەڵامی دایەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەیوب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەیوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:51.679603975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "تۆ ئەی یاهوە دەیپارێزیت، دەیپارێزیت لەم نەوە بۆ هەمیشە.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "دەیپارێزیت"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "دەیپارێزیت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "نەوەکە"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:21.516091284Z",
+  "model": "glm-5.3"
+}

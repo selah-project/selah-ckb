@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 31:29",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "زۆر کچان کارێکی توانا کردند، و تۆ لە سەرووی هەموویان بەرز بووی.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچان"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردن"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "کارێکی توانا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "بەرز بووی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە سەرووی"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "هەموویان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:22.454955668Z",
+  "model": "glm-5.3"
+}

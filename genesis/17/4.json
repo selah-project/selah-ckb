@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "من ئەوەتا پەیمانەکەم لەگەڵ تۆیە ⟨את⟩، و دەبیتە باوکی کۆمەڵێ زۆری گەلان.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "پەیمانەکەم"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ لەگەڵ تۆ",
+      "marks": "تۆ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "و دەبیت"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "بۆ باوک"
+    },
+    {
+      "surface": "המון",
+      "gloss": "کۆمەڵێ زۆر"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:54.149266179Z",
+  "model": "glm-5.3"
+}

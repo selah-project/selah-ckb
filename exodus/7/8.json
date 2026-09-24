@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و یاهوە فەرمویەوە بۆ مۆشە ⟨موسا⟩ و بۆ ئەهارۆن بەم زوانە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمویەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئەهارۆن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:36:58.630353269Z",
+  "model": "glm-5.3"
+}

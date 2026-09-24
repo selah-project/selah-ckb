@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "چونکە یاهوە هەرە بەرزە، ترسناکە، پاشایەکی گەورەیە لەسەر هەموو زەوی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "هەرە بەرز"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ترسناک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشایەک"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:21.432967706Z",
+  "model": "glm-5.3"
+}

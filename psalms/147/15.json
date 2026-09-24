@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 147,
+  "translation": "ئەوەی فەرمانی خۆی دەنێرێت بۆ زەوی، لەخێrabkward یەکسەر دەڕوات فەرمانی ئەو.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "دەنێرێت"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "فەرمانی خۆی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "بۆ زەوی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מהرה",
+      "gloss": "یەکسەر"
+    },
+    {
+      "surface": "یרוץ",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "فەرمانی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:01.327373131Z",
+  "model": "glm-5.3"
+}

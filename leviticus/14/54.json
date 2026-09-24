@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ئەمە تۆرایە بۆ هەموو پەڵەی تساراعات و بۆ قوچەک.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تۆرا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "پەڵە"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "تساراعات"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "و بۆ قوچەک"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:08.303851689Z",
+  "model": "glm-5.3"
+}

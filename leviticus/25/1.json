@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و یاهوە لەگەڵ مۆشە ⟨موسا⟩ لە چیای سینای قسەی فەرموو بەم زوانی:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیا"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینای"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زوانی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:24.535363595Z",
+  "model": "glm-5.3"
+}

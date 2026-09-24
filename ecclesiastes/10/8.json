@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "کۆڵکەر ⟨لە⟩ کونێک دەکەوێتە ناوی، و شکێنەری دیوار مارێک ⟨بە⟩ دەیدەنێت.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "کۆڵکەر"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "کون"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨لە⟩ ناوی"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "دەکەوێت"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "و شکێنەری"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "⟨بە⟩ دەیدەنێت"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مارێک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:39.329645066Z",
+  "model": "glm-5.3"
+}

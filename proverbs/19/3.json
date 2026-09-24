@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "گەمژایی مرۆڤ ڕێگای دەشێوانێت و لەسەر یاهوە دڵی توڕە دەبێت",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "گەمژایی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "دەشێوانێت"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "توڕە دەبێت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:37.318795472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چونکە بوونەوێری تینی پیاوە، و لە ڕۆژی تۆڵەسەندنەوە دڵی ناخۆش نابێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "بوونەوێری"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "تینی"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پیاوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יחמول",
+      "gloss": "دڵی ناخۆش دەبێت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "تۆڵەسەندنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:39.894889400Z",
+  "model": "glm-5.3"
+}

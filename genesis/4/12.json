@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە زەوییەکە ⟨את⟩ دەکەنیت، زیاتر هێزی خۆی بە تۆ نادات؛ سەرگەردان و هەڵاتوو دەبیت لە زەویدا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "دەکەنیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەوییەکە"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەوییەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "زیاتر"
+    },
+    {
+      "surface": "תת",
+      "gloss": "نادات"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "هێزی خۆی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "נע",
+      "gloss": "سەرگەردان"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "و هەڵاتوو"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبیت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:57.303498447Z",
+  "model": "glm-5.3"
+}

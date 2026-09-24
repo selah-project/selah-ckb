@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "ئەو کێڵگەیەی ئاڤراهام لە کوڕەکانی حێت ⟨מאת⟩ کڕی؛ لەوێ ئاڤراهام نێژرا و ساراها ژنی.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "کێڵگەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "کڕی"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ لە",
+      "marks": "کوڕەکانی حێت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حێت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "نێژرا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "و ساراها"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:27.445942452Z",
+  "model": "glm-5.3"
+}

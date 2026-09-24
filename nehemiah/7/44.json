@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "گۆرانیبێژەکان: کوڕەکانی ئاساف، سەد و چوارە و هەشت.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "گۆرانیبێژەکان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ئاساف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چوارە"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:15.694116113Z",
+  "model": "glm-5.3"
+}

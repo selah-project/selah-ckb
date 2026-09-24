@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "چونکە باوکم و دایکم بەجێم هێنا ⟨و⟩ یاهوە کۆم دەکاتەوە",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "و دایکم"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "بەجێم هێنا"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "کۆم دەکاتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:05.548942766Z",
+  "model": "glm-5.3"
+}

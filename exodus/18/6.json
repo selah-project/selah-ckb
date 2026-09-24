@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و بە مۆشەی وت: من زاواڵاتم یترۆ، هاتوومە لات، و ژنەکەت و دوو کوڕەکانی لەگەڵ ئەو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "زاواڵاتم"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "یترۆ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتوومە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لات"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "و ژنەکەت"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "لەگەڵ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:45:57.194463402Z",
+  "model": "glm-5.3"
+}

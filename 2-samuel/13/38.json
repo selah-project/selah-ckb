@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئاڤشالۆم ڕایکرد و ڕۆیی گەشوور و لەوێ سێ ساڵ بوو.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "و ئاڤشالۆم"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ڕایکرد"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیی"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "گەشوور"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:35:26.396738500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "لە داود. مەگڕە لە تاوانباران، مە حەسەد مەکە لە کردەوانی ستەم.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "لە داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "گڕمەخە"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "لە تاوانباران"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حەسەد مەکە"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "لە کردەوانی"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ستەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:27.667243607Z",
+  "model": "glm-5.3"
+}

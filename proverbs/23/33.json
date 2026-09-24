@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 23:33",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "چاوەکانت شتانی بێگانە دەبینن و دڵت قسەی شێواویی دەکات.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "چاوەکانت"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "دەبینن"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "شتانی بێگانە"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "و دڵت"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "قسەی دەکات"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "شێواویی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:41.703133859Z",
+  "model": "glm-5.3"
+}

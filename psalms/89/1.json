@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "فێرکارییەکەی ئێتان ئەزراحی",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "فێرکارییەکەی"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ئێتان"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ئەزراحی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:58.620854220Z",
+  "model": "glm-5.3"
+}

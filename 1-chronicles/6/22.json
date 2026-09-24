@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕی تاحات، کوڕی ئاسیر، کوڕی ئەڤیاساف، کوڕی قۆراخ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تاهات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ئاسیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "ئەڤیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قۆراخ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:56.318109428Z",
+  "model": "glm-5.3"
+}

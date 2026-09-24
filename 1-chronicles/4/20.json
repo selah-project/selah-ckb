@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و کوڕەکانی شیمۆن ئەمنۆن و ڕیننا و بێن حەنان و تیلۆن بوون؛ و کوڕەکانی ییشعێی زۆحێت و بێن زۆحێتن.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "شیمۆن"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "ئەمنۆن"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "و ڕیننا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بێن"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حەنان"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "و تیلۆن"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ییشعێی"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زۆحێت"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "و بێن"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زۆحێت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:44.529530272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ئەگەر خۆم بە بەفر شۆردبا و دەستەکانم بە قڵیا پاککردبا،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "خۆم شۆردبا"
+    },
+    {
+      "surface": "במו",
+      "gloss": "بە"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "بەفر"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "و پاککردبا"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "بە قڵیا"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "دەستەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:54.522972425Z",
+  "model": "glm-5.3"
+}

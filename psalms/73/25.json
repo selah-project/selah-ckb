@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 73,
+  "translation": "کێیە بۆ من لە ئاسمانەکاندا؟ و لەگەڵ تۆ لە زەویدا هیچم نەویستووە",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێیە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "لە ئاسمانەکاندا"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "و لەگەڵ تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ویستووە"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:48.259501259Z",
+  "model": "glm-5.3"
+}

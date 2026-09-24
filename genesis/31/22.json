@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "لە ڕۆژی سێیەمدا بە لابان ڕاگەیەندرا کە یاکۆب ⟨هەڵاتووە⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ڕاگەیەندرا"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "بە لابان"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژێکدا"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سێیەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "هەڵاتووە"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاکۆب"
+    }
+  ],
+  "timestamp": "2026-09-24T15:48:26.300031277Z",
+  "model": "glm-5.3"
+}

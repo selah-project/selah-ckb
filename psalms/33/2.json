@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "سوپاس بەیان بکەن بۆ یاهوە بە چەمچەڵە، بە دەف neuronal ⟨زەحیرەی ده تار⟩ بدەن بۆ ئەو",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "سوپاس بەیان بکەن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "بە چەمچەڵە"
+    },
+    {
+      "surface": "بנבل",
+      "gloss": "بە نەڤەڵ"
+    },
+    {
+      "surface": "עשور",
+      "gloss": "⟨ده تار⟩"
+    },
+    {
+      "surface": "זמرו",
+      "gloss": "بدەن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:59.064502841Z",
+  "model": "glm-5.3"
+}

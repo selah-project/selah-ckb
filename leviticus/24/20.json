@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "شکان لە جیاتی شکان، چاو لە جیاتی چاو، ددان لە جیاتی ددان؛ وەک زیانەکەی دا لە مرۆڤێک، هەمان بە ئەو دەدرێتەوە.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "شکان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە جیاتی"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکان"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە جیاتی"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە جیاتی"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מום",
+      "gloss": "زیانەکەی"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "لە مرۆڤێک"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەمان"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "دەدرێتەوە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بە ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:10:08.000501274Z",
+  "model": "glm-5.3"
+}

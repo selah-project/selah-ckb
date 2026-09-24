@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "چونکە قێزێتنە لای یاهوە ئێلۆهیمت هەموو کرداری ئەمانە، هەموو کرداری ناڕاستی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "قێزێتنە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرداری"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرداری"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ناڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:50.542799163Z",
+  "model": "glm-5.3"
+}

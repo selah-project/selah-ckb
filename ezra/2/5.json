@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی ئارەخ ⟨ئەی⟩ حەوت سەد و پێنج و حەفتا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ئارەخ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و حەفتا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:13.514580908Z",
+  "model": "glm-5.3"
+}

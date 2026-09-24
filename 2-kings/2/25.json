@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و لەوێوە بۆ چیای کارمێل ڕۆیی، و لەوێوە گەڕایەوە شۆمرۆن.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیی"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "کارمێل"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "و لەوێوە"
+    },
+    {
+      "surface": "שב",
+      "gloss": "گەڕایەوە"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شۆمرۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:57:40.583213741Z",
+  "model": "glm-5.3"
+}

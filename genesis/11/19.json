@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و پەلەگ دوای ئەوەی رەئوی زا نۆ ساڵ و دوو سەد ساڵ ژیا، و کوڕان و کچانی زا.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژیا"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پەلەگ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای ئەوەی"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رەئو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رەئو"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "و دوو سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:22.287137502Z",
+  "model": "glm-5.3"
+}

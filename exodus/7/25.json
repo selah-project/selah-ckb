@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و حەوت ڕۆژ پڕ بوون، دوای ئەوەی یاهوە ⟨את⟩ نیلەکەی لێدا.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "پڕ بوون"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "لێدان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیلەکە"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "نیلەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:39:33.931245806Z",
+  "model": "glm-5.3"
+}

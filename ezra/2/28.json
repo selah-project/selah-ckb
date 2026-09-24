@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "پیاوەکانی بەیت ئێل و هەعای، دوو سەد و بیست و سێ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوەکانی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "و هەعای"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:25.456936859Z",
+  "model": "glm-5.3"
+}

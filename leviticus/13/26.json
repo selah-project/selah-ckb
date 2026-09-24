@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 13:26",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئەگەر کاهین ببینێت و ئەوەتا لە پەڵەکەدا مووی سپی نییە و نزمیش نییە لە پێست، بەڵکو کاڵە، کاهین ئەوی حەوت ڕۆژ دەگرێت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "יראנה",
+      "gloss": "ببینێت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "لە پەڵەکەدا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "موو"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "سپی"
+    },
+    {
+      "surface": "ושפלה",
+      "gloss": "و نزم"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העור",
+      "gloss": "پێست"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "کاڵ"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "ئەوی دەگرێت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:05:19.171883089Z",
+  "model": "glm-5.3"
+}

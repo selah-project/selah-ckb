@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "یەک بزنێ نێر بۆ قوربانیی پێشێکاری.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بزنێ نێر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "بۆ قوربانیی پێشێکاری"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:46.212500078Z",
+  "model": "glm-5.3"
+}

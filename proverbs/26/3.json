@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "شەقاوە بۆ ئەسپ، لگام بۆ گوێدرێژ، و دار بۆ پشتی نەفامان.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "شەقاوە"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "بۆ ئەسپ"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "لگام"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "بۆ گوێدرێژ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "و دار"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "بۆ پشت"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نەفامان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:01.574376944Z",
+  "model": "glm-5.3"
+}

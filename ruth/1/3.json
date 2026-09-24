@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئێلیمێلێخ، پیاوی نائومی، مرد؛ و ئەو مایەوە — ئەو و دوو کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "ئێلیمێلێخ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "نائومی"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "و مایەوە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:51:33.503866999Z",
+  "model": "glm-5.3"
+}

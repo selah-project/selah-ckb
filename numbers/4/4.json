@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ئەمە خزمەتی کوڕانی قەهاتە لە چادری چاوپێکەوتن، پیرۆزی پیرۆزەکان.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خزمەتی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قەهات"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "لە چادری"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پیرۆزەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:58.222560161Z",
+  "model": "glm-5.3"
+}

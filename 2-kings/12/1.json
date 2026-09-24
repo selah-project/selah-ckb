@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "کوڕی حەوت ساڵ یەهۆئاش ⟨جواش⟩ بوو لە پاشایەتیدا",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یەهۆئاش ⟨جواش⟩"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "لە پاشایەتیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:05:46.995876817Z",
+  "model": "glm-5.3"
+}

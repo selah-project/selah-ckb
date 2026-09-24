@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و ئێلۆهیم ⟨את⟩ ماڵاتی باوکی ئێوەی لێ سەندەوە و دامە من.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "و لێ سەندەوە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڵات"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "باوکی ئێوە"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بە من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:48.782290199Z",
+  "model": "glm-5.3"
+}

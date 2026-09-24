@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "لە خراپی وەرگەڕۆ و چاکە بکە و بۆ هەمیشە نیشتەجێ بە.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "وەرگەڕۆ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "لە خراپی"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "و نیشتەجێ بە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:51.080497753Z",
+  "model": "glm-5.3"
+}

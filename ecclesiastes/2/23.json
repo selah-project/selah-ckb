@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "چونکە هەموو ڕۆژەکانی ئازارن و کاروباری پەشۆکاوی؛ تەنانەت لە شەویشدا دڵی ڕاوەستانی نەبوو؛ ئەمەش هەبەلە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "ئازارن"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "و پەشۆکاوی"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "کاروباری"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تەنانەت"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "لە شەویشدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەبوو"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ڕاوەستانی"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئەمەش"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەبەلە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:06.193771142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 7:19",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و یەهوشوع فەرمووی بۆ ئەخان کوڕم تکا بە یاهوە ئێلۆهیمی ییسرائیل شۆڕ بدە و سوپاسی بدە و تکا بۆم بڵێ چیم کردووە لە من مەیشارەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهوشوع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "ئەخان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شۆڕ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائیل"
+    },
+    {
+      "surface": "ותן",
+      "gloss": "و بدە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "سوپاس"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "و بڵێ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردووە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "مەیشارەوە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T10:55:41.865836430Z",
+  "model": "glm-5.3"
+}

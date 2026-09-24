@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "یاهوە ئێلۆهیمی ئێمە لە حۆرێب فەرمووی بۆ ئێمە بە وتن: بەسە بۆ ئێوە مانەوە لەسەر ئەم چیایە.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیمی ئێمە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "بۆ ئێمە"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "لە حۆرێب"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بەسە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "مانەوە"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لەسەر چیای"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:57.614552279Z",
+  "model": "glm-5.3"
+}

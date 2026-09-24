@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "ناساندنی ڕوو نایاخە، و بۆ پارچەیەک نان پیاوێک پێشێڵکاری دەکات.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "ناساندن"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نایاخ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نایاخ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "پارچە"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "پێشێڵکاری دەکات"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پیاوێک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:54.918817815Z",
+  "model": "glm-5.3"
+}

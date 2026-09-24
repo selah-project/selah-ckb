@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "⟨את⟩ سەری ساوەکانی بڕی و هێناوی بۆ خاکی کەنعان، لە شارێکی بازرگاناندا داناوی.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سەری ساوەکان"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "ساوەکانی"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "بڕی"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "و هێناوی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "خاکی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کەنعان"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "لە شارێکی"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "بازرگانان"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "داناوی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:11:26.071341205Z",
+  "model": "glm-5.3"
+}

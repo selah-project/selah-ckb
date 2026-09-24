@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "بەش بە حەوت بدە و هەروەها بە هەشت، چونکە نازانی چ ڕەشییەک لەسەر زەوی دەبێت.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "بە حەوت"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "بە هەشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "دەزانیت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ڕەشییەک"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:54.270707879Z",
+  "model": "glm-5.3"
+}

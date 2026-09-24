@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ڕاوێژ هی منە و داناییی جێگیر؛ من تێگەیشتنم؛ هێز هی منە.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "هی من"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ڕاوێژ"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "و داناییی جێگیر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "هی من"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "هێز"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:35.199565071Z",
+  "model": "glm-5.3"
+}

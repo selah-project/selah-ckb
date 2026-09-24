@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "شێوەی هەموو ماڵاتێک کە لە زەویدایە، شێوەی هەموو باڵندەیەکی باڵدار کە لە ئاسماندا دەفڕێت.",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "شێوەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "شێوەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "باڵندە"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "باڵدار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "دەفڕێت"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "لە ئاسمان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:09.223300123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و یەهودا ژنێکی بۆ عیر بەکەوت کوڕە یەکەمەکەی و ناویەکەی تامار ⟨بوو⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و بەکەوت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێک"
+    },
+    {
+      "surface": "לער",
+      "gloss": "بۆ عیر"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "کوڕە یەکەمەکەی"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و ناویەکەی"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:02.918460866Z",
+  "model": "glm-5.3"
+}

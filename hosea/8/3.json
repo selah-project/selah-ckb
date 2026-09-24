@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئیسرائیل چاکەی بەجێهێشت، دوژمن دەیکاتە ڕاو.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "بەجێهێشت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دوژمن"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "دەیکاتە ڕاو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:30:29.937808202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و ⟨את⟩ بە زێڕی پاک داپۆشی، و لێی تاجێکی زێڕی لە دەوری دروست کرد.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "و داپۆشی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕی"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و دروست کرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "זר",
+      "gloss": "تاجێکی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕی"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "لە دەوری"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:08.843750998Z",
+  "model": "glm-5.3"
+}

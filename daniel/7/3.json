@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و چوار ئاژەڵی گەورە لە دەریاکە سەردەکەون، ئەوەیە لە ئەوەیە جیاواز.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "ئاژەڵی"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "سەردەکەون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "دەریاکە"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "جیاواز"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:07:56.602651843Z",
+  "model": "glm-5.3"
+}

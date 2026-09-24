@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 52,
+  "translation": "بۆچی لە خراپیدا فەخر دەکەیت، ئەی گەورە؟ حەسەدی ئێل ⟨هەیە⟩ هەموو ڕۆژ.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "فەخر دەکەیت"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "لە خراپی"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:01.083342913Z",
+  "model": "glm-5.3"
+}

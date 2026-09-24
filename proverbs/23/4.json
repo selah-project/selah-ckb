@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بۆ دەوڵەمەندبوون ماندوو مەبە، لە تێگەیشتنی خۆت وازبهێنە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "ماندوو ببە"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "بۆ دەوڵەمەندبوون"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "لە تێگەیشتنی خۆت"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "وازبهێنە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:26.372680302Z",
+  "model": "glm-5.3"
+}

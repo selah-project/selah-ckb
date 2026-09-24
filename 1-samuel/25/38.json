@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و بوو وەک دە ڕۆژ، و یاهوە ⟨את⟩ ناڤال لێیدا و مرد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "وەک دە"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "و لێیدا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناڤال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ناڤال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T11:29:18.053580603Z",
+  "model": "glm-5.3"
+}

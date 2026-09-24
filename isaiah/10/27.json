@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 10:27",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و دەبێت لەو ڕۆژەدا بارەکەی لە شانی تۆ لادەبێت و زییەکەی لە ملێ تۆ و زی لەبەر ڕۆن دەشکێت.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "لادەبێت"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "بارەکەی"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שכמך",
+      "gloss": "شانی تۆ"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "و زییەکەی"
+    },
+    {
+      "surface": "مעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ملێ تۆ"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "و دەشکێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "زی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ڕۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:15:54.898790423Z",
+  "model": "glm-5.3"
+}

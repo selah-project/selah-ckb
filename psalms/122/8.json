@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 122,
+  "translation": "لەبەر براکانم و هاوەکانم، ئێستا دەڵێم: ئاشتی لە تۆدا.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "براکانم"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "و هاوەکانم"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "دەڵێم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە تۆدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:54.912044975Z",
+  "model": "glm-5.3"
+}

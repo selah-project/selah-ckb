@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "لەگەڵ تاوانباران مەگوێرەوە گیانم و لەگەڵ پیاوانی خوێن ژیانم",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "مەگوێرەوە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "تاوانباران"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ژیانم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:37.814000840Z",
+  "model": "glm-5.3"
+}

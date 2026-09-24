@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "⟨את⟩ بەرەکەت، کە گوێ لە فەرمانەکانی یاهوە ئێلۆهیمی خۆتان دەگرن، کە من ئەمڕۆ ⟨את⟩ ئێوە پێی دەسەپێنم.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەرەکەت"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "بەرەکەت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوێ دەگرن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فەرمانەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمی خۆتان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "دەسەپێنم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:13.817250714Z",
+  "model": "glm-5.3"
+}

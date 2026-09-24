@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و تۆ ئەی یاهوە، دوور مەکەوە، هێزی من، بۆ یارمەتیم پەلە بکە",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دوور مەکەوە"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "هێزی من"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "بۆ یارمەتیم"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "پەلە بکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:56.355129828Z",
+  "model": "glm-5.3"
+}

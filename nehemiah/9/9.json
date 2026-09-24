@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و ⟨את⟩ زەحمەتیی باوکانی ئێمە لە میتسرایمدا بینی، و ناڵەیانت لە دەریای سووف بێشت.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەحمەتی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "زەحمەتی"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "باوکانی ئێمە"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "لە میتسرایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ناڵەیان"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ناڵەیان"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "بێشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریای"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سووف"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:22.464362636Z",
+  "model": "glm-5.3"
+}

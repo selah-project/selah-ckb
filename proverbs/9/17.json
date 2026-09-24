@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ئاوی دزراو شیرینە، و نانی نێهێنییەکان خۆشە.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "دزراو"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "شیرینە"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "و نان"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "نێهێنییەکان"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "خۆشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:38.782163084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 58,
+  "translation": "زهرەکەیان وەک شێوەی زهری مار، وەک پیتەنێکی کڕ گوێی دادەخات",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "وەک شێوەی"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "پیتەن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کڕ"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "دادەخات"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "گوێی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:08.495682957Z",
+  "model": "glm-5.3"
+}

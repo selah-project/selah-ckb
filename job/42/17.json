@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و ئەیووب ⟨مرد⟩، پیر و ڕێکخراو لە ڕۆژاندا.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەیووب"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و تێر"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:18.191266724Z",
+  "model": "glm-5.3"
+}

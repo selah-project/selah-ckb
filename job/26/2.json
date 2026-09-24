@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "چۆن یارمەتیت دا بە ئەوەی هێزی نییە؟ قۆڵێکی بێهێزت چۆن ڕزگار کرد؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "یارمەتیت دا"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "بە ئەوەی نییە"
+    },
+    {
+      "surface": "כח",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "ڕزگارت کرد"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "قۆڵ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "هێز"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:09.276948695Z",
+  "model": "glm-5.3"
+}

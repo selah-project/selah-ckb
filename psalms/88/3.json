@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 88,
+  "translation": "پاڵنامەم بێتە بەردەمت، گوێت لار بێتەوە بۆ هاوارم",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "بێتە"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "بەردەمت"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "پاڵنامەم"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "لار بێتەوە"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوێت"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "بۆ هاوارم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:11.835567653Z",
+  "model": "glm-5.3"
+}

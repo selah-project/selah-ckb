@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ئەگەر مێینە بێت، با بهای تۆ سی شەکەل بێت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مێینە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "با ... بێت"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "بهای تۆ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شەکەل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:21.693406922Z",
+  "model": "glm-5.3"
+}

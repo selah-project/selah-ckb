@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 102,
+  "translation": "وەک گیا دەراکرام و دڵم وشک بوو، چونکە لە خواردنی نانەکەم لەبەرم چوو.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "دەراکرام"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "وەک گیا"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "و وشک بوو"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "لەبەرم چوو"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "لە خواردن"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "نانەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:38.051570080Z",
+  "model": "glm-5.3"
+}

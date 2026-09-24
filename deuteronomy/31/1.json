@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و مۆشە ⟨موسا⟩ ڕۆیی و ئەم قسانەی فەرموو بۆ هەموو ئیسرائیل ⟨את⟩ ئەم قسانەی.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم قسانە"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "قسانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:24.146266280Z",
+  "model": "glm-5.3"
+}

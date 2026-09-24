@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "یان تاریکییە کە نایبینیت، و کۆپی ئاو دەپووشێتت.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "دەبینیت"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "و کۆپی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "دەپووشێتت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:22.079179985Z",
+  "model": "glm-5.3"
+}

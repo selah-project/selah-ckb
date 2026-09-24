@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "بار: دومة. لای من بانگ دەکات لە سەعیر: پاسەوان، چ لە شەو؟ پاسەوان، چ لە شەو؟",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "دומה",
+      "gloss": "دومة"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "بانگ دەکات"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "لە سەعیر"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "پاسەوان"
+    },
+    {
+      "surface": "مה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "لە شەو"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "پاسەوان"
+    },
+    {
+      "surface": "مה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "لە شەو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:18:17.437317460Z",
+  "model": "glm-5.3"
+}

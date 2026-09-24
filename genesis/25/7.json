@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ئەمانە ڕۆژەکانی ساڵەکانی ژیانی ئاڤراهامن کە ژیانی، سەد ساڵ و حەفتا ساڵ و پێنج ساڵ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ساڵەکانی"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ژیانی"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژیانی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و حەفتا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:07.728448472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "«مەڵێ: وەک بۆم کرد، هەمان بۆی دەکەم؛ بە مرۆڤەکە وەک کرداری خۆی دەسەپێنمەوە».",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ڵێ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەمان"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "دەیکەم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "دەسەپێنمەوە"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ مرۆڤ"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "وەک کرداری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:28.171444284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و کوڕانی عێشێک برای ئەو: ئوولام یەکەم‌زادەی، یەعوش دووەم، و ئێلیپلێت سێیەم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "عێشێک"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای ئەو"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ئوولام"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "یەکەم‌زادەی"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "یەعوش"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "و ئێلیپلێت"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "سێیەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:01.440410420Z",
+  "model": "glm-5.3"
+}

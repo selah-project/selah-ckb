@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و پێستی قوچە سوورکراوەکان و پێستی تاهاشەکان و دارەکانی شیتیم.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "و پێستی"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "سوورکراو"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "و پێستی"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "تاهاش"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "و دارەکانی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شیتیم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:52:49.350553366Z",
+  "model": "glm-5.3"
+}

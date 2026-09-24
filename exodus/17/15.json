@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و مۆشە ⟨قوربانگا⟩یەک بونیاد نا و ناوی نا یاهوە نیسی.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "و بونیاد نا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قوربانگا"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "نیسی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:50:40.731652993Z",
+  "model": "glm-5.3"
+}

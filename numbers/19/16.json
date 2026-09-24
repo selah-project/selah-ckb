@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 19:16",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و هەر ئەوەی بگاتە سەر ڕووی کێڵگەکە، بە کوشتووی شمشێر یان بە مردوو یان بە ئێسکی مرۆڤ یان بە گۆڕ، حەوت ڕۆژ پیس دەبێت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "بگاتە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کێڵگەکە"
+    },
+    {
+      "surface": "בחלל",
+      "gloss": "بە کوشتووی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "במת",
+      "gloss": "بە مردوو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "بە ئێسکی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "بە گۆڕ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پیس دەبێت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:48.047263510Z",
+  "model": "glm-5.3"
+}

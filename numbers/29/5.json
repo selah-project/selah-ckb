@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 29:5",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و بەزێک لە بزنەکان، یەکە، قوربانیی گوناه، بۆ لێبوردن لە ئێوە.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "و بەزێک"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "لە بزنەکان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکە"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "قوربانیی گوناه"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "بۆ لێبوردن"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "لە ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:33.686951781Z",
+  "model": "glm-5.3"
+}

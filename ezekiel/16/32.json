@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ژنە زانییەکە، لە جیاتی مێردێکی خۆی، بیانییان ⟨את⟩ وەردەگرێت.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "ژنەکە"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "زانییەکە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە جیاتی"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "مێردێکی خۆی"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "وەردەگرێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیانییان"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "بیانییان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:10:05.435516198Z",
+  "model": "glm-5.3"
+}

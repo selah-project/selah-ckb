@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی گیبار نەوەد و پێنج ⟨کەس⟩ بوون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گیبار"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نەوەد"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:55.395391258Z",
+  "model": "glm-5.3"
+}

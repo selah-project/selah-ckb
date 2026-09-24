@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئایا پیاوێک ئاگر لە باوەشیدا دەگرێت و جلەکانی نەسووتێنن؟",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "ئایا ... دەگرێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "لە باوەشیدا"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "و جلەکانی"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نەـ"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "سووت دەدرێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:03.944400554Z",
+  "model": "glm-5.3"
+}

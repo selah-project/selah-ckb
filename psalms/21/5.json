@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ژیانی لەتۆ داوا کرد، دایتێدا؛ درێژیی ڕۆژەکان، بۆ هەمیشە و تا هەتا.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "داوا کرد"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لەتۆ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "دایتێدا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درێژیی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژەکان"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەمیشە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا هەتا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:59.489848220Z",
+  "model": "glm-5.3"
+}

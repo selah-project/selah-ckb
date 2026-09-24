@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "تۆ هەموو تۆڵەسەندنەکانیان و هەموو پلانەکانیان لە دژی من بینیت.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "بینیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "تۆڵەسەندنەکانیان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "پلانەکانیان"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لە دژی من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:47.190425720Z",
+  "model": "glm-5.3"
+}

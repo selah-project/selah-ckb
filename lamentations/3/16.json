@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و بە بەردۆڵکە ددانەکانی م شکاند، خستمی ناو خۆڵەمێش",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "شکاندی"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "بە بەردۆڵکە"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ددانەکانم"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "خستمی"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "ناو خۆڵەمێش"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:52.694498554Z",
+  "model": "glm-5.3"
+}

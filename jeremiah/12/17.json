@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و ئەگەر گوێ نەگرن، ئەو گەلە ⟨את⟩ دەکۆڵمەوە، کۆڵانەوە و سڕینەوە، وتاری یاهوە.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "گوێ دەگرن"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "دەکۆڵمەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەو گەلە"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "گەلە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "کۆڵانەوە"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "و سڕینەوە"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:43:16.095589498Z",
+  "model": "glm-5.3"
+}

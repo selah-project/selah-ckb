@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و شائول میکاڵی کچی، ژنی داود، بە پالتی کوڕی لایشی کە لە گالیمەوە بوو دابوو.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "و شائول"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دابوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکاڵ"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "میکاڵ"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "کچی ئەو"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "بە پالتی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "لایش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "لە گالیمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:28:17.411008107Z",
+  "model": "glm-5.3"
+}

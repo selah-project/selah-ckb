@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ناوت بانگکرد ئەی یاهوە، لە کونی نزمەکانەوە.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "بانگکرد"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "لە کونی"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "نزمەکانەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:59.016104517Z",
+  "model": "glm-5.3"
+}

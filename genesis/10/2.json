@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "کوڕانی یەفەت: گۆمەر و مەگۆگ و مادای و یاوان و توڤال و مێشێخ و تیراس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یەفەت"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گۆمەر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "و مەگۆگ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "و مادای"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "و یاوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "و توڤال"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "و مێشێخ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "و تیراس"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:16.938506750Z",
+  "model": "glm-5.3"
+}

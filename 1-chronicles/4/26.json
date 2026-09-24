@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و کوڕەکانی میشما: حەموئێل کوڕەکەی، زاکوور کوڕەکەی، شیمعی کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "میشما"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "حەموئێل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زاکوور"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:28.433053934Z",
+  "model": "glm-5.3"
+}

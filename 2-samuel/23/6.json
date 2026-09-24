@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و بەلیعەڵ وەک خاری فڕێدراو، هەموویان، چونکە بە دەست ناگیرێن.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "و بەلیعەڵ"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "وەک خار"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "فڕێدراو"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "هەموویان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەست"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ناگیرێن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:31.010366971Z",
+  "model": "glm-5.3"
+}

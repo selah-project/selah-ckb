@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "شەرەف ⟨ە⟩ە بۆ پیاو وەستان لە کێبڕکێ، و هەر نەفامێک دادەڕوات.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "شەرەف"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ پیاو"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "وەستان"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "لە کێبڕکێ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەر"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نەفامێک"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "دادەڕوات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:51.904385885Z",
+  "model": "glm-5.3"
+}

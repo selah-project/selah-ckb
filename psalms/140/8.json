@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 140,
+  "translation": "یاهوە ئادۆنای، هێزی ڕزگاریم، لە ڕۆژی چەکدا سەرمت داپۆشی.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "עז",
+      "gloss": "هێزی"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ڕزگاریم"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "داپۆشیت"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "سەرم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "چەک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:07.007653328Z",
+  "model": "glm-5.3"
+}

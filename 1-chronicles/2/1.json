@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئەمانە کوڕانی ئیسرائیلن: ڕائوبێن، شیمعۆن، لێڤی و یێهودا، ییساخار و زڤولون.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ڕائوبێن"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعۆن"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "و یێهودا"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییساخار"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "و زڤولون"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:18.597052624Z",
+  "model": "glm-5.3"
+}

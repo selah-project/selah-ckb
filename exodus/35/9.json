@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و بەردەکانی شۆهەم و بەردەکانی دانان، بۆ ئێفۆد و بۆ حوشێن.",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "و بەردەکانی"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شۆهەم"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "و بەردەکانی"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "دانان"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "بۆ ئێفۆد"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "و بۆ حوشێن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:52:35.080035460Z",
+  "model": "glm-5.3"
+}

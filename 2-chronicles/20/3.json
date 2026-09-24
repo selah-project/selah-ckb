@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و یەهۆشافات ترسا و ⟨את⟩ ڕووی خستە بۆ گەڕان لای یاهوە، و ڕۆژووی لەسەر هەموو یەهودا ڕاگەیاند.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و ترسا"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و خستە"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یەهۆشافات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووی"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "بۆ گەڕان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لای یاهوە"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و ڕاگەیاند"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ڕۆژوو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:40:07.754054246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕانی لەڤانە ⟨لەڤانە⟩، کوڕانی حەگەڤا ⟨حەگەڤا⟩، کوڕانی شەلمای ⟨شەلمای⟩،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لەڤانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "حەگەڤا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "شەلمای"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:25.750719307Z",
+  "model": "glm-5.3"
+}

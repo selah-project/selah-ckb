@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لاڤان وت: باشە کە ⟨את⟩ ئەوی بە تۆ بدەم لەوەی ⟨את⟩ ئەوی بە پیاوێکی دیکە بدەم؛ لە لام بمێنەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاڤان"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باشە"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "بیدەم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ئەوی",
+      "marks": "ئەوی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "لەوەی بیدەم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ئەوی",
+      "marks": "ئەوی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بە پیاوێک"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "بمێنەوە"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لە لام"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:20.252598017Z",
+  "model": "glm-5.3"
+}

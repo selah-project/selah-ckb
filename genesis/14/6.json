@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ⟨את⟩ حۆرییەکان لە شاخەکەیان لە سعێر هەتا ئێل فاران کە لەسەر بیابانەکەیە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حۆرییەکان"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حۆرییەکان"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "لە شاخەکەیان"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعێر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "فاران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابانەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:15:17.789263840Z",
+  "model": "glm-5.3"
+}

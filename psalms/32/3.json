@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "چونکە بێدەنگ بووم، ئێسکەکانم خۆران لە نالەی من هەموو ڕۆژ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "بێدەنگ بووم"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "خۆران"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ئێسکەکانم"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "لە نالەی من"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:21.055520664Z",
+  "model": "glm-5.3"
+}

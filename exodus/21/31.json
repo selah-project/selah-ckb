@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "یان کوڕێک بەر بدات یان کچێک بەر بدات، وەک ئەم حوکمەیە بۆی دەکرێت.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێک"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "بەر بدات"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچێک"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "بەر بدات"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "وەک ئەم حوکمەیە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم...ە"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکرێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:50:45.152545896Z",
+  "model": "glm-5.3"
+}

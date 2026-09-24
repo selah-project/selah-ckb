@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "کرمەکەت بە دوو جۆر ناتۆوێت، نەبێت پڕییەکەی تۆوەکەی کە دەتۆوێت و بەرهەمی کرمەکە پیر ببێت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "دەتۆوێت"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "کرمەکەت"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "دوو جۆر"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نەبێت"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "پیر ببێت"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "پڕییەکەی"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "تۆوەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "دەتۆوێت"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "و بەرهەمی"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "کرمەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:14.071341054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "تۆرای دانا سەرچاوەی ژیانە، بۆ چوونە لایەک لە تەڵەکانی مردن.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "تۆرای"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "سەرچاوەی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیانە"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "بۆ چوونە لایەک"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "لە تەڵەکانی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:09.620936207Z",
+  "model": "glm-5.3"
+}

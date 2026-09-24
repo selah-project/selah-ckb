@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 4:13",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "دڵی لە مرۆڤ بگۆڕدرێت و دڵی ئاژەڵێک بدرێت بە ئەو و حەوت کات بەسەری تێدەپەڕن.",
+  "tokens": [
+    {
+      "surface": "לבבה",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "אנושא",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ישנון",
+      "gloss": "بگۆڕدرێت"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "و دڵی"
+    },
+    {
+      "surface": "חיוה",
+      "gloss": "ئاژەڵ"
+    },
+    {
+      "surface": "יתיהב",
+      "gloss": "بدرێت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بە ئەو"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "עדנין",
+      "gloss": "کاتەکان"
+    },
+    {
+      "surface": "יחלפון",
+      "gloss": "تێدەپەڕن"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "بەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T15:04:20.827698397Z",
+  "model": "glm-5.3"
+}

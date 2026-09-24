@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "لە لای دەرگاکان لە دەمی شار لە دەروازەی کرانەوەکان فەریاد دەکات",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دەرگاکان"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "لە دەمی"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شار"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "دەروازەی"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "کرانەوەکان"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "فەریاد دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:38.575705866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و هاتنە لای نۆاخ، بۆ ناو کەشتییەکە، دوو دوو لە هەموو گۆشتی ئەوەی کە ڕۆحی ژیانی تێدایە.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "و هاتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆاخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کەشتییەکە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێدایە"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆحی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:42.970313325Z",
+  "model": "glm-5.3"
+}

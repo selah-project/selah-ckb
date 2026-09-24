@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "بۆ ئەوەی بڕوات لە ڕێگای چاکان و ڕێگاکانی دادپەروەران بپارێزیت.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "بڕوات"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگای"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چاکان"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "و ڕێگاکانی"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "دادپەروەران"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "بپارێزیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:16.499777613Z",
+  "model": "glm-5.3"
+}

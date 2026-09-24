@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و وت: «کرێی خۆت دیاری بکە لەسەر من و منی دەدەم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "دیاری بکە"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "کرێی خۆت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر من"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "و منی دەدەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:24:22.219122508Z",
+  "model": "glm-5.3"
+}

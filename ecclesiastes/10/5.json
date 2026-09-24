@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "خرابییەک هەیە کە لەژێر خۆردا بینیم، وەک هەڵەیەک کە لەلای پێشەوای حوکمدارەوە ⟨دەردەچێت⟩.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خرابییەک"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "وەک هەڵەیەک"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "⟨دەردەچێت⟩"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "لەلای پێشەوای"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "حوکمدارەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:39.329033066Z",
+  "model": "glm-5.3"
+}

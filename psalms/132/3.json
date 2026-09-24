@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 132,
+  "translation": "ئەگەر بچمە ناو چادرێ ماڵەکەم، ئەگەر سەربکەومە سەر کەنەفەی خەوه‌ڵگەکەم،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "بچمە"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ناو چادرێ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ماڵەکەم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "سەربکەومە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "کەنەفەی"
+    },
+    {
+      "surface": "یצועי",
+      "gloss": "خەوه‌ڵگەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:21.570154498Z",
+  "model": "glm-5.3"
+}

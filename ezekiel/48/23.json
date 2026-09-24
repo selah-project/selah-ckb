@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و ماوەکەی هۆزەکان، لە لای ڕۆژهەڵاتەوە تا لای ڕۆژاوا، بینیامین یەک ⟨پارچە⟩.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "و ماوەکەی"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "هۆزەکان"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ڕۆژهەڵاتەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "لای"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ڕۆژاوا"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:29.622614184Z",
+  "model": "glm-5.3"
+}

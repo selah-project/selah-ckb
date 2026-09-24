@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "بە چی گەنجێک ⟨את⟩ ڕێگای خۆی پاک دەکات؟ بۆ پارێزینی بەپێی وشەی تۆ.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "بە چی"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "پاک دەکات"
+    },
+    {
+      "surface": "נער",
+      "gloss": "گەنج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕێگای خۆی"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "ڕێگای خۆی"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "بۆ پارێزینی"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "بەپێی وشەی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:58.663326041Z",
+  "model": "glm-5.3"
+}

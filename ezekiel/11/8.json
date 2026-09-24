@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "شمشێرتان لێ ترسا، و شمشێر دەهێنمە سەر ئێوە — وتنی ئادۆنای یاهوە.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "لێ ترساوتان"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "و شمشێر"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "دەهێنم"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "سەر ئێوە"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتنی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:07:11.378082486Z",
+  "model": "glm-5.3"
+}

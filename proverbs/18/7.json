@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "دەمی نەفام لەناوبردنە بۆی، و لێوەکانی تەڵەن بۆ گیانی خۆی.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نەفام"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "لەناوبردن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "و لێوەکانی"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "تەڵە"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:48.980801798Z",
+  "model": "glm-5.3"
+}

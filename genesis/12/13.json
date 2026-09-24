@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "بڵێ تکایە تۆ خوشکەمی، بۆ ئەوەی باش بێت بۆ من بەخاتری تۆ و گیانم بژیت بەهۆی تۆ.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "خوشکەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "باش بێت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "بەخاتری تۆ"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "و بژیت"
+    },
+    {
+      "surface": "نפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "بەهۆی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:21.107889917Z",
+  "model": "glm-5.3"
+}

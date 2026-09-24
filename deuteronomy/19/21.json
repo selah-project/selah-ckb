@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و چاوی خۆت بەسەر ⟨هیچ⟩ دڵسۆزی نەکات — گیان بۆ گیان، چاو بۆ چاو، ددان بۆ ددان، دەست بۆ دەست، پەنجە بۆ پەنجە.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "دڵسۆزی نەکات"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "چاوی خۆت"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "بۆ گیان"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "بۆ چاو"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بۆ ددان"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بۆ دەست"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پەنجە"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "بۆ پەنجە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:32.363082296Z",
+  "model": "glm-5.3"
+}

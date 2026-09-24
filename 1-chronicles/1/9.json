@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و کوڕەکانی کووش: سەڤا و حەویلا و سەڤتا و ڕەعما و سەڤتەخا؛ و کوڕەکانی ڕەعما: شەڤا و دەدان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کووش"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "سەڤا"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "و حەویلا"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "و سەڤتا"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "و ڕەعما"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "و سەڤتەخا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "ڕەعما"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شەڤا"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "و دەدان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:55.152294445Z",
+  "model": "glm-5.3"
+}

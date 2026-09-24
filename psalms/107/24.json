@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "ئەوانە کردەکانی یاهوەیان بینی و نەواکانی لە قووڵاییدا",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ئەوانە"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کردەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "و نەواکانی"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "لە قووڵاییدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:20.942974075Z",
+  "model": "glm-5.3"
+}

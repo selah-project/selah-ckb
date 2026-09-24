@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و لە دوایان هۆشەعیا و نیسەی سەرەکانی یەهودا چوون.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "چوو"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "لە دوایان"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "هۆشەعیا"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیسەی"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سەرەکان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:38.750970429Z",
+  "model": "glm-5.3"
+}

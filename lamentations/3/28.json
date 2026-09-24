@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بە تەنها دەنیشێت و بێدەنگ دەبێت، چونکە زوڵام لەسەری داندراوە.",
+  "tokens": [
+    {
+      "surface": "ی שב",
+      "gloss": "دەنیشێت"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "بە تەنها"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "و بێدەنگ دەبێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "داندراوە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:53:14.201238478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "کورەی پاڵاوتن بۆ زیوە و کورە بۆ زێر، و پیاو بەپێی ستایشی خۆی.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "کورەی پاڵاوتن"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "بۆ زیوە"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "و کورە"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "بۆ زێر"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاو"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بەپێی"
+    },
+    {
+      "surface": "מהללו",
+      "gloss": "ستایشی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:47.978344811Z",
+  "model": "glm-5.3"
+}

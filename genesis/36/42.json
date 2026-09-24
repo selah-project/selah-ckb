@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "سەرۆک قەناز، سەرۆک تێمان، سەرۆک میتسار.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قەناز"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تێمان"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "میتسار"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:01.288924661Z",
+  "model": "glm-5.3"
+}

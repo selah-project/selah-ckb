@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئەمە خەونەکەیە؛ و لێکدانەوەکەی لەبەردەم پاشا دەڵێین.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "خەونەکەیە"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "و لێکدانەوەکەی"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "دەڵێین"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:03:24.456913268Z",
+  "model": "glm-5.3"
+}

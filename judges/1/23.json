@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و خانەی یوسێف بۆ بەیت ئێل چاودێریان نارد، و ناوی شارەکە پێشتر لوز بوو.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "و چاودێریان نارد"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانەی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بۆ بەیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پێشتر"
+    },
+    {
+      "surface": "لוז",
+      "gloss": "لوز"
+    }
+  ],
+  "timestamp": "2026-09-24T11:03:03.087006671Z",
+  "model": "glm-5.3"
+}

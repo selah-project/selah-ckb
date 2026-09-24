@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و حەشوڤەهە و ئۆهێل و بێڕێخییاهو و حەسەدییاهو، یووشاڤ حەسێد — پێنج.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "و حەشوڤەهە"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "و ئۆهێل"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "و بێڕێخییاهو"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "و حەسەدییاهو"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "یووشاڤ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسێد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:09.086950934Z",
+  "model": "glm-5.3"
+}

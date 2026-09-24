@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی ڕەئایا، کوڕەکانی ڕەتسین، کوڕەکانی نەقۆدا،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ڕەئایا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ڕەتسین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نەقۆدا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:14.406975624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 32:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و بوو، لە دوازدەیەم ساڵدا، لە مانگی دوازدەیەمدا، لە یەکەمی مانگدا، وشەی یاهوە بۆم هات، بە وتن،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "لە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دوازدەیەم"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵدا"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دوازدەیەم"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مانگی"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "لە یەکەم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگدا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم هات"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:20:03.920306451Z",
+  "model": "glm-5.3"
+}

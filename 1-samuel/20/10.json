@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و داود بە یەهۆناتان وتی: «کێ بۆ من دەڵێت؟ یان چی ئەگەر باوکت بە توندی وەڵامت بداتەوە؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یەهۆناتان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "وەڵامت دەداتەوە"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "بە توندی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:24:45.418902114Z",
+  "model": "glm-5.3"
+}

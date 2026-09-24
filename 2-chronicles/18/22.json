@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ئێستا ئەوەتا یاهوە ڕۆحی درۆی داوەتە دەمی ئەم پێغەمبەرانەی تۆ، و یاهوە خراپی لەسەرت قسە کردووە.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داوەتە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "پێغەمبەرانەت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەی کردووە"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەرت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:38:36.695360658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "خەو بۆ چاوەکانت مەدە و چڕتووەی بۆ پلکەکانت",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "خەو"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "بۆ چاوەکانت"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "و چڕتووە"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "بۆ پلکەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:46.775344138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و وتیان: با کچە گەنجەکە بانگ بکەین و ⟨את⟩ دەمی ئەو بپرسین.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و وتیان"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "با بانگ بکەین"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "کچە گەنجەکە"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "و بپرسین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەمی ئەو"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "دەمی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:51.499740211Z",
+  "model": "glm-5.3"
+}

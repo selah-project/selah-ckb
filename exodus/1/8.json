@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و پاشایەکی نوێ هەستایەوە لەسەر میتسرایم، کە یوسێفی نەدەناسی ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و هەستایەوە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشایەکی"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوێ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەناسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسێف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:13.992585079Z",
+  "model": "glm-5.3"
+}

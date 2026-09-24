@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و یاهوە قسەی بۆ مۆشە ⟨موسا⟩ فەرموو بەم وتەیەوە.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم وتەیەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:03.379834435Z",
+  "model": "glm-5.3"
+}

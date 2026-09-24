@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "دەڕفێنێت باوکی و دایکی و دەڵێت پێشێڵکاری نییە — هاوەڵە ئەو بۆ پیاوێکی تێکدەر.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "دەڕفێنێت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "و دایکی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "پێشێڵکاری"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "هاوەڵ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ پیاوێکی"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "تێکدەر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:54.919831925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "لە ساڵی هەژدەیەمی پاشایەتی یۆشیاهودا ئەم پێساخە کرایی.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "لە هەژدە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "یەم"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "پاشایەتی"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یۆشیاهو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کرایی"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پێساخەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:46:26.275733863Z",
+  "model": "glm-5.3"
+}

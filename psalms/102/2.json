@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 102,
+  "translation": "ئەی یاهوە، تەپلەی من ببیستە و هاوارم بۆ تۆ بێت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ببیستە"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "تەپلەی من"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "و هاوارم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "بێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:10.267336718Z",
+  "model": "glm-5.3"
+}

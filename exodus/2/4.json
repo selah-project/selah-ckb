@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و خوشکەی لە دوورەوە ڕاوەستا بۆ ئەوەی بزانێت چی بۆی دەکرێت.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "و ڕاوەستا"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "خوشکەی"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "لە دوورەوە"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "بۆ زانین"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکرێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:36:46.120800952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 63,
+  "translation": "مەزمووری داودە، کاتێک لە بیابانی یاهودا بوو.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ی داود"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "کاتێک بوو"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیابان"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یاهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:42.399016098Z",
+  "model": "glm-5.3"
+}

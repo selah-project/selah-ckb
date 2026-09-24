@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "هەروەها لە منیشدا دڵ هەیە وەک لای ئێوە، نا، من لە ئێوە کەمتر نیم، و ⟨את⟩ کێیە کە وەک ئەمانە نییە؟",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لە منیشدا"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "وەک لای ئێوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "کەمتر نیم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "لە ئێوە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کێ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:59.955939686Z",
+  "model": "glm-5.3"
+}

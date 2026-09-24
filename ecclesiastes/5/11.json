@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "شیرینە خەوتنی کارگەر، ئەگەر کەم بخوات و ئەگەر زۆر؛ بەڵام تێری دەوڵەمەند ڕێی پێنادات بخەوێت.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "شیرینە"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "خەوتنی"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "کارگەر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کەم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخوات"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "بەڵام تێری"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "دەوڵەمەند"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "ڕێی پێنادات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "بخەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:02.031203921Z",
+  "model": "glm-5.3"
+}

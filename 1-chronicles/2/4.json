@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و تامار، بووکەکەی، ⟨את⟩ پەرێتس و ⟨את⟩ زێراخی بۆ لەدایک کرد. هەموو کوڕانی یێهودا پێنج بوون.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "و تامار"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "بووکەکەی"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "لەدایک کرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەرێتس"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پەرێتس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زێراخ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زێراخ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یێهودا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:18.597710373Z",
+  "model": "glm-5.3"
+}

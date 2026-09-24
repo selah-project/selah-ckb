@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و لەناو شیرەکاندا گەڕا، شێرێکی گەنج بوو، و فێری دڕاندنی ڕاو بوو، مرۆڤی دەخوارد.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "و گەڕا"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "لەناو"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "شیرەکان"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "شێری گەنج"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "و فێربوو"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "بۆ دڕاندن"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ڕاو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "دەخوارد"
+    }
+  ],
+  "timestamp": "2026-09-24T13:12:25.363016035Z",
+  "model": "glm-5.3"
+}

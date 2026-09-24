@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "و کەمبوونەوە و شکستهو بوون لەژێر سەرکوت و خراپە و خەمیدا.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "کەمبوونەوە"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "شکستهو بوون"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "سەرکوت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "خەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:19.290272202Z",
+  "model": "glm-5.3"
+}

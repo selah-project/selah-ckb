@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "تکایە پێم بەچم و ⟨את⟩ زەویەکە چاکەکە ببینم کە لە ئەوپاڕی ئوردێنەکەیە، ئەو چیایە چاکە و لوبنان.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "پێم بەچم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "و ببینم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە چاکەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "چاکەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "لە ئەوپاڕی"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ئوردێنەکە"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ئەو چیایە"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "و لوبنان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:03.075357672Z",
+  "model": "glm-5.3"
+}

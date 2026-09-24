@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 63,
+  "translation": "چونکە حەسەدت لە ژیان باشترە، لێوارەکانم ستایشت دەکەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حەسەدت"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "لە ژیان"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوارەکانم"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "ستایشت دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:42.399618388Z",
+  "model": "glm-5.3"
+}

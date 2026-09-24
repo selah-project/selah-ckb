@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 18:12",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "برسیێتی هێزی دەبێت، و بەڵا لە لای ئامادەیە",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "برسیێتی"
+    },
+    {
+      "surface": "אנו",
+      "gloss": "هێزی"
+    },
+    {
+      "surface": "ואיד",
+      "gloss": "و بەڵا"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ئامادەیە"
+    },
+    {
+      "surface": "לצלעו",
+      "gloss": "لە لای"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:00.649158330Z",
+  "model": "glm-5.3"
+}

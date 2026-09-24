@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "دڵێکی پاک بۆ من دروست بکە ئەی ئێلۆهیم و ڕۆحێکی ڕاست لە ناوەوەم نوێ بکەرەوە.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دڵێکی"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "دروست بکە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "و ڕۆحێکی"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوێ بکەرەوە"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "لە ناوەوەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:02.006421738Z",
+  "model": "glm-5.3"
+}

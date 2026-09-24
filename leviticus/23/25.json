@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "هیچ کاری خزمەت ناکەن و قوربانیی سووتاندن بۆ یاهوە پێشکەش دەکەن",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خزمەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "دەکەن"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "و پێشکەش دەکەن"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "قوربانیی سووتاندن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:20.996131143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "دروێنە تێپەڕی، هاوین تەواو بوو، و ئێمە نەجات نەدراین.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "تێپەڕی"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "دروێنە"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "تەواو بوو"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "هاوین"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "و ئێمە"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "نەجات دراین"
+    }
+  ],
+  "timestamp": "2026-09-24T15:59:57.270887663Z",
+  "model": "glm-5.3"
+}

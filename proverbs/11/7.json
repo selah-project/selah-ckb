@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "لە مەرنی مرۆڤی شەڕەکاردا هیوا فەوت دەبێت، و چاوەڕوانیی هێز فەوت چووە.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "لە مەرندا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شەڕەکار"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "فەوت دەبێت"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "هیوا"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "و چاوەڕوانیی"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "فەوت چووە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:37.154873395Z",
+  "model": "glm-5.3"
+}

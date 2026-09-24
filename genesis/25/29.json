@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "یەعقوب شۆربایەکی کوڵاند، و عیساو لە کێڵگەکەوە هات، و ئەو ماندوو بوو.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "کوڵاند"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "شۆربایەکی"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کێڵگەکەوە"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ماندوو بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:49.692337417Z",
+  "model": "glm-5.3"
+}

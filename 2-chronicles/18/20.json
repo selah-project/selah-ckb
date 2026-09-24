@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ڕۆحەکە دەرچوو و لەبەردەم یاهوە ڕاوەستا و وت: من فێڵی دەدەم؛ و یاهوە فەرمووی بۆ ئەو: بە چی؟",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ڕۆحەکە"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "و ڕاوەستا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "فێڵی دەدەم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "במה",
+      "gloss": "بە چی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:38:39.558361138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بۆ بۆنەکانی روونەکانت چاکن، روونێکی ڕێخراوە ناوت؛ لەبەر ئەوە کچە لاوەکان خۆشیان دەوێت.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "بۆ بۆنەکانی"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "روونەکانت"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چاکن"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "روونێکی"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "ڕێخراوە"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "کچە لاوەکان"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "خۆشیان دەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:22.354634562Z",
+  "model": "glm-5.3"
+}

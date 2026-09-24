@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "لە ڕێگەی دانایی ڕێنماییتم کرد، لە بازنەکانی ڕاستیدا پێت بردم.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگەی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "ڕێنماییتم کرد"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "پێت بردم"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "لە بازنەکانی"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:32.481678673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و لەشکرەکەی و ژماردنەکانیان یەک و چل هەزار و پێنج سەدن.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "و لەشکرەکەی"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "و ژماردنەکانیان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:04.508935821Z",
+  "model": "glm-5.3"
+}

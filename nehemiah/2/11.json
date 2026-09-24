@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و هاتمە یەروشالێم ⟨یەرووشالێم⟩، و سێ ڕۆژ لەوێ بووم.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "و هاتمە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یەروشالێم"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "و بووم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:15:26.415903625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "ئەوەی گوێی لە بیستنی تۆرا دەچەرخێنێت، تەنانەت نوێژەکەشی بێزارییە",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "دەچەرخێنێت"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "گوێی"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "لە بیستن"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تۆرا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تەنانەت"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "نوێژەکەشی"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "بێزارییە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:26.534102792Z",
+  "model": "glm-5.3"
+}

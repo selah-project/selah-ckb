@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "یاهوە لەسەر ئەمە پەشیمان بوو: نابێت، فەرمووی یاهوە.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "پەشیمان بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:35:50.044153484Z",
+  "model": "glm-5.3"
+}

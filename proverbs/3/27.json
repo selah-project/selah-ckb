@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 3:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چاکە لە خاوەنەکەی مەبەرە، کاتێک دەستانی تۆ بۆ ئێل دەست دەدات بۆ کردن.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مەبەرە"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "بگرە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "מבעליו",
+      "gloss": "لە خاوەنەکەی"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "بۆ ئێل"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "دەستانی تۆ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:06.383890247Z",
+  "model": "glm-5.3"
+}

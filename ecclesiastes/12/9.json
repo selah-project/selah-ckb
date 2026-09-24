@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و زۆتر لەوەی قۆهێلێت دانا بوو، هێشتا گەلی زانی فێری کرد، و گوێی گرت و پشکنی و مەسەلەکانی زۆر ڕێکخست.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "و زۆتر"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قۆهێلێت"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "למד",
+      "gloss": "فێری کرد"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "و گوێی گرت"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "و پشکنی"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "ڕێکخست"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "مەسەلەکان"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:48.228012245Z",
+  "model": "glm-5.3"
+}

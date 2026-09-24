@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "ئەی ئێلۆهیم، تۆ دەیزانی نەفامیم، و تاوانەکانم لە تۆوە نشاراونەوە.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "دەیزانی"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "نەفامیم"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "و تاوانەکانم"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "شاراونەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:32.112377658Z",
+  "model": "glm-5.3"
+}

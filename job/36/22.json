@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 36:22",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "ئەوەتا ئێل بە توانای خۆی بەرز دەکاتەوە، کێ وەکی فێرکەرە؟",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ישגיב",
+      "gloss": "بەرز دەکاتەوە"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "بە توانای خۆی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "وەکی"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "فێرکەر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:45:00.228044334Z",
+  "model": "glm-5.3"
+}

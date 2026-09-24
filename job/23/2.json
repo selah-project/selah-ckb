@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 23:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "هەر ئەمڕۆش شکایەتم تاڵە، دەستم بەسەر هەناسەدانی مندا قورسە.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆش"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "شکایەتم"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "تاڵە"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستم"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "قورسە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەسەر"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "هەناسەدانی مندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:08.312389940Z",
+  "model": "glm-5.3"
+}

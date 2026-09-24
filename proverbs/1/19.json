@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "هەروەها ڕێگاکانی هەموو زوڵمکارێکی قازانج ⟨את⟩ گیانی خاوەنەکەی دەبات",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ڕێگاکانی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "زوڵمکار"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "قازانج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیانی خاوەنەکەی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "خاوەنەکەی"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "دەبات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:58.138443565Z",
+  "model": "glm-5.3"
+}

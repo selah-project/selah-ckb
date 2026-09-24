@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "لە حوکمەکانت خۆشحاڵ دەبم، وشەی تۆ ناچمە لە یاد.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "لە حوکمەکانت"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "خۆشحاڵ دەبم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "چمە لە یاد"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "وشەی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:27.239813331Z",
+  "model": "glm-5.3"
+}

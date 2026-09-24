@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "چاکترە خواردنی سەوزە و خۆشەویستی لەوێ، لە گای قەڵەوکراو و ڕق لەگەڵی.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکترە"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "خواردنی"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "سەوزە"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "و خۆشەویستی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "گا"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "قەڵەوکراو"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "و ڕق"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەگەڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:28.117449897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ترسەکەی یاهوە ڕاهێنانی داناییە، و لە پێش ڕێزدا شەرمەزاری‌بوونە.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ڕاهێنان"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "و لە پێش"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ڕێز"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "شەرمەزاری‌بوون"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:21.096231687Z",
+  "model": "glm-5.3"
+}

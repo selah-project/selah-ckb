@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئەوکاتە تێدەگەیت ڕاستی و دادپەروەری و ڕاستییەکان — هەموو ڕێگایەکی چاک.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئەوکاتە"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "تێدەگەیت"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و دادپەروەری"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "و ڕاستییەکان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ڕێگایەکی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:15.190078048Z",
+  "model": "glm-5.3"
+}

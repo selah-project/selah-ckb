@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "چونکە بەرد لە دیوار هەڵدەقارێت، و تیرەیەک لە دار وەڵامی دەداتەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "لە دیوار"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "هەڵدەقارێت"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "و تیرە"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "لە دار"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "وەڵامی دەداتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:39:13.192192251Z",
+  "model": "glm-5.3"
+}

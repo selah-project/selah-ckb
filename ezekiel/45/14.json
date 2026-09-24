@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "و حەکمی ڕۆنەکە: بەتی ڕۆن — دەیەمی بەت لە کۆر؛ دە بەت هۆمەرێکە، چونکە دە بەت هۆمەرێکە.",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "و حەکم"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ڕۆن"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "بەت"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ڕۆن"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "دەیەم"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "بەت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "کۆر"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دە"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "بەت"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "هۆمەر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دە"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "بەت"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "هۆمەر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:25:52.801249590Z",
+  "model": "glm-5.3"
+}

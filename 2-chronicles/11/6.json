@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ بەیت لەحەم و ⟨את⟩ عەیتام و ⟨את⟩ تەقوای دروستکرد.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "و دروستکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەیت لەحەم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەحەم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەیتام"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عەیتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تەقوا"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تەقوا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:00.569026505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "مەزموورێک بۆ داود، بۆ یادخستن.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموورێک"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "بۆ یادخستن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:23.633055261Z",
+  "model": "glm-5.3"
+}

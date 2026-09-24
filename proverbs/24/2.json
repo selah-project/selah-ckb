@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "چونکە دڵیان لێدەخوڵقێت بە تاڵانکردن، و لێوەکانیان قسەی زوڵم دەکەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שד",
+      "gloss": "تاڵانکردن"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "لێدەخوڵقێت"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "دڵیان"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "و زوڵم"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "لێوەکانیان"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "قسە دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:53.279323271Z",
+  "model": "glm-5.3"
+}

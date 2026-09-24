@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 13:22",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و گەڕاییتەوە و نانی خوارد و ئاوت ڕشت لەو شوێنەی کە فەرمووی بۆ تۆ: نان مەخۆ و ئاو مەڕێشە؛ تەرمت ناگاتە قەبری باوانت",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "و گەڕاییتەوە"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "و خوارد"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "و ڕشت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "لەو شوێنەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "بخۆ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "بڕێشە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "دەگات"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "تەرمت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "قەبر"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "باوانت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:51:35.839011565Z",
+  "model": "glm-5.3"
+}

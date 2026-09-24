@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "کێ وای لێدەکات کە وەک برایم بیت، شیرخۆری سنگکی دایکم؟ لە دەرەوە بدۆزمەوە، ماچت بکەم، ئیتر ئازاری من نەدەن.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "وای لێدەکات کە بیت"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "وەک برای"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "شیرخۆری"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "سنگکی"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "دایکم"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "بدۆزمەوە"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "لە دەرەوە"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "ماچت بکەم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "ئازاری دەدەن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:50:57.695691799Z",
+  "model": "glm-5.3"
+}

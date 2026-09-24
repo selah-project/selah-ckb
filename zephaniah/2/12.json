@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئێوەش، ئەی کوشییەکان، بریندارانی شمشێری من — ئەوانەن.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ئێوەش"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "کوشییەکان"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "بریندارانی"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "شمشێری من"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوانەن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:58.300453721Z",
+  "model": "glm-5.3"
+}

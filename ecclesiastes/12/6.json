@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "پێش ئەوەی پشتی زیو بڕدرێت و تاوەی زێڕ تێکبچێت، و کوزەکە لەسەر کانییەکە بشکێت و چەرخەکە لە بیرەکە تێکبچێت.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "پێش ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "بڕدرێت"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "پشت"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "و تێکبچێت"
+    },
+    {
+      "surface": "گولات",
+      "gloss": "تاوە"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "و بشکێت"
+    },
+    {
+      "surface": "כד",
+      "gloss": "کوزەکە"
+    },
+    {
+      "surface": "على",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "کانییەکە"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "و تێکبچێت"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "چەرخەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "بیرەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:59:04.771716863Z",
+  "model": "glm-5.3"
+}

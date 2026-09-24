@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و هەموو کۆیلەی پیاو، کڕینی زیو، و خەتتەنەی کرد ⟨את⟩ ئەو، ئەوسا دەخوات لەوە.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کۆیلەی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "کڕینی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "و خەتتەنەی کرد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "ئەو کۆیلەیە"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ئەوسا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:41:51.636799674Z",
+  "model": "glm-5.3"
+}

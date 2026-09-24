@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 142,
+  "translation": "بە یاهوەم هاوارم کرد، وتم تۆ پەناهەم و بەشەم لە زەویی زیندووان",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "هاوارم کرد"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "پەناهەم"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "بەشەم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زیندووان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:11.162375846Z",
+  "model": "glm-5.3"
+}

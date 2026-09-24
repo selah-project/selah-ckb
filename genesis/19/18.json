@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و لۆت ⟨لوت⟩ وتینیان: ئەی ئادۆنای، با نەبێت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لۆت ⟨لوت⟩"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "با"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:41.179595278Z",
+  "model": "glm-5.3"
+}

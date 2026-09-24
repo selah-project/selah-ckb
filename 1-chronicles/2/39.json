@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و عەزەریا حێلێزی بەخێو کرد، و حێلێز ئێلعاسای بەخێو کرد.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "و عەزەریا"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حێلێز"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "حێلێز"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "و حێلێز"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئێلعاسا"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ئێلعاسا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:40.531679895Z",
+  "model": "glm-5.3"
+}

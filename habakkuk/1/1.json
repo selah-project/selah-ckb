@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ئەو بارەی کە حەبەقووق ⟨حەبەکووق⟩ پێغەمبەرەکە بینییەتی.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "بارەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "بینییەتی"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "حەبەقووق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەرەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:35.281689936Z",
+  "model": "glm-5.3"
+}

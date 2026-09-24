@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "من بۆ خۆم حەوزەکانی ئاو دروستمکرد، بۆ ئاوکردنیان لە جەنگەڵێ گەشاوەی دارەکان.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "دروستمکرد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "حەوزەکان"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "بۆ ئاوکردن"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جەنگەڵ"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "گەشاوە"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "دارەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:03.898449743Z",
+  "model": "glm-5.3"
+}

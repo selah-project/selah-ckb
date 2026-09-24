@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕی شالوم کوڕی سادۆک کوڕی ئەحیتوب",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "سادۆک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ئەحیتوب"
+    }
+  ],
+  "timestamp": "2026-09-24T15:12:16.665105228Z",
+  "model": "glm-5.3"
+}

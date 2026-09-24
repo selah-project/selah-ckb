@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و یاهوە فەرمووی بۆ مۆشە ⟨موسا⟩ کرد و وت:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرمووی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:59.978045483Z",
+  "model": "glm-5.3"
+}

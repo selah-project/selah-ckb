@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و پاشا و هامان هاتن بۆ خواردنەوە لەگەڵ ئەستێر ⟨ئیستەر⟩ شاژنەکە.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و هاتن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "و هامان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "بۆ خواردنەوە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ئەستێر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "شاژنەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:01:11.335955734Z",
+  "model": "glm-5.3"
+}

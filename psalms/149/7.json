@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 149,
+  "translation": "بۆ کردنی تۆڵە لە نەتەوەکاندا، لێپێچینەوە لە گەلەکاندا.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردنی"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "تۆڵە"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "لە نەتەوەکاندا"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "لێپێچینەوە"
+    },
+    {
+      "surface": "בל",
+      "gloss": ""
+    },
+    {
+      "surface": "אמים",
+      "gloss": "گەلەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:16.536732045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و ماوەی دارەکانی دارستانی بە ژمارە دەبن و منداڵێک دەینووسێت",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "و ماوەی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دارەکانی"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "دارستانی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "بە ژمارە"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "و منداڵێک"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "دەینووسێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:17:09.376936471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ڕزگاری بکە لە شمشێر گیانم، لە دەستی سەگ ⟨تاکەکەم⟩.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "ڕزگاری بکە"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "لە شمشێر"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "لە دەستی"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "سەگ"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "تاکەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:31.113821832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "گۆرانیبێژەکان، کوڕەکانی ئاساف ⟨سەد⟩ بیست و هەشت.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "گۆرانیبێژەکان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ئاساف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:10:40.227014163Z",
+  "model": "glm-5.3"
+}

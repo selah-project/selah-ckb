@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "کەواتە لەسەریان پێغەمبەریی بکە، پێغەمبەریی بکە، ئەی کوڕی ئادەم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "کەواتە"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "پێغەمبەریی بکە"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "لەسەریان"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "پێغەمبەریی بکە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:01:11.927353798Z",
+  "model": "glm-5.3"
+}

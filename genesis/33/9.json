@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و عیساو وتی: بە فرەم هەیە، برای من، با ئەوەی هی تۆیە بۆ خۆت بێت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو ⟨عیساو⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بە فرە"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای من"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "با بێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "هی تۆیە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:40.651329649Z",
+  "model": "glm-5.3"
+}

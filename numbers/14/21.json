@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "بەڵام زیندووم من، و شەرەفی یاهوە ⟨את⟩ هەموو زەوی پڕ دەکاتەوە،",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندووم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "و پڕ دەکاتەوە"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شەرەف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو زەوی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:21:50.008067945Z",
+  "model": "glm-5.3"
+}

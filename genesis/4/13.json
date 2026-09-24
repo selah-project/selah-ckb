@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و قائین بۆ یاهوەی وت: گەورەیە تاوانی من لە هەڵگرتن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قائین ⟨قابیل⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورەیە"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "تاوانی من"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "لە هەڵگرتن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:05.318655845Z",
+  "model": "glm-5.3"
+}

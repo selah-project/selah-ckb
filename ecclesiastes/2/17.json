@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ژیانم بەزلی، چونکە کارەکەی کە لەژێر خۆردا کراوە لەسەرم خراپە، چونکە هەمووی هەڤەل و ئازاری ڕۆحە.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "و ژیانم بەزلی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ژیان"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەرم"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "کە کراوە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هەمووی"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەڤەل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "و ئازاری"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:07.599429340Z",
+  "model": "glm-5.3"
+}

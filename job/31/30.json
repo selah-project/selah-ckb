@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 31:30",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و دەمم نەداوە بە گوناه، بۆ داواکردن بە نەفرەتێک لە گیانی —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دام"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "بە گوناه"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "دەمم"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "بۆ داواکردن"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "بە نەفرەتێک"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:05.949901349Z",
+  "model": "glm-5.3"
+}

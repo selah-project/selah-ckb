@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "کەلوپەلەکەت لە زەوی کۆبکەرەوە، ئەی دانیشتووی گەمارۆکراو.",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "کۆبکەرەوە"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "کەلوپەلەکەت"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "دانیشتووی"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "گەمارۆکراو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:41:34.059155422Z",
+  "model": "glm-5.3"
+}

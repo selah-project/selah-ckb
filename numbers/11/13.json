@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 11:13",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "لە کوێوە بۆ من گۆشت هەیە بۆ دان بە هەموو ئەم گەلە، چونکە دەگریان لەسەر من و دەڵێن: بە ئێمە گۆشت بدە و بخۆین.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "لە کوێوە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "بۆ دان"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "دەگریان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بە ئێمە"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "و بخۆین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:21:42.635443749Z",
+  "model": "glm-5.3"
+}

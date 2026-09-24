@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ڕەش بوون لەبەر سەهۆڵ، بەفر لەسەریان شاراوەتەوە",
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "ڕەش بوون"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "سەهۆڵ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "لەسەریان"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "شاراوەتەوە"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "بەفر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:12.313864833Z",
+  "model": "glm-5.3"
+}

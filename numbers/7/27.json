@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "گایەکی بەران بەر، قوچەکێکی بەران بەر، بەرخێکی بەران بەر کوڕی ساڵی خۆی، بۆ قوربانیی سووتاندن:",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بەران"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچەک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ساڵی خۆی"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "بۆ قوربانیی سووتاندن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:59.037459281Z",
+  "model": "glm-5.3"
+}

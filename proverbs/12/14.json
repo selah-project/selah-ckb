@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "لە بەری دەمی پیاو دەپڕێت لە چاک، و بەرامبەری دەستەکانی مرۆڤ دەگەڕێتەوە بۆ ئەو.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "لە بەری"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "دەپڕێت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "لە چاک"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "و بەرامبەری"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستەکانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "دەگەڕێتەوە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:59.538047226Z",
+  "model": "glm-5.3"
+}

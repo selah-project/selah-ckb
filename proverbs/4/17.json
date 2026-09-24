@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە نانی ستەمیان خوارد و شەرابی زۆڵمەکان دەخۆنەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "خوارد"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ستەم"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شەراب"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "زۆڵمەکان"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "دەخۆنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:09.846993684Z",
+  "model": "glm-5.3"
+}

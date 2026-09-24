@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "دەگاتە نەوەی باپیرانی، هەتا هەتایان ڕووناکی نابینن.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "دەگات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ەوە"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نەوەی"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "باپیرانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "هەتایان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "دەبینن"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ڕووناکی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:44.565360260Z",
+  "model": "glm-5.3"
+}

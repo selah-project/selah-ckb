@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "کێ وەکو زانا و کێ لێکدانەوەی وشە دەزانێت؟ ژیریی مرۆڤ ڕووخساری ڕووناک دەکاتەوە و توندی ڕووخساری دەگۆڕدرێت.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "وەکو زانا"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "لێکدانەوەی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ژیریی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "ڕووناک دەکاتەوە"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووخساری"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "و توندی"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووخساری"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "دەگۆڕدرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:20.603284958Z",
+  "model": "glm-5.3"
+}

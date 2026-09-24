@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ڕێگی خراپەکار قێزی بۆ یاهوەیە، و ئەوی ڕاوی دادپەروەری دەکەوێت خۆشی دەوێت.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "قێز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپەکار"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "و ڕاوی دەکەوێت"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "خۆشی دەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:50.606437123Z",
+  "model": "glm-5.3"
+}

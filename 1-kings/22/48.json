@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و پادشا لە ئەدۆم نەبوو، جێگرێک وەک پادشا وەستابوو.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "و پادشا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نەبوو"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "لە ئەدۆم"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "وەستابوو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:58:24.205057206Z",
+  "model": "glm-5.3"
+}

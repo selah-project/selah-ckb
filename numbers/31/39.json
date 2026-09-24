@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و حێرەکان سی هەزار و پێنج سەد و باژی وان بۆ یاهوە یەک و شێست",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "و حێرەکان"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "و باژی وان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شێست"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:00.840925366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 77,
+  "translation": "دەنگم بۆ ئێلۆهیم و دەقیقم؛ دەنگم بۆ ئێلۆهیم و گوێی بۆم دەگرێت.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "دەنگم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "و دەقیقم"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "دەنگم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "وהאזין",
+      "gloss": "و گوێی دەگرێت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:48.556689681Z",
+  "model": "glm-5.3"
+}

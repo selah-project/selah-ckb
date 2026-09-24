@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "یگعال کوڕی ناتان لە تسۆڤا، بانی گادی،",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "یگعال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "لە تسۆڤا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "گادی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:04.892027538Z",
+  "model": "glm-5.3"
+}

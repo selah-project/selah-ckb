@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و وتیری: با بگەڕێینەوە و با بڕۆین، و من بەرەو پێش تۆ دەڕۆم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "با بگەڕێینەوە"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "و با بڕۆین"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "و من دەڕۆم"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "بەرەو پێش تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:40.652166134Z",
+  "model": "glm-5.3"
+}

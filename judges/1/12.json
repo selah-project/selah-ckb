@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و کالێب فەرموو: ئەوەی قریات سێفەر ⟨את⟩ بدات و بیگرێت، عەکسا ⟨את⟩ کچەکەم بۆ ژن بۆی دەدەم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالێب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "بدات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قریات سێفەر"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریات"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سێفەر"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "و بیگرێت"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "و دەدەم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەکسا"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "عەکسا"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "کچەکەم"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بۆ ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:03:11.025699402Z",
+  "model": "glm-5.3"
+}

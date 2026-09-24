@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ئێستێر بە هاتاخی وت و فەرمانی بۆ مۆردەخای کرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר—ותאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:27.461628049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و حەوت کوڕ و سێ کچی بۆ لەدایک بوون.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "و لەدایک بوون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:34:16.496296381Z",
+  "model": "glm-5.3"
+}

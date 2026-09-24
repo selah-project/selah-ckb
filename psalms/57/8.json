@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 57,
+  "translation": "ئامادەیە دڵم، ئەی ئێلۆهیم، ئامادەیە دڵم؛ دەگۆڕم و سوپاس ⟨دەڵێم⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ئامادەیە"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ئامادەیە"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "دەگۆڕم"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "و سوپاس"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:30.296960202Z",
+  "model": "glm-5.3"
+}

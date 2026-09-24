@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "یەکەمی دانەوێڵەت، شەرابە تازەکەت و ڕۆنەکەت، و یەکەمی سووره‌کانی مەڕەکانت بۆ ئەو دەدەی.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "یەکەمی"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "دانەوێڵەت"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "شەرابە تازەکەت"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "و ڕۆنەکەت"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "و یەکەمی"
+    },
+    {
+      "surface": "גז",
+      "gloss": "سوور"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "مەڕەکانت"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دەدەی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:23.091387673Z",
+  "model": "glm-5.3"
+}

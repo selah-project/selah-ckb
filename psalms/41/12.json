@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "بەمە دەزانم کە حەزت لێیە لە من، چونکە دوژمنم زۆنگ لەسەر من ناکات.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "بەمە"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دەزانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "حەزت لێیە"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "زۆنگ دەکات"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "دوژمنم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:20.122702304Z",
+  "model": "glm-5.3"
+}

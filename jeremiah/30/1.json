@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "وشەکە کە هات بۆ یەرمیاهوو ⟨ئێرمیا⟩ لە ⟨את⟩ یاهوە بۆ وتن،",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "وشەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یەرمیاهوو ⟨ئێرمیا⟩"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T16:00:12.252789381Z",
+  "model": "glm-5.3"
+}

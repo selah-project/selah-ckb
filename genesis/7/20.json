@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "پازدە ئامە لە سەرەوە ئاوەکان زاڵ بوون و چیاکان داپۆشران",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "پازدە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ئامە"
+    },
+    {
+      "surface": "مלמעלה",
+      "gloss": "لە سەرەوە"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "زاڵ بوون"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ئاوەکان"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "و داپۆشران"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "چیاکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:48.597163845Z",
+  "model": "glm-5.3"
+}

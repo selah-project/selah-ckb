@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و سنووری دەریا و دەریا گەورەکە بۆ ئێوە دەبێت و ئەمە دەبێت بۆ ئێوە سنووری دەریا.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "و سنووری"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "گەورەکە"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "و سنوور"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنوور"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:09.677004341Z",
+  "model": "glm-5.3"
+}

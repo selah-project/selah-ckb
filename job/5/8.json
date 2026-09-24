@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بەڵام من لای ئێل دەگەڕێم و بۆ ئێلۆهیم قسەکەم دەنێم.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "دەگەڕێم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "دەنێم"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "قسەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:21.038894457Z",
+  "model": "glm-5.3"
+}

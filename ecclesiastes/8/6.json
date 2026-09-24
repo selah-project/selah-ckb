@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "چونکە بۆ هەموو ویستێک کات و دادپەروەری هەیە، چونکە خراپیی مرۆڤ زۆرە لەسەری.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ویست"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کات"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "و دادپەروەری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "خراپیی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "زۆرە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:51.994346287Z",
+  "model": "glm-5.3"
+}

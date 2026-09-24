@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "وەک باڵندەیەک ڕاویان کردووم، دوژمنەکانم، بێ هۆ",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "ڕاوکردن"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ڕاویان کردووم"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "وەک باڵندەیەک"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "دوژمنەکانم"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بێ هۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:33.985673962Z",
+  "model": "glm-5.3"
+}

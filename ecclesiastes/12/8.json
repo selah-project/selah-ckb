@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "هەڤەل هەڤەلەکان، کۆهێلێت ⟨وت⟩، هەموو شت هەڤەلە.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "هەڤەل"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "هەڤەلەکان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "کۆهێلێت"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هەموو شت"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەڤەلە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:59:04.772072384Z",
+  "model": "glm-5.3"
+}

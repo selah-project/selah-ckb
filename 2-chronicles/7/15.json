@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ئێستا چاوەکانی من کراوە دەبن و گوێکانی من ئاگادار دەبن بۆ نوێژی ئەم شوێنە.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوەکانی من"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "کراوە"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "و گوێکانی من"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ئاگادار"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "بۆ نوێژی"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "شوێنەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:12.407049860Z",
+  "model": "glm-5.3"
+}

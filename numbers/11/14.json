@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "من، بە تەنهایی خۆم، ناتوانم ⟨את⟩ هەموو ئەم گەلە هەڵبگرم، چونکە لە من قورسترە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "توانم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "לבדی",
+      "gloss": "بە تەنهایی خۆم"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "بۆ هەڵگرتن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەم گەلە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "قورسترە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T10:21:42.635813590Z",
+  "model": "glm-5.3"
+}

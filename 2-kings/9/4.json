@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و گەنجەکە — گەنجەکە پێغەمبەرەکە — ڕۆیى بۆ ڕامۆتی گیلعاد",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیى"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "گەنجەکە"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "گەنجەکە"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەرەکە"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ڕامۆت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    }
+  ],
+  "timestamp": "2026-09-24T12:02:27.208849717Z",
+  "model": "glm-5.3"
+}

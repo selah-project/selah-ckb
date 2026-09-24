@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 104,
+  "translation": "قووڵییەکەت وەک جلێک داپۆشی؛ ئاوەکان لەسەرەوەی چیا ڕاوەستان.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "قووڵی"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "وەک جلێک"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "داپۆشی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەرەوەی"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ڕاوەستان"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاوەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:27.646276361Z",
+  "model": "glm-5.3"
+}

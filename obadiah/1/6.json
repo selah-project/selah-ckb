@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "چۆن عیساو ⟨ئەساو⟩ گەڕاندرا، نهێنییەکانی ڕۆچوون!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "گەڕاندرا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو ⟨ئەساو⟩"
+    },
+    {
+      "surface": "נבעو",
+      "gloss": "ڕۆچوون"
+    },
+    {
+      "surface": "مצפניו",
+      "gloss": "نهێنییەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:34:37.634713452Z",
+  "model": "glm-5.3"
+}

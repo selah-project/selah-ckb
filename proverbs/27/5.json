@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "لەپێشچوونەوەی ئاشکرا چاکە، لە خۆشەویستی شاردەوە.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "لەپێشچوونەوە"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ئاشکرا"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "لە خۆشەویستی"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "شاردەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:42.808107823Z",
+  "model": "glm-5.3"
+}

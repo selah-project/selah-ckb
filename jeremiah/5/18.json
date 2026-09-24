@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و لەو ڕۆژانەشدا، ڕاگەیاندنی یاهوە، لەگەڵ ئێوە ⟨את⟩ کۆتاییێکی تەواو ناهێنم.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و ...یش"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "لە ڕۆژان"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ڕاگەیاندنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "دەهێنم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "لەگەڵ ئێوە ⟨את⟩"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "کۆتاییێکی تەواو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:40:27.981581150Z",
+  "model": "glm-5.3"
+}

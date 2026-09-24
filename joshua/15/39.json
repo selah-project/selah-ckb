@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "لاکیش و بۆسقات و عەگلۆن",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "لاکیش"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "و بۆسقات"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "و عەگلۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:51.926425851Z",
+  "model": "glm-5.3"
+}

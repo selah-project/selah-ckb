@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "شایەتانی زوڵم هەڵدەستن؛ ئەوەی من نەمزانیبێت لێم دەپرسن.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "هەڵدەستن"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "شایەتانی"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زوڵم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "مزانیبێت"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "لێم دەپرسن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:20.479194116Z",
+  "model": "glm-5.3"
+}

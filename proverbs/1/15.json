@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کوڕەکەم، لە ڕێگادا لەگەڵ ⟨את⟩ ئەوان مەڕۆ، پێت لە ڕێچکەیان بپارێزە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکەم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگادا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "لەگەڵ ⟨את⟩ ئەوان"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "لە ڕێچکەیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:56.808220991Z",
+  "model": "glm-5.3"
+}

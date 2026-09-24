@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ڕازی نەبیت لەگەڵی و گوێی لێ نەگریت، و چاوەکەت بەزەی پێ نەبێت، و ڕەحمی پێ نەکەیت و نەیشارێتەوە لەسەری.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ڕازی دەبیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "گوێ دەدەیت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "بەزەی دەکات"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "چاوەکەت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "ڕەحم دەکەیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "دەیشارێتەوە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:23.345242755Z",
+  "model": "glm-5.3"
+}

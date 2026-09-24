@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و هەروەها لە ڕێگادا کە گێلەکە دەڕوات، دڵی کەمە، و بۆ هەمووان دەڵێت ⟨کە⟩ گێلە ئەوە.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگادا"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "کە گێلەکە"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "لבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کەمە"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "لכל",
+      "gloss": "بۆ هەمووان"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "گێلە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:47.092465083Z",
+  "model": "glm-5.3"
+}

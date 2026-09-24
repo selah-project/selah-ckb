@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "هەروەها گیان بێ زانیاری چاک نییە، و ئەوەی بە پێ خێرا ڕادەکات هەڵە دەکات",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "و خێرا"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "بە پێ"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "هەڵە دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:37.318570215Z",
+  "model": "glm-5.3"
+}

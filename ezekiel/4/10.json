@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و خواردنی تۆ کە دەیخۆیت بە کێش دەبێت بیست شەکەل بۆ ڕۆژێک لە کاتێکەوە تا کاتێک دەیخۆیت",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "و خواردنی تۆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "دەیخۆیت"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "بە کێش"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شەکەل"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بۆ ڕۆژ"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "لە کات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کات"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "دەیخۆیت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:05:08.450606818Z",
+  "model": "glm-5.3"
+}

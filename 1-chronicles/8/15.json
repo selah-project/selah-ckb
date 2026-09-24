@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و زەڤادیا و عاراد و عەدەر.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "و زەڤادیا"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "و عاراد"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "و عەدەر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:48.569435374Z",
+  "model": "glm-5.3"
+}

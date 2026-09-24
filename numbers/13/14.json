@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بۆ هۆزی نافتالێ، نەحبی کوڕی ڤاپسێ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نافتالێ"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "نەحبی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ڤاپسێ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:49.214933069Z",
+  "model": "glm-5.3"
+}

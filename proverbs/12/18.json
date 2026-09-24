@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "هەیە توندقسەیەک وەکو دڕانەکانی شمشێر، و زمانی ژیران چارەسەرە",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "توندقسە"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "وەکو دڕانەکانی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "وלשון",
+      "gloss": "و زمانی"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ژیران"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "چارەسەر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:03.618437715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "منم ئەو پیاوەی کە ئەزیەتی بینیوە لە ژێر عەسای توڕەییەکەیدا",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "منم"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ئەو پیاوە"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "بینیوە"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ئەزیەت"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "لە ژێر عەسا"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "توڕەییەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:55.889027991Z",
+  "model": "glm-5.3"
+}

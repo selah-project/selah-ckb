@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "گەلەکان شلەژین، شانشینەکان لەرزین، بە دەنگی خۆی زەوی دەتواوانێت.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "شلەژین"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "لەرزین"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "شانشینەکان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "بە دەنگی"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "دەتواوانێت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:02.930903582Z",
+  "model": "glm-5.3"
+}

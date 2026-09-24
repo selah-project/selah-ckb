@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و یەهۆشوا عای ⟨את⟩ سوتاند و کردی بە گردێکی هەمیشەیی، وێرانەیی، هەتا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "و سوتاند"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهۆشوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عای"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عای"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "و کردی"
+    },
+    {
+      "surface": "תל",
+      "gloss": "گرد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەمیشەیی"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "وێرانەیی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:54:30.820698996Z",
+  "model": "glm-5.3"
+}

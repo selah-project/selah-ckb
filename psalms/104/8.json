@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 104,
+  "translation": "چیا سەردەکەونەوە، دۆڵەکان دەچنە خوارەوە بۆ ئەو شوێنەی کە بۆیان دانایت.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "سەردەکەونەوە"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "دەچنە خوارەوە"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "دۆڵەکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "دانایت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:27.646609462Z",
+  "model": "glm-5.3"
+}

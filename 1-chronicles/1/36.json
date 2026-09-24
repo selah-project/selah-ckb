@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کوڕانی ئەلیفاز: تەیمان، ئۆمار، سەڤی، گەعتام، قەناز، تیمنا و عەمالێق.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ئەلیفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تەیمان"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "ئۆمار"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "سەڤی"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "گەعتام"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قەناز"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "تیمنا"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "و عەمالێق"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:03.168081176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و ئەمانە ڕەچەڵەکی عەیسەوە، ئەو ⟨هە⟩ ئەدۆمە.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ڕەچەڵەکی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عەیسەو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:06.452833725Z",
+  "model": "glm-5.3"
+}

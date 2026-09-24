@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و عیساو بینی كە كچەكانی كەنان خراپن لە چاوی ییتسچاكی باوكیدا.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "كە"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "خراپن"
+    },
+    {
+      "surface": "بנות",
+      "gloss": "كچەكانی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "كەنان"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسچاك"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوكیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:50.164976902Z",
+  "model": "glm-5.3"
+}

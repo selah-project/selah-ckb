@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بەزێکی نەرێنی یەک بۆ قوربانیی تاوانبارێتی.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بەزێکی نەرێنی"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "مێزەکان"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "بۆ قوربانیی تاوانبارێتی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:53:07.498666757Z",
+  "model": "glm-5.3"
+}

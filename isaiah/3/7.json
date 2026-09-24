@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "لەو ڕۆژەدا بەرز دەکاتەوە ⟨و⟩ دەڵێت: نایبم بە چاککەر، لە ماڵی من نان و جل نییە، مەکەنم بە سەرۆکی گەل.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "بەرز دەکاتەوە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "نایبم"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "بە چاککەر"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "و لە ماڵی من"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "جل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "مەکەنم"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "سەرۆکی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:13:26.620121928Z",
+  "model": "glm-5.3"
+}

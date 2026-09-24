@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "گەلە کوێرەکە دەرهێنە کە چاوی هەیە، و گوێڕەکان کە گوێیان هەیە.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "دەرهێنە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کوێر"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "و چاو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "و گوێڕەکان"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "و گوێ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "بۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:27:00.797245503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و پاشا بۆم فەرموو: لەپێ چ شتێک داوا دەکەیت؟ و من نوێژم کرد بۆ ئێلۆهیمی ئاسمانەکان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەپێ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "شتێک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "داوا دەکەیت"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "و نوێژم کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:14:47.460704604Z",
+  "model": "glm-5.3"
+}

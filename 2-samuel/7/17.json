@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بەپێی هەموو ئەم وشەیانە و بەپێی هەموو ئەم دیمەنەکە، هەر وا ناتان بە داودی وتی.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "بەپێی هەموو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "وشەیانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "و بەپێی هەموو"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "دیمەنەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-09-24T11:34:18.702850719Z",
+  "model": "glm-5.3"
+}

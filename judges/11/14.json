@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و یفتاح دیسان زیاتر نێردەرانی نارد بۆ لای ملکی کوڕانی عەمۆن.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "و زیاتر"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیسان"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یفتاح"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "نێردەران"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ملک"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عەمۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:10:40.761801439Z",
+  "model": "glm-5.3"
+}

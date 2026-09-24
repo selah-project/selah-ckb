@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئایا سەرماوە لە گیلعاد نییە؟ ئایا چاککەر لەوێ نییە؟ چونکە بۆچی نا چاکبوونەوەی کچی گەڵم سەرکەوت؟",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "سەرماوە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "لە گیلعاد"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "چاککەر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "سەرکەوت"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "چاکبوونەوە"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:40:59.887690170Z",
+  "model": "glm-5.3"
+}

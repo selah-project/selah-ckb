@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "ئەو ⟨את⟩ دەروازەی سەرەوەی ماڵی یاهوە بنیات نا، و لە دیواری عۆفێل بە زۆری بنیات نا.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنیات نا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەروازە"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەروازە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "سەرەوە"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "و لە دیواری"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "عۆفێل"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنیات نا"
+    },
+    {
+      "surface": "لרב",
+      "gloss": "بە زۆری"
+    }
+  ],
+  "timestamp": "2026-09-24T16:08:42.434243630Z",
+  "model": "glm-5.3"
+}

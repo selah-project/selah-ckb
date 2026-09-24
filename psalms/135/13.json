@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 135,
+  "translation": "یاهوە، ناوت بۆ هەتاهەتایەیە؛ یاهوە، یادکردنت بۆ نەوە و نەوە.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەتاهەتایە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "یادکردنت"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "بۆ نەوە"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "و نەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:04.332082043Z",
+  "model": "glm-5.3"
+}

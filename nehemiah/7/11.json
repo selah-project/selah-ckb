@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی پەحات موئاب لە کوڕەکانی یەشوع و یوئاب ⟨ئەوان⟩ دوو هەزار و هەشت سەد و هەژدە ⟨کەس⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پەحات"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاب"
+    },
+    {
+      "surface": "لבני",
+      "gloss": "لە کوڕەکانی"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یەشوع"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "و یوئاب"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوو هەزار"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:16:40.646238740Z",
+  "model": "glm-5.3"
+}

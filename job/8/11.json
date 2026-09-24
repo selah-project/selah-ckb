@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئایا گۆمە بێ زەنگاو گەشە دەکات؟ ئایا قامیش بێ ئاو بەرز دەبێتەوە؟",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "ئایا گەشە دەکات"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "گۆمە"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "زەنگاو"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "بەرز دەبێتەوە"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "قامیش"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:04.833181619Z",
+  "model": "glm-5.3"
+}

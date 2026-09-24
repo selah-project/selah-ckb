@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 24:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بە بێ هۆکار شایەت لەسەر هاوسێت مەبە، و بە لێوت فریو مەدە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە-"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شایەت"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بێ هۆکار"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "لەسەر هاوسێت"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "و فریو مەدە"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "بە لێوت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:34.202297855Z",
+  "model": "glm-5.3"
+}

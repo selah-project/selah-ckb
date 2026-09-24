@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "بزانێ، ئەی یاهوە، کۆتایی من و پێوانەی ڕۆژەکانم چێیە، تا بزانم چەند دەستم بەتاڵە من.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "بزانێ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "کۆتایی من"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "و پێوانەی"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هیە⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "بزانم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "دەستم بەتاڵە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:40.543870106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و یاهوە بە مۆشەی فەرموو: ئایا دەستی یاهوە کورت بووە؟ ئێستا دەبینیت ئایا وشەی من بەسەرت دێت یان نا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "היד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "کورت بووە"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "دەبینیت"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "بەسەرت دێت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:08.426688113Z",
+  "model": "glm-5.3"
+}

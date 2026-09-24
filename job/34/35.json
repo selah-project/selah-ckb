@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 34:35",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "ئەیووب بێ زانی قسەی نەکردووە، و وشەکانی بێ ژیری نین.",
+  "tokens": [
+    {
+      "surface": "איוב",
+      "gloss": "ئەیووب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەکردووە بێ"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "قسەی"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "و وشەکانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نین بێ"
+    },
+    {
+      "surface": "בהשכיל",
+      "gloss": "ژیری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:57.646912356Z",
+  "model": "glm-5.3"
+}

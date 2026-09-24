@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی ڕامە و گەڤەع، شەش سەد و بیست و یەک.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ڕامە"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "و گەڤەع"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "و یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:25.456594749Z",
+  "model": "glm-5.3"
+}

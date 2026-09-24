@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 50:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "فەرمانیان کرد بۆ یوسف بە وتنی: باوکت فەرمانی کرد پێش مردنی، بە وتنی،",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "فەرمانیان کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کرد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پێش"
+    },
+    {
+      "surface": "مותו",
+      "gloss": "مردنی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:36:02.644738606Z",
+  "model": "glm-5.3"
+}

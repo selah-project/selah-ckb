@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و یاهوە بۆ هەمیشە دادەنیشێت، تەختەکەی بۆ داد دامەزراندووە.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "دادەنیشێت"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "دامەزراندووە"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "بۆ داد"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "تەختەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:08.208495191Z",
+  "model": "glm-5.3"
+}

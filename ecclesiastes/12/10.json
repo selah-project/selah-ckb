@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "قۆهێلێت گەڕا وشەکانی خۆشەویستی بدۆزێتەوە، و بە ڕاستی نووسران وشەکانی ڕاستی.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "گەڕا"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قۆهێلێت"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "بۆ دۆزینەوە"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خۆشەویستی"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "و بە نووسین"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:48.228291353Z",
+  "model": "glm-5.3"
+}

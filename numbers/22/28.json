@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و یاهوە دەمی ئەستەرەکەی ⟨את⟩ کردەوە، و بە بیلعامی وت: چیم لێکردووە کە ئەم سێ جارە لێمداویت؟",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "و کردەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەم"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "ئەستەرەکە"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "بە بیلعام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "لێکردووە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "لێمداویت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "جارە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:27:21.363248794Z",
+  "model": "glm-5.3"
+}

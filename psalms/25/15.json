@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "چاوەکانم هەمیشە بەرەو یاهوەن چونکە ئەو پێیەکانم لە تۆرەکە دەردەهێنێت.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "چاوەکانم"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هەمیشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "دەردەهێنێت"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "لە تۆرەکە"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پێیەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:53.463057682Z",
+  "model": "glm-5.3"
+}

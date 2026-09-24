@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "لە کوڕانی قەهات ئوریەئێل سەرۆک و براکانی سەد و بیست",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "لە کوڕانی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قەهات"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "ئوریەئێل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:00.044882321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "چونکە هی منە هەموو ئاژەڵی جەنگەڵ، و ماڵات لەسەر شاخەکانی هەزار.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "هی منە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ئاژەڵی"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جەنگەڵ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "لەسەر شاخەکانی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:30.721760901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "یادت بێت ئەی یاهوە چی بەسەرماندا هات، ڕابڕوانە و ببینە ⟨את⟩ پێوەندەرکەوتنەکەمان.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یادت بێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هات"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بەسەرماندا"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ڕابڕوانە"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببینە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پێوەندەرکەوتنەکەمان"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "پێوەندەرکەوتنەکەمان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:10.473108007Z",
+  "model": "glm-5.3"
+}

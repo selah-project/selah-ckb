@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و پێی فەرموو بۆم بڵێ: ئایا نەزانی ئەمانە چیین؟ و وتن: نەخێر، ئادۆنای من.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "نەزانی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ووتن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:42:41.561178378Z",
+  "model": "glm-5.3"
+}

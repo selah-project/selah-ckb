@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و من ستایشی ⟨את⟩ مردووان کرد کە پێشتر مردوون، لە زیندووان کە ئەوان هێشتا زیندوون.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "و من ستایشی کرد"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردووان"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مردووان"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "پێشتر"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مردوون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زیندووان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زیندوون"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "هێشتا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:21.090986686Z",
+  "model": "glm-5.3"
+}

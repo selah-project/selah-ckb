@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "دەیپڕێنم و ناتوانن هەستن، دەکەونە ژێر پێیەکانم",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "دەیپڕێنم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ناتوانن"
+    },
+    {
+      "surface": "קום",
+      "gloss": "هەستن"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "دەکەون"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ژێر"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پێیەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:13.866194651Z",
+  "model": "glm-5.3"
+}

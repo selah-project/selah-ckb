@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "گوێ بگرن لە وشەی یاهوە، ئەی ماڵی یائاکۆڤ ⟨یەعقوب⟩، و هەموو خێزانەکانی ماڵی ئیسرائیل.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوێ بگرن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یائاکۆڤ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خێزانەکانی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:37:08.290905398Z",
+  "model": "glm-5.3"
+}

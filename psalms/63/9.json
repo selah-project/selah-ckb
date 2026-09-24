@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 63,
+  "translation": "گیانەکەم لە تۆ دەگیرسێت، ڕاست دەستت پشتگیریم دەکات.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "دەگیرسێت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانەکەم"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "پشتگیریی من"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ڕاست دەستت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:40.820575333Z",
+  "model": "glm-5.3"
+}

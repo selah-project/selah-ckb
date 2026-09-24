@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "فەرمووی و کەرووشش هات، و جۆرە کەرووشێکی بچووک، و بێ ژمارە.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "کەرووشش"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "و جۆرە کەرووشێکی بچووک"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و بێ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژمارە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:48.013359698Z",
+  "model": "glm-5.3"
+}

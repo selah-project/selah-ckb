@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "بۆیە ئەی لەشخۆش، گوێ لە وشەی یاهوە بگرە.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "بۆیە"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ئەی لەشخۆش"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:11:14.798823980Z",
+  "model": "glm-5.3"
+}

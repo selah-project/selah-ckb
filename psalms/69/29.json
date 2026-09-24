@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "لە کتێبی ژیان بسڕدرێنەوە، و لەگەڵ دادپەروەران نەنووسرێن.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "بسڕدرێنەوە"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "لە کتێبی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "دادپەروەران"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "نەنووسرێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:21.740835244Z",
+  "model": "glm-5.3"
+}

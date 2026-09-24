@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "هی میراری: هۆزی ماحلی و هۆزی موشی. ئەمانەن هۆزەکانی میراری.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "هی میراری"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "ماحلی"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "و هۆزی"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "موشی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانەن"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ئەوان⟩"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "هۆزەکانی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "میراری"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:18.898324242Z",
+  "model": "glm-5.3"
+}

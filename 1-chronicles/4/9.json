@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 4:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "یاعبێز لە برایانی ڕێزدارتر بوو، و دایکی ناوی نا یاعبێز، وەکو ئەوەی وت: چونکە بە ئازارم بووە world.",
+  "tokens": [],
+  "timestamp": "2026-09-24T15:22:04.509307219Z",
+  "model": "glm-5.3"
+}

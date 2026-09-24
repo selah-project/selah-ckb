@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "نانەکەت بەسەر ڕووی ئاوەکاندا بنێرە، چونکە لە زۆربەی ڕۆژەکاندا دەیبێتەوە.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "بنێرە"
+    },
+    {
+      "surface": "لחמך",
+      "gloss": "نانەکەت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەسەر"
+    },
+    {
+      "surface": "پני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ئاوەکاندا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "لە زۆربەی"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڕۆژەکاندا"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "دەیبێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:54.270365071Z",
+  "model": "glm-5.3"
+}

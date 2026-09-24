@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "لەسەر چی بناغەکانی چەسپێنران؟ یان کێ بەردی گۆشەی ئەو فڕێدا؟",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "بناغەکانی ئەو"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "چەسپێنران"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "فڕێدا"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "بەردی"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "گۆشەی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:13.162352882Z",
+  "model": "glm-5.3"
+}

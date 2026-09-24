@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 17:6",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و خستمووەتە پەندی گەلان و لەڕوویاندا بۆ تف دەبم.",
+  "tokens": [
+    {
+      "surface": "והצגני",
+      "gloss": "و خستمووەتە"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "پەندی"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "גەلان"
+    },
+    {
+      "surface": "ותפת",
+      "gloss": "بۆ تف"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "لەڕوویاندا"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "دەبم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:28.262615227Z",
+  "model": "glm-5.3"
+}

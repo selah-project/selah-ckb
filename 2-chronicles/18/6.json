@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و یەهۆشافات فەرمووی: ئایا لێرە پێغەمبەرێکی دیکەی لای یاهوە نییە تا لێی بپرسین؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یەهۆشافات"
+    },
+    {
+      "surface": "האין",
+      "gloss": "ئایا نییە"
+    },
+    {
+      "surface": "פה",
+      "gloss": "لێرە"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "پێغەمبەرێک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لای یاهوە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "و بپرسین"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:38:44.667591155Z",
+  "model": "glm-5.3"
+}

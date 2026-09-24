@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کێ دەبێت داواکاریم بێت، و ئیلۆها چاوەڕوانیم بداتێ؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "داواکاریم"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "و چاوەڕوانیم"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بداتێ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ئیلۆها"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:24.767281985Z",
+  "model": "glm-5.3"
+}

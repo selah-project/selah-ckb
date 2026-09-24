@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "داود سیخوڕ نارد و زانی کە شائول بێگومان هاتووە.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "سیخوڕ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "و زانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتووە"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "بێگومان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:29:04.939669989Z",
+  "model": "glm-5.3"
+}

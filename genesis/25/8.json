@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و تێکچوو و مرد ئاڤراهام لە پیری چاکدا، پیر و تێر، و کۆکرایەوە بۆ لای گەلەکەی.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "تێکچوو"
+    },
+    {
+      "surface": "وימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "لە پیریدا"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و تێر"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "و کۆکرایەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "گەلەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:07.728656545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و ڕۆژەکانی ییصحاق سەد ساڵ و هەشتا ساڵ بوون.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییصحاق"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "و هەشتا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:56.164939426Z",
+  "model": "glm-5.3"
+}

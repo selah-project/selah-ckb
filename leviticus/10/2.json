@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و ئاگرێک لە پێش یاهوە دەرچوو و ⟨את⟩ ئەوانی خوارد و لە پێش یاهوە مردن.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "و خوارد"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ئەوان"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "و مردن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:51:23.080375249Z",
+  "model": "glm-5.3"
+}

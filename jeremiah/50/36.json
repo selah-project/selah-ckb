@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 50:36",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "شمشێر بۆ درۆزانەکان و گێل دەبن، شمشێر بۆ جەنگاوەرانی و ترسن.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "درۆزانەکان"
+    },
+    {
+      "surface": "ונאלו",
+      "gloss": "و گێل دەبن"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "גבוריה",
+      "gloss": "جەنگاوەرانی"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "و ترسن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:01:18.086360454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "بۆ هۆزی بنیامین ئێلیداد کوڕی کیسلۆن.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "ئێلیداد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "کیسلۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:33.866019904Z",
+  "model": "glm-5.3"
+}

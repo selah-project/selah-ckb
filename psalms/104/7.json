@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 104,
+  "translation": "لە سەرزەنشتەکەت هەڵدێن؛ لە دەنگی بروسکەکەت پەلە دەکەن.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "سەرزەنشتەکەت"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "هەڵدێن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "بروسکەکەت"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "پەلە دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:27.646434076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "کوڕی بەرهەمدار یوسێف، کوڕی بەرهەمدار لەسەر چاوە، کچەکان هەنگاو دەنێن لەسەر دیوار.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "پרת",
+      "gloss": "بەرهەمدار"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "بەرهەمدار"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاوە"
+    },
+    {
+      "surface": "بנות",
+      "gloss": "کچەکان"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "هەنگاو دەنێن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שור",
+      "gloss": "دیوار"
+    }
+  ],
+  "timestamp": "2026-09-24T09:34:53.656815549Z",
+  "model": "glm-5.3"
+}

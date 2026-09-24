@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و سێگووب بوو بە باوکی ⟨את⟩ یائیر، و بوو بۆی بیست و سێ شار لە زەوی گیلعاد.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "و سێگووب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بوو بە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یائیر"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یائیر"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شار"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گیلعاد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:51.780893148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "بە فێڵی دەپارێت، بەڵام خراپەی لە کۆمەڵدا ئاشکرا دەبێت",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "دەپارێت"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "بە فێڵی"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "دەپارێت"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ئاشکرا دەبێت"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "خراپەی"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "لە کۆمەڵدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:41.783342070Z",
+  "model": "glm-5.3"
+}

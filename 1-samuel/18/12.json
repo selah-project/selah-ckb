@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و شائول لەبەردەمی داودەوە ترسا چونکە یاهوە لەگەڵی بوو و لە شائول سڕدرابووەوە",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و ترسا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "لەبەردەمی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "סר",
+      "gloss": "سڕدرابووەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:55:58.325580613Z",
+  "model": "glm-5.3"
+}

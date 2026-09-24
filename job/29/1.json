@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "ئەیووب زیادی کرد بە هەڵکردنی مەسەلەی خۆی و وت:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "و زیادی کرد"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەیووب"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "هەڵکردن"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "مەسەلەی خۆی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:51.331134111Z",
+  "model": "glm-5.3"
+}

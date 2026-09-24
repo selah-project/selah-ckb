@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "خەم لە دڵی پیاودا دەیخستەوە، و وشەی چاک دەی شاد دەکات.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "خەم"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "لە دڵ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاودا"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "دەیخستەوە"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و وشەی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "دەی شاد دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:08.975730770Z",
+  "model": "glm-5.3"
+}

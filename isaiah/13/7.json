@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "لەبەر ئەوە هەموو دەستەکان لاواز دەبن و دڵی هەموو مرۆڤێکی مەرد دەتوێتەوە.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دەستەکان"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "لاواز دەبن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرۆڤێکی مەرد"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "دەتوێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:15.466372154Z",
+  "model": "glm-5.3"
+}

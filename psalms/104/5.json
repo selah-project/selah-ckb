@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 104,
+  "translation": "زەویی لەسەر بناغەکانی خۆی دانا؛ هەرگیز نالەرزێت هەتا هەتایە.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "بناغەکانی خۆی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هەرگیز"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "نالەرزێت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "هەتایە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:27.646017229Z",
+  "model": "glm-5.3"
+}

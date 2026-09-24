@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و بۆیی وت: هەموو ئەوەی تۆ دەڵێیت دەیکەم.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "بۆیی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "تۆ دەڵێیت"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "دەیکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:50:11.923152689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و ئەلیهو وەڵامی دایەوە و وتی",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و وەڵامی دایەوە"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ئەلیهو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:29.104062568Z",
+  "model": "glm-5.3"
+}

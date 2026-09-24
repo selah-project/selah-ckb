@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و شەم دوای ئەوەی ئەرفەخشادی ⟨את⟩ بوو بە باوکی پێنج سەد ساڵ ژیا و کوڕان و کچانی بوو",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شەم"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "بوو بە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەرفەخشاد"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ئەرفەخشاد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بوو بە باوکی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:16.327771740Z",
+  "model": "glm-5.3"
+}

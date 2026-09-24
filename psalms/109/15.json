@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "بەرامبەر یاهوە هەمیشە بن، و یادیان لە زەوی ببڕێت.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هەمیشە"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "و ببڕێت"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "یادیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:23.431076931Z",
+  "model": "glm-5.3"
+}

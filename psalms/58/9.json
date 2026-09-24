@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 58,
+  "translation": "وەک گۆزەیەک کە دەتوێتەوە دەڕوات، وەک لەدەستچووی ژنێک، خۆری نابینن.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "گۆزە"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "دەتوێتەوە"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "لەدەستچوو"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "دەبینن"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "خۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:31.147447180Z",
+  "model": "glm-5.3"
+}

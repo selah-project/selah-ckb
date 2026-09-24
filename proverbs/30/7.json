@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "دوو شت لە ⟨את⟩ تۆ داواکردووە؛ لێم بگێڕە نەک پێش ئەوەی بمێرم.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "داواکردووە"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "لە ⟨את⟩ تۆ",
+      "marks": "تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "بگێڕە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "پێش ئەوەی"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "بمێرم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:01.414280536Z",
+  "model": "glm-5.3"
+}

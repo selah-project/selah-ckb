@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و میکایاهو فەرموو: زیندووە یاهوە، کە ⟨את⟩ ئەوەی ئێلۆهیمم بڵێت، ⟨את⟩ ئەوە دەیڵێم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "میکایاهو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندووە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "بڵێت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمم"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەوە",
+      "marks": "ئەوە"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "دەیڵێم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:38:55.532252159Z",
+  "model": "glm-5.3"
+}

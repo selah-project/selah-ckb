@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ئەو کاتە ئیسرائیل ⟨את⟩ ئەم گۆرانییەی وت: بەرز ببەرەوە ئەی بێرە، بۆی بڵێن.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئەو کاتە"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم گۆرانییە"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "گۆرانی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم ...ە"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بەرز ببەرەوە"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بێرە"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "بڵێن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:24:53.267822617Z",
+  "model": "glm-5.3"
+}

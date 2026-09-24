@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ئەمە ئاژەڵەکەیە کە ئێوە دەیخۆن: گا، بەرخی مەڕان و بەرخی بزنان.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ئاژەڵەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ئێوە دەیخۆن"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "مەڕان"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "و بەرخ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزنان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:16.090987621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "نەوێم گایەک لە ماڵەکەت هەڵبگرم، نە چەرەکان لە لانەکانت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نەوێم"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "هەڵبگرم"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "لە ماڵەکەت"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گایەک"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "لە لانەکانت"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "چەرەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:30.721456718Z",
+  "model": "glm-5.3"
+}

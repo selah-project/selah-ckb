@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 148,
+  "translation": "چیاكان و هەموو گردەكان، داری میوە و هەموو ئەرزەكان",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "چیاكان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "گردەكان"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ئەرزەكان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:47.409997807Z",
+  "model": "glm-5.3"
+}

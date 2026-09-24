@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بڕۆ پێیان بڵێ بۆ خۆتان بگەڕێنەوە بۆ چادرەکانتان.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "بگەڕێنەوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ خۆتان"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "بۆ چادرەکانتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:01.771075884Z",
+  "model": "glm-5.3"
+}

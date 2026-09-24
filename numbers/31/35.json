@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 31:35",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و گیانی مرۆڤ، لەو ژنانەی کە مەشکی نێر نەناسیون، هەموو گیانەکان دوو و سی و هەزار بوون.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "و گیان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ئەو ژنانەی"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "کە"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "نەناسیون"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "مەشک"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیانەکان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:55.333469043Z",
+  "model": "glm-5.3"
+}

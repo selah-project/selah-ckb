@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 91,
+  "translation": "خراپی بەسەرت نایەت، و دەرد نزیک نابێتەوە لە چادرەکەت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "بەسەرت نایەت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بەسەر تۆ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "و دەرد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "نزیک نابێتەوە"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "لە چادرەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:46.797306089Z",
+  "model": "glm-5.3"
+}

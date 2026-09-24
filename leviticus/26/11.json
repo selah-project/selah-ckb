@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و میشکانم لە ناوتان دادەنێم و گیانم ⟨את⟩ ئێوە بێزار نابێت.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "و دادەنێم"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "میشکانم"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "لە ناوتان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "بێزار نابێت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": "ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:51.877642674Z",
+  "model": "glm-5.3"
+}

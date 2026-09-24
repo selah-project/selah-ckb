@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "هەر پیاوێک بەپێی دیاریی دەستی خۆی، بەپێی بەرەکەتی یاهوە ئێلۆهیمی تۆ کە بە تۆی داوە.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "هەر پیاوێک"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "بەپێی دیاریی"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی خۆی"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "بەپێی بەرەکەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داوە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:41:20.282431079Z",
+  "model": "glm-5.3"
+}

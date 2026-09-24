@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 83,
+  "translation": "لەناوچوون لە عەین دور، بوون بە پیسایی بۆ زەوی.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "لەناوچوون"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "لە"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "عەین دور"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "بە پیسایی"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "بۆ زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:49.942519635Z",
+  "model": "glm-5.3"
+}

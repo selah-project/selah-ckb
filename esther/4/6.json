@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "هەتاخ چوو بۆ لای مۆردەخای، بۆ گۆڕەپانی شارەکە کە لەبەردەم دەروازەی پاشا ⟨بوو⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "چوو"
+    },
+    {
+      "surface": "התך",
+      "gloss": "هەتاخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مۆردەخای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "گۆڕەپانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەروازەی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T16:06:20.784602356Z",
+  "model": "glm-5.3"
+}

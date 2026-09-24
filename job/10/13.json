@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 10:13",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و ئەمانەت لە دڵتدا شاردۆتەوە؛ زانیم کە ئەمە لەلای تۆیە.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "شاردۆتەوە"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "لە دڵتدا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زانیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەلای تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:36.457529054Z",
+  "model": "glm-5.3"
+}

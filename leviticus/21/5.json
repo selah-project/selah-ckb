@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "تاوڕێ لە سەریان دروست ناکەن، و لێواری ڕیشیان نابڕن، و لە گۆشتی خۆیان دڵۆڕ ناکەن، دڵۆڕێک.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "تاوڕێ دروست دەکەن"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "تاوڕێ"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "لە سەریان"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "و لێوار"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ڕیشیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "دەبڕن"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "و لە گۆشتیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "دڵۆڕ دەکەن"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "دڵۆڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:10.752453918Z",
+  "model": "glm-5.3"
+}

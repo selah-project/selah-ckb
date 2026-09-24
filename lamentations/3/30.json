@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ڕوومەڵی دەدات بە لێدەرەکەی، لە سووکایەتی تێر دەبێت.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "بە لێدەرەکەی"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ڕوومەڵ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "تێر دەبێت"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "لە سووکایەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:59.128832639Z",
+  "model": "glm-5.3"
+}

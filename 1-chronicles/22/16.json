@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "بۆ زێڕ و زیو و مس و ئاسن ژمارە نییە؛ هەڵبستە و بکە، و یاهوە لەگەڵ تۆ بێت.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "بۆ زێڕ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "و زیو"
+    },
+    {
+      "surface": "وלנחשת",
+      "gloss": "و مس"
+    },
+    {
+      "surface": "وלברזל",
+      "gloss": "و ئاسن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژمارە"
+    },
+    {
+      "surface": "קום",
+      "gloss": "هەڵبستە"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بکە"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:31.391831664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "شەش ڕۆژ کۆیدەکەنەوە، و لە ڕۆژی حەوتەمدا شاباتە؛ لە نێیدا هیچ نابێت.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "کۆیدەکەنەوە"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژی"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەمدا"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شاباتە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە نێیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:17.966636093Z",
+  "model": "glm-5.3"
+}

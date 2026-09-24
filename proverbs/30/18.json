@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "سێ شت — ئەوانە — لە من سەرسوڕهێنەرن، و چوارەکەیان نەناسیوم.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوانە"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "سەرسوڕهێنەرن"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "نەناسیوم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:36.478300874Z",
+  "model": "glm-5.3"
+}

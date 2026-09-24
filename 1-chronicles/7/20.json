@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 7:20",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و کوڕەکانی ئێفرایم: شوتێلاح، و بەرێدی کوڕی، و تاحاتی کوڕی، و ئێلعادای کوڕی، و تاحاتی کوڕی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "شوتێلاح"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "و بەرێد"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "و تاحات"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ואלעדה",
+      "gloss": "و ئێلعادا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "و تاحات"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:29.856536026Z",
+  "model": "glm-5.3"
+}

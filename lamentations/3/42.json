@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئێمە سووچمان کرد و یاخی بووین، تۆ نەت لێبورد.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ئێمە"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "سووچمان کرد"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "و یاخی بووین"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "لێبوردیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:32.874691479Z",
+  "model": "glm-5.3"
+}

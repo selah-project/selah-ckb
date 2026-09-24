@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "خۆراکی زۆر لە زەوی شێراوی هەژاران و هەیە لەناودەچێت بەبێ دادپەروەری",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خۆراکی"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "زەوی شێراو"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "هەژاران"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "و هەیە"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "لەناودەچێت"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:43.258056880Z",
+  "model": "glm-5.3"
+}

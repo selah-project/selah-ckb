@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "دووشکی بۆ خۆی دروستکردووە؛ کەتان و ئەرغەوان جلوبەرگەکەیەتی.",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "دووشک"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "دروستکردووە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "کەتان"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "و ئەرغەوان"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "جلوبەرگەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:18.330628798Z",
+  "model": "glm-5.3"
+}

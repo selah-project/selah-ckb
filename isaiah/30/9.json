@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "چونکە ئەوە گەلێکی یاخییە، کوڕانی درۆزن، کوڕانی نەویستنی بیستنی تۆراتی یاهوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "یاخی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئەوە⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "درۆزن"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "ویستن"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "بیستن"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تۆراتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:22:45.214727465Z",
+  "model": "glm-5.3"
+}

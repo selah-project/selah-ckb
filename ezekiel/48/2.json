@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و لەسەر سنووری دان، لە پاڕەی ڕۆژهەڵاتەوە تا پاڕەی ڕۆژاوا، ئاشێر یەک.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لە پاڕەی"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ڕۆژهەڵاتەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاڕەی"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ڕۆژاوا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشێر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:12.599608367Z",
+  "model": "glm-5.3"
+}

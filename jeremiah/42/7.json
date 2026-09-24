@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و بوو لە کۆتایی دە ڕۆژ، و بوو وشەی یاهوە بۆ ییرمیاهو ⟨یەرمیا⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ییرمیاهو ⟨یەرمیا⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T12:59:00.309856356Z",
+  "model": "glm-5.3"
+}

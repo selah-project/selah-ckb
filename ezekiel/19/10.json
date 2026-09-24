@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 19:10",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "دایکەت وەک ڕەز، لە خوێنی تۆدا، لەسەر ئاو چێنراو، میوەدار و لقدار بوو لە ئاوی زۆر.",
+  "tokens": [
+    {
+      "surface": "אמך",
+      "gloss": "دایکەت"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "وەک ڕەز"
+    },
+    {
+      "surface": "בדמך",
+      "gloss": "لە خوێنی تۆدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "چێنراو"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "میوەدار"
+    },
+    {
+      "surface": "וענפה",
+      "gloss": "و لقدار"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "لە ئاوی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:12:02.927556344Z",
+  "model": "glm-5.3"
+}

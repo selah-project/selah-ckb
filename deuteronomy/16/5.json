@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ناتوانیت ⟨את⟩ پسەحەکە لە یەکێک لە دەرگاکانت سەرببڕیت، کە یاهوە ئێلۆهیمی تۆ بۆت دەدات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "دەتوانیت"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "بۆ سەربڕین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسەحەکە"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسەحەکە"
+    },
+    {
+      "surface": "بאחד",
+      "gloss": "لە یەکێک"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "دەرگاکانت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:41:38.722635766Z",
+  "model": "glm-5.3"
+}

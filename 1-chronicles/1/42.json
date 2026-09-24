@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کوڕەکانی ئێتسەر: بیلهان و زەئاڤان و یەئاکان. کوڕەکانی دیشۆن: عووتس و ئاران.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ئێتسەر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بیلهان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "و زەئاڤان"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یەئاکان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشۆن"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عووتس"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "و ئاران"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:45.212644267Z",
+  "model": "glm-5.3"
+}

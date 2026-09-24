@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 53,
+  "translation": "کێ باوەری کرد بە بیستنی ئێمە؟ و بازووی یاهوە بۆ کێ ئاشکرا بوو؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "باوەری کرد"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "بە بیستنی ئێمە"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "و بازوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "ئاشکرا بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:31:40.872770580Z",
+  "model": "glm-5.3"
+}

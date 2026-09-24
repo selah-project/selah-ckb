@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 120,
+  "translation": "یاهوە، گیانم ڕزگار بکە لە لێوی درۆ و لە زمانی فێڵکردن.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "هצילה",
+      "gloss": "ڕزگار بکە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "لە لێوی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "لە زمانی"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "فێڵکردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:47.023494323Z",
+  "model": "glm-5.3"
+}

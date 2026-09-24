@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و یاعقۆڤب بە ڕاچێلی گوت کە ئەو ⟨is⟩ برای باوکییەتی، و ⟨is⟩ کوری ڕیڤکایە، و ئەو ڕایکرد و بە باوکی گوت.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "گوت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعقۆڤب"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "بە ڕاچێل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو ⟨is⟩"
+    },
+    {
+      "surface": "وכי",
+      "gloss": "و ⟨is⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کور"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ڕیڤکا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو ⟨is⟩"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ڕایکرد"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "گوت"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "بە باوکی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:51.412169951Z",
+  "model": "glm-5.3"
+}

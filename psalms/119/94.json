@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "من هی تۆم، ڕزگارم بکە، چونکە فەرمانەکانتم گەڕاندووە.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "هی تۆم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ڕزگارم بکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "فەرمانەکانت"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "گەڕاندووە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:06.046237401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "مۆشە کوڕی سەد و بیست ساڵ بوو لە مردنیدا؛ چاوی نەلەمزی و تازەییەکەی نەشێوێت.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "و مۆشە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "لە مردنیدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "نەلەمزی"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "چاوی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "נס",
+      "gloss": "نەشێوێت"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "تازەییەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:16.694904916Z",
+  "model": "glm-5.3"
+}

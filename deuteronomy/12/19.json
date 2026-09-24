@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "ئاگاداری خۆت بە کە ⟨את⟩ لەڤییەکە بەجێنەهێڵیت هەموو ڕۆژەکانت لەسەر زەوییەکەت.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ئاگادار بە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خۆت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "بەجێنەهێڵیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لەڤییەکە"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لەڤییەکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ڕۆژەکانت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "زەوییەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:41:00.144568220Z",
+  "model": "glm-5.3"
+}

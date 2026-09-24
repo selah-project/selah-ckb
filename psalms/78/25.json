@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "نانی بەهێزەکان هەر پیاوێک خوارد، خواردنێک بۆی نارد بۆ تێربوون.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "بەهێزەکان"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوارد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هەر پیاوێک"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "خواردنێک"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "بۆ تێربوون"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:10.030314701Z",
+  "model": "glm-5.3"
+}

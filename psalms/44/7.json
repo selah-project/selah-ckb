@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "چونکە لە کەوانەم پشتم نابەستێت و شمشێرم ڕزگاری ناکات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "لە کەوانەم"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "پشتم نابەستێت"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "و شمشێرم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ڕزگاری ناکات"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:58.335959858Z",
+  "model": "glm-5.3"
+}

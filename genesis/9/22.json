@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و حام ⟨موسا⟩ باوکی کەنعان ⟨את⟩ ڕووتی باوکی بینی، و بە دوو برای دی لە دەرەوە گوت.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و بینی"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام ⟨موسا⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کەنعان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووتی"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ڕووتی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "و گوت"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "بە دوو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "لە دەرەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:37.761714536Z",
+  "model": "glm-5.3"
+}

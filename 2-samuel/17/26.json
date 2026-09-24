@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و ئیسرائیل و ئەبشالۆم لە زەوی گیلعاد چەڵانەوە.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "چەڵانەوە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "و ئەبشالۆم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گیلعاد"
+    }
+  ],
+  "timestamp": "2026-09-24T11:37:42.241353413Z",
+  "model": "glm-5.3"
+}

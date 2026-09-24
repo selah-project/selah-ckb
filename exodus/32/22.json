@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و ئاهارۆن وتی: با توڕەیی ئاغەم توند نەبێت؛ تۆ خۆت دەزانیت ⟨את⟩ گەلەکە، چونکە لە خراپیدایە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با نە"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "توند بێت"
+    },
+    {
+      "surface": "אף",
+      "gloss": "توڕەیی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئاغەم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ خۆت"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "دەزانیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەلەکە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "لە خراپیدا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:53:06.323804644Z",
+  "model": "glm-5.3"
+}

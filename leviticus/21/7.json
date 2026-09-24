@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ژنێکی زناکار و پیس ناگرن، و ئەو ژنەی لە مێردەکەی دەرکراوە ناگرن، چونکە ئەو پیرۆزە بۆ ئێلۆهیمی.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "ژنێکی"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "و پیس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "دەگرن"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "و ئەو ژنەی"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "دەرکراو"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "لە مێردەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "دەگرن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "بۆ ئێلۆهیمی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:10.752995651Z",
+  "model": "glm-5.3"
+}

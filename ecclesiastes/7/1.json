@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "چاکە ناو لە زەیتی چاک، و ڕۆژی مردن لە ڕۆژی لەدایکبوون.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "لە زەیتی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "و ڕۆژ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "مردن"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "لەدایکبوون"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:34.251701162Z",
+  "model": "glm-5.3"
+}

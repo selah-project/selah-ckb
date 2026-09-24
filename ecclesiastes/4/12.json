@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ئەگەر یەکەکە زاڵ ببێت، دووکە لەبەردەمی دەوەستن؛ و ئەو دەرزە سێ لایە زوو ناشکێت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "زاڵ ببێت"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەکە"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "دووکە"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "دەوەستن"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "لەبەردەمی"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "و ئەو دەرزە"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "سێ لایە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "زوو"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "ناشکێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:23.923245657Z",
+  "model": "glm-5.3"
+}

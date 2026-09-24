@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و لە بیلهە و لە عێتسێم و لە تۆلاد",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "و لە بیلهە"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "و لە عێتسێم"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "و لە تۆلاد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:47.759742330Z",
+  "model": "glm-5.3"
+}

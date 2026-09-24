@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "کوڕان و کچان دەبەخێیت، بەڵام لە تۆ نابن، چونکە بە دیلی دەڕۆن.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "دەبەخێیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "بەڵام نا"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "نابن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "دەڕۆن"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "بە دیلی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:00.485678057Z",
+  "model": "glm-5.3"
+}

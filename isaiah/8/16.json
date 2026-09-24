@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "شایەتییەکە ببەستە، تۆرا لە نێو قوتابییانمدا مۆر بکە.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "ببەستە"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "شایەتی"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مۆر بکە"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تۆرا"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "لە نێو قوتابییانمدا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:14:14.559987962Z",
+  "model": "glm-5.3"
+}

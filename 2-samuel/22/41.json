@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "2-samuel 22:41",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و تۆ ملی دوژمنانمم پێدا، ڕقیکەرانیشم لەناوبردن.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "و دوژمنانم"
+    },
+    {
+      "surface": "תתה",
+      "gloss": "پێدا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ערف",
+      "gloss": "مل"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ڕقیکەرانیش"
+    },
+    {
+      "surface": "ואצמיתם",
+      "gloss": "و لەناویان بردن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:48.858023758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "لە کێڵگەی پیاوێکی کاڵ تێپەڕیم، و لە باخی مۆزی مرۆڤێکی کەمدڵ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کێڵگە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاڵ"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "تێپەڕیم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "باخی مۆز"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کەم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:28.171750354Z",
+  "model": "glm-5.3"
+}

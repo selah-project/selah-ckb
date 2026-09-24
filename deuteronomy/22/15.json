@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و باوکی کچە گەنجەکە و دایکی دەگرێت و ⟨את⟩ پاکێتی کچە گەنجەکە بۆ پیرانی شار لە دەروازە دەرهێنن،",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "و دەگرێت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "کچە گەنجەکە"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "و دایکی"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "و دەرهێنن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاکێتی"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "پاکێتی"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "کچە گەنجەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پیرانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "دەروازە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:25.458735771Z",
+  "model": "glm-5.3"
+}

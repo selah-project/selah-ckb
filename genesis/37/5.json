@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "یۆسێف خەونێکی بینی و بە برایانی وت، و ئیتر زیاتر ڕق لە ئەو ⟨את⟩ هەڵگرتن.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "و خەونێکی بینی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خەونێک"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "بە برایانی"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "و زیاتر"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ڕق هەڵگرتن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "یۆسێف"
+    }
+  ],
+  "timestamp": "2026-09-24T09:28:24.619964797Z",
+  "model": "glm-5.3"
+}

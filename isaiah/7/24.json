@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بە تیر و بە کەوان دێتە ئەوێ، چونکە خەروا و داربەر دەبێت هەموو زەویەکە.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "بە تیر"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "و بە کەوان"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێتە"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئەوێ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "خەروا"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "و داربەر"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:14:11.189452335Z",
+  "model": "glm-5.3"
+}

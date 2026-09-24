@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ئەگەر ڕەگەکەی لە زەوی پیر بێت، و لە خۆڵ تەنەکەی بمرێت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "پیر بێت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "ڕەگەکەی"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "و لە خۆڵ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "بمرێت"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "تەنەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:38:12.809649065Z",
+  "model": "glm-5.3"
+}

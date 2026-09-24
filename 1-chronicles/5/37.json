@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و عەزەریا ⟨את⟩ ئەمەریای بەخێوکرد و ئەمەریا ⟨את⟩ ئەحیتوبی بەخێوکرد.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "و بەخێوکرد"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عەزەریا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەمەریا"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ئەمەریا"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "و ئەمەریا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێوکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەحیتوب"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ئەحیتوب"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:47.399092450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بەڵام کۆتاییەکەی تاڵە وەک ئەفسەنتین، تیژە وەک شمشێری دوولێو.",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "بەڵام کۆتاییەکەی"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "تاڵە"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "وەک ئەفسەنتین"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "تیژە"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "وەک شمشێری"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "دوولێو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:24.968806760Z",
+  "model": "glm-5.3"
+}

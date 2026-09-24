@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "بۆ ئەو گۆرانییەکی نوێ بڵێن، باش ژەنن بە هه‌رایه‌کی بەرز",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "بڵێن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گۆرانییەکی"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوێ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "باش"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ژەنن"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "بە هه‌رایه‌کی بەرز"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:59.064692894Z",
+  "model": "glm-5.3"
+}

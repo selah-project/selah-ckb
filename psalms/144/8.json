@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 144,
+  "translation": "کە دەمیان قسەی بەتاڵ وتووە و دەستی ڕاستیان دەستێکی درۆیە.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "دەمیان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وتووە"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "قسەی بەتاڵ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "و دەستی ڕاستیان"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "دەستێکی ڕاست"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروویە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:54.795358702Z",
+  "model": "glm-5.3"
+}

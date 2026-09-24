@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "سەرەکانی گەل: پارۆش، پەحات مۆئاڤ، عەیلام، زاتوو، بانی،",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "سەرەکانی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پارۆش"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پەحات"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاڤ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عەیلام"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زاتوو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:39.872449757Z",
+  "model": "glm-5.3"
+}

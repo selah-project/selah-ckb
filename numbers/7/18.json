@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لە ڕۆژی دووەمدا نەتەنائێل کوڕی زوعار، سەرۆکی ییسساکار، پێشکەشی کرد.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "پێشکەشی کرد"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نەتەنائێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "زوعار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییسساکار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:26.739446731Z",
+  "model": "glm-5.3"
+}

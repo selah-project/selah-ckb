@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئێلۆهیم ⟨את⟩ هەموو ئەوەی کە کردبووی بینی، و ئەوەتا زۆر چاک بوو. و ئێوارە بوو و بەیانی بوو — ڕۆژی شەشەم.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و بینی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەوەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردبووی"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ئێوارە"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شەشەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:10.382535886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی پاشخوور ⟨هەزار⟩ و دوو سەد و چوارە و حەوت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "پاشخوور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چوارە"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و حەوت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:15.693668394Z",
+  "model": "glm-5.3"
+}

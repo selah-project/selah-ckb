@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و باوکتان فریوی من دا و کرێمی دە جار گۆڕی، و ئێلۆهیم نەیهێشت ⟨بەو⟩ بە خراپم لێ بکات.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "و باوکتان"
+    },
+    {
+      "surface": "התل",
+      "gloss": "فریوی دا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "من"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "و گۆڕی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کرێم"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "کرێم"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دە"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "جار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەیهێشت"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ڕێی نەدا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "بە خراپم لێ بکات"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لەگەڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:54.948969400Z",
+  "model": "glm-5.3"
+}

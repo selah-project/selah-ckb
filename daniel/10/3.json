@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "نانی خوازراو نەمخوارد و گۆشت و شەراب نەهات ⟨ئەو⟩ بۆ دەمم، و چەورکردنم نەکرد هەتا پڕبوونی سێ هەفتە ڕۆژ.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نانی"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "خوازراو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "نەمخوارد"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "و گۆشت"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شەراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "نەهات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمم"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "و چەورکردن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "نەکرم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پڕبوونی"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هەفتە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:08:19.878165484Z",
+  "model": "glm-5.3"
+}

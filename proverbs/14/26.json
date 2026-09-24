@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لە ترسی یاهوە پشتگوێی بەهێز ⟨هەیە⟩، و بۆ کوڕەکانی پەناهەیە.",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "لە ترسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "پشتگوێ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "و بۆ کوڕەکانی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پەناهە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:40.808611502Z",
+  "model": "glm-5.3"
+}

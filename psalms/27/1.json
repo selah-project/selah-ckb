@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "لە داود. یاهوە ڕووناکیمە و ڕزگاریمە، لە کێ بترسم؟ یاهوە قەڵای ژیانمە، لە کێ بترسم؟",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "لە داود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ڕووناکیمە"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "و ڕزگاریمە"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "لە کێ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "بترسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "قەڵا"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ژیانم"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "לە کێ"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "بترسم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:48.071618989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "عەین ریمۆن، و عەتێر، و عەشان — شارەکان چوار، و دیhookەکانیان",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "عەین"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ریمۆن"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "و عەتێر"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "و عەشان"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شارەکان"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "و دیhookەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:42.382205045Z",
+  "model": "glm-5.3"
+}

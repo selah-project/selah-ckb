@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "فەرمووی: قسەیەکم هەیە بۆ تۆ. ئەویش وت: بڵێ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەیەک"
+    },
+    {
+      "surface": "לי",
+      "gloss": "هەیە بۆ من"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ئەویش وت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بڵێ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:44:37.163837076Z",
+  "model": "glm-5.3"
+}

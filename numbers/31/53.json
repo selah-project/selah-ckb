@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "چونکە پیاوانی لەشکر تاڵانیان کرد، هەر یەکێک بۆ خۆی.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لەشکرەکە"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "تاڵانیان کرد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هەر یەکێک"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:42.804039074Z",
+  "model": "glm-5.3"
+}

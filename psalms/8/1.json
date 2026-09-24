@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بۆ ڕابەر، لەسەر گیتیت، سرودی داوید.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕابەر"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گیتیت"
+    },
+    {
+      "surface": "مזמור",
+      "gloss": "سرود"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داوید"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:09.521242474Z",
+  "model": "glm-5.3"
+}

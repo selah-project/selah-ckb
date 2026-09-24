@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "تۆرای ئێلۆهیمی لە دڵیدایە، هەنگاوەکانی نالەرزێن.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "تۆرای"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "لە دڵیدایە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "نالەرزێن"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "هەنگاوەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:41.665895270Z",
+  "model": "glm-5.3"
+}

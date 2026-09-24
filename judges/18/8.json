@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 18:8",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و هاتن بۆ لای براکانیان، سورە و ئەشتائۆل، و براکانیان بەیان وت: ئێوە چی؟",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "و هاتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "براکانیان"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "سورە"
+    },
+    {
+      "surface": "ואשתאל",
+      "gloss": "و ئەشتائۆل"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و بەیان وت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بە وان"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "براکانیان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:13:13.433184517Z",
+  "model": "glm-5.3"
+}

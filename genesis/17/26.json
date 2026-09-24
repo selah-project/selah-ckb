@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "لە خودی ئەم ڕۆژەدا ئاڤراهام ⟨ئیبراهیم⟩ خەتنکرا و ییشماعێل کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "لە خودی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "خەتنکرا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "و ییشماعێل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:16:36.711075492Z",
+  "model": "glm-5.3"
+}

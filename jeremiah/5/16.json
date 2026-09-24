@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "تیرخانەکەیان وەک گۆڕێکی کراوەیە ⟨هەموویان⟩ جەنگاوەرن.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "تیرخانەکەیان"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "وەک گۆڕێکی"
+    },
+    {
+      "surface": "پתוח",
+      "gloss": "کراوە"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "هەموویان"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "جەنگاوەرن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:39:40.563889630Z",
+  "model": "glm-5.3"
+}

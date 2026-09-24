@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "بۆ ڕێبەر، مەزموورێکی داود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕێبەر"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموورێکی"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:43.025134827Z",
+  "model": "glm-5.3"
+}

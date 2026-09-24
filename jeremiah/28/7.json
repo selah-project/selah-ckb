@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "بەڵام ئێستا گوێ لەم قسەیە بگرە کە من دەیکەم بە گوێ تۆدا و بە گوێ هەموو گەلدا.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دەیکەم"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "بە گوێ تۆدا"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "و بە گوێ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلدا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:51:17.940680571Z",
+  "model": "glm-5.3"
+}

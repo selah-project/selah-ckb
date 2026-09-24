@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 26:11",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و لە هەموو چاکەکە کە یاهوە ئێلۆهیمی تۆ بە تۆ و ماڵی تۆ داوە دەخۆشیت — تۆ و لێڤی و بیانیەکە کە لە ناو تۆدایە.",
+  "tokens": [
+    {
+      "surface": "ושמחת",
+      "gloss": "و دەخۆشیت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چاکەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داوە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "ולביתך",
+      "gloss": "و ماڵی تۆ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "و لێڤی"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "و بیانیەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "لە ناو تۆدایە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:42.033658544Z",
+  "model": "glm-5.3"
+}

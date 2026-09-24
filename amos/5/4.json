@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چونکە هەر وەها فەرموویە یاهوە بۆ ماڵی یسرائیل: من بگەڕێن و بژین.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هەر وەها"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموویە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بۆ ماڵی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "من بگەڕێن"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "و بژین"
+    }
+  ],
+  "timestamp": "2026-09-24T13:35:36.889547572Z",
+  "model": "glm-5.3"
+}

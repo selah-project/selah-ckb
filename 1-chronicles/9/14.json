@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و لە لێڤییەکان ⟨لە⟩ شمەیا ⟨شەمەیا⟩ کوڕی حەشووب کوڕی عەزرێقام کوڕی حەشەڤیا، لە کوڕانی مێراری.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لێڤییەکان"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمەیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "حەشووب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عەزرێقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حەشەڤیا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مێراری"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:33.106912028Z",
+  "model": "glm-5.3"
+}

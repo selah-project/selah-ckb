@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "لەو ڕۆژانەدا من دانیێل ماتەم گیرا سێ هەفتە ڕۆژ.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "لەو ڕۆژانەدا"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیێل"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "ماتەم گیرا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "هەفتە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:08:19.877932195Z",
+  "model": "glm-5.3"
+}

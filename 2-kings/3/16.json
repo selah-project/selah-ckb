@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و وت: هەر وا یاهوە فەرمووی: ئەم دۆڵە بکەن بە گۆم گۆم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بکەن"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "دۆڵەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "گۆم"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "گۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:59:48.193050169Z",
+  "model": "glm-5.3"
+}

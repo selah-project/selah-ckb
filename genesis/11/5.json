@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و یاهوە دابەزی بۆ بینینی ⟨את⟩ شارەکە و ⟨את⟩ بورجەکە کە کوڕەکانی مرۆڤ بونیان.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "و دابەزی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "بۆ بینینی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شارەکە"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بورجەکە"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "بورجەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بونیان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:57.997271537Z",
+  "model": "glm-5.3"
+}

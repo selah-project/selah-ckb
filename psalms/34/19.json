@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "نزیکە یاهوە لای شکانەدڵان، و ⟨את⟩ کۆپراوانی ڕۆح ڕزگار دەکات.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نزیکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "لای شکانەدڵان"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کۆپراوانی ڕۆح"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "کۆپراوانی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ڕزگار دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:28.375612342Z",
+  "model": "glm-5.3"
+}

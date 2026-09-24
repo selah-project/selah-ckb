@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و لەسەر سنووری ئاشێر، لە پاڕەی ڕۆژهەڵاتەوە و تا پاڕەی ڕۆژاوا، نەفتالی یەک.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشێر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لە پاڕەی"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ڕۆژهەڵاتەوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "پاڕەی"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ڕۆژاوا"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نەفتالی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:12.599749528Z",
+  "model": "glm-5.3"
+}

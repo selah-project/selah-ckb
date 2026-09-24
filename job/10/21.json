@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "پێش ئەوەی بڕۆم وە نەگەڕێمەوە، بۆ زەوی تاریکی و سایەی مەرگ",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "پێش ئەوەی"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "بڕۆم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "وە نە"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "گەڕێمەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "و سایەی مەرگ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:05.810396775Z",
+  "model": "glm-5.3"
+}

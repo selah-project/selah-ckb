@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ڕاکەری دادپەروەری و حەسەد، ژیان و دادپەروەری و شکۆ دەدۆزێتەوە.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "ڕاکەری"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "و حەسەد"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "دەدۆزێتەوە"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و شکۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:21.088184352Z",
+  "model": "glm-5.3"
+}

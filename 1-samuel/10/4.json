@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و لە تۆ دەپرسن بۆ سلاوەتی، و دوو نانت پێت دەدەن و تۆ لە دەستیان وەردەگریت.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "و دەپرسن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "بۆ سلاوەتی"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "و دەدەن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "و وەردەگریت"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "لە دەستیان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:20:10.971408402Z",
+  "model": "glm-5.3"
+}

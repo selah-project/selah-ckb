@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "چاودێری ڕێڕەوەکانی ماڵەکەی دەکات، و نانی کەسلێتی ناخوات.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "چاودێری دەکات"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "ڕێڕەوەکانی"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ماڵەکەی"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "و نانی"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "کەسلێتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ناخوات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:11.661578208Z",
+  "model": "glm-5.3"
+}

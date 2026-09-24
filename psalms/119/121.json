@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "داد و ڕاستیم کردووە؛ بە هیچ شێوەیەک مەمێڵە بۆ سەتاکانم.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "کردووە"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "و ڕاستی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بە هیچ شێوەیەک"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "مەمێڵە"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "بۆ سەتاکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:50.401689483Z",
+  "model": "glm-5.3"
+}

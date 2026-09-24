@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و بۆ هۆزی کوڕەکانی دان سەرکردە بوکی کوڕی یۆگلی.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "و بۆ هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرکردە"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بوکی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "یۆگلی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:33.866283158Z",
+  "model": "glm-5.3"
+}

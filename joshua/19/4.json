@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئەلتۆلاد و بەتوول و حەرمە.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "و ئەلتۆلاد"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "و بەتوول"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "و حەرمە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:57.887965957Z",
+  "model": "glm-5.3"
+}

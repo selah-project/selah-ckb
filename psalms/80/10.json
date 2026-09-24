@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 80,
+  "translation": "بۆ پێشی پاکژت کرد، و ڕەگەکانی داکوڵان و زەوییەکەی پڕ کرد.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "پاکژت کرد"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "بۆ پێشی"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "و داکوڵا"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "ڕەگەکانی"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "و پڕ کرد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوییەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:00.803110098Z",
+  "model": "glm-5.3"
+}

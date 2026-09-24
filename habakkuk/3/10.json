@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 3:10",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "تۆیان بینی چیاكان لەرزان؛ لێشاوی ئاو تێپەڕی، قووڵایە دەنگی دا، بەرزی دەستەکانی هەڵگرت.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "تۆیان بینی"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "لەرزان"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "چیاكان"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "لێشاوی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تێپەڕی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "قووڵایە"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "רום",
+      "gloss": "بەرزی"
+    },
+    {
+      "surface": "ידיהו",
+      "gloss": "دەستەکانی"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "هەڵگرت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:41:08.692575719Z",
+  "model": "glm-5.3"
+}

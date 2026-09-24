@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "بیربکەوە کە ژیانی من چ کورتەیە؛ بۆچی بە پووچەڵی هەموو کوڕەکانی ئادەمی دروست کردووە؟",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "بیربکەوە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "کورتەی ژیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "پووچەڵی"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "دروست کردووە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:59.169090216Z",
+  "model": "glm-5.3"
+}

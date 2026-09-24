@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و لەسەر سنووری مەنەشە، لە لای ڕۆژهەڵاتەوە تا لای ڕۆژئاوا، ئەفرایم یەک ⟨بەش⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەشە"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ڕۆژهەڵاتەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "لای"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ڕۆژئاوا"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئەفرایم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:12.820875429Z",
+  "model": "glm-5.3"
+}

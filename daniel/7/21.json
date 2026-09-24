@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "دەمبینی و ئەو قۆچە جەنگی لەگەڵ پیرۆزان کرد و توانی بەسەریاندا زاڵ بێت.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "دەمبینی"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "و ئەو قۆچە"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جەنگ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "پیرۆزان"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "و توانی"
+    },
+    {
+      "surface": "להון",
+      "gloss": "بەسەریاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:07:06.810472283Z",
+  "model": "glm-5.3"
+}

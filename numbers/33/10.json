@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە ئەلییم کوچیان کرد و لەسەر دەریای سووف ⟨خوێ⟩ چادر هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچیان کرد"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "لە ئەلییم"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و چادر هەڵکێشا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریای"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سووف"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:37.582496178Z",
+  "model": "glm-5.3"
+}

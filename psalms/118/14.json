@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "هێزی من و گۆرانی یاه، و بوو بۆ من بۆ ڕزگاری.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "هێزی من"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "و گۆرانی"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "بۆ ڕزگاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:00.486540232Z",
+  "model": "glm-5.3"
+}

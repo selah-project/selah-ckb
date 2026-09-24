@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و پێغەمبەران دەبن بە با، و قسەکە لەواندا نییە، هەر وەها بۆ ئەوان دەکرێت.",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "و پێغەمبەران"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "بە با"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "و قسەکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لەواندا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هەر وەها"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکرێت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆ ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:39:40.563144571Z",
+  "model": "glm-5.3"
+}

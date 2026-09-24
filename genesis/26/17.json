@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "ییتسحاک ⟨ئیسحاق⟩ لەوێوە ڕۆیی و لە دۆڵی گەرار چادر هەڵدا و لەوێ نیشتەجێ بوو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیی"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێوە"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاک"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "و چادر هەڵدا"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "لە دۆڵی"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "گەرار"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و نیشتەجێ بوو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:53.524296237Z",
+  "model": "glm-5.3"
+}

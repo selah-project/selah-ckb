@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "باشترە ڕۆحی نزم لەگەڵ ⟨את⟩ هەژاران، لە دابەشکردنی غەنیمەت لەگەڵ ⟨את⟩ بەرزبانان.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "نزم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەژاران"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "هەژاران"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "دابەشکردن"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "غەنیمەت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەرزبانان"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "بەرزبانان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:13.760567488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ڕووناکیدا چاوەکان دڵ شاد دەکەن، هەواڵێکی چاک ئێسکەکان چەور دەکات.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "ڕووناکیدا"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چاوەکان"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد دەکەن"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "هەواڵێکی"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "چەور دەکات"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ئێسکەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:28.337749579Z",
+  "model": "glm-5.3"
+}

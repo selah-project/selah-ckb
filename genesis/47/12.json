@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "یوسێف ⟨את⟩ باوکی و ⟨את⟩ برایانی و ⟨את⟩ هەموو خێزانی باوکی بە نان بەپێی منداڵەکان پێدەویشت.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "و پێدەویشت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باوکی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "برایانی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برایانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خێزانی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بەپێی"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "منداڵەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:33:34.960585788Z",
+  "model": "glm-5.3"
+}

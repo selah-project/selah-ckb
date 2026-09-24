@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 18:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "ڕاست دەردەکەوێت یەکەم لە تێکەڵەکەیدا؛ هاوڕێی دێت و دەیپشکنێت.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "لە تێکەڵەکەیدا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی"
+    },
+    {
+      "surface": "וחקרו",
+      "gloss": "و دەیپشکنێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:48.823879135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "وە ئەگەر ⟨ئەو⟩ ⟨את⟩ کێڵگەی کڕدراوی خۆی — کە لە کێڵگەی موڵکیی خۆی نییە — پیرۆزی بکات بۆ یاهوە،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "وە ئەگەر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کێڵگەی"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کێڵگەی"
+    },
+    {
+      "surface": "مקנתו",
+      "gloss": "کڕدراوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "لە کێڵگەی"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "موڵکی"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "پیرۆزی بکات"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:18.999850525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و کوڕی یەهۆناتان مێریڤ بەعل ⟨بوو⟩، و مێریڤ بەعل ⟨את⟩ میکای بووە باوکی.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "و کوڕی"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یەهۆناتان"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مێریڤ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بەعل"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "و مێریڤ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بەعل"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بووە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میکا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:14.150267484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "بەڵام وەک چۆن ⟨את⟩ ئاسک و ⟨את⟩ گوان دەخۆردرێن، هەر وا تۆش دەیخۆی؛ پیسەکە و پاکەکە پێکەوە دەیخۆن.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخۆردرێن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاسک"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "ئاسک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گوان"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "گوان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "دەیخۆی"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "پیسەکە"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "و پاکەکە"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "دەیخۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:17.140745795Z",
+  "model": "glm-5.3"
+}

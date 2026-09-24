@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و ئەو قسەیەی کە من و تۆ کردومان — ئەوەتا یاهوە لە نێوان من و تۆدایە هەتا هەتایە.",
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "و ئەو قسەیە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "کردومان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "لە نێوان من"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەتایە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:24:22.808189622Z",
+  "model": "glm-5.3"
+}

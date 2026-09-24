@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "چونکە من هەژار و دەویشم، و دڵم لە ناوەوەم ⟨کوژراوە⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עני",
+      "gloss": "هەژار"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و دەویش"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "و دڵم"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "کوژراو"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "لە ناوەوەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:40.691372602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و بوو کاتێک مۆشە تەواو بوو لە نووسینی ⟨את⟩ وشەکانی ئەم تۆرایە لەسەر کتێبێک، هەتا تەواو بوون.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "کاتێک تەواو بوو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "لە نووسین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەکانی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ئەم تۆرایە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتێبێک"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "تەواو بوون"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:20.239059041Z",
+  "model": "glm-5.3"
+}

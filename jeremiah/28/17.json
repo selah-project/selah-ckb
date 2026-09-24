@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و حەنەنیا ⟨موسا⟩ پێغەمبەر لەو ساڵەدا، لە مانگی حەوتەمدا مرد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حەنەنیا ⟨موسا⟩"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەر"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "لە ساڵ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "لە مانگ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:50:24.512426079Z",
+  "model": "glm-5.3"
+}

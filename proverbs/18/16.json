@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "دیاریی مرۆڤ بۆی فراوانی دەکات، و لەبەردەم گەورەکاندا دەیبات.",
+  "tokens": [
+    {
+      "surface": "مתן",
+      "gloss": "دیاریی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ירחי׬",
+      "gloss": "فراوانی دەکات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "و لەبەردەم"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "گەورەکاندا"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "دەیبات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:57.568528717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئەگەر وەک زێر بگەڕێیت و وەک گەنجینە شاراوەکان بگەڕێیتەوە،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "بگەڕێیت"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "وەک زێر"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "و وەک گەنجینە شاراوەکان"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "بگەڕێیتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:23.392827763Z",
+  "model": "glm-5.3"
+}

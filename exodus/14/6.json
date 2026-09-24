@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و عەرەبانەکانی ⟨ئەو⟩ بەست و گەلەکەی ⟨خۆی⟩ هەڵگرت لەگەڵ خۆی.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "و بەست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەرەبانەکانی"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "عەرەبانەکانی ئەو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گەلەکەی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گەلەکەی"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "هەڵگرت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵ خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:41:57.471095692Z",
+  "model": "glm-5.3"
+}

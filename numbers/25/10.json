@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و یاهوە قسەی لەگەڵ مۆشە ⟨موسا⟩ کرد و وتی:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:45.414082928Z",
+  "model": "glm-5.3"
+}

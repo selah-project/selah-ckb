@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "زەیتوونت هەدەبیت لە هەموو سنوورەکەتدا، و بە زەیت نازۆیت، چونکە زەیتوونەکەت دەڕوخێنرێت.",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "زەیتوونت"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "هەدەبیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "سنوورەکەتدا"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "و بە زەیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "نازۆیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "دەڕوخێنرێت"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "زەیتوونەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:55.342854960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "سامان لە بەتاڵی کەم دەبێت، و کۆکەرەوە بە دەست زیادی دەکات.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "لە بەتاڵی"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "کەم دەبێت"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "و کۆکەرەوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "زیادی دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:33.841541467Z",
+  "model": "glm-5.3"
+}

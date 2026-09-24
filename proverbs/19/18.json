@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "کوڕەکەت ڕابهێنە چونکە هیوا هەیە، و بۆ کوژنانی نەبێت گیان هەڵمەبەرە.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "ڕابهێنە"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "کوڕەکەت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "هیوا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "بۆ کوژنانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "هەڵمەبەرە"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "گیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:39.290359204Z",
+  "model": "glm-5.3"
+}

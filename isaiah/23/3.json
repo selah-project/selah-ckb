@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و لە ئاوی زۆر تۆوی شیحۆر، دروستی ڕووبارەکە، داهاتەکەی بوو؛ و بوو بازاڕی گەلان.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "و لە ئاو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تۆو"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "شیحۆر"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "دروست"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "ڕووبار"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "داهاتەکەی"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "بازاڕ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:59.086159086Z",
+  "model": "glm-5.3"
+}

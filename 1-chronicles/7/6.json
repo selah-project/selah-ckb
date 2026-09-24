@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بنیامین ⟨کۆچەرەوە⟩ بەعلا و بێخێر و ییدیائێل ⟨بوون⟩، سێ ⟨کوڕ⟩.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بەعلا"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "و بێخێر"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "و ییدیائێل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:56.851898333Z",
+  "model": "glm-5.3"
+}

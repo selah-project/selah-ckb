@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "زمانی چاکەکەر دارێکی ژیانە، و شێواندنی تێیدا شکاندنی ڕۆحە.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "چاکەکەر"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دارێکی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "و شێواندن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکاندن"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ڕۆح"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:15.216777107Z",
+  "model": "glm-5.3"
+}

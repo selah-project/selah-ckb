@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "کەوانەکەی چەکاند و وەکوو ئامانجێک بۆ تیر ڕایگرتم.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "چەکاند"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "کەوانەکەی"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "ڕایگرتم"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "وەکوو ئامانج"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "بۆ تیر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:31.973619171Z",
+  "model": "glm-5.3"
+}

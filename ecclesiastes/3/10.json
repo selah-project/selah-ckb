@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "من ⟨את⟩ زەحمەتییەکەم بینی کە ئێلۆهیم داوەیە بە کوڕانی مرۆڤەوە بۆ ڕاکردنی تێیدا.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەحمەتییەکە"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "زەحمەتییەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بە کوڕانی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "بۆ ڕاکردن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:40.329441170Z",
+  "model": "glm-5.3"
+}

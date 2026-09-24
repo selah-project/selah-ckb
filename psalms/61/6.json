@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 61,
+  "translation": "چونکە تۆ ئێلۆهیم نەزەرەکانمت بیست، میراتی ئەوانەی لە ناوت دەترسنت بەخشی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "שמעت",
+      "gloss": "بیستت"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "نەزەرەکانم"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "بەخشیت"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "میرات"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ئەوانەی دەترسن"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:30.261693531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و لە بیابانی پاران مایەوە، و دایکی بۆی ژنێک لە زەوی میتسرایمەوە هێنا.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و مایەوە"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیابان"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "پاران"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "و هێنا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێک"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:19:16.723279361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و بۆ خانووەکە پەنجەرەی قەرەبالا داخراوی کرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بۆ خانووەکە"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "پەنجەرەی"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "قەرەبالا"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "داخراوی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:47:00.455887747Z",
+  "model": "glm-5.3"
+}

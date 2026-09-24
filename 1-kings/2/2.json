@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "من بە ڕێگەی هەموو زەویدا دەڕۆم، و تۆ بەهێز بە و ببە بە پیاو،",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "دەڕۆم"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "بە ڕێگەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویدا"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "و تۆ بەهێز بە"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "و ببە بە"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "پیاو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:46:01.856096735Z",
+  "model": "glm-5.3"
+}

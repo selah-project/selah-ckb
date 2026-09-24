@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و ئێلۆهیم هات لای بیلعام و فەرموو: ئەم پیاوانەی لەگەڵ تۆن کێن؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ئەم پیاوانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:25:51.989797626Z",
+  "model": "glm-5.3"
+}

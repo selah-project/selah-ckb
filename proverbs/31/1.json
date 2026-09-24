@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "وشەکانی لەموعێل ⟨لەمویێل⟩ پاشا، بارگرانێک کە دایکی فێری کردی.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "لەموعێل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "משא",
+      "gloss": "بارگرانێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "فێری کردی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:34.421708024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و یاهوە پێی فەرموو: ئەمە چییە لە دەستتدا؟ و وت: عاسایە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ئەمە چییە"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "لە دەستتدا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عاسایە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:50:58.543635252Z",
+  "model": "glm-5.3"
+}

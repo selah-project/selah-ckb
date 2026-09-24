@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "کوڕانی لێڤی: گێرشۆن، کەهات، و مێراری.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گێرشۆن"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "کەهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "و مێراری"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:35.408800229Z",
+  "model": "glm-5.3"
+}

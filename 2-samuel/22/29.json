@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "چونکە تۆ چراکی منی یاهوە، و یاهوە تاریکییەکەم ڕووناک دەکات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "چراکی منی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "ڕووناک دەکات"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "تاریکییەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:31.242556913Z",
+  "model": "glm-5.3"
+}

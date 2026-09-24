@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 76,
+  "translation": "تۆ ترسناکی، تۆ، و کێ دەوەستێت لە بەردەمتدا، کاتێک توڕەییت؟",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ترسناک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "دەوەستێت"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "لە بەردەمتدا"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "توڕەییت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:29.421625757Z",
+  "model": "glm-5.3"
+}

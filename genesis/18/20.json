@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و یاهوە فەرموو: هاوارەکەی سەدۆم و عەمۆرا زۆرە، و گوناهەکەیان زۆر قورسە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "هاوارەکەی"
+    },
+    {
+      "surface": "סדום",
+      "gloss": "سەدۆم"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "و عەمۆرا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "زۆرە"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "و گوناهەکەیان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "قورسە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:12.950803815Z",
+  "model": "glm-5.3"
+}

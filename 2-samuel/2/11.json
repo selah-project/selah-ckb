@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ژمارەی ئەو ڕۆژانەی کە داود لە حەبرۆن پاشا بوو لەسەر ماڵی یهودا، حەوت ساڵ و شەش مانگ بوو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژمارەی"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڕۆژەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "لە حەبرۆن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:31:25.506571325Z",
+  "model": "glm-5.3"
+}

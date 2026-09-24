@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "با بۆ تۆ بێت، تەنها بۆ خۆت، و نەبێت بۆ بیانیان ⟨את⟩ لەگەڵت.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "با بێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "تەنها بۆ خۆت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نەبێت"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "بۆ بیانیان"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ لەگەڵت",
+      "marks": "لەگەڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:11.702676204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "هەموو گەلان وەک هیچ لەبەردەمیدان؛ لە سفر و بەتاڵی بۆی ژماردراون.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "وەک هیچ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "لەبەردەمیدان"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "لە سفر"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "و بەتاڵی"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ژماردراون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:27:35.244595163Z",
+  "model": "glm-5.3"
+}

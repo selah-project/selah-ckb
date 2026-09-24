@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و لەبەری دانا ⟨את⟩ سنگپەڕ و لە سنگپەڕەکە خست ⟨את⟩ ئوری و ⟨את⟩ توومی.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و دانا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەبەری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سنگپەڕ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سنگپەڕ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و خست"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سنگپەڕەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئوری"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ئوری"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "و ⟨את⟩",
+      "marks": "توومی"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "توومی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:42.228415377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کوڕەکانی یۆناتان پێلێت و زازا بوون؛ ئەمانە کوڕەکانی یێرەحمێل بوون.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یۆناتان"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "پێلێت"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "و زازا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یێرەحمێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:08.640302192Z",
+  "model": "glm-5.3"
+}

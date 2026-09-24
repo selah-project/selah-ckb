@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "لەنەفرەتکراوە ⟨کە⟩ لەگەڵ خوشکەکەی دەخەوێت، کچی باوکی یان کچی دایکی، و هەموو گەلەکە دەڵێت: ئامین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لەنەفرەتکراوە"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "دەخەوێت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "خوشکەکەی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:57.054123038Z",
+  "model": "glm-5.3"
+}

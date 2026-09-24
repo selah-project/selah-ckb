@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "وشەکەت زۆر پاککراوە، و خزمەتکاریت خۆشی دەوێت.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "پاککراوە"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "وشەکەت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "و خزمەتکاریت"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "خۆشی دەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:33.901966042Z",
+  "model": "glm-5.3"
+}

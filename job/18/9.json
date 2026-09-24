@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "بە پاشپای تەڵە دەیگرێت، بە توندەوە تسمە لەسەری دادەگیرێت",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "دەیگرێت"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "بە پاشپای"
+    },
+    {
+      "surface": "פח",
+      "gloss": "تەڵە"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "دادەگیرێت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "تسمە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:00.648692520Z",
+  "model": "glm-5.3"
+}

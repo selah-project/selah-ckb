@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "بە پێ دەیکوڵنەوە، تاجی گەورەیی سەرخۆشەکانی ئێفرایم.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "بە پێ"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "دەیکوڵنەوە"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاجی"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "گەورەیی"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "سەرخۆشەکانی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:21:32.134017146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و یاهوە فەرمووی بۆ مۆشە ⟨موسا⟩ و ئاهارۆن: ئەمە حوکمی پەسەحەکەیە، هەموو کوڕی بیانی نایخوات لەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "و ئاهارۆن"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "حوکمی"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پەسەحەکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بیانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:41:51.636624847Z",
+  "model": "glm-5.3"
+}

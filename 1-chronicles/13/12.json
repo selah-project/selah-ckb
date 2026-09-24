@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و داڤید ترسا ⟨את⟩ ئێلۆهیم لەو ڕۆژەدا، بەمەی وت: چۆن بهێنم بۆ لای خۆم ⟨את⟩ سندوقی ئێلۆهیم؟",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "و ترسا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داڤید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئێلۆهیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەمەی وت"
+    },
+    {
+      "surface": "היך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "بهێنم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ لای خۆم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندوقی ئێلۆهیم"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "سندوقی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:52.726595551Z",
+  "model": "glm-5.3"
+}

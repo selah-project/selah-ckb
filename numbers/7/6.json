@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و مۆشە ⟨موسا⟩ عەرابانەکان و گاکانی گرت و ئەوانی دا بە لەڤییەکان.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و گرت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەرابانەکان"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "عەرابانەکان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گاکان"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گاکان"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ئەوان",
+      "marks": "بە لەڤییەکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "לەڤییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:45.389540708Z",
+  "model": "glm-5.3"
+}

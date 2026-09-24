@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "کاڵەکەس دەستی لە تاوەرەکەدا شاردەوە، هەتا دەمەکەی لێی ناگەڕێنێتەوە.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "شاردەوە"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاڵەکەس"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "لە تاوەرەکەدا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "دەمەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ناگەڕێنێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:10.736967339Z",
+  "model": "glm-5.3"
+}

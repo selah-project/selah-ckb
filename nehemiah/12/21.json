@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "بۆ حیلیقیا حەشەبیا، بۆ یدعیا نەتانئێل.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "بۆ حیلیقیا"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حەشەبیا"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "بۆ یدعیا"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نەتانئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:33.961260866Z",
+  "model": "glm-5.3"
+}

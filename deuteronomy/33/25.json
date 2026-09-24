@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "ئاسن و مس بەندە دەرگاکانت ⟨ئین⟩، و هەروەک ڕۆژەکانی تۆ، ئارامیی تۆ.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسن"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "و مس"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "بەندە دەرگاکانت"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "و هەروەک ڕۆژەکانی تۆ"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "ئارامیی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:49.907333894Z",
+  "model": "glm-5.3"
+}

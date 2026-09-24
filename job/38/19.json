@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "کوێیە ئەو ڕێگایەی ڕووناکی تێیدا دەمێنێتەوە؟ و تاریکی — کوێیە ئەو شوێنەی؟",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "کوێ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "دەمێنێتەوە"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ڕووناکی"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "و تاریکی"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کوێ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "شوێنی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:06.954872683Z",
+  "model": "glm-5.3"
+}

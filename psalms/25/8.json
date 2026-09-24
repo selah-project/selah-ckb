@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "چاک و ڕاست یاهوە⟨یە⟩، بۆیە فێری گوناهکاران دەکات لە ڕێگادا.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "و ڕاست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆیە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "بۆیە"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "فێری دەکات"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گوناهکاران"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگادا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:02.366752653Z",
+  "model": "glm-5.3"
+}

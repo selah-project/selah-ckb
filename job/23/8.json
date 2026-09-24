@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئەوەتا بە پێشەوە دەڕۆم و ئەو نییە، و بە دواوە و نایبینم بۆ ئەو.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "بە پێشەوە"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "دەڕۆم"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "و ئەو نییە"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "و بە دواوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "دەبینم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:01.849265309Z",
+  "model": "glm-5.3"
+}

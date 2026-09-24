@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "لەرزە لەوێ گرتیان؛ دڵەڕاوکێ وەکو زەمانگدار.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "لەرزە"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "گرتیان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دڵەڕاوکێ"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "وەکو زەمانگدار"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:03.321500572Z",
+  "model": "glm-5.3"
+}

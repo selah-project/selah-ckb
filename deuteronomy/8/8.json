@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "زەوی گەنم و جۆ و مۆز و هەنار؛ زەوی زەیتوونی ڕۆن و هەنگوین.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "گەنم"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "و جۆ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "و مۆز"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "و هەنجیر"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "و هەنار"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زەیتوونی"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ڕۆن"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "و هەنگوین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:59.019834644Z",
+  "model": "glm-5.3"
+}

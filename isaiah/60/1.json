@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 60,
+  "translation": "هەستە، ڕووناک ببە، چونکە ڕووناکیت هاتووە، و شکۆی یاهوە لەسەرت تابیوە.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "هەستە"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ڕووناک ببە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتووە"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ڕووناکیت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و شکۆی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەرت"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "تابیوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:34:49.036042468Z",
+  "model": "glm-5.3"
+}

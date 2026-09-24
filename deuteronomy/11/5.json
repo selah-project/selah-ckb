@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەوەی کە بۆ ئێوە لە بیاباندا کرد، هەتا هاتنتان هەتا ئەم شوێنە.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "و ئەوەی کە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیاباندا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "هاتنتان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "شوێنەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:39:15.705114289Z",
+  "model": "glm-5.3"
+}

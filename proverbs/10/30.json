@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ڕاست لە هەتاهەتایەکەوە هەرگیز نالەرزێت، و خراپەکان لە زەوی دانەنیشتن.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەتاهەتایەک"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هەرگیز"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "نالەرزێت"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "و خراپەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "دانەنیشتن"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:12.211746291Z",
+  "model": "glm-5.3"
+}

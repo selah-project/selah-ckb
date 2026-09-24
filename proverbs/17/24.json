@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "حیکمەت ⟨את⟩ لەبەردەم ڕووی تێگەیشتووە، و چاوەکانی کەسیل لە قەراغی زەویدان.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ لەبەردەم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "تێگەیشتوو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "و چاوەکانی"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کەسیل"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "لە قەراغی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:11.651161267Z",
+  "model": "glm-5.3"
+}

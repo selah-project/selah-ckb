@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 72,
+  "translation": "لە ڕۆژەکانیدا دادپەروەر گوڵ دەکاتەوە و فرەیی ئاشتایی، تا بێ مانگ.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "گوڵ دەکاتەوە"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "لە ڕۆژەکانیدا"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادپەروەر"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و فرەیی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتایی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "مانگ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:30.767839547Z",
+  "model": "glm-5.3"
+}

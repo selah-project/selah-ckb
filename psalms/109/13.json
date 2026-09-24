@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "بێت کۆتاییەکەی بۆ بڕین، لە نەوەیەکی دیکەدا ناویان بسڕدرێتەوە.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "کۆتاییەکەی"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "بۆ بڕین"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "لە نەوەدا"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "بسڕدرێتەوە"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ناویان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:23.430685578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "یاهوە، وەک تۆ نییە و جگە لە تۆ ئێلۆهیمێک نییە، لە هەموو ئەوەی بە گوێکانمان بیستمان.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "وەک تۆ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "جگە لە تۆ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "بیستمان"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "بە گوێکانمان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:23.780757662Z",
+  "model": "glm-5.3"
+}

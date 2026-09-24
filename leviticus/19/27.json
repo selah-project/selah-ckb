@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "گۆشەی سەری خۆتان نەبڕن و لێ نەتبەرن ⟨את⟩ گۆشەی ڕیشی خۆت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "نەبڕن"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "گۆشەی"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "سەری خۆتان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "لێ نەتبەرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گۆشەی"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "گۆشەی"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ڕیشی خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:03.760069829Z",
+  "model": "glm-5.3"
+}

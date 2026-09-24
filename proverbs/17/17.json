@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "هاوڕێکە لە هەموو کاتێکدا خۆشدەوێت، و برا بۆ سەختیدا لەدایک دێت.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتێکدا"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "خۆشدەوێت"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "هاوڕێکە"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "و برا"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "بۆ سەختیدا"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "لەدایک دێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:40.539453217Z",
+  "model": "glm-5.3"
+}

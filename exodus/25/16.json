@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و نیشانەکە ⟨את⟩ کە پێم دەدەیت لە سندووقەکە دەنێیت.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "و دەنێیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "سندووقەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیشانەکە"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "نیشانەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "پێم دەدەیت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:04.827981210Z",
+  "model": "glm-5.3"
+}

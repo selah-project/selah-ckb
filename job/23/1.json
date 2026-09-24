@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و ئییۆڤ ⟨مەجهە⟩ وەڵامی دایەوە و وت.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "وەڵامی دایەوە"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئییۆڤ ⟨مەجهە⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:08.312147571Z",
+  "model": "glm-5.3"
+}

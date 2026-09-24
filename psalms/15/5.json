@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "زێوەکەی بە سود نادا و رشوەتیش لەسەر بێتاوان نەهێنا؛ ئەوەی ئەمانە دەکات بۆ هەمیشە نالەرزێتەوە.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "زێوەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "بە سود"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "و رشوەت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بێتاوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "لەرزێتەوە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:20.808088797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و ئەوان دەبن بۆ من بە گەل، و من دەبم بۆ ئەوان بە ئێلۆهیم.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "بە گەل"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "دەبم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بە ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:53:11.697423656Z",
+  "model": "glm-5.3"
+}

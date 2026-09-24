@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و عەبەر ⟨فالێج⟩ دوای ئەوەی پەلەگی زا سی ساڵ و چوار سەد ساڵ ژیا، و کوڕان و کچانی زا.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژیا"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عەبەر"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای ئەوەی"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەلەگ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پەلەگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:22.286604217Z",
+  "model": "glm-5.3"
+}

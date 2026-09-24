@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چونکە لە مردندا یادکردنەوەی تۆ نییە؛ لە شێئۆلدا کێ بۆ تۆ سوپاس دەکات؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "במות",
+      "gloss": "لە مردندا"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "یادکردنەوەی تۆ"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "لە شێئۆلدا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "سوپاس دەکات"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:54.996861020Z",
+  "model": "glm-5.3"
+}

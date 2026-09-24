@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "نان نەخواردووە و شەراب و شیکار نەخواردووە، بۆ ئەوەی بزانن کە من یاهوە ئێلۆهیمی ئێوەم",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "نەخواردووە"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شەراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "و شیکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "نەخواردووە"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "بزانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمی ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:44.896079855Z",
+  "model": "glm-5.3"
+}

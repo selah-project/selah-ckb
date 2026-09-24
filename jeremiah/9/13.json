@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 9:13",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ڕۆیشتن لە دوای ئاڕی دڵیان و لە دوای بەعەلیم ئەوانەی باوکانیان فێریان کردن",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "ئاڕ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "دڵیان"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "و لە دوای"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "بەعەلیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوانەی"
+    },
+    {
+      "surface": "למדום",
+      "gloss": "فێریان کردن"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "باوکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:42:56.559797189Z",
+  "model": "glm-5.3"
+}

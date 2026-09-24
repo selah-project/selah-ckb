@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "ئەو یاهوە ئێلۆهیمی ئێمەیە؛ لە هەموو زەویدا حوکمەکانی ئەون.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیمی ئێمە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "حوکمەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:01.678639209Z",
+  "model": "glm-5.3"
+}

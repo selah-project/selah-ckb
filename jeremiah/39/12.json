@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 39:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "ئەوی بگرە و چاوەکانت لەسەری دابنێ و هیچ شتێکی خراپ بۆی مەکە، بەڵکو وەک قسە لەگەڵ تۆ دەکات هەر ئاوا لەگەڵی بکە.",
+  "tokens": [
+    {
+      "surface": "קחנו",
+      "gloss": "ئەوی بگرە"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "و چاوەکانت"
+    },
+    {
+      "surface": "שים",
+      "gloss": "دابنێ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "بکە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هیچ شتێک"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "قسە دەکات"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لەگەڵ تۆ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئاوا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بکە"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:55:53.171857733Z",
+  "model": "glm-5.3"
+}

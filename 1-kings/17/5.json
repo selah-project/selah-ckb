@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "ڕۆیی و کردی وەک وشەی یاهوە، و ڕۆیی و دانیشت لە جۆگەی کریت کە لەسەر ڕووی یاردنە.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیی"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "کردی"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "وەک وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیی"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "دانیشت"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "لە جۆگەی"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "کریت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:53:37.578966621Z",
+  "model": "glm-5.3"
+}

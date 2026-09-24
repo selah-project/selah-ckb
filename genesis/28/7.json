@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و یاعاكۆب گوێی گرتن لە باوكی و لە دایكی، و ڕۆیى بۆ پادان ئارام.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "گوێی گرتن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعاكۆب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوكی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایكی"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیى"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "پادان"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ئارام"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:50.164848104Z",
+  "model": "glm-5.3"
+}

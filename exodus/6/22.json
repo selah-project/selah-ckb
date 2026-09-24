@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و کوڕەکانی عوزیئێل: میشائێل و ئێلتسافان و سیثری.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عوزیئێل"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "میشائێل"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "و ئێلتسافان"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "و سیثری"
+    }
+  ],
+  "timestamp": "2026-09-24T09:37:29.163289120Z",
+  "model": "glm-5.3"
+}

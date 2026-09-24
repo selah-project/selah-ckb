@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەحاز ⟨موسا⟩ کوڕەکەی، حیزقییاهو ⟨حەزقیا⟩ کوڕەکەی، مەنەشە ⟨مەناشا⟩ کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "ئەحاز"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حیزقییاهو"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەشە"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:56.131614632Z",
+  "model": "glm-5.3"
+}

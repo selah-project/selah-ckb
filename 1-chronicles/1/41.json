@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کوڕەکانی عەنا: دیشۆن. و کوڕەکانی دیشۆن: حەمران و ئێشبان و یتران و کەهران.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عەنا"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشۆن"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشۆن"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "حەمران"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "و ئێشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "و یتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "و کەهران"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:45.212272960Z",
+  "model": "glm-5.3"
+}

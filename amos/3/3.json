@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئایا دوو کەس پێکەوە دەڕۆن بەبێ ئەوەی ئەگەر ڕێک نەکەون؟",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ئایا دەڕۆن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "بەبێ ئەوەی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ڕێک نەکەون"
+    }
+  ],
+  "timestamp": "2026-09-24T13:33:19.192080203Z",
+  "model": "glm-5.3"
+}

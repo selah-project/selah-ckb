@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و قیدێش ⟨قەدێش⟩ و ئیدرێعی و عەین حەزۆر",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "و قیدێش ⟨قەدێش⟩"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "و ئیدرێعی"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "و عەین"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حەزۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:26.354956344Z",
+  "model": "glm-5.3"
+}

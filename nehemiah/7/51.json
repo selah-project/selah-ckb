@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی گەززام، کوڕەکانی عوززا، کوڕەکانی پاسەئاخ،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "گەززام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عوززا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پاسەئاخ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:14.407126773Z",
+  "model": "glm-5.3"
+}

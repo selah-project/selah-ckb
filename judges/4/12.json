@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بۆ سیسرایان گەیاند، کە بەڕاکی کوڕی ئەڤینۆعەم بۆ چیای تابۆر سەرکەوتووە.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "و گەیاندن"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "بۆ سیسرا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سەرکەوتووە"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بەڕاک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "ئەڤینۆعەم"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "تابۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:05:01.359331096Z",
+  "model": "glm-5.3"
+}

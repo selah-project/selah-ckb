@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "یەک شتە، لەبەر ئەوە وتیم: بێگوناه و تاوانبار ئەو دەسڕێتەوە.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوە · ⟨هەیە⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "بەو هۆیەوە"
+    },
+    {
+      "surface": "אמרתی",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بێگوناه"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "و تاوانبار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "مכלה",
+      "gloss": "دەسڕێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:46.932817082Z",
+  "model": "glm-5.3"
+}

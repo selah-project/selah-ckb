@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "یەک گای، کۆرەی گاڵتە، یەک بەرخێ نێر، یەک بەرخێ بچووک، کۆرەی ساڵێک، بۆ قوربانیی سووتاندن.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "گای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کۆرەی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاڵتە"
+    },
+    {
+      "surface": "איל",
+      "gloss": "بەرخێ نێر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بەرخێ بچووک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کۆرەی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ساڵێک"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "بۆ قوربانیی سووتاندن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:46.212270142Z",
+  "model": "glm-5.3"
+}

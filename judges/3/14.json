@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و خزمەتیان کرد کوڕەکانی ئیسرائیل ⟨את⟩ عێگلۆنی پاشای موئابی حەڤدە ساڵ.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "و خزمەتیان کرد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عێگلۆن"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "عێگلۆن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاب"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:05:36.262506460Z",
+  "model": "glm-5.3"
+}

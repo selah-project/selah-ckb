@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 60,
+  "translation": "و گەلان بۆ ڕووناکیت دێن، و پاشاکان بۆ گەشاوێتیی تابانی تۆ.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "و دێن"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "بۆ ڕووناکیت"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "و پاشاکان"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "بۆ گەشاوێتیی"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "تابانی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:34:49.036403717Z",
+  "model": "glm-5.3"
+}

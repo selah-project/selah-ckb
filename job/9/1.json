@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ئەیووب وەڵامی دایەوە و فەرموو:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "وەڵامی دایەوە"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەیووب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:34.904429190Z",
+  "model": "glm-5.3"
+}

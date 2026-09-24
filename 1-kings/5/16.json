@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و شیلۆمۆ بۆ حیرام نارد، بۆ وتن.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و نارد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شیلۆمۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:46:47.151245323Z",
+  "model": "glm-5.3"
+}

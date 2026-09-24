@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "ئێستا ببینە کە یاهوە تۆی هەڵبژاردووە بۆ بنیاتنانی ماڵێک بۆ پەرستگا؛ بەهێز بە و بیجێنە.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ببینە"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "هەڵبژاردووە"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بۆ بنیاتنان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "بۆ پەرستگا"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "بەهێز بە"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بیجێنە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:32:30.224033218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ژیانم لە کونەکەدا بڕییانەوە و بەردێکیان بە مندا هەڵدا.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "بڕییانەوە"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "لە کونەکەدا"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ژیانم"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "و هەڵدا"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "بەردێک"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بە مندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:59.015698147Z",
+  "model": "glm-5.3"
+}

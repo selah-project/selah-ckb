@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "چونکە ئەو نازانێت چی دەبێت، چونکە کاتێک دەبێت، کی پێی ڕادەگەیەنێت؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ئەو نا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ڕادەگەیەنێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:51.994539553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "پەلە بکە، بۆ ئەوێ هەڵبگەزێ، چونکە ناتوانم هیچ شتێک بکەم هەتا تۆ بگەیتە ئەوێ. لەبەر ئەوە شارەکە بە تسوعار ناونرا.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "پەلە بکە"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "هەڵبگەزێ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "بۆ ئەوێ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "دەتوانم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بکەم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "באך",
+      "gloss": "بگەیت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئەوێ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناونرا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "تسوعار"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:25.615784752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "لە ئەوپاڕی یاردێن، لە زەوی موئاب، مۆشە ⟨موسا⟩ خۆی ئامادە کرد بە ڕوونکردنەوەی ⟨את⟩ ئەم تۆرایە، بە وتن:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "لە ئەوپاڕی"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردێن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاب"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "خۆی ئامادە کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ڕوونکردنەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تۆرا"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تۆرا"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:57.614257665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و لەگەڵ ئەوان ⟨את⟩ ڕۆیشت، و هاتنە یەردێن، و دارەکانیان بڕی.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیشت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "هاتن"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "یەردێن"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "بڕی"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "دارەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:01:17.908211329Z",
+  "model": "glm-5.3"
+}

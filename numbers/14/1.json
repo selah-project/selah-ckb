@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و هەموو کۆمەڵەکە دەنگیان بەرزکردەوە و ⟨את⟩ دەنگیان دا و گەلەکە لەو شەوەدا گریان.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "بەرزکردەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "کۆمەڵەکە"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "دا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەنگیان"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "دەنگیان"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "گریان"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "لەو شەوەدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:49.387600508Z",
+  "model": "glm-5.3"
+}

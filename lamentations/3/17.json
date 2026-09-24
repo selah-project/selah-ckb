@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و لە ئاشتی گیانم دوورخرایەوە، چاکەم لەبیر کرد.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "و دوورخرایەوە"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "لە ئاشتی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "لەبیرم کرد"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:37.107602903Z",
+  "model": "glm-5.3"
+}

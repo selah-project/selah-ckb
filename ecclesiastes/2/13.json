@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و من بینیان کرد کە سوودێک هەیە بۆ دانایی لە نەفامیدا، وەک سوودی ڕووناکی لە تاریکی.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "و بینیان کرد"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "کە هەیە"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "سوود"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "بۆ دانایی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "نەفامی"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "وەک سوودی"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ڕووناکی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "تاریکی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:24.499511134Z",
+  "model": "glm-5.3"
+}

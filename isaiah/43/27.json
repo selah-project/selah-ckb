@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "باوکی یەکەمت گوناهی کرد، و شیکارەکانت لە من یاخی بوون.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گوناهی کرد"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "و شیکارەکانت"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "یاخی بوون"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T12:27:53.468138527Z",
+  "model": "glm-5.3"
+}

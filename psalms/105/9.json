@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "کە لەگەڵ ⟨את⟩ ئاڤراهام ⟨مەڕد⟩ بڕی و سوێندەکەی بۆ ییسحاق،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بڕی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاڤراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام ⟨ئیبراهیم⟩"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "و سوێندەکەی"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "بۆ ییسحاق"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:54.835640598Z",
+  "model": "glm-5.3"
+}

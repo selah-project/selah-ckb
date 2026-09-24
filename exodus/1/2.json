@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ڕەئوبێن، شیمعۆن، لێڤی و یێهودا.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ڕەئوبێن"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعۆن"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "و یێهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:36:13.549431118Z",
+  "model": "glm-5.3"
+}

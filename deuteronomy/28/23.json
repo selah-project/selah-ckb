@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و دەبن ئاسمانەکانی سەر سەری تۆ مس، و ئەو زەوییەی لە ژێر تۆوەیە ئاسن.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ئاسمانەکانت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "سەرت"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "و ئەو زەوییە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "لە ژێر تۆوە"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:36.413524709Z",
+  "model": "glm-5.3"
+}

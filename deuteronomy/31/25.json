@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و مۆشە فەرمانی دا بە ⟨את⟩ لەڤییەکانی هەڵگرنی سندوقی پەیمانی یاهوە بە وتنی",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "و فەرمانی دا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لەڤییەکان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لەڤییەکان"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "هەڵگرننی"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "سندوقی"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پەیمانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:42.818851571Z",
+  "model": "glm-5.3"
+}

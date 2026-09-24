@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و لەشکرەکەی و ژماردەوانیان پێنج و سی هەزار و چوار سەد ⟨بوون⟩.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "و لەشکرەکەی"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "و ژماردەوانیان"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:45.451954345Z",
+  "model": "glm-5.3"
+}

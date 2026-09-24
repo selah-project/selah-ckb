@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "وشەیەک ئادۆنای ناردە ناو یائاکۆب و کەوتە ناو ئیسرائیل",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "وشەیەک"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ناردە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ناو یائاکۆب"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "و کەوتە ناو"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:17:03.092653943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و بە ڕێگای باوکی ئاسا ڕۆیشت و لێی نەگەڕا، بۆ ئەنجامدانی ڕاستەکە لە چاوەکانی یاهوە.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیشت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "بە ڕێگای"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ئاسا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "סר",
+      "gloss": "گەڕا"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ ئەنجامدانی"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ڕاستەکە"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:40:52.718009032Z",
+  "model": "glm-5.3"
+}

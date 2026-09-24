@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و دەنیشێت لە دەم ماڵی خۆی، لەسەر کورسییەک لە بەرزاییەکانی شار.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "و دەنیشێت"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "لە دەم"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ماڵی خۆی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "کورسییەک"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "بەرزاییەکانی"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:33.138100666Z",
+  "model": "glm-5.3"
+}

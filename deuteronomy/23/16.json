@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کۆیلەیەک بۆ خاوەنەی ڕانەگیرێت، ئەوەی خۆی دەرباز دەکات و دێتە لای تۆ لە نێو خاوەنەی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "ڕانەگیرێت"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کۆیلەیەک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "خاوەنەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "خۆی دەرباز دەکات"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "دێتە لای تۆ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "لە نێو"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "خاوەنەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:22.701754300Z",
+  "model": "glm-5.3"
+}

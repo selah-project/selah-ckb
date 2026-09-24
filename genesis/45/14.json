@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 45:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "و خۆی هێنا لەسەر مل بینیامین برای، و گریا، و بینیامین لەسەر مەلی گریا.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "و خۆی هێنا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "مل"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "و گریا"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "و بینیامین"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "گریا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "مەلی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:33:22.921145025Z",
+  "model": "glm-5.3"
+}

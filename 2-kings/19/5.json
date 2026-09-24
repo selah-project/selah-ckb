@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و خزمەتکارانی شا حیزقییاهو ⟨موسا⟩ هاتنە لای یەشەعیهو.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "هاتنە لای"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "خزمەتکارانی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شا"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حیزقییاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یەشەعیهو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:07:40.419996945Z",
+  "model": "glm-5.3"
+}

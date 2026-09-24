@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "گۆشتم و پێستم لەکە داوە، ئێسکەکانمی شکاندووە",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "لەکە داوە"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "گۆشتم"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "و پێستم"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکاندووە"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ئێسکەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:55.889709070Z",
+  "model": "glm-5.3"
+}

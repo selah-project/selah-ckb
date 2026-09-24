@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 94,
+  "translation": "یاهوە بیرۆکەکانی مرۆڤ دەزانێت، چونکە ئەوان بێکەڵکن.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "بیرۆکەکانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بێکەڵکن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:01.654987001Z",
+  "model": "glm-5.3"
+}

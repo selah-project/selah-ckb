@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و کاتێک خۆر دەچێتەوە و پاک دەبێت، و پاشان دەخوات لە پیرۆزەکان، چونکە نانی خۆیەتی",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "و دەچێتەوە"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "و پاک دەبێت"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "و پاشان"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "نانی خۆیەتی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:02.398847054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کوڕانی لاعدان: سەرۆک یەحیئێل، و زێتام و یۆئێل — سێ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لاعدان"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "یەحیئێل"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "و زێتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "و یۆئێل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:43.311322060Z",
+  "model": "glm-5.3"
+}

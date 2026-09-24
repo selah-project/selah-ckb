@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بەڵام هۆزی لێڤی ⟨את⟩ مەژمێرە و ⟨את⟩ سەریان مەهێنە لە نێوان کوڕانی ئیسرائیلدا",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هۆزی لێڤی"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هۆز"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مەژمێرە نییە"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "مەژمێرە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سەریان"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "سەریان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مەهێنە نییە"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "مەهێنە"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:27.192819007Z",
+  "model": "glm-5.3"
+}

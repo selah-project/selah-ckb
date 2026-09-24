@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "بۆیە ئەی شوانەکان، بگوێنن ⟨את⟩ وشەی یاهوە.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "بۆیە"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ئەی شوانەکان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "بگوێنن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەی یاهوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:19:19.190249656Z",
+  "model": "glm-5.3"
+}

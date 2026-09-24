@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چارەسازی دەبێت بۆ سکەت و سەرژێکردنەوە بۆ ئێسقەکانت.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "چارەسازی"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "بۆ سکەت"
+    },
+    {
+      "surface": "وשקוי",
+      "gloss": "و سەرژێکردنەوە"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "بۆ ئێسقەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:46.188678619Z",
+  "model": "glm-5.3"
+}

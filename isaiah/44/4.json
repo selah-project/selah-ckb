@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "و لە نێوان گیادا گەشە دەکەن وەک بیدەکان لەسەر جۆکانی ئاو",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "و گەشە دەکەن"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گیا"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "وەک بیدەکان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "جۆکانی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:28:27.195993473Z",
+  "model": "glm-5.3"
+}

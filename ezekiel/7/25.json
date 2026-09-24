@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لەرزینەوە دێت و دەگەڕێن بۆ ئاشتی و نییە.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "لەرزینەوە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "و دەگەڕێن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:04:44.862037845Z",
+  "model": "glm-5.3"
+}

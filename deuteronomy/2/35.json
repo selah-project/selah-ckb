@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "تەنها ماڵاتەکە بۆ خۆمان تاڵان کردین و غەنیمەتی ئەو شارانەی گرتمان.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ماڵاتەکە"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "تاڵانمانکرد"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ خۆمان"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "و غەنیمەت"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شارەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "گرتمان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:34:37.802532151Z",
+  "model": "glm-5.3"
+}

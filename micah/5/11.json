@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 5:11",
+  "book": "micah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و جادوویەکانت لە دەستت دەبڕمەوە و پێشگۆخوێنان بۆ تۆ نان.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "و دەبڕمەوە"
+    },
+    {
+      "surface": "כשפים",
+      "gloss": "جادوویەکانت"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "لە دەستت"
+    },
+    {
+      "surface": "ומעוננים",
+      "gloss": "و پێشگۆخوێنان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نان"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:36:24.791309747Z",
+  "model": "glm-5.3"
+}

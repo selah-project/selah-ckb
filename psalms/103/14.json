@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 103,
+  "translation": "چونکە ئەو پەیکەرمان دەزانێت، بیردەکاتەوە چونکە تۆز ئێمە ⟨هەین⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "پەیکەرمان"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "بیردەکاتەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "تۆز"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:00.341508538Z",
+  "model": "glm-5.3"
+}

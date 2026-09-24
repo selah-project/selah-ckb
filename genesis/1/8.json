@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئێلۆهیم بە فراوانییەکە ناوی نا «ئاسمان» و ئێوارە بوو و بەیانی بوو — ڕۆژی دووەم.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "بە فراوانییەکە"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ئێوارە"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دووەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:20.718792445Z",
+  "model": "glm-5.3"
+}

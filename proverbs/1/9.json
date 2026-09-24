@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "چونکە ئەوان گوڵبوچکەی میهرەبانی ن بۆ سەری تۆن، و ملوانکە بۆ گرگوڕەکانت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "گوڵبوچکە"
+    },
+    {
+      "surface": "חן",
+      "gloss": "میهرەبانی"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "بۆ سەری تۆ"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "و ملوانکە"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "بۆ گرگوڕەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:30.538613940Z",
+  "model": "glm-5.3"
+}

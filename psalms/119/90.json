@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "نەوە دوای نەوە ڕاستگۆییت ⟨هەیە⟩؛ زەویت ڕاگرت و ⟨ئەو⟩ ڕاوەستا.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "نەوە دوای"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "نەوە"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ڕاستگۆییت"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "ڕاگرت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "و ڕاوەستا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:52.631817351Z",
+  "model": "glm-5.3"
+}

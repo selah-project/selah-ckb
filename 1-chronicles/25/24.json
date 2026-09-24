@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 25:24",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "حەڤدەیەم بۆ یۆشبەقاشە، کوڕەکانی و برایانی، دوازدە.",
+  "tokens": [
+    {
+      "surface": "לשבעה",
+      "gloss": "حەڤدەیەم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "حەڤدەیەم"
+    },
+    {
+      "surface": "לישבקשה",
+      "gloss": "یۆشبەقاشە"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برایانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دوازدە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:40.891839237Z",
+  "model": "glm-5.3"
+}

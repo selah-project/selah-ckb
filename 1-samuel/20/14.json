@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 20:14",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و نەک تەنها <ئەو کاتەی> هێشتام لە ژیاندا، حەسەدی یاهوە لەگەڵ من بکە و نەک دەمرم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نەک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "هێشتام"
+    },
+    {
+      "surface": "חי",
+      "gloss": "لە ژیاندا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەک"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکە"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لەگەڵ من"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەک"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "دەمرم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:26:17.528745022Z",
+  "model": "glm-5.3"
+}

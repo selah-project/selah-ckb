@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و لە نیوەی کوڕانی ئیسرائیل، ئەوەی مۆشە لە پیاوە شەڕکەرەکان جیاکردەوە،",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "و لە نیوەی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "جیاکردەوە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "پیاوە"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "شەڕکەرەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:39.611502413Z",
+  "model": "glm-5.3"
+}

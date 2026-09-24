@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "جوڵێنەری بەردەکان بەوانە زیانی دەبێت؛ لێدەری دارەکان بەوانە مەترسی لەسەرە.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "جوڵێنەر"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "بەردەکان"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "زیانی دەبێت"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "بەوانە"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "لێدەر"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "دارەکان"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "مەترسی لەسەرە"
+    },
+    {
+      "surface": "בם",
+      "gloss": "بەوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:40.587799828Z",
+  "model": "glm-5.3"
+}

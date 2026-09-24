@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و حیکمەت فێر نەبووم، و ناسیاریی پیرۆزەکان دەزانم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نەخێر"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "فێر نەبووم"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و ناسیاریی"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "دەزانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:52.936977009Z",
+  "model": "glm-5.3"
+}

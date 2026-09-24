@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و شێلاخ سی ساڵ ژیا و بووە باوکی ⟨عێبەر⟩",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "و شێلاخ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژیا"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بووە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عێبەر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عێبەر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:59.410365513Z",
+  "model": "glm-5.3"
+}

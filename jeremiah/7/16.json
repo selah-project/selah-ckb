@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و تۆ، نویست مەکە بۆ ئەم گەلە، و هاوار و نویستنیش بۆیان بەرز مەکە، و خوازیاری مەکە لە من، چونکە من گوێ ناگرم ⟨את⟩ تۆ.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "نویست مەکە"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ئەم گەلە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "بەرز مەکە"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "هاوار"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "و نویستن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "خوازیاری مەکە"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "نییەم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ ناگرم"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تۆ",
+      "marks": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:40:20.863158878Z",
+  "model": "glm-5.3"
+}

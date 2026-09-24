@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و ئێستا بڕۆن کار بکەن؛ کوشە بۆ ئێوە نادرێت، و پێوانەی خشتەکان دەدەن.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "بڕۆن"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "کار بکەن"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "و کوشە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "دەدرێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "و پێوانەی"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "خشتەکان"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "دەدەن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:38:57.816420060Z",
+  "model": "glm-5.3"
+}

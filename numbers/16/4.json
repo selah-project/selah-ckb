@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و مۆشە گوێی لێ گرت و کەوتە سەر ڕووی خۆی.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و گوێی لێ گرت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "و کەوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەسەر"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:23:16.875332691Z",
+  "model": "glm-5.3"
+}

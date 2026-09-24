@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 4:17",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "پێت بپارێزە کاتێک دەچیت بۆ خانەی ئێلۆهیم و نزیکترە گوێگرتن لە دانی قوربانیی نەفامان، چونکە ئەوان نازانن کردنی خراپی.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "دەچیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانەی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "و نزیکترە"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "گوێگرتن"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "لە دان"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "نەفامان"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قوربانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "نازانن"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کردنی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:54:50.681123163Z",
+  "model": "glm-5.3"
+}

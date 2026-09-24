@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ئاوەکان لە دەریا دەڕۆن، و ڕووبار وشک دەبێت و پووک دەکات",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "دەڕۆن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاوەکان"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "و ڕووبار"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "وشک دەبێت"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "و پووک دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:47.274516919Z",
+  "model": "glm-5.3"
+}

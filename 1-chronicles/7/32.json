@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و حێبەر ⟨את⟩ یەفلێت و ⟨את⟩ شۆمێر و ⟨את⟩ حۆتام و ⟨את⟩ شوعا خوشکی ئەوان بوو بە دنیا هێنا.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "و حێبەر"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بوو بە دنیا هێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەفلێت"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "یەفلێت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شۆمێر"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "شۆمێر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حۆتام"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حۆتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شوعا"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "شوعا"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "خوشکی ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:50.244925146Z",
+  "model": "glm-5.3"
+}

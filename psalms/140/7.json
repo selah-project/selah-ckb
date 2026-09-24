@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 140,
+  "translation": "وتیم بە یاهوە: تۆی ئێلی من؛ گوێ بگرە یاهوە دەنگی پاژاوەکانم.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "وتیم"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ئێلی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆی"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "پاژاوەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:07.007525228Z",
+  "model": "glm-5.3"
+}

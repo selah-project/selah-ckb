@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 121,
+  "translation": "ئەوەتا نە چاو دەکۆژێتەوە و نە دەخەوێت، پارێزەری یسرائێل.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "چاو دەکۆژێتەوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "دەخەوێت"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "پارێزەری"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائێل"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:22.606254293Z",
+  "model": "glm-5.3"
+}

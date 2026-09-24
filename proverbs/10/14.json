@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "داناکان زانست دەشارنەوە و دەمی گێل ڕووخاندنێکی نزیکە",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "داناکان"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "دەشارنەوە"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانست"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "و دەمی"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "گێل"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ڕووخاندن"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "نزیکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:11.499165596Z",
+  "model": "glm-5.3"
+}

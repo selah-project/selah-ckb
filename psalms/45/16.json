@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "بە شادی و دڵخۆشییەوە دەهێنرێن؛ دەچنە ناو کۆشکی پاشا.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "دەهێنرێن"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "بە شادی"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "و دڵخۆشی"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "دەچنە ناو"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "کۆشکی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:03.773046256Z",
+  "model": "glm-5.3"
+}

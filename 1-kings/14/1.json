@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لەو کاتەدا ئاڤییاه کوڕی یاراڤعام ⟨کێژاڵەی⟩ تووشی نەخۆشی هات.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "لەو کاتەدا"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "نەخۆش بوو"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ئاڤییاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یاراڤعام"
+    }
+  ],
+  "timestamp": "2026-09-24T11:53:17.586774871Z",
+  "model": "glm-5.3"
+}

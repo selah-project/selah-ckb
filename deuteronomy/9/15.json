@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و گەڕامەوە و لە چیا دابەزم و چیا بە ئاگرەوە دەسووتا و دوو لوحی پەیمان لەسەر دوو دەستم بوون.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "و گەڕامەوە"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "و دابەزم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "و چیا"
+    },
+    {
+      "surface": "בער",
+      "gloss": "دەسووتا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بە ئاگر"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "پەیمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:39:14.082282729Z",
+  "model": "glm-5.3"
+}

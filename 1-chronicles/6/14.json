@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕەکانی مێراری: ماچلی؛ لیبنی کوڕەکەی، شیمعی کوڕەکەی، عوزا کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مێراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ماچلی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لیبنی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عوزا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:09.172730136Z",
+  "model": "glm-5.3"
+}

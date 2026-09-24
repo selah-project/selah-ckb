@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و ئەگەر تۆ ڕەتی بکەیتەوە بڕوات، ئەمە ئەو قسەیەیە کە یاهوە پێم نیشان دا.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ڕەت کردنەوە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "بۆ ڕۆیشتن"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "پێم نیشان دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:57:17.061928190Z",
+  "model": "glm-5.3"
+}

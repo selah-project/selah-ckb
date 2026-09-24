@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "شایەتی ڕاست گیانەکان ڕزگار دەکات، و هەڵدەمەڕێنی درۆکان فێڵە.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "ڕزگار دەکات"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "گیانەکان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شایەتی"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "و هەڵدەمەڕێنی"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "درۆکان"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فێڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:40.808298866Z",
+  "model": "glm-5.3"
+}

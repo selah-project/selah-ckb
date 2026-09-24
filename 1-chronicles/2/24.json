@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 2:24",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و پاشان لە مردنی حێتسرۆن لە کالێب ئێفراتا، ئەبیا ژنی حێتسرۆن بۆی بەخشی ⟨את⟩ ئاشحوور باوکی تەکوا.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "و پاشان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردن"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حێتسرۆن"
+    },
+    {
+      "surface": "בכלב",
+      "gloss": "لە کالێب"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ئێفراتا"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "و ژنی"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حێتسرۆن"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ئەبیا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "بەخشی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاشحوور"
+    },
+    {
+      "surface": "אשחור",
+      "gloss": "ئاشحوور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تەکوا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:51.781323545Z",
+  "model": "glm-5.3"
+}

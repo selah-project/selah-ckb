@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لابان ⟨את⟩ زێڵفا کۆیلەکەی بە وەکیڵی <لە> لیا کچەکەی بەخشی.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و بەخشی"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زێڵفا کۆیلەکەی"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زێڵفا"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "کۆیلەکەی"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "بۆ لیا"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "کچەکەی"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "کۆیلە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:45.773623850Z",
+  "model": "glm-5.3"
+}

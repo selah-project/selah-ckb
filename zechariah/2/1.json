@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "⟨את⟩ چاوەکانم هەڵکردم و بینیم و ئەوەتا چوار قۆچ.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "هەڵکردم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاوەکانم"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوەکانم"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "و بینیم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "قۆچ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:35.463054287Z",
+  "model": "glm-5.3"
+}

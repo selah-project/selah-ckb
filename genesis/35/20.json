@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و یەعقوب ستوونێکی لەسەر گۆڕەکەی دانا — ئەوە ستوونی گۆڕی ڕاخێلە تا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "و دانا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ستوونێکی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "گۆڕەکەی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ستوونی"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "گۆڕی"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ڕاخێل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:36.138530076Z",
+  "model": "glm-5.3"
+}

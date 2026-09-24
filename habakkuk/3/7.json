@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "لەژێر ⟨ئاڤەن⟩ چادرەکانی کوشان بینیم؛ ئاستڕەکانی زەوی میدیان لەرزین.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨ئاڤەن⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "چادرەکانی"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "کوشان ⟨کوشان⟩"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "لەرزین"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "ئاستڕەکانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:41:31.984995079Z",
+  "model": "glm-5.3"
+}

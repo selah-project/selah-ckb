@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 55,
+  "translation": "خێرا هەڵاتنێک بۆ خۆم دەخەمەڕێ، لە باێکی ڕۆیشتوو، لە زێڕابێک.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "خێرا دەخەمەڕێ"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "هەڵاتنێک"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "لە باێکی"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ڕۆیشتوو"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "لە زێڕابێک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:25.333878011Z",
+  "model": "glm-5.3"
+}

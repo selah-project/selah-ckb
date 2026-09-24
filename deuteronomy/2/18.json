@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "تۆ دەپەڕێیت ئەمڕۆ ⟨את⟩ سنووری مۆآب ⟨את⟩ عار",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "دەپەڕێیت"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سنووری مۆאب"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عار"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:56.635849036Z",
+  "model": "glm-5.3"
+}

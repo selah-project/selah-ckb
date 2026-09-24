@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 11:11",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "سەرایا کوڕی حیلکیا کوڕی مشولام کوڕی سادۆق کوڕی مەرایۆت کوڕی ئەحیتووب، سەرۆکی ماڵی ئێلۆهیم.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "سەرایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حیلکیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشولام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "سادۆق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مەرایۆت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ئەحیتووب"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:04.312900721Z",
+  "model": "glm-5.3"
+}

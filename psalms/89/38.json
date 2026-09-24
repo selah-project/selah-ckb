@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "وەک مانگ بۆ هەمیشە چەسپاوە و شایەت لە ئاسماندا دڵسۆزە، سێلا.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "وەک مانگ"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "چەسپاوە"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و شایەت"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "لە ئاسماندا"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "دڵسۆز"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سێلا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:34.013730302Z",
+  "model": "glm-5.3"
+}

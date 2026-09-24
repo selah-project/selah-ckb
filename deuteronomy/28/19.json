@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "نەفرەت لێکراوی لە هاتنتدا، و نەفرەت لێکراوی لە ڕۆشتنتدا.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نەفرەت لێکراوی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "لە هاتنتدا"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "و نەفرەت لێکراوی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "لە ڕۆشتنتدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:48:37.459198934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و کاسیا پێنج سەد بە شێکەلی پیرۆزی، و روونی زەیتوون هینێک.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "و کاسیا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "بە شێکەلی"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "و روون"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زەیتوون"
+    },
+    {
+      "surface": "הין",
+      "gloss": "هینێک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:33.754130516Z",
+  "model": "glm-5.3"
+}

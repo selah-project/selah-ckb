@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و ئێمەی هێنا بۆ ئەم شوێنە و ⟨את⟩ ئەم زەویەی بە دی هێنین — زەوی ڕژاو لە شیر و هەنگوین.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "و ئێمەی هێنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ئەم شوێنە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و بە دی هێنین"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ ئێمە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم زەویە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ڕژاو"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "و هەنگوین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:42.033197134Z",
+  "model": "glm-5.3"
+}

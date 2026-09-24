@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ⟨את⟩ دەریاکە یەک، و ⟨את⟩ گاڵەکان دوازدە لەژێر دەریاکە",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دەریاکە"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریاکە"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گاڵەکان"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گاڵەکان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریاکە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:46:57.055186138Z",
+  "model": "glm-5.3"
+}

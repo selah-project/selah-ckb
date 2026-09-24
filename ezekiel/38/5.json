@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "پارس، کوش و پوت ⟨את⟩ لەگەڵیان، هەموویان بە قەڵغان و خود.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "و پوت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ لەگەڵیان"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "هەموویان"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "قەڵغان"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "و خود"
+    }
+  ],
+  "timestamp": "2026-09-24T13:21:24.875691197Z",
+  "model": "glm-5.3"
+}

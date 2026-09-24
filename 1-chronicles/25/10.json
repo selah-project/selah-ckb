@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "سێیەم زاکوور ⟨موسا⟩ کوڕەکانی و براکانی، دوازدە",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "سێیەم"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زاکوور"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיو",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:36.581925898Z",
+  "model": "glm-5.3"
+}

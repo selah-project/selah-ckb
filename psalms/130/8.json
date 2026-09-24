@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 130,
+  "translation": "و ئەو ⟨את⟩ ئیسرائیل لە هەموو گوناهەکانی ڕزگاری دەکات.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ڕزگاری دەکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئیسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "گوناهەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:12.464715476Z",
+  "model": "glm-5.3"
+}

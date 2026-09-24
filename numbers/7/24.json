@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لە ڕۆژی سێیەمدا سەرۆکی کوڕانی زەڤوولون، ئێلیئاڤ کوڕی حێلۆن ⟨هیلۆن⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سێیەمدا"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زەڤوولون"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ئێلیئاڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حێلۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:56.832176847Z",
+  "model": "glm-5.3"
+}

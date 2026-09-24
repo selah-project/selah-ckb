@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "چووم و ئەوی لە پێراث شاردمەوە، وەک یاهوە فەرمانم پێکرد ⟨אות⟩.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "چووم"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "شاردمەوە"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "لە پێراث"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانم پێکرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨אות⟩ من",
+      "marks": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:00.059649658Z",
+  "model": "glm-5.3"
+}

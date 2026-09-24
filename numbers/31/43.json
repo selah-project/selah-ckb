@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و نیوەی کۆمەڵەکە لە مەڕەکەوە بوو: سێ سەد هەزار و سی هەزار و حەوت هەزار و پێنج سەد مەڕ،",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "نیوەی"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "کۆمەڵەکە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مەڕەکەوە"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:39.611658172Z",
+  "model": "glm-5.3"
+}

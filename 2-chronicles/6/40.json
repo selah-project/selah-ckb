@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-chronicles 6:40",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئێستا ئەی ئێلۆهیمی، تکایە چاوەکانت کراوە بن و گوێکانت ئاگادار بن بۆ نوێژی ئەم شوێنە.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئەی ئێلۆهیمی"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "چاوەکانت"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "کراوە"
+    },
+    {
+      "surface": "ואזניך",
+      "gloss": "و گوێکانت"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ئاگادار"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "بۆ نوێژی"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "شوێنە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:34:15.007924157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "کوڕانی یەهودا هەڵگرانی سەپر و ڕم، شەش هەزار و هەشت سەد، چەکبەندی سوپا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "هەڵگرانی"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "سەپر"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "و ڕم"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "و هەشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "چەکبەندی"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "سوپا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:55.637042767Z",
+  "model": "glm-5.3"
+}

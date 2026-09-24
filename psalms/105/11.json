@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "بە دەنگێت: بە تۆ دەدم ⟨את⟩ زەوی کەنەعانی، بەشۆرانی میراتتان.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "بە دەنگێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دەدم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەوی کەنەعانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کەنەعان"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "بەشۆران"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "میراتتان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:54.836126734Z",
+  "model": "glm-5.3"
+}

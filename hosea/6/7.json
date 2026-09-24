@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ئەوان وەک ئادەم پەیمانیان شکاند، لەوێ خیانتیان لە من کرد.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "و ئەوان"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "وەک ئادەم"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "شکاندن"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پەیمان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "خیانتیان کرد"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:28:00.380631369Z",
+  "model": "glm-5.3"
+}

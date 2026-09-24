@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و لە ناوتان دەگەڕێم، و دەبم بۆ ئێوە بۆ ئێلۆهیم، و ئێوە دەبن بۆ من بۆ گەل.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "و دەگەڕێم"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "لە ناوتان"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "و دەبم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بۆ ئێلۆهیم"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "و ئێوە"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "بۆ گەل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:51.877778037Z",
+  "model": "glm-5.3"
+}

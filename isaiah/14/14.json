@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لە سەرووی بەرزیی هەورەکان دەسەرم، خۆم دەچمەوە بە ⟨ئەلیۆن⟩.",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "دەسەرم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە سەرووی"
+    },
+    {
+      "surface": "بמתי",
+      "gloss": "بەرزیی"
+    },
+    {
+      "surface": "עב",
+      "gloss": "هەورەکان"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "خۆم دەچمەوە بە"
+    },
+    {
+      "surface": "لעליון",
+      "gloss": "ئەلیۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:41.294038237Z",
+  "model": "glm-5.3"
+}

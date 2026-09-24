@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و دەیکەیت ⟨את⟩ دەورەکە لە دەوری، و دەینێیت ⟨את⟩ پەردەی دەرگای دەورەکە.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "و دەیکەیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەورەکە"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "دەورەکە"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "لە دەوری"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "و دەینێیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەردەی دەرگا"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پەردە"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "دەورەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:57:33.877845354Z",
+  "model": "glm-5.3"
+}

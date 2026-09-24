@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "چونکە دەبن وەک بلووزێک کە گەڵاکەی وشک دەبێت، و وەک باخێک کە ئاوی بۆی نییە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "وەک بلووزێک"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "وشک دەبێت"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "گەڵاکەی"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "و وەک باخێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:12:50.670963118Z",
+  "model": "glm-5.3"
+}

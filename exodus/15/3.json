@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "یاهوە پیاوی شەڕە، یاهوە ناوی ئەوەیە.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:43:34.950802159Z",
+  "model": "glm-5.3"
+}

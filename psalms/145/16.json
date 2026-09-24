@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 145,
+  "translation": "⟨את⟩ دەستت دەکەیتەوە، و هەموو گیانلەبەر بە خۆشی تێر دەکەیت.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "دەکەیتەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەستت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "و تێر دەکەیت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "گیانلەبەر"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "بە خۆشی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:09.317609219Z",
+  "model": "glm-5.3"
+}

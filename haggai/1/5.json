@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئێستا وەها فەرمووی یاهوەی سەڤائۆت: دڵی خۆتان بخەنە سەر ڕێگاکانی خۆتان.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "وەها"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "بخەن"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "دڵی خۆتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ڕێگاکانی خۆتان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:42:25.353764422Z",
+  "model": "glm-5.3"
+}

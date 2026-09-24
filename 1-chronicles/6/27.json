@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕی ئەیتان، کوڕی زیما، کوڕی شیمعی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ئەیتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زیما"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:10.827801025Z",
+  "model": "glm-5.3"
+}

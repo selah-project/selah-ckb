@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ناترسێیت لەبەردەمیان، چونکە یاهوە ئێلۆهیمی تۆ لە ناو تۆدایە، ئێل گەورە و ترسناک.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ناترسێیت"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "بترسێیت"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "لەبەردەمیان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "لە ناو تۆدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "و ترسناک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:52.314101377Z",
+  "model": "glm-5.3"
+}

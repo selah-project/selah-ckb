@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 108,
+  "translation": "گۆرانی، مەزموورێکی داود ⟨دییە⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گۆرانی"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموورێکی"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "دییە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:43.008666677Z",
+  "model": "glm-5.3"
+}

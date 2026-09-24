@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و سکێنی و کوڕێکی بوو و ناوی ⟨ئەو⟩ی نا عیر.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "سکێنی"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ناوهێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناوی ئەو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی ئەو"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عیر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:17.809044960Z",
+  "model": "glm-5.3"
+}

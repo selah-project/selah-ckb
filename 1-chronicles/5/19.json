@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و شەڕیان لەگەڵ هاگرییەکان کرد، و یەتور و نافیش و نۆداب.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "و کردیان"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "هاگرییەکان"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "و یەتور"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "و نافیش"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "و نۆداب"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:52.668176476Z",
+  "model": "glm-5.3"
+}

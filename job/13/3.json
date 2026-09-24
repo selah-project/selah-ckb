@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بەڵام من بۆ ئێل شادای قسە دەکەم و دەمەوێت لەگەڵ ئێل گفتوگۆ بکەم.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ئێل شادای"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "قسە دەکەم"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "و گفتوگۆ دەکەم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "دەمەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:57.576333952Z",
+  "model": "glm-5.3"
+}

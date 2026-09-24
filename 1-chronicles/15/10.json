@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "لە کوڕانی عوززیئێل: عەمیناداب سەرەکە و براکانی سەد و دوازدە کەس،",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "لە کوڕانی"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عوززیئێل"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عەمیناداب"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سەرەکە"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:16.893019389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 83,
+  "translation": "ئێلۆهیم، بێدەنگی بۆ تۆ مەبێت، بێدەنگ مەبە و ئارام مەبە، ئەی ئێل.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەبێت"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "بێدەنگی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەبە"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "بێدەنگ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مەبە"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ئارام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:32.566400253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 100,
+  "translation": "خزمەتی یاهوە ⟨את⟩ بکەن بە شادی، بێنە پێش ڕووی ⟨ئەو⟩ بە گۆرانی.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "خزمەتی بکەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "بە شادی"
+    },
+    {
+      "surface": "באו",
+      "gloss": "بێنە"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "پێش ڕووی ⟨ئەو⟩"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "بە گۆرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:22.148173297Z",
+  "model": "glm-5.3"
+}

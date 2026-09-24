@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە کوڕێک بووم بۆ باوکم، نازدار و تاک لەبەردەم دایکم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "بۆ باوکم"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نازدار"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "و تاک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "دایکم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:21.611865159Z",
+  "model": "glm-5.3"
+}

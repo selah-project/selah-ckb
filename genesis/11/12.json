@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەرفەخشاد پێنج و سی ساڵ ژیا و شەلاخی ⟨את⟩ بوو بە باوکی",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "و ئەرفەخشاد"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژیا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بوو بە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شەلاخ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شەلاخ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:16.327922400Z",
+  "model": "glm-5.3"
+}

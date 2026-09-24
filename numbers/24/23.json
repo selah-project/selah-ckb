@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و مەسەلی خۆی هەڵگرت و فەرموو: وای، کێ دەژی کاتێک ئێل دادەنێت؟",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "و مەسەلی خۆی هەڵگرت"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "مەسەلی خۆی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "دەژی"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "کاتێک دادەنێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:42.529299825Z",
+  "model": "glm-5.3"
+}

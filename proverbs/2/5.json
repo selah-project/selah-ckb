@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئەوکاتە لە یاهوە دەترسێیت، و ناسیاریی ئێلۆهیم دەدۆزیتەوە.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئەوکاتە"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "دەتێگەیت"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و ناسیاریی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "دەدۆزیتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:18.884352034Z",
+  "model": "glm-5.3"
+}

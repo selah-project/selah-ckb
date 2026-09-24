@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 32:7",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "وتم: ڕۆژان دەئەخەن و کۆی ساڵان حیکمەت فێر دەکەن.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "دەئەخەن"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و کۆی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵان"
+    },
+    {
+      "surface": "ידיעו",
+      "gloss": "فێر دەکەن"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:08.340064146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 13:13",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و فریشتەی یاهوە بە مەنوەخ فەرموو: لە هەموو ئەوەی بە ژنەکە وتوومە، خۆی بپارێزێت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فریشتە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مەنوەخ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وتوومە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ژنەکە"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "خۆی بپارێزێت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:10:15.716738554Z",
+  "model": "glm-5.3"
+}

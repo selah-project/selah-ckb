@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و لە کوڕانی زێراخ یەعوئێل و براکانیان شەش سەد و نەوەد.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زێراخ"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "یەعوئێل"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "و براکانیان"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "و نەوەد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:14.707975879Z",
+  "model": "glm-5.3"
+}

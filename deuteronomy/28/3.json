@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "بەرەکەتت لەسەرە لە شارەکەدا، و بەرەکەتت لەسەرە لە کێڵگەکەدا.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "بەرەکەتت لەسەرە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "لە شارەکەدا"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "و بەرەکەتت لەسەرە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "لە کێڵگەکەدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:22.448785258Z",
+  "model": "glm-5.3"
+}

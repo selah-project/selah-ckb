@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "ژنێکی چالاک کێ دەیدۆزێتەوە؟ بەهای ئەو لە مروارییەکان دوورترە.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ژنێکی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "چالاک"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "دەیدۆزێتەوە"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "و دوورترە"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "لە مروارییەکان"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "بەهای ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:09.884449322Z",
+  "model": "glm-5.3"
+}

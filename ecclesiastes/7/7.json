@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بەڕاستی زۆڵم دانا شێت دەکات، و بەخشش ⟨את⟩ دڵ لەناو دەبات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بەڕاستی"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "زۆڵم"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "شێت دەکات"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "و لەناو دەبات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "بەخشش"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:56.115110406Z",
+  "model": "glm-5.3"
+}

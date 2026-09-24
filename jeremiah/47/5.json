@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 47:5",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "کەڵبوون هاتووە بۆ سەر عەززە، بێدەنگ کرا ئەشقەلۆن، ماوەی دۆڵیان — هەتا کەی خۆت دەبڕیت؟",
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "هاتووە"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "کەڵبوون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ سەر"
+    },
+    {
+      "surface": "عזה",
+      "gloss": "عەززە"
+    },
+    {
+      "surface": "נדמתה",
+      "gloss": "بێدەنگ کرا"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "ئەشقەلۆن"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ماوەی"
+    },
+    {
+      "surface": "עמקם",
+      "gloss": "دۆڵیان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "תתגודדי",
+      "gloss": "خۆت دەبڕیت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:58:17.662149627Z",
+  "model": "glm-5.3"
+}

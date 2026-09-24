@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 74,
+  "translation": "گیانی کەوڵەی تۆ مەدە بە دڕندە؛ دڕندەی نەدارانت هەتاهەتایە لەبیرمەکە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دە"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "بە دڕندە"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "کەوڵەی تۆ"
+    },
+    {
+      "surface": "חית",
+      "gloss": "دڕندەی"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "نەدارانت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "لەبیرمەکە"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "هەتاهەتایە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:32.467055073Z",
+  "model": "glm-5.3"
+}

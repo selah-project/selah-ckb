@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "باشە کۆتاییی شت لە سەرەتایی، باشە درێژخایەنی ڕۆح لە بەرزی ڕۆح.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "باشە"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "کۆتاییی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شت"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "لە سەرەتایی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باشە"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درێژخایەنی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "لە بەرزی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:56.115271613Z",
+  "model": "glm-5.3"
+}

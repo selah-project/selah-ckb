@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ئەگەر برایت لە تۆ هەڵکەوێت و بفرۆشرێت بۆت، خزمەتی کۆیلەیی لێ مەکە.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "هەڵکەوێت"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برایت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "و بفرۆشرێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "خزمەتی مەکە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خزمەتی"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کۆیلە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:14.757579912Z",
+  "model": "glm-5.3"
+}

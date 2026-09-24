@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 7:23",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و دەبێت لەو ڕۆژەدا هەموو شوێنێک کە هەزار مۆز لێی بووە بە هەزار زیو، بۆ خەروا و داربەر دەبێت.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لەو ڕۆژەدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێنێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "مۆز"
+    },
+    {
+      "surface": "באלף",
+      "gloss": "بە هەزار"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "לשמיר",
+      "gloss": "بۆ خەروا"
+    },
+    {
+      "surface": "وלשית",
+      "gloss": "و داربەر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:14:11.189294760Z",
+  "model": "glm-5.3"
+}

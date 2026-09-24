@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و دەفەرموێت: کوێن خوداکانی ئەوان — بەردێ کە پەنایان پێوە بوو؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و دەفەرموێت"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کوێن"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "خوداکانی ئەوان"
+    },
+    {
+      "surface": "צור",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "پەنایان پێوە بوو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:17.709622975Z",
+  "model": "glm-5.3"
+}

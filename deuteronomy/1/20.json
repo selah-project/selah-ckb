@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و من وت بە ئێوە: گەیشتون بۆ چیای ئەمۆری کە یاهوە ئێلۆهیمەمان بە ئێمە دەیداتێ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "بە ئێوە"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "گەیشتون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ئەمۆری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیمەمان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دەداتێ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بە ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:35:00.795801814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "بە کوڕانی ئیسرائێڵ قسە بکەن و پێیان بڵێن: پیاوێک پیاوێک کە ڕژاوێک لە گۆشتی بێت، لە ڕژاوەکەی خۆیەوە ئەو پیسە",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "قسە بکەن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائێڵ"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "و بڵێن"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "זב",
+      "gloss": "ڕژاوێک"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "لە گۆشتی"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ڕژاوەکەی"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیسە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:05:10.680850878Z",
+  "model": "glm-5.3"
+}

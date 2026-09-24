@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "چونکە ڕاستی دەمم دەبڕێت، و ستەم بۆ لێوەکانم بێزارییە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "دەبڕێت"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "دەمم"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "و بێزاریی"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانم"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ستەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:10.162362319Z",
+  "model": "glm-5.3"
+}

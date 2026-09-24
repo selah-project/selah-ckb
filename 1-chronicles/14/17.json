@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ناوی داود لە هەموو زەویەکاندا دەرچوو، و یاهوە ⟨את⟩ ترسەکەی خستیە سەر هەموو گەلەکان.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "زەویەکاندا"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "خستیە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ترسەکەی"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ترسەکەی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "گەلەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:41.953119793Z",
+  "model": "glm-5.3"
+}

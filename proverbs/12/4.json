@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "ژنی بەهێز تاجی مێردەکەیەتی و وەک کوڵەمسڕی لە ئێسکەکانی شەرمسارکەر",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "مێردەکەی"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "و وەک کوڵەمسڕی"
+    },
+    {
+      "surface": "בעצמותיو",
+      "gloss": "لە ئێسکەکانی"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "شەرمسارکەر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:14.592542148Z",
+  "model": "glm-5.3"
+}

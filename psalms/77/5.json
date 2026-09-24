@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 77,
+  "translation": "تۆ پارێزەکانی چاوەکانمت گرت، شێوا بووم و قسە ناکەم.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "تۆ گرت"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "پارێزەکانی"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوەکانم"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "شێوا بووم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "قسە دەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:09.086813741Z",
+  "model": "glm-5.3"
+}

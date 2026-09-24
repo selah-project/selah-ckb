@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "نەوەیەک دەڕوات و نەوەیەک دێت، و زەوی بۆ هەمیشە ڕادەوەستێت.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نەوەیەک"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "و نەوەیەک"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "و زەوی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ڕادەوەستێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:50.472368836Z",
+  "model": "glm-5.3"
+}

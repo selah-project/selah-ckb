@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و بەزنێکی نێرینەی گوناه یەکێک بۆ لێبوردن لەسەر ئێوە",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "و بەزنێکی نێرینە"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گوناه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "بۆ لێبوردن"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "لەسەر ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:27.064377929Z",
+  "model": "glm-5.3"
+}

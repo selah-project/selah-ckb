@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 91,
+  "translation": "چونکە ئەو ڕزگارت دەکات لە داڵی ڕاوچی، لە تاعونی وێرانکەر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ڕزگارت دەکات"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "لە داڵی"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ڕاوچی"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "لە تاعونی"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "وێرانکەر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:04.819592306Z",
+  "model": "glm-5.3"
+}

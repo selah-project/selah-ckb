@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ئێل شادای چییە کە خزمەتی بکەین؟ و چ سوودێک هەیە کە لای ئەو تێبگەین؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ئێل شادای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נעבדנו",
+      "gloss": "خزمەتی بکەین"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چ"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "سوود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "تێبگەین"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لای ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:24.935018350Z",
+  "model": "glm-5.3"
+}

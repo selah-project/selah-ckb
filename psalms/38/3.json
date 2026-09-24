@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "چونکە تیرەکانت لە من نیشتنەوە، و دەستت لە سەرم داکەوتەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "تیرەکانت"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "نیشتنەوە"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "و داکەوتەوە"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لە سەرم"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:23.633426148Z",
+  "model": "glm-5.3"
+}

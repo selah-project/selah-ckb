@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "چاوی چاک — ئەوە بەڕەکەتکراوە، چونکە لە نانی خۆی بۆ هەژار داوە.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "بەڕەکەتکراوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داوە"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "نانی خۆی"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "بۆ هەژار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:29.101212047Z",
+  "model": "glm-5.3"
+}

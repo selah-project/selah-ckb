@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 31:29",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "لە ڕۆژانی ئەودا ناڵێن دیکە: باوکان ترشەڵۆکیان خوارد و ددانانی کوڕان توند دەبن.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "لە ڕۆژانی"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "باوکان"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "خواردن"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "ترشەڵۆک"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و ددانانی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "توند دەبن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:52:45.843710270Z",
+  "model": "glm-5.3"
+}

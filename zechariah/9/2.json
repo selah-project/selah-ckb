@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و هەروەها حەمات دەبێتە سنووری بۆی، سۆر و سیدۆن، چونکە ⟨زۆر⟩ زیرەکە.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حەمات"
+    },
+    {
+      "surface": "תגבل",
+      "gloss": "دەبێتە سنوور"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "צר",
+      "gloss": "سۆر"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "و سیدۆن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "زیرەکە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:51.310886769Z",
+  "model": "glm-5.3"
+}

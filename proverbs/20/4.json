@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "لەبەر زستان کەمتەرخەم هەڵنەکێشێت، لە دریندا داوا دەکات و هیچ نییە.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "لەبەر زستان"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کەمتەرخەم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "هەڵنەکێشێت"
+    },
+    {
+      "surface": "ישאل",
+      "gloss": "داوا دەکات"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "لە دریندا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و هیچ نییە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:51.904539409Z",
+  "model": "glm-5.3"
+}

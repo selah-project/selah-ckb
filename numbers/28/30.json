@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و یەک نێرەبەزن، بۆ لێبوردنتان ⟨لەسەر⟩تان.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "نێرەبەزن"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بەزن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "بۆ لێبوردنتان"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "لەسەرتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:57.125577991Z",
+  "model": "glm-5.3"
+}

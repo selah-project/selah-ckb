@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "چاکە بۆ من ئەوەی زgéوە مژدەدار بووم، بۆ ئەوەی حوکمەکانت فێر ببم.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "zgéوە مژدەدار بووم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "فێر ببم"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "حوکمەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:52.310686043Z",
+  "model": "glm-5.3"
+}

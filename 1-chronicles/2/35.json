@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و شێشان ⟨את⟩ کچەکەی دا بە یارحا کۆیلەکەی بۆ ژنی، و ئەو ⟨את⟩ عاتای بۆی بوورد.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شێشان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کچەکەی"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "کچەکەی"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "بە یارحا"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "کۆیلەکەی"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بۆ ژنی"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "بوورد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عاتای"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "عاتای"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:08.640930256Z",
+  "model": "glm-5.3"
+}

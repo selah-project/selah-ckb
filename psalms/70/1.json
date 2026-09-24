@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 70,
+  "translation": "بۆ ڕابەری مۆسیقیاران، بۆ داود، بۆ یادخستنەوە.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕابەری مۆسیقیاران"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "بۆ یادخستنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:03.466421743Z",
+  "model": "glm-5.3"
+}

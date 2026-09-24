@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "شاهێدییەکانت سەیرن، لەبەر ئەوە گیانم ئەوانی پارێزیوتن.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "سەیرەکان"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "شاهێدییەکانت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "پارێزیوتن"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:07.328644949Z",
+  "model": "glm-5.3"
+}

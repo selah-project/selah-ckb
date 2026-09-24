@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "دەیەمێک دەیەمێک بۆ بەرخە یەکەکە بۆ حەوت بەرخەکان بکە",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "دەیەمێک"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "دەیەمێک"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکە"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "بۆ بەرخە"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەکە"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "بۆ حەوت"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "بەرخەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:27.064104897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "هودیا، بانی، بێنینوو.",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "هودیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "بێنینوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:39.872320540Z",
+  "model": "glm-5.3"
+}

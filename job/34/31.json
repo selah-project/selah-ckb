@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "چونکە بۆ ئێل وترا هەڵگرتم نەخێر دانەبەست دەکەم",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "האمר",
+      "gloss": "وترا"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "هەڵگرتم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "دانەبەست دەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:45:30.299123731Z",
+  "model": "glm-5.3"
+}

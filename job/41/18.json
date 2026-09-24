@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 41:18",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "شمشێر دەیگات، بە بێی ڕاوەستان؛ ڕم، دەڕۆ و دەرزێنە",
+  "tokens": [
+    {
+      "surface": "משיגהו",
+      "gloss": "دەیگات"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بە بێی"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ڕاوەستان"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ڕم"
+    },
+    {
+      "surface": "מסע",
+      "gloss": "دەڕۆ"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "و دەرزێنە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:28.006169023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و کوڕەکانی شامێر: ئەخی، و ڕۆهاگە، و یێحوبە، و ئارام.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شامێر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ئەخی"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "و ڕۆهاگە"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "یێحوبە"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "و ئارام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:21.759057609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "گوێم بۆ مەسەل ڕادەکێشم، مەتەڵەکەم بە کینۆر دەکەمەوە.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ڕادەکێشم"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "بۆ مەسەل"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "گوێم"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "دەکەمەوە"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "بە کینۆر"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "مەتەڵەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:23.877226052Z",
+  "model": "glm-5.3"
+}

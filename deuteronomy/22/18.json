@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و پیرانی ئەو شارە ئەو پیاوە دەگرن و سزای دەدەن.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "و دەگرن"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پیرانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەو پیاوە"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "پیاوە"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "و سزای دەدەن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:53.065056802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 10:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و من لە چیا ڕاوەستم وەک ڕۆژانی یەکەم، چل ڕۆژ و چل شەو؛ و یاهوە گوێی لێم گرتم ئەو جارەش، یاهوە نەیویست لەنوات ببات.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ڕاوەستم"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیا"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "وەک ڕۆژانی"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چل"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "و گوێی لێ گرت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئەو جارەش"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "لە جار"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ویست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "השחיתך",
+      "gloss": "لەنوات ببات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:40.745020632Z",
+  "model": "glm-5.3"
+}

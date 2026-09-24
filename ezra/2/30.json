@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی مەگبیش، سەد پەنجا و شەش.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "مەگبیش"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "و شەش"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:21.896675554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "لە ساڵی یوبیلی ئەمدا هەر پیاوێک دەگەڕێتەوە بۆ موڵکی خۆی.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "یوبیل"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەمدا"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "دەگەڕێنەوە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هەر پیاوێک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "موڵکی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:10:53.295192088Z",
+  "model": "glm-5.3"
+}

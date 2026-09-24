@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "لە ڕێگای دادپەروەری ژیان ⟨هەیە⟩، و لە پێڕێگای ئەویدا مەرگ نییە.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "لە ڕێگای"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "و لە پێڕێگای"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ئەویدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مەرگ نییە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:08.976392083Z",
+  "model": "glm-5.3"
+}

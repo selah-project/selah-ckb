@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "هەر ئەوەی لەگەڵ ماڵات دەخەوێت، بەدڵنیاییەوە دەکوژرێت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "دەخەوێت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "מות",
+      "gloss": "بەدڵنیاییەوە"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "دەکوژرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:37.887386568Z",
+  "model": "glm-5.3"
+}

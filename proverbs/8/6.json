@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بیسێن، چونکە دەربارەی شتانی بەرز دەقسێم، و کردنەوەی لێوەکانم ڕاستییە.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بیسێن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "شتانی بەرز"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "دەقسێم"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "و کردنەوەی"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانم"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:10.162237363Z",
+  "model": "glm-5.3"
+}

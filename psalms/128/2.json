@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 128,
+  "translation": "بەرهەمی دەستەکانی تۆ دەخۆیت، خۆزگە بە تۆ، و چاکەیە بۆ تۆ.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "بەرهەم"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "دەستەکانی تۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "دەخۆیت"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "خۆزگە بە تۆ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "و چاکەیە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:27.199620360Z",
+  "model": "glm-5.3"
+}

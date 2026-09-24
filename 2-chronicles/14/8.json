@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و زێرەحی کوشی ⟨لە دەمیان⟩ بە هێزی هەزار هەزار و سێ سەد عەرەبانە هاتە دەرەوە بۆ لایان، و هات تا مارێشا.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و هاتە دەرەوە"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "بۆ لایان"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زێرەح"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "کوشی"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "بە هێزی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "و عەرەبانە"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "مارێشا"
+    }
+  ],
+  "timestamp": "2026-09-24T16:08:08.989855480Z",
+  "model": "glm-5.3"
+}

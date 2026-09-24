@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و کووش نیمرودی ⟨את⟩ بووەکە بووخست؛ ئەو دەستی پێکرد بەوتنی گەورە لە زەویدا.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "و کووش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "بووەکەی بووخست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیمرود"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "نیمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "החל",
+      "gloss": "دەستی پێکرد"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بەوتنی"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویدا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:55.152632086Z",
+  "model": "glm-5.3"
+}

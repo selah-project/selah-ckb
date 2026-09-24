@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 102,
+  "translation": "ڕۆژەکانم وەک سێبەرێکی درێژکراوەن، و من وەک گیا وشک بوومەوە.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانم"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "وەک سێبەر"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "درێژکراو"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "وەک گیا"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "وشک بوومەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:29.944904174Z",
+  "model": "glm-5.3"
+}

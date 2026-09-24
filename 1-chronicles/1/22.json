@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ عەیبال و ⟨את⟩ ئەبیماێل و ⟨את⟩ شەڤا",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەیبال"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "عەیبال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئەبیماێل"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ئەبیماێل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شەڤا"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شەڤا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:21.420202419Z",
+  "model": "glm-5.3"
+}

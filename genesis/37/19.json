@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و هەر یەکێک بە براکەی وتی: وەرە ئەوەی خاوەنی خەونەکانە هاتووە.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و وتویان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هەر یەکێک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "براکەی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وەرە"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "خاوەنی"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "خەونەکان"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتووە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:28:16.885031424Z",
+  "model": "glm-5.3"
+}

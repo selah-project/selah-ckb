@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بیربخەرەوە کە گیانی من ڕۆحێکە؛ چاوی من نامێنێتەوە بۆ بینینی چاکە.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "بیربخەرەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆحێک"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "گیانی من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "نامێنێتەوە"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوی من"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "بۆ بینینی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:27.606030558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و ئیبزان مرد و لە بێت لەخم نێژرا.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ئیبزان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "و نێژرا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە بێت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەخم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:09:27.513643914Z",
+  "model": "glm-5.3"
+}

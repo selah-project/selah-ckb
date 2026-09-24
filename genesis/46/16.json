@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "و کوڕەکانی گاد: سیفیۆن و حەگی، شونی و ئێسبۆن، ئێری و ئارۆدی و ئەرئێلی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "سیفیۆن"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "و حەگی"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "شونی"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "و ئێسبۆن"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ئێری"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "و ئارۆدی"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "و ئەرئێلی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:58.326120181Z",
+  "model": "glm-5.3"
+}

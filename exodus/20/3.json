@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "نا-بێت هەرگیز بۆ تۆ خوداکانی دیکە لەسەر ڕووخساری من.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خوداکانی"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووخساری"
+    }
+  ],
+  "timestamp": "2026-09-24T09:45:20.775737269Z",
+  "model": "glm-5.3"
+}

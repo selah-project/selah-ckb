@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 86,
+  "translation": "چونکە تۆ ئادۆنای باشیت و بەخشندەیت و زۆر حەسەدت هەیە بۆ هەموو ئەوانەی بانگت دەکەن",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "و بەخشندە"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و زۆر"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "بانگکەرەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:45.022185857Z",
+  "model": "glm-5.3"
+}

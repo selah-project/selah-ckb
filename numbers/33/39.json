@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و ئەهارۆن کوڕی سێ و بیست و سەد ساڵ ⟨بوو⟩ لە مردنی، لە چیای هۆر.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "ئەهارۆن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "و سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "لە مردنی"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیای"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:10.180044239Z",
+  "model": "glm-5.3"
+}

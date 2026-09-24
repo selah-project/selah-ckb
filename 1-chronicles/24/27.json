@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "کوڕانی مێراری بۆ یەعزییاھوو کوڕەکەی: شۆهەم و زەککوور و عیڤری.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مێراری"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "بۆ یەعزییاھوو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "و شۆهەم"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "و زەککوور"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "و عیڤری"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:40.375907902Z",
+  "model": "glm-5.3"
+}

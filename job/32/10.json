@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "لەیەوە گوتم: گوێ لێم بگرن، ئەوەی دەیزانم نیشان دەدەم، منیش",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لەیەوە"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوتم"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لێم"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "نیشان دەدەم"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "ئەوەی دەیزانم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "منیش"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:11.973097311Z",
+  "model": "glm-5.3"
+}

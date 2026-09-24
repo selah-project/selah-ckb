@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "تسیۆنییەکان بۆ حێرمۆن پێی دەڵێن شیریۆن، و ئەمۆرییەکان پێی دەڵێن سەنیر.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "تسیۆنییەکان"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "پێی دەڵێن"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "بۆ حێرمۆن"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "شیریۆن"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "و ئەمۆرییەکان"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "پێی دەڵێن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "سەنیر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:34:07.744428181Z",
+  "model": "glm-5.3"
+}

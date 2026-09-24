@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "چونکە نوقمبووە ماڵی بەرەو مەرگ و بەرەو ڕەفائیم پێڕەوەکانی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "نوقمبووە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مەرگ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بەرەو"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ڕەفائیم"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "پێڕەوەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:16.499426492Z",
+  "model": "glm-5.3"
+}

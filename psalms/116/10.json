@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 116,
+  "translation": "باوەڕم کرد، چونکە قسە دەکەم؛ ئەمن زۆر ئازاری چەشتووە.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "باوەڕم کرد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "قسە دەکەم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ئەمن"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ئازاری چەشتووە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:45.872045007Z",
+  "model": "glm-5.3"
+}

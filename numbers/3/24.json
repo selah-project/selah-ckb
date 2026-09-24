@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و سەرۆکی ماڵی باوکی لای گەرشۆنییەکان ئەلیاساف ⟨کوڕی لائێل⟩ بوو.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "و سەرۆکی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "لای گەرشۆنییەکان"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ئەلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لائێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:30.957365670Z",
+  "model": "glm-5.3"
+}

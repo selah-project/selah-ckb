@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "وەک بەرد لە فەقە ببەسترێت، وا کەسێک شەرەف بە گەمژە دەدات.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "وەک بەستن"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "لە فەقە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "بە گەمژە"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شەرەف"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:59.716722764Z",
+  "model": "glm-5.3"
+}

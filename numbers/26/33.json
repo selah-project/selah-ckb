@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 26:33",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و سەلافهاد ⟨موسا⟩ کوڕی حێفێر نەبوون بۆ کوڕان بەڵکو کچان و ناوی کچانی سەلافهاد ماحلە و نۆئە حەگلە میلکە و تیرسە",
+  "tokens": [
+    {
+      "surface": "וצלפחד",
+      "gloss": "و سەلافهاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حێفێر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچان"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچانی"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "سەلافهاد"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ماحلە"
+    },
+    {
+      "surface": "ונעה",
+      "gloss": "و نۆئە"
+    },
+    {
+      "surface": "חגלה",
+      "gloss": "حەگلە"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "میلکە"
+    },
+    {
+      "surface": "ותרצה",
+      "gloss": "و تیرسە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:02.249251304Z",
+  "model": "glm-5.3"
+}

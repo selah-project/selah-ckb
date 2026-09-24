@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "شەش ڕۆژ کار دەکەیت و هەموو کارەکەت دەکەیت،",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "کار دەکەیت"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "و دەیکەیت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "کارەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:22.869122461Z",
+  "model": "glm-5.3"
+}

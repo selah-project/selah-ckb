@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ⟨את⟩ حۆلۆن و ⟨את⟩ مەزراکانی، و ⟨את⟩ دەبیر و ⟨את⟩ مەزراکانی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حۆلۆن"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "حۆلۆن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مەزراکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دەبیر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دەبیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مەزراکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:01:01.044270998Z",
+  "model": "glm-5.3"
+}

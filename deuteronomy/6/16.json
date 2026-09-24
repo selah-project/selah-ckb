@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "⟨את⟩ یاهوە ئێلۆهیمتان تاقی مەکەنەوە، وەک تاقی کردنتان لە ماسا ⟨ماسا⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "تاقی مەکەنەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمتان"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "تاقی کردنتان"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "لە ماسا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:00.251451177Z",
+  "model": "glm-5.3"
+}

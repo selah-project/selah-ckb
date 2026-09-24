@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەوەی ⟨את⟩ ڕۆکەیان هەڵدەگرێت جلەکانی دەشۆرێت و پیسە تا ئێوارە — پیسن ئەوان بۆ ئێوە.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "و ئەوەی هەڵدەگرێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕۆکەیان"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ڕۆکەیان"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "دەشۆرێت"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "جلەکانی"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "و پیسە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ئێوارە"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "پیسن"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:44.855620760Z",
+  "model": "glm-5.3"
+}

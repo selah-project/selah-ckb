@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و لە هۆزی ئاشێر ⟨את⟩ مەشال و ⟨את⟩ مەزراکانی و ⟨את⟩ عەبدۆن و ⟨את⟩ مەزراکانی",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "و لە هۆزی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشێر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەشال"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مەشال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەزراکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەبدۆن"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عەبدۆن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەزراکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:08.579617776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 17:24",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و ژنەکە بە ئیلیای وت: ئێستا ئەمە دەزانم کە تۆ پیاوێکی ئێلۆهیمی و وشەی یاهوە لە دەمت ڕاستە.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ژنەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ئیلیا"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دەزانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و وشەی"
+    },
+    {
+      "surface": "יוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "لە دەمت"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:54:06.841290833Z",
+  "model": "glm-5.3"
+}

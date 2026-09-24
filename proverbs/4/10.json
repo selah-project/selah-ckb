@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "گوێ بگرە کوڕم و وشەکانم وەرگرە و ساڵانی ژیان بۆت زیاد دەبن.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "و وەرگرە"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "وشەکانم"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "و زیاد دەبن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆت"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ساڵانی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:32.481462636Z",
+  "model": "glm-5.3"
+}

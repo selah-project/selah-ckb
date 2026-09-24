@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 74,
+  "translation": "و ⟨את⟩ نەخشەکانی پێکەوە بە تەور و دەهۆز دەشکێنن",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "و ⟨את⟩",
+      "marks": "نەخشەکانی"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "نەخشەکانی"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "بە تەور"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "و دەهۆز"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "دەشکێنن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:18.910142169Z",
+  "model": "glm-5.3"
+}

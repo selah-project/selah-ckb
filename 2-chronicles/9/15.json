@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و پاشا شلۆمۆ دوو سەد قەڵغانی زێڕی لێدراو دروستکرد، شەش سەد شەکێلی زێڕی لێدراو بۆ یەک قەڵغان بەکارهات.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و دروستیکرد"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "قەڵغانی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕی"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "لێدراو"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕی"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "لێدراو"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بەکارهات"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "قەڵغانەکە"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:28.527689490Z",
+  "model": "glm-5.3"
+}

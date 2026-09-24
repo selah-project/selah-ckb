@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و یاهوە ⟨את⟩ گوێی شمووێلی کردەوە، یەک ڕۆژ پێش هاتنی شائول، بە وتن:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "کردەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوێ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمووێل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پێش"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "هاتنی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:20:44.245954936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و بەڵێ کێ دەدا ئێلۆهیم قسەی دەکرد و لێوەکانی بۆ تۆ دەکردەوە،",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "و بەڵێ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدا"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەی دەکرد"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "و دەکردەوە"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:48.670931674Z",
+  "model": "glm-5.3"
+}

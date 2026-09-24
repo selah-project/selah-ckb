@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئاوەها، شازادەکانی یسرائیل، هەر یەکێک بە بازووی خۆی، لە تۆ بوون بۆ ڕشتنی خوێن.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئاوەها"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "شازادەکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هەر یەکێک"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "بە بازووی خۆی"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "لמען",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ڕشتنی"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خوێن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:13:17.057530026Z",
+  "model": "glm-5.3"
+}

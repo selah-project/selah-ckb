@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و دەستارەکە دەخەیتە سەری و ⟨את⟩ نەزەری پیرۆز لەسەر دەستارەکە دەنێی",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "و دەخەیتە سەری"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "دەستارەکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "و دەنێی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نەزەر"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "نەزەر"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "دەستارەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:56.175427778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و گەلەکە دژی مۆشە ناڵاندن، بەوتن: چی بخۆینەوە؟",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "و ناڵاندن"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "دژی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەوتن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "بخۆینەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:42:13.985350663Z",
+  "model": "glm-5.3"
+}

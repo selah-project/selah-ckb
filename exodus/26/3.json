@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "پێنج پەردەکان دەبن بەستەر، یەک لەگەڵ خوشکی، و پێنج پەردەکان بەستەر، یەک لەگەڵ خوشکی.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پەردەکان"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "بەستەر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "خوشکی"
+    },
+    {
+      "surface": "وחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پەردەکان"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "بەستەر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "خوشکی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:52.567936002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "لە ناکاواکەیدا حوکمی هەژارەکەت لار مەکە",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "لار مەکە"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حوکم"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "هەژارەکەت"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "لە ناکاواکەیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:59.696820070Z",
+  "model": "glm-5.3"
+}

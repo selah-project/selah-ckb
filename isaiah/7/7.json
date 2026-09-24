@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "وا ئادۆنای یاهوە فەرموو: ڕانەوەستێ و ڕوو نادات",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ڕانەوەستێ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ڕوو نادات"
+    }
+  ],
+  "timestamp": "2026-09-24T12:13:49.248495720Z",
+  "model": "glm-5.3"
+}

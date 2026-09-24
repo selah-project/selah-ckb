@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و گۆشتی ئەوەی بێتە بەر هەر شتێکی پیس، ناخورێت، بە ئاگر دەسووتێنرێت، و گۆشتەکە، هەر پاکێک گۆشت دەخوات.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "و گۆشتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "بێتە بەر"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هەر شتێکی"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ناخورێت"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بە ئاگر"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "دەسووتێنرێت"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "و گۆشتەکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکێک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:14.657745172Z",
+  "model": "glm-5.3"
+}

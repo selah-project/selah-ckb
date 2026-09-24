@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و میراتێک بۆ ئەو لە نێو برایانیدا نابێت — یاهوە خۆی میراتەکەی ئەوە، وەک چۆن فەرموویەتی بۆی.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "و میرات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "لە نێو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برایانیدا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خۆی"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراتەکەی ئەو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموویەتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:23.090896229Z",
+  "model": "glm-5.3"
+}

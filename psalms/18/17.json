@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "لە بەرزییەوە ناردی و منی گرت، لە ئاوە زۆرەکان ڕامکێشا.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "ناردی"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "لە بەرزییەوە"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "منی گرت"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "ڕامکێشا"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "لە ئاوەکان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:22.422310567Z",
+  "model": "glm-5.3"
+}

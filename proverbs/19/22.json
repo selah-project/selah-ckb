@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "دڵخۆازیی مرۆڤ حەسەدەکەیەتی، و باشترە هەژار لە پیاوێکی درۆزن.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "دڵخۆازیی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدەکەیەتی"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "و باشترە"
+    },
+    {
+      "surface": "רש",
+      "gloss": "هەژار"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "لە پیاوێکی"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "درۆزن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:10.735959375Z",
+  "model": "glm-5.3"
+}

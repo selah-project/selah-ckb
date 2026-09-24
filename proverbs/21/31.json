@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ئەسپ بۆ ڕۆژی شەڕ ئامادە دەکرێت، بەڵام ڕزگاری لە یاهوەیە.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "ئەسپ"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "ئامادە دەکرێت"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بۆ ڕۆژی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "بەڵام لە یاهوە"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "ڕزگاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:59.377911964Z",
+  "model": "glm-5.3"
+}

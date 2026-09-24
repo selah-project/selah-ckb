@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و بە هەژارەوە مەچڕەوە لە ناکۆکیی خۆیدا.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "و هەژار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "مەچڕەوە"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "لە ناکۆکیی خۆیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:49.629205595Z",
+  "model": "glm-5.3"
+}

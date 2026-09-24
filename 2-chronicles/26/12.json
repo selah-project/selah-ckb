@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "کۆی ژمارەی سەرۆکانی خێزانەکان بۆ گەورەکانی هێز دوو هەزار و شەش سەد بوو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "کۆی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژمارەی"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سەرۆکانی"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "خێزانەکان"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "بۆ گەورەکانی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوو هەزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:42:37.320095037Z",
+  "model": "glm-5.3"
+}

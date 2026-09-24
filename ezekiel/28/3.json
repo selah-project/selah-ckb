@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "ئەوەتا تۆ لە دانیێل داناتری، هەموو نهێنییەک لات شاردووەتەوە —",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "لە دانیێل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "نهێنی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "شاردووەتەوە لات"
+    }
+  ],
+  "timestamp": "2026-09-24T13:17:57.542342805Z",
+  "model": "glm-5.3"
+}

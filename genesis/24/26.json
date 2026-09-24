@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و پیاوەکە چۆمی کرد و بۆ یاهوە کڕنووشی برد",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "و چۆمی کرد"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "پیاوەکە"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "و کڕنووشی برد"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:44.936737478Z",
+  "model": "glm-5.3"
+}

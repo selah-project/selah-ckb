@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 38:14",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "وەک قوڕی مۆهر دەگۆڕدرێت و وەک جل ڕادەوەستن،",
+  "tokens": [
+    {
+      "surface": "תתהפך",
+      "gloss": "دەگۆڕدرێت"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "وەک قوڕ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "مۆهر"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "و ڕادەوەستن"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "جل"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:45.807931438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 102,
+  "translation": "لەبەر تووڕەییت و کزەییت، چونکە بەرزت کردم و فڕێت دام.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "تووڕەییت"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "و کزەییت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "بەرزت کردم"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "و فڕێت دام"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:29.944786342Z",
+  "model": "glm-5.3"
+}

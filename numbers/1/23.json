@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ژماریکراوەکانیان بۆ هۆزی شیمعۆن نۆ و پەنجا هەزار و سێ سەد بوو.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ژماریکراوەکانیان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعۆن"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پەنجا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:09.390099320Z",
+  "model": "glm-5.3"
+}

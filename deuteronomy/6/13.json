@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "⟨את⟩ یاهوە ئێلۆهیمی خۆت بترسێ لێی، و ⟨את⟩ ئەو بپەرستە، و بە ناوی ئەو سوێند بخۆ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی خۆت"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "بترسێ"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "و ⟨את⟩"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "بپەرستە"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "و بە ناوی"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "سوێند بخۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:00.250710589Z",
+  "model": "glm-5.3"
+}

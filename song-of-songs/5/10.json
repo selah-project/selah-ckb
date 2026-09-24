@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "خۆشەویستم ڕووناکە و سوورە، دیارە لە دە هەزار.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "خۆشەویستم"
+    },
+    {
+      "surface": "צח",
+      "gloss": "ڕووناک"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "و سوور"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "دیار"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "لە دە هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:49.705362031Z",
+  "model": "glm-5.3"
+}

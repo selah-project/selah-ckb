@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "ئەم مانگە سەری مانگەکانە بۆ ئێوە، یەکەمە بۆ ئێوە بۆ مانگەکانی ساڵ:",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ئەم مانگە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مانگەکان"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ـە"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "بۆ مانگەکانی"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:50:30.914256751Z",
+  "model": "glm-5.3"
+}

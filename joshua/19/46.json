@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و مێی یەرکۆن، و هەرەکۆن، لەگەڵ سنوورەکە بەرامبەر یافۆ",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "و ئاوی"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "یەرکۆن"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "و هەرەکۆن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "سنوورەکە"
+    },
+    {
+      "surface": "מול",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "یافۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:25.396326040Z",
+  "model": "glm-5.3"
+}

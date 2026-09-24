@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و لە ڕۆژی دووەمی کوشتنی ⟨את⟩ گەدەلیاها، هیچ پیاوێک نەیزانی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "بۆ کوشتنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەدەلیاها"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گەدەلیاها"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و هیچ پیاوێک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:57:44.859518255Z",
+  "model": "glm-5.3"
+}

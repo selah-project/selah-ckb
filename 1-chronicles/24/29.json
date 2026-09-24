@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "لە قێیش: کوڕانی قێیش — یەرەحمئێل.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "لە قێیش"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قێیش"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یەرەحمئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:27.184586546Z",
+  "model": "glm-5.3"
+}

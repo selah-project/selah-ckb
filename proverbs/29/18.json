@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "بە بێبوونی دیمەن گەل وڵاوە، و ئەوەی تۆرا دەپارێزێت خۆبەختە.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "بە بێبوونی"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "دیمەن"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "وڵاوە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "وשמר",
+      "gloss": "و دەپارێزێت"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تۆرا"
+    },
+    {
+      "surface": "אשרהו",
+      "gloss": "خۆبەختە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:01.313863978Z",
+  "model": "glm-5.3"
+}

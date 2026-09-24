@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "دوو دەست بۆ تەختەیەک، بە یەکیەکەوە بەستراو؛ هەروا بۆ هەموو تەختەکانی میشکان کرد.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "بۆ تەختە"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکە"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "بەیەکەوە بەستراو"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەروا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "تەختەکانی"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "میشکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:39.824613832Z",
+  "model": "glm-5.3"
+}

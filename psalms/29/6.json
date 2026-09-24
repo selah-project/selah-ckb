@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و وەک گوچەرە دەیانسەمەرێنێت، لوبنان و سیریۆن وەک کوڕی گاکەوی.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "دەیانسەمەرێنێت"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "گوچەرە"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لوبنان"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "و سیریۆن"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "گاکەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:05.955261593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "شیمشۆن چووە ئاززا ⟨لای خۆیان⟩ و لەوێ ژنێکی لەشفرۆشی بینی و چووە لای ئەو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "چووە"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شیمشۆن"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "ئاززا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێکی"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "لەشفرۆشی"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "چووە"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لای ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:13:26.479463282Z",
+  "model": "glm-5.3"
+}

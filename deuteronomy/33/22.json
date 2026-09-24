@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و دەربارەی دان وت: دان بەچکەی شێرە، لە باشانەوە پەریدەبێت.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "و دەربارەی دان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "גור",
+      "gloss": "بەچکەی"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شێرە"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "پەریدەبێت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشانەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:48:56.672131807Z",
+  "model": "glm-5.3"
+}

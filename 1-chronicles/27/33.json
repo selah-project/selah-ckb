@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ئەحیتۆفەل ڕاوێژکاری مەلەکە ⟨بوو⟩، و حوشای ئەرکیی ⟨بوو⟩ هاوڕێی مەلەکە.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "و ئەحیتۆفەل"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "ڕاوێژکار"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "مەلەکە"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "و حوشای"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "ئەرکیی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "هاوڕێی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "مەلەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:31:12.882326724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و فریشتەی یاهوە بۆ جاری دووەم لە ئاسمانەوە بانگی ئاڤراهامی کرد.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و بانگی کرد"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فریشتەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "بۆ جاری دووەم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:19:40.607227867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 16:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "لە ڕۆژی ئەو ڕۆژە ئەو کات داڤید لە سەرەتا سوپاس بۆ یاهوە بە دەستی ئاساف و براکانی.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو ڕۆژە"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ئەو کات"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داڤید"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "لە سەرەتا"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "سوپاس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ئاساف"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:44.761272385Z",
+  "model": "glm-5.3"
+}

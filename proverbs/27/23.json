@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "بە دڵنیایی بزانە ڕووی مەڕەکانت، دڵت بخە سەر مەڕەکان.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "بە دڵنیایی"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "بزانە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "مەڕەکانت"
+    },
+    {
+      "surface": "שית",
+      "gloss": "بخە"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "سەر مەڕەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:47.978937813Z",
+  "model": "glm-5.3"
+}

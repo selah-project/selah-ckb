@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 24:31",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و ئەوەتا هەمووی دڕک بەرز بووە، گزنەکان ڕووی داپۆشیوە، و دیواری بەردینی ڕووخاوە.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بەرز بووە"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "هەمووی"
+    },
+    {
+      "surface": "קמשנים",
+      "gloss": "دڕک"
+    },
+    {
+      "surface": "כסו",
+      "gloss": "داپۆشی"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "חרלים",
+      "gloss": "گزن"
+    },
+    {
+      "surface": "וגדר",
+      "gloss": "و دیوار"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "بەردی"
+    },
+    {
+      "surface": "נהרסה",
+      "gloss": "ڕووخا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:28.171936357Z",
+  "model": "glm-5.3"
+}

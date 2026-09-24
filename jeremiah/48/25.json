@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "بڕاوە قەڕنی مۆئاب و باوەڕاستیشی شکاوە، فەرمووی یاهوە.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "بڕاوە"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "قەڕنی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "و باوەڕاستیشی"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "شکاوە"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:00:43.338404268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 143,
+  "translation": "و ڕۆحم لەسەرم شێوا، لە ناوەوە دڵم بێتاوان بوو.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "شێوا لەسەرم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەرم"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ڕۆحم"
+    },
+    {
+      "surface": "بתוכי",
+      "gloss": "لە ناوەوە"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "بێتاوان بوو"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:06.348582397Z",
+  "model": "glm-5.3"
+}

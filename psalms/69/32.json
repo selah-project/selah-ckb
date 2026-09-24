@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "و ئەمە لای یاهوە خۆشترە لە گا، لە مانگایەکی قۆچدار و سماوەدار.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "و خۆشترە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لای یاهوە"
+    },
+    {
+      "surface": "משור",
+      "gloss": "لە گا"
+    },
+    {
+      "surface": "פר",
+      "gloss": "مانگایەکی"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "قۆچدار"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "سماوەدار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:21.741413298Z",
+  "model": "glm-5.3"
+}

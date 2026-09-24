@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بۆ دان: ئەحیعەزێر کوڕی عەمیشادای.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "بۆ دان"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "ئەحیعەزێر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "عەمیشادای"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:49.971700651Z",
+  "model": "glm-5.3"
+}

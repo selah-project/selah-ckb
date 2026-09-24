@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لە هەموو ئاژەڵی پاک حەوت لە حەوت بۆ خۆت ببە، نێر و مێی خۆی؛ و لەو ئاژەڵەی کە پاک نییە، دوو، نێر و مێی خۆی.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ئاژەڵی"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ببە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "و مێی خۆی"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ئاژەڵ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "و مێی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:19.171002992Z",
+  "model": "glm-5.3"
+}

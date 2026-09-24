@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "گێلەکان بەجێبهێڵن و بژین و لە ڕێگای تێگەیشتندا ڕاست بڕوانن.",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "بەجێبهێڵن"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "گێلەکان"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "و بژین"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "و ڕاست بڕوانن"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگا"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:49.767663053Z",
+  "model": "glm-5.3"
+}

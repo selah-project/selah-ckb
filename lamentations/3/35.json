@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بۆ لارکردنەوەی دادی پیاو بەرامبەر ڕووی عەلیۆن.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "بۆ لارکردنەوەی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عەلیۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:35.746692001Z",
+  "model": "glm-5.3"
+}

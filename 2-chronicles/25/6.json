@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و لە یسرائیل ⟨ئیسڕاییل⟩ سەد هەزار جەنگاوەری بەهێز کرێ کرد بە سەد کیکار زیو.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "و کرێی کرد"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "لە یسرائیل"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جەنگاوەری"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "بە سەد"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کیکار"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:42:15.311180739Z",
+  "model": "glm-5.3"
+}

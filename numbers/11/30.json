@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و مۆشە ⟨موسا⟩ خۆی کۆکردەوە بۆ لای کەمپەکە، ئەو و پیرانی ئیسرائیل.",
+  "tokens": [],
+  "timestamp": "2026-09-24T10:20:55.222317117Z",
+  "model": "glm-5.3"
+}

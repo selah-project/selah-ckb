@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و هەموو ئامرازێکی کراوە کە بەستەری تەڵ لەسەری نییە، پیسە.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ئامرازێکی"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کراوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "بەستەری"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "تەڵ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیسە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:48.046335244Z",
+  "model": "glm-5.3"
+}

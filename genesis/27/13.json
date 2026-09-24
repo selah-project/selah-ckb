@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 27:13",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و دایکی پێی وت: لەسەر من ⟨بێت⟩ نەفرینی تۆ، کوڕم؛ تەنها گوێ لە دەنگم بگرە و بڕۆ و بۆم بهێنە.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر من"
+    },
+    {
+      "surface": "קללתך",
+      "gloss": "نەفرینی تۆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "لە دەنگم"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "و بڕۆ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بهێنە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:24.832176783Z",
+  "model": "glm-5.3"
+}

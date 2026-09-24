@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "نانەخۆی نەبێ ⟨את⟩ نانی چاوی خراپ، و ئارەزووی خۆشوازییەکانی مەکە",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نەبێ"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "نانەخۆی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نان"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نانی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مەکە"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ئارەزووی مەکە"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "خۆشوازییەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:52.383462703Z",
+  "model": "glm-5.3"
+}

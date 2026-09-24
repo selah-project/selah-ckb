@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ دائە و ⟨את⟩ ئایە بە جۆرەکەی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دائە"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "دائە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئایە"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ئایە"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "بە جۆرەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:27.604309136Z",
+  "model": "glm-5.3"
+}

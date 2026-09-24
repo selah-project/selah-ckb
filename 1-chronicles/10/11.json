@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و هەموو یاوێشی گیلعادی بێستن ⟨את⟩ هەموو ئەوەی پەلەشتیم بۆ شائول کرد.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "و بێستن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "یاوێش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەوەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پەلەشتیم"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "بۆ شائول"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:29.298591040Z",
+  "model": "glm-5.3"
+}

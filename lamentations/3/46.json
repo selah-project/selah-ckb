@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "هەموو دوژمنەکانمان دەمەکانیان لەسەرمان فراوان کردووە.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "فراوان کردووە"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "لەسەرمان"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "دەمەکانیان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "دوژمنەکانمان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:31.797064458Z",
+  "model": "glm-5.3"
+}

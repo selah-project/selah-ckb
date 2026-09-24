@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "باشترە دەسەلاڵێک کە لە ڕاستیدا دەڕوات، لە شەوازی لێوەکان و ئەوەی گەمژەیە",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "רש",
+      "gloss": "دەسەلاڵ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "لە ڕاستیدا"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "شەوازی"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "گەمژە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:37.318264285Z",
+  "model": "glm-5.3"
+}

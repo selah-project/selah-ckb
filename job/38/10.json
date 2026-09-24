@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 38:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و من یاسام لەسەری دانا و توپر و دەرگام دانی",
+  "tokens": [
+    {
+      "surface": "ואשבר",
+      "gloss": "و من تەرخانم کرد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "یاسام"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "و دانیم"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "توپر"
+    },
+    {
+      "surface": "ודלתים",
+      "gloss": "و دەرگام"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:13.100279660Z",
+  "model": "glm-5.3"
+}

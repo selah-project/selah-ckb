@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "بە کوڕانی ئیسرائیل قسە بکە و بڵێە پێیان: من یاهوە ئێلۆهیمی ئێوەم",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "قسە بکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بڵێە پێیان"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمی ئێوەم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:06:19.937776669Z",
+  "model": "glm-5.3"
+}

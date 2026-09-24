@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "پیاوەکانی نەڤۆی ئەوی دیکە، پەنجا و دوو.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوەکانی"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نەڤۆ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ئەوی دیکە"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:11.804766123Z",
+  "model": "glm-5.3"
+}

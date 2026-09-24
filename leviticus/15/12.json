@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و ئامرازی قوڕین کە ئاوەڕۆکە دەست لێدەدات دەشکێت، و هەموو ئامرازی دار بە ئاو دەشۆرێتەوە.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "و ئامرازی"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "قوڕین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "دەست لێدەدات"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ئاوەڕۆکە"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "دەشکێت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ئامرازی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "دەشۆرێتەوە"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بە ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:06:18.655940183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ئەی ماڵی یسرائیل، ئەم وشەیە بیبیستن ⟨את⟩ — ئەوەی کە من لەسەرتان شیوەنێک هەڵدەگرم.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بیبیستن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "هەڵدەگرم"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "لەسەرتان"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "شیوەن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:35:36.888992497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "نەتانئێل چوارەم، ڕەدای پێنجەم.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "نەتانئێل"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوارەم"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "ڕەدای"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پێنجەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:15.864855910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و خانووەکەی ب بەردی گرانبەها بۆ جوانی دادەڕازی و زێڕەکە زێڕی پەرڤایم بوو",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "و دادەڕازی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خانووەکە"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانووەکە"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "گرانبەها"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "بۆ جوانی"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "و زێڕەکە"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕی"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "پەرڤایم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:23.434648771Z",
+  "model": "glm-5.3"
+}

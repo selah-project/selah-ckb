@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "بێتە سەری وەک جلێک دەیپووشێت، و وەک پشتێنەیەک هەمیشە دەیبەستێت",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "وەک جل"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "دەیپووشێت"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "و وەک پشتێنە"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هەمیشە"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "دەیبەستێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:12.028319356Z",
+  "model": "glm-5.3"
+}

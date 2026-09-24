@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 34:23",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "بۆ کوڕەکانی یوسێف، بۆ هۆزی کوڕەکانی مەناشە سەرکردە حەنیئێل کوڕی ئێفۆد.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕەکانی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەناشە"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرکردە"
+    },
+    {
+      "surface": "חניאל",
+      "gloss": "حەنیئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "ئێفۆد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:33.866444784Z",
+  "model": "glm-5.3"
+}

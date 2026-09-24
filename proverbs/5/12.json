@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و دەڵێیت: چۆن فێرکارییەکەم ڕق لێبووە، و دڵم ڕەخنەی بەزانیوە!",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "و دەڵێیت"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ڕق لێبووە"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "فێرکاری"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "و ڕەخنە"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "بەزانیوە"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:23.941015192Z",
+  "model": "glm-5.3"
+}

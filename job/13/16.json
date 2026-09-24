@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 13:16",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "هەروەها ئەو بۆ من بۆ ڕزگارییە، چونکە دووڕوو لەبەردەمی ئەو نایەت",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "بۆ ڕزگاری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "لەبەردەمی ئەو"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "دووڕوو"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:46.922579413Z",
+  "model": "glm-5.3"
+}

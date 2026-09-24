@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "هەموو باڵندەی پاک دەتوانن بیخۆن",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "باڵندەی"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەتوانن بیخۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:02.788923630Z",
+  "model": "glm-5.3"
+}

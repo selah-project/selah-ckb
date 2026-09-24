@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 29:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "لە ساڵی دەیەمدا، لە دەیەمی ⟨مانگدا⟩، لە دوازدەیەم ڕۆژی مانگدا، وشەی یاهوە بوو بۆ من بۆ وتن،",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "העשירית",
+      "gloss": "دەیەم"
+    },
+    {
+      "surface": "בעשרי",
+      "gloss": "لە دەیەم"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "دوازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "بۆ مانگ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:01.962476067Z",
+  "model": "glm-5.3"
+}

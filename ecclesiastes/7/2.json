@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "چاکە ڕۆیشتن بۆ ماڵی ماتەم لە ڕۆیشتن بۆ ماڵی خواردنەوە، لەوەی کە ئەو کۆتایی هەموو مرۆڤە، و زیندووەکە دەیداتە ناو دڵی خۆی.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ماتەم"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "لە ڕۆیشتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "خواردنەوە"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "لەوەی کە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "کۆتایی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "و زیندووەکە"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەیدات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:34.251989560Z",
+  "model": "glm-5.3"
+}

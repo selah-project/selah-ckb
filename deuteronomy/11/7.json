@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "چونکە ئێوەن کە چاوەکانتان ⟨את⟩ هەموو کردارە گەورەکەی یاهوەی بینیوە کە کردوویەتی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "چاوەکانتان"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "بینەرەکانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کردارەکەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "گەورەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردوویەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:39:15.705730829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 113,
+  "translation": "لە هەڵاتنی خۆرەوە هەتا ئاوارەکەی، ستایشکراوە ناوی یاهوە.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "لە هەڵاتنی"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "خۆرەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ئاوارەکەی"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "ستایشکراوە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:24.036143588Z",
+  "model": "glm-5.3"
+}

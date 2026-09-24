@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 31:18",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و هەموو منداڵە ژنانەی کە خەوتنی پیاویان نەناسیوە، بۆ خۆتان زیندوو بهێڵن.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "منداڵەکان"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "ژنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ناسیوە"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "خەوتن"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "החיو",
+      "gloss": "زیندوو بهێڵن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ خۆتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:06.411820279Z",
+  "model": "glm-5.3"
+}

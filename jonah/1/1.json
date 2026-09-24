@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و بوو کە وشەی یاهوە لای یوناس ⟨کوڕی⟩ ئەمیتای بوو، بۆ وتن.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یوناس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨کوڕی⟩"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "ئەمیتای"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:37:35.010634396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "نسلێک ⟨هەیە⟩ پاکە لە چاوەکانی خۆی و لە پیسایی خۆی شۆردراوە نییە",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسلێک"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکە"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "لە چاوەکانی خۆی"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "و لە پیسایی خۆی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "شۆردراوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:58.051172285Z",
+  "model": "glm-5.3"
+}

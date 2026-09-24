@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لە ڕۆژی پێنجەمدا نۆ گوساله، دوو قوچاخ، چواردە بەرخ کوڕانی ساڵ، بێگەرد.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژی"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پێنجەم"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گوساله"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچاخ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بێگەرد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:40.248738112Z",
+  "model": "glm-5.3"
+}

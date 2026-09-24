@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کوڕانەی کە بۆیان لەدایک دەبن، نەوەی سێیەم، بۆیان دەچێتە ناو کۆبوونەوەی یاهوە",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "لەدایک دەبن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نەوە"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "سێیەم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دەچێتە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ناو کۆبوونەوەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:09.784746700Z",
+  "model": "glm-5.3"
+}

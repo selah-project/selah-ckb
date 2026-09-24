@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و یاعقۆڤب ماچی ڕاچێل کرد و ⟨את⟩ دەنگی بەرز کردەوە و گریا.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "ماچی کرد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعقۆڤب"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "ڕاچێل"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "بەرز کردەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەنگی"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "گریا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:51.412020688Z",
+  "model": "glm-5.3"
+}

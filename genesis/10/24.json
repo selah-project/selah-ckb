@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و ئەرپەخشەد ⟨את⟩ شالەخی لەدایک کرد، و شالەخ ⟨את⟩ عێبەری لەدایک کرد.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "و ئەرپەخشەد"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "لەدایک کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شالەخ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شالەخ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "و شالەخ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "لەدایک کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عێبەر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عێبەر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:05.144812985Z",
+  "model": "glm-5.3"
+}

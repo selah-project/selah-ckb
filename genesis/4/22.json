@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 4:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و تسللە، ئەوەش ⟨את⟩ توبەڵ قەین بوو، هەموارکەری هەموو دەستکاری مس و ئاسین؛ و خوشکی توبەڵ قەین نەعیمە بوو.",
+  "tokens": [
+    {
+      "surface": "וצלה",
+      "gloss": "و تسللە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئەوەش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توبەڵ قەین"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "توبەڵ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قەین"
+    },
+    {
+      "surface": "לטש",
+      "gloss": "هەموارکەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "دەستکار"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "و ئاسین"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "و خوشک"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "توبەڵ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قەین"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "نەعیمە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:43.082094727Z",
+  "model": "glm-5.3"
+}

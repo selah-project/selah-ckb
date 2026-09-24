@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "لەسەر ئەمە دڵمان نەخۆش بوو، لەسەر ئەمانە چاوەمان تاریک بوون.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "نەخۆش"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "دڵمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "تاریک بوون"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "چاوەمان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:54:58.651293986Z",
+  "model": "glm-5.3"
+}

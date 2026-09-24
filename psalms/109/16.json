@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "چونکە بیری نەکردەوە حەسەد بکات، و پیاوی هەژاری ڕاوکرد و فەقیر و شکاوی دڵ بۆ کوشتن.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "بیرکردەوە"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کردنی"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "و ڕاوکرد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "هەژاری"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و فەقیر"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "و شکاوی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "بۆ کوشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:23.431233598Z",
+  "model": "glm-5.3"
+}

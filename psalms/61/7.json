@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 61,
+  "translation": "ڕۆژان لەسەر ڕۆژانی پاشا زیاد دەکەیت، ساڵانی وەک نەوە و نەوە.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "زیاد دەکەیت"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "ساڵانی"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نەوە"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "و نەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:30.261874504Z",
+  "model": "glm-5.3"
+}

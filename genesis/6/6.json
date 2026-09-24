@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و یاهوە پەشیمان بوو کە ⟨את⟩ مرۆڤی لە زەویدا دروست کردبوو، و دڵی تاڵ بوو ⟨بۆ خۆی⟩.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "و پەشیمان بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دروست کردبوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرۆڤی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویدا"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "و دڵی تاڵ بوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨بۆ خۆی⟩"
+    },
+    {
+      "surface": "لבו",
+      "gloss": "دڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:25.986858569Z",
+  "model": "glm-5.3"
+}

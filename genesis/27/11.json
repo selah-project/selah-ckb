@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و یەعقوب وت بە ڕیڤکا دایکی: ئەوەتا عیساو برایم پیاوێکی ڕەوەندارە و منیش پیاوێکی لووسم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ڕیڤکا"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برایم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێکی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ڕەوەندار"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و منیش"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێکی"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "لووس"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:59.624957195Z",
+  "model": "glm-5.3"
+}

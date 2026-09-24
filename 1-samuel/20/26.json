@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و شائوڵ ئەو ڕۆژە هیچی نەوت، چونکە لە دڵی خۆیدا فەرمووی: ڕووداوێک ⟨دەبێت⟩، ئەو پاک نییە، چونکە پاک نییە.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وت هیچ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائوڵ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "ڕووداوێک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە ⟨هەیە⟩"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "نە"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T11:25:47.941262872Z",
+  "model": "glm-5.3"
+}

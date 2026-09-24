@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بۆ هۆزی ییساسکار ییگئال کوڕی یۆسێف.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییساسکار"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ییگئال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:40.143625693Z",
+  "model": "glm-5.3"
+}

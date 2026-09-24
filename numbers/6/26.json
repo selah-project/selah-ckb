@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "یاهوە ڕووخۆیەکەی بۆ تۆ هەڵبگرێت و شالۆم بۆ تۆ دابنێت",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "هەڵبگرێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووخۆیەکەی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "و دابنێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:39.458261780Z",
+  "model": "glm-5.3"
+}

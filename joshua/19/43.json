@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئێلۆن و تیمنەتا و عەقرۆن ⟨ئەکرۆن⟩.",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "و ئێلۆن"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "و تیمنەتا"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "و عەقرۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:53.262736485Z",
+  "model": "glm-5.3"
+}

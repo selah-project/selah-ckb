@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 129,
+  "translation": "ببن وەک گیای سەربانەکان، کە پێش هەڵکێشان ووشک دەبێت.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ببن"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "وەک گیا"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "سەربانەکان"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "کە پێش"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "هەڵکێشان"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ووشک دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:19.010408760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و گوڵەکان و چراکان و ملەقەچەکان زێڕ بوون — ⟨ئەو⟩ بە تەواوی زێڕ.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "و گوڵەکان"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "و چراکان"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "و ملەقەچەکان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئەو⟩"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "بە تەواوی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:32:59.144525545Z",
+  "model": "glm-5.3"
+}

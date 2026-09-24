@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و کوڕەکانی ئولام: بەیدان. ئەمانە کوڕەکانی گیلعاد بوون، کوڕی ماكیر، کوڕی مەنەشە.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ئولام"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "بەیدان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماكیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەشە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:29.855803401Z",
+  "model": "glm-5.3"
+}

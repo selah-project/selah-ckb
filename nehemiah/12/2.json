@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "«ئەمەریا، مالووخ، حەتووش»",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "ئەمەریا"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "مالووخ"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "حەتووش"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:16.371780997Z",
+  "model": "glm-5.3"
+}

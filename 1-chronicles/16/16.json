@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ئەوەی لەگەڵ ئاڤراهام ⟨את⟩ بڕی و سوێندەکەی بۆ ییتسحاق،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بڕی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاڤراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "و سوێندەکەی"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "بۆ ییتسحاق"
+    }
+  ],
+  "timestamp": "2026-09-24T15:27:01.549182790Z",
+  "model": "glm-5.3"
+}

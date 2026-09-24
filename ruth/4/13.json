@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "بۆعەز ⟨موسا⟩ روتی ⟨את⟩ هێنای و بوو بە ژنی ئەو، و هاتە لای ئەو، و یاهوە بە سکپڕییەوە بەخشیی، و کوڕێکی بوو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بۆعەز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روت"
+    },
+    {
+      "surface": "רות",
+      "gloss": "روت"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بە ژن"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "لای ئەو"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "سکپڕیی"
+    },
+    {
+      "surface": "ותلד",
+      "gloss": "و زایینەوە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:50:19.003386752Z",
+  "model": "glm-5.3"
+}

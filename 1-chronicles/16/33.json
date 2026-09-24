@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ئەو کاتە دارەکانی دارستانەکە دەگۆڕن لە پێش یاهوە، چونکە دێت بۆ دادگیریی ⟨את⟩ زەوی.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئەو کاتە"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "دەگۆڕن"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "دارەکانی"
+    },
+    {
+      "surface": "היער",
+      "gloss": "دارستانەکە"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "بۆ دادگیریی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەوی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:27:41.473973547Z",
+  "model": "glm-5.3"
+}

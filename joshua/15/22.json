@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و قینە و دیمۆنە و عەدعەدە.",
+  "tokens": [
+    {
+      "surface": "وקינה",
+      "gloss": "و قینە"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "و دیمۆنە"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "و عەدعەدە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:44.245139813Z",
+  "model": "glm-5.3"
+}

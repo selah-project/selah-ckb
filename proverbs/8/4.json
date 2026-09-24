@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئەی پیاوەکان ئێوە بانگ دەکەم و دەنگی من بۆ کوڕانی ئادەمە",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ئەی پیاوەکان"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "بانگ دەکەم"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "و دەنگی من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:38.575830822Z",
+  "model": "glm-5.3"
+}

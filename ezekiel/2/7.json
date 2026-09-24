@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و تۆ وشەکانی من ⟨את⟩ بۆ ئەوان دەڵێیت؛ ئەگەر ببیستن و ئەگەر بوەستن — چونکە شۆڕشگێڕن.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "و دەڵێیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەکانی من"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی من"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ببیستن"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "بوەستن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "شۆڕشگێڕ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:04:50.767182402Z",
+  "model": "glm-5.3"
+}

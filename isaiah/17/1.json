@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "بار دەمشق. ئەوەتا دەمشق لە شار بوون دەسڕدرێتەوە و دەبێتە کەلوپەلێکی ڕووخاو.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دەمشق"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دەمشق"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "دەسڕدرێتەوە"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "لە شار"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "کەلوپەل"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "ڕووخاو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:19:32.555154711Z",
+  "model": "glm-5.3"
+}

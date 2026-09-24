@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 19:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "زۆرەکان ڕووی بەخشندە دەپەرێنن، و هەموو دۆستی مرۆڤی دیارییە.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "زۆرەکان"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "دەپەرێنن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "بەخشندە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "دۆست"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ مرۆڤ"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "دیاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:01.391856637Z",
+  "model": "glm-5.3"
+}

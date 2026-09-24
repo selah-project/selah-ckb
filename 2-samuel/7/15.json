@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 7:15",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و حەسەدی من لە ئەو لا دەنات، وەک لە شائول ⟨لابردم⟩، کە لە لات لابردم.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "و حەسەدی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "لا دەنات"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لە ئەو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "لابردم"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הסרתי",
+      "gloss": "لابردم"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "لە لات"
+    }
+  ],
+  "timestamp": "2026-09-24T11:33:39.332985134Z",
+  "model": "glm-5.3"
+}

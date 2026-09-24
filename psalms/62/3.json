@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 62,
+  "translation": "تەنها ئەوە بەردەکەی من و ڕزگاریی منە، قەڵاکەی منم؛ زۆر ناڵارێزم.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "بەردەکەی من"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "و ڕزگاریی من"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "قەڵاکەی من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ناڵارێزم"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:29.179021273Z",
+  "model": "glm-5.3"
+}

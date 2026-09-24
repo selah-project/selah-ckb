@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "کەواتە دانا لەو کاتەدا بێدەنگە، چونکە کاتێکی خراپە ئەوەیە.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "کەواتە"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "لە کات"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "بێدەنگە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتێکی"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:35:46.873776953Z",
+  "model": "glm-5.3"
+}

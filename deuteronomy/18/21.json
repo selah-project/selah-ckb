@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ئەگەر لە دڵتدا بڵێیت: چۆن بزانین ⟨את⟩ قسەیەکەی کە یاهوە نەوتووە؟",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "بڵێیت"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "لە دڵتدا"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "بزانین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قسەیەکە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسەیەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "وتوویەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:50.996119038Z",
+  "model": "glm-5.3"
+}

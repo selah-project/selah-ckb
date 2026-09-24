@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "⟨את⟩ هەموو بەرزەکان دەبینێت؛ ئەو پاشایە لەسەر هەموو کوڕانی شانازی.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو بەرزەکان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "بەرز"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دەبینێت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "شانازی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:38.898318666Z",
+  "model": "glm-5.3"
+}

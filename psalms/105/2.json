@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "بۆ بیڵێن، بۆ بژەنن، لە هەموو سەرسوڕهێنانەکانی قسە بکەن.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "بیڵێن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "بژەنن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "قسە بکەن"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "سەرسوڕهێنانەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:24.003086723Z",
+  "model": "glm-5.3"
+}

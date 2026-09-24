@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 15:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ فەرموویەوە، بەم زوانە:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموویەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:23:22.833753651Z",
+  "model": "glm-5.3"
+}

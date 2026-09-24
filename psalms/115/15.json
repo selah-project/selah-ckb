@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 115,
+  "translation": "ئێوە بەخشدراوانن لە لای یاهوە، دروستکەری ئاسمان و زەوی.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "بەخشدراوان"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لە لای یاهوە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دروستکەر"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "و زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:16.053829256Z",
+  "model": "glm-5.3"
+}

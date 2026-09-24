@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "نەخێر کوڕەکانم، چونکە ئەو هەواڵەی من لە گوزەرکەرانی خەڵکی یاهوەوە دەبیستم باش نییە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "باش"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "هەواڵە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "دەبیستم"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "گوزەرکەران"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خەڵکی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:16:43.929005358Z",
+  "model": "glm-5.3"
+}

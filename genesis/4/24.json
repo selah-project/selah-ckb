@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە حەوت جار لە قەین تۆڵە دەسێنرێت، و لەمەخ حەفتا و حەوت ⟨جار⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "حەوت جار"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "تۆڵە دەسێنرێت"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قەین"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "و لەمەخ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "حەفتا"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "و حەوت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:43.082763725Z",
+  "model": "glm-5.3"
+}

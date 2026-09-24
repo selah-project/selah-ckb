@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "بەردەکەیە، کارەکەی بێگەردە، چونکە هەموو ڕێگاکانی دادپەروەرین، ئێڵی ڕاستگۆیی و بێ ستی نییە، ڕاست و ڕوونە ئەو.",
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "بەردەکەیە"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بێگەردە"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کارەکەی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ڕێگاکانی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەرین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێڵی"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ڕاستگۆیی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و بێ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ستی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "و ڕوونە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:57.553900609Z",
+  "model": "glm-5.3"
+}

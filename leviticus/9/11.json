@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و ⟨את⟩ گۆشتەکە و ⟨את⟩ پێستەکە بە ئاگر سووتاند، لە دەرەوەی کەمپەکە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گۆشتەکە"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گۆشتەکە"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پێستەکە"
+    },
+    {
+      "surface": "העור",
+      "gloss": "پێستەکە"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "سووتاند"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بە ئاگر"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "لە دەرەوەی"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "کەمپەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:22.563953384Z",
+  "model": "glm-5.3"
+}

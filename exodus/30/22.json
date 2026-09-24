@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و یاهوە قسەی کرد لەگەڵ مۆشە ⟨موسا⟩ و فەرمووی:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:33.753804190Z",
+  "model": "glm-5.3"
+}

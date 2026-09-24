@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ڕێگاکانی من بە بەردی هەڵکێشراو داخست، ڕێچکەکانی من کەژ و مەیل کرد.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "داخست"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێگاکانی من"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "بە بەردی هەڵکێشراو"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "ڕێچکەکانی من"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "کەژ و مەیل کرد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:31.973103420Z",
+  "model": "glm-5.3"
+}

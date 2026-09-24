@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 83,
+  "translation": "وەک ئاگر دارستان دەسووتێنێت و وەک گڕ چیا هەڵدەگڕێنێت،",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "وەک ئاگر"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "دەسووتێنێت"
+    },
+    {
+      "surface": "יער",
+      "gloss": "دارستان"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "و وەک گڕ"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "هەڵدەگڕێنێت"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "چیاکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:23.622128778Z",
+  "model": "glm-5.3"
+}

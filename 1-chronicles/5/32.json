@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و عوزی ⟨את⟩ زەرەحیا بەبوو، و زەرەحیا ⟨את⟩ مەرایوت بەبوو.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "و عوزی"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەبوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەرەحیا"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زەرەحیا"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "و زەرەحیا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەبوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەرایوت"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مەرایوت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:22.420652611Z",
+  "model": "glm-5.3"
+}

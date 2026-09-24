@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 129,
+  "translation": "بشرمن و بگەڕێنە دواوە، هەموو دوژمنانی سیۆن.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "بشرمن"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "و بگەڕێن"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "دواوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "دوژمنانی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سیۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:19.010099058Z",
+  "model": "glm-5.3"
+}

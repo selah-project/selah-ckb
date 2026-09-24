@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "دانای دڵ و بەهێزی هێزە، کێ بەرامبەری سەخت بووە و ڕزگار بووە؟",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "و بەهێز"
+    },
+    {
+      "surface": "כח",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "سەخت بووە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بەرامبەری"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "و ڕزگار بووە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:34.905104122Z",
+  "model": "glm-5.3"
+}

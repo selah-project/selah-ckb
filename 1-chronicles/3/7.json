@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و نۆگاه و نەفێگ و یاڤیا.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "و نۆگاه"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "و نەفێگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "و یاڤیا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:01.059699089Z",
+  "model": "glm-5.3"
+}

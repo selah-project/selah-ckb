@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و مۆشە ⟨موسا⟩ بە کوڕانی ئیسرائیل وت: وەکو هەموو ئەوەی یاهوە بۆ ⟨את⟩ مۆشە فەرمانی دا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "وەکو هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۆشە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:30.630386441Z",
+  "model": "glm-5.3"
+}

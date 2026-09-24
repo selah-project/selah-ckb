@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 5:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "با سەرچاوەکەت بەخێربێت، و خۆشحاڵ بە ژنی نەوجەوانیت.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "با بێت"
+    },
+    {
+      "surface": "מקורך",
+      "gloss": "سەرچاوەکەت"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بەخێربێت"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "و خۆشحاڵ بە"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "נעורך",
+      "gloss": "نەوجەوانیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:11.702926536Z",
+  "model": "glm-5.3"
+}

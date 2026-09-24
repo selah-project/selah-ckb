@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "هەموو حەرەمێک لە ئیسرائیلدا هی تۆ دەبێت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حەرەمێک"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "لە ئیسرائیلدا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "هی تۆ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:23:59.599462168Z",
+  "model": "glm-5.3"
+}

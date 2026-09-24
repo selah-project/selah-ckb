@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 113,
+  "translation": "بێتە ستایش ناوی یاهوە، لە ئێستاوە و هەتا هەمیشە.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ستایش"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "لە ئێستاوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و هەتا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:00.414092300Z",
+  "model": "glm-5.3"
+}

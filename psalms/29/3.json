@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "دەنگی یاهوە لەسەر ئاوەکان؛ ئێلی شکۆ گژەنگی هەڵدا؛ یاهوە لەسەر ئاوی زۆر.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ئاوەکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێلی"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "گژەنگی هەڵدا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاوی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:15.440402878Z",
+  "model": "glm-5.3"
+}

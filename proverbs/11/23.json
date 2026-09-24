@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ئارەزووی دادپەروەران تەنها چاکەیە؛ چاوەڕوانیی خراپەکان تووڕەییە.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ئارەزوو"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "دادپەروەران"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "چاوەڕوانی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکان"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "تووڕەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:29.991663655Z",
+  "model": "glm-5.3"
+}

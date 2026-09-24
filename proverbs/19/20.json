@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "ڕاوێژ ببیستە و ڕاهێنان وەربگرە، بۆ ئەوەی لە کۆتاییتدا حەکیم بیت.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ببیستە"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ڕاوێژ"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "و وەربگرە"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ڕاهێنان"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "حەکیم بیت"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "لە کۆتاییتدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:39.290974697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "و کوڕەکانی بۆی ئەنجامیان دا وەک ئەوەی فەرمانی کردن.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ئەنجامیان دا"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وەک ئەوە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "צום",
+      "gloss": "فەرمانی کردن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:39.536703665Z",
+  "model": "glm-5.3"
+}

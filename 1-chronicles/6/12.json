@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئەلیئاب کوڕەکەی، ییڕۆحام کوڕەکەی، ئەلقانە کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "ئەلیئاب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ییڕۆحام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانە"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:41.087266782Z",
+  "model": "glm-5.3"
+}

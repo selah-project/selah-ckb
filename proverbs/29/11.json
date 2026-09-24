@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "گەمژە هەموو ڕۆحی خۆی دەردەخات، و زیرەک لە دواوە دەیپارێزێت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ڕۆحی خۆی"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "دەردەخات"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "گەمژە"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "و زیرەک"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "لە دواوە"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "دەیپارێزێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:29.195751360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "شەعەتنێز — پەشم و کەتان پێکەوە — لەبەر ناکەیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "دەپۆشیت"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "شەعەتنێز"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "پەشم"
+    },
+    {
+      "surface": "ופشתים",
+      "gloss": "و کەتان"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:14.071820135Z",
+  "model": "glm-5.3"
+}

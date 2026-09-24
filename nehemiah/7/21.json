@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی ئاتێر ⟨موسا⟩ لە حێزقییە، نەد و هەشت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ئاتێر"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "لە حێزقییە"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نەد"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:11.031036823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چێژی دڵی ئێمە بووە بەرگێڕان بۆ ماتەمینی سەماکەی ئێمە.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "کۆتایی هات"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "چێژ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "دڵی ئێمە"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "گێڕدرا"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "بۆ ماتەمینی"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "سەماکەی ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:54:51.409445741Z",
+  "model": "glm-5.3"
+}

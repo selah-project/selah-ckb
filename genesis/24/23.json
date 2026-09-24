@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و فەرمووی: کچی کێیت تۆ؟ تکایە پێم بڵێ، ئایا لە ماڵی باوکت جێگایەک هەیە بۆ ئێمە بۆ شەوانەکردن؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێی"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "پێم بڵێ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "היש",
+      "gloss": "ئایا هەیە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جێگا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ ئێمە"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "بۆ شەوانەکردن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:08.797856257Z",
+  "model": "glm-5.3"
+}

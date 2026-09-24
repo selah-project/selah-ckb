@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "سوپاسی یاهوە دەکەم بە هەموو دڵم، هەموو عەجایبەکانت دەگێڕمەوە.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "سوپاس دەکەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "دەگێڕمەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "عەجایبەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:39.325068249Z",
+  "model": "glm-5.3"
+}

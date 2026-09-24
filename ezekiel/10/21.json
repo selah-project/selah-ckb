@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 10:21",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "چوار چوار ڕوو بۆ یەکێک و چوار باڵ بۆ یەکێک و شێوەی دەستانی مرۆڤ لەژێر باڵەکانیان.",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "بۆ یەکێک"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "باڵ"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "بۆ یەکێک"
+    },
+    {
+      "surface": "ודמות",
+      "gloss": "و شێوەی"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "باڵەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:06:56.454735219Z",
+  "model": "glm-5.3"
+}

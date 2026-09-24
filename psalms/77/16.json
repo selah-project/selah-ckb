@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 77,
+  "translation": "بە باووقت گەلەکەت ڕزگار کردووە، کوڕانی یەعقوب ⟨و⟩ یوسێف. سێلا.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "ڕزگار کردووە"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "بە باووق"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلەکەت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "⟨و⟩ یوسێف"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سێلا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:18.071544763Z",
+  "model": "glm-5.3"
+}

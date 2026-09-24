@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "لێوی نەفام ⟨بۆ⟩ ناو کێشە دێنە، و دەمی خۆی بۆ زۆرەملێ بانگ دەکات.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "لێوی"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نەفام"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "دێنە"
+    },
+    {
+      "surface": "בריב",
+      "gloss": "ناو کێشە"
+    },
+    {
+      "surface": "ופיו",
+      "gloss": "و دەمی خۆی"
+    },
+    {
+      "surface": "למהלמות",
+      "gloss": "بۆ زۆرەملێ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "بانگ دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:48.980307839Z",
+  "model": "glm-5.3"
+}

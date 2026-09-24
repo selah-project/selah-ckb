@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "پادشای تیرتسە یەک، هەموو پادشاکان سی و یەکن.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "تیرتسە"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادشاکان"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "و یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:42.989937185Z",
+  "model": "glm-5.3"
+}

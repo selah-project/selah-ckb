@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و فەرموو: بڕۆ و بەم گەلە بڵێ: گوێ بگرن بۆ بیستن و نایتێگەن، و سەیر بکەن بۆ بینین و نازانن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بڵێ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "بە گەلەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوێ بگرن"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "بۆ بیستن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "بیتێگەن"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "و سەیر بکەن"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "بۆ بینین"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "بزانن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:14:46.410017922Z",
+  "model": "glm-5.3"
+}

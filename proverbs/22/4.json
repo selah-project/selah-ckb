@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "دەرەنجامی عاجزی — ترسی یاهوە: سامان و ڕێز و ژیان.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "دەرەنجامی"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "عاجزی"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و ڕێز"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "و ژیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:11.219241506Z",
+  "model": "glm-5.3"
+}

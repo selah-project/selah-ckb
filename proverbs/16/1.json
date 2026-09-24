@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "لە مرۆڤ ڕێکخستنەکانی دڵن، و لە یاهوە وەڵامی زمان.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "لە مرۆڤ"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "ڕێکخستنەکانی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "و لە یاهوە"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "وەڵامی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:21.491800046Z",
+  "model": "glm-5.3"
+}

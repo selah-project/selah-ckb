@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و هەروەها تێکەڵێکی زۆر لەگەڵیان ⟨את⟩ بەرزبووەوە، و مەڕ و گاو، ئاژەڵێکی زۆر قورس.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "تێکەڵ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بەرزبووەوە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "لەگەڵیان ⟨את⟩"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "و مەڕ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "و گاو"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ئاژەڵ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "قورس"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:50:39.548866489Z",
+  "model": "glm-5.3"
+}

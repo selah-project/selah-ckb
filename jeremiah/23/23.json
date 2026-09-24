@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئایا ئێلۆهیمی نزیکم، لەدەنگی یاهوە، و نەک ئێلۆهیمی دوور؟",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "ئایا ئێلۆهیمی"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "نزیک"
+    },
+    {
+      "surface": "אני",
+      "gloss": "م"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "لەدەنگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەک"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دوور"
+    }
+  ],
+  "timestamp": "2026-09-24T15:59:33.843219395Z",
+  "model": "glm-5.3"
+}

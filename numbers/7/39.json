@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "گایەکی یەک، کوڕی گاڵتە، بەرخێکی یەک، مەڕێکی یەک، کوڕی ساڵی خۆی، بۆ قوربانیی سووتاندن.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گاڵتە"
+    },
+    {
+      "surface": "איל",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ساڵی خۆی"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "بۆ قوربانیی سووتاندن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:25.908300535Z",
+  "model": "glm-5.3"
+}

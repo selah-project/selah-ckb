@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و کچە گەنجەکە ڕایکرد و بۆ ماڵی دایکی خۆی وەک ئەم قسانە ڕایگەیاند",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "و ڕایکرد"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "کچە گەنجەکە"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "و ڕایگەیاند"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بۆ ماڵی"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "وەک ئەم قسانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:44.937139515Z",
+  "model": "glm-5.3"
+}

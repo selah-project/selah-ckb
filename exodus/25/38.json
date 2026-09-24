@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ملقاحەکانی و خەڵووزدانەکانی زێوی پاک ⟨بن⟩",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "و ملقاحەکانی"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "و خەڵووزدانەکانی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێوی پاک"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:01.298250044Z",
+  "model": "glm-5.3"
+}

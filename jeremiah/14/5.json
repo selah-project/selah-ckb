@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "چونکو تەنانەت ئاسکی مێ لە مەیداندا زاییندا و بەجێی هێشت، چونکو گژوگیا نەبوو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "تەنانەت"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ئاسکی مێ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "لە مەیداندا"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زاییندا"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "و بەجێی هێشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "گژوگیا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:43:44.902912607Z",
+  "model": "glm-5.3"
+}

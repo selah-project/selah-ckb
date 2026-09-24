@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بە گۆرانی شەراب نادەخۆنرێت؛ مەی بەهێز چەوت دەبێت بۆ خواردنەوەی.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "بە گۆرانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "دەخۆنەوە"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شەراب"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "چەوت دەبێت"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "مەی بەهێز"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "بۆ خواردنەوەی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:26.503189779Z",
+  "model": "glm-5.3"
+}

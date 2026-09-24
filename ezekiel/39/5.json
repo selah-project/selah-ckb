@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "لە ڕووی کێڵگەکە دەکەویت، چونکە من قسەم کرد، فەرمووی ئادۆنای یاهوە.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کێڵگەکە"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "دەکەویت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "قسەم کرد"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:21:50.129786320Z",
+  "model": "glm-5.3"
+}

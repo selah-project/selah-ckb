@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و لەسەر لەشکری هۆزی کوڕانی گاد ئەلیاساف کوڕی دێئوئێل بوو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لەشکری"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ئەلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دێئوئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:18:05.211751989Z",
+  "model": "glm-5.3"
+}

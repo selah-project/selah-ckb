@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و بەرزگەکان نەسڕدرانەوە؛ تەنها دڵی ئاسا بوو تەواو لەگەڵ یاهوە هەموو ڕۆژانی.",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "و بەرزگەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "سڕدرانەوە"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ئاسا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "تەواو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ڕۆژانی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:54:00.988948734Z",
+  "model": "glm-5.3"
+}

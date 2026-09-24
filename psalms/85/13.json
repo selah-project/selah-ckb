@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 85,
+  "translation": "بەڵێ یاهوە چاکە دەدات، و زەویەکەی ئێمە بەرهەمەکەی دەدات.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بەڵێ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "و زەویەکەی ئێمە"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "بەرهەمەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:54.814395190Z",
+  "model": "glm-5.3"
+}

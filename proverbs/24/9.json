@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "خەریکردنی گەمژەیی هەڵەیە و بێزارکەرە بۆ مرۆڤ گاڵتەکار.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "خەریکردنی"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "گەمژەیی"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "هەڵەیە"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "و بێزارکەرە"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بۆ مرۆڤ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "گاڵتەکار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:33.456803833Z",
+  "model": "glm-5.3"
+}

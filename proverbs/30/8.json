@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "بەتاڵی و وشەی درۆ لە من دوور بخەرەوە؛ هەژاری و دەوڵەمەندی مەبدە بە من؛ نانی بەشەکەمم بدە بژێ.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "بەتاڵی"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و وشەی"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دوور بخەرەوە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "هەژاری"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "و دەوڵەمەندی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "خواردنم بدە بژێ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "بەشەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:01.414492033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئەمانەش ⟨دەتوانێت بێت⟩ بڕیارەکانن کە دەیانی <?= '?>",
+  "tokens": [],
+  "timestamp": "2026-09-24T09:47:38.381788080Z",
+  "model": "glm-5.3"
+}

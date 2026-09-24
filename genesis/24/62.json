@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و ییتسحاق لە ڕێگای بێئەر لەحای ڕۆئییەوە هات، و ئەو لە زەویی نەگەڤ دانیشتبوو.",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "و ییتسحاق"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "لە ڕێگای"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بێئەر"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لەحای"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ڕۆئی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "دانیشتبوو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویی"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "نەگەڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:48:51.688399276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "بەڵکو ئەگەر بۆ فامکردن بانگ بکەیت و بۆ تێگەیشتن دەنگت بەرز بدەیت،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "بۆ فامکردن"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "بانگ بکەیت"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "بۆ تێگەیشتن"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بدەیت"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "دەنگت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:23.392676963Z",
+  "model": "glm-5.3"
+}

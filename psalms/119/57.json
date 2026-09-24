@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "بەشی من یاهوە ⟨یە⟩؛ گوتوم بۆ پاراستنی وشەکانت.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "بەشی من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "گوتوم"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "بۆ پاراستنی"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "وشەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:41.912698053Z",
+  "model": "glm-5.3"
+}

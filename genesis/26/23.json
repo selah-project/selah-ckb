@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و لەوێوە بەرزبووەوە بۆ بێر شەڤەع ⟨بیری حەوت⟩",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "بەرزبووەوە"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێوە"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بێر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شەڤەع"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:21.658449286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ڕێچکەکانی شێئۆل ماڵی ⟨یە⟩، دادەڕوات بۆ ژوورەکانی مردن.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێچکەکانی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شێئۆل"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "دادەڕوات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ژوورەکانی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:10.937300477Z",
+  "model": "glm-5.3"
+}

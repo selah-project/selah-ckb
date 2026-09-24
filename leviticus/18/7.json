@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "ڕووتی باوکت و ڕووتی دایکت ئاشکرا مەکە؛ ئەو دایکی تۆیە، ڕووتی ئەو ئاشکرا مەکە.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ڕووتی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "و ڕووتی"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "دایکت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ئاشکرا مەکە"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "دایکت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ئاشکرا مەکە"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ڕووتی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:05:51.830729131Z",
+  "model": "glm-5.3"
+}

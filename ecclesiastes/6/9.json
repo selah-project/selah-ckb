@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چاکترە بینینی چاو لە سەرگەردانی گیان؛ ئەمەش هەبەلە و ڕەنجی ڕۆح.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکترە"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "بینین"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "سەرگەردانی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمەش"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەبەل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "و ڕەنجی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:11.770146170Z",
+  "model": "glm-5.3"
+}

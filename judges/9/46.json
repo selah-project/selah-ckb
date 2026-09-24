@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و هەموو خاوەنانی بورجی شێکێم ⟨شکیم⟩ ئەمەیان بیست، و چوونە ناو قەڵای ماڵی ئێل بەریت.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "و بیستیان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "خاوەنانی"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "بورجی"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شێکێم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "و چوونە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "قەڵا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بەریت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:08:52.300258366Z",
+  "model": "glm-5.3"
+}

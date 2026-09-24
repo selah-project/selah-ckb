@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و پشتێنی دەریا دەبێت بە نیشتەجێبوون و کەرەتی مەڕوان و ئاودانی مەڕ.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "پشتێنی"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "נות",
+      "gloss": "نیشتەجێبوون"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کەرەتی"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "مەڕوان"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "و ئاودانی"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:41:47.338066364Z",
+  "model": "glm-5.3"
+}

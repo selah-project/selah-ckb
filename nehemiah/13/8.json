@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و زۆر ناخۆش بوو بۆم، و هەموو کەل و پەکانی ماڵی تۆبیا فڕێدام ⟨את⟩ دەرەوە لە ژوورەکەوە.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "و ناخۆش بوو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "و فڕێدام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو کەل و پەکان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "کەل و پەکان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "تۆبیا"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "دەرەوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "ژوورەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:12.355552515Z",
+  "model": "glm-5.3"
+}

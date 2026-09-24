@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ ئەدۆرایم و ⟨את⟩ لاکیش و ⟨את⟩ عەزەقاه",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئەدۆرایم"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "ئەدۆرایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "لاکیش"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "لاکیش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەزەقاه"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "عەزەقاه"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:04.587725535Z",
+  "model": "glm-5.3"
+}

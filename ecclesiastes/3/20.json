@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "هەموو دەڕوات بۆ شوێنێکی یەک؛ هەموو لە خۆڵەمەش بوو، و هەموو دەگەڕێتەوە بۆ خۆڵەمەش.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێنێکی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "خۆڵەمەش"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "שב",
+      "gloss": "دەگەڕێتەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "خۆڵەمەش"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:12.651752944Z",
+  "model": "glm-5.3"
+}

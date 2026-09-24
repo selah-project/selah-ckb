@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و وتی: پێغەمبەر نیم، من مرۆڤێکی زەوی‌کارم، چونکە مرۆڤێک لە منداڵییەوە منی کڕیوە.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "پێغەمبەر"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤێکی"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "زەوی‌کار"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤێک"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "منی کڕیوە"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "لە منداڵییەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:05.448094378Z",
+  "model": "glm-5.3"
+}

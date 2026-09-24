@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و بۆ هەڵئاوسان و بۆ پەڵەی گەورە و بۆ ڕووناکی پێست،",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "و بۆ هەڵئاوسان"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "و بۆ پەڵەی گەورە"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "و بۆ ڕووناکی پێست"
+    }
+  ],
+  "timestamp": "2026-09-24T15:51:49.987377325Z",
+  "model": "glm-5.3"
+}

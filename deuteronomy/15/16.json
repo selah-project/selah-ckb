@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و دەبێت کە بڵێت لات: نا لە لات دەرناچم، چونکە خۆشی دەوێت و ⟨את⟩ ماڵت، چونکە بۆی چاکە لەگەڵت.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "بڵێت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "دەرناچم"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "لە لات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "خۆشی دەوێت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ماڵت"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ماڵت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:44.679788104Z",
+  "model": "glm-5.3"
+}

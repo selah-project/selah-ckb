@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ئاسا چاک و ڕاست لە چاوانی یاهوە ئێلۆهیمی خۆیدا کرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ئاسا ⟨ئەسا⟩"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "و ڕاست"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ئێلۆهیمی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:39.742027424Z",
+  "model": "glm-5.3"
+}

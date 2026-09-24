@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و بۆ هۆزی کوڕەکانی ئێفرایم سەرکردە کەموئێل کوڕی شیفتان.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "و بۆ هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرکردە"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "کەموئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "شیفتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:33.866628481Z",
+  "model": "glm-5.3"
+}

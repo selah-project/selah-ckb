@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "زوو هەڵستووی چاک ڕەزامەندی دەگەڕێت، و ڕاوکەری خراپی ئەو دەگاتەوە.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "زوو هەڵستوو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "دەگەڕێت"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ڕەزامەندی"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "و ڕاوکەری"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "ئەو دەگاتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:58.270860218Z",
+  "model": "glm-5.3"
+}

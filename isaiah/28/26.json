@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 28:26",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و بۆ دادپەروەری ڕێنی دەدات، ئێلۆهیمی فێری دەکات.",
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "و ڕێنی دەدات"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "بۆ دادپەروەری"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "فێری دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T12:22:34.393313002Z",
+  "model": "glm-5.3"
+}

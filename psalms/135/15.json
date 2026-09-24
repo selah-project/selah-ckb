@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 135,
+  "translation": "بتەکانی گەلان زێو و زێڕن، دروستکراوی دەستەکانی مرۆڤ.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "بتەکانی"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زێو"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و زێڕ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "دروستکراوی"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستەکانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:04.332526620Z",
+  "model": "glm-5.3"
+}

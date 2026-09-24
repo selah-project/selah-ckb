@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و شالوم ⟨את⟩ حیلقیای بەخێوکرد و حیلقیا ⟨את⟩ عەزەریای بەخێوکرد.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "و شالوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێوکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حیلقیا"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حیلقیا"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "و حیلقیا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێوکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەزەریا"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عەزەریا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:47.399558469Z",
+  "model": "glm-5.3"
+}

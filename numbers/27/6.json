@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و یاهوە بە مۆشەی فەرموو کە دەڵێت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کە دەڵێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:01.094092355Z",
+  "model": "glm-5.3"
+}

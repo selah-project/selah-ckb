@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و هاتن لام چەند پیاوێک لە پیرانی ئیسرائیل و دانیشتن لەبەرچاوم.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "و هاتن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لام"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "چەند پیاوێک"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "لە پیرانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "و دانیشتن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەرچاوم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:09:12.895223248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و دەبێت، کە نزیک دەبنەوە بۆ شەڕەکە، کاهینەکە نزیک دەبێتەوە و لەگەڵ گەلەکە دەدوێت.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "کە نزیک دەبنەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "شەڕەکە"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "و نزیک دەبێتەوە"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهینەکە"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و دەدوێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:54.930866175Z",
+  "model": "glm-5.3"
+}

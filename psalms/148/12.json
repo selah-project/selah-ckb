@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 148,
+  "translation": "گەنجان و هەروەها پاکیزەكان، پیران لەگەڵ گەنجەكان",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "گەنجان"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "پاکیزەكان"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "گەنجەكان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:47.410639562Z",
+  "model": "glm-5.3"
+}

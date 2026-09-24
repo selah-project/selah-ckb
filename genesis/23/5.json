@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کوڕانی حیت ⟨موسا⟩ وەڵامی ئاڤراهامیان دایەوە بە وتنی بۆی،",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "وەڵامیان دایەوە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاڤراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:59.124944344Z",
+  "model": "glm-5.3"
+}

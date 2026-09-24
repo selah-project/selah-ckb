@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "ئەمە کێیە کە ڕاوێژ بە وشەکانی بێ زانین تاریک دەکات؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "تاریک دەکات"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ڕاوێژ"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "بە وشەکان"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانین"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:11.249697759Z",
+  "model": "glm-5.3"
+}

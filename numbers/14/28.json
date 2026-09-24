@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 14:28",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "بە ئەوان بڵێ: من زیندووم، وتنی یاهوە: ئەگەر نا، وەک چۆن لە گوێکانم قسەتان کرد هەمانە بۆ ئێوە دەکەم",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بە ئەوان"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندووم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "قسەتان کرد"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "لە گوێکانم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەمانە"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "دەکەم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:31.062373935Z",
+  "model": "glm-5.3"
+}

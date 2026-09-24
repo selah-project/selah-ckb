@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ڕوو بە ڕوو یاهوە لەگەڵ ئێوە لە چیا، لە ناوەڕاستی ئاگرەکەدا فەرمووی.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "بە ڕوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "لەگەڵ ئێوە"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیا"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "لە ناوەڕاست"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ئاگرەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:37.813878947Z",
+  "model": "glm-5.3"
+}

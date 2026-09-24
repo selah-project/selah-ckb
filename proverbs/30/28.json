@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "مارمێلکە بە دوو دەست دەگیرێت، و ⟨هەیە⟩ لە کۆشکەکانی پاشادا.",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "مارمێلکە"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "بە دوو دەست"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "دەگیرێت"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "لە کۆشکەکانی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:25.839201515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "و دڵیان لەگەڵ ئەو ڕاست نەبوو، و لە پەیمانیدا جێگیر نەبوون.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "و دڵیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ڕاست بوو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵ ئەو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "جێگیر بوون"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "لە پەیمانیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:27.358572672Z",
+  "model": "glm-5.3"
+}

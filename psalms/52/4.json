@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 52,
+  "translation": "هەلاکەت لیسانەکەت پلان دادەنێت، وەکوو تیغێکی تیژکراو، کەری فێڵ.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "هەلاکەت"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "پلان دادەنێت"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "لیسانەکەت"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "وەکوو تیغ"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "تیژکراو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کەر"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "فێڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:01.083495458Z",
+  "model": "glm-5.3"
+}

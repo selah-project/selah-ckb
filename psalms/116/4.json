@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 116,
+  "translation": "و بە ناوی یاهوە بانگ دەکەم: ئەی یاهوە، ژیانم ڕزگار بکە.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "و بە ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "بانگ دەکەم"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ئەی تکایە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "ڕزگار بکە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ژیانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:16.247813738Z",
+  "model": "glm-5.3"
+}

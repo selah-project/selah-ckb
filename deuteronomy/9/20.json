@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و بە ئاهارۆنش یاهوە زۆر تووڕە بوو بۆ لەناوبردنی، و هەروەها لەو کاتەدا بۆ ئاهارۆن نوێژم کرد.",
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "و بە ئاهارۆن"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "تووڕە بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "بۆ لەناوبردنی"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "و نوێژم کرد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "لە کات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:44.111735678Z",
+  "model": "glm-5.3"
+}

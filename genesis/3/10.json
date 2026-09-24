@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و وت: دەنگەکەتت لە باخچەکەدا بیست، ترسام چونکە ڕووتمە، و خۆم شاردەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەنگەکەت"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "دەنگەکەت"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "لە باخچەکەدا"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "و ترسام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ڕووتمە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "و خۆم شاردەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:29.379452979Z",
+  "model": "glm-5.3"
+}

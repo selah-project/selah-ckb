@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "عەتای شەشەم ئێلیئێل حەوتەم",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "عەتای"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شەشەم"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ئێلیئێل"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "حەوتەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:35.316105694Z",
+  "model": "glm-5.3"
+}

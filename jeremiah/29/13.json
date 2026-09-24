@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و من دەگەڕێن ⟨את⟩ و دەمدۆزنەوە، چونکە بە هەموو دڵتانەوە من دەگەڕێن،",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "و من دەگەڕێن"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "و دەمدۆزنەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "من دەگەڕێن"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "دڵتانەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:52:05.127765921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "چونکە ئەگەر قاین بۆ سووتاندن بێت، تا کەی؟ ئاشوور تۆ بە دیلی دەبات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "بۆ سووتاندن"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قاین"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ئاشوور"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "تۆ بە دیلی دەبات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:42.529133519Z",
+  "model": "glm-5.3"
+}

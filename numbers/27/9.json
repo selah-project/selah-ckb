@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ئەگەر کچێکی نییەتە بۆی، دەیدەن ⟨את⟩ میراتەکەی بۆ برایانی.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییەتە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچ"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "دەیدەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میراتەکەی"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراتەکەی"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "بۆ برایانی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:41.538051579Z",
+  "model": "glm-5.3"
+}

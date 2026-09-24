@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 39:20",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و لەسەر سفرەم تێردەبن — ئەسپ و سوار، جەنگاوەر و هەموو پیاوی شەڕ — نەقولی ئادۆنای یاهوە.",
+  "tokens": [
+    {
+      "surface": "ושבעתם",
+      "gloss": "و تێردەبن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "سفرەم"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ئەسپ"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "و سوار"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جەنگاوەر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نەقولی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:22:31.792196536Z",
+  "model": "glm-5.3"
+}

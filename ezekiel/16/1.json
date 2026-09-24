@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و وشەی یاهوە هات بۆ لای من بۆ وتنەوە،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:09:27.448076938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 128,
+  "translation": "ئەوەتا بێگومان بەم شێوەیە پیاوێک کە لە یاهوە دەترسێت دەمەبارەکێت.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بێگومان"
+    },
+    {
+      "surface": "כן",
+      "gloss": "بەم شێوەیە"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "دەمەبارەکێت"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "دەترسێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:27.199905965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "یاهوە هەموو لێوە نەرمەکان دەبڕێت، زمانێک کە شتانی گەورە قسە دەکات.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "دەبڕێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوە"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "نەرمەکان"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمانێک"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "قسە دەکات"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "شتانی گەورە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:45.199178031Z",
+  "model": "glm-5.3"
+}

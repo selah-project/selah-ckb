@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 121,
+  "translation": "یارمەتیم لە لای یاهوەیە، دروستکەری ئاسمان و زەوی.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "یارمەتیم"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دروستکەری"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "و زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:22.606006545Z",
+  "model": "glm-5.3"
+}

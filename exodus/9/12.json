@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "یاهوە ⟨את⟩ دڵی پەرعۆه سەخت کرد و گوێی نەگرت لێیان، وەک یاهوە فەرمووی کردەوە بە مۆشە.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "و سەخت کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵی پەرعۆه"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرعۆه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێی گرت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "لێیان"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:39:58.427842502Z",
+  "model": "glm-5.3"
+}

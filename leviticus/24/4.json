@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "لەسەر چەراغەدانە پاکەکە گڵۆپەکان ⟨את⟩ ڕیز دەکات، لە پێش یاهوە بەردەوام.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "چەراغەدانەکە"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ڕیز دەکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گڵۆپەکان"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "گڵۆپەکان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "بەردەوام"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:32.867778984Z",
+  "model": "glm-5.3"
+}

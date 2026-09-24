@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و ییرمیا و یەحەزیێل و یۆحانان و یۆزاباد گەدیراتی",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "و ییرمیا"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "و یەحەزیێل"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "و یۆحانان"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "و یۆزاباد"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "گەدیراتی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:52.929149055Z",
+  "model": "glm-5.3"
+}

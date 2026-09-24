@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و بیلعام وت لای ئێلۆهیم: بالاق کوڕی سیفۆر پاشای مۆئاب ناردبووی لای من.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "سیفۆر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ناردبوو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    }
+  ],
+  "timestamp": "2026-09-24T10:25:51.990061019Z",
+  "model": "glm-5.3"
+}

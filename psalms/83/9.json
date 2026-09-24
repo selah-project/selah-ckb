@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 83,
+  "translation": "ئاشووریش لەگەڵ ئەوان بەستراوە، بوون بە بازێک بۆ کوڕانی لوت. سێلا.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "یش"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ئاشوور"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "بەستراوە"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "لەگەڵ ئەوان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بە بازێک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سێلا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:49.942097480Z",
+  "model": "glm-5.3"
+}

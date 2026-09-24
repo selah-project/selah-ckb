@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە عەین ڕیمۆن و لە زۆرەعەه و لە یەرموت",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "و لە عەین"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ڕیمۆن"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "و لە زۆرەعەه"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "و لە یەرموت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:12.983385781Z",
+  "model": "glm-5.3"
+}

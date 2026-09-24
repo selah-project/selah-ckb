@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ئاه لە ڕۆژەکە، چونکە نزیکە ڕۆژی یاهوە، و وەک وێرانکاری لە شادای دێت.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "ئاه"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "لە ڕۆژەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزیکە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "و وەک وێرانکاری"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "لە شادای"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:32:02.482988678Z",
+  "model": "glm-5.3"
+}

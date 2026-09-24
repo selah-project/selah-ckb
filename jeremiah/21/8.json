@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و بەم گەلە دەڵێیت: وا فەرمووی یاهوە: ئەوە من دەخەمە بەردەم ئێوە ⟨את⟩ ڕێگای ژیان و ⟨את⟩ ڕێگای مردن.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و بە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "دەڵێیت"
+    },
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ئەوە من"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دەخەم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "بەردەم ئێوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕێگای ژیان"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ڕێگای مردن"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "המות",
+      "gloss": "مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:47:37.334917238Z",
+  "model": "glm-5.3"
+}

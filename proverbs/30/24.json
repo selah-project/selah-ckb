@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "چوارن ئەوانەی بچووکەکانی زەوی، بەڵام ئەوان لە دانایانیش داناترن:",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوانەن"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "بچووکەکانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "و ئەوان"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "داناتر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:30.433951747Z",
+  "model": "glm-5.3"
+}

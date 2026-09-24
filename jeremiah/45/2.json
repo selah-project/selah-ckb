@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "ئاوا فەرمووی یاهوە ئێلۆهیمی ئیسرائیل، لەسەرت ئەی باروخ،",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ئاوا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەرت"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:58:28.771615035Z",
+  "model": "glm-5.3"
+}

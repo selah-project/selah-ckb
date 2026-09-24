@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "دەنگی شەڕ لە زەویەکە و شکانی گەورە",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویەکە"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "و شکانی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:01:04.326505185Z",
+  "model": "glm-5.3"
+}

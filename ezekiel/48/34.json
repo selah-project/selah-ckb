@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 48:34",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "لای ڕۆژئاوا پێنج سەد و چوار هەزار، دەرگاکانیان سێ: دەرگای گاد یەک، دەرگای ئاشێر یەک، دەرگای نەفتالی یەک.",
+  "tokens": [
+    {
+      "surface": "פאת",
+      "gloss": "لای"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ڕۆژئاوا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "שעריהם",
+      "gloss": "دەرگاکانیان"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەرگای"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەرگای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشێر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەرگای"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نەفتالی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:27.318443325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و مۆشە وت بە مامی خۆی: چونکە گەلەکە دێتە لای من بۆ گەڕان بە ئێلۆهیم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "بە مامی خۆی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "بۆ گەڕان بە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:45:15.678312142Z",
+  "model": "glm-5.3"
+}

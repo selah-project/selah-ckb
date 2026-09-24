@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و کوڕەکانی کەهات: عامرام، ییتسهار، حەڤرون و عوزیئێل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "کەهات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عامرام"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "و ییتسهار"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "و حەڤرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "و عوزیئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:47.028103678Z",
+  "model": "glm-5.3"
+}

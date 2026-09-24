@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "بەڵام یاخیبوو تەنها خراپی دەگەڕێت، و نێردراوێکی دڕندە بۆ سەری دەنێردرێت.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "یاخیبوو"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "دەگەڕێت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "و نێردراوێکی"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "دڕندە"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "دەنێردرێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بۆ سەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:00.149018243Z",
+  "model": "glm-5.3"
+}

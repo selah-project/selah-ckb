@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "گەمژەکە دەستەکانی ⟨את⟩ گرت و گۆشتی خۆی ⟨את⟩ خوارد.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "گەمژەکە"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەستەکانی"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "دەستەکانی"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "و خوارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گۆشتی خۆی"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گۆشتی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:20.534031280Z",
+  "model": "glm-5.3"
+}

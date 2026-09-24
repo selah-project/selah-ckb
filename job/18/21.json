@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "بێگومان ئەمانە ماڵانی بێدادن، و ئەمە ئەو شوێنەیە کە ئێل ⟨نەی⟩ ناسیوە.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بێگومان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "ماڵان"
+    },
+    {
+      "surface": "עול",
+      "gloss": "بێداد"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەی"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ناسیوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T14:38:22.535466955Z",
+  "model": "glm-5.3"
+}

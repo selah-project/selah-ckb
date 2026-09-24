@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و پینحاس کوڕی ئەلعەزار سەرۆک بوو لەسەر ئەوان پێشتر؛ یاهوە لەگەڵ ئەو بوو.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "و پینحاس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئەلعەزار"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "لەسەر ئەوان"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پێشتر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:03.368390359Z",
+  "model": "glm-5.3"
+}

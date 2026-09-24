@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "بێ‌حورمەت ناکەن بە دزێک کە دەدزێت تا گیانی خۆی پڕ بکات، چونکە برسییە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "بێ‌حورمەت دەکەن"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "بە دزێک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "دەدزێت"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "تا پڕ بکات"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی خۆی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "برسییە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:18.246016260Z",
+  "model": "glm-5.3"
+}

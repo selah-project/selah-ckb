@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و بالاق کوڕی تسیپۆر هەموو ئەوەی ⟨את⟩ ئیسرائیل بۆ ئەمۆرییەکان کردبوو بینی.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و بینی"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "تسیپۆر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردبوو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "بۆ ئەمۆرییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:02.026654833Z",
+  "model": "glm-5.3"
+}

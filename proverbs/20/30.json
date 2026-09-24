@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "کۆڵە برینەکان ⟨את⟩ خراپی دەسڕنەوە، و لێدانەکان ناخی سک دەگەیەنن.",
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "کۆڵە برینەکان"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "برین"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "دەسڕێتەوە"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "و لێدانەکان"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ناخی"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "سک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:01.305516884Z",
+  "model": "glm-5.3"
+}

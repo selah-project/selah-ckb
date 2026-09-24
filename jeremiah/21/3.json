@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و یرمیاهو بۆ ئەوانی وت: هەر واب بڵێن بۆ سیدقیاهو:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هەر واب"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "بڵێن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "سیدقیاهو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:47:26.499441202Z",
+  "model": "glm-5.3"
+}

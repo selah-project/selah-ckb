@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "کاتێک بۆ لەدایکبوون و کاتێک بۆ مردن، کاتێک بۆ چاندن و کاتێک بۆ هەڵکوڵاندنی چێنراو.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "بۆ لەدایکبوون"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کاتێک"
+    },
+    {
+      "surface": "למות",
+      "gloss": "بۆ مردن"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "بۆ چاندن"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کاتێک"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "بۆ هەڵکوڵاندن"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "چێنراو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:31.947516578Z",
+  "model": "glm-5.3"
+}

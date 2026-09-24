@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و لەشە مردووەکانتان — ئێوە خۆتان — دەکەون لە ئەم بیابانەدا.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "و لەشە مردووەکانتان"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "دەکەون"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیاباندا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:21:04.927323799Z",
+  "model": "glm-5.3"
+}

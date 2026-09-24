@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و ⟨את⟩ بەسێمەت کچی ییشماعێل خوشکی نەڤایۆت.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بەسێمەت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بەسێمەت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ییشماعێل"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خوشکی"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نەڤایۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:06.453297718Z",
+  "model": "glm-5.3"
+}

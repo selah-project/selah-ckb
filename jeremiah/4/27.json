@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە هەر وا یاهوە فەرمووی: وێرانە دەبێت هەموو زەوی، و کۆتایی ⟨لەسەری⟩ ناهێنم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "وێرانە"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "و کۆتایی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناهێنم بەوەی نا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ناهێنم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:30.579462535Z",
+  "model": "glm-5.3"
+}

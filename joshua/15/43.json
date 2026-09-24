@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و یفتاح و ئەشنەه و نەزیڤ.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "و یفتاح"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "و ئەشنەه"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "و نەزیڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:44.605316791Z",
+  "model": "glm-5.3"
+}

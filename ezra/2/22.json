@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "پیاوەکانی نێتۆفا، پەنجا و شەش.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوەکانی"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "نێتۆفا"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "و شەش"
+    }
+  ],
+  "timestamp": "2026-09-24T15:08:55.930753364Z",
+  "model": "glm-5.3"
+}

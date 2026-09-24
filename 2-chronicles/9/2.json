@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و شلۆمۆه ⟨את⟩ هەموو قسەکانی ئەوی بۆ ڕوون کردەوە و هیچ شتێک لە شلۆمۆه شاردراوە نەمابوو کە بۆی ڕوونی نەکردبێتەوە.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "و ڕوونی کردەوە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "قسەکانی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "شاردرایەوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شت"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "لە شلۆمۆه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ڕوونی کردەوە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:42.239520783Z",
+  "model": "glm-5.3"
+}

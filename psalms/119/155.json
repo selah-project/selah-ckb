@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "دوورە لە خراپەکاران ڕزگاری، چونکە فەرمانەکانت نەگەڕان.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "دوورە"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "لە خراپەکاران"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "ڕزگاری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فەرمانەکانت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "گەڕان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:04.686674427Z",
+  "model": "glm-5.3"
+}

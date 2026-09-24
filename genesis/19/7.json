@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و وت: تکایە برایانم مە لێوازێنن ئەو خراپەیە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برایانم"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "خراپە بکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:16:59.796943930Z",
+  "model": "glm-5.3"
+}

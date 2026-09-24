@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ هارنەبێت، چونکە گیراوە دەهێنێتەوە ئەوە، و سیم لەت ناکات، پیسە ئەوە بۆ ئێوە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هارنەبێت"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "هارنەبێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "دەهێنێتەوە"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گیراوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "و سیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "لەت ناکات"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "پیسە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:04.141814389Z",
+  "model": "glm-5.3"
+}

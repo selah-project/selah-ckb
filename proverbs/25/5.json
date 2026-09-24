@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "بbrێتەوە لە پێش مەلەک، و لە دادپەروەرییەوە تەختی ئەو دەچەسپێت.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "بbrێتەوە"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپەکار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مەلەک"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "و دەچەسپێت"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "لە دادپەروەرییەوە"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "تەختی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:34.508304690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "وەک یاهوە فەرمانی کرد بە ⟨את⟩ مۆشە ⟨موسا⟩، هەر وەها کچەکانی تسلۆفحاد کرد.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۆشە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وەها"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچەکانی"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "تسلۆفحاد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:16.031750918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 3:6",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ئەوەی کە ناکەوێت و سجدە ناکات، لە هەمان ساتدا دەدرێتە ناو کورەی ئاگری سووتاو.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و ئەوەی"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـا"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ناکەوێت"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "و سجدە ناکات"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שעתא",
+      "gloss": "هەمان سات"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "دەدرێت"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "کورەی"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ئاگری"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "سووتاو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:04:44.350426209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و پاشا فەرمووی بۆ شیمعی: نامری، و پاشا سوێندی بۆی خوارد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "نامری"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "و سوێندی خوارد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:40:38.422468251Z",
+  "model": "glm-5.3"
+}

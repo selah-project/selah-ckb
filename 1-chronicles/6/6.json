@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "یوئاخ کوڕی، ئیدو کوڕی، زێڕاخ کوڕی، یەئاتەرای کوڕی.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "یوئاخ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "ئیدو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زێڕاخ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "یەئاتەرای"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "کوڕی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:41.846702372Z",
+  "model": "glm-5.3"
+}

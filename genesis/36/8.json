@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و عیساو لە چیای سێعیر نیشتەجێ بوو — عیساو ئەوە ئەدۆمە.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "نیشتەجێ بوو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیای"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سێعیر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆمە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:07.338724556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 81,
+  "translation": "ڕق لێبەرانی یاهوە دەملکێنن بۆ و دەبوو کاتەکەیان بۆ هەمیشە",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ڕق لێبەرانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "دەملکێنن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و دەبوو"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "کاتەکەیان"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:23.855117127Z",
+  "model": "glm-5.3"
+}

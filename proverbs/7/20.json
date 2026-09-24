@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کۆتایەکەی پارەی لە دەستی گرتووە؛ لە ڕۆژی تەموی پڕدا دێتەوە ماڵەکەی",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "کۆتایەکەی"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "پارەی"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرتووە"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "لە دەستی"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "تەموی پڕدا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێتەوە"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ماڵەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:43.147832825Z",
+  "model": "glm-5.3"
+}

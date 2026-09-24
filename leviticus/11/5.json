@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ شاپان، چونکە گیراوە دەهێنێتەوە ئەوە، و سیم لەت ناکات، پیسە ئەوە بۆ ئێوە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شاپان"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "شاپان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "دەهێنێتەوە"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گیراوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "و سیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "لەت ناکات"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیسە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:04.141529623Z",
+  "model": "glm-5.3"
+}

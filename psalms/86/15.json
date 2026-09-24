@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 86,
+  "translation": "و تۆ ئەی ئادۆنای، ئێڵی بەزەیی و بەخشندەی، هەراسووڵ و زۆر حەسەد و ڕاستی.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئەی ئادۆنای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێڵ"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "بەزەیی"
+    },
+    {
+      "surface": "وחנון",
+      "gloss": "و بەخشندە"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "هەراسووڵ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "توندوتیژی"
+    },
+    {
+      "surface": "وרב",
+      "gloss": "و زۆر"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "وאמת",
+      "gloss": "و ڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:38.627057738Z",
+  "model": "glm-5.3"
+}

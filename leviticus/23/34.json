@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 23:34",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "قسە بە کوڕانی ئیسرائیل بکە و بڵێ لە ڕۆژی پازدەیەمی ئەم مانگی حەوتەمدا جەژنی سوکۆت حەوت ڕۆژە بۆ یاهوە",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "قسە بکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "یשראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "لە پازدەیەمی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگی"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەمدا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "חג",
+      "gloss": "جەژنی"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "سوکۆت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:10:21.142287015Z",
+  "model": "glm-5.3"
+}

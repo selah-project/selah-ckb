@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "ژنێکی دۆزییەوە چاکای دۆزییەوە، و ڕەزامەندی لە یاهوە دەهێنێت.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "دۆزییەوە"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێکی"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "دۆزییەوە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکی"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "و دەهێنێت"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ڕەزامەندی"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "لە یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:56.673582011Z",
+  "model": "glm-5.3"
+}

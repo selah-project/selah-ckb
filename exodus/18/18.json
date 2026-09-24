@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "بێهێز بوون دەبیت بێهێز، هەر تۆ هەر ئەم گەلەی کە لەگەڵتە، چونکە کارەکە لە تۆ قورسترە، بە تەنها ناتوانیت بیکەیت.",
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "بێهێز بوون"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دەبیت بێهێز"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵتە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "قورس"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "توانیت"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "بیکەیت"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "بە تەنها"
+    }
+  ],
+  "timestamp": "2026-09-24T09:45:49.420433445Z",
+  "model": "glm-5.3"
+}

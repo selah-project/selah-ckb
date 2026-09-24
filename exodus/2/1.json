@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و پیاوێک لە ماڵی لێڤی ⟨چوو⟩ و کچی لێڤی ⟨את⟩ هێنا.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و هێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کچی لێڤی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:36:46.120023904Z",
+  "model": "glm-5.3"
+}

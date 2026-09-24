@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "دڵم شتێکی چاک ڕشتووە؛ دەڵێم: کارەکانم بۆ پادشایەن؛ زمانم قەڵەمی نووسەرێکی خێرایە",
+  "tokens": [
+    {
+      "surface": "رحش",
+      "gloss": "ڕشتووە"
+    },
+    {
+      "surface": "لبی",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "دبر",
+      "gloss": "شتێکی"
+    },
+    {
+      "surface": "طوب",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "امر",
+      "gloss": "دەڵێم"
+    },
+    {
+      "surface": "انی",
+      "gloss": "من"
+    },
+    {
+      "surface": "معسی",
+      "gloss": "کارەکانم"
+    },
+    {
+      "surface": "لملک",
+      "gloss": "بۆ پادشایەن"
+    },
+    {
+      "surface": "لشونی",
+      "gloss": "زمانم"
+    },
+    {
+      "surface": "عت",
+      "gloss": "قەڵەمی"
+    },
+    {
+      "surface": "سوفر",
+      "gloss": "نووسەرێکی"
+    },
+    {
+      "surface": "مهیر",
+      "gloss": "خێرا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:17.054243125Z",
+  "model": "glm-5.3"
+}

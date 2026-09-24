@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "پیاوێکی ڕاست بە پاکیی خۆیدا دەڕوات، خۆشیی کوڕەکانی لە دوای ئەو.",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "بە پاکیی خۆی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خۆشیی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "لە دوای ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:11.688263451Z",
+  "model": "glm-5.3"
+}

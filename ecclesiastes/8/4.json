@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "لە کۆی وشەی پاشا فەرمانڕەواییە و کێ پێی دەڵێت چ دەکەیت؟",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "لە کۆی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "فەرمانڕەواییە"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:20.604394269Z",
+  "model": "glm-5.3"
+}

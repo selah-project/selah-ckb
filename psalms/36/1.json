@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "بۆ ڕابەر، خزمەتکاری یاهوە، بۆ داود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕابەر"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "خزمەتکاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:07.311333159Z",
+  "model": "glm-5.3"
+}

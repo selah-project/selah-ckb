@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "لە حوکمەکانت لام ڕۆیشتوو نیم، چونکە تۆ فێرم کردووم.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "لە حوکمەکانت"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "ڕۆیشتم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "فێرم کردووم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:07.528238787Z",
+  "model": "glm-5.3"
+}

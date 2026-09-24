@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "پیاوێک نابێت ⟨את⟩ ژنی باوکی خۆی بگرێت و نابێت لێواری جلی باوکی خۆی ئاشکرا بکات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نابێت"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگرێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ژنی باوکی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی خۆی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نابێت"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ئاشکرا بکات"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "لێواری جلی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:06.493274996Z",
+  "model": "glm-5.3"
+}

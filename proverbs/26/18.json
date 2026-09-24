@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "وەکو نەفرەتێک کە تیرەکانی ئاگرین و تیر و مردن فڕێ دەدات،",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "وەکو نەفرەتێک"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "فڕێ دەدات"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "تیرەکانی ئاگرین"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "و مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:19.692033913Z",
+  "model": "glm-5.3"
+}

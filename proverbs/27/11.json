@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 27:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "دانا بە، کوڕم، و دڵم شاد بکە، تاکو بە شەرمەزاریکەرم شتێک لێ بدەمەوە.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "دانا بە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "و شاد بکە"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "و لێ بدەمەوە"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "شەرمەزاریکەرم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شتێک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:28.187390327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ببووم بە گاڵتە بۆ هەموو گەلەکەم، نۆرەکەیان هەموو ڕۆژ",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "ببووم"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "گاڵتە"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەلەکەم"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "نۆرەکەیان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:52.694173556Z",
+  "model": "glm-5.3"
+}

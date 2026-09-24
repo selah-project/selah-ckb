@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ئەگەر مرۆڤێک ڕاستەقینە بێت و کرداری دادپەروەری و ڕاستی بکات،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و مرۆڤێک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستەقینە"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بکات"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "و ڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:11:16.678935927Z",
+  "model": "glm-5.3"
+}

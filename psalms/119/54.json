@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "گۆرانی بوون بۆم فەرمانەکانت، لە ماڵی دەورگەڕێیەکەم‌دا.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "گۆرانی"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "فەرمانەکانت"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "مגורי",
+      "gloss": "دەورگەڕێیەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:30.711165527Z",
+  "model": "glm-5.3"
+}

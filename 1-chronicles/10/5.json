@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "هەڵگری چەکەکانی بینی کە شائول ⟨مردووە⟩، ئەویش کەوتە سەر شمشێرەکە و مرد.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "هەڵگری"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "چەکەکانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مردووە"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "کەوتە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئەویش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خۆی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "شمشێرەکە"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:25:06.266666066Z",
+  "model": "glm-5.3"
+}

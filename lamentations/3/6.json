@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "لە تاریکییەکاندا دانیمنا، وەکو مردووانی زوو.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "لە تاریکییەکاندا"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "دانیمنا"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "وەکو مردووانی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "زوو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:39.038151905Z",
+  "model": "glm-5.3"
+}

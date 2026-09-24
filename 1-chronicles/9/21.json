@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "زەکەریا ⟨زاکاریا⟩ کوڕی مەشەلەمیا دەروازەبانی دەرگای چادری چاوپێکەوتن بوو.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "زەکەریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "مەشەلەمیا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەروازەبانی"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دەرگای"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "بۆ چادر"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:19.558073251Z",
+  "model": "glm-5.3"
+}

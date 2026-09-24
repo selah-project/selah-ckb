@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "و بە ڕێگای ڕاست پێیان ڕێنوێنی کرد بۆ ڕۆیشتن بۆ شارێکی ڕاوەستان.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "و پێیان ڕێنوێنی کرد"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "بە ڕێگا"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "بۆ ڕۆیشتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شارێکی"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ڕاوەستان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:06.085660598Z",
+  "model": "glm-5.3"
+}

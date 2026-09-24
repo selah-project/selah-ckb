@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و لە لای ڕۆژهەڵات بەرەو ڕۆژهەڵاتەوە پەنجا ئەمە ⟨بوو⟩.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "و لە لای"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ڕۆژهەڵات"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "بەرەو ڕۆژهەڵاتەوە"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ئەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:45.180608034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ⟨את⟩ ئوفیر و ⟨את⟩ حەویلا و ⟨את⟩ یوڤاڤ؛ هەموو ئەمانە کوڕەکانی یوکتانن.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئوفیر"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ئوفیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حەویلا"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حەویلا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یوڤاڤ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوڤاڤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "یوکتان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:21.420353847Z",
+  "model": "glm-5.3"
+}

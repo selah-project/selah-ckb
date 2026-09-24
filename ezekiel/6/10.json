@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و دەزانن کە من یاهوەم؛ بە چۆکی قسەم نەکردووە بۆ کردنەوەی ئەم خراپەیە بە ئەوان.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "و دەزانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "چۆک"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "قسەم کردووە"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "خراپەیە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:06:22.793431871Z",
+  "model": "glm-5.3"
+}

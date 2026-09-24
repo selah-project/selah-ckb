@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "پادشای شیمرۆن-مێرۆن یەک، پادشای ئەکشاف یەک.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شیمرۆن"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "مێرۆن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "ئەکشاف"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:33.558974407Z",
+  "model": "glm-5.3"
+}

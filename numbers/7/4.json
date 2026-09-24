@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ فەرموو: بڵێ،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:46.677007933Z",
+  "model": "glm-5.3"
+}

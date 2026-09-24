@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "کوڕانی یەهودا عێر و ئۆنان بوون، و عێر و ئۆنان لە زەوی کەنەعاندا مردن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عێر"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "و ئۆنان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مردن"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عێر"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "و ئۆنان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کەنەعاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:27:39.002232945Z",
+  "model": "glm-5.3"
+}

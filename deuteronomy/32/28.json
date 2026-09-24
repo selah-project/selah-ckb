@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "چونکە ئەوان گەلێکی لە ڕاوێژ بەتاڵن و تێگەیشتن لانیان نییە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "بەتاڵ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "لە ڕاوێژ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و … نییە"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لانیان"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:47.144779986Z",
+  "model": "glm-5.3"
+}

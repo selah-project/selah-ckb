@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 16:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "مرۆڤی پێچەوانە جێژناڵ دەنێرێت، و چمکەر هاوڕێی نزیک جیا دەکاتەوە.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤی"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "پێچەوانە"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "دەنێرێت"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "جێژناڵ"
+    },
+    {
+      "surface": "ונרגן",
+      "gloss": "و چمکەر"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "جیا دەکاتەوە"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "هاوڕێی نزیک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:58.926132886Z",
+  "model": "glm-5.3"
+}

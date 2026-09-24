@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی بارقۆس، کوڕەکانی سیسرا، کوڕەکانی تەماح.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "بارقۆس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سیسرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تەماح"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:30.849854436Z",
+  "model": "glm-5.3"
+}

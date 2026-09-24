@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "یازدەیەمەم عەزارێل ⟨مەگەر⟩، کوڕەکانی و براکانی — دوازدە ⟨بوون⟩.",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "یازدەیەمەم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "عەزارێل ⟨مەگەر⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:46.311672421Z",
+  "model": "glm-5.3"
+}

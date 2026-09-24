@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "لە کۆتایی دوانزە مانگدا، لەسەر کۆشکی شانشینی بابل دەگەڕا.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "مانگەکان"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "کۆشک"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "شانشینی"
+    },
+    {
+      "surface": "די",
+      "gloss": "ی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "دەگەڕا"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:05:01.938608295Z",
+  "model": "glm-5.3"
+}

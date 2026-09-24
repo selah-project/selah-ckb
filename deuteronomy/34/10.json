@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و پێغەمبەرێکی تر هەڵنەستایە لە ئیسرائیلدا وەک مۆشە، کە یاهوە ناسیبووی ڕوو بە ڕوو،",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "קם",
+      "gloss": "هەڵنەستایە"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "پێغەمبەرێک"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دی"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "لە ئیسرائیلدا"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "وەک مۆشە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ناسیبووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:51:33.838946581Z",
+  "model": "glm-5.3"
+}

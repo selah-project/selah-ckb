@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و عادە بۆ عەیسەو ⟨את⟩ ئەلیفازی بوو، و بەسێمەت ⟨את⟩ ڕەعوئێلی بوو.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادە"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "بۆ عەیسەو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەلیفاز"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ئەلیفاز"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "و بەسێمەت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕەعوئێل"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ڕەعوئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:06.453443419Z",
+  "model": "glm-5.3"
+}

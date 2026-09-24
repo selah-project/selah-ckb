@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "زۆر گا دەوری منیان گرت، بەهێزەکانی باشان گەمارۆم داوە.",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "دەوری منیان گرت"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گا"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "بەهێزەکانی"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "گەمارۆم داوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:53.427772731Z",
+  "model": "glm-5.3"
+}

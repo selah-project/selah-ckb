@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و ⟨את⟩ ئەوانی خستە بۆ بەندیخانەی سێ ڕۆژ.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "و خستە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان",
+      "marks": "ئەوان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "بەندیخانە"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:43.618504821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی بیگڤای ⟨هەموان⟩ دوو هەزار پەنجا و شەش.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بیگڤای"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوو هەزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "و شەش"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:38.886657423Z",
+  "model": "glm-5.3"
+}

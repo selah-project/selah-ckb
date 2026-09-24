@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 22:15",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "بالاق دیسان زیاتر شازدە سەرکردە نارد، زۆرتر و گەورەتر لەوانە.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "زیاتر…کرد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیسان"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سەرکردە"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆرتر"
+    },
+    {
+      "surface": "ונכבדים",
+      "gloss": "و گەورەتر"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "لەوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:04.263087694Z",
+  "model": "glm-5.3"
+}

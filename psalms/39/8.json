@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و ئێستا چی چاوەڕوان بکەم؟ ئەی ئادۆنای، چاوەڕوانیم لە تۆیە.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "چاوەڕوان بکەم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "چاوەڕوانیم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ەوەیە⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:40.544408766Z",
+  "model": "glm-5.3"
+}

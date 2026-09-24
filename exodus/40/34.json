@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و هەورەکە ⟨את⟩ چادری چاوپێکەوتنی داپۆشی و شکۆی یاهوە میشکانی پڕ کردەوە.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "داپۆشی"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "هەورەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چادری"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چادری"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و شکۆی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕ کردەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میشکان"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "میشکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:58:01.043143217Z",
+  "model": "glm-5.3"
+}

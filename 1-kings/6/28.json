@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و کێرووبەکانی بە زێڕ داپۆشی.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "و داپۆشی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کێرووبەکان"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کێرووبەکان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "بە زێڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:47:45.507135882Z",
+  "model": "glm-5.3"
+}

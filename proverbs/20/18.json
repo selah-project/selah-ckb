@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "پلانەکان بە ڕاوێژ دادەمەزرێن، و بە ژیربێژی جەنگ بکە.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "پلانەکان"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "بە ڕاوێژ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "دادەمەزرێن"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "و بە ژیربێژی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بکە"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جەنگ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:56.144166304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەمە دەیخەمەوە ناو دڵم، لەبەر ئەمە چاوەڕوان دەکەم.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "دەیخەمەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "چاوەڕوان دەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:54.609436807Z",
+  "model": "glm-5.3"
+}

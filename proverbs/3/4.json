@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ڕەحمەت و تێگەیشتنی چاک دەدۆزییەوە لە چاوەکانی ئێلۆهیم و مرۆڤ.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "و دەدۆزییەوە"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ڕەحمەت"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "و تێگەیشتن"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوەکانی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "و مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:15.748224558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "یاهوە، درەنگەی ماڵت خۆشویستووە، و شوێنی میشکانی شکۆت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "خۆشویستووە"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "درەنگە"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ماڵت"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "و شوێن"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "میشکان"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "شکۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:11.641118606Z",
+  "model": "glm-5.3"
+}

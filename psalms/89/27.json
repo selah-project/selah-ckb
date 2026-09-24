@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "ئەو بانگی من دەکات: تۆ باوکم، تۆ ئێلی من، و بەردی ڕزگاریمی.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "بانگی من دەکات"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ئێلی من"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "و بەردی"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ڕزگاریم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:28.406945074Z",
+  "model": "glm-5.3"
+}

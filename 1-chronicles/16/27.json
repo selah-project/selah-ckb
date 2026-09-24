@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "شکۆ و گەورەیی لەبەردەم ئەودان، هێز و شادی لە شوێنی ئەودا.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "و گەورەیی"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "لەبەردەم ئەودان"
+    },
+    {
+      "surface": "עז",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "و شادی"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "لە شوێنی ئەودا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:43.151837683Z",
+  "model": "glm-5.3"
+}

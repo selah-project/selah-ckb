@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "بیانی ستایشت بکات و نا دەمت، نەناس، و نا لێوانت.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ستایشت بکات"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیانی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دەمت"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "نەناس"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "لێوانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:48.265597448Z",
+  "model": "glm-5.3"
+}

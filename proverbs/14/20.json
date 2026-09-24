@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "هەر بۆ هاوڕێکەیشی ڕق لە هەژار دەگیرێت، و خۆشەویستانی دەوڵەمەند زۆرن.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "بۆ هاوڕێکەیشی"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ڕق دەگیرێت"
+    },
+    {
+      "surface": "רש",
+      "gloss": "لە هەژار"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "و خۆشەویستانی"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "دەوڵەمەند"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆرن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:24.140136849Z",
+  "model": "glm-5.3"
+}

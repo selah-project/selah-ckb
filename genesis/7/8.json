@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لە ئاژەڵی پاکەوە و لە ئاژەڵەوە کە پاک نییە، و لە باڵندەوە، و هەموو ئەوەی دەخزێتە سەر زەوی.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "لە — ەوە"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ئاژەڵی"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "پاکە"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ئاژەڵەوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "باڵندەوە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "دەخزێتە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:06.842580037Z",
+  "model": "glm-5.3"
+}

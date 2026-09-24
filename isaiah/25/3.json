@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "لەبەر ئەوە گەلێکی بەهێز ڕێزدارت دەکەن، شاری گەلانی زۆردار لێت دەترسن.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "ڕێزدارت دەکەن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەلێکی"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلانی"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "زۆردار"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "لێت دەترسن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:49.181710509Z",
+  "model": "glm-5.3"
+}

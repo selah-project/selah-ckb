@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "پشتم دا بە لێدەران، و ڕوومارم بە ڕاکێشەران، ڕووم لە شەرم و تف نەشاردەوە.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "پشتم"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دام"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "بە لێدەران"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "و ڕوومارم"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "بە ڕاکێشەران"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "شاردەوە"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "لە شەرم"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "و تف"
+    }
+  ],
+  "timestamp": "2026-09-24T12:32:58.110979822Z",
+  "model": "glm-5.3"
+}

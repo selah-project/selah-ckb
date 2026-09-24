@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "ئەوەی شازادەکان بۆ هیچ دەدات، دادوەرانی زەوی وەک هیچ کردوون.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "ئەوەی دەدات"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "شازادەکان"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "بۆ هیچ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "دادوەرانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "وەک هیچ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردوون"
+    }
+  ],
+  "timestamp": "2026-09-24T12:27:47.668187146Z",
+  "model": "glm-5.3"
+}

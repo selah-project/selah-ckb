@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "بێدەنگ بووم، دەمم نەکردەوە، چونکە تۆ کردت.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "بێدەنگ بووم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "کردمەوە"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:03.656429450Z",
+  "model": "glm-5.3"
+}

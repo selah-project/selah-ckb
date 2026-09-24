@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و بۆ خوشکەکەی بێشووەکەی نزیکەکەی بۆ خۆی، کە بۆ پیاوێک نەبووە — بۆ ئەو پیس دەبێت.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "و بۆ خوشکەکەی"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "بێشووەکەی"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "نزیکەکەی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ پیاوێک"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پیس دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:49.538691163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 92,
+  "translation": "پیاوی ئاژەڵناوێز ئەمە نازانێت و کەللەڕەقیش ⟨את⟩ ئەمە تێناگات.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ئاژەڵناوێز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "و کەللەڕەقیش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "تێدەگات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەمە"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:51.420009896Z",
+  "model": "glm-5.3"
+}

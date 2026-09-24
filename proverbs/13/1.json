@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "کوڕی دانا ⟨دەبیستێت⟩ ڕەبووڵی باوک، و گاڵتەکار نا گوێ دەگرێت لە لێدانەوە.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ڕەبووڵی"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باوک"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "و گاڵتەکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ دەگرێت"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "لێدانەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:15.911705448Z",
+  "model": "glm-5.3"
+}

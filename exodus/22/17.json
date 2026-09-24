@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "جادوگەرێکی ⟨ئافراد⟩ نەژیێنیتەوە.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "جادوگەرێکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەکێش"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ژیێنیتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:37.887130089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و ⟨את⟩ هەموو نەفتالی، و ⟨את⟩ زەوی ئێفرایم و مەنەشە، و ⟨את⟩ هەموو زەوی یەهودا، تا دەریای دوایی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو نەفتالی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نەفتالی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زەوی ئێفرایم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "و مەنەشە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو زەوی یەهودا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریای"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "دوایی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:19.815522222Z",
+  "model": "glm-5.3"
+}

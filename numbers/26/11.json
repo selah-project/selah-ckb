@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و کوڕەکانی قۆرەح نەمردن.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قۆرەح"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:27:49.714703636Z",
+  "model": "glm-5.3"
+}

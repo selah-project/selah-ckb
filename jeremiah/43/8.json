@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "و بوو وشەی یاهوە بۆ ییرمیاهو لە تاحپانحێس بەم زاراوەیە",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ییرمیاهو"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "لە تاحپانحێس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زاراوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:58:49.773419697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و دیسان سکێنی و کوڕێکی بوو و ناوی ⟨ئەو⟩ی نا ئۆنان.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "سکێنی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیسان"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکی"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ناوهێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناوی ئەو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی ئەو"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "ئۆنان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:17.809225794Z",
+  "model": "glm-5.3"
+}

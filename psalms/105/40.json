@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "داوایان کرد و ⟨ئەو⟩ قەڵەوانی هێنا، و بە نانی ئاسمان تێری کردن.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "داوایان کرد"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هێنا"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "قەڵەوان"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "و نان"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "تێری کردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:57.128148243Z",
+  "model": "glm-5.3"
+}

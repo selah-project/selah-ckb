@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئایا نەنووسیومە بۆ تۆ سێ جار بە ڕاوێژ و زانین؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئایا نا"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "نەنووسیومە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "سێ جار"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "بە ڕاوێژ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و زانین"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:21.395372301Z",
+  "model": "glm-5.3"
+}

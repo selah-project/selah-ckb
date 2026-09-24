@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "لەو کاتەدا شا ئەحاز ناردە لای پاشاکانی ئەشور بۆ یارمەتیدانی خۆی.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "لەو کاتەدا"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ناردە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شا"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ئەحاز"
+    },
+    {
+      "surface": "על",
+      "gloss": "لای"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاشاکانی"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ئەشور"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "بۆ یارمەتیدان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:43:37.541313064Z",
+  "model": "glm-5.3"
+}

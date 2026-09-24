@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 29:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و هاتنە ئەم شوێنە و سیحۆن پادشای حەشبۆن و عۆگ پادشای بەشان دەرچوون بەرەو لایمان بۆ شەڕ و لێمان دان",
+  "tokens": [
+    {
+      "surface": "ותבאו",
+      "gloss": "و هاتنە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "شوێنەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سیحۆن"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حەشبۆن"
+    },
+    {
+      "surface": "ועוג",
+      "gloss": "و عۆگ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "بەشان"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "بەرەو لایمان"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "بۆ شەڕ"
+    },
+    {
+      "surface": "ונכם",
+      "gloss": "و لێمان دان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:44.896393398Z",
+  "model": "glm-5.3"
+}

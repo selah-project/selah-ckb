@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "ییرمیاهو ⟨ییرمیاهو⟩ دەیەم، ماکبەنای یازدەیەم.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ییرمیاهو"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "دەیەم"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "ماکبەنای"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "یازدەیەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:26:28.174895304Z",
+  "model": "glm-5.3"
+}

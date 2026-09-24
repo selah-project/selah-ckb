@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 8:23",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "کێ بدا سەرم ئاو بووایە و چاوم سەرچاوەی فرمێسک، و ڕۆژانە و شەوانە بگریام ⟨את⟩ کوژراوانی کچی گەڵم.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بدا"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سەرم"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "و چاوم"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "سەرچاوەی"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "فرمێسک"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "و بگریام"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ڕۆژانە"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "و شەوانە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوژراوانی کچی گەڵم"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "کوژراوانی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:40:59.887928418Z",
+  "model": "glm-5.3"
+}

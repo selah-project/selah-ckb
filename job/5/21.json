@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 5:21",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "لە شەپۆقی زمان دەشاردرایەوە و لە وێرانکاری ناترسێت کە دێت.",
+  "tokens": [
+    {
+      "surface": "בשוט",
+      "gloss": "لە شەپۆق"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "תחבא",
+      "gloss": "دەشاردرایەوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "دەترسێت"
+    },
+    {
+      "surface": "مשד",
+      "gloss": "لە وێرانکاری"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:03.931058579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ڕۆژەکانی تێراه ⟨تێراه⟩ پێنج و دوو سەد ساڵ بوون، و تێراه لە حاران ⟨حاران⟩ مرد.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تێراه"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "و دوو سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تێراه"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "لە حاران"
+    }
+  ],
+  "timestamp": "2026-09-24T09:15:19.503228854Z",
+  "model": "glm-5.3"
+}

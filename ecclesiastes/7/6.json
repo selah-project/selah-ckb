@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "چونکە وەک دەنگی دەوەڵەکان لە ژێر قازانەکەدا، وا پێکەنینی نەفامەکەیە — و ئەمەش هەڤەڵە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "وەک دەنگی"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "دەوەڵەکان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە ژێر"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "قازانەکە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "پێکەنینی"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "نەفامەکە"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و ئەمەش"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەڤەڵە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:56.114920702Z",
+  "model": "glm-5.3"
+}

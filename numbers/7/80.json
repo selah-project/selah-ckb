@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کەپێکی زێڕین یەک، دە شەکەل، پڕ لە بووخوور.",
+  "tokens": [
+    {
+      "surface": "کף",
+      "gloss": "کەپ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "مלאה",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بووخوور"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:57.347979129Z",
+  "model": "glm-5.3"
+}

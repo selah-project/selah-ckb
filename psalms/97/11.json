@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 97,
+  "translation": "ڕووناکی بۆ دادپەروەر چێنراوە و بۆ ڕاستدڵان شادی.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "ڕووناکی"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "چێنراوە"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "بۆ دادپەروەر"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "و بۆ ڕاستدڵان"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:32.847860481Z",
+  "model": "glm-5.3"
+}

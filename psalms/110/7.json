@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 110,
+  "translation": "لە ڕووبارێک لە ڕێگادا دەخواتەوە؛ لەبەر ئەوە سەری بەرز دەکاتەوە.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "لە ڕووبارێک"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگا"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "دەخواتەوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "بەرز دەکاتەوە"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:00.777211768Z",
+  "model": "glm-5.3"
+}

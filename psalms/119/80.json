@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "با دڵم تەواو بێت لە حوکمەکانتدا، بۆ ئەوەی شەرم نەکەم",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "با بێت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "تەواو"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "لە حوکمەکانتدا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "شەرم بکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:14.905970528Z",
+  "model": "glm-5.3"
+}

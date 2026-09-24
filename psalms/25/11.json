@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "بۆ ناوی خۆت ئەی یاهوە لە تاوانەکەم لێخۆشبووی چونکە گەورەیە",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "بۆ ناوی"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوی خۆت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "و لێخۆشبووی"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "لە تاوانەکەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רב",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:48.001104647Z",
+  "model": "glm-5.3"
+}

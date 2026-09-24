@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئەو تاڵیی گیان بوو و لای یاهوە نوێژی کرد و بە زۆر گریان گریا.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "تاڵیی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "و نوێژی کرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "لای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "و بە گریان"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "گریا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:15:42.244605668Z",
+  "model": "glm-5.3"
+}

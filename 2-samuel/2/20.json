@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئاڤنێر بۆ دواوە ڕوانی و فەرمووی: ئەی تۆ، ئاساهێڵی؟ و وت: من خۆم.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "و ڕوانی"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ئاڤنێر"
+    },
+    {
+      "surface": "אחריو",
+      "gloss": "بۆ دواوە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ئەی تۆ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "ئاساهێل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من خۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:31:58.210129864Z",
+  "model": "glm-5.3"
+}

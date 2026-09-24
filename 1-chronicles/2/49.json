@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "شەعفی باوکی مەدمەننا ⟨את⟩ شێڤای باوکی مەکبێنا و باوکی گیڤعای بەرهەمهێنا؛ و کچی کالێڤ عەکسا بوو.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "بەرهەمهێنا"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "شەعف"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "مەدمەننا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شێڤا"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "شێڤا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "مەکبێنا"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "و باوکی"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "گیڤعا"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "و کچی"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالێڤ"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "عەکسا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:48.057910798Z",
+  "model": "glm-5.3"
+}

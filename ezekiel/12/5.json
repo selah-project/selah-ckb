@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "لە چاوی ئەوان بۆ خۆت لە دیوار بکونەوە و بەوە دەریبهێنە.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "لە چاوی ئەوان"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "بکونەوە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "لە دیوار"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "و دەریبهێنە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:07:32.638411233Z",
+  "model": "glm-5.3"
+}

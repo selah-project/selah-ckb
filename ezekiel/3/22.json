@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 3:22",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و دەستی یاهوە لەوێ لەسەرم بوو، و فەرمووی بۆم: هەڵبستە، بڕۆ بۆ دۆڵەکە، و لەوێ لەگەڵ ⟨את⟩ تۆ قسە دەکەم.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەرم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "קום",
+      "gloss": "هەڵبستە"
+    },
+    {
+      "surface": "צא",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "دۆڵەکە"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و لەوێ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "قسە دەکەم"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ تۆ",
+      "marks": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:05:40.599644723Z",
+  "model": "glm-5.3"
+}

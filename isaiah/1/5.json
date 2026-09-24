@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "لە چی هێشتا لێ دەدرێن؟ زیاد دەکەن لە لاربوونەوە؛ هەموو سەرێک نەخۆشە و هەموو دڵێک ناسکە.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "لێ دەدرێن"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "زیاد دەکەن"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "لاربوونەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "نەخۆشی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ناسکی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:12:46.519075747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ئەگەر ئاسنەکە کۆتبووەتەوە و ڕووی لێ نەتێشراوە، هێزی زیاتر دەخات؛ بەڵام سوودی ڕاستکردنەوە ژیرییە.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "کۆتبووەتەوە"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ئاسنەکە"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "تێکچوو"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "و هێزەکان"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "زیاتر دەخات"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "و سوود"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "ڕاستکردنەوە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ژیری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:40.588083616Z",
+  "model": "glm-5.3"
+}

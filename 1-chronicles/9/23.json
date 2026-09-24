@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 9:23",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و ئەوان و کوڕانیان لەسەر دەروازاکانی ماڵی یاهوە بوون، بۆ ماڵی چادر، بۆ پاراستن.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "و ئەوان"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "و کوڕانیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دەروازاکانی"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بۆ ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بۆ ماڵی"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "بۆ پاراستن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:19.558783037Z",
+  "model": "glm-5.3"
+}

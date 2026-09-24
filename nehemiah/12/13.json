@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "هی عەزرا مەشولام، هی ئەمەریا یەهۆحانان.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "هی عەزرا"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مەشولام"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "هی ئەمەریا"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یەهۆحانان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:47.143613791Z",
+  "model": "glm-5.3"
+}

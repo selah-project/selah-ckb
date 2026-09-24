@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ئێستا با توانای ئادۆنای گەورە بێت، وەک چۆن فەرمووت بە وتنی،",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "گەورە بێت"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "כח",
+      "gloss": "توانای"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "فەرمووت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:46.583666990Z",
+  "model": "glm-5.3"
+}

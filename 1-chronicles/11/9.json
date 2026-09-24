@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و داوود ڕۆیى‌کرد ڕۆیشتن و گەورەبوون، و یاهوەی سەڤائۆت لەگەڵ ئەو بوو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیى‌کرد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "و گەورەبوون"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:36.317183579Z",
+  "model": "glm-5.3"
+}

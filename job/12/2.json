@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "بێگومان ئێوە گەلن و لەگەڵ ئێوەدا حیکمەت دەمرێت.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "بێگومان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "و لەگەڵ ئێوەدا"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "دەمرێت"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:59.955661136Z",
+  "model": "glm-5.3"
+}

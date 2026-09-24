@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "مرۆڤی زیرەک زانیاری دەشارات، بەڵام دڵی گێلان نەفامی بەدەنگ دەکات.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤی"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "زیرەک"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "دەشارات"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "بەڵام دڵی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "گێلان"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "بەدەنگ دەکات"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "نەفامی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:46.805143827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 24:34",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و هەژاریت وەک ڕێوارێک دێت و کەمتەرییەکانت وەک پیاوێکی چەکدار.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "و دێت"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "وەک ڕێوار"
+    },
+    {
+      "surface": "רישך",
+      "gloss": "هەژاریت"
+    },
+    {
+      "surface": "ומחסריך",
+      "gloss": "و کەمتەرییەکانت"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "وەک پیاو"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "چەکدار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:23.647682964Z",
+  "model": "glm-5.3"
+}

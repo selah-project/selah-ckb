@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "بووە وەک کەشتییەکانی سەوداگەر، لە دوورەوە نانی خۆی دەهێنێت.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "وەک کەشتییەکانی"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "سەوداگەر"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "لە دوورەوە"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "دەهێنێت"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "نانی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:23.760470675Z",
+  "model": "glm-5.3"
+}

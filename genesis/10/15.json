@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و کەنەعان ⟨את⟩ تسیدۆن یەکەمەکەی و ⟨את⟩ حێتی بووەکانی لەدایک بوون.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "و کەنەعان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "بووەکانی لەدایک بوون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تسیدۆن"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "تسیدۆن"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "یەکەمەکەی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حێت"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:31.957283165Z",
+  "model": "glm-5.3"
+}

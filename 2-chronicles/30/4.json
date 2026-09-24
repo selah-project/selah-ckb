@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و کارەکە ڕاست بوو لە چاوی پاشا و لە چاوی هەموو کۆڕەکە.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "و ڕاست بوو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "و لە چاوی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کۆڕەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:44:51.119781122Z",
+  "model": "glm-5.3"
+}

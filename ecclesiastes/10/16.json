@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "وای بۆ زەوی کە پاشاکەت منداڵە و سەرۆکەکانت بە بەیانیدا دەخۆن",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "پاشاکەت"
+    },
+    {
+      "surface": "נער",
+      "gloss": "منداڵ"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "و سەرۆکەکانت"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "بە بەیانی"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "دەخۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:45.647511150Z",
+  "model": "glm-5.3"
+}

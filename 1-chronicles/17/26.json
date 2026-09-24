@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و ئێستا ئەی یاهوە، تۆ خۆی ئێلۆهیمی، و لەسەر خوێنەرتەکەت ئەم چاکەیەت فەرموو؛",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خۆی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "و فەرمووت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خوێنەرتەکەت"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ئەم چاکەیەت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:30.401372966Z",
+  "model": "glm-5.3"
+}

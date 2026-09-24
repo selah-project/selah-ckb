@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و هەموو گەلەکە دەبیستن و دەترسن و ئیتر سەرکەشی ناکەن.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "دەبیستن"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "و دەترسن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "سەرکەشی دەکەن"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:49.582243792Z",
+  "model": "glm-5.3"
+}

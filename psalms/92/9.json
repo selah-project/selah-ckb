@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 92,
+  "translation": "و تۆ یاهوە بۆ هەمیشە بەرزی",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "بەرزی"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:08.873100857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 116,
+  "translation": "ئەمن لە پەشۆکاویدا وتیم: هەموو مرۆڤ درۆیە.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ئەمن"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وتیم"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "لە پەشۆکاویدا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "درۆیە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:45.872243861Z",
+  "model": "glm-5.3"
+}

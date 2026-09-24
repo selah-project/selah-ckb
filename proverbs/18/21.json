@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "مەردن و ژیان لە دەستی زماندان، و خۆشەویستانی ⟨ئەو⟩ میوەکەی دەخۆن.",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "مەردن"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "و ژیان"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "لە دەستی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "و خۆشەویستانی"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخۆن"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "میوەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:56.673217548Z",
+  "model": "glm-5.3"
+}

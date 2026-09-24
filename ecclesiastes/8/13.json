@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و چاکە بۆ خراپەکار نابێت، و ڕۆژانی وەک سێبەر درێژ ناکات، کە ئەو لە پێش ئێلۆهیم ناترسێت.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "و چاکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "بۆ خراپەکار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "درێژ دەکات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "وەک سێبەر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ئەو نییە"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ترساو"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:24.617312489Z",
+  "model": "glm-5.3"
+}

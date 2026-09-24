@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و بالاق وتێیەوە بۆ بیلعام ⟨مەلێت⟩: نە تکوێنێری، نە بەرەکەتی، هەرگیز.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتێیەوە"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەرگیز"
+    },
+    {
+      "surface": "קב",
+      "gloss": "تکوێنەری"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "تکوێنێری"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەرگیز"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "بەرەکەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "بەرەکەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:26.021240424Z",
+  "model": "glm-5.3"
+}

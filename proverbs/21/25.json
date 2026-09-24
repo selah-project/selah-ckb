@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "خواستنی کاڵ دەیکوژێت، چونکە دەستەکانی ڕەتیانکردەوە بۆ کردن",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "خواستنی"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاڵ"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "دەیکوژێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ڕەتیانکردەوە"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "دەستەکانی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:03.998275575Z",
+  "model": "glm-5.3"
+}

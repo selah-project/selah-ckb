@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "شازدەیەم بۆ حەنەنیا، کوڕەکانی و برایانی، دوازدە.",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "شازدەیەم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "شازدەیەم"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "حەنەنیا"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برایانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوازدە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دوازدە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:40.891673769Z",
+  "model": "glm-5.3"
+}

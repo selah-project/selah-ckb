@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 130,
+  "translation": "چونکە بەخشین ⟨هەیە⟩ لەگەڵ تۆ، بۆ ئەوەی لێت ترێنرێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆ"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "بەخشین"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "لێت ترێنرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:54.325311085Z",
+  "model": "glm-5.3"
+}

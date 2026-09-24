@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و بۆی ⟨את⟩ زیمران و ⟨את⟩ یەقوشان و ⟨את⟩ مەدان و ⟨את⟩ میدیان و ⟨את⟩ ییشباک و ⟨את⟩ شواحی بووینێت.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و بووینێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زیمران"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "زیمران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یەقوشان"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "یەقوشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەدان"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "مەدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "میدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ییشباک"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "ییشباک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شواح"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "شواح"
+    }
+  ],
+  "timestamp": "2026-09-24T15:48:37.233995387Z",
+  "model": "glm-5.3"
+}

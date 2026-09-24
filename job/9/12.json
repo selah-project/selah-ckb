@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ئەوە! ئەگەر بڕبەکات، کێ دەیگەڕێنێتەوە؟ کێ پێی دەڵێت: چی دەکەیت؟",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "بڕبەکات"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "یשיבנו",
+      "gloss": "دەیگەڕێنێتەوە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "یאמר",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:37.784721101Z",
+  "model": "glm-5.3"
+}

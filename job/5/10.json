@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ئەوەی باران دەدات لەسەر ڕووی زەوی و ئاو دەنێرێت لەسەر ڕووی کۆڵانەکان.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "ئەوەی دەدات"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "باران"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "و دەنێرێت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "کۆڵانەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:49.153265650Z",
+  "model": "glm-5.3"
+}

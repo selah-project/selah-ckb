@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 22:22",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "چونکە ڕێگاکانی یاهوەم پارێزت و لە ئێلۆهیمم خراپەم نەکرد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "پارێزت"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێگاکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "خراپەم کرد"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "لە ئێلۆهیمم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:36.672419419Z",
+  "model": "glm-5.3"
+}

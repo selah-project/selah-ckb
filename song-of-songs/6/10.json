@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کێ ئەوەیە ⟨کە⟩ وەک بەیانی ڕوو دەکاتەوە؟ جوان وەک مانگ، ڕوون وەک خۆر، هەیبات وەک ئاڵادارەکان.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "ڕوو دەکاتەوە"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "وەک مانگ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ڕوون"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "وەک خۆر"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "هەیبات"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "وەک ئاڵادارەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:02.942106026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "کوڕەکانی یەتیم بن، و ژنەکەی بێوەژن بێت.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یەتیم"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "و ژنەکەی"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بێوەژن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:42.091844820Z",
+  "model": "glm-5.3"
+}

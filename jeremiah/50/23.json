@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 50:23",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "چۆن بڕدرا و شکا پەتووشی هەموو زەویەکە چۆن بوو بۆ وێرانەیی بابل لە نێو گەلان",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "נגדע",
+      "gloss": "بڕدرا"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "و شکا"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "پەتووش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "بۆ وێرانەیی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "لە نێو گەلان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:01:04.326693144Z",
+  "model": "glm-5.3"
+}

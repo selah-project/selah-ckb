@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 19:37",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و کچە گەورەکە کوڕێکی بوو و ناوی نا مۆئاب ⟨کەس⟩ ئەوە باوکی مۆئابە بۆ ئەم ڕۆژە",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "کچە گەورەکە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێک"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:02.831632931Z",
+  "model": "glm-5.3"
+}

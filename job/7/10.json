@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "دیتر ناگەڕێتەوە بۆ ماڵەکەی، و شوێنەکەی ئەوی دیکە ناناسێت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "گەڕانەوە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیتر"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "بۆ ماڵەکەی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "دەیناسێت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیتر"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "شوێنەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:19.713010888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و حوور ⟨את⟩ ئووری بەخێو کرد و ئووری ⟨את⟩ بێتسالێلی بەخێو کرد",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "و حوور"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئووری"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ئووری"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "و ئووری"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بێتسالێل"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بێتسالێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:24.088296925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "بەستیان بکە لەسەر دڵی خۆت بەردەوام، لەسەر گەرووی خۆتیش بلکێنە.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "بەستیان بکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵی خۆت"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "بەردەوام"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "بلکێنە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "گەرووی خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:46.642127957Z",
+  "model": "glm-5.3"
+}

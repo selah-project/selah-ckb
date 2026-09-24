@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بۆ ییساخار نێتانئێل کوڕی تسوئار.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "بۆ ییساخار"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نێتانئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "تسوئار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:25.696969635Z",
+  "model": "glm-5.3"
+}

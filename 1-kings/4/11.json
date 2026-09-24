@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "کوڕی ئەڤیناداڤ، هەموو نافاتی دۆر؛ تافات کچی شلۆمۆ بوو بە ژنی ئەو.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ئەڤیناداڤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "نافاتی"
+    },
+    {
+      "surface": "دאר",
+      "gloss": "دۆر"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "تافات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو بە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بە ژنی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:44:17.241976113Z",
+  "model": "glm-5.3"
+}

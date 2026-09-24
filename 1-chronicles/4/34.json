@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و مەشۆڤاڤ و یاملێخ و یۆشاه کوڕی ئەمەتسیا،",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "و مەشۆڤاڤ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و یاملێخ"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "و یۆشاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ئەمەتسیا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:13.379185645Z",
+  "model": "glm-5.3"
+}

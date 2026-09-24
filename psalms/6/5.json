@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "بیاوەرەوە ئەی یاهوە، گیانم ڕابکە، خلاسم بکە بۆ حەسەدی خۆت",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "بیاوەرەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ڕابکە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "خلاسم بکە"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حەسەدی خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:54.996626124Z",
+  "model": "glm-5.3"
+}

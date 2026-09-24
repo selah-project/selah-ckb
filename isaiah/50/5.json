@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "ئادۆنای یاهوە گوێی بۆ من کردەوە، و من یاخی نەبووم، بە پاشەوە نەگەڕامەوە.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "کردەوە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوێ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "یاخی بووم"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "بە پاشەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "گەڕامەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:32:58.110737593Z",
+  "model": "glm-5.3"
+}

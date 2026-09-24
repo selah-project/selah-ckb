@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و شێلاخ ⟨عێبەری⟩ بووە باوکی دوای ئەوەی سێ ساڵ و چوار سەد ساڵ ژیا و بووە باوکی کوڕان و کچان",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شێلاخ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای ئەوەی"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "بووە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عێبەر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عێبەر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بووە باوکی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:59.410617872Z",
+  "model": "glm-5.3"
+}

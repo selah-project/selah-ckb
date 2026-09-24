@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "چاکە خەفەت لە پێکەنین، چونکە بە خراپی ڕوو دڵ چاک دەبێت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "خەفەت"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "لە پێکەنین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "بە خراپی"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "چاک دەبێت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:34.252173118Z",
+  "model": "glm-5.3"
+}

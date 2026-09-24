@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 121,
+  "translation": "یاهوە پارێزەری تۆیە، یاهوە سێبەری تۆیە لەسەر دەستی ڕاستت.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "پارێزەری تۆیە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "سێبەری تۆیە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ڕاستت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:35.590626520Z",
+  "model": "glm-5.3"
+}

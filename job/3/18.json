@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "پێکەوە بەندییەکان بێخەشاکەن، دەنگی سەرکێش نابزوێنن.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "بەندییەکان"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "بێخەشاکەن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "دەبزوێنن"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "سەرکێش"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:50.537870257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "یاهوە ئێلۆهیمەکەم، بۆ تۆ قیژاندم و تۆ شیفام کردم.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمەکەم"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "قیژاندم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "و تۆ شیفام کردم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:28.626462928Z",
+  "model": "glm-5.3"
+}

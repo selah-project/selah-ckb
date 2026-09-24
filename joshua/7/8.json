@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ئەی ئادۆنای چی بڵێم دوای ئەوەی ئیسرائیل پشتی مەلی بەرکەوتووە لەبەردەم دوژمنانی",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "ئەی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بڵێم"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "پێچایەوە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "پشتی مل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "دوژمنانی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:55:31.215018399Z",
+  "model": "glm-5.3"
+}

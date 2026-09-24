@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "گژووگیا هەڵگیرا و گەشا دەرکەوت و گیاکانی چیاکان کۆکرانەوە.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "هەڵگیرا"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "گژووگیا"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "و دەرکەوت"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "گەشا"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "و کۆکرانەوە"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "گیاکانی"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "چیاکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:23.461600294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ⟨את⟩ دوو کوڕەکانی ئەو، کە ناوی یەکێکیان گەرشۆم بوو، چونکە وت: میوان بووم لە زەوییەکی بیانی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دوو کوڕەکانی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "کوڕەکانی ئەو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گەرشۆم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "גר",
+      "gloss": "میوان"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:45:55.388818884Z",
+  "model": "glm-5.3"
+}

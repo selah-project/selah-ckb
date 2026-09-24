@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "چونکە گیانمان چەکمەی خاک بووە و سکیمان بە زەویەوە لکاوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "چەکمەی"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "بۆ خاک"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "گیانمان"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "لکاوە"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "بە زەوی"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "سکیمان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:58.331000100Z",
+  "model": "glm-5.3"
+}

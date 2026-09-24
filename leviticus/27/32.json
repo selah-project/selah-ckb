@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و هەموو دەیەمی گا و مەڕ — هەموو ئەوەی بە ژێر ڕۆددا تێدەپەڕێت — دەیەمەکە پیرۆز دەبێت بۆ یاهوە.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "دەیەم"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "و مەڕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "تێدەپەڕێت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ژێر"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ڕۆد"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "دەیەمەکە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:56.050195922Z",
+  "model": "glm-5.3"
+}

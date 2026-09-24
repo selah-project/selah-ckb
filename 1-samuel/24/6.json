@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و دوای ئەوە دڵی داوود ⟨את⟩ ئەو لێیدا لەسەر ئەوەی کە ⟨את⟩ باڵەکەی بڕیبوو کە هی شائول بوو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "و لێیدا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "داوود"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بڕیبوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باڵ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "باڵ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "هی شائول"
+    }
+  ],
+  "timestamp": "2026-09-24T11:27:12.734642657Z",
+  "model": "glm-5.3"
+}

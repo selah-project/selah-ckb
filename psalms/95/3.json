@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 95,
+  "translation": "چونکە یاهوە ئێلێکی گەورەیە، و پاشایەکی گەورە لەسەر هەموو خوداکان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێلێکی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و پاشایەکی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خوداکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:48.540970297Z",
+  "model": "glm-5.3"
+}

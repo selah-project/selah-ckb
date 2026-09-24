@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بۆ هەموو شتێک کاتێکە، و کاتێک بۆ هەموو ویستێک لەژێر ئاسمانەکاندا.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو شتێک"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "کاتێکە"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کاتێک"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ویستێک"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:31.947231602Z",
+  "model": "glm-5.3"
+}

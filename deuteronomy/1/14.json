@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئێوە وەڵامم دانەوە و وتتان باش ⟨ئەوە⟩ ⟨یە⟩ ئەو قسانەی کە فەرموتت بۆ کردین",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "و وەڵامم دانەوە"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ من"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "و وتتان"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئەو قسانە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "فەرموتت"
+    },
+    {
+      "surface": "لעשות",
+      "gloss": "بۆ کردین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:34:23.322110125Z",
+  "model": "glm-5.3"
+}

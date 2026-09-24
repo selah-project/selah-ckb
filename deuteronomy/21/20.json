@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و بۆ پیرانی شارەکەی دەڵێن: ئەم کوڕەمان سەرکێش و نافەرمانە، گوێی لە دەنگمان نییە، زۆرخۆر و سەرخۆشە.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پیرانی"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "شارەکەی"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "کوڕەکەمان"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "سەرکێش"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "و نافەرمان"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێگرتن"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "لە دەنگمان"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "زۆرخۆر"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "و سەرخۆش"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:31.537898701Z",
+  "model": "glm-5.3"
+}

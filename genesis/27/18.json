@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و هاتە لای باوکی و وت: باوکم! و وت: لێرەم؛ تۆ کێیت کوڕی من؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "لێرەم"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕی من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:09.495560573Z",
+  "model": "glm-5.3"
+}

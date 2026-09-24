@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "چاکترە پەناهەردان لە یاهوە لە متمانەکردن بە مرۆڤ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکترە"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "پەناهەردان"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "لە یاهوە"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "لە متمانەکردن"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "بە مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:51.203306611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ئەگەر تۆ دەترسیت بۆ دابەزین، تۆ و پورا لاوەکەت دابەزن بۆ سەربازگەکە.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "دەترسیت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "لרדת",
+      "gloss": "بۆ دابەزین"
+    },
+    {
+      "surface": "רד",
+      "gloss": "دابەزن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "و پورا"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "لاوەکەت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "سەربازگەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:06:12.779893180Z",
+  "model": "glm-5.3"
+}

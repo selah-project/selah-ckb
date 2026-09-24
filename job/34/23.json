@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "چونکە زیاتر لەسەر مرۆڤ دانانات، بۆ ڕۆشتن لای ئێل بە دادگەری.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "دانانات"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "زیاتر"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "بۆ ڕۆشتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "بە دادگەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:33.871217574Z",
+  "model": "glm-5.3"
+}

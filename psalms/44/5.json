@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "تۆ ئەو پاشای من یەی، ئێلۆهیم؛ فەرمان بکە بە ڕزگارییەکانی یەعقوب.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاشای من"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمان بکە"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ڕزگارییەکان"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:58.335595537Z",
+  "model": "glm-5.3"
+}

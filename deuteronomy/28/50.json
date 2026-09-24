@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "گەلێکی توندی ڕوخسار، کە ڕووی پیرێک بەرز ناکاتەوە و بە گەنجیشدا مەهەربانی ناکات",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "گەلێک"
+    },
+    {
+      "surface": "עז",
+      "gloss": "توند"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوخسار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "بەرز ناکاتەوە"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "بۆ پیر"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "و گەنج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "مەهەربانی ناکات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:48:29.484839689Z",
+  "model": "glm-5.3"
+}

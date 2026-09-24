@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بە نەفرەتێک ئێوە نەفرەتلێکراون و ⟨את⟩ من ئێوە فێڵ دەکەن — ئەو گەلە هەمووی.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "بە نەفرەتێک"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "نەفرەتلێکراون"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "و ⟨את⟩ من",
+      "marks": "من"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "فێڵ دەکەن"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ئەو گەلە"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "هەمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:45.344917499Z",
+  "model": "glm-5.3"
+}

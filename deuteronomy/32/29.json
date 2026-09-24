@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 32:29",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "ئای دەبوو دانا بوون، ئەمەیان تێدەگەیشت، کۆتاییی خۆیان دەناسییان.",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ئای دەبوو"
+    },
+    {
+      "surface": "חכמו",
+      "gloss": "دانا بوون"
+    },
+    {
+      "surface": "ישכילו",
+      "gloss": "تێدەگەیشتن"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "دەناسییان"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "کۆتاییی خۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:54.307769982Z",
+  "model": "glm-5.3"
+}

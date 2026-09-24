@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەوەتا من لە دژیان ⟨את⟩ مادییەکان هەڵدەخەم، کە زیو بەچاو ناگرن و لە زێڕ شاد نابن.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ئەوەتا من"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "هەڵدەخەم"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "لە دژیان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مادییەکان"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادییەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "بەچاو دەگرن"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و زێڕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "شاد دەبن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لێی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:31.940013008Z",
+  "model": "glm-5.3"
+}

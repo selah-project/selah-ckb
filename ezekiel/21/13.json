@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "وشەی یاهوە هاتە لای من بۆ وتن.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "کاتێک هات"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:12:47.091452230Z",
+  "model": "glm-5.3"
+}

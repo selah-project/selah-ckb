@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "دڵم بەرەو شایەتییەکانت مەیل بدە و لە بەرەو قازانجی ناپاک.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "مەیل بدە"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "شایەتییەکانت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و لە بەرەو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "قازانجی ناپاک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:30.825728209Z",
+  "model": "glm-5.3"
+}

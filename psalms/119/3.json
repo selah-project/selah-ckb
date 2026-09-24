@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "هەروەها ستی نەکردووە، لە ڕێگاکانی ئەودا ڕۆیشتوون.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "نەکردووە"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ستی"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "لە ڕێگاکانی"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ڕۆیشتوون"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:36.563857418Z",
+  "model": "glm-5.3"
+}

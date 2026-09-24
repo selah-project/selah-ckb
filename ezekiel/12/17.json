@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و وشەی یاهوە هات بۆم بە وتنی،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:08:04.767499659Z",
+  "model": "glm-5.3"
+}

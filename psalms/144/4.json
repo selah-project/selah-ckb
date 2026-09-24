@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 144,
+  "translation": "مرۆڤ وەک با ⟨دەچێت⟩، ڕۆژەکانی وەک سێبەرێکی تێپەڕەوەن.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "وەک با"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "⟨دەچێت⟩"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "وەک سێبەر"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "تێپەڕەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:29.640794751Z",
+  "model": "glm-5.3"
+}

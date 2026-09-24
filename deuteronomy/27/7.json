@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و قوربانیی ئاشتی دەکەیت و لەوێ دەخۆیت و لەبەردەم یاهوە ئێلۆهیمت دڵخۆش دەبیت.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "و قوربانیی دەکەیت"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "و دەخۆیت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "و دڵخۆش دەبیت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:53.567778454Z",
+  "model": "glm-5.3"
+}

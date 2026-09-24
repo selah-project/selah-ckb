@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و شموئێل ⟨את⟩ گەلەکەی بۆ یاهوە لە میتسپا کۆ کردەوە.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "کۆی کردەوە"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئێل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەلەکە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "میتسپا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:19:52.657660766Z",
+  "model": "glm-5.3"
+}

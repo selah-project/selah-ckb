@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 94,
+  "translation": "بێوەژن و غەریب دەکوژن و هەتیوان قەتل دەکەن",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "بێوەژن"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "و غەریب"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "دەکوژن"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "و هەتیوان"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "قەتل دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:56.195298794Z",
+  "model": "glm-5.3"
+}

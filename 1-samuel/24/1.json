@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "داود لەوێوە سەرکەوت و لە قەڵا بەردینەکانی عەین گەدی دانیشت.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "سەرکەوت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێوە"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "دانیشت"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "لە قەڵا بەردینەکانی"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عەین"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:27:12.601674360Z",
+  "model": "glm-5.3"
+}

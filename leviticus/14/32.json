@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ئەمە تۆراتی ئەوەیە کە تێیدا نەخۆشیی سەرەقەڵەمی هەیە، کە دەستی بە پاکبوونەوەی نەگەیشتووە.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تۆراتی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نەخۆشیی"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "سەرەقەڵەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "گەیاندووە"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "بە پاکبوونەوەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:35.697982308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "یاهوە ئێلۆهیم بانگی ئادەمی کرد ⟨موسا⟩ و پێی فەرموو: لە کوێیت؟",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "بانگی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "لە کوێیت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:29.378546151Z",
+  "model": "glm-5.3"
+}

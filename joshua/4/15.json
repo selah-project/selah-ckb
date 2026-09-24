@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و یاهوە فەرمووی بۆ یەهۆشوع کرد، دەڵێت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهۆشوع ⟨یەشوع⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەڵێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:51:44.850175411Z",
+  "model": "glm-5.3"
+}

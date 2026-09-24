@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "ئەمانە فەرمانەکانن کە یاهوە ⟨את⟩ مۆشە ⟨موسا⟩ بۆ کوڕانی ئیسرائیل لە چیا سینا فەرموو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "فەرمانەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیا"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:13.413681264Z",
+  "model": "glm-5.3"
+}

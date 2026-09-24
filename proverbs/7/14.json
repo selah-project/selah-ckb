@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "قوربانییەکانی سلامتان لە لامە، ئەمڕۆ نەزەرەکانی خۆم تەواو کردم.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "قوربانییەکان"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "سلامتان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لە لامە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "تەواو کردم"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "نەزەرەکانی خۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:15.105281773Z",
+  "model": "glm-5.3"
+}

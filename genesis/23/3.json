@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئاڤراهام لە لای ڕووی مەردووەکەی هەستای، و لەگەڵ کوڕەکانی حێت قسەی کرد، بە وتنی:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و هەستای"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مەردووەکەی"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حێت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:19:39.221603124Z",
+  "model": "glm-5.3"
+}

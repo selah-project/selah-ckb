@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و بوو بۆی ژنانی شازادە حەوت سەد، و پیلەگەش سێ سەد؛ و ژنانی ⟨את⟩ دڵی لار کردەوە.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژنان"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "شازادە"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "و پیلەگەش"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "و لار کردەوە"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ژنانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵی"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:52:57.293834030Z",
+  "model": "glm-5.3"
+}

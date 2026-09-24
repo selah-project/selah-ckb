@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بەسەر زەوییەکەتدا تێپەڕە وەک نیل، ئەی کچی تەرشیش، ئیتر پەتەیەک نییە.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "تێپەڕە"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "زەوییەکەت"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "وەک نیل"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تەرشیش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "پەتە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:14.800298821Z",
+  "model": "glm-5.3"
+}

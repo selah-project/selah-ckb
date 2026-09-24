@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 32:31",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "چونکە ئەم شارە لە ڕۆژی کە دروستیان کردی ⟨את⟩ تا ڕۆژی ئەمڕۆ بۆ لابردنی لە دەموچاوم، لەسەر تووڕەیی و لێژیی من بووە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "لێژیی"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "למן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "دروستیان کرد"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ئەی",
+      "marks": "شارەکە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "להסירה",
+      "gloss": "بۆ لابردنی"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "دەموچاوم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:54:06.435765280Z",
+  "model": "glm-5.3"
+}

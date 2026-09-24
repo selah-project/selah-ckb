@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و کوڕەکانی یێتەر: یێفونە و پیسبا و ئارا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یێتەر"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یێفونە"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "و پیسبا"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "و ئارا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:32.810345465Z",
+  "model": "glm-5.3"
+}

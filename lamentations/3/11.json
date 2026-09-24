@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ڕێگاکانی من لادا و پارە پارەی کردم، دانیم بە وێرانەوە.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێگاکانی من"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "لادا"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "پارە پارەی کردم"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "دانیم"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "وێران"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:31.973466905Z",
+  "model": "glm-5.3"
+}

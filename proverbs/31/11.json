@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "دڵی مێردی ⟨ئەو⟩ پشتی بە ⟨ئەو⟩ بەستووە، و شتِ بەنرخ لێی نایەستێت.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "پشتی بەستووە"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بە ⟨ئەو⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "مێردی ⟨ئەو⟩"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "و شتِ بەنرخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نایەستێت"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "لێی کەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:09.884645662Z",
+  "model": "glm-5.3"
+}

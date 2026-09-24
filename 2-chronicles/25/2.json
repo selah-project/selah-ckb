@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ئەوەی ڕاست لە چاوەکانی یاهوە کرد، تەنها بە دڵێکی تەواو نەبوو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ئەوەی ڕاست"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەبوو"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "بە دڵێکی"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "تەواو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:42:58.215504821Z",
+  "model": "glm-5.3"
+}

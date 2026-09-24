@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و لە کوڕانی بنیامین سەللو کوڕی مەشولام کوڕی هۆداڤییا کوڕی هەسەنوئا.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "سەللو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مەشولام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "هۆداڤییا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "هەسەنوئا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:14.708139531Z",
+  "model": "glm-5.3"
+}

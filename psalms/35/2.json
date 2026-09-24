@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "بگرە بە قەڵغەن و بەرزە، هەڵستە بۆ یارمەتیدانم.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "بگرە"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "قەڵغەن"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "و بەرزە"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "هەڵستە"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "بۆ یارمەتیدانم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:01.294328110Z",
+  "model": "glm-5.3"
+}

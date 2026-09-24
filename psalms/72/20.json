@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 72,
+  "translation": "تەواو بوون نوێژەکانی داود ⟨داوود⟩، کوڕی ییشای.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "تەواو بوون"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "نوێژەکانی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود ⟨داوود⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ییشای"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:22.977628557Z",
+  "model": "glm-5.3"
+}

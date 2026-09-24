@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ئەگەر لە ماڵی مێردی نەزڕ بگرێت یان بە سوێند بەندێک لەسەر گیانی ببەستێت،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "مێردی"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "نەزڕ بگرێت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ببەستێت"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "بەندێک"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "بە سوێند"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:25.723618539Z",
+  "model": "glm-5.3"
+}

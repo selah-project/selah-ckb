@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و بۆ یەکەمجار بە دەمی یاهوە بە دەستی مۆشە ⟨هەڵکەوتن⟩ پێش کەوتن.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "پێش کەوتن"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "بۆ یەکەمجار"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:00.999674889Z",
+  "model": "glm-5.3"
+}

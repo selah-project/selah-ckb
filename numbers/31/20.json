@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و هەموو جلوبەرگێک و هەموو ئامرازێکی چەرم و هەموو کاری بزنێک و هەموو ئامرازێکی دار پاک بکەنەوە.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "جلوبەرگ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ئامراز"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چەرم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ئامراز"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "پاک بکەنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:06.412149957Z",
+  "model": "glm-5.3"
+}

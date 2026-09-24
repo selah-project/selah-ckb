@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 138,
+  "translation": "و لە ڕێگاکانی یاهوە دەگۆڕن، چونکە شکۆی یاهوە گەورە⟨یە⟩.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "و دەگۆڕن"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "لە ڕێگاکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:03.500574420Z",
+  "model": "glm-5.3"
+}

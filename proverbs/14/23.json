@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لە هەموو زەحمەتێک قازانج هەیە، و قسەی لێوەکان تەنها بۆ دەستەنگییە.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "زەحمەتێک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "قازانج"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و قسەی"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لێوەکان"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "بۆ دەستەنگییە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:44.328206114Z",
+  "model": "glm-5.3"
+}

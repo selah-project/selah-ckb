@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "عەیلام پێنجەم، یەهۆحانان شەشەم، ئەلیهوئێنای حەوتەم.",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "عەیلام"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پێنجەم"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یەهۆحانان"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شەشەم"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "ئەلیهوئێنای"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:58.554652415Z",
+  "model": "glm-5.3"
+}

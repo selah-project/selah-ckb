@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەی یاهوە، بەرامبەریان بەدەیتەوە بەپێی کاری دەستەکانیان.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "بەدەیتەوە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بەرامبەریان"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "بەپێی کاری"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "دەستەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:28.629464760Z",
+  "model": "glm-5.3"
+}

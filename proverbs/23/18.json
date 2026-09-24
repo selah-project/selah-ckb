@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "چونکە بەڕاستی کۆتاییەک هەیە، و هیوای تۆ نابڕدرێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بەڕاستی"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "کۆتاییەک"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "و هیوای تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "بڕدرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:18.929217114Z",
+  "model": "glm-5.3"
+}

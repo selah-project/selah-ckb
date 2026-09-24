@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و ئاڤraham ⟨ئەبرام⟩ کوڕی هەشتا ساڵ و شەش ساڵ بوو، کاتێک هاغار ⟨هاجەر⟩ ⟨את⟩ ییشماعێل ⟨ئیسماعیل⟩ بۆ ئاڤraham لەدایک کرد.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "و ئاڤraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "هەشتا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "کاتێک لەدایک کرد"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاغار"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ییشماعێل"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ییشماعێل"
+    },
+    {
+      "surface": "לאبרם",
+      "gloss": "بۆ ئاڤraham"
+    }
+  ],
+  "timestamp": "2026-09-24T09:16:22.967947877Z",
+  "model": "glm-5.3"
+}

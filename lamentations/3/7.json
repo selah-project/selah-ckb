@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بەردووری لێکردم و دەرنەکەوم؛ زنجیرە قوڕسەکەمی قورس کرد.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "بەردووری لێکرد"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "لە دەوری من"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "دەردەکەوم"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "قورس کرد"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "زنجیرە قوڕسەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:39.038316954Z",
+  "model": "glm-5.3"
+}

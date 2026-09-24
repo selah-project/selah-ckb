@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "لەنەفرەتکراوە ⟨کە⟩ هاوڕێکەی بە نهێنی لێدەدات، و هەموو گەلەکە دەڵێت: ئامین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لەنەفرەتکراوە"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "لێدەدات"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێکەی"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "بە نهێنی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:57.054393346Z",
+  "model": "glm-5.3"
+}

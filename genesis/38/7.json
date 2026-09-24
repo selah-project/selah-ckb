@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و بوو عیر بەکۆری یەهودا لە چاوانی یاهوەدا خراپ و یاهوە ئەوی کوشت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بەکۆری"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاواندا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "و ئەوی کوشت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:02.918648266Z",
+  "model": "glm-5.3"
+}

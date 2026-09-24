@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 30:27",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "ناوەکەم کوڵا و نەوەستا؛ ڕۆژانی خەم پێش کەوتم.",
+  "tokens": [
+    {
+      "surface": "מעי",
+      "gloss": "ناوەکەم"
+    },
+    {
+      "surface": "רתחו",
+      "gloss": "کوڵا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "وەستا"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "پێش کەوتم"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "خەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:04.251310368Z",
+  "model": "glm-5.3"
+}

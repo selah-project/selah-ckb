@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و ئەگەر لە نەزروەدان دوای بکەویت، گوناه لە تۆدا نابێت.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "دوای دەکەویت"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "لە نەزروەدان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە تۆدا"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گوناه"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:07.090263757Z",
+  "model": "glm-5.3"
+}

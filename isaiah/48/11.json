@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "بۆ خۆم، بۆ خۆم دەیکەم، چونکە چۆن پیس بکرێت؟ و شکۆم بۆ کەسێکی تر نادەم.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "دەیکەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "پیس دەکرێت"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "و شکۆم"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "بۆ کەسێکی تر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دەدەم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:28:49.478560902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "هەروەها لە باڵندەی ئاسمان حەوت لە حەوت، نێر و مێ، بۆ زیندووهێشتنی تۆو لەسەر ڕووی هەموو زەوی.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "لە باڵندەی"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "و مێ"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "بۆ زیندووهێشتنی"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تۆو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:19.171178379Z",
+  "model": "glm-5.3"
+}

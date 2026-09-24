@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 92,
+  "translation": "بە دە تار و بە نەڤەل، بە هیگایۆن لەگەڵ کینۆر.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "بە"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "دە تار"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "و بە"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نەڤەل"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "بە"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "هیگایۆن"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "لەگەڵ کینۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:32.620379587Z",
+  "model": "glm-5.3"
+}

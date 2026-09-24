@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "شۆڕشگێڕ بوون لەگەڵ یاهوە، لە ڕۆژەکەوەی کە من ناسیم ⟨את⟩ ئێوە.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "شۆڕشگێڕ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "لە ڕۆژەکەوەی"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "ناسیم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": "ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:06.195056545Z",
+  "model": "glm-5.3"
+}

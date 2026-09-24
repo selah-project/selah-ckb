@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەگەر گاڵتەکاران — ئەو گاڵتەیان لەگەڵ دەکات، و بە نەزایان چێن دەدات.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "گاڵتەکاران"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "گاڵتە دەکات"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "و بە نەزایان"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:45.720926392Z",
+  "model": "glm-5.3"
+}

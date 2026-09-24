@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و مۆتزا ⟨את⟩ بینەعی بەخێوکرد؛ ڕافا کوڕی ئەو، ئێلعاسا کوڕی ئەو، ئاتسێل کوڕی ئەو.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "و مۆتزا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێوکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بینەعی"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بینەعی"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ڕافا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی ئەو"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ئێلعاسا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی ئەو"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ئاتسێل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:01.439970803Z",
+  "model": "glm-5.3"
+}

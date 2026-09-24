@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "کەمەری بە توندوتیپ گرتبوو و باقەکانی بەهێز کرد.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "گرتبوو"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "بە توندوتیپ"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "کەمەری"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "و بەهێز کرد"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "باقەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:12.661015521Z",
+  "model": "glm-5.3"
+}

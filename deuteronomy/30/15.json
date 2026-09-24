@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "ئا، ئەمڕۆ ⟨את⟩ ژیان و ⟨את⟩ چاکە و ⟨את⟩ مەرگ و ⟨את⟩ خراپەی لەبەردەمت داناوە.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ئا · ببینە"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داناوە"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "لەبەردەمت"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ژیان"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "چاکە"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەرگ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "مەرگ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "خراپە"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "خراپە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:48:14.925284184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و هەموو خشۆکەکەی کە لەسەر زەوی دەبزووێت بێزاوە، ئەوە ناخوردرێت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "خشۆکەکە"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "دەبزووێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "بێزاو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوردرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:15.653001588Z",
+  "model": "glm-5.3"
+}

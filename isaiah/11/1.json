@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و شاخەیەک لە تەنکی ییشای ⟨دەر⟩دەچێت و لقێک لە ڕەگەکانی دەبەرخێت",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەردەچێت"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "شاخەیەک"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "لە تەنکی"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ییشای"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "و لقێک"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "لە ڕەگەکانی"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "دەبەرخێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:17:35.470660703Z",
+  "model": "glm-5.3"
+}

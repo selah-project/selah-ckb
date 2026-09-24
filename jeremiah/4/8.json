@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "لەبەر ئەمە جلێ خەم ببەستن، ماتەمی بکەن و هاوار بکەن، چونکە گڕی تووڕەیی یاهوە لە ئێمە نەگەڕاوەتەوە.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ببەستن"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "جلێ خەم"
+    },
+    {
+      "surface": "ספדו",
+      "gloss": "ماتەمی بکەن"
+    },
+    {
+      "surface": "והילילו",
+      "gloss": "و هاوار بکەن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שב",
+      "gloss": "گەڕاوەتەوە"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "گڕ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لە ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:48.725053526Z",
+  "model": "glm-5.3"
+}

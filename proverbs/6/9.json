@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "تا کەی، ئەی کاهێڵ، دەخەوی؟ کەی لە خەوتنتەوە هەڵدەستیت؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاهێڵ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "دەخەوی"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "هەڵدەستیت"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "لە خەوتنتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:42.359787753Z",
+  "model": "glm-5.3"
+}

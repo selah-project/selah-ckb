@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "بە کیکارێک زێوی پاک دەیکەن ⟨את⟩ ئەو ⟨את⟩ هەموو ئەو کەرەستانە",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "کیکار"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێو"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەیکەن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ئەو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەو کەرەستانە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ئەو کەرەستانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:01.298416420Z",
+  "model": "glm-5.3"
+}

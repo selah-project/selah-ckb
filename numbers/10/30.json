@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و بە ئەو وتی ناچم بەڵکو بە زەوی خۆم و بە خاکی لەدایکبوونم دەچم",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بە ئەو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ناچم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرەو"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "زەوی خۆم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بەرەو"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "خاکی لەدایکبوونم"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "دەچم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:09.301330297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 103,
+  "translation": "چونکە با بەسەریا تێدەپەڕێت و نییە ⟨نەما⟩، و جێگاکەی دیتر ⟨نای⟩ناسێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "با"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "تێدەپەڕێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بەسەریا"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יכירנو",
+      "gloss": "دەیناسێت"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیتر"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "جێگاکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:00.341814468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "لاشە و دڕاوە ناکات بۆ پیسبوون پێی، من یاهوەم",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "لاشە"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "و دڕاوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "بۆ پیسبوون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:02.398998901Z",
+  "model": "glm-5.3"
+}

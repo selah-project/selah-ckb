@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "ئەمانە کوڕەکانی دیشان بوون: عووس و ئاران.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دیشان"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عووس"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "و ئاران"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:02.367390371Z",
+  "model": "glm-5.3"
+}

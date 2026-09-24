@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "چونکە لەم شێوەیە یاهوە فەرمووی: دەنگێکی لەرزە دێین، پەشۆکا — و ئاشتی نییە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כה",
+      "gloss": "لەم شێوەیە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگ"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "لەرزە"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "دێین"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "پەشۆکا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و … نییە"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:51:30.118234352Z",
+  "model": "glm-5.3"
+}

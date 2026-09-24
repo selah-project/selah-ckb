@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ⟨את⟩ کوڕەکانی ناڵێمەوە چونکە کوڕانی زیناخوازین ئەوان",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩ ئەو",
+      "marks": "کوڕەکانی"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "لێم دەکەوێتەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "زیناخوازین"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:59.505417647Z",
+  "model": "glm-5.3"
+}

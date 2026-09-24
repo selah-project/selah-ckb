@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئەوەتا ئەو هێشتا لەگەڵ پاشا قسەی دەکات، و ناتان پێغەمبەر هات.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "قسەی دەکات"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و ناتان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەر"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    }
+  ],
+  "timestamp": "2026-09-24T11:44:23.512250414Z",
+  "model": "glm-5.3"
+}

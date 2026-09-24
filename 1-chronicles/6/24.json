@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و برای ئەو ئاساف، ئەوەی لە لای ڕاستی ئەو دەوەستا؛ ئاساف کوڕی بێرەخیاهو، کوڕی شیمعائ.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "و برای ئەو"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ئاساف"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ئەوەی دەوەستا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ڕاستی ئەو"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ئاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "بێرەخیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شیمعائ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:56.318546740Z",
+  "model": "glm-5.3"
+}

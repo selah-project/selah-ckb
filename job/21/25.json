@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "وە ئەمە بە گیانێکی تاڵ دەمرێت و لە چاکەدا نەچێشتووە.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "وە ئەمە"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "دەمرێت"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "بە گیان"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "تاڵ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "چێشتبوو"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "لە چاکەدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:49.725944194Z",
+  "model": "glm-5.3"
+}

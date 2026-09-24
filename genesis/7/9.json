@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "دوو دوو هاتنە ژوورەوە لای نۆئەخ ⟨⟨את⟩⟩ بۆ ناو کەشتییەکە، نێر و مێ، وەک ئێلۆهیم فەرمانی بە نۆئەخ کردبوو.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "هاتنە ژوورەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆئەخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کەشتییەکە"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "و مێ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کردبوو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نۆئەخ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆئەخ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:07.711749080Z",
+  "model": "glm-5.3"
+}

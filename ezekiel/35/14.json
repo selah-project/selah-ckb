@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "ئاوای فەرموو ئادۆنای یاهوە: وەک شادیی هەموو زەویەکە، وێرانیت بۆ تۆ دەکەم.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ئاوای"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "وەک شادیی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "وێرانی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "دەکەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:20:33.410691817Z",
+  "model": "glm-5.3"
+}

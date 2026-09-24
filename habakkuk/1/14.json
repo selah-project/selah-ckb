@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و مرۆڤ کرد وەک ماسییەکانی دەریا، وەک خشۆک کە هیچ فەرمانڕەوایەک لەسەری نییە.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "وەک ماسییەکانی"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "وەک خشۆک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "فەرمانڕەوا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T13:39:39.558808490Z",
+  "model": "glm-5.3"
+}

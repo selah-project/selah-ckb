@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لە پێش پیاوی گەمژە بڕۆ، و ئەگینا لێوەکانی زانیاری ناناسی.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "لە پێشەوە"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "گەمژە"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "و ئەگینا"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ناناسی"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:39.221601899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "من دیوارم و سنگەکانم وەک بورجەکان؛ ئەوکات لە چاوەکانی بووم وەک دۆزەرەوەی شلۆم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوارم"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "و سنگەکانم"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "وەک بورجەکان"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "لە چاوەکانی"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "وەک دۆزەرەوەی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:54.173396131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "تۆ بینیت بۆ ئەوەی بزانیت کە یاهوە ئەو ⟨is⟩ ئێلۆهیمە، هیچ نییە جگە لە ئەو",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "بینیت"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "بۆ ئەوەی بزانیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیمە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "هیچ نییە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بەسەرتر"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "جگە لە ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:56.934620412Z",
+  "model": "glm-5.3"
+}

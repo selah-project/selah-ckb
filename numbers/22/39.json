@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و بیلعام لەگەڵ بالاق ڕۆیشت و هاتنە کیریات حوتسوت.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیشت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "و هاتنە"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "کیریات"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "حوتسوت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:37.397962542Z",
+  "model": "glm-5.3"
+}

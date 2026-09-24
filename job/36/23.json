@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 36:23",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "کێ ڕێگای بۆ دیاری کردووە؟ و کێ وتوویەتی ستەمت کردووە؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "دیاری کردووە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وتوویەتی"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "کردووتە"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ستەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:45:00.228159372Z",
+  "model": "glm-5.3"
+}

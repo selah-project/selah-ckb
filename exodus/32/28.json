@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 32:28",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و کوڕەکانی لێڤی وەک وشەی مۆشەیان کرد، و لە گەلەکە لەو ڕۆژەدا نزیکەی سێ هەزار پیاو کەوتن",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "و کردیان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "وەک وشەی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "و کەوتن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "نزیکەی سێ"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:54:12.571279685Z",
+  "model": "glm-5.3"
+}

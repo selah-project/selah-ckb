@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "نامرم، چونکە دەژیم، و کردەوەکانی یاه دەگێڕمەوە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "دەمرم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "دەژیم"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "و دەگێڕمەوە"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کردەوەکانی"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:54.602005818Z",
+  "model": "glm-5.3"
+}

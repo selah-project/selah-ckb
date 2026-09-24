@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 65,
+  "translation": "بیسەری نوێژ ⟨ئێوە⟩، هەموو گۆشت دێتە لای تۆ.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "بیسەری"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "نوێژ"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "هەتا تۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "دێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:40.147579273Z",
+  "model": "glm-5.3"
+}

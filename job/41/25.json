@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "لەسەر خۆڵ هاوتای نییە؛ دروستکراوە بێ ترس.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خۆڵ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "هاوتای"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "دروستکراوە"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ترس"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:38.898042351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "وەک سووساننایەک لە نێو دڕکەکاندا، هەرواها خۆشەویستەکەم لە نێو کچەکاندا.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "وەک سووساننایەک"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێو"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "دڕکەکاندا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەرواها"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "خۆشەویستەکەم"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێو"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "کچەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:33.546887979Z",
+  "model": "glm-5.3"
+}

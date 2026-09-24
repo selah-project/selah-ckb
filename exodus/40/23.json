@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و نانی لەسەری ڕیز کرد لەبەردەم یاهوە، وەک یاهوە بە ⟨את⟩ مۆشە فەرموو.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ڕیز کرد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ڕیزێک"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۆشە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:57:36.945854293Z",
+  "model": "glm-5.3"
+}

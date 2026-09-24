@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 28:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "هەستە، بڕۆ پادان ئارام، بۆ ماڵی بەتوئێل باوکی دایکت، و لەوێ ژنێک بۆ خۆت بگرە لە کچانی لاوان برای دایکت.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "هەستە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "پادان"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ئارام"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "بۆ ماڵی"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بەتوئێل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "دایکت"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "و بگرە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێک"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "لە کچانی"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاوان"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "دایکت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:24:28.582949952Z",
+  "model": "glm-5.3"
+}

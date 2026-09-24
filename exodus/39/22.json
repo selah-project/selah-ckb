@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و ⟨את⟩ درێشی ئەفدەکەی دروستکرد، کاری ڕەختباف، تەواو بە شین.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "دروستکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "درێشی ئەفدەکە"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "درێشی"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ئەفدەکە"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ڕەختبافی"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "تەواو"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "شین"
+    }
+  ],
+  "timestamp": "2026-09-24T09:57:49.945049611Z",
+  "model": "glm-5.3"
+}

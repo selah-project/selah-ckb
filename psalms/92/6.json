@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 92,
+  "translation": "ئەی یاهوە، چەند گەورەن کردارەکانت! زۆر قووڵن بیروڕاکانت.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "گەورەن"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "کردارەکانت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "قووڵن"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "بیروڕاکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:51.419828224Z",
+  "model": "glm-5.3"
+}

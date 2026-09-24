@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و پاشا و هەموو گەلەکە قوربانییان دەکوشتن قوربانییەک لەبەردەم یاهوە.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "و پاشا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "قوربانی دەکوشتن"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قوربانییەک"
+    },
+    {
+      "surface": "لפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:34:58.291379372Z",
+  "model": "glm-5.3"
+}

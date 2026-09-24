@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ⟨את⟩ موئابی لێدا، و موئاب بوون بە خزمەتکاری داڤید، هەڵگرانی پێشکەش.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "و لێدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موئاب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاب"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاب"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "خزمەتکار"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "بۆ داڤید"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "هەڵگرانی"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "پێشکەش"
+    }
+  ],
+  "timestamp": "2026-09-24T15:27:51.724293018Z",
+  "model": "glm-5.3"
+}

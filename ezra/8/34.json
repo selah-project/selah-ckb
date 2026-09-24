@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 8:34",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بە ژمارە و بە کێش بۆ هەمووی، و هەموو کێشەکە لە کاتی ئەودا نووسرا.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "بە ژمارە"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "بە کێش"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "و نووسرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "המשקל",
+      "gloss": "کێشەکە"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "لە کات"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:14:17.211238894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و مۆشە ئەهارۆن ⟨موسا⟩ ⟨את⟩ و کوڕەکانی ⟨את⟩ پێشکەش کرد و ⟨את⟩ ئەوانی بە ئاو شوش.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "و پێشکەشی کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەهارۆن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئەهارۆن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کوڕەکانی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "و شوش"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بە ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:42.228023605Z",
+  "model": "glm-5.3"
+}

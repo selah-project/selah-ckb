@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "من ⟨את⟩ هەموو کردارەکانم بینی کە کران لەژێر خۆردا، و ئەوەتا هەمووی هەڤەلە و ڕەنجی ڕۆحە.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو کردارەکان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "کردارەکان"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "کران"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هەمووی"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەڤەل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "و ڕەنج"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:38.443004023Z",
+  "model": "glm-5.3"
+}

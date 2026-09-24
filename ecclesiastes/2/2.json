@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "بۆ پێکەنین وتشم: شێتە، و بۆ شادی: ئەم ئەوەیە چی دەکات؟",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "بۆ پێکەنین"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "شێتە"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "و بۆ شادی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:08.888538712Z",
+  "model": "glm-5.3"
+}

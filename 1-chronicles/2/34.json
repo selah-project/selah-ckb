@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و بۆ شێشان کوڕ نەبوو، چونکە ⟨تەنها⟩ کچ بوون؛ و بۆ شێشان کۆیلەیەکی میتسرایی هەبوو و ناوی یارحا بوو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "بۆ شێشان"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨تەنها⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچ بوون"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "و بۆ شێشان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کۆیلەیەکی"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "میتسرایی"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "یارحا بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:08.640645001Z",
+  "model": "glm-5.3"
+}

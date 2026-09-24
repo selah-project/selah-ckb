@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 34:26",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "وەک چەوتوان پەقەیان لێدەدات، لە جێی بینەران.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "چەوتوان"
+    },
+    {
+      "surface": "ספקם",
+      "gloss": "پەقەیان لێدەدات"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "لە جێی"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "بینەران"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:43.621469266Z",
+  "model": "glm-5.3"
+}

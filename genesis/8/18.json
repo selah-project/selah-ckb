@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و نۆح دەرچوو، و کوڕەکانی، و ژنەکەی، و ژنانی کوڕەکانی، ⟨את⟩ لەگەڵ ئەو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆح"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "و ژنەکەی"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "و ژنانی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ لەگەڵ ئەو",
+      "marks": "نۆح"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:08.385213443Z",
+  "model": "glm-5.3"
+}

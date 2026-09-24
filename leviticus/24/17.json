@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و ئەگەر پیاوێک هەر گیانێکی مرۆڤێک بکوژێت، بە دڵنیاییەوە دەکوژرێت.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و ئەگەر پیاوێک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "بکوژێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیانێکی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤێک"
+    },
+    {
+      "surface": "מות",
+      "gloss": "بە دڵنیاییەوە"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "دەکوژرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:10:07.999914908Z",
+  "model": "glm-5.3"
+}

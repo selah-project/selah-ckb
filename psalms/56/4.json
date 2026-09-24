@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 56,
+  "translation": "ڕۆژێک کە دترسم، من بۆ تۆ پشتم دەبەستم.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژێک"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "دترسم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "پشتم دەبەستم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:41.939306388Z",
+  "model": "glm-5.3"
+}

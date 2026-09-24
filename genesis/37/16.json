@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و وت: ⟨את⟩ براکانم دەگەڕێم، تکایە بڵێ بۆم لە کوێ ئەوان مەڕ دەچەرخێنن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "براکانم"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "براکانم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "دەگەڕێم"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "لە کوێ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "مەڕدەچەرخێنن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:28:22.881151340Z",
+  "model": "glm-5.3"
+}

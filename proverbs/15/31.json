@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "گوێکە دەبیستێت تەنبیهی ژیان، لە نێو زانایاندا دەمێنێتەوە.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "گوێکە"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "دەبیستێت"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "تەنبیهی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "لە نێو"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "زانایاندا"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "دەمێنێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:28.337965616Z",
+  "model": "glm-5.3"
+}

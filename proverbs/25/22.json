@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "چونکە تۆ خەڵووز لەسەر سەری کەڵەکە دەکەیت، و یاهوە بەرامبەری بۆ تۆ دەداتەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "خەڵووز"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "کەڵەکە دەکەیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "دەداتەوە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:02.330134893Z",
+  "model": "glm-5.3"
+}

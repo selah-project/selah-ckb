@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 12:12",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "مە تکایە بێت وەک مردووێک کە لە دەرچوونی سکی دایکی نیوەی گۆشتی دەخورێت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "وەک مردووێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "لە دەرچوونی"
+    },
+    {
+      "surface": "مרחם",
+      "gloss": "سکی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "و دەخورێت"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیوەی"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گۆشتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:59.754172784Z",
+  "model": "glm-5.3"
+}

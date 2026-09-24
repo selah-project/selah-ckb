@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بێنایاهو پیراتۆنی، هیدای لە نەحەلەی گەعەش.",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "بێنایاهو"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "پیراتۆنی"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "هیدای"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "لە نەحەلەی"
+    },
+    {
+      "surface": "געש",
+      "gloss": "گەعەش"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:00.427992420Z",
+  "model": "glm-5.3"
+}

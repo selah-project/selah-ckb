@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "تامەکان بکەن و ببینن کە یاهوە چاکە؛ خۆزگە بەو پیاوەی کە پەنای بۆ دەبات.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "تامەکان بکەن"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "و ببینن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خۆزگە"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "بەو پیاوەی"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "پەنای بۆ دەبات"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:12.327018393Z",
+  "model": "glm-5.3"
+}

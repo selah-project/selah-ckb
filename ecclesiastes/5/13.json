@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و ئەو سامانە لە کارەساتێکی خراپدا لەناو دەچێت، و کوڕێکی دەبێت، و هیچ شتێک لە دەستیدا نییە.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "و لەناو دەچێت"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ئەو سامانە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "لە کارەساتێکی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "و بوویەوە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "لە دەستی"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هیچ شتێک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:04.695898556Z",
+  "model": "glm-5.3"
+}

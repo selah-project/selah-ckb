@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "مەهاوڕێیە لەگەڵ ⟨את⟩ خاوەن تووڕەیی، و لەگەڵ ⟨את⟩ پیاوی گیرودار ناچیت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "مەهاوڕێیە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خاوەن تووڕەیی"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "خاوەن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "پیاوی گیرودار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "گیرودار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "دێیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:04.042326822Z",
+  "model": "glm-5.3"
+}

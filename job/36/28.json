@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "کە هەورەکان دەچکەنەوە، بە زۆری لەسەر مرۆڤ دەڕێژن.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "دەچکەنەوە"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "هەورەکان"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "دەڕێژن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بە زۆری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:58.326399718Z",
+  "model": "glm-5.3"
+}

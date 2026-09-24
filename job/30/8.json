@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "کوڕانی نەفام، ھەروەھا کوڕانی بێ ناو — لە زەویەکەوە دەرکراون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نەفام"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ھەروەھا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "دەرکراون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:56.838856699Z",
+  "model": "glm-5.3"
+}

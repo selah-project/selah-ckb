@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بۆی هەزاران حوکمی تۆرام دەنووسم، وەک شتێکی بێگانە لە ژمارە کران.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "دەنووسم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "هەزاران"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "تۆرام"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بێگانە"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "لە ژمارە کران"
+    }
+  ],
+  "timestamp": "2026-09-24T13:29:43.150085233Z",
+  "model": "glm-5.3"
+}

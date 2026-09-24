@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "چونکە گوێ قسەکان تاقی دەکاتەوە، و تاو بۆ خواردن دەچێژێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوێ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "قسەکان"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "تاقی دەکاتەوە"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "و تاو"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "דەچێژێت"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "بۆ خواردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:45:21.665541637Z",
+  "model": "glm-5.3"
+}

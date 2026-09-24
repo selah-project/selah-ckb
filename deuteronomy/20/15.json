@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "هەر واش بۆ هەموو شارە دوورەکان لە تۆوە زۆر، کە لە شارەکانی ئەم گەلانە ئەمانە نین، دەیکەیت.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەیکەیت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شارەکان"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "دوورەکان"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆوە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نین"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "لە شارەکانی"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەمانە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:35.384172299Z",
+  "model": "glm-5.3"
+}

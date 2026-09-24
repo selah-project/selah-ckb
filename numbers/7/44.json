@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کاسۆڵێکی زێڕینی دە شێکڵ، پڕ لە بخوور.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کاسۆڵێکی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕینی"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخوور"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:53.063800814Z",
+  "model": "glm-5.3"
+}

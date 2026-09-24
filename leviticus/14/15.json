@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و کاهین لە لۆگی ڕۆنەکەوە دەگرێت و دەڕێژێتە سەر کۆڵەنی دەستی چەپی خۆی.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "و دەگرێت"
+    },
+    {
+      "surface": "هכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "لە لۆگی"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ڕۆنەکەوە"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "و دەڕێژێتە سەر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "כף",
+      "gloss": "کۆڵەنی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "دەستی کاهین"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "چەپی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:04:23.954830855Z",
+  "model": "glm-5.3"
+}

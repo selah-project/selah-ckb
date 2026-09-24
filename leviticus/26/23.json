@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و ئەگەر بە ئەمانە لای من تەربیە نەکرن و لەگەڵ من بە بەرەنگاریی بڕۆن،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "بە ئەمانە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "تەربیە نەکرن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "بڕۆن"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "لەگەڵ من"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "بەرەنگاریی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:28.618269014Z",
+  "model": "glm-5.3"
+}

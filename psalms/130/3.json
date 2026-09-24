@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 130,
+  "translation": "ئەگەر سەرپێچییەکان بپارێزیت، ئەی یاه، ئەی ئادۆنای، کێ ڕادەوەستێت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "سەرپێچییەکان"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "بپارێزیت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ڕادەوەستێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:54.325181100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و بەیت نیمرە و بەیت هارانیان دروستکرد — شارە قەڵادارەکان و ئاگاڵی مەڕ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بەیت نیمرە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "نیمرە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بەیت هاران"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شارە"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "قەڵادارەکان"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "و ئاگاڵی"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:34.621384376Z",
+  "model": "glm-5.3"
+}

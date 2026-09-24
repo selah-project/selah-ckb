@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "وای بۆ شاری خوێنەکان، هەمووی درۆ — تاڵان — پڕە، ڕاو ناکۆچێتەوە.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خوێنەکان"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "هەمووی"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "تاڵان"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "کۆچ dەکاتەوە"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ڕاو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:39:44.011311879Z",
+  "model": "glm-5.3"
+}

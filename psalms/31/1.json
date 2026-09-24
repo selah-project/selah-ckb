@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "بۆ ڕێبەر، مەزموورێک بۆ داود ⟨مۆشە? نا⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕێبەر"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموورێک"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:28.990173445Z",
+  "model": "glm-5.3"
+}

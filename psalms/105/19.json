@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "هەتا کاتی هاتنی وشەی ئەو — قسەی یاهوە ئەوی تاقی کردەوە.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتنی"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "وشەی ئەو"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "قسەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "ئەوی تاقی کردەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:09.407393234Z",
+  "model": "glm-5.3"
+}

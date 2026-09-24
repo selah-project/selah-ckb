@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "بێگوناهم، گیانم ناناسم، ژیانم بێزارە.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "بێگوناهم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "دەناسم"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "بێزارەم · ڕەت دەکەمەوە"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ژیانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:46.931649379Z",
+  "model": "glm-5.3"
+}

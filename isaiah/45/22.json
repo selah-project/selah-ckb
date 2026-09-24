@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "بەرەو من ڕوو بکەن و ڕزگار ببن، ئەی هەموو کۆتاییەکانی زەوی؛ چونکە من ئێلم و دیکە نییە.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "ڕوو بکەن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بەرەو من"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "و ڕزگار ببن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "کۆتاییەکانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیکە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:30:08.997638056Z",
+  "model": "glm-5.3"
+}

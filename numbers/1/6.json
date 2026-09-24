@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بۆ شیمئۆن ⟨شمعۆن⟩ شێلومیئێل کوڕی تسوڕیشادای.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "بۆ شیمئۆن ⟨شمعۆن⟩"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شێلومیئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "تسوڕیشادای"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:25.696717487Z",
+  "model": "glm-5.3"
+}

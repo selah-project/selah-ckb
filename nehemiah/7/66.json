@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "هەموو کۆڕەکە وەکوو یەک چوار دەهەزار دوو هەزار سێ سەد و شەست.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کۆڕەکە"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "وەکوو یەک"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "دەهەزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوو هەزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شەست"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:38.151884104Z",
+  "model": "glm-5.3"
+}

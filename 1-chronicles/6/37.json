@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "مەرایۆت ⟨مەرایۆت⟩ کوڕەکەی، ئەمەریا کوڕەکەی، ئەحیتووب کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مەرایۆت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ئەمەریا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ئەحیتووب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:28.093057903Z",
+  "model": "glm-5.3"
+}

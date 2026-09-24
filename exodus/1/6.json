@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و یوسێف مرد و هەموو برایانی و هەموو ئەو نەوەیە.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برایانی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ئەو نەوەیە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:13.992223691Z",
+  "model": "glm-5.3"
+}

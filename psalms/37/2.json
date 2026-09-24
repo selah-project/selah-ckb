@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "چونکو وەک گیا زوو دەبڕدرێن و وەک سەوزی هەڵدەرکە دەشێوێن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکو"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "وەک گیا"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "زوو"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "دەبڕدرێن"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "و وەک سەوزی"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "هەڵدەرکە"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "دەشێوێن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:27.667523693Z",
+  "model": "glm-5.3"
+}

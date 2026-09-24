@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و لەگەڵی دەمێنی چەند ڕۆژێک هەتا تووڕەیی برایت بگەڕێتەوە",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "و دەمێنی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوکاتێک"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "بگەڕێتەوە"
+    },
+    {
+      "surface": "חמات",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برایت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:50.573591980Z",
+  "model": "glm-5.3"
+}

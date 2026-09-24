@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "چونکە وشەکە زۆر نزیکە بۆ تۆ، لە دەمت و لە دڵتدا، بۆ کردنی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزیکە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "وشەکە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "لە دەمت"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "و لە دڵتدا"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "بۆ کردنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:48:14.925129472Z",
+  "model": "glm-5.3"
+}

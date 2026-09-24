@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە لیڤنا ⟨لێیان هەڵدایە⟩ و لە ڕیسا ⟨خێوەیان هێنا⟩",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و بەڕێ کەوتن"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "لە لیڤنا"
+    },
+    {
+      "surface": "ויחנو",
+      "gloss": "و خێوەیان هێنا"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "لە ڕیسا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:52.986534319Z",
+  "model": "glm-5.3"
+}

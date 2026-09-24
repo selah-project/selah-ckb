@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و قازانجی زەوی بۆ هەموو شتێکە؛ پاشا بۆ زەویەکە ⟨خزمەت⟩ دەکرێت.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "و قازانجی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "بۆ زەویەکە"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "خزمەت دەکرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:19.675342149Z",
+  "model": "glm-5.3"
+}

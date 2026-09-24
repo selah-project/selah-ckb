@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و بە دڵت دەزانیت کە وەک چۆن پیاوێک ⟨את⟩ کوڕەکەی ڕادەهێنێت، یاهوە ئێلۆهیمت تۆ ڕادەهێنێت.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "و دەزانیت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بە"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "دڵت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "ڕادەهێنێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕەکەی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "تۆ ڕادەهێنێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:59.019276077Z",
+  "model": "glm-5.3"
+}

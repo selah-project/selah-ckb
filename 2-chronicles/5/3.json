@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و هەموو پیاوی ئیسرائیل لای پادشا کۆبوونەوە لە جەژنەکەدا، ئەویش مانگی حەوتەمە.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "و کۆبوونەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "لە جەژنەکەدا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەویش"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "مانگی"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "حەوتەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:34:34.737191527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "چاوەکانی یاهوە زانیاری دەپارێزن و قسەکانی خیانەتکار دەڕووخێنن.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "چاوەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "دەپارێزن"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "و دەڕووخێنن"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "قسەکانی"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "خیانەتکار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:29.107570787Z",
+  "model": "glm-5.3"
+}

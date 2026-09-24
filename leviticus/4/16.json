@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و کاهینی چەورکراو لە خوێنی گوێرێیەکە بۆ ناو چادری چاوپێکەوتن دەهێنێت.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "و دەهێنێت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهینی"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "چەورکراو"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "لە خوێنی"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گوێرێیەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چادری"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:51.735648880Z",
+  "model": "glm-5.3"
+}

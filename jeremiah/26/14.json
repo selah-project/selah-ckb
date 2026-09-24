@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 26:14",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و من، ئەمە من لە دەستتاندام؛ بەوەم بۆ بکەن کە چاک و ڕاستە لە چاوتاندا.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ئەمە من"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "لە دەستتاندا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "بکەن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بەمن"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "وەک چاک"
+    },
+    {
+      "surface": "וכישר",
+      "gloss": "و ڕاست"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "لە چاوتاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:49:56.764691057Z",
+  "model": "glm-5.3"
+}

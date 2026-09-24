@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بئێرۆتییەکان بەرەو گیتایم هەڵاتن و لەوێ میوان بوون تا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "هەڵاتن"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "بئێرۆتییەکان"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "بەرەو گیتایم"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "میوان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:32:23.507774891Z",
+  "model": "glm-5.3"
+}

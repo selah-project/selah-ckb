@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و بێت پەئۆر و لێژاییەکانی هەپیسگا و بێت هایشیمۆت.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "و بێت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "پەئۆر"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "و لێژاییه‌کانی"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "هەپیسگا"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بێت"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "هایشیمۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:48.697762174Z",
+  "model": "glm-5.3"
+}

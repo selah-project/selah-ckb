@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 38:11",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "وتم: یاحی نابینم، یاه، لە زەوی ژیاندایە؛ مرۆڤیش ئیتر تەماشا ناکەم لەگەڵ دانیشتووانی حەدەل.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "دەبینم"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "تەماشا دەکەم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "حەدەل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:24:36.277954138Z",
+  "model": "glm-5.3"
+}

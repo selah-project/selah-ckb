@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و هەموو گەلەکانی زەوی دەبینن کە ناوی یاهوە لەسەر تۆ ناونراوە و لە تۆ دەترسن.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "و دەبینن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەلەکانی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ناونراوە"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەر تۆ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "و دەترسن"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:33.135699233Z",
+  "model": "glm-5.3"
+}

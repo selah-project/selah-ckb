@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "هەموو شوێنێک کە تەختەی پێی ئێوە لەسەری دەنێتەوە، من بە ئێوە دامەوە، وەک چۆن قسەم کرد بە مۆشە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێنێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "دەنێتەوە"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تەختەی"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "پێی ئێوە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بە ئێوە"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "دامەوە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "قسەم کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:53:03.001127941Z",
+  "model": "glm-5.3"
+}

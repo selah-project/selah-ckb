@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "«و حەسەر شوئال و بێر شێڤا و بزیۆتیە»",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "و حەسەر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوئال"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "و بێر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شێڤا"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "و بزیۆتیە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:57.026383414Z",
+  "model": "glm-5.3"
+}

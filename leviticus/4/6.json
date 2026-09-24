@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و کاهین پەنجەی ⟨את⟩ لە خوێنەکەدا دەنوێت و لە خوێنەکەوە حەوت جار لەبەردەم یاهوە بەر ڕووی پەردەی پیرۆزەکە ⟨את⟩ دەفشێنێت.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "دەنوێت"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەنجە"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "پەنجەی"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "لە خوێن"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "دەفشێنێت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خوێنەکە"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "جار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "پەردەی"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:42.826033038Z",
+  "model": "glm-5.3"
+}

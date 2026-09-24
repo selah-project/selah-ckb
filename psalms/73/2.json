@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 73,
+  "translation": "و من — زۆر کەم پێیەکانم مەیل دران، وەک هیچ هەنگاوەکانم ڕێژران.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "زۆر کەم"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "مەیل دران"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پێیەکانم"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "وەک هیچ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ڕێژران"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "هەنگاوەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:33.974926346Z",
+  "model": "glm-5.3"
+}

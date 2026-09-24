@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 7:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لەناکاو بەدوایدا دەڕوات، وەک گاڵەیەک بۆ سەربڕین دێت، و وەک زنجیرێک بۆ سزای نەفام.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "بەدوایدا"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "لەناکاو"
+    },
+    {
+      "surface": "כשור",
+      "gloss": "وەک گاڵەیەک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "سەربڕین"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "וכעכס",
+      "gloss": "و وەک زنجیرێک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "سزا"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نەفام"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:21.006408649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و دە براکانی یوسێف دابەزین بۆ کڕینی دانەوێڵە لە میتسرایمەوە.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "و دابەزین"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "براکانی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "بۆ کڕینی"
+    },
+    {
+      "surface": "בר",
+      "gloss": "دانەوێڵە"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "لە میتسرایمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:05.454235671Z",
+  "model": "glm-5.3"
+}

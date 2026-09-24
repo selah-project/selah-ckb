@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 81,
+  "translation": "چونکە یاسا بۆ یسرائیل خۆیەتی، فەرمانی ئێلۆهیمی یاعکۆڤ ⟨یاقوب⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חק",
+      "gloss": "یاسا"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "بۆ یسرائیل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خۆیەتی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فەرمان"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "لە ئێلۆهیمی"
+    },
+    {
+      "surface": "یעקב",
+      "gloss": "یاعکۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:45.089732191Z",
+  "model": "glm-5.3"
+}

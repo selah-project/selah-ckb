@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کوڕەکانی حێڤرۆن: قۆرەح و تەپوح و رەقێم و شەماع.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حێڤرۆن"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قۆرەح"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "و تەپوح"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "و رەقێم"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "و شەماع"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:26.403362217Z",
+  "model": "glm-5.3"
+}

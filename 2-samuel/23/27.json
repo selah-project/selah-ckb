@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئەبیعەزەر ⟨عەناتۆتی⟩، مەڤونای ⟨حوشاتی⟩،",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "ئەبیعەزەر"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "⟨عەناتۆتی⟩"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "مەڤونای"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "⟨حوشاتی⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:51.997223283Z",
+  "model": "glm-5.3"
+}

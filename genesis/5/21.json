@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و خەنوخ پێنج و شەست ساڵ ژیا و بووە باوکی ⟨את⟩ مەتووشەلەخی",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خەنوخ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شەست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بووە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەتووشەلەخ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مەتووشەلەخ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:59.193342765Z",
+  "model": "glm-5.3"
+}

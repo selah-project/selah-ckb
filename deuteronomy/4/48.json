@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "لە عاروعێر کە لەسەر لێواری نەحاڵی ئارنۆنە، هەتا چیای سییۆن — ئەوە خود حەرمۆنە.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "لە عاروعێر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لێواری"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نەحاڵی"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ئارنۆن"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "سییۆن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە خود"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حەرمۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:29.317938030Z",
+  "model": "glm-5.3"
+}

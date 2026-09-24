@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "شەوازی گەنجان هێزیانیانە، و شکۆی پیران سپییەکیە.",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "شەواز"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "گەنجان"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "هێزیانیانە"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "و شکۆ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "سپی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:01.305200547Z",
+  "model": "glm-5.3"
+}

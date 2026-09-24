@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "ئاسمانەکان و زەوی ستایشی دەکەن، دەریاکان و هەموو خشۆکێک لەوان.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "ستایشی دەکەن"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمانەکان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "و زەوی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دەریاکان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "خشۆک"
+    },
+    {
+      "surface": "בם",
+      "gloss": "لەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:26.103977887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "چاوەکان لە شەراب ڕەون و ددانەکان لە شیر سپین.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "ڕەون"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چاوەکان"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "لە شەراب"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "و سپین"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ددانەکان"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "لە شیر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:14.179504515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "بە شایەتییەکانتەوە لکاوتم، ئەی یاهوە، شەرمم مەکە.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "لکاوتم"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "بە شایەتییەکانتەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەکە"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "شەرمم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:40.211462119Z",
+  "model": "glm-5.3"
+}

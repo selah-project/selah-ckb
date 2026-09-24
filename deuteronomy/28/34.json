@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و تۆ لە دیدنی چاوەکانت، لەوەی دەیبینیت، شێت دەبیت.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "و دەبیت"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "شێت"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "لە دیدنی"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "چاوەکانت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "لەوەی"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "دەیبینیت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:37.551351042Z",
+  "model": "glm-5.3"
+}

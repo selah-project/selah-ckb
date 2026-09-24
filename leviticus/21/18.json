@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "چونکە هەر پیاوێک کە کێشەیی ⟨لە⟩دایە نزیک نەبێتەوە — پیاوی کوێر یان شل یان لووتبڕ یان زۆراندام.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە"
+    },
+    {
+      "surface": "מום",
+      "gloss": "کێشە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەبێتەوە"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "نزیک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "עור",
+      "gloss": "کوێر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "شل"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "لووتبڕ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "زۆراندام"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:26.468723616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "یاهوە تۆ ببەخشێت و تۆ بپارێزێت،",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "تۆ ببەخشێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "و تۆ بپارێزێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:47.071012360Z",
+  "model": "glm-5.3"
+}

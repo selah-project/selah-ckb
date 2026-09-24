@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "شایەتی درۆیان دەسڕێتەوە، و پیاوی گوێگر بۆ هەمیشە قسە دەکات",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شایەتی"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "درۆیان"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "دەسڕێتەوە"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوی"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "گوێگر"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "قسە دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:03.998915654Z",
+  "model": "glm-5.3"
+}

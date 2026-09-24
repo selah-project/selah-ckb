@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و مۆشە ⟨موسا⟩ وتی بە ئاھارۆن و بە کوڕەکانی و بە هەموو کوڕەکانی ئیسرائیل ⟨ئیسڕائیل⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاھارۆن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بە"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:43.551312176Z",
+  "model": "glm-5.3"
+}

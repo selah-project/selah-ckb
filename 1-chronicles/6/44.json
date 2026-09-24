@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ عاشان و ⟨את⟩ مەگراشەکانی، و ⟨את⟩ بەیت شێمێش و ⟨את⟩ مەگراشەکانی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عاشان"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "عاشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەگراشەکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەگراشەکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بەیت شێمێش"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شێمێش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەگراشەکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەگراشەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:11.926270396Z",
+  "model": "glm-5.3"
+}

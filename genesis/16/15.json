@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و هاغار ⟨هاجەر⟩ بۆ ئاڤraham ⟨ئەبرام⟩ کوڕێکی لەدایک کرد، و ئاڤraham ناوی کوڕەکەی نا، ئەوەی هاغار لەدایکی کرد: ییشماعێل ⟨ئیسماعیل⟩.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و لەدایکی کرد"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاغار"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "بۆ ئاڤraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ئاڤraham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "لەدایکی کرد"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاغار"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ییشماعێل"
+    }
+  ],
+  "timestamp": "2026-09-24T09:16:22.967686927Z",
+  "model": "glm-5.3"
+}

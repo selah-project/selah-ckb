@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 29:27",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "ئەم هەفتەیە پڕ بکە، و ئەمەش ⟨את⟩ بۆ تۆ دەدرێت، بە خزمەتێک کە هێشتا حەوت ساڵی دیکە لەگەڵ من دەیکەیت.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "پڕ بکە"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "هەفتەیەک"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "و دەدرێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەمە (راچێل)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "بە خزمەتێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "دەیکەیت"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لەگەڵ من"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "دیکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:32.837208943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "لەبەر ئەوە نابێت بۆ تۆ فڕێدەری ڕیسمانی پێوانە بە قورعاشی لە کۆڕی یاهوە.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لەبەر ئەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "فڕێدەر"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ڕیسمانی پێوانە"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "بە قورعاشی"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "لە کۆڕی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:37:11.524762323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 72,
+  "translation": "چیاكان ئاشتی بۆ گەل هەڵدەگرن و گردەكان بە دادپەروەری.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "هەڵدەگرن"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "چیاكان"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "بۆ گەل"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "و گردەكان"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "بە دادپەروەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:29.247984846Z",
+  "model": "glm-5.3"
+}

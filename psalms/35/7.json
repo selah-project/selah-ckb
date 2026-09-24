@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "چونکە بێ هۆ بۆم چاڵەکە و تۆریان شاردۆتەوە، بێ هۆ بۆ گیانی من هەڵکەندن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بێ هۆ"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "شاردۆتەوە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "چاڵەکە"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "تۆریان"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بێ هۆ"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "هەڵکەندن"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "بۆ گیانی من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:46.862474249Z",
+  "model": "glm-5.3"
+}

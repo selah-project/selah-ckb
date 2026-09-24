@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و مۆشە لای یاهوە هاواری کرد بۆ وتن چی بکەم بۆ گەلی ئەمە دیسان کەمێک و بەردبارانم دەکەن",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "و هاواری کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "بکەم"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "بۆ گەل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دیسان"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کەمێک"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "و بەردبارانم دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:20.295883448Z",
+  "model": "glm-5.3"
+}

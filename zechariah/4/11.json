@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 4:11",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و وەڵامم دایەوە و بۆم وت چی ئەم دوو زەیتوونەیە لە لای ڕاستی چرا و لە لای چەپی؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "و وەڵامم دایەوە"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "زەیتوونەکانی"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "لای ڕاستی"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "שמאולה",
+      "gloss": "لای چەپی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:43:53.233987129Z",
+  "model": "glm-5.3"
+}

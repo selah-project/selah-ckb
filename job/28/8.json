@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "نە کوڕەکانی لووکە هەنگاوی پێ نەنابوون، نە شێ پێی تێپەڕیوە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "هەنگاوی پێ نەنابوون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "لووکە"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "تێپەڕیوە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شێ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:17.636814434Z",
+  "model": "glm-5.3"
+}

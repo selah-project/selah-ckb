@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و یۆسەف بە باوکی‌ی وت: نا، با من، چونکە ئەمە یەکەم‌زایە؛ دەستی ڕاستت لەسەر سەری‌ی دابنێ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسەف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وای"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "با من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "یەکەم‌زا"
+    },
+    {
+      "surface": "שים",
+      "gloss": "دابنێ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "دەستی ڕاستت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سەری"
+    }
+  ],
+  "timestamp": "2026-09-24T09:34:38.204565705Z",
+  "model": "glm-5.3"
+}

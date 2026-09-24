@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ژنەکەی لە پشتیەوە سەیری کردەوە و بوو ⟨بە⟩ ستوونی خوێ",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "سەیری کردەوە"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنەکەی"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "لە پشتیەوە"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ستوونی"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "خوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:17:38.656391870Z",
+  "model": "glm-5.3"
+}

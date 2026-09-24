@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "بیابان بۆ دەریاچەی ئاو دادەنێت و زەوی وشک بۆ سەرچاوەکانی ئاو",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "دادەنێت"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "بۆ دەریاچەی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "و زەوی"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "وشک"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "بۆ سەرچاوەکانی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:08.270024278Z",
+  "model": "glm-5.3"
+}

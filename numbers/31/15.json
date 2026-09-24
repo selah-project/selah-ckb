@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "مۆشە پێیان فەرموو: ئایا هەموو مێینەکانتان زیندوو هێشتەوە؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "زیندوو هێشتەوەتان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مێینەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:01.433812759Z",
+  "model": "glm-5.3"
+}

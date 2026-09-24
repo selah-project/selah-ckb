@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "و ڕووەکەت مەشارەوە لە بەندەکەت چونکە تەنگە بە من خێرا وەڵامم بدەرە",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و نەخێر"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "مەشارەوە"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووەکەت"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "لە بەندەکەت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تەنگە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "خێرا"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "وەڵامم بدەرە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:09.693613813Z",
+  "model": "glm-5.3"
+}

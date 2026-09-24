@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 13:6",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و دەڵێت پێی: ئەو برینانەی نێوان دەستەکانت چییە؟ و دەڵێت: ئەوانەی لێدرام لە ماڵی خۆشەویستانم.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چییە"
+    },
+    {
+      "surface": "המכות",
+      "gloss": "ئەو برینانەی"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בין",
+      "gloss": "نێوان"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "دەستەکانت"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "لێدرام"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "מאהבי",
+      "gloss": "خۆشەویستانم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:05.448358819Z",
+  "model": "glm-5.3"
+}

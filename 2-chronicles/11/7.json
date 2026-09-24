@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ بەیت سور و ⟨את⟩ سوخو و ⟨את⟩ عەدولام.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بەیت سور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "صור",
+      "gloss": "سور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سوخو"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "سوخو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەدولام"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عەدولام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:00.569193300Z",
+  "model": "glm-5.3"
+}

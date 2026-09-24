@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "گوێی بیستن و چاوی بینین، یاهوە هەردووکیانی دروست کردووە.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "گوێی"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "بیستن"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "و چاوی"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "بینین"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دروست کردووە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "هەردووکیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:33.144629617Z",
+  "model": "glm-5.3"
+}

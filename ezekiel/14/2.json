@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و وشەی یاهوە هاتە لام بەمەش:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەمەش"
+    }
+  ],
+  "timestamp": "2026-09-24T13:09:12.895587571Z",
+  "model": "glm-5.3"
+}

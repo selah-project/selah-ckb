@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 75,
+  "translation": "وتم بە شێتەکان، شێتی مەکەن، و بە خراپەکاران، قەچ بەرز مەکەن.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "بە شێتەکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "شێتی مەکەن"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "و بە خراپەکاران"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "بەرز مەکەن"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "قەچ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:34.456392964Z",
+  "model": "glm-5.3"
+}

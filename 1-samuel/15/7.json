@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و شائول لێیدا ⟨את⟩ عەمالەک، لە حەویلا بەڕێی بۆ شور، کە لە بەردەم میتسرایمدایە.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "و لێیدا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەمالەک"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عەمالەک"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "لە حەویلا"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "بەڕێی بۆ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "بەردەم"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:22:45.747438395Z",
+  "model": "glm-5.3"
+}

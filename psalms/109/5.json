@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "و لە سەر من شەریان دانا لە جیاتی چاکە، و ڕق لە جیاتی خۆشەویستیی من.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "و شەریان دانا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لە سەر من"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شەر"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە جیاتی"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "و ڕق"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لە جیاتی"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "خۆشەویستیی من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:53.911490743Z",
+  "model": "glm-5.3"
+}

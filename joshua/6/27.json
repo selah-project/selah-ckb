@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و یاهوە ⟨את⟩ لەگەڵ یەهۆشوا بوو، و ناوبانگی لە هەموو زەویەکەدا بوو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ لەگەڵ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهۆشوا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ناوبانگی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:54:09.495725937Z",
+  "model": "glm-5.3"
+}

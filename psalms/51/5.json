@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "چونکە سەرپێچیەکانم دەزانم، و چەوتیی من هەمیشە لەبەردەمدایە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "سەرپێچیەکانم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "دەزانم"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "و چەوتیی من"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "لەبەردەمدایە"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:07.870054846Z",
+  "model": "glm-5.3"
+}

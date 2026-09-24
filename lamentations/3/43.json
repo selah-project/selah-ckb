@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بە تووڕەیی داپۆشیوتەوە و ڕاومانکێشی، کوشتوت، بەزێنت نەکرد.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "داپۆشیوتەوە"
+    },
+    {
+      "surface": "באף",
+      "gloss": "بە تووڕەیی"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "و ڕاومانکێشی"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "کوشتوت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "بەزێنت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:32.874886143Z",
+  "model": "glm-5.3"
+}

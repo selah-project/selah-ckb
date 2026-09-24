@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و قژی سەری دەستی پێکرد بە گەشەکردن، وەک کە شورا کرابوو.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "دەستی پێکرد بە"
+    },
+    {
+      "surface": "שער",
+      "gloss": "قژ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "گەشەکردن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک کە"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "شورا کرا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:12:37.849647165Z",
+  "model": "glm-5.3"
+}

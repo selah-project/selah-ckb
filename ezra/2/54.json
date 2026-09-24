@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی نەتسیاح، کوڕەکانی حەتیفا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نەتسیاح"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "حەتیفا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:10:39.540755431Z",
+  "model": "glm-5.3"
+}

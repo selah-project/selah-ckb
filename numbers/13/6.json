@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بۆ هۆزی یێهودا کالێڤ کوڕی یێفونێه.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یێهودا"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالێڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یێفونێه"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:40.143393172Z",
+  "model": "glm-5.3"
+}

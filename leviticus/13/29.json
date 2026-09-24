@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و پیاو یان ئافرەت کە لە ئەویدا نەگەع بێت، لە سەر یان لە ڕیش.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئافرەت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە ئەویدا"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "نەگەع"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "لە سەر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "لە ڕیش"
+    }
+  ],
+  "timestamp": "2026-09-24T10:05:01.499720090Z",
+  "model": "glm-5.3"
+}

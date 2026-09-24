@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ئەییۆب وەڵامی دایەوە و وت.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و وەڵامی دایەوە"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئەییۆب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:34:08.619605883Z",
+  "model": "glm-5.3"
+}

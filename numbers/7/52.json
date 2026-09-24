@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بەرخێکی مێز یەکێک بۆ قوربانیی تاوان",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بەرخێکی مێز"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "بۆ قوربانیی تاوان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:53:03.928301084Z",
+  "model": "glm-5.3"
+}

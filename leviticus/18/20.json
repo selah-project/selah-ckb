@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و لەگەڵ ژنی هاوڕێکت شەوەخەوتنی خۆت مەدە بۆ تۆو، بۆ پیسبوون بە.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "هاوڕێکت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "مەدە"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "شەوەخەوتنی خۆت"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "بۆ تۆو"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "بۆ پیسبوون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:06:11.160872755Z",
+  "model": "glm-5.3"
+}

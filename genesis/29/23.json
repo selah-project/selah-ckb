@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لە ئێوارەدا بوو کە ⟨את⟩ لیا کچەکەی وەرگرت و ⟨את⟩ ئەوی هێنا بۆ لای خۆی، و چووە خۆیەوە.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "لە ئێوارەدا"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و وەرگرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لیا کچەکەی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیا"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "کچەکەی"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هێنا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ئەوی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ لای خۆی"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:45.773425066Z",
+  "model": "glm-5.3"
+}

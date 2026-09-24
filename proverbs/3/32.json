@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چونکە نالووسەکە دڵتەنگی یاهوەیە، و لەگەڵ ڕاستەکان ⟨את⟩ نهێنیی ئەو ⟨هەیە⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "دڵتەنگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "نالووسەکە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ڕاستەکان"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ڕاستەکان"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "نهێنیی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:12.548274584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "تێگەیشتبوو کە بازرگانییەکەی چاکە، گوێزەکەی لە شەودا ناکوژێتەوە.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "تێگەیشتبوو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "بازرگانییەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "دەکوژێتەوە"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "لە شەودا"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "گوێزەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:12.661284991Z",
+  "model": "glm-5.3"
+}

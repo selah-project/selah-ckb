@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 13:17",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و مەنوح بە فریشتەی یاهوە وت: ناوت چییە؟ چونکە کاتێک قسەکەت دێتە دی، ئێمە تۆ دەپەرستین.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مەنوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فریشتەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چی"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "قسەکەت"
+    },
+    {
+      "surface": "וכבדנוך",
+      "gloss": "و دەپەرستین"
+    }
+  ],
+  "timestamp": "2026-09-24T11:10:22.960100136Z",
+  "model": "glm-5.3"
+}

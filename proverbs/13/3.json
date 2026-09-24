@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "پارێزەری دەمی خۆی، گیانی خۆی دەپارێزێت؛ ڕەوێنەری لێوەکانی، ڕووخانی بۆ ئەو.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "پارێزەری"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "دەمی خۆی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "دەپارێزێت"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی خۆی"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "ڕەوێنەری"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ڕووخان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:07.130678727Z",
+  "model": "glm-5.3"
+}

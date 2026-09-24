@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کوڕەکانی یاداع برای شەممای یێتێر و یۆناتان ⟨بوون⟩، و یێتێر بەبێ کوڕ مرد.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "یاداع"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شەممای"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یێتێر"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "و یۆناتان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یێتێر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:31.490340988Z",
+  "model": "glm-5.3"
+}

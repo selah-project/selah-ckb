@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 33:20",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و ژیانی نان بێزار دەبێت و گیانی خواردنی خۆشەویست",
+  "tokens": [
+    {
+      "surface": "וזהמתו",
+      "gloss": "و بێزار دەبێت"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ژیانی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "و گیانی"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "خواردنی"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "خۆشەویست"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:08.089974090Z",
+  "model": "glm-5.3"
+}

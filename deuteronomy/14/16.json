@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "⟨את⟩ کۆس و ⟨את⟩ یەنشووف و تینشەمەت",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کۆس"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "کۆس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یەنشووف"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "یەنشووف"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "و تینشەمەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:00.087516144Z",
+  "model": "glm-5.3"
+}

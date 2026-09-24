@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "یادکردنەوەی ئەو لە زەویەوە لەناوچووە، و ناوێکی نییە بۆی لەسەر ڕووی دەرەوە.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "یادکردنەوەی"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "لەناوچووە"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەویەوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "دەرەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:07.547856282Z",
+  "model": "glm-5.3"
+}

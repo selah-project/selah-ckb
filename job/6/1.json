@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ئییۆڤ ⟨مەزدەر⟩ وەڵامی دایەوە و وت:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "وەڵامی دایەوە"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ئییۆڤ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:28.768260801Z",
+  "model": "glm-5.3"
+}

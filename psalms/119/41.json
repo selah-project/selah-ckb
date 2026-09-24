@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "و حەسەدی تۆ بگاتە من ئەی یاهوە ڕزگاریت وەک وتەی تۆ.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "و بگاتە من"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حەسەدی تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ڕزگاریت"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "وەک وتەی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:11.191103Z",
+  "model": "glm-5.3"
+}

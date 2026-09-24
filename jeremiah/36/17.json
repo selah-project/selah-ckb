@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و ⟨את⟩ باروخیان پرسیار کرد، کوتیان: بڵێ بۆمان، چۆن ⟨את⟩ هەموو ئەم وشەانەت لە دەمی نووسییەوە؟",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "باروخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "پرسیاریان کرد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کوتیان"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تۆرامە"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆمان"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "نووسیتەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "وشەکان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "لە دەمی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:55:26.944964152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ڕوویدا کە مرۆڤ دەستی پێکرد زۆر بێت لەسەر ڕووی زەویەکە، و کچان بۆیان لەدایک بوون.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و ڕوویدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "החל",
+      "gloss": "دەستی پێکرد"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بۆ زۆربوون"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "لەدایک بوون"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:42.508827196Z",
+  "model": "glm-5.3"
+}

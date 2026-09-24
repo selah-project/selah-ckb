@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "میشما، و دوما، مەسا، حەداد، و تێما.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "میشما"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "و دوما"
+    },
+    {
+      "surface": "משא",
+      "gloss": "مەسا"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "حەداد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "و تێما"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:04.216100813Z",
+  "model": "glm-5.3"
+}

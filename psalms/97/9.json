@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 97,
+  "translation": "چونکە تۆ یاهوە بەرزتری لەسەر هەموو زەوی، زۆر بەرز کەرایەوە لەسەر هەموو خوداکان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "بەرزتر"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "بەرز کەرایەوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خوداکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:32.847342286Z",
+  "model": "glm-5.3"
+}

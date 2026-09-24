@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 59,
+  "translation": "ئەوان ئاوارەن بۆ خواردن، ئەگەر تێر نەبن — و بە شەو دەمێننەوە.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ئاوارەن"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "بۆ خواردن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "تێر بن"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "و بە شەو دەمێننەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:32.927272212Z",
+  "model": "glm-5.3"
+}

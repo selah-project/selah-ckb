@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بەزی دەدات لە خۆڵ دەمی، ڕەنگە چاوەڕوانی هەبێت.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "لە خۆڵ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ڕەنگە"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەبێت"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "چاوەڕوانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:59.128619955Z",
+  "model": "glm-5.3"
+}

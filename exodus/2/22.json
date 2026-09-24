@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کوڕێکی بوو، و ⟨את⟩ ناوەکەی نا گێرشۆم، چونکە وت: غەریب بووم لە زەویێکی نامۆ.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێک"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناوەکەی نا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناوەکەی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوەکەی"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گێرشۆم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غەریب"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "نامۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:36:53.489104616Z",
+  "model": "glm-5.3"
+}

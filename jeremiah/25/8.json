@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "بۆیە بەم شێوەیە یاهوەی سەڤائۆت فەرمووی: چونکە گوێم لێمنت نەگرت ⟨את⟩ وشەکانم،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "بۆیە"
+    },
+    {
+      "surface": "כה",
+      "gloss": "بەم شێوەیە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەی"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "יען",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "گوێم لێمنت نەگرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەکانم"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:48:32.094232060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "هەموو بێوەژنێک و هەتیوێک بە ئەزیەت مەدەن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بێوەژنێک"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "و هەتیوێک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ئەزیەتی بدەن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:00.917465657Z",
+  "model": "glm-5.3"
+}

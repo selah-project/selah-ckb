@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "پاشا لەسەر تەختی داد دادەنیشێت، بە چاوەکانی هەموو خراپە دەپەرکێنێت.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "دادەنیشێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تەختی"
+    },
+    {
+      "surface": "דין",
+      "gloss": "داد"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "دەپەرکێنێت"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "بە چاوەکانی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:11.689014796Z",
+  "model": "glm-5.3"
+}

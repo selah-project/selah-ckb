@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "لە زۆریی قسەکان سەرپێچی ناکۆتا دێت، و ڕاگرتووی لێوەکانی خۆی زیرەکە.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "لە زۆریی"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "قسەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "نادەوەستێت"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "سەرپێچی"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "و ڕاگرتووی"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لێوەکانی خۆی"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "زیرەک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:18.588168057Z",
+  "model": "glm-5.3"
+}

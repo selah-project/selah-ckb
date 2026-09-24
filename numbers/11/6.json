@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئێستا گیانمان وشکە، هیچ نییە، جگە لە مان بەرچاومان.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "گیانمان"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "وشکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "جگە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "המן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "بەرچاومان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:46.420223064Z",
+  "model": "glm-5.3"
+}

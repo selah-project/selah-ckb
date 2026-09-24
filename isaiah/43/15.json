@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "من یاهوەم، پیرۆزی ئێوە، ئافرەری ییسرائێل، پاشای ئێوە.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "پیرۆزی ئێوە"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "ئافرەری"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائێل"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "پاشای ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:27:03.147005581Z",
+  "model": "glm-5.3"
+}

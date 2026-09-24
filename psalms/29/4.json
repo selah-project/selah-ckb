@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "دەنگی یاهوە بە توانا ⟨ـە⟩، دەنگی یاهوە بە جەلەڵ ⟨ـە⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "بە توانا"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "بە جەلەڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:15.440522735Z",
+  "model": "glm-5.3"
+}

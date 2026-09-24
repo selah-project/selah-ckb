@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "با چیای زیۆن شاد بێت، کچەکانی یەهودا دڵخۆش بن، لەبەر حوکمەکانت.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "شاد بێت"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زیۆن"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "دڵخۆش بن"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچەکانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "حوکمەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:37.352747065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "هەموو کوڕانی پێرێت ⟨کە⟩ لە یەروشالەم دەژیان چوار سەد شەست و هەشت پیاوی چالاک بوون",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پێرێت"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "⟨کە⟩ دەژیان"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە یەروشالەم"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شەست"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "چالاک"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:04.523966386Z",
+  "model": "glm-5.3"
+}

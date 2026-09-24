@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و پاشا پێی فەرموو: بە سڵاو بڕۆ، و ⟨ئەو⟩ ڕاوەستا و چوو حەبرۆنەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "بە سڵاو"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "و ڕاوەستا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "حەبرۆنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:37:57.802514830Z",
+  "model": "glm-5.3"
+}

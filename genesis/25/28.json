@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ئیسحاق خۆشبووی ⟨את⟩ عیساو چونکە ڕاو لە دەمیدا بوو، و ڕیبکە خۆشبووی ⟨את⟩ یەعقوب بوو.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "و خۆشبووی"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ئیسحاق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عیساو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "ڕاو"
+    },
+    {
+      "surface": "بפיו",
+      "gloss": "لە دەمیدا"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "و ڕیبکە"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "خۆشبووی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەعقوب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:01.242291586Z",
+  "model": "glm-5.3"
+}

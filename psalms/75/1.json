@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 75,
+  "translation": "بۆ سەرپەرشتیار، «مە تێکدە»، مەزموورێکی ئاساف، گۆرانی.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ سەرپەرشتیار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "تێک دەدە"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "بۆ ئاساف"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گۆرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:47.464101975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 24:36",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و سارا ژنی ئاغام لە دوای پیربوونیدا کوڕێکی بۆ ئاغام بووەوە، و دا بەو ⟨את⟩ هەموو ئەوەی هی خۆی.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "و بووەوە"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئاغام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "بۆ ئاغام"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "זקנתה",
+      "gloss": "پیربوونیدا"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بەو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەوەی هی خۆی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:47.846289648Z",
+  "model": "glm-5.3"
+}

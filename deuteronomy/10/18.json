@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "دادپەروەری بێباوک و بێوەژن ئەنجام دەدات و غەریب خۆش دەوێت ⟨کە⟩ نان و جل بۆ ئەو دەدات.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ئەنجام دەدات"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "بێباوک"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "و بێوەژن"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "و خۆش دەوێت"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غەریب"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "بۆ دان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "و جل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:36.465779531Z",
+  "model": "glm-5.3"
+}

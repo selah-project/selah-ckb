@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "⟨את⟩ قەینی و ⟨את⟩ قەنیزی و ⟨את⟩ قەدمۆنی،",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قەینی"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "قەینی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "قەنیزی"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "قەنیزی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "قەدمۆنی"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "قەدمۆنی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:16:08.822317281Z",
+  "model": "glm-5.3"
+}

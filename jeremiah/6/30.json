@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "زێڕی پەسندنەکراو پێیان دەوترێت، چونکە یەهۆڤا ڕایدەكوشێت.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "زێڕی"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "پەسندنەکراو"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "دەوترێت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ڕایدەكوشێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یەهۆڤا"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "یان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:25.147799226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "چەند جوانی و چەند خۆشی، ئەی خۆشەویستی، لە خۆشییەکانیدا!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چەند"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "خۆشی"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ئەی خۆشەویستی"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "لە خۆشییەکانیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:57.041743611Z",
+  "model": "glm-5.3"
+}

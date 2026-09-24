@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئەوەی بووە لەمەوبەر ناوی ناونراوە و ناسراوە کە ئەو ئادەمە؛ و ناتوانێت لەگەڵ ئەوەی لە خۆی بەهێزترە دادگەری بکات.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "لەمەوبەر"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ناونراوە"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "و ناسراوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "دەتوانێت"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "دادگەریکردن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "ئەوەی بەهێزترە"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لە خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:11.770533821Z",
+  "model": "glm-5.3"
+}

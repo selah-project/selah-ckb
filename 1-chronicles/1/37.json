@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کوڕەکانی ڕەئوەیل ⟨موسا⟩: نەحات، زەرەح، شەمما و میزە.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ڕەئوەیل ⟨موسا⟩"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "نەحات"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زەرەح"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شەمما"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "و میزە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:29.372853141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و یاهوە فەرمووی بە مۆشە و وت:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و وت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:37:02.170695980Z",
+  "model": "glm-5.3"
+}

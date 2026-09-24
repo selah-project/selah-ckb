@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "ئەوەی زەوییەکەی دەکات بە نان دەسیرێتەوە، و ئەوەی دوای بەتاڵەکان دەکەوێت بێ دڵە.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "زەوییەکەی"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "دەسیرێتەوە"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "و دوای…دەکەوێت"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "بەتاڵەکان"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:32.126687938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 63,
+  "translation": "بۆچی سوورە جلەکەت، و جلەکانت وەک لێیدەرێکی لە حەوزی مێی؟",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "سوورە"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "جلەکەت"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "و جلەکانت"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "وەک لێیدەرێکی"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "لە حەوزی مێی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:59:19.317006975Z",
+  "model": "glm-5.3"
+}

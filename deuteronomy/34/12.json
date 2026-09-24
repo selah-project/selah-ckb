@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و بۆ هەموو دەستی بەهێز و هەموو ترسی گەورە کە مۆشە کردی لەبەرچاوی هەموو ئیسرائیل.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "و بۆ هەموو"
+    },
+    {
+      "surface": "היד",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "لەبەرچاوی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:51:33.839267110Z",
+  "model": "glm-5.3"
+}

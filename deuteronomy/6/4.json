@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ببیێ ئەی یسرائیل ⟨ئیسرائیل⟩: یاهوە ئێلۆهیمی ئێمە یاهوە یەکە.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ببیێ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئەی یسرائیل ⟨ئیسرائیل⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیمی ئێمە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:22.131968511Z",
+  "model": "glm-5.3"
+}

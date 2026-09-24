@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ناحۆر ⟨بە⟩ دوای بەخوینی ⟨את⟩ تێراخ نۆزدە ساڵ و سەد ساڵ ژیی و کوڕ و کچی بەخوێند.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیی"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحۆر"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨بە⟩ دوای"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "بەخوینی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تێراخ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تێراخ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "و سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بەخوێند"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:01.461165442Z",
+  "model": "glm-5.3"
+}

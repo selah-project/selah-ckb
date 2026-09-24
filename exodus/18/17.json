@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ژنەباوکی مۆشە ⟨موسا⟩ پێی فەرموو: ئەو کارەی کە تۆ دەیکەیت چاک نییە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ژنەباوکی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دەیکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:45:49.420095315Z",
+  "model": "glm-5.3"
+}

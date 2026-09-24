@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "ئەمە بەشی من بوو، چونکە فەرمانەکانتم پارێشت.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "فەرمانەکانت"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "پارێستم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:30.711458885Z",
+  "model": "glm-5.3"
+}

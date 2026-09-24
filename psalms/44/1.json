@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "بۆ سەرپەرشتیار، بۆ کوڕانی قورەح ⟨مەشکیل⟩ فێرکاری",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ سەرپەرشتیار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورەح"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "فێرکاری"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:09.766561146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و فەرمووم بۆ ئێوە لەو کاتەدا بە وتنی: ناتوانم بە تەنها خۆم هەڵبگرم ⟨את⟩ ئێوە.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و فەرمووم"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "لەو کاتەدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ناتوانم"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "بە تەنها خۆم"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "هەڵبگرم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": "ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:17.538680267Z",
+  "model": "glm-5.3"
+}

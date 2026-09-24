@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و مۆشە بۆیان وت: ڕاوەستن، و من دەبیستم چ یاهوە فەرمانتان بۆ دەکات.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ڕاوەستن"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "و دەبیستم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "فەرمان دەکات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:21.097409852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "هەم کوڕانی مرۆڤ، هەم کوڕانی پیاو، پێکەوە دەوڵەمەند و هەژار.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "دەوڵەمەند"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و هەژار"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:15.455622701Z",
+  "model": "glm-5.3"
+}

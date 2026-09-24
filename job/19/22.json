@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 19:22",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "بۆچی ڕاوم دەنێن وەک ئێل، و لە گۆشتی من تێر نابن؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "תרדפני",
+      "gloss": "ڕاوم دەنێن"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ומבשרי",
+      "gloss": "و لە گۆشتی من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "تێر نابن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:54.243501792Z",
+  "model": "glm-5.3"
+}

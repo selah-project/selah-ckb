@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "خراپەکان لەبەردەم چاکەکان دادەبەزن، و تاوانباران لە دەرگاکانی ڕاستکار ⟨bow down⟩.",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "دادەبەزن"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "خراپەکان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "چاکەکان"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "و تاوانباران"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دەرگاکانی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستکار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:24.139958739Z",
+  "model": "glm-5.3"
+}

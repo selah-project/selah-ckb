@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "بۆ ئەڤیە زیکری، بۆ مینیامین بۆ موئادیە پیلتای",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "بۆ ئەڤیە"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زیکری"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "بۆ مینیامین"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "بۆ موئادیە"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "پیلتای"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:15.748377383Z",
+  "model": "glm-5.3"
+}

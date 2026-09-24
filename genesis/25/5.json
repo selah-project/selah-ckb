@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "ئاڤراهام ⟨את⟩ هەموو ئەوەی هی خۆی بوو بۆ ییتسحاق دا.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام ⟨ئیبراهیم⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەوەی هی خۆی بوو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هی خۆی بوو"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "بۆ ییتسحاق ⟨ئیسحاق⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:07.727996355Z",
+  "model": "glm-5.3"
+}

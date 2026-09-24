@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و ⟨את⟩ هەموو کۆمەڵەکە لە دەروازەی چادری چاوپێکەوتن کۆبکەرەوە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "کۆمەڵەکە"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کۆبکەرەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دەروازەی"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چادری"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:46.395756299Z",
+  "model": "glm-5.3"
+}

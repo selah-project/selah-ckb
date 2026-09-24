@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "هەروەها ئەوەی لە کاری خۆیدا سستە، برای ⟨خاوەن⟩ خراوەنییە.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "سستە"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "لە کاری خۆیدا"
+    },
+    {
+      "surface": "אח",
+      "gloss": "برا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "بۆ خاوەنی"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "خراوەند"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:46.322150403Z",
+  "model": "glm-5.3"
+}

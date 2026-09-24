@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و ئەڤیاتار بە داود ڕایگەیاند کە شائول ⟨את⟩ کاهینانی یاهوە کوشتووە.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "و ڕایگەیاند"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ئەڤیاتار"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بە داود"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "کوشتووە"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاهینانی"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "کاهینانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:26:11.021137438Z",
+  "model": "glm-5.3"
+}

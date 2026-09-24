@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ژماردراوانیان بۆ هۆزی ئێفرایم چل هەزار و پێنج سەد بوون.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ژماردراوانیان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:16.261944114Z",
+  "model": "glm-5.3"
+}

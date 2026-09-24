@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "وە گەڕامەوە وە چاوەکانم هەڵکردن وە بینی و ئەوەتا تەمرۆڵێکی فڕیو.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "وە گەڕامەوە"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "وە هەڵکردن"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوەکانم"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "وە بینی"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "تەمرۆڵێکی"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "فڕیو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:19.912509221Z",
+  "model": "glm-5.3"
+}

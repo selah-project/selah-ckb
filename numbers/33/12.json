@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 33:12",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە بیابانی سین کوچیان کرد و لە دۆفکە ⟨دوفکە⟩ چادر هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و کوچیان کرد"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "لە بیابانی"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سین"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و چادر هەڵکێشا"
+    },
+    {
+      "surface": "בדפקה",
+      "gloss": "لە دۆفکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:37.582835216Z",
+  "model": "glm-5.3"
+}

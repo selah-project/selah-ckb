@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئایا ئیسرائیل ⟨ئەو⟩ کۆیلەیە؟ ئایا کۆیلەی لەدایکبووی ئەو ماڵەیە؟ بۆچی ئەو بووە بە تاڵان؟",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "کۆیلە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "لەدایکبوو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "بە تاڵان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:36:37.773960893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئەی کوڕم، بیسە و لێهاتوو بە، و دڵت لە ڕێگادا ڕاست بکە.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "بیسە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "و لێهاتوو بە"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و ڕاست بکە"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگادا"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:18.929377832Z",
+  "model": "glm-5.3"
+}

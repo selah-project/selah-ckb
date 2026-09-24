@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و پەرعۆ ⟨فیرعون⟩ بۆ یۆسێف ⟨یوسف⟩ فەرمووی: تەماشا بکە، من تۆم دانا لەسەر هەموو زەوی میتسرایم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرعۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "تەماشا بکە"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دانام"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تۆ",
+      "marks": "تۆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:06.114961357Z",
+  "model": "glm-5.3"
+}

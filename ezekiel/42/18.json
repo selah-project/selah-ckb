@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "⟨את⟩ لاپەڕی باشووری پێوەندی بە پێنج سەد قامیش بە قامیشی پێوانە.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاپەڕی باشوور"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "لاپەڕی"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "باشوور"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "پێوەندی بە"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قامیش"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "بە قامیشی"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "پێوانە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:23:32.346598181Z",
+  "model": "glm-5.3"
+}

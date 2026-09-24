@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "گیانی خراپ ئارەزووی خراپی دەکات؛ هاوڕێی لە چاوانیدا چاوی پێناکەوێت.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "ئارەزووی دەکات"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "چاوی پێناکەوێت"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "لە چاوانیدا"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:13.417645650Z",
+  "model": "glm-5.3"
+}

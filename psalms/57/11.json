@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 57,
+  "translation": "چونکە حەسەدی تۆ گەورەیە تا ئاسمانەکان، و ڕاستیی تۆ تا هەورەکان.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گەورەیە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمانەکان"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حەسەدی تۆ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "هەورەکان"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ڕاستیی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:29.172030846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "«شالۆم نییە»، فەرمووی یاهوە، بۆ خراپەکاران.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالۆم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "بۆ خراپەکاران"
+    }
+  ],
+  "timestamp": "2026-09-24T12:28:38.681249269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و خانەی یوسێف هەروەها ئەوان چوونە سەرەوە بەرەو بەیت ئێل، و یاهوە لەگەڵیان بوو.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "و چوونە سەرەوە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانەی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "لەگەڵیان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:03:03.086875918Z",
+  "model": "glm-5.3"
+}

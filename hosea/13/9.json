@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەی یشرائێل، خۆت لەناوبردووە، چونکە لە من یارمەتیتە.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "خۆت لەناوبردووە"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئەی یشرائێل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "یارمەتیتە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:30:13.906245236Z",
+  "model": "glm-5.3"
+}

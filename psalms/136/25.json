@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "نان دەدات بە هەموو گۆشت، چونکە بۆ هەمیشەیە حەسەدی هەیە.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشەیە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی هەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:04.800117860Z",
+  "model": "glm-5.3"
+}

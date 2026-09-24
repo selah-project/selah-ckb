@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "شارنەوەی ڕق ⟨بە⟩ لێوەکانی درۆ، و دەرکردەری غەیبەت ئەو نەفامە.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "شارنەوەی"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ڕق"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "و دەرکردەر"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "غەیبەت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نەفام"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:18.587976326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "ئەوەی دڵسۆزی دەهەڵهێنێت ڕاستی دەگەیەنێت، و شایەتی درۆیان فێڵە",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "دەهەڵهێنێت"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "دڵسۆزی"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "دەگەیەنێت"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و شایەتی"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "درۆیان"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فێڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:03.618073602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "jeremiah 48:46",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "خوایە بۆ تۆ مۆئاب، گەلی کەمۆش لەناوچوو، چونکە کوڕەکانت بە دیلگری و کچەکانت بە دیلی بران.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "خوایە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "لەناوچوو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەلی"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "کەمۆش"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "بران"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "کوڕەکانت"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "بە دیلگری"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "و کچەکانت"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "بە دیلی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:00:30.428893380Z",
+  "model": "glm-5.3"
+}

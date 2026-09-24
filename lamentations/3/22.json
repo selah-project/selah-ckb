@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "حەسەدەکانی یاهوە — کە نەتواونەتەوە، کە نەکۆتاییان پێهاتوون ڕەحمەتەکانی.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "حەسەدەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "تواونەتەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "کۆتاییان پێهاتوون"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ڕەحمەتەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:54.609713052Z",
+  "model": "glm-5.3"
+}

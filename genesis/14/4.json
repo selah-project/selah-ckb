@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "دوازدە ساڵ خزمەتی ⟨את⟩ کیدەرلائۆمەریان کرد، و لە ساڵی سێزدەیەمدا یاخی بوون.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خزمەتیان کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کیدەرلائۆمەر"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "کیدەرلائۆمەر"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "یاخی بوون"
+    }
+  ],
+  "timestamp": "2026-09-24T09:15:46.443032324Z",
+  "model": "glm-5.3"
+}

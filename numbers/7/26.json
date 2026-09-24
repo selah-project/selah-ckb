@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کاسەیەکی زێڕیی دە شێکڵ، پڕ لە بخوور:",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کاسەیەکی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕیی"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخوور"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:59.037206365Z",
+  "model": "glm-5.3"
+}

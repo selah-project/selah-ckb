@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "چاوەڕوانی یاهوە بکە؛ بەهێز بە و دڵت چەسپێنە، و چاوەڕوانی یاهوە بکە",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "چاوەڕوانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "بەهێز بە"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "و چەسپێنە"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "و چاوەڕوانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:38.924240138Z",
+  "model": "glm-5.3"
+}

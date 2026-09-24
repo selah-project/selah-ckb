@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "زەیت و پڕبۆن دڵ شاد دەکەن، و شیرینی هاوڕێی ⟨خۆت⟩ لە ڕاوێژی گیان ⟨دێت⟩.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "زەیت"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "و پڕبۆن"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شاد دەکەن"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "و شیرینی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی ⟨خۆت⟩"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "لە ڕاوێژی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:28.187000999Z",
+  "model": "glm-5.3"
+}

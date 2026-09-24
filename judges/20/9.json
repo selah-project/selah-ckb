@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و ئێستا ئەمە قسەکەیە کە دەیکەین بۆ گیڤعە؛ لەسەری بە تیروپشک.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "دەیکەین"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "بۆ گیڤعە"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "بە تیروپشک"
+    }
+  ],
+  "timestamp": "2026-09-24T11:14:05.424997291Z",
+  "model": "glm-5.3"
+}

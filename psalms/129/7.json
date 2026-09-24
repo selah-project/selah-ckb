@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 129,
+  "translation": "کە دەستی دروێر پڕ ناکات و باسنیشانی کۆکەرەوەی گەنم.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "کە نا"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕ دەکات"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "دروێر"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "و باسنیشانی"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "کۆکەرەوەی گەنم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:19.010601048Z",
+  "model": "glm-5.3"
+}

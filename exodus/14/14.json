@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "«یاهوە بۆ ئێوە دەجەنگێت و ئێوە بێدەنگ دەبن»",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "دەجەنگێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "و ئێوە"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "بێدەنگ دەبن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:43:10.357151479Z",
+  "model": "glm-5.3"
+}

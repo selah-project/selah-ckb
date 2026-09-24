@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و کە ئازاد دەینێریت لە لات، نا، بە بەتاڵی دەینێریت.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "و کە"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "دەینێریت"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ئازاد"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "لە لات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "دەینێریت"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "بە بەتاڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:44.679115826Z",
+  "model": "glm-5.3"
+}

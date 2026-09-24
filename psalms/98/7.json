@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 98,
+  "translation": "با دەریا و پڕییەکەی دەرەقێنن، تێبێل و دانیشتووانی تێیدا.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "دەرەقێنن"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "و پڕییەکەی"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تێبێل"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "و دانیشتووانی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:43.924145225Z",
+  "model": "glm-5.3"
+}

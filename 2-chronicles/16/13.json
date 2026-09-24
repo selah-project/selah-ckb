@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و ئاسا لەگەڵ باوکانی خەوت و مرد، لە ساڵی چل و یەک بۆ پاداشتەکەی.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "و خەوت"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ئاسا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "باوکانی"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "و یەک"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "بۆ پاداشتەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:15.663730573Z",
+  "model": "glm-5.3"
+}

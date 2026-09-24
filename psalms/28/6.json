@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "بەرقەرار بۆ یاهوە، چونکە دەنگی لێبوردنخوازییەکانمی بیست.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "بەرقەرار بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "لێبوردنخوازییەکانمی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:10.571944154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئایا حیکمەت بانگ ناکات و تێگەیشتن دەنگی خۆی دەردەخات؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "بانگ ناکات"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "و تێگەیشتن"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دەردەخات"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "دەنگی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:38.575288599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بۆ چەواشەکردنی مرۆڤ لە کەیسەکەی — ئادۆنای نەبینیوە.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "بۆ چەواشەکردن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "لە کەیسەکەی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "بینیوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:35.746806550Z",
+  "model": "glm-5.3"
+}

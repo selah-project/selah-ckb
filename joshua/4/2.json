@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "بۆ خۆتان لە گەلەکە دوازدە پیاو بگرن، یەک پیاو، یەک پیاو لە هۆزێک.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "بگرن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ خۆتان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "لە هۆزێک"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:52.069158584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "بەرەو ڕاست و چەپ مەڵێ؛ پێت لە خراپی لابدە",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תט",
+      "gloss": "مەڵێ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "و چەپ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "لابدە"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "لە خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:43.301078082Z",
+  "model": "glm-5.3"
+}

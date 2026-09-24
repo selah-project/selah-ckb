@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کوڕەکانی ییتسەھەر: شێلۆمیت سەرەوان.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ییتسەھەر"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شێلۆمیت"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سەرەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:05.170182244Z",
+  "model": "glm-5.3"
+}

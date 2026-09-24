@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 8:30",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و بۆ گیدعۆن حەفتا کوڕ بوون، لە ڕانِی دەرچوو، چونکە ژنانی زۆری بۆ بوون.",
+  "tokens": [
+    {
+      "surface": "ולגדעון",
+      "gloss": "و بۆ گیدعۆن"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "حەفتا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "لە دەرچوو"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ڕانِی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژنان"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:07:17.663394071Z",
+  "model": "glm-5.3"
+}

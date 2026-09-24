@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کفێکی زێڕینی دە شەکێل، پڕ لە بۆنخوێنی سووتاو.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کف"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بۆنخوێنی سووتاو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:26.739879573Z",
+  "model": "glm-5.3"
+}

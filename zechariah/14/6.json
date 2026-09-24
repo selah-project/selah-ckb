@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و دەبێت لە ڕۆژدا ئەو ڕووناکی نەبێت بەنرخەکان دەبەستن",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ڕووناکی"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "بەنرخەکان"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "دەبەستن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:15.647651809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 124,
+  "translation": "ئەوسا زیندووان mana ⟨هەڵدەمان Swallowed⟩ — کاتێ توڕەییەکەیان ⟨گڕی گرت⟩ لە ئێمە،",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ئەوسا"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زیندووان"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "مان‌هەڵووتی"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "کاتێ گڕی گرت"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "توڕەییەکەیان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "لە ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:52.416916151Z",
+  "model": "glm-5.3"
+}

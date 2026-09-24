@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و حەبرۆنیان بە کالێب دا وەک مۆشە ⟨موسا⟩ فەرمووی بوو و لەوێ سێ کوڕی عەناکی دەرکرد",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "بە کالێب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حەبرۆن"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حەبرۆن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرمووی بوو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "و دەرکرد"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سێ کوڕ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "عەناق"
+    }
+  ],
+  "timestamp": "2026-09-24T11:03:58.812375728Z",
+  "model": "glm-5.3"
+}

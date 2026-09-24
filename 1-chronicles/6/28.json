@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕی یاخات، کوڕی گێرشۆم، کوڕی لێڤی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاخات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گێرشۆم ⟨گەرشۆم⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:10.827975642Z",
+  "model": "glm-5.3"
+}

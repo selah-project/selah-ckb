@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ئەلوف ئۆهۆلیبامە، ئەلوف ئێلا، ئەلوف پینۆن.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ئەلوف"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ئۆهۆلیبامە"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ئەلوف"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئێلا"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ئەلوف"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "پینۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:48.654311312Z",
+  "model": "glm-5.3"
+}

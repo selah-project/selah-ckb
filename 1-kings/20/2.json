@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و نێردراوانی بۆ ئەخئاب پادشای یسرائێل بۆ ناو شارەکە نارد.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "نێردراوان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ئەخئاب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائێل"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "بۆ ناو شارەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:56:53.293923137Z",
+  "model": "glm-5.3"
+}

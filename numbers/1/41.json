@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ژماردنەکانیان بۆ هۆزی ئاشێر یەک و چوار دە هەزار و پێنج سەد بوو.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ژماردنەکانیان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشێر ⟨ئاشەر⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "دە هەزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:41.036672029Z",
+  "model": "glm-5.3"
+}

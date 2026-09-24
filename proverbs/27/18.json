@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 27:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "پارێزەری هەنجیر میوەی ئەو دەخوات، و پارێزەری گەورەی خۆی ڕێز دەدرێت.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "پارێزەری"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "هەنجیر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "میوەی ئەو"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "و پارێزەری"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "گەورەی خۆی"
+    },
+    {
+      "surface": "יכבد",
+      "gloss": "ڕێز دەدرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:34.112256279Z",
+  "model": "glm-5.3"
+}

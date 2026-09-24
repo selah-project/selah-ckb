@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 135,
+  "translation": "گوێیان هەیە بەڵام نایبیستن، ڕاستی هەناسەیەک لە دەمەکانیاندا نییە.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "گوێ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هەیە لان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "بەڵام نا"
+    },
+    {
+      "surface": "יאזינو",
+      "gloss": "دەبیستن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "هەناسە"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "لە دەمەکانیاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:12.462570404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "بۆ ڕابەری کۆڕی مۆسیقا، سەر «عەلموت لاڤێن»، مزەمورێکی داود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕابەری کۆڕی مۆسیقا"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "عەلموت"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لاڤێن"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزەمورێکی"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:39.324833354Z",
+  "model": "glm-5.3"
+}

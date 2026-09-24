@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "گوێیان لێ مەگرن، خزمەتی ⟨⟨את⟩⟩ پاشای بابل بکەن و بژین. بۆچی ئەم شارە دەبێتە وێرانە؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوێیان لێ مەگرن"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لێیان"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خزمەتی بکەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاشای بابل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "و بژین"
+    },
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێتە"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "وێرانە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:50:44.810330369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 73,
+  "translation": "بەڵام من بێفام بووم و نەمدەزانی، وەک ماڵاتێک بووم لەلای تۆ",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "بەڵام من"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بێفام بووم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەم"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "دەزانی"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "وەک ماڵاتێک"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەلای تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:45.424442775Z",
+  "model": "glm-5.3"
+}

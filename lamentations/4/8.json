@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ڕوویان لە ڕەش تاریکتر بوو، لە کۆچاندا نەناسران؛ پێستیان بە ئێسکەکانیانەوە لکا، وشک بوو — وەک دار بوو.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "تاریکتر بوو"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "لە ڕەش"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "ڕوویان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "ناسران"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "لە کۆچاندا"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "لکا"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "پێستیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە — بەسەر"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "ئێسکەکانیان"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "وشک بوو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "وەک دار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:53:24.617023806Z",
+  "model": "glm-5.3"
+}

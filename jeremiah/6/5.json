@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "هەڵستن و بە شەودا سەردەکەین و قەسرەکانی ⟨ئەو⟩ دەخەوین.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "هەڵستن"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "و سەردەکەین"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "بە شەودا"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "و دەخەوین"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "قەسرەکانی ⟨ئەو⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T15:59:34.434613033Z",
+  "model": "glm-5.3"
+}

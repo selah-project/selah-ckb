@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 100,
+  "translation": "چونکە یاهوە چاکە؛ بۆ هەمیشە حەسەدی، و هەتا نەوە و نەوە ئیمانەتی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و هەتا"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نەوە"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "و نەوە"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ئیمانەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:17.391198853Z",
+  "model": "glm-5.3"
+}

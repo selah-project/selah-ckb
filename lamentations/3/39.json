@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بۆچی مرۆڤی زیندوو، پیاوێک، بۆ تاوانی خۆی دڵەڕاوکێ دەکات؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "دڵەڕاوکێ دەکات"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندوو"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "تاوانی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:56.217717349Z",
+  "model": "glm-5.3"
+}

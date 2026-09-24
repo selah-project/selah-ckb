@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و پاشا فەرمووی و کردیان سندوقێک یەک و ناوییان نا لە دەروازەی ماڵی یاهوە لە دەرەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "و کردیان"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "سندوقێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "و ناوییان نا"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "لە دەروازەی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "لە دەرەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:41:00.792249518Z",
+  "model": "glm-5.3"
+}

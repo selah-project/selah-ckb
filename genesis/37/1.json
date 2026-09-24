@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "یەعقوب لە زەوی میوانییەکانی باوکی نیشتەجێ بوو، لە زەوی کەنەعان.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "نیشتەجێ بوو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "میوانییەکانی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کەنەعان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:28:12.807243099Z",
+  "model": "glm-5.3"
+}

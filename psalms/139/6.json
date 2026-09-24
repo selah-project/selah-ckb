@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 139,
+  "translation": "زانیارییەکە عەجایبە لە من، بەرزکراوەتەوە، ناتوانم بۆ ئەو.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "عەجایبە"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیارییەکە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "بەرزکراوەتەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ناتوانم"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:33.408139611Z",
+  "model": "glm-5.3"
+}

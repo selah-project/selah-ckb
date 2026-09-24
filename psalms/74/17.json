@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 74,
+  "translation": "تۆ سنوورەکانی هەموو زەویت دانا؛ هاوین و زستان تۆ ئەوانت دروستکرد.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "دانات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "سنوورەکانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "هاوین"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "و زستان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "ئەوانت دروستکرد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:32.466641090Z",
+  "model": "glm-5.3"
+}

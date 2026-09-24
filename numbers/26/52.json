@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و یاهوە قسەی لەگەڵ مۆشە ⟨موسا⟩ کرد و فەرمووی کردی:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرمووی کردی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:27:50.811286482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و دەبێت ڕۆژێک ئەوە بۆ یاهوە دەناسرێت نە ڕۆژ و نە شەو و دەبێت لە کاتی ئێوارەدا ڕووناکی دەبێت",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "دەناسرێت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "لە کاتی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ئێوارە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ڕووناکی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:15.647800583Z",
+  "model": "glm-5.3"
+}

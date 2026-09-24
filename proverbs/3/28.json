@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بە هاوڕێت مەڵێ بڕۆ و بگەڕێوە و سبەینێ دەدەم، لەگەڵ تۆ ⟨את⟩ هەیە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مەڵێ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "بە هاوڕێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "و بگەڕێوە"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "و سبەینێ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دەدەم"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "و هەیە"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ لەگەڵ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:06.384085400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "پاڕانەوەیەکی حەبەقووق ⟨پێغەمبەر⟩، لەسەر شێگیۆنۆت.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "پاڕانەوە"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "حەبەقووق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەر"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "شێگیۆنۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:56.479188652Z",
+  "model": "glm-5.3"
+}

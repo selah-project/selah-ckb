@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و بە پێنجەم لە دە ڕۆژی ئەم مانگە، جەژنی نانی بێ هەویر بۆ یاهوەیە؛ حەوت ڕۆژ نانی بێ هەویر دەخۆن.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "و بە پێنج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم...ە"
+    },
+    {
+      "surface": "חג",
+      "gloss": "جەژنی"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "نانی بێ هەویر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوەیە"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "نانی بێ هەویر"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەخۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:23.808237726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "ئەگەر لە ساڵی یۆڤێلەوە زەویەکەی پیرۆز بکات، بەپێی بەهای تۆ دەچەسپێت.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "یۆڤێل"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "پیرۆز دەکات"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "زەویەکەی"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "بەپێی بەهای تۆ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "دەچەسپێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:21.907007556Z",
+  "model": "glm-5.3"
+}

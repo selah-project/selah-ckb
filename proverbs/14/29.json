@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 14:29",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "درێژیی توڕەیی زۆر تێگەیشتنە، و کورتژی ڕۆح نەفام بەرزدەکاتەوە",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "درێژیی"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "توڕەیی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تێگەیشتن"
+    },
+    {
+      "surface": "וקצר",
+      "gloss": "و کورتژی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "بەرزدەکاتەوە"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "نەفام"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:45.324652518Z",
+  "model": "glm-5.3"
+}

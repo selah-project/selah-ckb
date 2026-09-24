@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "خۆت لە قسەی درۆ دوور بخەرەوە و بێگوناه و ڕاست مەکوژە، چونکە تاوانبار ڕاست ناکەمەوە",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "لە قسە"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دوور بخەرەوە"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "و بێگوناه"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "و ڕاست"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "کوژ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ڕاست ناکەمەوە"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "تاوانبار"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:59.696980160Z",
+  "model": "glm-5.3"
+}

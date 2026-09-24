@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 30:33",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "پیاوێک کە وەکی ئەو بڕێژێت یان لێی بدات بەسەر بیانیدا، لە گەلەکەی دەبڕدرێتەوە.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ירקח",
+      "gloss": "بڕێژێت"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "وەکی ئەو"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "یان"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "بدات"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەسەر"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیانی"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "دەبڕدرێتەوە"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "لە گەلەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:56.493045399Z",
+  "model": "glm-5.3"
+}

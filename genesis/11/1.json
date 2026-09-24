@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و هەموو زەویەکە لێوێکی یەک بوو و وشەکانی یەک ⟨بوون⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لێو"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "و وشەکان"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:15:02.314925563Z",
+  "model": "glm-5.3"
+}

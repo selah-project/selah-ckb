@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و ماڵات شەش و سی هەزار و باژی وان بۆ یاهوە دوو و حەفتا",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "و ماڵات"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "و باژی وان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "و حەفتا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:00.840751377Z",
+  "model": "glm-5.3"
+}

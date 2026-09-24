@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "وا دەڵێی بە پێغەمبەرەکە: یاهوە چیت لێ وەڵام داوەتەوە؟ و یاهوە چی وتوویەتی؟",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "دەڵێی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەرەکە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "وەڵام داوەتەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وتوویەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:49:19.309963065Z",
+  "model": "glm-5.3"
+}

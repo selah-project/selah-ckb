@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چونکە وەک هەنگوینی شین لێوەکانی ژنی بیانی دەتۆزنەوە، و لێکەی نرمترە لە زەیت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "هەنگوینی شین"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "دەتۆزنەوە"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "ژنی بیانی"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "و نرمترە"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "لە زەیت"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "لێکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:24.968640664Z",
+  "model": "glm-5.3"
+}

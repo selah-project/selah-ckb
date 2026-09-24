@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و من دەبم بۆی، وتنی یاهوە، دیواری ئاگر لە دەوری، و بۆ شکۆ دەبم لە ناوەکەیدا.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "دەبم"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "دیواری"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "لە دەوری"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "و بۆ شکۆ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "دەبم"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "لە ناوەکەیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:43:26.601354502Z",
+  "model": "glm-5.3"
+}

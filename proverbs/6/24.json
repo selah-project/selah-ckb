@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "بۆ پاراستنی تۆ لە ژنی خراپ، لە خۆشزمانی زمانێکی بیانی.",
+  "tokens": [
+    {
+      "surface": "לשמرך",
+      "gloss": "بۆ پاراستنی تۆ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "لە ژنی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "מחלות",
+      "gloss": "لە خۆشزمانی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمانێکی"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:46.642806312Z",
+  "model": "glm-5.3"
+}

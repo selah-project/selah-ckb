@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "habakkuk 3:18",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و من لە یاهوەدا دڵخۆش دەبم، شاد دەبم لە ئێلۆهیمی ڕزگاریی خۆم.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "لە یاهوەدا"
+    },
+    {
+      "surface": "אעלוזה",
+      "gloss": "دڵخۆش دەبم"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "شاد دەبم"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "لە ئێلۆهیمی"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ڕزگاریی خۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:59.166704405Z",
+  "model": "glm-5.3"
+}

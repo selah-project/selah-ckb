@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "ئەی کوڕی ئادەم، مەتەڵێک بدۆزەرەوە و مەسەلێک بۆ ماڵی ئیسرائیل بڵێ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "بدۆزەرەوە"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "مەتەڵ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "و مەسەل بڵێ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مەسەل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:11:26.070958583Z",
+  "model": "glm-5.3"
+}

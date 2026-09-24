@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چونکە لە دڵی خۆیەوە ئازاری نەدا و کوڕانی مرۆڤی پەژاندە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ئازاریدا"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "لە دڵی خۆیەوە"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "و پەژاندە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:35.746265096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و بوو کاتێک هەموو پیاوانی شەڕ تەواو بوون بۆ مردن لە ناو گەلەکە.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "تەواو بوون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "بۆ مردن"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "لە ناو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:32.476274245Z",
+  "model": "glm-5.3"
+}

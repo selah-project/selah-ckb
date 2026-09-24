@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 115,
+  "translation": "بۆچی میللەتەکان دەڵێن: کوا ئێستا خوداکانیان؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "میللەتەکان"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کوا"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "خوداکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:36.746932771Z",
+  "model": "glm-5.3"
+}

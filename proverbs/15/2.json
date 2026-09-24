@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "زمانی دانایان زانیاری چاک دەکات، و دەمی گێلەکان گێلی دەڕێژن.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "دانایان"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "چاک دەکات"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "و دەمی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "گێلەکان"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "دەڕێژن"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "گێلی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:15.216371645Z",
+  "model": "glm-5.3"
+}

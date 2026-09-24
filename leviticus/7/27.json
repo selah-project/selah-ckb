@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "هەر گیانێک هەر خوێنێک بخوات، ئەو گیانە لە نێو گەلەکەی دەبڕدرێتەوە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "بخوات"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "و دەبڕدرێتەوە"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "گیانەکە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "لە نێو گەلەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:35.104419982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و من ⟨את⟩ سەندوقەکەم لەوێ دانا، کە تێیدا پەیمانی یاهوەیە، ئەوەی لەگەڵ کوڕانی ئیسرائیل بەستبوو.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "و دانام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سەندوقەکە"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "سەندوقەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "پەیمانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بەستبوو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:26.428339579Z",
+  "model": "glm-5.3"
+}

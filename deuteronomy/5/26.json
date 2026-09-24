@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چونکە کێ لە هەموو گۆشت بووە کە دەنگی ئێلۆهیمی زیندووی لە ناوهڕاستی ئاگرەکەوە قسە دەکات بیستووەتی — وەک ئێمە — و ژیاوە؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "بیستووەتی"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زیندوو"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "قسە دەکات"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "لە ناوهڕاستی"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "وەک ئێمە"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:58.052382768Z",
+  "model": "glm-5.3"
+}

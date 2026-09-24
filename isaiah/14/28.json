@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لە ساڵی مردنی پاشا ئاخاز ⟨ئەحەز⟩ ئەم بارە قورسە هاتە دی.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردنی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ئاخاز ⟨ئەحەز⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هاتە دی"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ئەم بارە قورسە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:17:20.041800816Z",
+  "model": "glm-5.3"
+}

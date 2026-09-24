@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "و گریام لە ڕۆژووی گیانم و بوو بە سووکایەتی بۆ من.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "و گریام"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "لە ڕۆژوو"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "بە سووکایەتی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:10.500975471Z",
+  "model": "glm-5.3"
+}

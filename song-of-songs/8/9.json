@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئەگەر دیوارە، ئەوە، دەبنێین لەسەری بورجی زیو، و ئەگەر دەرگایە، ئەوە، دەیگرین لەسەری تەختەی ئەرز.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوارە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "دەبنێین"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "بورجی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "دەرگایە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "دەیگرین"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تەختەی"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ئەرز"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:54.173099701Z",
+  "model": "glm-5.3"
+}

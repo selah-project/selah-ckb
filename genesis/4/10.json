@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و فەرمووی: چیت کرد؟ دەنگی خوێنی برای تۆ بۆ لای من هاوار دەکات لە زەوییەکەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردووە"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "خوێنی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برای تۆ"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "هاوار دەکات"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ لای من"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەوییەکەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:57.302205363Z",
+  "model": "glm-5.3"
+}

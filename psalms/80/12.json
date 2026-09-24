@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 80,
+  "translation": "لقەکانی تا دەریا دەنێرێت، و کۆسپەکانی بۆ ڕووبار.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "دەنێرێت"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "لقەکانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ڕووبار"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "کۆسپەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:00.803406179Z",
+  "model": "glm-5.3"
+}

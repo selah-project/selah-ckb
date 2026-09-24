@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە خەوی ناکەن ئەگەر خراپی نەکەن، و خەویان دەزرێت ئەگەر کەس نەخەنەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "خەوی دەکەن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "خراپی دەکەن"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "و دەزرێت"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "خەویان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "دەخەنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:59.664899438Z",
+  "model": "glm-5.3"
+}

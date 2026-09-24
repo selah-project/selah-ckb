@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "بەختیاریت ئەی یاهوە؛ فێرم کە حوکمەکانت.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "بەختیاریت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ئەی تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "فێرم کە"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "حوکمەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:58.663833550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "چونکە یاهوە ⟨את⟩ یەعقوبی ڕەهای کردووە و لە دەستی بەهێزتر لە خۆی ڕزگاری کردووە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ڕەهای کردووە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەعقوب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "و ڕزگاری کردووە"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "لە دەستی"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لە خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:50:59.439657611Z",
+  "model": "glm-5.3"
+}

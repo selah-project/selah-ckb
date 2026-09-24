@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "گەنمەکەیان ⟨את⟩ لەسەر کەرەکانیان بارکرد و لەوێوە ڕۆیشتن.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "بارکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەنمەکەیان"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "گەنمەکەیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "کەرەکانیان"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و ڕۆیشتن"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:32.213893384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "وەک ئەوە ناکەن بۆ یاهوە ئێلۆهیمی ئێوە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ناکەن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وەک ئەوە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمی ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:41:06.788035149Z",
+  "model": "glm-5.3"
+}

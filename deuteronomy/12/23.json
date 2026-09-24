@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "تەنها پتەو بە بۆ ئەوەی خوێنەکە نەخۆی، چونکە خوێنەکە ⟨ئەوەیە⟩ گیانەکە، و گیانەکە لەگەڵ گۆشتەکە ناخۆی.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "پتەو بە"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "بۆ ئەوەی نە"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خۆی"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خوێنەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خوێنەکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئەوەیە⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "گیانەکە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "دەخۆی"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "گیانەکە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گۆشتەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:17.140898900Z",
+  "model": "glm-5.3"
+}

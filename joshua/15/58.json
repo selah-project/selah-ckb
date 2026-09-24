@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "حەلحول، بێیت سور، و گێدور.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "حەلحول"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بێیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "سور"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "و گێدور"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:47.278000823Z",
+  "model": "glm-5.3"
+}

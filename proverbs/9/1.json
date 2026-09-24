@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "حیکمەت ماڵەکەی دروستکرد، ستوونەکانی هەڵکەند — حەوت.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حیکمەت"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "دروستکرد"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ماڵەکەی"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "هەڵکەند"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ستوونەکانی"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:53.988244650Z",
+  "model": "glm-5.3"
+}

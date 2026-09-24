@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە حەسەر شوعال و لە بێئێر شەڤا و لە کچەکانی.",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "و لە حەسەر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "و لە بێئێر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شەڤا"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "و لە کچەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:43.232272532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "شێوانی دەم لە خۆت لاببە، و شێوانی لێوان لە خۆت دوور بخەرەوە.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "لاببە"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە خۆت"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "شێوانی"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دەم"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "و شێوانی"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لێوان"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دوور بخەرەوە"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:22.017660826Z",
+  "model": "glm-5.3"
+}

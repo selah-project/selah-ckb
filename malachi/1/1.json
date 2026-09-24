@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بارێ وشەی یاهوە بۆ ئیسرائیل بە دەستی مەلاخی ⟨مەلەکی⟩.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بارێ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "مەلاخی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:46:40.808002543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "مەتانیا، مەتەنای، و یەعاساو",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "مەتانیا"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "مەتەنای"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "و یەعاساو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:12:53.511395521Z",
+  "model": "glm-5.3"
+}

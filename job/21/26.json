@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "پێکەوە لەسەر خۆزە ڕادەکەون و کرمەکە دەیانپۆشێت.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خۆزە"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ڕادەکەون"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "و کرمەکە"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "دەیانپۆشێت"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "لەسەریان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:49.726179788Z",
+  "model": "glm-5.3"
+}

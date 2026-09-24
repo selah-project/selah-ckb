@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و نوێژم کرد بۆ یاهوە، دوای ئەوەی من ⟨את⟩ کتێبی کڕینەکەم دا بە بارووخ ⟨باروخ⟩ کوڕی نیریا، بۆ وتن،",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "و نوێژم کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای ئەوەی"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "دام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کتێبی کڕین"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتێب"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "کڕین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بارووخ ⟨باروخ⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "نריה",
+      "gloss": "نیریا"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T16:00:05.793408931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "عیساو بە یەعقوبی وت: با من بخۆم لە سووری ئەم سوورە، چونکە من ماندووم، لەبەر ئەوە ناوی ئەو ئەدۆم نرا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "با من بخۆم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "سووری"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "سوورە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ماندوو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "نا نرا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی ئەو"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:49.692651447Z",
+  "model": "glm-5.3"
+}

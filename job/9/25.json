@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و ڕۆژانی من لە ڕاکردن سووکتر بوون، هەڵاتوون، چاکەیان نەبینیوە.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "و ڕۆژانی من"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "سووکتر بوون"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "ڕاکردن"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "هەڵاتوون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "بینیوە"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاکەیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:46.061754997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 106,
+  "translation": "و ⟨ئەو⟩ ئەوانی ڕزگار کرد بۆ ناوی خۆی، بۆ ناساندنی ⟨את⟩ هێزەکەی.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "و ڕزگاری کردن"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "بۆ ناساندنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هێزەکەی"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "هێزەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:36.843199228Z",
+  "model": "glm-5.3"
+}

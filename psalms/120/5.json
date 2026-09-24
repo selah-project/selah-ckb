@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 120,
+  "translation": "ئای بۆ من چونکە لە میشێک مانەوە، لەگەڵ چادرەکانی قیدەر نیشتەجێ بووم.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "ئای"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "مانەوە"
+    },
+    {
+      "surface": "משך",
+      "gloss": "میشێک"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "نیشتەجێ بووم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "چادرەکانی"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قیدەر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:04.433813152Z",
+  "model": "glm-5.3"
+}

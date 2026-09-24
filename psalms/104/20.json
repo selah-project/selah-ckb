@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 104,
+  "translation": "تاریکیت دەکەیت و شەو دەبێت، تێیدا هەموو ئاژەڵی دارستان دەخشۆکێن.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "دەکەیت"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "دەخشۆکێن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ئاژەڵی"
+    },
+    {
+      "surface": "יער",
+      "gloss": "دارستان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:09.832845161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و وت: ئەی ئادۆنای یاهوە، ئەوەتا قسە کردن ناناسم، چونکە من کوڕەگەنجێکم.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ئەی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ناناسم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسە کردن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נער",
+      "gloss": "کوڕەگەنج"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T12:36:57.848260967Z",
+  "model": "glm-5.3"
+}

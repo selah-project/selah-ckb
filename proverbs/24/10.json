@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "ئەگەر لە ڕۆژی تەنگەسەدا لاوازت کرد، تەنگەنایە بە دەتوانات.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "لاوازت کرد"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تەنگەسەدا"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تەنگەنایە"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "بە دەتوانات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:33.457023852Z",
+  "model": "glm-5.3"
+}

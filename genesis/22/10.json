@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و ئاڤراهام ⟨את⟩ دەستی درێژ کرد و ⟨את⟩ چەکۆڵەکەی گرت بۆ سەربڕینی ⟨את⟩ کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "درێژ کرد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەستی"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چەکۆڵە"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "چەکۆڵە"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "بۆ سەربڕین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕەکەی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:19:17.859616461Z",
+  "model": "glm-5.3"
+}

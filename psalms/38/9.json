@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "پەژمەردە بووم و زۆر شەکێنراوم؛ لە ناڵەی دڵم هاوارم لێکرد.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "پەژمەردە بووم"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "و شەکێنراوم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "هاوارم لێکرد"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "لە ناڵەی"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:18.928267985Z",
+  "model": "glm-5.3"
+}

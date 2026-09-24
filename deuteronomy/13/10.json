@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "چونکە بەکوشتن دەیکوژیت؛ دەستت ⟨هەیە⟩ لە یەکەمدا بۆ ئەوەی بمرێت، و دەستی هەموو گەل لە کۆتاییدا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "بەکوشتن"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "دەیکوژیت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "لە یەکەمدا"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "بۆ ئەوەی بمرێت"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "و دەست"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "لە کۆتاییدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:23.345622932Z",
+  "model": "glm-5.3"
+}

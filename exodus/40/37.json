@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و ئەگەر هەوریەکە بەرز نەبووایە، کۆچیان دەکرد تا ڕۆژی بەرزبوونەوەی.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بەرز نەبووایە"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "هەوریەکە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "کۆچیان دەکرد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "بەرزبوونەوەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:57:19.597715839Z",
+  "model": "glm-5.3"
+}

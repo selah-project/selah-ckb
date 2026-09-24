@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 24:12",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و بیلعام وت بە بەلەق ئایا بۆ نێرەرەکانیشت کە ناردوت بۆ من قسەم نەکرد بە وتن",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بەلەق"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "یش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מלאכיך",
+      "gloss": "نێرەرەکانیشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "ناردوت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "قسەم نەکرد"
+    },
+    {
+      "surface": "لאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:31.532283559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و بوو لە کۆتایی سێ ڕۆژدا کە ئۆفیسرەکان ⟨سەردان⟩یان کرد لە ناوەڕاستی چادرگاکەدا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "تێپەڕین"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "ئۆفیسرەکان"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "لە ناوەڕاستی"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "چadarگاکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:52:15.698872232Z",
+  "model": "glm-5.3"
+}

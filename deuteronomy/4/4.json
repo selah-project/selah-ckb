@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ئێوە ئەوانەی کە چەسپاون لە یاهوە ئێلۆهیمی خۆتان، زیندوون هەمووتان ئەمڕۆ.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "و ئێوە"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "چەسپاوەکان"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "لە یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمی خۆتان"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زیندوون"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "هەمووتان"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:29.948523125Z",
+  "model": "glm-5.3"
+}

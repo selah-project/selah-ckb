@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بزانن کە یاهوە حەسیدی خۆی جیا کردووە؛ یاهوە دەبیستێت کاتێک بانگی ئەو دەکەم.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "و بزانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "جیا کردووە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "حەسید"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "دەبیستێت"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "کاتێک بانگی دەکەم"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:48:30.862063108Z",
+  "model": "glm-5.3"
+}

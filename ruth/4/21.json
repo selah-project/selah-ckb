@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و شەلەمۆن ⟨את⟩ بۆعەزی بووکەوە، و بوعەز ⟨את⟩ عۆبەیدی بووکەوە.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "و شەلەمۆن"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بووکەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بۆعەز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعەز"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "و بوعەز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بووکەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عۆبەید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عۆبەید"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:28.711702173Z",
+  "model": "glm-5.3"
+}

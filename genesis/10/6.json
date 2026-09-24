@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و کوڕەکانی حام: کوش ⟨میسر⟩ و میتسرایم و پوت و کەنەعان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "و میتسرایم"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "و پوت"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "و کەنەعان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:01.154333305Z",
+  "model": "glm-5.3"
+}

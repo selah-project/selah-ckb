@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 73,
+  "translation": "چونکە حەسوود بووم بە شێتەکان، ئارامی خودانسەران دەبینم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "حەسوود بووم"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "بە شێتەکان"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئارامی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خودانسەران"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "دەبینم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:33.975068624Z",
+  "model": "glm-5.3"
+}

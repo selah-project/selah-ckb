@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کوڕەکانی ئاڤراهام: ییتسحاق و ییشماعێل.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام ⟨ئیبراهیم⟩"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق ⟨ئیسحاق⟩"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "و ییشماعێل ⟨ئیسماعیل⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:31.850776423Z",
+  "model": "glm-5.3"
+}

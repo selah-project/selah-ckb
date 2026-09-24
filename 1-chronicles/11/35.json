@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ئەحیام کوڕی ساکار ⟨الهەراری⟩، ئێلیپال کوڕی ئور.",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "ئەحیام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ساکار"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "⟨الهەراری⟩"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "ئێلیپال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ئور"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:30.724993715Z",
+  "model": "glm-5.3"
+}

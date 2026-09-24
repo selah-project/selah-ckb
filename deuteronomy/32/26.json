@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "وتـم: بە با دەیانخەمەوە، یادەوەرییان لە مرۆڤ دەبوژێنمەوە.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "وتـم"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "بە با دەیانخەمەوە"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "دەبوژێنمەوە"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "لە مرۆڤ"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "یادەوەرییان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:47.144414197Z",
+  "model": "glm-5.3"
+}

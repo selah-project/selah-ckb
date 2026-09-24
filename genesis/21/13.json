@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و هەروەها ⟨את⟩ کوڕی کۆیلە ژنەکە بۆ گەلێک دادەنێم، چونکە ئەو تۆوی تۆیە.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "کۆیلە ژنەکە"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "بۆ گەلێک"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ئەوی دادەنێم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تۆوی تۆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:19:39.728026678Z",
+  "model": "glm-5.3"
+}

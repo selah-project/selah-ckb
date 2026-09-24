@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئەگەر بەڕاستی لە ڕۆژی سێیەمدا بخورێت، پژتانەیە، ڕەزا ناکرێت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "بەڕاستی بخورێت"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخورێت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سێیەم"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "پژتانە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئەوە⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ڕەزا ناکرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:51:16.663953363Z",
+  "model": "glm-5.3"
+}

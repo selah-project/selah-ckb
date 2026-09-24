@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "لکا زمانی شیرەخۆرێک بە دەمەکەی لە تینوێتیدا؛ منداڵە بچووکەکان نانیان داوا کرد، بەشکەرێک نییە بۆیان.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "لکا"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "شیرەخۆرێک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "دەمەکەی"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "لە تینوێتیدا"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "منداڵە بچووکەکان"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "داوا کرد"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "بەشکەر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:53:47.406184173Z",
+  "model": "glm-5.3"
+}

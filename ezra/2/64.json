@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "هەموو کۆمەڵەکە وەک یەک: چوار دە هەزار و دوو هەزار و سێ سەد و شەست.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کۆمەڵەکە"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "وەک یەک"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "دە هەزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوو هەزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شەست"
+    }
+  ],
+  "timestamp": "2026-09-24T15:11:14.747834978Z",
+  "model": "glm-5.3"
+}

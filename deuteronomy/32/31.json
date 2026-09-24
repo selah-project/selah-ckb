@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "چونکە وەک سەنگی ئێمە سەنگی ئەوان نییە، و دوژمنانی ئێمە خۆیان دادوەرن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "وەک سەنگی ئێمە"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "سەنگی ئەوان"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "و دوژمنانی ئێمە"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "دادوەرن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:54.308209110Z",
+  "model": "glm-5.3"
+}

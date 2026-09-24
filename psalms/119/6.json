@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "ئەوکات شەرم ناکەم، کاتێک ڕوانیم لە هەموو فەرمانەکانت.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "شەرم دەکەم"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "لە ڕوانینەکەمدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "فەرمانەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:17.844309768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "کاتێک نزیک دەبیتەوە بە شارێک بۆ شەڕکردن لەسەری، بۆی بانگ دەکەیت بۆ ئاشتێتی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "نزیک دەبیتەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شارێک"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "بۆ شەڕکردن"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "و بانگ دەکەیت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "بۆ ئاشتێتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:52.223465104Z",
+  "model": "glm-5.3"
+}

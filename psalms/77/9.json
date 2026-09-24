@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 77,
+  "translation": "ئایا حەسەدی بۆ هەمیشە بەتاڵ بووە؟ وتەی بۆ نەوە و نەوە تەواو بووە؟",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "بەتاڵ بووە"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "تەواو بووە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وتەی"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "بۆ نەوە"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "و نەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:17.686769609Z",
+  "model": "glm-5.3"
+}

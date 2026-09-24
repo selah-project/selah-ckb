@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و یەعقوب نێردراوانی نارد لە پێش خۆی بۆ عیساوی ⟨عیسو⟩ برای بۆ زەوی سەعیر دەشتی ئەدۆم.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و نارد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "نێردراوان"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "لە پێش خۆی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساوی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "بۆ زەوی"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سەعیر"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "دەشتی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:24.013062480Z",
+  "model": "glm-5.3"
+}

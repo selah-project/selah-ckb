@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 94,
+  "translation": "و دەڵێن یاه نابینێت و ئێلۆهیمی یەعقوب ⟨ناتوانێت⟩ تێبگات",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יראه",
+      "gloss": "دەبینێت"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "تێدەگات"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:56.195424937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و ڕیزەکەی سێیەم: لەشەم و شەڤۆ و ئەحلامە.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "و ڕیزەکە"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سێیەم"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لەشەم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شەڤۆ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "و ئەحلامە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:48.405135181Z",
+  "model": "glm-5.3"
+}

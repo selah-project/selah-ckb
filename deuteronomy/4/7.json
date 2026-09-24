@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 4:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە کێیە ئەو گەلە گەورەیە کە بۆی ئێلۆهیم هەیە نزیک لێی، وەک یاهوە ئێلۆهیممان، لە هەموو بانگکردنمان بۆ ئەو؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "نزیک"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "وەک یاهوە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیممان"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "بانگکردنمان"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:27.357865099Z",
+  "model": "glm-5.3"
+}

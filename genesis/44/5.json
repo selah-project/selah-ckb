@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "ئایا ئەمە ئەوە نییە کە ئادۆنای من لە دەیخواتەوە و ⟨ئەو⟩ پێی فاڵ دەگرێت؟ خراپەتان کرد، ئەوەی کردتان.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "دەیخواتەوە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای من"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەو"
+    },
+    {
+      "surface": "وהוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "فاڵ"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "دەگرێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "خراپەتان کرد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "کردتان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:53.722828172Z",
+  "model": "glm-5.3"
+}

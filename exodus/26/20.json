@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و بۆ لای دووەمی میشکان بۆ لای باکوور، بیست تەختە.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "و بۆ لای"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "میششان"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دووەمی"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "باکوور"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "تەختە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:49.060515596Z",
+  "model": "glm-5.3"
+}

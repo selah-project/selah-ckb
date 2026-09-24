@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "گەنجەکە فێر بکە بەپێی دەمی ڕێگایەکەی، هەروەها کاتێک پیر ببێت نا لادێت لێی.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "فێر بکە"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "گەنجەکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەپێی"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ڕێگایەکەی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "پیر ببێت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "لادێت"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "لێی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:21.312287238Z",
+  "model": "glm-5.3"
+}

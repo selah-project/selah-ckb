@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "یان کۆڵەبەدوو یان زۆر وردەڵەق یان تەمژەڵی چاو یان برسووکەڵێنە یان گەردەڵە یان هێڵکەشکاو.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "کۆڵەبەدوو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "دק",
+      "gloss": "زۆر وردەڵەق"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "تەمژەڵی"
+    },
+    {
+      "surface": "بעינו",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "برسووکەڵێنە"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "گەردەڵە"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "هێڵکەشکاو"
+    },
+    {
+      "surface": "אשך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:26.469027451Z",
+  "model": "glm-5.3"
+}

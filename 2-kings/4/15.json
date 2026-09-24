@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و فەرموو: بانگی بکەن بۆی. و بانگی کردی بۆی و ڕاوەستا لە دەرگا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "بانگی بکەن"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و بانگی کردی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "و ڕاوەستا"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "لە دەرگا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:00:26.932854423Z",
+  "model": "glm-5.3"
+}

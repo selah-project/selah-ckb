@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ئەحینادەبی کوڕی عیدو لە مەحنایم.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "ئەحینادەب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "عیدو"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "لە مەحنایم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:44:58.428216079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 79,
+  "translation": "تا کەی یاهوە؟ بۆ هەمیشە تووڕە دەبیت؟ قینەکەت وەک ئاگر دەسووتێت؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "تووڕە دەبیت"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "دەسووتێت"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "قینەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:43.917315941Z",
+  "model": "glm-5.3"
+}

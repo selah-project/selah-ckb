@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئایا بێتام شت بەبێ خوێ دەخورێت؟ ئایا تام هەیە لە شیرەی ڕەوەن؟",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "دەخورێت"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "بێتام"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "خوێ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "تام"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "شیرەی"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ڕەوەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:24.766531827Z",
+  "model": "glm-5.3"
+}

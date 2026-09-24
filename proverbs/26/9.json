@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "دڕکێک سەردەکەوێتە دەستی مەستێک، و پەندێک لە دەمی گێلەکاندا.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "دڕکێک"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سەردەکەوێتە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "مەستێک"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "و پەندێک"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "لە دەمی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "گێلەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:38.449416010Z",
+  "model": "glm-5.3"
+}

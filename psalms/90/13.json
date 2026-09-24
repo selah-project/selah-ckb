@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 90,
+  "translation": "بگەڕێوە ئەی یاهوە، تا کەی؟ و دڵسەران ببە لەسەر خزمەتکارانت.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "بگەڕێوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "و دڵسەران ببە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "خزمەتکارانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:32.872600016Z",
+  "model": "glm-5.3"
+}

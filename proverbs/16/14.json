@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "توڕەیی پادشایێك فرۆشته‌كانی مردنە، و پیاوی زیرەك ئەوی دەپۆشێت.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "توڕەیی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشایێك"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "فرۆشته‌كانی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردن"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "زیرەك"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "ئەوی دەپۆشێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:09.864293690Z",
+  "model": "glm-5.3"
+}

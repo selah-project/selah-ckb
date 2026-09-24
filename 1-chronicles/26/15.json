@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "بۆ عۆوێد ئێدۆم بۆ باشوور، و بۆ کوڕانیشی ماڵی ئەسوپیم.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "بۆ عۆوێد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئێدۆم"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "بۆ باشوور"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "و بۆ کوڕانیشی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "ئەسوپیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:40.918289673Z",
+  "model": "glm-5.3"
+}

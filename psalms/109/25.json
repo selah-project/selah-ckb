@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "منیش بووم بە سووکایەتییان، کە دەبینن دەشەوازنە سەرەکەیان.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "منیش"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "سووکایەتی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "دەبینن"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "دەشەوازنە"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "سەرەکەیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:41.507524776Z",
+  "model": "glm-5.3"
+}

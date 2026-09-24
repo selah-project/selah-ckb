@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "هەروەها سزادانی دادپەروەر باش نییە، لێدانی نەوابووان بەسەر ڕاستیدا.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "سزادانی"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "دادپەروەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "لێدانی"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "نەوابووان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەسەر"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:48.775561432Z",
+  "model": "glm-5.3"
+}

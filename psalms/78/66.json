@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "و دوژمنانی لە پشتەوە لێدا، شەرمەزارییەکی هەتاهەتایی بەخشی بەوان.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "لێدا"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "دوژمنانی"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پشتەوە"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "شەرمەزاریی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەتاهەتایی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "بەخشی"
+    },
+    {
+      "surface": "למו",
+      "gloss": "بەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:29.274394485Z",
+  "model": "glm-5.3"
+}

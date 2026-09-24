@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و فەرموو: پیرۆز بێ یاهوە، ئێلۆهیمی شێم، و کێنەعان بێتە خزمەتکاری ئەوان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "پیرۆز بێ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شێم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بێتە"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کێنەعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خزمەتکاری"
+    },
+    {
+      "surface": "למו",
+      "gloss": "بۆ ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:33.126399837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 20:29",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و فەرمووم بۆ ئەوان: بامە چییە کە ئێوە دەیچن؟ و ناوی ئەوێ بامە نرا تا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و فەرمووم"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "بامە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "دەچن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ئەوێ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و نران"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "במה",
+      "gloss": "بامە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:13:38.581796376Z",
+  "model": "glm-5.3"
+}

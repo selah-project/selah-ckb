@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "حاریم ⟨مەرێمۆت⟩، ⟨عەڤەدیا⟩،",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "حاریم"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مەرێمۆت"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عەڤەدیا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:32.527684066Z",
+  "model": "glm-5.3"
+}

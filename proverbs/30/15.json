@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "بۆ عهلوقە دوو کچن — بدە، بدە. سێ ئەوانە تێر نابن، چوار نەیانوت بەسە.",
+  "tokens": [
+    {
+      "surface": "לעلוקه",
+      "gloss": "بۆ عهلوقە"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "הב",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوانە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "تێر نابن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "نەیانوت"
+    },
+    {
+      "surface": "הון",
+      "gloss": "بەسە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:24.329426168Z",
+  "model": "glm-5.3"
+}

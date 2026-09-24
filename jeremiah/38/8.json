@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "عەبد مەلەک لە ماڵی پاشا هاتە دەرەوە و لەگەڵ پاشا قسەی کرد و وت:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "هاتە دەرەوە"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عەبد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مەلەک"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "قسەی کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:56:39.263724081Z",
+  "model": "glm-5.3"
+}

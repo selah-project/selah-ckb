@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "سیبەکای ⟨هوشاتی⟩، عیلی ⟨ئەحۆحی⟩",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "سیبەکای"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "⟨هوشاتی⟩"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "عیلی"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "⟨ئەحۆحی⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:41.278810438Z",
+  "model": "glm-5.3"
+}

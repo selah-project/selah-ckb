@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و بوو کە هەموو کەوتووانی ئەو ڕۆژە، لە پیاوەوە و تا ئافرەت، دوازدە هەزار بوون — هەموو پیاوانی عای.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو کە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "کەوتووانی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "لە پیاوەوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئافرەت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عای"
+    }
+  ],
+  "timestamp": "2026-09-24T10:54:30.820018337Z",
+  "model": "glm-5.3"
+}

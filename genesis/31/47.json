@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "لابان ناوی نا یەگەر سەهەدوتا و یەعقوب ناوی نا گیلعەد.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "لבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "یەگەر"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "سەهەدوتا"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "و یەعقوب"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناوی نا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعەد"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:26.951005628Z",
+  "model": "glm-5.3"
+}

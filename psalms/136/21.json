@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "و زەوییەکەیانی بە میرات دا، چونکە بۆ هەمیشەیە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "زەوییەکانیان"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "بە میرات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:07.664078150Z",
+  "model": "glm-5.3"
+}

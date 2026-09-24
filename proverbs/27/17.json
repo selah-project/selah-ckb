@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "ئاسن بە ئاسن تیژ دەکات، و پیاو ڕووی هاوڕێی خۆی تیژ دەکات.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسن"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "بە ئاسن"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "تیژ دەکات"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاو"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "تیژ دەکات"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:34.112007135Z",
+  "model": "glm-5.3"
+}

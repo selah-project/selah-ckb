@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و نیشتەجێ بوون لە بێر شەڤا و مولادە و حەتسەر شوئاڵ.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "و نیشتەجێ بوون"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "لە بێر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شەڤا"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "و مولادە"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "و حەتسەر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوئاڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:28.433407220Z",
+  "model": "glm-5.3"
+}

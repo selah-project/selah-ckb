@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 29:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "پادشا کە بە ڕاستی دادگەری هەژالان دەکات، تەختی بۆ هەمیشە دەوەستێت.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "دادگەری دەکات"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "بە ڕاستی"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "هەژالان"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "تەختی"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "دەوەستێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:54.845137391Z",
+  "model": "glm-5.3"
+}

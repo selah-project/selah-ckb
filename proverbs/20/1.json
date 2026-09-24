@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "شەرمسارکەر ⟨ە⟩ە مەی، قەرەوەیە شەڕاب، و هەر کەسێک لە تێیدا سەرگەردان دەبێت دانایە.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "شەرمسارکەر"
+    },
+    {
+      "surface": "היין",
+      "gloss": "مەی"
+    },
+    {
+      "surface": "המה",
+      "gloss": "قەرەوەیە"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "شەڕاب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەر کەسێک"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "سەرگەردان دەبێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە تێیدا"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "دانایە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:51.904004520Z",
+  "model": "glm-5.3"
+}

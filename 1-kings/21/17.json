@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و بوو وشەی یاهوە بۆ ئەلییاهووی تیشبی بەم زاراوەیە:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ئەلییاهوو"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "تیشبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زاراوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:57:00.083015156Z",
+  "model": "glm-5.3"
+}

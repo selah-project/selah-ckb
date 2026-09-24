@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "هیچی لێی بۆ تا بەیانی ناھێڵنەوە و ئێسکێکی لێ ناشکێنن؛ وەک هەموو حوکمی پەسەح دەیکەن ⟨את⟩ ئەو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "ناھێڵنەوە"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "و ئێسکێک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ناشکێنن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لێ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "وەک هەموو"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "حوکمی"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پەسەح"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "دەیکەن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "پەسەح"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:12.577646208Z",
+  "model": "glm-5.3"
+}

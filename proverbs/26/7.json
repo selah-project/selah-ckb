@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "وەک قاچەکانی کەلەبەر کە شلن، مەسەل لە دەمی گەمژەکاندا.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "شلن"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "قاچەکان"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "لە کەلەبەر"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "و مەسەل"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "لە دەم"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "گەمژەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:59.716531452Z",
+  "model": "glm-5.3"
+}

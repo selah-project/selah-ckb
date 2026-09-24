@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و یاهوە بۆم فەرموو: بۆ چاکەی ئەم گەلە نوێژ مەکە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "نوێژ مەکە"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "بۆ چاکە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:43:53.687566347Z",
+  "model": "glm-5.3"
+}

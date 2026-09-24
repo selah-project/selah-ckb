@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "هەژار دەبێت ئەوەی دەستی سستە، و دەستی چالاکان دەوڵەمەند دەکات.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "هەژار دەبێت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "כף",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "سستە"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "و دەستی"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "چالاکان"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "دەوڵەمەند دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:06.772799574Z",
+  "model": "glm-5.3"
+}

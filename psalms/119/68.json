@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "تۆ چاکی و چاکی دەکەیت؛ فێرم بکە حوکمەکانت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "و چاکی دەکەیت"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "فێرم بکە"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "حوکمەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:03.771747654Z",
+  "model": "glm-5.3"
+}

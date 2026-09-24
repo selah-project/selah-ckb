@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ترس و دام بۆمان بووە، بەتاڵبوون و تێکشکاندن.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "و دام"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆمان"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "بەتاڵبوون"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "و تێکشکاندن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:31.797190741Z",
+  "model": "glm-5.3"
+}

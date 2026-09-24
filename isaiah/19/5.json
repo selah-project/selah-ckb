@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئاوەکان لە دەریا دەبڕێن، و ڕووبار دەوێنێت و دەوشکێت.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "و دەبڕێن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاوەکان"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "لە دەریا"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "و ڕووبار"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "دەوێنێت"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "و دەوشکێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:18:21.758817442Z",
+  "model": "glm-5.3"
+}

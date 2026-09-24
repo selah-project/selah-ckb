@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و ناوی کوڕە گەورەکەی یوئێل بوو و ناوی دووەمەکەی ئەڤییاه، دادوەر لە بێئەر شێڤەع.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوئێل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناو"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "دووەمەکەی"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ئەڤییاه"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "دادوەر"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "لە بێئەر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شێڤەع"
+    }
+  ],
+  "timestamp": "2026-09-24T11:17:34.134719621Z",
+  "model": "glm-5.3"
+}

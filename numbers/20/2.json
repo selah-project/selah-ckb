@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و ئاو نەبوو بۆ کۆمەڵەکە، و خۆیان کۆکردەوە دژی مۆشە ⟨موسا⟩ و دژی ئاهارۆن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "بۆ کۆمەڵەکە"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "و خۆیان کۆکردەوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "دژی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و دژی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:25:35.414587415Z",
+  "model": "glm-5.3"
+}

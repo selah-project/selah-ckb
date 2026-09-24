@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لە دەمی گەمژەدا دارەقامێکی گەورەیی ⟨هەیە⟩، و لێوی زیرەکان ئەوان دەپارێزن.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "لە دەمی"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "گەمژە"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "دارەقام"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "گەورەیی"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "و لێوی"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "زیرەکان"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "دەیپارێزن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:34.289842536Z",
+  "model": "glm-5.3"
+}

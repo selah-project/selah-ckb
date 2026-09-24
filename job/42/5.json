@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "بۆ بیستن گوێ بیستمت، و ئێستا چاوی من تۆی بینیوە.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "بۆ بیستن"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوێ"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "بیستمت"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوی من"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "تۆی بینیوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:19.922615998Z",
+  "model": "glm-5.3"
+}

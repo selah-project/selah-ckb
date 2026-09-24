@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "مە ملێ لەگەڵ مرۆڤ بێ هۆ، ئەگەر خراپی بە تۆ نەکردبێت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ملێ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بێ هۆ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "کردبێت بە تۆ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:40.258376174Z",
+  "model": "glm-5.3"
+}

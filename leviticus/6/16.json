@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و هەموو پێشکەشییەکی کاهین بە تەواوی ⟨سووتاو⟩ دەبێت، ناخۆردرێت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "مנחת",
+      "gloss": "پێشکەشییەکی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "بە تەواوی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ناخۆردرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:25.877632655Z",
+  "model": "glm-5.3"
+}

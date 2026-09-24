@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "و هێنانیان بۆ سنووری پیرۆزی خۆی، ئەم چیایەی دەستی ڕاستی کڕی.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "هێنانیان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنوور"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "کڕی"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "دەستی ڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:47.802061796Z",
+  "model": "glm-5.3"
+}

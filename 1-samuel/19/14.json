@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و شائول نێردەران نارد بۆ گرتنەوەی ⟨את⟩ داود و ⟨میکال⟩ وت نەخۆشە.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "و نارد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "نێردەران"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "بۆ گرتنەوەی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "نەخۆشە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئەو⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T11:25:01.651414065Z",
+  "model": "glm-5.3"
+}

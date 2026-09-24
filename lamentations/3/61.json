@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەی یاهوە، توێژدرانەوەکانیان بەربڕیوە، هەموو بیرکردنەوەکانیان لە دژی من.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "بەربڕیوە"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "توێژدرانەوەکانیان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "بیرکردنەوەکانیان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لە دژی من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:28.628802400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و ئەو کارە بوو بە گوناه و گەلەکە چوون بە ڕووی یەکەکەوە هەتا دان.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئەو کارە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "بە گوناه"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و چوون"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "بە ڕووی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەکە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:52:41.548520138Z",
+  "model": "glm-5.3"
+}

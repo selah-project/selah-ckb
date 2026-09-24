@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "شتی گەورە دەکات هەتا بێ لێکۆڵینەوە، و عەجایەبات هەتا بێ ژمارە",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "شتی گەورە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "لێکۆڵینەوە"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "و عەجایەبات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژمارە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:37.784396801Z",
+  "model": "glm-5.3"
+}

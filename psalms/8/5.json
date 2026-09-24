@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "فانی چییە کە ی بیردەکەیتەوە، و کوڕی ئادەم کە سەردانی دەکەیت؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چییە"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "ی بیردەکەیتەوە"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "و کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "سەردانی دەکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:40.107897872Z",
+  "model": "glm-5.3"
+}

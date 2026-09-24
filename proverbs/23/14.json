@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "تۆ بە دار لێیدەدەیت و گیانی لە شێئۆل ڕزگاری دەکەیت.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "بە دار"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "لێیدەدەیت"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "و گیانی"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "لە شێئۆل"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ڕزگاری دەکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:06.544382059Z",
+  "model": "glm-5.3"
+}

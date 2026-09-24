@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "ئەوکات وتم: ئەوەتا هاتووم، لە تۆماری کتێبدا نووسراوە لەسەرم.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "هاتووم"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "لە تۆماری"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتێب"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "نووسراوە"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەرم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:55.792743848Z",
+  "model": "glm-5.3"
+}

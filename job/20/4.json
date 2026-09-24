@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "ئایا ئەمەت دەزانی لە کۆنەوە، لەو کاتەوەی کە مرۆڤ لەسەر زەوی دانرا؟",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "دەزانی"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "کۆنەوە"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שים",
+      "gloss": "دانرا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:52.838274788Z",
+  "model": "glm-5.3"
+}

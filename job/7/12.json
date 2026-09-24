@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ئایا من دەریام، یان ئەژدیها، کە پاسەوانێک لەسەر من دادەنێیت؟",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یان"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "ئەژدیها"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "دادەنێیت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر من"
+    },
+    {
+      "surface": "משمר",
+      "gloss": "پاسەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:19.713393510Z",
+  "model": "glm-5.3"
+}

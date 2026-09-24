@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئامرازی پیاو لەسەر ئافرەت نابێت، و پیاو جلوبەرگی ئافرەت لەبەر نەکات، چونکە ڕقی یاهوە ئێلۆهیمی تۆیە هەموو کردەری ئەمانە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نابێت"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ئامراز"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئافرەت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەکات"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "لەبەر نەکات"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "جلوبەرگی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئافرەت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ڕقی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆیە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردەری"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:35.375125359Z",
+  "model": "glm-5.3"
+}

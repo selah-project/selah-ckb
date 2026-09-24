@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 128,
+  "translation": "و کوڕانی کوڕانت ببینە، شالۆم لەسەر ئیسڕائێل.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "و ببینە"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "کوڕانت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالۆم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسڕائێل"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:31.308565742Z",
+  "model": "glm-5.3"
+}

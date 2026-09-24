@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "نا دەیخۆی؛ لەسەر زەویەکە وەک ئاو ڕایدەڕێژی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "دەیخۆی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ڕایدەڕێژی"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "وەک ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:17.141023088Z",
+  "model": "glm-5.3"
+}

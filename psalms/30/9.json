@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "بۆ تۆ یاهوە دەپاڵم و بۆ ئادۆنای بەزاری داوای دەکەم.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "دەپاڵم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "بەزاری داوای دەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:02.800506666Z",
+  "model": "glm-5.3"
+}

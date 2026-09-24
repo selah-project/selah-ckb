@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و هەموو گۆشت دەبینن چونکە ئەمن یاهوەم ئەوی هەڵکەندووە ناکوژێتەوە",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "و دەبینن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ئەمن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "هەڵکەندووە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ناکوژێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:12:58.993956266Z",
+  "model": "glm-5.3"
+}

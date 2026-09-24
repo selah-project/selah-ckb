@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "کە دەڕۆییت هەنگاوەکەت تەسەت ناکرێت و ئەگەر ڕایکردیت ناکەوێت.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "کە دەڕۆییت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "تەسەت ناکرێت"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "هەنگاوەکەت"
+    },
+    {
+      "surface": "ו אם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "ڕایکردیت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "ناکەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:32.481841137Z",
+  "model": "glm-5.3"
+}

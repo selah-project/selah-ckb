@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "لێیان مەترسە، چونکە من ⟨את⟩ لەگەڵتم، بۆ ڕزگارکردنت، وتنی یاهوە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "مەترسە"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "لێیان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ لەگەڵتم",
+      "marks": "تۆ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "بۆ ڕزگارکردنت"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:36:57.848602519Z",
+  "model": "glm-5.3"
+}

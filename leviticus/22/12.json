@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و کچی کاهین ئەگەر ببێت بۆ پیاوێکی بێگانە، ئەو لە پێشکەشی پیرۆزەکان ناخوات.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "و کچی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ببێت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ پیاوێکی"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بێگانە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "لە پێشکەشی"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "دەخوات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:35.765202922Z",
+  "model": "glm-5.3"
+}

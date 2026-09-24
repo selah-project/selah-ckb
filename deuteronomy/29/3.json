@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و یاهوە دڵێکتان نەداوە بۆ زانین، وە نهێ چاو بۆ بینین، وە نهێ گوێ بۆ بیستن، هەتا ئەم ڕۆژە.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "بۆ زانین"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "وە چاو"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "بۆ بینین"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "وە گوێ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "بۆ بیستن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-24T10:48:20.580849455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 127,
+  "translation": "ئاوەها کوڕەکان میراتن لە یاهوە، پاداشتی بەروەی سک.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئاوەها"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراتن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕەکان"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "پاداشتی"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "بەروەی"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "سک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:54.635723369Z",
+  "model": "glm-5.3"
+}

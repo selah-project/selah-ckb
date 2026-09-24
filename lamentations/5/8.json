@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "کۆیلەکان فەرمانڕەواییان لەسەر ئێمە کردووە، ڕزگارکەرێک نییە لە دەستیانەوە.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "کۆیلەکان"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "فەرمانڕەواییان کرد"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "لەسەر ئێمە"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ڕزگارکەر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "لە دەستیانەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:01.366348780Z",
+  "model": "glm-5.3"
+}

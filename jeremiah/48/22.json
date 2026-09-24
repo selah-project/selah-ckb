@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و لەسەر دیبۆن و لەسەر نێبۆ و لەسەر بەیت دیبلاتایم",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "دیبۆن"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "نבו",
+      "gloss": "نێبۆ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "دבלתים",
+      "gloss": "دیبلاتایم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:00:22.511631824Z",
+  "model": "glm-5.3"
+}

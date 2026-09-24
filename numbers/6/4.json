@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "هەموو ڕۆژانی نەزری، لە هەموو ئەوەی لە هێڵی ترێوە دەکرێت، لە دەنکەکان هەتا توێکڵ نا بخوات",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "نەزری"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکرێت"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "لە هێڵی ترێوە"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ترێ"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "لە دەنکەکان"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "זג",
+      "gloss": "توێکڵ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "بخوات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:01.042242562Z",
+  "model": "glm-5.3"
+}

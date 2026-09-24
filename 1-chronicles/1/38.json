@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و کوڕەکانی سەئیر: لۆتان و شۆڤاڵ و سیڤعۆن و عەنا و دیشۆن و عێتسەر و دیشان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سەئیر"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لۆتان"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "و شۆڤاڵ"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "و سیڤعۆن"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "و عەنا"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "و دیشۆن"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "و عێتسەر"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "و دیشان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:29.373156905Z",
+  "model": "glm-5.3"
+}

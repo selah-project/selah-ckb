@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و هاواری گەلەکە و ژنانیان بوو گەورە، لای برایانیان، یەهودییەکان.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "هاواری"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "و ژنانیان"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "برایانیان"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یەهودییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:16:10.223055385Z",
+  "model": "glm-5.3"
+}

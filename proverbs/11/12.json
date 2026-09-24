@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ئەوەی هاوڕێی خۆی بێڕێز دەکات دڵی کەمە، و پیاوی تێگەیشتن بێدەنگ دەبێت.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "بێڕێز دەکات"
+    },
+    {
+      "surface": "لרעהו",
+      "gloss": "هاوڕێی خۆی"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کەمە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوی"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "تێگەیشتن"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "بێدەنگ دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:24.462986795Z",
+  "model": "glm-5.3"
+}

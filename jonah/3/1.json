@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و وشەی یاهوە بۆ دووەم جار هات لای یۆنا ⟨موسا⟩ بۆ ئەوەی بڵێت,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یۆنا ⟨موسا⟩"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دووەم جار"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ ئەوەی بڵێت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:36:32.569042187Z",
+  "model": "glm-5.3"
+}

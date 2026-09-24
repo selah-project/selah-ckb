@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئاوەکان چاک بوون تا ئەم ڕۆژە بەپێی وشەی ئەلیشاع کە وتی",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "و چاک بوون"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ئاوەکان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "بەپێی وشەی"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ئەلیشاع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وتی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:58:58.564204646Z",
+  "model": "glm-5.3"
+}

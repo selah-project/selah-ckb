@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بێگومان لە دژی من دەگەڕێتەوە، دەستەکەی دەسوڕێنێتەوە هەموو ڕۆژێک",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بێگومان"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە دژی من"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "دەگەڕێتەوە"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "دەسوڕێنێتەوە"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستەکەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:55.889469983Z",
+  "model": "glm-5.3"
+}

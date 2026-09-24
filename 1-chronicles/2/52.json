@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و بۆ شۆڤاڵی باوکی قیریات یعاریم کوڕان بوون: هارۆئێ، نیوەی مەنوحۆت.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "بۆ شۆڤاڵ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قیریات"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یعاریم"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "هارۆئێ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیوەی"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "مەنوحۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:48.058524124Z",
+  "model": "glm-5.3"
+}

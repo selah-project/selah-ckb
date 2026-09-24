@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ئاخی کوڕی عەبدیئێل کوڕی گونی سەری خێزانی باوکانیان بوو.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ئاخی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "عەبدیئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "گونی"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "خێزانی"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "باوکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:35.313698931Z",
+  "model": "glm-5.3"
+}

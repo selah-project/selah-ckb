@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "⟨את⟩ زێوەکەت بە سوود نادەیتە بۆی، و بە زیادەش خواردنەکەت نادەیت.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زێوەکەت"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "زێوەکەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دەیت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "بە سوود"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "و بە زیادەش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دەیت"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "خواردنەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:14.757085954Z",
+  "model": "glm-5.3"
+}

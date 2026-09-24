@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "وای لەو ڕۆژە — چونکە گەورەیە، هیچ وەکی نییە — و کاتێکی تەنگانەیە بۆ یەعقوب، بەڵام لێی ڕزگاری دەبێت.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "وەکی"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کات"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تەنگانە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "بۆ یەعقوب"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "بەڵام لێی"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "ڕزگاری دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:51:30.118721257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "ڕێگایان تاریکی بێت و لێزەکی، و فریشتەی یاهوە دوایان دەکەوێت.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ڕێگایان"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "و لێزەکی"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "و فریشتەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "دوایان دەکەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:46.862304032Z",
+  "model": "glm-5.3"
+}

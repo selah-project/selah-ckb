@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "وەک تۆ نازانی کام ڕێگەی ڕۆحە، وەک ئێستووانەکان لە سکی پڕدا، هەر وەها نازانی ⟨את⟩ کاری ئێلۆهیم، ئەوەی ⟨את⟩ هەمووی دەکات.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "تۆ نانی"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "دەزانیت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگەی"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "وەک ئێستووانەکان"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "لە سک"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "پڕەکە"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "هەر وەها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "دەزانیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاری"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەمووی"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هەمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:22.939315895Z",
+  "model": "glm-5.3"
+}

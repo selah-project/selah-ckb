@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و رشوە مەهێڵە، چونکە رشوە چاوەکان کوێر دەکات و قسەی ڕاستەکان دەشێوێنێت",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "و رشوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "هێڵە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "رشوەکە"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "کوێر دەکات"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "چاوەکان"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "و دەشێوێنێت"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "قسەی"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ڕاستەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:59.697126001Z",
+  "model": "glm-5.3"
+}

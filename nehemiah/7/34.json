@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی ئێلامی ئەوی دیکە، هەزار و دوو سەد و پەنجا و چوار.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ئێلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ئەوی دیکە"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چوار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:11.805000879Z",
+  "model": "glm-5.3"
+}

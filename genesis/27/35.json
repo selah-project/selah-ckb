@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و فەرموو: برای تۆ بە فێڵ هات و بەرەکەتی تۆی برد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برای تۆ"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "بە فێڵ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "برد"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "بەرەکەتی تۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:35.814707145Z",
+  "model": "glm-5.3"
+}

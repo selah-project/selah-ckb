@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "کێ لە هەموو ئەمانەدا نەیزانیوە کە دەستی یاهوە ئەمەی کردووە؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانێت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانەدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "کردووە"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:53.977567685Z",
+  "model": "glm-5.3"
+}

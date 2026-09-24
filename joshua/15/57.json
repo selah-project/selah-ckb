@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "joshua 15:57",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "هاکایین، گێڤەعەه، و تیمنەه — دە شار و دێرەکانیان.",
+  "tokens": [
+    {
+      "surface": "הקין",
+      "gloss": "هاکایین"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "گێڤەعەه"
+    },
+    {
+      "surface": "ותמנה",
+      "gloss": "و تیمنەه"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "و دێرەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:47.277753285Z",
+  "model": "glm-5.3"
+}

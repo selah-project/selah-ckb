@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "قسەکەت بۆ خزمەتکاریت پتەو بکە، ئەوەی بۆ ترست لە تۆیە.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "پتەو بکە"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "بۆ خزمەتکاریت"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "قسەکەت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "بۆ ترست لە تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:20.644185979Z",
+  "model": "glm-5.3"
+}

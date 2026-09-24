@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و یەک دەیەک بۆ بەرخێک، یەکەکە؛ بۆ حەوت بەرخەکە.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "و دەیەک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "بۆ بەرخێک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەکە"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "بۆ حەوت"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "بەرخەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:13.645520468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و دەرچوو لە بەیت ئێلەوە بۆ لوز و تێپەڕی بۆ سنووری ئەرخییەکە عەتارۆت",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "لە بەیتەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "لוזה",
+      "gloss": "بۆ لوز"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "و تێپەڕی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "ئەرخییەکە"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "عەتارۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:24.978388597Z",
+  "model": "glm-5.3"
+}

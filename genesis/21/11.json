@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئەو کارە لە چاوی ئاڤراهامدا زۆر قورس بوو، لەبەر کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "قورس بوو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاودا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:40.163339129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "کێ سادەیە با بگەڕێتەوە ئێرە، و ئەوەی کەم دڵەیە — پێی دەڵێت.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "سادەیە"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "با بگەڕێتەوە"
+    },
+    {
+      "surface": "هנה",
+      "gloss": "ئێرە"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "و کەم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵەیە"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "پێی دەڵێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:33.138352604Z",
+  "model": "glm-5.3"
+}

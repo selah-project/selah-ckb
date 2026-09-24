@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "چاکترە لە گۆشەیەک لە سەربانەکەدا دانیشتن، لە ژنێکی ناکۆک و ماڵێکی هاوبەش.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکترە"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "دانیشتن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "گۆشەیەک"
+    },
+    {
+      "surface": "גג",
+      "gloss": "سەربانەکە"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "لە ژنێکی"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "ناکۆک"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و ماڵێکی"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "هاوبەش"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:13.417341885Z",
+  "model": "glm-5.3"
+}

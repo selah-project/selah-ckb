@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "بیوە و جیاکراوە و پیسبوو لەشفرۆش ⟨את⟩ ئەمانە ناگرێت بەڵکو بەکەرێک لە گەلەکەی خۆی بۆ ژن دەگرێت.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوە"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "و جیاکراوە"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "و پیسبوو"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "لەشفرۆش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەمانە"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ناگرێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨بەڵام⟩"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "بەکەرێک"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "لە گەلەکەی خۆی"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "دەگرێت"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "بۆ ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:03.379476050Z",
+  "model": "glm-5.3"
+}

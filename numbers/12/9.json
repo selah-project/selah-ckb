@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و توڕەیی یاهوە لێیان هەڵگیرسا و ڕۆیشت.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "و هەڵگیرسا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "توڕەیی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בם",
+      "gloss": "لێیان"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیشت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:59.753456642Z",
+  "model": "glm-5.3"
+}

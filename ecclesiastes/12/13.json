@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "کۆتایی قسەکە — هەمووی بیستراوە: لە ئێلۆهیم ⟨את⟩ بترسە و ⟨את⟩ فەرمانەکانی بپارێزە، چونکە ئەمە هەموو مرۆڤە.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "کۆتایی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسە"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هەمووی"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "بیستراوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئێلۆهیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "بترسە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "فەرمانەکانی"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "فەرمانەکانی"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:21.497910086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و قەنخاڵی زێڕ دروست دەکەیت.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "دروست دەکەیت"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "قەنخاڵی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:15.324141670Z",
+  "model": "glm-5.3"
+}

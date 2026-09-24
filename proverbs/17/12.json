@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "با ورچێکی بێوەبەر بە مرۆڤ بەیەکبگات، نەک گێلێک لە گێلەیی خۆیدا.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "با بەیەکبگات"
+    },
+    {
+      "surface": "דב",
+      "gloss": "ورچێکی"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "بێوەبەر"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "بە مرۆڤ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "نەک"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "گێلێک"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "لە گێلەیی خۆیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:00.149151441Z",
+  "model": "glm-5.3"
+}

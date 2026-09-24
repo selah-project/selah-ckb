@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئێستا گەنمەشام و جۆ، ڕون و شەڕاب، کە ئاغای من فەرموویەتی، بینێرێت بۆ بەندەکانی.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "گەنمەشام"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "و جۆ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ڕون"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "و شەڕاب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموویەتی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئاغای من"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "بینێرێت"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "بۆ بەندەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:34:36.095130542Z",
+  "model": "glm-5.3"
+}

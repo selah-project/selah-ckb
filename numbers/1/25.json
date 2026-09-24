@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ژمارمراوەکانیان بۆ هۆزی گاد، پێنج و چل هەزار و شەش سەد و پەنجا بوون.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ژمارمراوەکانیان"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پەنجا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:08.490101089Z",
+  "model": "glm-5.3"
+}

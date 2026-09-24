@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ئەوەی بووە وشەی یاهوە بۆ ییرمەیاهو ⟨یەرمیا⟩ دەربارەی دۆخی وشکەساڵییەکان.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ییرمەیاهو ⟨یەرمیا⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "دەربارەی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "دۆخی"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "وشکەساڵییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:50.984111947Z",
+  "model": "glm-5.3"
+}

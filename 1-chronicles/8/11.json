@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و لە حوشیم، ⟨את⟩ ئەڤیتووب و ⟨את⟩ ئێلپەعەڵ بوونی هێنا.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "و لە حوشیم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بوونی هێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەڤیتووب"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "ئەڤیتووب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئێلپەعەڵ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ئێلپەعەڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:05.945608924Z",
+  "model": "glm-5.3"
+}

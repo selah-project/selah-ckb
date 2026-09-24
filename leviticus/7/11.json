@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ئەمە تۆراتی قوربانیی شەلامیمە کە بۆ یاهوە پێشکەش دەکرێت.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تۆراتی"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قوربانیی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "شەلامیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "پێشکەش دەکات"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:28.075646217Z",
+  "model": "glm-5.3"
+}

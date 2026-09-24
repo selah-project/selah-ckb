@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ساتان لە دژی ییسرائێل ڕاوەستا و داودێی هەڵخێشاند ⟨את⟩ بۆ ژماردنی ییسرائێل ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ڕاوەستا"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ساتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە دژی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائێل"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "هەڵخێشاند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "بۆ ژماردن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ییسرائێل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:48.943356667Z",
+  "model": "glm-5.3"
+}

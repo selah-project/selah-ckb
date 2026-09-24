@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 19:28",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "ئەگەر بڵێن: چۆن ڕاوی بکەین؟ و ڕەگی کارەکە لە مندا دەدۆزرێتەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "بڵێن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ڕاودەگیرێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "و ڕەگ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "دەدۆزرێتەوە"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە مندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:04.656996538Z",
+  "model": "glm-5.3"
+}

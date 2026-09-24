@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و یاهوە دڵی فارعۆنی ⟨את⟩ قایم کرد، و نەیویست بیاننێرێت.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "و قایم کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فارعۆن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "ویست"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "بیاننێرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:39:55.439720225Z",
+  "model": "glm-5.3"
+}

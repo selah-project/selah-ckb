@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 66,
+  "translation": "شکۆی ناوی بزمێننەوە، شکۆ بە ستایشی دابنێن.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "بزمێننەوە"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "دابنێن"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ستایشی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:04.015140018Z",
+  "model": "glm-5.3"
+}

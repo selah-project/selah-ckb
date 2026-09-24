@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "بارانی دۆڵی بینین. چیت بێتە ئێستا، چونکە هەموو خۆت بەرز بوویتە سەربانەکان؟",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "دۆڵ"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "بینین"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تۆی بێت"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "بەرز بوویتەوە"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "هەموو خۆت"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "سەربانەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:19:35.843546314Z",
+  "model": "glm-5.3"
+}

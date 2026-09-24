@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "شەو بۆ ڕۆژ دادەنێن، ڕووناکی نزیکە لەبەر تاریکی.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "بۆ ڕۆژ"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "دادەنێن"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ڕووناکی"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نزیکە"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تاریکی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:38:40.297305455Z",
+  "model": "glm-5.3"
+}

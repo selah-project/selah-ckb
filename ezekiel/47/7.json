@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "لە گەڕانمەوەدا، ئەوا لە لێواری ڕووبارەکەدا دارێکی زۆر ⟨زۆر⟩ زۆر، لەم لا و لەو لا.",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "لە گەڕانمەوەدا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لێواری"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ڕووبارەکە"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بەشێوەیەکی زۆر"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "لەم لا"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "و لەو لا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:25:23.839331813Z",
+  "model": "glm-5.3"
+}

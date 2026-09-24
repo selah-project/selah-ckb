@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و مۆشە ⟨موسا⟩ دابەزی بۆ لای گەلەکە و بۆیان فەرموو.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "و دابەزی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:43:51.280222101Z",
+  "model": "glm-5.3"
+}

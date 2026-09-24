@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "بینییەوە یاهوە، بێدەنگ مەبە، ئادۆنای، دوور مەبە لێم.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "بینییەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "بێدەنگ مەبە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دوور مەبە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لێم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:40.657520341Z",
+  "model": "glm-5.3"
+}

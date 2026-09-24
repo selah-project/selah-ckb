@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و یاهوە فەرموو: لێبوردیم وەک وشەی تۆ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "لێبوردیم"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "وەک وشەی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:46.584383202Z",
+  "model": "glm-5.3"
+}

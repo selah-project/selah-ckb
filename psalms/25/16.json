@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "ڕوو لە من بگەرێ و لێمبخشە چونکە تەنیا و دەستەنگانم.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "بگەرێ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "وחנני",
+      "gloss": "و لێمبخشە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "تەنیا"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "و دەستەنگان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:53.463198842Z",
+  "model": "glm-5.3"
+}

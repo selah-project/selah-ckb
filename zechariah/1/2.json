@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "تووڕەبوون تووڕە بوو یاهوە لەسەر باوکانی ئێوە",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "تووڕەبوون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "باوکانی ئێوە"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "تووڕەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:42:49.344807432Z",
+  "model": "glm-5.3"
+}

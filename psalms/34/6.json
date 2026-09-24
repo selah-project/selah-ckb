@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "ڕۆییانە ئەو و ڕووناک بوون و ڕووەکانیان با شەرمەزار نەبن.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ڕۆییانە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "و ڕووناک بوون"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "و ڕووەکانیان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با نە"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "شەرمەزار بن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:16.107939384Z",
+  "model": "glm-5.3"
+}

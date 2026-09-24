@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و هەموو بزۆکی باڵندە پیسە بۆ ئەوان؛ نەخۆردنیان بۆ ئەوان نییە",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "بزۆک"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "باڵندە"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیسە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خۆردنیان بۆ ئەوان نییە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:02.788793994Z",
+  "model": "glm-5.3"
+}

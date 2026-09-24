@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "لەبەر ئەوەی ⟨את⟩ یاهوە ئێلۆهیمت خزمەتی نەکرد بە شادی و بە چاکى دڵ، لە فراوانیی هەموو شتەکان.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "لەبەر ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خزمەتیت کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "بە شادی"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "و بە چاکى"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "لە فراوانیی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو شتەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:10.460369545Z",
+  "model": "glm-5.3"
+}

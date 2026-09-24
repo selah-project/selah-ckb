@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و زەڤادیا و مەشولام و حیزقی و حاڤەر ⟨كوڕانی بەریا⟩.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "و زەڤادیا"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "و مەشولام"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "و حیزقی"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "و حاڤەر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:16.535835699Z",
+  "model": "glm-5.3"
+}

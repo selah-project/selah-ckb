@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "زانیوم کە تۆ بۆ هەموو شت دەتوانیت، و هیچ پلانێک لە تۆ بەند ناکرێت.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "زانیوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو شت"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "دەتوانیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "بەند ناکرێت"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "پلانێک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:53.731570527Z",
+  "model": "glm-5.3"
+}

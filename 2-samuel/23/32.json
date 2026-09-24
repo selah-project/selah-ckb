@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئێلییاحبا هە شەعەلبۆنی، کوڕانی یاشێن: یێهۆناتان.",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "ئێلییاحبا"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "شەعەلبۆنی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "یاشێن"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یێهۆناتان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:00.428257280Z",
+  "model": "glm-5.3"
+}

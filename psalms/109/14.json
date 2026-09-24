@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "سەرکێشیی باوکانی لای یاهوە یادبێت، و گوناهی دایکی نا بسڕدرێتەوە.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "یادبێت"
+    },
+    {
+      "surface": "עון",
+      "gloss": "سەرکێشی"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "باوکانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "و گوناهی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "بسڕدرێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:23.430929065Z",
+  "model": "glm-5.3"
+}

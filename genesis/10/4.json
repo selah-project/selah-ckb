@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و کوڕانی یاوان: ئەلیشاه و تەرشیش، کیتیم و دۆدەنیم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "יון",
+      "gloss": "یاوان"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "ئەلیشاه"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "و تەرشیش"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "کیتیم"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "و دۆدەنیم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:16.939338563Z",
+  "model": "glm-5.3"
+}

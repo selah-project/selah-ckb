@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "با تۆمەتبارەکانم شەرم بپۆشن و وەک جل عارەکەیان بپۆسن.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "بپۆسن"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "تۆمەتبارەکانم"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "شەرم"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "و بپۆسن"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "وەک جل"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "عارەکەیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:10.184158044Z",
+  "model": "glm-5.3"
+}

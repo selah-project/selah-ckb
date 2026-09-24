@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "هەستە، ئەی یاهوە؛ ئەی ئێل، دەستت بەرز بکەرەوە؛ هەژاران لەبیر مەکە.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "هەستە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئەی ئێل"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "بەرز بکەرەوە"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "لەبیر مەکە"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "هەژاران"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:41.039498862Z",
+  "model": "glm-5.3"
+}

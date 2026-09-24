@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و یرمیاهو فەرمووی: وشەی یاهوە بۆم هات، بە وتەی،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو ⟨ئەرمیا⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتەی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:53:55.035764340Z",
+  "model": "glm-5.3"
+}

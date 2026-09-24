@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 96,
+  "translation": "چونکە یاهوە گەورەیە و زۆر بەستایشە، ئەو لەسەر هەموو خوداکان ترسێنەرە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورەیە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "و بەستایشە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ترسێنەرە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خوداکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:19.486781032Z",
+  "model": "glm-5.3"
+}

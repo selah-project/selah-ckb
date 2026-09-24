@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و بۆ هۆزی کوڕانی شیمعۆن شموئێل کوڕی عەمیهود.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "و بۆ هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعۆن"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عەمیهود"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:55.332829823Z",
+  "model": "glm-5.3"
+}

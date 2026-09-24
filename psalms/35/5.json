@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "ببن وەک کاهو لەبەردەم با، و فریشتەی یاهوە دەیانپەڕێنێتەوە.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ببن"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "وەک کاهو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "با"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "و فریشتەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "دەیانپەڕێنێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:46.862008999Z",
+  "model": "glm-5.3"
+}

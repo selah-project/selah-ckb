@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "شکاوە شاری بەتاڵی؛ هەموو خانوویەک لە چوونەژوورەوەوە داخراوە.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "شکاوە"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "بەتاڵی"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "داخراوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانوویەک"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "لە چوونەژوورەوەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:26.503460227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "خاوەنی ⟨the⟩ کورتی تووڕەیی نەفامێتی دەکات، و پیاوی پلانەکان لێی دەڕقێنرێت.",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "کورتی"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "نەفامێتی"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوی"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "پلانەکان"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "لێی دەڕقێنرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:24.139422663Z",
+  "model": "glm-5.3"
+}

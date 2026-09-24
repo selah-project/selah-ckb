@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 95,
+  "translation": "دڵی خۆتان سخت مەکەن وەک لە مەریڤا و وەک ڕۆژی مەسا لە بیابان",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مەکەن"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "دڵی خۆتان"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "وەک لە مەریڤا"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "وەک ڕۆژی"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "مەسا"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیابان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:04.636188641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ئەوەی نەکەوێت و سجدە نەبات، بەریدەکرێتە ناو کورەی ئاگری سوتێنەر.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و ئەوەی"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نـ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "دەکەوێت"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "و سجدە نەبات"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "بەریدەکرێت"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "کورەی"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ئاگری"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "سوتێنەر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:04:05.705651441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و یەعقوب هات لوز ⟨ئەوەی⟩ لە زەوی کەنەعانە، ئەوە بەیت ئێلە، ئەو و هەموو ئەو گەلەی لەگەڵی بوون.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "لوز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کەنەعان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ئەو گەلەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:49:18.548360467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 149,
+  "translation": "ناوی ⟨ئەو⟩ لە سەماکردندا ستایش بکەن، بە دەف و چەنگ بۆی بژەنن.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ستایش بکەن"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "لە سەماکردندا"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "بە دەف"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "و چەنگ"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "بژەنن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:34.544987164Z",
+  "model": "glm-5.3"
+}

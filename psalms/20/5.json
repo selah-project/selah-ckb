@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "بدات بە دڵی تۆ، و هەموو ئامۆژگارییەکەی تۆ پڕ بکاتەوە.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "بدات"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "دڵی تۆ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ئامۆژگارییەکەی تۆ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "پڕ بکاتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:08.560201095Z",
+  "model": "glm-5.3"
+}

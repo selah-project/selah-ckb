@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "لەسەر زەوی گەلەکەم دڕک و شووک ⟨دەڵێکێن⟩، چونکە لەسەر هەموو ماڵەکانی شادیی شاری شاد",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەلەکەم"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "دڕک"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "شووک"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "دێتە سەرەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ماڵەکانی"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "شادیی"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "شاد"
+    }
+  ],
+  "timestamp": "2026-09-24T12:22:10.386797904Z",
+  "model": "glm-5.3"
+}

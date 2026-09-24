@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و پەرعۆ ئاڤرامی بانگ کرد و وت: ئەمە چی کردووە بۆ من؟ بۆچی پێم نەگوت کە ئەوە خێزانەکەی تۆیە؟",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و بانگ کرد"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرعۆ"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ئاڤرامی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردووە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "گوتووتە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "خێزانەکەی تۆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:50.883765830Z",
+  "model": "glm-5.3"
+}

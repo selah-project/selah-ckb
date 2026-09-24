@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و هەموو گەل و هەموو ئیسرائیل لەو ڕۆژەدا زانیان کە لە پاشا نەبوو کوشتنی ⟨את⟩ ئەبنێری کوڕی نێر.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "و زانیان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "لە پاشا"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "کوشتن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەبنێری کوڕی نێر"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ئەبنێر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نێر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:31:41.494534562Z",
+  "model": "glm-5.3"
+}

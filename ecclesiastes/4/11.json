@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "هەروەها ئەگەر دووکە پێکەوە بخەون، گەرمییان بۆ دەبێت؛ بەڵام بۆ یەکێک بە تەنها چۆن گەرم دەبێت؟",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "بخەون"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دووکە"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "و گەرمی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "بەڵام بۆ یەکێک"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "گەرم دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:23.923075300Z",
+  "model": "glm-5.3"
+}

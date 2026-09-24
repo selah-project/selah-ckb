@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "بەرزیی ئاسمانەکان — چیت لێ دەکەیت؟ قووڵترە لە شێئۆل — چیت دەزانی؟",
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "بەرزیی"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمانەکان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תפעل",
+      "gloss": "دەکەیت"
+    },
+    {
+      "surface": "עמוה",
+      "gloss": "قووڵترە"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "لە شێئۆل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "دەزانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:48.671601367Z",
+  "model": "glm-5.3"
+}

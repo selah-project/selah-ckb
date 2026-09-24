@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و هەژاریت وەک ڕۆیشتووێک دێت، و نەداریت وەک پیاوێکی چەکدار.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "و دێت"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "وەک ڕۆیشتووێک"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "هەژاریت"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "و نەداریت"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "وەک پیاوێکی"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "چەکدار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:42.360194403Z",
+  "model": "glm-5.3"
+}

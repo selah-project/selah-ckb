@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و داود بە بەیانی هەستا و وشەی یاهوە هات بۆ گاد پێغەمبەر بینەری داود بەم زاراوەیە.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و هەستا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "بە بەیانی"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەر"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "بینەر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زاراوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:31.345789811Z",
+  "model": "glm-5.3"
+}

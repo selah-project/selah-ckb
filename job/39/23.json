@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 39:23",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "کوانەکەی تیر لەسەری دەقیرە، نەوکەی ڕم و خەنجەر.",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "دەقیرە"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "کوانەکەی تیر"
+    },
+    {
+      "surface": "להב",
+      "gloss": "نەوکە"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ڕم"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "و خەنجەر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:39.849505496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و لە دەستی ئەو یەهوحانان ⟨سەرەکە⟩، و لەگەڵ ئەو دوو سەد و هەشتا هەزار.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یەهوحانان"
+    },
+    {
+      "surface": "השר",
+      "gloss": "سەرەکە"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "و لەگەڵ ئەو"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "و هەشتا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:23.514800226Z",
+  "model": "glm-5.3"
+}

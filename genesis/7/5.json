@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و نۆح ⟨את⟩ هەموو ئەوەی ئەنجامدا کە یاهوە فەرمانی پێکردبوو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ئەنجامدا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆح"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "هەموو ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "فەرمانی پێکردبوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:06.841587715Z",
+  "model": "glm-5.3"
+}

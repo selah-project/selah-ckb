@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 13:21",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەڤییا ⟨ئەبیا⟩ خۆی بەهێز کرد و چوارده ژنی بۆ خۆی هەڵگرت و بیست و دوو کوڕ و شازده کچی بوو.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "خۆی بەهێز کرد"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ئەڤییا ⟨ئەبیا⟩"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "هەڵگرت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "بوو بە"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ده"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:05.009912080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "تاجی شکۆ سپیی ڕیشە؛ لە ڕێگای دادپەروەرییەوە دەدۆزرێتەوە.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاجی"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "سپیی ڕیشە"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگای"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "دادپەروەرییەوە"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "دەدۆزرێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:24.183371208Z",
+  "model": "glm-5.3"
+}

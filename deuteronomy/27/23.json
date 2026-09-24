@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "لەنەفرەتکراوە ⟨کە⟩ لەگەڵ خوشاسوەکەی دەخەوێت، و هەموو گەلەکە دەڵێت: ئامین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لەنەفرەتکراوە"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "دەخەوێت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "خوشاسوەکەی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ئامین"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:57.054267481Z",
+  "model": "glm-5.3"
+}

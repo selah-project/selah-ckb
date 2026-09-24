@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 139,
+  "translation": "لە پشتەوە و لە پێشەوە گیرم خستووە و دەستت لەسەر من داناوە.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "لە پشتەوە"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "و لە پێشەوە"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "گیرم خستووە"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "و داناوە"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر من"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "دەستت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:33.407877684Z",
+  "model": "glm-5.3"
+}

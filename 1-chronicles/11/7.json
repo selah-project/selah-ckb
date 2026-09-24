@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و داود لە قەڵاکەدا ژیان بەسەر برد؛ لەبەر ئەوە ناویان نا شاری داود.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ژیان بەسەر برد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "لە قەڵاکەدا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ناویان نا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:12.151201619Z",
+  "model": "glm-5.3"
+}

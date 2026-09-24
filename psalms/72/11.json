@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 72,
+  "translation": "و هەموو پادشاکان سەجدەی بۆ دەبەن، هەموو گەلان خزمەتی دەکەن",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "و سەجدەی بۆ دەبەن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادشاکان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "خزمەتی دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:24.165651086Z",
+  "model": "glm-5.3"
+}

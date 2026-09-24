@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و دوژمنەکانم مڵت بە من بەخشیت، و ڕقیبەکانمم لەناو بردن.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "و دوژمنەکانم"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "بەخشیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "مڵ"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "و ڕقیبەکانم"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "لەناویان بردن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:34.904156773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "دەنگی خۆشەویستەکەم! ئەوەتا ئەو دێت، لەسەر چیاکان باز دەدات، لەسەر تەپۆڵکەکان هەڵدەپەڕێت.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "دەنگ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "خۆشەویستەکەم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "باز دەدات"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "چیاکان"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "هەڵدەپەڕێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "تەپۆڵکەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:05.856115432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کەمێک خەو، کەمێک چڕوپڕ، کەمێک بەستنی دەستەکان بۆ خەوتن،",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "کەمێک"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "خەو"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کەمێک"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "چڕوپڕ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کەمێک"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "بەستن"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دەستەکان"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "بۆ خەوتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:42.360035501Z",
+  "model": "glm-5.3"
+}

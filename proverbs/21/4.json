@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "بەرزیی چاوان و فراوانیی دڵ، شێوێنی رەشەبایان، گوناهە.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "بەرزیی"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چاوان"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و فراوانیی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "شێوێنی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رەشەبایان"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گوناهە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:01.958120230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 83,
+  "translation": "چادری ئەدۆم و ئیشماعیلییەکان، موئاب و هاگرییەکان،",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "چادری"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "و ئیشماعیلییەکان"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موئاب"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "و هاگرییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:09.735879435Z",
+  "model": "glm-5.3"
+}

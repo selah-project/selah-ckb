@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و فەرموو: بۆم بهێنن دەفرێکی نوێ و خوێی تێدا دابنێن. و هێنایان بۆی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "بهێنن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "دەفرێک"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "نوێ"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "و دابنێن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "تێدا"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "خوێ"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "و هێنایان"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:58:51.268510059Z",
+  "model": "glm-5.3"
+}

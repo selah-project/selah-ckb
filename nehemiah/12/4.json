@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "«عیدوو، گینێتون، ئەڤییا»",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "عیدوو"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "گینێتون"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ئەڤییا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:16.372069605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 100,
+  "translation": "مەزمووری سوپاس. هەرەقە بۆ یاهوە بکەن، هەموو زەوی.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموور"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "سوپاس"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "هەرەقە بکەن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:22.147908367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بیبەستە سەر پەنجەکانت، بینووسە سەر لەوحی دڵت.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "بیبەستە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "پەنجەکانت"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "بینووسە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "لەوحی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:47.501616171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و ڕۆیشتنی بوو مەشهوا، بە ڕۆیشتن بۆ سەفار، چیای ڕۆژهەڵات.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "ڕۆیشتنی"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "لە مەشهوا"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "بە ڕۆیشتن"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "بۆ سەفار"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "ڕۆژهەڵات"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:16.186710574Z",
+  "model": "glm-5.3"
+}

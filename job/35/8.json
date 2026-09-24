@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 35:8",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "تاوانت بۆ مرۆڤێکی وەک تۆیە، و ڕاستیت بۆ کوڕی ئادەمە.",
+  "tokens": [
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ مرۆڤ"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "وەک تۆ"
+    },
+    {
+      "surface": "רשעך",
+      "gloss": "تاوانت"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "و بۆ کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ڕاستیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:45:22.417489036Z",
+  "model": "glm-5.3"
+}

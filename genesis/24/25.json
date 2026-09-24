@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و فەرمووی بۆ ئەو: هەم کاه هەم ڤەخڵ زۆرە لای ئێمە، هەروەها شوێنیش بۆ شەوانەتن",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەم"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "کاه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەم"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "ڤەخڵ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "لای ئێمە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێن"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "بۆ شەوانەتن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:44.936460257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "باکور دەپەچێت لەسەر تۆهوو و زەوی هەڵدەواسێت لەسەر هیچ",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "دەپەچێت"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "باکور"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "تۆهوو"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "هەڵدەواسێت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بە"
+    },
+    {
+      "surface": "מה",
+      "gloss": "هیچ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:14.369119158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "وت لە دڵیدا: هەرگیز نالەکەم، بۆ نەوە و نەوە، کە لە خراپیدا نایبم.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "لە دڵیدا"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هەرگیز"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "نالەکەم"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "بۆ نەوە"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "و نەوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "لە خراپیدا نایبم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:39.471376175Z",
+  "model": "glm-5.3"
+}

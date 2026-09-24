@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 49:11",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "و هەموو چیاکانم بۆ ڕێگا دەینێم و شەقامەکانم بەرز دەبنەوە.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "و دەینێم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "چیاکانم"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "بۆ ڕێگا"
+    },
+    {
+      "surface": "ומסלתי",
+      "gloss": "و شەقامەکانم"
+    },
+    {
+      "surface": "ירמון",
+      "gloss": "بەرز دەبنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:29:17.359192318Z",
+  "model": "glm-5.3"
+}

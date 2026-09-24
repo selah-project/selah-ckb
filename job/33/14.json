@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "چونکە یەکجار قسە دەکات ئێل، و بە دووجار ئەوەی دەبێت نابینێت،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "یەکجار"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "قسە دەکات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "و بە دووجار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "نابینێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:59.902093823Z",
+  "model": "glm-5.3"
+}

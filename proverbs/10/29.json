@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ڕێگای یاهوە قەڵای تەواوانە، و هەڵوەشاندنەوەی کارکەرانی خراپە.",
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "قەڵا"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "بۆ تەواو"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "و هەڵوەشاندنەوە"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "بۆ کارکەرانی"
+    },
+    {
+      "surface": "און",
+      "gloss": "خراپە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:12.211580754Z",
+  "model": "glm-5.3"
+}

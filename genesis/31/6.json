@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و ئێوە دەزانن کە بە هەموو هێزی خۆم خزمەتی باوکتانم کردووە.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "و ئێوە"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "دەزانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "כחی",
+      "gloss": "هێزی خۆم"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "خزمەتم کردووە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باوکتان"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "باوکتان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:54.948742747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "لەبەر ئەوە زگم بۆ مۆئاب وەک چەمەنە دەنگ دەدات، و ناخم بۆ قیر خارەس.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "زگم"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "بۆ مۆئاب"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "وەک چەمەنە"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "دەنگ دەدات"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "و ناخم"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "بۆ قیر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "خارەس"
+    }
+  ],
+  "timestamp": "2026-09-24T12:18:31.306126106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "لە ⟨את⟩ یاهوە بووە ئەمە، ئەو سەرسوڕهێنەرە لە چاوانماندا.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩",
+      "marks": "ئەمە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "سەرسوڕهێنەرە"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "لە چاوانماندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:55.571735581Z",
+  "model": "glm-5.3"
+}

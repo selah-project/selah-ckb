@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و بەم قسەیە گوێی لێیان گرت، و دە ڕۆژ تاقی کردنەوە.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و گوێی گرت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لێیان"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "بەم قسەیە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "و تاقی کردنەوە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:01:29.133899592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و بوو کە لە سەختی منداڵبوینیدا، قابەلەکە پێی وت: مەترسە، چونکە ئەمەش کوڕێکە بۆ تۆ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "لە سەختی"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "منداڵبوینیدا"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "قابەلەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ترسە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمەش"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:36.137885389Z",
+  "model": "glm-5.3"
+}

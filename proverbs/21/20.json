@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "گەنجینەی خوازراو و ڕۆن لە ماڵی زانادایە، بەڵام نەفامێک قوتی دەدات.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "گەنجینەی"
+    },
+    {
+      "surface": "נחمד",
+      "gloss": "خوازراو"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "و ڕۆن"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "زانا"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "بەڵام نەفامێک"
+    },
+    {
+      "surface": "אדם",
+      "gloss": ""
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "قوتی دەدات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:06.143180731Z",
+  "model": "glm-5.3"
+}

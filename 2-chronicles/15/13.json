@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 15:13",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "وە هەر کەسێک یاهوە ئێلۆهیمی ئیسرائیل نەگەڕێت، دەکوژرێت، لە بچووکەوە و تا گەورە، لە پیاوەوە و تا ژن.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەر کەسێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "گەڕێت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "دەکوژرێت"
+    },
+    {
+      "surface": "למן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "بچووکەوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "لە پیاوەوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:37.495580885Z",
+  "model": "glm-5.3"
+}

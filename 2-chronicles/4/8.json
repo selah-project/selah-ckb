@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 4:8",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و دە مێز دروستکرد و لە پەرستگادا دانا — پێنج لای ڕاست و پێنج لای چەپ؛ و سەد کاسەی زێڕین دروستکرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و دروستکرد"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "مێز"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "و دانا"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "لە پەرستگا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "لای ڕاست"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "لای چەپ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و دروستکرد"
+    },
+    {
+      "surface": "מזרקי",
+      "gloss": "کاسەی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕین"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:28.995941903Z",
+  "model": "glm-5.3"
+}

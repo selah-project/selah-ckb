@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "تا کەی ئەمەکان دەڵێیت، و قسەکانی دەمت ⟨ئەن⟩ ڕۆحێکی بەهێز؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אן",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "دەڵێیت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمەکان"
+    },
+    {
+      "surface": "وרוח",
+      "gloss": "و ڕۆح"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "قسەکانی"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دەمت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:18.597845649Z",
+  "model": "glm-5.3"
+}

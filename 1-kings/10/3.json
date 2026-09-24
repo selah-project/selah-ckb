@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و شلۆمۆ هەموو قسەکانی ⟨את⟩ بۆ ڕوون کردەوە، هیچ شتێک لە پاشا نەشاردرابووەوە کە بۆی ڕوونی نەکردبێتەوە.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "و ڕوون کردەوە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "قسەکانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شت"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "شاردراوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ڕوون کردەوە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:49:56.791880652Z",
+  "model": "glm-5.3"
+}

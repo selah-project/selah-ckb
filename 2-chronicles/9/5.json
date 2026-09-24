@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و وت بۆ پاشا: ڕاستیی ئەو قسەیە کە لە وڵاتەکەم بیستم، لەسەر قسەکانت و لەسەر داناییت.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "بیستم"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "لە وڵاتەکەم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "قسەکانت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "داناییت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:51.280955874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و گۆشتی کوڕەکانتان دەخۆن و گۆشتی کچەکانتان دەخۆن.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "و دەخۆن"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشتی"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "کوڕەکانتان"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "و گۆشتی"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "کچەکانتان"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "دەخۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:42.461244405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "بەنایەه، بەدەیەه، کەلوحای.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "بەنایەه"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "بەدەیەه"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "کەلوحای"
+    }
+  ],
+  "timestamp": "2026-09-24T15:13:18.121353072Z",
+  "model": "glm-5.3"
+}

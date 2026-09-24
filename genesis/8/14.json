@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و لە مانگی دووەمدا، لە حەوت و بیست ڕۆژی مانگدا، زەوییەکە وشک بوو.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "و لە مانگ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "لە حەوت"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "لە مانگ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "وشک بوو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوییەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:19.626339456Z",
+  "model": "glm-5.3"
+}

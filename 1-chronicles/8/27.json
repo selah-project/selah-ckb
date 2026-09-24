@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و یەعەرێشییەه و ئێلییەه و زیخری، کوڕەکانی یێروحام.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "و یەعەرێشییەه"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "و ئێلییەه"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "و زیخری"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یێروحام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:36.871454135Z",
+  "model": "glm-5.3"
+}

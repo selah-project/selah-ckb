@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "وا فەرموو یاهوە بۆ من: بۆ خۆت بەندەکان و یووکەکان بکە و بیانخە سەر مڵت.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بکە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "بەندەکان"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "و یووکەکان"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "و بیانخە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "مڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:50:15.944786509Z",
+  "model": "glm-5.3"
+}

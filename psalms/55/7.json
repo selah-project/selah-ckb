@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 55,
+  "translation": "و وت: کێ بەم دەدات باڵێک وەک کۆتر، بفڕم و بنیشمەوە.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بەم"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "باڵێک"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "وەک کۆتر"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "بفڕم"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "و بنیشمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:01.613706558Z",
+  "model": "glm-5.3"
+}

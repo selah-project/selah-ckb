@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە دەنگێک لە دان ڕادەگەیەنێت، و لە چیای ئێفرایم دەنگی بەڵا ڕادەکات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگێک"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ڕادەگەیەنێت"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "لە دان"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "و ڕادەکات"
+    },
+    {
+      "surface": "און",
+      "gloss": "بەڵا"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "لە چیای"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:29.370641015Z",
+  "model": "glm-5.3"
+}

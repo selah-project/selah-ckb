@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "⟨את⟩ دەریاکە یەک، و ⟨את⟩ گاڵاکە دوازدە لەژێر ئەودا.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەریاکە"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریاکە"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گاڵاکە"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گاڵاکە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لەژێر ئەودا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:28.611635416Z",
+  "model": "glm-5.3"
+}

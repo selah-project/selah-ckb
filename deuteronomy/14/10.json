@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و هەموو ئەوەی پەڵەوانگ و قەپرەڵەی نییەتی نایخۆن؛ پیسە بۆ ئێوە.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییەتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پەڵەوانگ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "و قەپرەڵە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "نایخۆن"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیسە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:00.401471154Z",
+  "model": "glm-5.3"
+}

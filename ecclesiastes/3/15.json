@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەوەی بووە هەر ⟨هەیە⟩، و ئەوەی دەبێت پێشتر بووە، و ئێلۆهیم ⟨את⟩ ڕاوداڕاوەکە دەگەڕێنێتەوە.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "هەر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هەیە⟩"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و ئەوەی"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پێشتر"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "و ئێلۆهیم"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "دەگەڕێنێتەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕاوداڕاوەکە"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ڕاوداڕاوەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:06:15.852911332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 32:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و یەعقوب وتی کاتێک ئەوانی بینی کەمپی ئێلۆهیمە ئەمە، و ناوی ئەو شوێنە نا مەحەنایم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "ئەوانی بینی"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "کەمپ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناو نا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ئەو شوێنە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "مەحەنایم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:24.012912519Z",
+  "model": "glm-5.3"
+}

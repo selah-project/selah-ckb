@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "لەپێدەری مرۆڤ دواتر ڕەزامەندی دەدۆزێتەوە، زیاتر لە چاپلووسێکی زمان.",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "لەپێدەر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دواتر"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ڕەزامەندی"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "دەدۆزێتەوە"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "چاپلووس"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:54.919603874Z",
+  "model": "glm-5.3"
+}

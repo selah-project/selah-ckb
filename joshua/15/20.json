@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 15:20",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ئەمە میراتی هۆزی کوڕانی یەھوودایە بۆ خێزانەکانیان.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراتی"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەھوودا"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "بۆ خێزانەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:19.394683624Z",
+  "model": "glm-5.3"
+}

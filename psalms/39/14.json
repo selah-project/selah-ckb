@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "ڕوانین لێم مەکە و دڵخۆش دەبمەوە، پێش ئەوەی بڕۆم و نەبم.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "ڕوانین لێم مەکە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "و دڵخۆش دەبمەوە"
+    },
+    {
+      "surface": "بטרם",
+      "gloss": "پێش ئەوەی"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "بڕۆم"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "و نەبم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:45.743968574Z",
+  "model": "glm-5.3"
+}

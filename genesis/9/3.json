@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "هەموو ئەو شتەی خزوو کە زیندووە، بۆ ئێوە دەبێت بۆ خواردن، وەک سەوزی گیا ⟨את⟩ هەمووی پێدەداوەم.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "شتەی خزوو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئەوە⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندووە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "بۆ خواردن"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "وەک سەوزی"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گیا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "پێدەداوەم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پێتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەمووی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:12.232568203Z",
+  "model": "glm-5.3"
+}

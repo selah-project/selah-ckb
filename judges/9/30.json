@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و زێڤول سەرۆکی شارەکە قسەکانی گەعال کوڕی عێڤێد ⟨את⟩ بیست، و تووڕەیی هەڵگیرسایە.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "زێڤول"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قسەکانی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "قسەکانی"
+    },
+    {
+      "surface": "געל",
+      "gloss": "گەعال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عێڤێد"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "و هەڵگیرسا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "تووڕەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:07:50.545273436Z",
+  "model": "glm-5.3"
+}

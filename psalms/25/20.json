@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "گیانم بپارێزە و ڕزگarm بکە؛ شەرمەزار نەبم، چونکە لە تۆ پەنام بردووە.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "و ڕزگارم بکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "شەرمەزار ببم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پەنام بردووە"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:48.864381756Z",
+  "model": "glm-5.3"
+}

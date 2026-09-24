@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "درۆم ڕقم لێیە و پێشم ڕقاوە، تۆراکەت خۆشویستم.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ڕقم لێیە"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "و پێشم ڕقاوە"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تۆراکەت"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "خۆشویستم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:24.285139146Z",
+  "model": "glm-5.3"
+}

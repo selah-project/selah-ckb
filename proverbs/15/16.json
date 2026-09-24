@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "چەندەک بە ترسەوە لە یاهوە باشترە لە گەنجینەیەکی زۆر و هەژمەن لەگەڵی.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "باشترە"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "چەندەک"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "بە ترسەوە لە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "لە گەنجینە"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "و هەژمەن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەگەڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:10.019345156Z",
+  "model": "glm-5.3"
+}

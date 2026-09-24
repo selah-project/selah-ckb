@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "لەسەر تۆ فڕێدرام لە زگ، لە سکی دایکم، ئێل ⟨هی⟩ تۆی.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "لەسەر تۆ"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "فڕێدرام"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "لە زگ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "لە سک"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "دایکم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:30.244794478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "شێتەکان زۆر گاڵتەم پێکرد، بەڵام لە تۆرات لار نەبوومەوە.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "شێتەکان"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "گاڵتەم پێکرد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "لە تۆرات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "لار بوومەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:50.256733307Z",
+  "model": "glm-5.3"
+}

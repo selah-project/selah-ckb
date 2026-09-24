@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "مە حسودی بکە بە پیاوی زوڵم، و مە هەڵبژێرە هیچ لە ڕێگاکانی.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسودی بکە"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "بە پیاو"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زوڵم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "هەڵبژێرە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هیچ لە"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ڕێگاکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:03:40.258623712Z",
+  "model": "glm-5.3"
+}

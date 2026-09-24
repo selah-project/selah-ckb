@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "چونکە لە زۆریی داناییدا زۆر تووڕەیی ⟨هەیە⟩، و ئەوەی زانیاری زیاد دەکات ئازاری زیاد دەکات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "لە زۆریی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "و زیاد دەکات"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "زیاد دەکات"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ئازار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:54:52.192452628Z",
+  "model": "glm-5.3"
+}

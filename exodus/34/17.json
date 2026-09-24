@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "خودایەکی داتاشراو بۆ خۆت دروست مەکە.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "خودایەکی"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "داتاشراو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مەکە"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دروست بکە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:52:35.760797643Z",
+  "model": "glm-5.3"
+}

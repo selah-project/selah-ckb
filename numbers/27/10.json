@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ئەگەر برایانی نییەتە بۆی، دەیدەن ⟨את⟩ میراتەکەی بۆ برایانی باوکی.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییەتە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "برایانی"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "دەیدەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میراتەکەی"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراتەکەی"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "بۆ برایانی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:41.538354575Z",
+  "model": "glm-5.3"
+}

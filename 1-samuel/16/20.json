@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 16:20",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و ییشای کەرێکی نان و مشتێکی شەراب و بەزێکی بزن — یەکێک — گرت و بە دەستی داویدی کوڕی نارد بۆ شائول.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و گرت"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ییشای"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "کەرێکی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ונאد",
+      "gloss": "و مشتێکی"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شەراب"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "و بەزێکی"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "و نارد"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    }
+  ],
+  "timestamp": "2026-09-24T11:23:30.785376746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "ڕووت بێ جل دەڕۆن و بێخۆران کۆڵەکەی گەنم هەڵدەگرن",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "دەڕۆن"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "جل"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "و بێخۆران"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "هەڵدەگرن"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "کۆڵەکەی گەنم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:14.946185180Z",
+  "model": "glm-5.3"
+}

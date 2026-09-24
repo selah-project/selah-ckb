@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "زەنەکانت بە ڕیزەکان جوانن ملەکەت بە مۆرەکان",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "جوانن"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "زەنەکانت"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "بە ڕیزەکان"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ملەکەت"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "بە مۆرەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:40.597657318Z",
+  "model": "glm-5.3"
+}

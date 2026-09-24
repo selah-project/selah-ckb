@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "چونکە گیانم بۆ شێئۆل بەجێناهێڵیت، حەسیدەکەتیش نادات چاڵی لێبکاوی ببینێت",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "بەجێناهێڵیت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "بۆ شێئۆل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "نادات"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "حەسیدەکەت"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ببینێت"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "چاڵی لێبکاوی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:42.074783070Z",
+  "model": "glm-5.3"
+}

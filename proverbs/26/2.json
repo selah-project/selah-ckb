@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "وەک باڵندەی هەڵاتوو، وەک سنسکی فڕیو، هەروا نەفرەتی بێ هۆ نایگات.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "وەک باڵندە"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "بە هەڵاتن"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "وەک سنسک"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "بە فڕین"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەروا"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "نەفرەتی"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بێ هۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "دێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:01.574030852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "شیمعۆن و لێڤی ⟨هەن⟩ برایان؛ ئامرازی زوڵم شمشیرەکانیان ⟨هیە⟩.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعۆن"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "و لێڤی"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "برایان"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ئامرازی"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زوڵم"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "شمشیرەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:30.814351246Z",
+  "model": "glm-5.3"
+}

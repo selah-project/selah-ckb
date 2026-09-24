@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و میتسپەه و کەفیرەه و مۆتساه",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "و میتسپەه"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "و کەفیرەه"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "و مۆتساه"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:38.389996091Z",
+  "model": "glm-5.3"
+}

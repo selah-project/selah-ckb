@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "دەمخۆشی ⟨یە⟩ درۆ، و جوانی هیچە؛ ژنی ترسان لە یاهوە — ئەو ⟨خۆی⟩ ستایش دەکرێت.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "החן",
+      "gloss": "دەمخۆشی"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "و هیچە"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسان لە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ستایش دەکرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:22.455241412Z",
+  "model": "glm-5.3"
+}

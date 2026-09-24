@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و پێم فەرموو ئەی کوڕی ئادەم ئەوەی دەیدۆزیتەوە بیخۆ ئەم تۆمارە ⟨את⟩ بخۆ و بڕۆ لەگەڵ ماڵی یسرائیل قسە بکە",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و پێم فەرموو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "دەیدۆزیتەوە"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "بخۆ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "بخۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تۆمار"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "تۆمار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "و بڕۆ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسە بکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:06:25.565661926Z",
+  "model": "glm-5.3"
+}

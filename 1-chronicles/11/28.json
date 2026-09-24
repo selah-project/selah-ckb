@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "عیڕای کوڕی عیقێشی تەقووعی، ئەبیعەزەری عەناتۆتی.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عیڕا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عیقێش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "تەقووعی"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ئەبیعەزەر"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "عەناتۆتی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:26.909802648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و چەماوە مرۆڤ و نەزماوە پیاو و لێیان مەبەرەوە.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "و چەماوە"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "و نەزماوە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "هەڵبەرە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لێیان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:11:49.126444431Z",
+  "model": "glm-5.3"
+}

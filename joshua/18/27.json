@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و ڕەقەم و ییرپەئێل و تەڕەعەلاه",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "و ڕەقەم"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "و ییرپەئێل"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "و تەڕەعەلاه"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:38.390124469Z",
+  "model": "glm-5.3"
+}

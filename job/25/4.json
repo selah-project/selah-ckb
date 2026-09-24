@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 25:4",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و چۆن مرۆڤاوی لای ئێل ڕاست بێت؟ و چۆن لەدایکبووی ژن پاک بێت؟",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "و چۆن"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ڕاست بێت"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرۆڤاوی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چۆن"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "پاک بێت"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "لەدایکبووی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:30.538922703Z",
+  "model": "glm-5.3"
+}

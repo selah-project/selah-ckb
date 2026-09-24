@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ناحۆر نۆ و بیست ساڵ ژیا، و تێرەحی ⟨את⟩ بووە بە باوک.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحۆر"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بووە بە باوک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تێرەح"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تێرەح"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:57.221634334Z",
+  "model": "glm-5.3"
+}

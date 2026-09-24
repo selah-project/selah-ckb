@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە ماکهێلۆت ڕۆیشتن و لە تاحات چادر هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "لە ماکهێلۆت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "چادر هەڵکێشا"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "لە تاحات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:25.368129513Z",
+  "model": "glm-5.3"
+}

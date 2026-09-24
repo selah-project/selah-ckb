@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 112,
+  "translation": "لە هەواڵی خراپ ناترسێت، دڵی جێگیرە، پشت بە یاهوە دەبەستێت.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "لە هەواڵ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ناترسێت"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "جێگیرە"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "پشت دەبەستێت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بە یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:58.385010921Z",
+  "model": "glm-5.3"
+}

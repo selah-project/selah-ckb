@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "شەریکەی لەگەڵ دز گیانی خۆی دەچوڵێنێت؛ نەفرەت دەبیستێت و ئاشکرای ناکات.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "شەریکە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "دز"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "دەچوڵێنێت"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی خۆی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "نەفرەت"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "دەبیستێت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ئاشکرا دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:42.228784098Z",
+  "model": "glm-5.3"
+}

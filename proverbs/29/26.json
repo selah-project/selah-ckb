@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "زۆرنان ڕووی فەرمانڕەوا دەگەڕێن، و لە یاهوەوە دادپەروەریی مرۆڤە.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "زۆرنان"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "دەگەڕێن"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "فەرمانڕەوا"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "و لە یاهوەوە"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەریی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:25.513069611Z",
+  "model": "glm-5.3"
+}

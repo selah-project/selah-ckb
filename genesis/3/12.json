@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ئادەم ⟨موسا⟩ وت: ئەو ژنەی کە لەگەڵ من دانایت، ئەو پێم دا لەو دارە، و من خواردم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ژنەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "دانایت"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لەگەڵ من"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "دارەکە"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "و خواردم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:29.380194968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 74,
+  "translation": "پەرستگەکەتیان بە ئاگرەوە نارد، میشکانی ناوتان بۆ زەوی پیس کرد",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ناردن"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بە ئاگرەوە"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "پەرستگەکەت"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "بۆ زەوی"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "پیس کرد"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "میشکان"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:18.910290664Z",
+  "model": "glm-5.3"
+}

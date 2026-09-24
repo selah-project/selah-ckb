@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "چەوناچەونی ڕێگای پیاو و تاوانبار، و پاک — ڕاستە کارەکەی.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "چەوناچەونی"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "و تاوانبار"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "و پاک"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاستە"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کارەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:57.912190995Z",
+  "model": "glm-5.3"
+}

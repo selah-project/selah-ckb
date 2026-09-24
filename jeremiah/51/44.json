@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "jeremiah 51:44",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "و سەردانی بێل دەکەم لە بابل و ⟨את⟩ قووتی دەردەکەم لە دەمی، و گەلان ئیتر ڕوو لە ئەو ناکەن، دیواری بابلیش ڕووخا",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "و سەردانی دەکەم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بێل"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "והצאתי",
+      "gloss": "و دەردەکەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قووتی"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "قووتی"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "لە دەمی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ינהרו",
+      "gloss": "ڕوو ناکەن"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لە ئەو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "دیش"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "دیواری"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ڕووخا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:02:37.658073534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و میکا ⟨את⟩ دەستی لێڤی پڕ کرد، و گەنجەکە بۆی بوو بە کاهین، و بوو لە ماڵی میکا.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "و پڕ کرد"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەست"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "گەنجەکە"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "بە کاهین"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:12:46.282893780Z",
+  "model": "glm-5.3"
+}

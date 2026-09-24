@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و هەموو زین کە ئاوەڕۆکە سواری دەبێت پیس دەبێت.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "زین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "سواری دەبێت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ئاوەڕۆکە"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پیس دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:06:18.655322526Z",
+  "model": "glm-5.3"
+}

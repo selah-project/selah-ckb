@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "یاهوە سەرەبەردەکەم و قەڵا Saf; nothing — redo.",
+  "tokens": [],
+  "timestamp": "2026-09-24T13:50:55.643672957Z",
+  "model": "glm-5.3"
+}

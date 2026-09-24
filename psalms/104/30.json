@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 104,
+  "translation": "ڕۆحت دەنێریت، دروست دەکرێن، و ڕووی زەوی نوێ دەکەیتەوە.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "دەنێریت"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ڕۆحت"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "دەکرێن دروست"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "و نوێ دەکەیتەوە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:04.512587503Z",
+  "model": "glm-5.3"
+}

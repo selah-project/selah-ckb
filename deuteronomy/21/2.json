@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "دەردەچن پیرانی تۆ و دادوەرەکانت، و ئەپێون بۆ شارەکان، ئەوانەی دەوری کوژراوەکەن،",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "دەردەچن"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "پیرانی تۆ"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "و دادوەرەکانت"
+    },
+    {
+      "surface": "وמדדو",
+      "gloss": "و ئەپێون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شارەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوانەی"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "دەوری"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "کوژراوەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:17.428770548Z",
+  "model": "glm-5.3"
+}

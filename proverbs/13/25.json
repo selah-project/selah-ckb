@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "دادپەروەر دەخوات بۆ تێربوونی گیانی خۆی، و سکی خراپان بەتاڵە.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "دادپەروەر"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "بۆ تێربوونی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی خۆی"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "و سکی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپان"
+    },
+    {
+      "surface": "תחسר",
+      "gloss": "بەتاڵە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:25.578126190Z",
+  "model": "glm-5.3"
+}

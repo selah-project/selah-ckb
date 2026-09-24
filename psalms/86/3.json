@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 86,
+  "translation": "میهرەبانم بەرەو، ئەی ئادۆنای، چونکە هەموو ڕۆژەکە بۆ تۆ بانگ دەکەم.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "میهرەبانم بەرەو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "بانگ دەکەم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:20.463728554Z",
+  "model": "glm-5.3"
+}

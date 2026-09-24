@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و کچی فیڕعەون بۆی وت: بڕۆ. و گەنجە کچەکە ڕۆیشت و بانگی کرد ⟨את⟩ دایکی منداڵەکە.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیڕعەون"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "و ڕۆیشت"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "گەنجە کچەکە"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و بانگی کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دایکی منداڵەکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "منداڵەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:58.905451389Z",
+  "model": "glm-5.3"
+}

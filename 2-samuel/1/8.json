@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و پێم فەرموو: تۆ کێیت؟ و پێی وتم: من عەمەلەقییم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "عەمەلەقیی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "منم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:31:09.462677883Z",
+  "model": "glm-5.3"
+}

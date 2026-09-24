@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و ⟨את⟩ جلەبەرگی ئێفۆد دروست دەکەیت، بە تەواوی شین.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و دروست دەکەیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جلەبەرگی ئێفۆد"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "جلەبەرگ"
+    },
+    {
+      "surface": "האفוד",
+      "gloss": "ئێفۆد"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "بە تەواوی"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "شین"
+    }
+  ],
+  "timestamp": "2026-09-24T09:51:17.683600931Z",
+  "model": "glm-5.3"
+}

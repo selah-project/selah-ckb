@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و نۆح کوڕی پێنج سەد ساڵ بوو، و نۆح ⟨את⟩ شێم و ⟨את⟩ حام و ⟨את⟩ یافێتی باوکرد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و باوکرد"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نۆح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شێم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شێم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یافێت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:26.009070188Z",
+  "model": "glm-5.3"
+}

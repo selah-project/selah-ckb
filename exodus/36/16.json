@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و ⟨את⟩ پێنج پەردەکە جیا بەست و ⟨את⟩ شەش پەردەکە جیا.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "و بەست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پێنج پەردەکە"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پەردەکە"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شەش پەردەکە"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پەردەکە"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جیا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:51.200392600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ڕاوێژ چاودێریت لێدەکات، تێگەیشتن دەتپارێزێت.",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "ڕاوێژ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "چاودێریت لێدەکات"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەرت"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "تێگەیشتن"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "دەتپارێزێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:15.190566977Z",
+  "model": "glm-5.3"
+}

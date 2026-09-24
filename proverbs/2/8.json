@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "بۆ پاراستنی ڕێگاکانی داد، و ڕێگای حەسیدانی خۆی دەپارێزێت.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "بۆ پاراستنی"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ڕێگاکانی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "و ڕێگای"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "حەسیدانی خۆی"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "دەپارێزێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:18.884922405Z",
+  "model": "glm-5.3"
+}

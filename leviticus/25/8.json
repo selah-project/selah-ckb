@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 25:8",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و بۆ خۆت حەوت شباتی ساڵ دەژمێریت، حەوت ساڵ حەوت جار، و دەبن بۆ تۆ ڕۆژەکانی حەوت شباتی ساڵەکان، نۆ و چل ساڵ.",
+  "tokens": [
+    {
+      "surface": "וספרת",
+      "gloss": "و دەژمێریت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "شباتی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "جار"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "شباتی"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ساڵەکان"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:10:16.525722053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "چە سوود هەیە بۆ ئەوەی کاردەکات لەوەی کە تێیدا زەحمەت دەکێشێت؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چە"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "سوود"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ئەوەی کاردەکات"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "لەوەی کە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زەحمەت دەکێشێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:40.329141666Z",
+  "model": "glm-5.3"
+}

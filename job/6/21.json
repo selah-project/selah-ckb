@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چونکە ئێستا ئێوە ⟨بێفایدە⟩ بوونە، تۆقین دەبینن و دەترسن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "بوونە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨بێفایدە⟩"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "دەبینن"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "تۆقین"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "و دەترسن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:26.649672603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 20:14",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "نەفرەت لەو ڕۆژە بێت کە تێیدا لەدایک بووم، ڕۆژێک کە دایکم منی بوو، بەرەکەت لەسەر نەبێت.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "نەفرەت لە بێت"
+    },
+    {
+      "surface": "היום",
+      "gloss": "و ڕۆژەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "لەدایک بووم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "منی بوو"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "دایکم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بەرەکەت لەسەر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:45:54.311702813Z",
+  "model": "glm-5.3"
+}

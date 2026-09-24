@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 14:27",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و کاهین بە پەنجەی ڕاستی لە روونەکەی کە لەسەر بەر دەستی چەپیدایە شاشکرد، حەوت جار لەبەردەم یاهوە",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "و شاشکرد"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "بە پەنجەی"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "روونەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "بەر دەستی"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "چەپ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "جار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:04:53.170910144Z",
+  "model": "glm-5.3"
+}

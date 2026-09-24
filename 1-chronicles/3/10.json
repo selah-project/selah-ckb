@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و کوڕی شێلۆمۆ ڕەحەڤەعام بوو، ئەڤییە کوڕی، ئاسا کوڕی، یێهۆشافات کوڕی.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "و کوڕی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شێلۆمۆ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ڕەحەڤەعام"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ئەڤییە"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ئاسا"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یێهۆشافات"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "کوڕی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:53.612115323Z",
+  "model": "glm-5.3"
+}

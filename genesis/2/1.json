@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و تەواو بوون ئاسمانەکان و زەویەکە و هەموو سەڤائۆتەکانیان.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "و تەواو بوون"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکان"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "و زەویەکە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "سەڤائۆتەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:40.880540148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بەڵکو لە یاهوە ئێلۆهیمی ئێوە چەسپاون، وەک چۆن هەتا ئەم ڕۆژە کردووتانە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "لە یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمی ئێوە"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "چەسپاون"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "کردووتانە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:02:46.270713032Z",
+  "model": "glm-5.3"
+}

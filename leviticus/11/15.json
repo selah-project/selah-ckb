@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "⟨את⟩ هەموو عۆرێب بە جۆرەکەی.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو عۆرێب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "عۆرێب"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "بە جۆرەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:27.604461961Z",
+  "model": "glm-5.3"
+}

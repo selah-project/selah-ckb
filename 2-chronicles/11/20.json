@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە دوای ئەو ⟨את⟩ مەعەخەی کچی ئەڤشالۆمی گرت، و کوڕانی بۆ بوو: ⟨את⟩ ئەبیا و ⟨את⟩ عەتای و ⟨את⟩ زیزا و ⟨את⟩ شلۆمیت.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "و لە دوای ئەو"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەعەخە"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مەعەخە"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ئەڤشالۆم"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "بوو بە خاوەن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەبیا"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ئەبیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "عەتای"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "عەتای"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زیزا"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "زیزا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شلۆمیت"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شلۆمیت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:36:02.648988165Z",
+  "model": "glm-5.3"
+}

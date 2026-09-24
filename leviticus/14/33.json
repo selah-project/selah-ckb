@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و یاهوە قسەی کرد لەگەڵ مۆشە ⟨موسا⟩ و لەگەڵ ئەهارۆن بە وتنەوە،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئەهارۆن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:04:18.516452191Z",
+  "model": "glm-5.3"
+}

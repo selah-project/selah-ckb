@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و نەحشۆن سالمای بەخێو کرد و ⟨את⟩ سالما ⟨את⟩ بوعەزی بەخێو کرد",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "و نەحشۆن"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سالما"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سالما"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "و سالما"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوعەز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعەز"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:08.982396537Z",
+  "model": "glm-5.3"
+}

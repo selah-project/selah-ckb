@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئیمیم پێشتر تێیدا نیشتەجێ بوون، گەلێک گەورە و زۆر و بەرز، وەک عەناقیم.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ئیمیم"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پێشتر"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "نیشتەجێ بوون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەلێک"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و زۆر"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "و بەرز"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "وەک عەناقیم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:29.377181737Z",
+  "model": "glm-5.3"
+}

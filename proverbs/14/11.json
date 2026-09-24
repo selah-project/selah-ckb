@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ماڵی خراپەکاران دەڕووخێت، و چادری ڕاستان گەش دەكاتەوە.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکاران"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "دەڕووخێت"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "و چادری"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ڕاستان"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "گەش دەکاتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:43.891857772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و وتی بۆیان: ئایا ⟨את⟩ لابان کوڕی ناحور دەناسن؟ وتیان: دەیناسین.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "دەناسن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لابان"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وتیان"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "دەیناسین"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:13.483551465Z",
+  "model": "glm-5.3"
+}

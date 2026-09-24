@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "گوێگرن ئەی ئاسمانەکان و من قسە دەکەم، و بیست ئەی زەوی، وشەکانی دەمم.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "گوێگرن"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئەی ئاسمانەکان"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "و من قسە دەکەم"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ئەی زەوی"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:57.553322345Z",
+  "model": "glm-5.3"
+}

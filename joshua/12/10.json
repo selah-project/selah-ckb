@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "پاشای یەروشالایم یەک؛ پاشای حەڤرۆن یەک؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یەروشالایم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حەڤرۆن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T10:56:37.101840644Z",
+  "model": "glm-5.3"
+}

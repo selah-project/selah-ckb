@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و بینیم، و ئەوەتا دەستێکی نێردراو بۆ لای من، و ئەوەتا لە ناوی تۆمارەی کتێبێک بوو.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "و بینیم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەستێک"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "نێردراو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ لای من"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە ناوی"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "تۆمارەی"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتێبێک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:04:36.337516879Z",
+  "model": "glm-5.3"
+}

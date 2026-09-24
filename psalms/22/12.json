@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "دوور مەبە لە من، چونکە تەنگەسە نزیکە، چونکە یارمەتیدەر نییە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مەبە"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دوور"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تەنگەسە"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "نزیکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "یارمەتیدەر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:30.244927326Z",
+  "model": "glm-5.3"
+}

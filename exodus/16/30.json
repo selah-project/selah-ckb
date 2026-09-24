@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و گەلەکە لە ڕۆژی حەوتەمدا ڕاگیران.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "و ڕاگیران"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "حەوتەمدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:45:06.762474968Z",
+  "model": "glm-5.3"
+}

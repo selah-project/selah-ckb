@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بەڵام لە ساڵی یەکەمی کۆرێش شای بابل، کۆرێش شا فەرمانی دانا بۆ بنیاتنانەوەی ئەم ماڵی ئەلاها.",
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "کۆرێش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "شا"
+    },
+    {
+      "surface": "די",
+      "gloss": "ی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "کۆرێش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "شا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "فەرمان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ئەلاها"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "بۆ بنیاتنانەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:12:07.157059950Z",
+  "model": "glm-5.3"
+}

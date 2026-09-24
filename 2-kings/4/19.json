@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 4:19",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بە باوکی وت: سەرم، سەرم. و بە کوڕە گەنجەکە وت: بەری بۆ لای دایکی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سەرم"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سەرم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "کوڕە گەنجەکە"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "بەری"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:00:25.812013672Z",
+  "model": "glm-5.3"
+}

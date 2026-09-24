@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و ڕووی ڕاگرتەوە ⟨את⟩ ڕوویەکەی و خستە تا شەرم بکات؛ و پیاوی ئێلۆهیم گریا.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ڕاگرتەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕوویەکەی"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕوویەکەی"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "خستە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בש",
+      "gloss": "شەرم بکات"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "گریا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:02:56.789241355Z",
+  "model": "glm-5.3"
+}

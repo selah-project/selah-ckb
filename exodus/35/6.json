@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و شین و ئارغەوان و سووری سوور و کتان و مووی بزن.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "و شین"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "و ئارغەوان"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "و کرمی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سوور"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و کتان"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "و بزن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:52:49.350403474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "من گوڵی شارۆنم، سووساننای دۆڵەکانم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "گوڵی"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "شارۆن"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "سووساننای"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "دۆڵەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:48:33.546596927Z",
+  "model": "glm-5.3"
+}

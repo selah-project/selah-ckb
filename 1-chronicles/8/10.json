@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و ⟨את⟩ یەعوتس و ⟨את⟩ سەخیە و ⟨את⟩ میرما؛ ئەمانە کوڕەکانی بوون، سەرانی خێزانەکان.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یەعوتس"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "یەعوتس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سەخیە"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "سەخیە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "میرما"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "میرما"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سەرانی"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "خێزانەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:05.945429976Z",
+  "model": "glm-5.3"
+}

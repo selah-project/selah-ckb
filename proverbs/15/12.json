@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "گاڵتەباز ڕەخنەگرێکی خۆی خۆش ناوێت، لای زانایان ناڕوات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "خۆش دەوێت"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "گاڵتەباز"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ڕەخنەگر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "خۆی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "زانایان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "دەڕوات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:50.606916344Z",
+  "model": "glm-5.3"
+}

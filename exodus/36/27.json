@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و بۆ دواڕۆخەکانی میشکان بەرەو ڕۆژئاوا شەش تختی دروست کرد",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "و بۆ دواڕۆخەکانی"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "میشکان"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "بەرەو ڕۆژئاوا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دروست کرد"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تخت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:55:13.863752388Z",
+  "model": "glm-5.3"
+}

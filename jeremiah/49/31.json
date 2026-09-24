@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 49:31",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "هەستن، سەربکەون بۆ سەر گەلێکی ئارام کە بە دڵنیایی دەژی، وتەی یاهوە؛ دەرگا و دارەبەندێک بۆی نییە، بە تەنها دەژین.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "هەستن"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "سەربکەون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ سەر"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "שליו",
+      "gloss": "ئارام"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "دەژی"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بە دڵنیایی"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "دارەبەند"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "بە تەنها"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "دەژین"
+    }
+  ],
+  "timestamp": "2026-09-24T13:02:31.137572247Z",
+  "model": "glm-5.3"
+}

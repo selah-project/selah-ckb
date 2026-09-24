@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "شەش ڕۆژ فتیرەکان دەخۆیت، و لە ڕۆژی حەوتەمدا کۆبوونەوەیە بۆ یاهوە ئێلۆهیمی تۆ، هیچ کارێک ناکەیت.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "دەخۆیت"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فتیرەکان"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژی"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەمدا"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "کۆبوونەوە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەکەیت"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:41:38.723371674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 44:4",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "و بە ڕێگای دەروازەی باکوورەوە هێنامە بەردەمی ماڵەکە، و بینیم، و ئەوەتا شکۆی یاهوە ⟨את⟩ ماڵی یاهوە پڕ کردەوە، و کەوتمە ڕوومدا.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەروازە"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "باکوور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "بەردەم"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ماڵەکە"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڵ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "کەوتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕوو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:26:48.905928498Z",
+  "model": "glm-5.3"
+}

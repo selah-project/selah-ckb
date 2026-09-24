@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و تیان تێدا بکەن، و هەموو کۆمەڵەکە لای تۆ بۆ دەرگای چادری چاوپێکەوتن کۆببنەوە.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "و تیان بکەن"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "تێدا"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "و کۆببنەوە"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لای تۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "کۆمەڵەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:27.069427035Z",
+  "model": "glm-5.3"
+}

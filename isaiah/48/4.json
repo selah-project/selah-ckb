@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "لە زانینمەوە چونکە سەختیت و ماسولکەی ئاسن ملی تۆیە و پێشانی تۆ برۆنزە.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "لە زانینمەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سەخت"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "و ماسولکە"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسن"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "ملی تۆ"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "و پێشانی تۆ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "برۆنز"
+    }
+  ],
+  "timestamp": "2026-09-24T12:29:25.314367954Z",
+  "model": "glm-5.3"
+}

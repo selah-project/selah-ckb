@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 108,
+  "translation": "هەڵبستە، نیڤێلەکە و کینۆرەکە، منیش سپیدەی دەهەڵبستم.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "هەڵبستە"
+    },
+    {
+      "surface": "هנבל",
+      "gloss": "نیڤێلەکە"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "و کینۆرەکە"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "دەهەڵبستم"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سپیدەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:43.009783881Z",
+  "model": "glm-5.3"
+}

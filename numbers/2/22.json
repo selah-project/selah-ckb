@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 2:22",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و هۆزی بەنیامین، و سەرۆکی بۆ کوڕانی بەنیامین ئاڤیدان کوڕی گیدعۆنی.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "و هۆزی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بەنیامین"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "و سەرۆکی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بەنیامین"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ئاڤیدان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "گیدعۆنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:45.451799145Z",
+  "model": "glm-5.3"
+}

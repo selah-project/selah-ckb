@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "هەموو کوڕەکانی داود ⟨لە جگە⟩ کوڕەکانی هاوسەری پلەدووەکان و تامار خوشکیان.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "⟨لە جگە⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "هاوسەری پلەدووەکان"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "و تامار"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "خوشکیان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:53.611810720Z",
+  "model": "glm-5.3"
+}

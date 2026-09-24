@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بۆ هۆزی زەبولون گادیئێل ⟨گەدیئێل⟩ کوڕی سودی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زەبولون"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "گادیئێل ⟨گەدیئێل⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "سودی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:41.581381954Z",
+  "model": "glm-5.3"
+}

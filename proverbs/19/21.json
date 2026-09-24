@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "زۆر بیرۆکە لە دڵی ⟨پیاوێکدا هەن⟩، بەڵام ئامۆژگاریی یاهوە ئەوەیە کە هەڵدەوەستێت.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "بیرۆکە"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "لە دڵی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "و ئامۆژگاریی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "هەڵدەوەستێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:10.735312801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 72,
+  "translation": "دەبەزێت وەک باران لەسەر گیای لێدراو، وەک شەلاوەکان ڕشانی زەوی.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "دەبەزێت"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "وەک باران"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "גז",
+      "gloss": "گیای لێدراو"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "وەک شەلاوەکان"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ڕشانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:30.767691541Z",
+  "model": "glm-5.3"
+}

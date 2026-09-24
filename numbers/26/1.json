@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ و بە ئێلعەزار کوڕی ئاهارۆن ⟨هارون⟩ کاهینەکە فەرموو، بڵێ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بە"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئێلعەزار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن ⟨هارون⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهینەکە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:09.028512657Z",
+  "model": "glm-5.3"
+}

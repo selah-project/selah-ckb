@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و ڕووی کردە دیوارەکە و بۆ یاهوە نوێژی کرد، بۆ وتن.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "و ڕووی کردە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕوو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کردە"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوارەکە"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "و نوێژی کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:10:20.973932538Z",
+  "model": "glm-5.3"
+}

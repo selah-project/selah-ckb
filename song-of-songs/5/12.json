@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چاوەکانی وەک کۆترەکانن لەسەر جۆگەکانی ئاو، خۆ دەشۆرن بە شیر، دانیشتوون لە پڕییدا.",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "چاوەکانی"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "وەک کۆترەکانن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "جۆگەکانی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "خۆ دەشۆرن"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "بە شیر"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "دانیشتوون"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پڕییدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:49.705664399Z",
+  "model": "glm-5.3"
+}

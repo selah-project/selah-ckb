@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 63,
+  "translation": "بە لێواری شمشێر دەڕێژن، بەشێکی سەگە گورگییەکان دەبن.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "دەڕێژن"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "لێواری"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "مנת",
+      "gloss": "بەشێکی"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "سەگە گورگییەکان"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:40.820925197Z",
+  "model": "glm-5.3"
+}

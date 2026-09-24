@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و ⟨את⟩ ئەوان دادەنێیت بە دوو ڕیز، شەش ⟨ال⟩ ڕیز، لەسەر مێزی پاک لە پێش یاهوە",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "و دادەنێیت"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ئەوان",
+      "marks": "دوو ڕیز"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ڕیز"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ڕیز"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "مێز"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:10:49.792078582Z",
+  "model": "glm-5.3"
+}

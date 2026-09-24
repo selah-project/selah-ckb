@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ڕێگاکانی خۆمان بپشکنین و تاقی بکەینەوە و بگەڕێینەوە بۆ لای یاهوە.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "بپشکنین"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "ڕێگاکانی خۆمان"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "و تاقی بکەینەوە"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "و بگەڕێینەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:56.217843702Z",
+  "model": "glm-5.3"
+}

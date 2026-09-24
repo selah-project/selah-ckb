@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "کەمێک خەو، کەمێک چرتە، کەمێک ئاڵاندنی دەستەکان بۆ ڕاخستن،",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "کەمێک"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "خەو"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کەمێک"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "چرتە"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کەمێک"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ئاڵاندن"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دەستەکان"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "بۆ ڕاخستن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:23.647109869Z",
+  "model": "glm-5.3"
+}

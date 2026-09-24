@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و هات تا بەردەمی دەرگای شا، چونکە نییە ⟨بمرێ⟩ بۆ هاتن بۆ ناڤی دەرگای شا بە پۆشینی شەق.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "بەردەمی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "بۆ هاتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناڤی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شا"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "بە پۆشینی"
+    },
+    {
+      "surface": "שק",
+      "gloss": "شەق"
+    }
+  ],
+  "timestamp": "2026-09-24T15:00:18.475439193Z",
+  "model": "glm-5.3"
+}

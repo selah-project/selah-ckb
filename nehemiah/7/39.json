@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کاهینەکان: کوڕەکانی یەدەعیا، لە ماڵی یێشووع، نۆ سەد و حەفتا و سێ.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهینەکان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یەدەعیا"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یێشووع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "حەفتا"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:24.442612769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "عاساهێل ⟨یەکێک بوو لە⟩ سییەکە، برای یوآب؛ ئێلحانان کوڕی دۆدۆی بێت لەحەم.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "⟨یەکێک بوو⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "عاساهێل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "لە سییەکە"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "ئێلحانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "دۆدۆی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەحەم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:04.006599210Z",
+  "model": "glm-5.3"
+}

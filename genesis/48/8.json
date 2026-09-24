@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "ئیسڕائیل ⟨את⟩ کوڕەکانی یوسێفی بینی و وت: ئەمانە کێن؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "و بینی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسڕائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕەکانی یوسێف"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:34:27.651782782Z",
+  "model": "glm-5.3"
+}

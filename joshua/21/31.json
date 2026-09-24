@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "⟨את⟩ حەلقات و ⟨את⟩ کێڵگەکانی، و ⟨את⟩ ڕەحۆب و ⟨את⟩ کێڵگەکانی — چوار شار.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حەلقات"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "حەلقات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کێڵگەکانی"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "کێڵگەکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ڕەحۆب"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ڕەحۆب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کێڵگەکانی"
+    },
+    {
+      "surface": "مגרשה",
+      "gloss": "کێڵگەکانی"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شار"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    }
+  ],
+  "timestamp": "2026-09-24T11:01:11.207523278Z",
+  "model": "glm-5.3"
+}

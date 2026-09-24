@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئێلعاسا سیسمایی بەخێو کرد، و سیسمای شالومی بەخێو کرد.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "و ئێلعاسا"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سیسمای"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "سیسمای"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "و سیسمای"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شالوم"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:40.531964312Z",
+  "model": "glm-5.3"
+}

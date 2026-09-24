@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "بای باکوور باران دەهێنێت، و ڕوخساری تووڕە بۆ زمانی شاراوە.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "با"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "باکوور"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "دەهێنێت"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "و ڕوخسار"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "تووڕە"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "شاراوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:02.330322363Z",
+  "model": "glm-5.3"
+}

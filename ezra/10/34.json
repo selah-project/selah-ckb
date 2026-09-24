@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "لە کوڕانی بانی: مەئەدای، عەمرام، و ئوئێل.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "لە کوڕانی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "مەئەدای"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عەمرام"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "و ئوئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:13:18.121217708Z",
+  "model": "glm-5.3"
+}

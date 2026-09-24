@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "قاخزانانی پاشا وەک زڕەی شێرە، و ڕەزایەندیی وەک شەونمەیە لەسەر سەوزە.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "قاخزانانی"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "وەک زڕەی شێر"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "و وەک شەونمەیە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "سەوزە"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ڕەزایەندیی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:19.636003185Z",
+  "model": "glm-5.3"
+}

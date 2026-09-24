@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و دەبن ژیان بۆ گیانت و جوانی بۆ ملنت.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "بۆ گیانت"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "و جوانی"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "بۆ ملنت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:25.852833342Z",
+  "model": "glm-5.3"
+}

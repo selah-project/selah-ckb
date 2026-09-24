@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 29:28",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و بە پیرییەکی چاک مرد، لە ڕۆژەکان تێر، بە سامان و شکۆ، و شلۆمۆ کوڕەکەی لە جێگەی پاشایەتی کرد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "بە پیری"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "تێر"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "لە ڕۆژەکان"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "و شکۆ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پاشایەتی کرد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جێگەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:32:00.218887279Z",
+  "model": "glm-5.3"
+}

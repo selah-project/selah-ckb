@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "سەلمائ باوکی بەیت لەحێم، حارێف باوکی بەیت گادێر.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "سەلمائ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەحێم"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "حارێف"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "گادێر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:48.058353488Z",
+  "model": "glm-5.3"
+}

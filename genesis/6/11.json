@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و زەوییەکە لەبەردەم ئێلۆهیم تێکچوو، و زەوییەکە پڕ بوو لە زوڵم.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "و تێکچوو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوییەکە"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "و پڕ بوو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوییەکە"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زوڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:29.186663718Z",
+  "model": "glm-5.3"
+}

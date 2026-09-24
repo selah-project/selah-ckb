@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 17:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "دەرچوونی ئاو سەرەتای شەڕە؛ و پێش ئەوەی کێشەکە دەبزوێت، تۆزاوبارانی شەڕ بەجێبهێڵە.",
+  "tokens": [
+    {
+      "surface": "פוטר",
+      "gloss": "دەرچوونی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "سەرەتای"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "شەڕە"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "و پێش"
+    },
+    {
+      "surface": "התגלע",
+      "gloss": "دەبزوێت"
+    },
+    {
+      "surface": "הריב",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "נטוש",
+      "gloss": "بەجێبهێڵە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:10.401229525Z",
+  "model": "glm-5.3"
+}

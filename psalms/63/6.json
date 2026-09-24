@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 63,
+  "translation": "وەک چەوریی مارو و شێوە، گیانم تێر دەبێت، و لێوەکانی خۆشی دەنگم دەستێنێت.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چەوریی"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "و شێوە"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "تێر دەبێت"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "و لێوەکانی"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "خۆشی دەنگ"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "دەستێنێت"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەنگم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:24.517619995Z",
+  "model": "glm-5.3"
+}

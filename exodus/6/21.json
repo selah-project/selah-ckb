@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و کوڕەکانی ییتسهار: قۆرەح و نێفێگ و زیخری.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ییتسهار"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قۆرەح"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "و نێفێگ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "و زیخری"
+    }
+  ],
+  "timestamp": "2026-09-24T09:37:29.163050383Z",
+  "model": "glm-5.3"
+}

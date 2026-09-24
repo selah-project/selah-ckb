@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "چەند خۆشمدەوێت تۆراکەت! هەموو ڕۆژەکە ئەوە لەێڵەوڵاتنی منە.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "خۆشمدەوێت"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تۆراکەت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژەکە"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "لەێڵەوڵاتنی من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:02.806562460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و ئەوەی لە گۆشت و لە ناندا دەمێنێتەوە بە ئاگر بسووتێنن.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "و ئەوەی دەمێنێتەوە"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "لە گۆشت"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "و لە نان"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بە ئاگر"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "بسووتێنن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:39.080717339Z",
+  "model": "glm-5.3"
+}

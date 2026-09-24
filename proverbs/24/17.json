@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "لە کەوتنی دوژمنت شاد مەبە، و لە لەقانیدا دڵت دڵشاد مەبێت",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "لە کەوتنی"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "دوژمنت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەبە"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "شاد"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "و لە لەقانیدا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەبێت"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "دڵشاد"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:52.627030795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "بۆ پاراستنی ⟨את⟩ فەرمانەکانی یاهوە و ⟨את⟩ حوکمەکانی، کە ئەمڕۆ من فەرمانت پێ دەکەم بۆ باشی تۆ.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "بۆ پاراستنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فەرمانەکان"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فەرمانەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حوکمەکان"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "حوکمەکانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "فەرمانت پێ دەکەم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "بۆ باشی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:37:52.429180567Z",
+  "model": "glm-5.3"
+}

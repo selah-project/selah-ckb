@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و شەعلەبین و ئەیالۆن و یتلا.",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "و شەعلەبین"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "و ئەیالۆن"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "و یتلا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:53.262608875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "هەموو حەرەمێک کە لە مرۆڤەوە حەرام بکرێت ناکرێت ڕزگاری بکرێت — بە مردن دەمڕێت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حەرەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "حەرام بکرێت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ڕزگاری بکرێت"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردن"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "دەمڕێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:56.049304603Z",
+  "model": "glm-5.3"
+}

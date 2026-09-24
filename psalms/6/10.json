@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "یاهوە بەزیانم گوێی گرتووە؛ یاهوە ڕاستەقینەم وەرگرتووە.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوێی گرتووە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "بەزیانم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ڕاستەقینەم"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وەرگرتووە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:28.447458770Z",
+  "model": "glm-5.3"
+}

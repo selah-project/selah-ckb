@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "هەرکەس پیاوێک بدات و بمرێت، بێگومان دەکوژرێتەوە.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "هەرکەس بدات"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "و بمرێت"
+    },
+    {
+      "surface": "מות",
+      "gloss": "بێگومان"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "دەکوژرێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:46:56.693770186Z",
+  "model": "glm-5.3"
+}

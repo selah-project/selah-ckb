@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "دەمم قسەی دانایی دەکات و بیری دڵم تێگەیشتنە.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "دەمم"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "قسەی... دەکات"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "و بیری"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "تێگەیشتنە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:15.455791451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "ڕووخاندنی خراپەکان و نییەن، و ماڵی ڕاستان دەوەستێت.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "ڕووخاندن"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکان"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "و نییەن"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و ماڵی"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ڕاستان"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "دەوەستێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:47.343541187Z",
+  "model": "glm-5.3"
+}

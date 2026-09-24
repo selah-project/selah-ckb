@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "بۆ یەهودا ئەلیهو، لە برایانی داود؛ بۆ ییساخار عۆمری کوڕی میکائێل.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "بۆ یەهودا"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ئەلیهو"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "لە برایانی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "بۆ ییساخار"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "عۆمری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "میکائێل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:31:28.066907122Z",
+  "model": "glm-5.3"
+}

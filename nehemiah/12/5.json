@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "میامین، مەعەدیا، بیلگە.",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "میامین ⟨میامین⟩"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "مەعەدیا"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "بیلگە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:14.443126313Z",
+  "model": "glm-5.3"
+}

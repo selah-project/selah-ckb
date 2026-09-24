@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و شائول ⟨את⟩ داود بە جلەکانی پۆشاند و کڵاوێکی مسی لەسەر سەری دانا و ⟨את⟩ ئەوی بە زرێ پۆشاند.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "و پۆشاند"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "جلەکانی"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "و دانا"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "کڵاو"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "و پۆشاند"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "زرێ"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "زرێ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:25:26.596263796Z",
+  "model": "glm-5.3"
+}

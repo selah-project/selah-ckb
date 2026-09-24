@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "دینا ⟨کچی⟩ لێیا کەی بۆ یەعقوبی بوو، دەرچوو بۆ ئەوەی کچەکانی ئەو زەوییە ببینێت.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "دەرچوو"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دینا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێیا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "بۆ یەعقوبی"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "بۆ ئەوەی ببینێت"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "کچەکانی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ئەو زەوییە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:45.318799786Z",
+  "model": "glm-5.3"
+}

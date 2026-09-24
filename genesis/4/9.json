@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و یاهوە بۆ قائین فەرمووی: لە کوێیە هابیل برای تۆ؟ و ئەو وتی: نازانم، ئایا من پاسەوانی برای خۆمم؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قائین"
+    },
+    {
+      "surface": "אי",
+      "gloss": "لە کوێیە"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هابیل"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برای تۆ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زانیم"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ئایا پاسەوان"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای خۆم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:10:57.301552709Z",
+  "model": "glm-5.3"
+}

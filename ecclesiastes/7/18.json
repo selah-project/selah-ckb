@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "چاکە ئەوەی ئەمە بگریت و هەروەها لەوەش ⟨את⟩ دەستت مەهێڵە؛ چونکە ئەوەی لە ئێلۆهیم دەترسێت لە هەموویان ⟨את⟩ دەردەچێت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "بگریت"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "لەوەش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "مەهێڵە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەستت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ئەوەی دەترسێت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "دەردەچێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموویان"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "هەموویان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:40.468420734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "لەسەر خوێن ناخۆن، فاڵ ناگرن و فاڵی هەور ناگرن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ناخۆن"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "فاڵ ناگرن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "فاڵی هەور ناگرن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:03.759899053Z",
+  "model": "glm-5.3"
+}

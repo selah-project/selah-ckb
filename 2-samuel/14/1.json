@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و یۆئاڤ ⟨موسا⟩ کوڕی تسرویا زانی کە دڵی پاشا لەسەر ئاڤشالۆم ⟨موسا⟩ بوو.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "و زانی"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یۆئاڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "تسرویا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ئاڤشالۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:57:08.695793636Z",
+  "model": "glm-5.3"
+}

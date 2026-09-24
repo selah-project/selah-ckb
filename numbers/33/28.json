@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە تارەح ڕۆیشتن و لە میتقە چادر هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "لە تارەح"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "چادر هەڵکێشا"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "لە میتقە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:25.368409669Z",
+  "model": "glm-5.3"
+}

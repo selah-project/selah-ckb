@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 75,
+  "translation": "قەچەکانتان بۆ بەرزی مەبەرزن، بە ملی سەخت قسە مەکەن.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "مەبەرزن"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "بۆ بەرزی"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "قەچەکانتان"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "قسە مەکەن"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "بە ملی"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "سەخت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:34.456618639Z",
+  "model": "glm-5.3"
+}

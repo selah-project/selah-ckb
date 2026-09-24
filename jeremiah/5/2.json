@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و ئەگەر بڵێن «یاهوە زیندووە»، بێگومان بە درۆ سوێند دەخۆن.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "بڵێن"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "بێگومان"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "بە درۆ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "سوێند دەخۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:40:27.511629264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 4:32",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و دێهاتەکانیان عێتام و عەین و ریمۆن و تۆخێن و عەشان ⟨بوون⟩ — شار پێنج",
+  "tokens": [
+    {
+      "surface": "וחצריהם",
+      "gloss": "و دێهاتەکانیان"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عێتام"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "و عەین"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ریمۆن"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "و تۆخێن"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "و عەشان"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شار"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:47.760415515Z",
+  "model": "glm-5.3"
+}

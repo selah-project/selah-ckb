@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "وتم لە دڵمدا: وەرە، ئێستا بە شادی تاقی بکەمەوە و بە چاکەیی ببینە، و ئەوەتا ئەویش هەبەلە.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "لە دڵمدا"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "وەرە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "تاقی بکەمەوە"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "بە شادی"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببینە"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "بە چاکەیی"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ئەویش"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەبەلە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:08.888211409Z",
+  "model": "glm-5.3"
+}

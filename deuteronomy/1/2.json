@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "یازدە ڕۆژ ⟨مەنزڵ⟩ لە حورێب، بە ڕێگای چیای سەعیر، تا قادێش بارنێع.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "لە حورێب"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "بە ڕێگای"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سەعیر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادێش"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "بارنێع"
+    }
+  ],
+  "timestamp": "2026-09-24T10:35:13.054061495Z",
+  "model": "glm-5.3"
+}

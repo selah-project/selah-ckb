@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئاڤراهام لە زەوی فیلیستییەکان ڕۆژانی زۆر پەنابەر بوو",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "و پەنابەر بوو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فیلیستییەکان"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:12.090262639Z",
+  "model": "glm-5.3"
+}

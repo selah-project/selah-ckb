@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئەگەر لە لای ڕوویەکەی سەری بڕدرێت، سەرپیشان‌ڕووتە، پاکە ئەو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕوویەکەی"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "بڕدرێت"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "سەرپیشان‌ڕووتە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:43.581445729Z",
+  "model": "glm-5.3"
+}

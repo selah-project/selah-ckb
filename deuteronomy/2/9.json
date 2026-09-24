@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و یاهوە بۆ من فەرمووی: تەنگانە بە مۆآب ⟨את⟩ مەکە و شەڕ لەگەڵیان مەکە، چونکە لە زەویەکەی هیچ بۆ میرات بۆ تۆ نادەم، چونکە عار ⟨את⟩ بە میرات بۆ کوڕانی لوت دام.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "تەنگانە بکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۆآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆآب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "پێکەوانە بکە"
+    },
+    {
+      "surface": "בם",
+      "gloss": "لەگەڵیان"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دەدەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "لە زەویەکەی"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "میرات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عار"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عار"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "میرات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:29.376928821Z",
+  "model": "glm-5.3"
+}

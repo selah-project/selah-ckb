@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و مەعەسیا کوڕی باروخ کوڕی کول حۆزەه کوڕی حەزایا کوڕی عەدایا کوڕی یۆیاریڤ کوڕی زەخەریا کوڕی شیلۆنی",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "و مەعەسیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کول"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "حۆزەه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "حەزایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "عەدایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "یۆیاریڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زەخەریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "شیلۆنی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:04.523713750Z",
+  "model": "glm-5.3"
+}

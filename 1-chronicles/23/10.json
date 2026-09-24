@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و کوڕەکانی شیمعی یاخات زینا و یەعوش و بەرییەهـ؛ ئەمانە کوڕەکانی شیمعی بوون، چوار.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاخات"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "زینا"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "و یەعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "و بەرییەهـ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شیمعی"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:43.484669127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "هاتاخ ⟨هاتاک⟩ هات و بۆ ئێستێر ⟨את⟩ وشەکانی مۆردەخای ئەگەیاند.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "התך",
+      "gloss": "هاتاخ"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ئەگەیاند"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "بۆ ئێستێر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەکانی مۆردەخای"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مۆردەخای"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:27.461365634Z",
+  "model": "glm-5.3"
+}

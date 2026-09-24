@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ئاوها یاهوە ئێلۆهای من فەرموو: ⟨את⟩ مەڕی سەربڕینەکە بڕێ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ئاوها"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهای من"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بڕێ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەڕی سەربڕینەکە"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕی"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "سەربڕینەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:45:36.218009342Z",
+  "model": "glm-5.3"
+}

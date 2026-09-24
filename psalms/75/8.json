@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 75,
+  "translation": "چونکە ئێلۆهیم دادگایە، ئەمە نزم دەکاتەوە و ئەوەی دیکە بەرز دەکات.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "دادگایە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "نزم دەکاتەوە"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "و ئەوەی دیکە"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "بەرز دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:34.456874139Z",
+  "model": "glm-5.3"
+}

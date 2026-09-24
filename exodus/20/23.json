@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "لەگەڵم ⟨את⟩ خوداکانی زیو ناکەن، و خوداکانی زێڕ خۆتان بۆ ناکەن.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ناکەن"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ لەگەڵم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "خوداکانی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "و خوداکانی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ناکەن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "خۆتان بۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:32.788211699Z",
+  "model": "glm-5.3"
+}

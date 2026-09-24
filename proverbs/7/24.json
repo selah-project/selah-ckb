@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ئێستا منداڵان، گوێم لێ بگرن و گوش بێرنەوە بۆ وتەکانی دەمم.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "منداڵان"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوێم لێ بگرن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "و گوش بێرنەوە"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "بۆ وتەکانی"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:21.006829827Z",
+  "model": "glm-5.3"
+}

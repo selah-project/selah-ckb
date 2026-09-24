@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 139,
+  "translation": "چونکە تۆ گورچیلەکانی منت دروستکردن، لە زگی دایکمدا منت پێچاند.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "دروستکردن"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "گورچیلەکانی من"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "منت پێچاند"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "لە زگ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "دایکمدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:40.911673166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کوڕەکانی مێراری: مەحلی و موشی. کوڕەکانی مەحلی: ئێلعەزار و قیش.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مێراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مەحلی"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "و موشی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مەحلی"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئێلعەزار"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "و قیش"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:09.325513351Z",
+  "model": "glm-5.3"
+}

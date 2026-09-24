@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "ئەگەر دوژمنی تۆ برسی بێت، نان پێی بدە بخوات، و ئەگەر تینوو بێت، ئاو پێی بدە بخواتەوە.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "برسی"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "دوژمنی تۆ"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "پێی بدە بخوات"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "تینوو"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "پێی بدە بخواتەوە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:02.329893851Z",
+  "model": "glm-5.3"
+}

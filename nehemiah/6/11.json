@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 6:11",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و وت: ئایا پیاوێکی وەک من هەڵدێت؟ و کێ وەک من کە بچێتە ناو هەیکەڵەکەوە و دەژی؟ نا دەچم.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "وەک من"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "هەڵدێت"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "وەک من"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "بچێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ناو هەیکەڵەکە"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "و دەژی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "دەچم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:07:21.290824075Z",
+  "model": "glm-5.3"
+}

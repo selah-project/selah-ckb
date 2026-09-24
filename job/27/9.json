@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "ئایا فریادەکەی ئێل دەبیستێت، کە تەنگەچی دێتە سەری؟",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "فریادەکەی"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "دەبیستێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "دێت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تەنگەچی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:38.248302037Z",
+  "model": "glm-5.3"
+}

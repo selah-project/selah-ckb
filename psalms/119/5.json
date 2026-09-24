@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "ئەی ئەبوایە ڕێگاکانم جێگیر ببن بۆ پاراستنی یاساکانت.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "ئەی ئەبوایە"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "جێگیر ببن"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ڕێگاکانم"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "بۆ پاراستنی"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "یاساکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:17.844030590Z",
+  "model": "glm-5.3"
+}

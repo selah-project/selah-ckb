@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و سەوزە لە کێڵگەکانت دادەنێم بۆ ماڵاتەکەت، و دەخۆیت و سیر دەبیت.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "و دادەنێم"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "سەوزە"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "لە کێڵگەکانت"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "بۆ ماڵاتەکەت"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "و دەخۆیت"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "و سیر دەبیت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:49.106276878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 34:15",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "من مەڕەکەی خۆم دەڕەم و منیش دەیانخەمە ڕاوەست، وتاری ئادۆنای یاهوە.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "دەڕەم"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "مەڕەکەی خۆم"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و منیش"
+    },
+    {
+      "surface": "ארביצם",
+      "gloss": "دەیانخەمە ڕاوەست"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتاری"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:54.650161781Z",
+  "model": "glm-5.3"
+}

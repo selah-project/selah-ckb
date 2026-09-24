@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 24:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "ساوایان لە سنگ هەڵدەڕفێنن و لە هەژاران گرێبەست دەگرن",
+  "tokens": [
+    {
+      "surface": "יגזלו",
+      "gloss": "هەڵدەڕفێنن"
+    },
+    {
+      "surface": "משד",
+      "gloss": "لە سنگ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ساوا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "עני",
+      "gloss": "هەژاران"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "گرێبەست دەگرن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:14.945958037Z",
+  "model": "glm-5.3"
+}

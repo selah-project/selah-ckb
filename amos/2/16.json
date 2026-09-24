@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 2:16",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئازای دڵ لەناو دڵیران ڕووت هەڵدێت لەو ڕۆژە، وتنی یاهوە",
+  "tokens": [
+    {
+      "surface": "ואמיץ",
+      "gloss": "و ئازای"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "בגבורים",
+      "gloss": "لەناو دڵیران"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "هەڵدێت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:32:25.432407222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "بەبێ ڕێنمایی گەل دەکەوێت، بەڵام ڕزگاری لە زۆری ڕاوێژکاراندایە.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ڕێنمایی"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "دەکەوێت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "بەڵام ڕزگاری"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "لە زۆری"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "ڕاوێژکاراندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:44.381040524Z",
+  "model": "glm-5.3"
+}

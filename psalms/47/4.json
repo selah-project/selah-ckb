@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "گەلەکان دەخاتە ژێرمانەوە و نەتەوەکانیش ژێر پێی ئێمە.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "دەخاتە ژێرەوە"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ژێرمان"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "و نەتەوەکانیش"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ژێر"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "پێی ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:21.433115782Z",
+  "model": "glm-5.3"
+}

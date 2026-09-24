@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "شەنگی هەنگوین وشەی خۆشن؛ شیرینن بۆ گیان و چارەسەر بۆ ئێسک.",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "شەنگی"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "هەنگوین"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "خۆش"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "شیرین"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "بۆ گیان"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "و چارەسەر"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "بۆ ئێسک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:55.352121436Z",
+  "model": "glm-5.3"
+}

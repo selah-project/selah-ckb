@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "کاتێکە بۆ گەڕان و کاتێکە بۆ لەدەستدان؛ کاتێکە بۆ پاراستن و کاتێکە بۆ فڕێدان.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "کاتێکە"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "بۆ گەڕان"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کاتێکە"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "بۆ لەدەستدان"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتێکە"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "بۆ پاراستن"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کاتێکە"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "بۆ فڕێدان"
+    }
+  ],
+  "timestamp": "2026-09-24T16:06:13.469291841Z",
+  "model": "glm-5.3"
+}

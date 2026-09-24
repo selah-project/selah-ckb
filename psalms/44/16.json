@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "هەموو ڕۆژێک شەرمەزاریی من لەبەرمە و شەرمی ڕووم داپۆشیومە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژێک"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "شەرمەزاریی من"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "لەبەرم"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "و شەرمی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووم"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "داپۆشیومە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:21.917247650Z",
+  "model": "glm-5.3"
+}

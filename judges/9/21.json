@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 9:21",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "یۆتام ⟨هەڵات⟩ و هەڵات و ڕۆیی بۆ بێر و لەوێ ژیی لە ڕووی ئەڤیمەلێخی برای",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "هەڵات"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یۆتام"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "هەڵات"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ڕۆیی بۆ بێر"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "بێر"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ژیی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لە ڕووی"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ئەڤیمەلێخی برای"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای"
+    }
+  ],
+  "timestamp": "2026-09-24T11:07:20.875544295Z",
+  "model": "glm-5.3"
+}

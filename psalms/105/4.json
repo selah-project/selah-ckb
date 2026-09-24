@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "یاهوە و توانای بگەڕێن، ڕووی هەمیشە بگەڕێن.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "بگەڕێن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "و توانای"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "بگەڕێن"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:24.003431138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "کوڕی حێسێد، لە ئەرڤۆت؛ سۆکۆ و هەموو زەویی حێفێری هی ئەو بوو.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حێسێد"
+    },
+    {
+      "surface": "بארבות",
+      "gloss": "لە ئەرڤۆت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هی ئەو"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "سۆکۆ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حێفێر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:44:17.241806385Z",
+  "model": "glm-5.3"
+}

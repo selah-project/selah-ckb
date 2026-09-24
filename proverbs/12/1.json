@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "خۆشەویستی ڕاهێنان خۆشەویستی زانستە و ڕقی لە ڕەخنە بێ عەقڵە",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "خۆشەویستی"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ڕاهێنان"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "خۆشەویستی"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانست"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "و ڕقی لە"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ڕەخنە"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بێ عەقڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:14.591930567Z",
+  "model": "glm-5.3"
+}

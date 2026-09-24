@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کوڕەکانی مۆشە گێرشۆم و ئێلیعێزەر بوون.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گێرشۆم"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "و ئێلیعێزەر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:01.878192196Z",
+  "model": "glm-5.3"
+}

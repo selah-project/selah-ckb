@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "وشەکانی قوهێلێت ⟨موسا⟩، کوڕی داود، پاشا لە یەروشالایم.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوهێلێت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە یەروشالایم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:50.471814670Z",
+  "model": "glm-5.3"
+}

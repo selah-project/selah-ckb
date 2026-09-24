@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و سێ هەزار پەند وت و شیعرەکانی پێنج و هەزار بوون.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "משל",
+      "gloss": "پەند"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "شیعرەکانی"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "و هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T11:46:39.227816354Z",
+  "model": "glm-5.3"
+}

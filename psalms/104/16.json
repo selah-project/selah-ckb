@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 104,
+  "translation": "دارەکانی یاهوە تێر دەبن، سدارەکانی لوبنان کە چاندوویەتی.",
+  "tokens": [
+    {
+      "surface": "ישבעو",
+      "gloss": "تێر دەبن"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "دارەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "سدارەکانی"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لوبنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "چاندوویەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:30.461161513Z",
+  "model": "glm-5.3"
+}

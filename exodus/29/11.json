@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و گا ⟨את⟩ لەبەردەم یاهوەدا سەردەبڕیت، لە دەرگای چادری چاوپێکەوتن.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "و سەردەبڕیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گا"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دەرگا"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:51:09.434731733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕی تسوف، کوڕی ئەلقانە، کوڕی مەحات، کوڕی ئەماسای.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "تسوف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ئەلقانە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "مەحات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ئەماسای"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:03.965835822Z",
+  "model": "glm-5.3"
+}

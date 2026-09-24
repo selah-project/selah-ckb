@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "دوو شانی بەستراو بۆی دەبێت، لە دوو سەرەکەی، و بەستراوەتەوە.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "شانی"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "بەستراو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "سەرەکەی"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "و بەستراوەتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:26.714132793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "دڵی تێگەیشتوو زانیاری بەدەست دەهێنێت، و گوێی ژیران زانیاری دەگەڕێت.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "تێگەیشتوو"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "بەدەست دەهێنێت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "و گوێی"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ژیران"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "دەگەڕێت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:57.568304647Z",
+  "model": "glm-5.3"
+}

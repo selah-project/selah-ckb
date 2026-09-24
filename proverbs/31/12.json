@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "چاکەی بۆ دەکات و خراپە نا، هەموو ڕۆژانی ژیانی.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "چاکەی بۆ دەکات"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "ژیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:09.884764891Z",
+  "model": "glm-5.3"
+}

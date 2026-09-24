@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی گیڤعۆن ⟨موسا⟩ نۆ و پێنج.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گیڤعۆن ⟨موسا⟩"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:25.374868965Z",
+  "model": "glm-5.3"
+}

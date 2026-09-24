@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "خراپکار گوێ دەگرێت لە لێوازی تاوان، و درۆزن گوێ دەلێتەوە بۆ زمانی خراپی.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "خراپکار"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "گوێ دەگرێت لە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "لێوازی"
+    },
+    {
+      "surface": "און",
+      "gloss": "تاوان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروozن"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "گوێ دەلێتەوە بۆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "הות",
+      "gloss": "خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:30.813975365Z",
+  "model": "glm-5.3"
+}

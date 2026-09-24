@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 29:9",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "هێشتا لەگەڵ ئەوان قسەی دەکرد، و ڕاچێل ⟨ئەو⟩ بە مێڕیی باوکییەوە هات، چونکە ئەو ⟨is⟩ شوانێکە.",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "قسەی دەکرد"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "لەگەڵ ئەوان"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "و ڕاچێل"
+    },
+    {
+      "surface": "באה",
+      "gloss": "هات"
+    },
+    {
+      "surface": "עם",
+      "gloss": "بە…ەوە"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مێڕیی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شوانێکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:51.411334025Z",
+  "model": "glm-5.3"
+}

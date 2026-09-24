@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و یەک نامێکی بزن بۆ قوربانیی پێشێلکردن.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "نامێکی"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "بۆ قوربانیی پێشێلکردن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:46.756336542Z",
+  "model": "glm-5.3"
+}

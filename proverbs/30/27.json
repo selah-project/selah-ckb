@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "پاشا نییە بۆ مارەکزێ، و بەدەستە هەمووی دەردەچێت.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "بۆ مارەکزێ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و دەردەچێت"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "بەدەستە"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "هەمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:25.838977725Z",
+  "model": "glm-5.3"
+}

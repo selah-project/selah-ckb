@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 19:35",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و شارە قەڵادارەکان: سیدیم، سێر، و حەمات، ڕەکەت، و کینەرێت.",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "و شارەکانی"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "قەڵادار"
+    },
+    {
+      "surface": "הצדים",
+      "gloss": "سیدیم"
+    },
+    {
+      "surface": "צר",
+      "gloss": "سێر"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "و حەمات"
+    },
+    {
+      "surface": "רקת",
+      "gloss": "ڕەکەت"
+    },
+    {
+      "surface": "וכנרת",
+      "gloss": "و کینەرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:38.736923108Z",
+  "model": "glm-5.3"
+}

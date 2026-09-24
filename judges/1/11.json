@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و لەوێوە چوو بۆ لای دانیشتووانی دەبیر — و ناوی دەبیر لە پێشوودا قریات سێفەر بوو —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دەبیر"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دەبیر"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "لە پێشوودا"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریات"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سێفەر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:03:11.025518847Z",
+  "model": "glm-5.3"
+}

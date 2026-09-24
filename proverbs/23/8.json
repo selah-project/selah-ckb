@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 23:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "لوقەکەت کە خواردووتە دەیڕشیتەوە، و قسە خۆشەکانت بەفیڕۆ دەدەیت",
+  "tokens": [
+    {
+      "surface": "פתך",
+      "gloss": "لوقەکەت"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "خواردووتە"
+    },
+    {
+      "surface": "תקיאנה",
+      "gloss": "دەیڕشیتەوە"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "بەفیڕۆ دەدەیت"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "قسە"
+    },
+    {
+      "surface": "הנעימים",
+      "gloss": "خۆشەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:52.384081338Z",
+  "model": "glm-5.3"
+}

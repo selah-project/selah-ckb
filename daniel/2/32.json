@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئەو پەیکەرەی، سەرەکەی زێڕی چاکە، سنگ و باڵەکانی زیون، سک و ڕانەکانی مس.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "پەیکەرەکە"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "سەرەکەی"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "טב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "سنگەکەی"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "و باڵەکانی"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "سکی"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "و ڕانەکانی"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-09-24T15:03:33.944650970Z",
+  "model": "glm-5.3"
+}

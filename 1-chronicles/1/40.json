@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "کوڕەکانی شۆڤاڵ: عەلیان و مەناحات و عەیباڵ، شەفی و عۆنام؛ و کوڕەکانی سیڤعۆن: ئەیە و عەنا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شۆڤاڵ"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "عەلیان"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "و مەناحات"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "و عەیباڵ"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "شەفی"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "و عۆنام"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "سیڤعۆن"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ئەیە"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "و عەنا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:29.373549445Z",
+  "model": "glm-5.3"
+}

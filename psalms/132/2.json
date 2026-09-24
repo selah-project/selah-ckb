@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 132,
+  "translation": "کە بە یاهوە سوێندی خوارد، بە ئەبیری یاقوب نەزری کرد،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "سوێندی خوارد"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نەزری کرد"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "بە ئەبیری"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاقوب"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:21.570007540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ئەحیمەعەس لە نەفتالی؛ ئەویش ⟨את⟩ بەسمەت، کچی شیلۆمۆ، وەرگرت بۆ ژن.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "ئەحیمەعەس"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "لە نەفتالی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "وەرگرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەسمەت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بەسمەت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شیلۆمۆ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بۆ ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:44:58.428406901Z",
+  "model": "glm-5.3"
+}

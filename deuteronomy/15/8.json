@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "بەڵکو بە تەواوی ⟨את⟩ دەستت بۆی بکەرەوە و بە دڵنیایی قەرزی پێدەدەیت — بەپێی کەمییەکەی کە بۆی کەمە",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "بە تەواوی"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "دەکەرێتەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەستت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "و بە دڵنیایی"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "قەرزی پێدەدەیت"
+    },
+    {
+      "surface": "די",
+      "gloss": "بەپێی"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "کەمییەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کەمە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:41:35.417855356Z",
+  "model": "glm-5.3"
+}

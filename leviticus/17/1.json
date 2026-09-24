@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "یاهوە قسەی لەگەڵ مۆشە ⟨موسا⟩ کرد و فەرموی: بڵێ،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد و فەرموی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:06:48.557858151Z",
+  "model": "glm-5.3"
+}

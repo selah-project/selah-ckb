@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "ترسی مرۆڤ تڵە دەدات، و پشتبەستوو بە یاهوە بەرز دەکرێتەوە.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "تڵە"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "و پشتبەستوو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "بەرز دەکرێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:31:25.512778838Z",
+  "model": "glm-5.3"
+}

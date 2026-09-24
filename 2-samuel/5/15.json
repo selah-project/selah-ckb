@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و یڤهار و ئەلیشوع و نەفێگ و یافییە،",
+  "tokens": [
+    {
+      "surface": "وיבחר",
+      "gloss": "و یڤهار"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "و ئەلیشوع"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "و نەفێگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "و یافییە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:33:15.804736157Z",
+  "model": "glm-5.3"
+}

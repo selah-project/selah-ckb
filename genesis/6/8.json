@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و نوح لە چاوی یاهوەدا ڕەزامەندی دۆزییەوە.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "و نوح"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "دۆزییەوە"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ڕەزامەندی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:25.987282263Z",
+  "model": "glm-5.3"
+}

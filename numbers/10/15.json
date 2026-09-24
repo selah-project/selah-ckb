@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و لەسەر ڕیزی هۆزی کوڕانی ییساسکار نەتانئێل کوڕی زوئار بوو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ڕیزی"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییساسکار"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نەتانئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "زوئار"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:01.000565649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و لە کوڕی پەنجا ساڵەوە دەگەڕێتەوە لە ڕیزی خزمەتەکە و ئیتر خزمەت ناکات.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "و لە کوڕی"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "دەگەڕێتەوە"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "لە ڕیزی"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خزمەتەکە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "خزمەت بکات"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:17:46.221845477Z",
+  "model": "glm-5.3"
+}

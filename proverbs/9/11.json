@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "چونکو بە من ڕۆژەکانت زۆر دەبن، و ساڵانی ژیان بۆ تۆ زیاد دەکەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکو"
+    },
+    {
+      "surface": "בי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "زۆر دەبن"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ڕۆژەکانت"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "و زیاد دەکەن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ساڵانی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:50.205893485Z",
+  "model": "glm-5.3"
+}

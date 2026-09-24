@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "وەک کرێکار و وەک دانیشتوو لەگەڵت دەبێت، هەتا ساڵی یۆڤێل لەگەڵت خزمەت دەکات.",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "وەک کرێکار"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "وەک دانیشتوو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "یۆڤێل"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "خزمەت دەکات"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:14.757714997Z",
+  "model": "glm-5.3"
+}

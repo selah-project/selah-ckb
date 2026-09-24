@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "دەستی چالاکان دەسەڵات دەگرێت، بەڵام کەسڵی دەبێتە بەژدار.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "چالاکان"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "دەسەڵات دەگرێت"
+    },
+    {
+      "surface": "ורمיה",
+      "gloss": "بەڵام کەسڵی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێتە"
+    },
+    {
+      "surface": "למס",
+      "gloss": "بەژدار"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:46.805397651Z",
+  "model": "glm-5.3"
+}

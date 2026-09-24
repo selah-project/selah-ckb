@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 47:11",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "باتەکانی و کەنارباتەکانی نا چاک دەبن؛ بۆ خوێ بەدران.",
+  "tokens": [
+    {
+      "surface": "בצאתו",
+      "gloss": "باتەکانی"
+    },
+    {
+      "surface": "וגבאיו",
+      "gloss": "و کەنارباتەکانی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ירפאו",
+      "gloss": "چاک دەبن"
+    },
+    {
+      "surface": "למלח",
+      "gloss": "بۆ خوێ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "بەدران"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:13.158348071Z",
+  "model": "glm-5.3"
+}

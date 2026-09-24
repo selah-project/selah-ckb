@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "گیانی بەرەکەت چەور دەکرێت، و ئاودێر هەروەها ئەو بارانی بۆ دەبارێت.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "بەرەکەت"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "چەور دەکرێت"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "و ئاودێر"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "بارانی بۆ دەبارێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:58.270373663Z",
+  "model": "glm-5.3"
+}

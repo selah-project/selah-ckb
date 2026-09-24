@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "دوژمنەکانم دەڵێن: خراپی بۆ بێت؛ کەی دەمرێت و ناوی دەسڕێتەوە؟",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "دوژمنەکانم"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "دەمرێت"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "و دەسڕێتەوە"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:36.606437252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و لە کوڕانی ئیمێر: حەنانی و زەڤادییا.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "و لە کوڕانی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ئیمێر"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حەنانی"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "و زەڤادییا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:13:38.507265213Z",
+  "model": "glm-5.3"
+}

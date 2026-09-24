@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 116,
+  "translation": "پەردەی ڕزگارییەکان هەڵدەگرم و بە ناوی یاهوە بانگ دەکەم.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "پەردە"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ڕزگارییەکان"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "هەڵدەگرم"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "و بە ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "بانگ دەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:19.437916577Z",
+  "model": "glm-5.3"
+}

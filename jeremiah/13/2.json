@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ⟨את⟩ پشتماڵەکەم کڕی وەک وشەی یاهوە و لەسەر کەمەرم خست.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "و کڕیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پشتماڵەکە"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "پشتماڵەکە"
+    },
+    {
+      "surface": "كדבר",
+      "gloss": "وەک وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "و خستم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "کەمەرم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:42.755542132Z",
+  "model": "glm-5.3"
+}

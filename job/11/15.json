@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 11:15",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ئەوا ئەو کاتە ڕووت هەڵدەگریت بێ خەتا و دەبیتە ⟨شتی⟩ پتەو و ناترسێت،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ئەوا"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ئەو کاتە"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "هەڵدەگریت"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "ממום",
+      "gloss": "بێ خەتا"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "و دەبیتە"
+    },
+    {
+      "surface": "מצק",
+      "gloss": "پتەو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "دەترسێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:23.111931347Z",
+  "model": "glm-5.3"
+}

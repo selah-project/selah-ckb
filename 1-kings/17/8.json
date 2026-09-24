@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و بوو کە وشەی یاهوە هاتە لای ئەو بەم شێوەیە.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لای ئەو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم شێوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:53:37.579600482Z",
+  "model": "glm-5.3"
+}

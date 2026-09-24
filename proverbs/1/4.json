@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بۆ دانانی زیرەکی بۆ سادەکان، بۆ گەنجیش زانین و خەیاڵی باش.",
+  "tokens": [
+    {
+      "surface": "لתת",
+      "gloss": "بۆ دانانی"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "بۆ سادەکان"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "زیرەکی"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "بۆ گەنجیش"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانین"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "و خەیاڵی باش"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:46.019932756Z",
+  "model": "glm-5.3"
+}

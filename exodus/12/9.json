@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "لێی ناخۆن خاو، نەک کوڵاو کوڵاوکراو لە ئاو، بەڵکو برژاو لە ئاگر؛ سەری لەسەر لاقەکانی و لەسەر ناوەڕۆکەکەی.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ناخۆن"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "נא",
+      "gloss": "خاو"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "و کوڵاو"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "کوڵاوکراو"
+    },
+    {
+      "surface": "במים",
+      "gloss": "لە ئاو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "צלי",
+      "gloss": "برژاو"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "لاقەکانی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ناوەڕۆکەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:41:12.051832773Z",
+  "model": "glm-5.3"
+}

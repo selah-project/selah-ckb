@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "ئاڤراهام ⟨زیادکرد⟩ و ژنێکی هێنەوە، و ناوی قەتوورە بوو.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "زیادکرد"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "هێنەوە"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێک"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قەتوورە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:48:37.233670179Z",
+  "model": "glm-5.3"
+}

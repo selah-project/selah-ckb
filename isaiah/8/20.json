@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بۆ تۆرا و بۆ شایەتی! ئەگەر بەم قسەیە نەڵێن — ئەوەی هیچ بەیانیێکی نییە.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "بۆ تۆرا"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "و بۆ شایەتی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "بڵێن"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "وەک قسە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "بەیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:14:37.162707799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "دەرچوویت بۆ ڕزگاری گەلەکەت، بۆ ڕزگاری ⟨את⟩ ماشیاحت؛ سەری لە ماڵە بێدادەکە پارە کردیت، بناغەی ئاشکرا کردیت هەتا مل. سەلا.",
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "دەرچوویت"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "بۆ ڕزگاری"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلەکەت"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "بۆ ڕزگاری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مashing"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "مashingت"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "پارە کردیت"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "لە ماڵە"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بێدادەکە"
+    },
+    {
+      "surface": "ערوות",
+      "gloss": "ئاشکرا کردیت"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "بناغەی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "مل"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سەلا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:41:19.669576711Z",
+  "model": "glm-5.3"
+}

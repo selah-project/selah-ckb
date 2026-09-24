@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و کوڕانی ئەلیفاز ئەمانە بوون: تەیمان، عۆمار، سەپۆ، گەعتم و قەنەز.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ئەلیفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تەیمان"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "عۆمار"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "سەپۆ"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "و گەعتم"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "و قەنەز"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:41.644570051Z",
+  "model": "glm-5.3"
+}

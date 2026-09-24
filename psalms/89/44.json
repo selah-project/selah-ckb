@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "هەروەها بلێیتەوە تیغی شمشێری، و لە شەڕدا پاڵپشتیت نەکرد.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "بلێیتەوە"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تیغ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "شمشێری"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "پاڵپشتیت نەکرد"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "لە شەڕدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:47.096933798Z",
+  "model": "glm-5.3"
+}

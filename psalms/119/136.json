@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "جووی ئاو لە چاوەکانم دەڕوات، چونکە تۆرای تۆ پارێز نەکراوە.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "جووی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "یורדו",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "لە چاوەکانم"
+    },
+    {
+      "surface": "על",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "پارێز کراوە"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تۆرای تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:10.316060238Z",
+  "model": "glm-5.3"
+}

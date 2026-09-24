@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چاکتر ئەوەیە کە نەزری نەکەیت، لەوەی کە نەزر بکەیت و تەواوی نەکەیت.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکترە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نەزری بکەیت"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "لەوەی کە نەزر بکەیت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "تەواوی بکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:26.288806318Z",
+  "model": "glm-5.3"
+}

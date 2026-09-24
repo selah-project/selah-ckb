@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "گیانێک کە دەست دەکات بەوانە، پیس دەبێت هەتا ئێوارە، و لە پیرۆزەکان نایخوات مەگەر لەشی خۆی بە ئاو بشوات",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "گیانێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "دەست دەکات"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بەوانە"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "و پیس دەبێت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ئێوارە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوات"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مەگەر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "بشوات"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لەشی خۆی"
+    },
+    {
+      "surface": "במים",
+      "gloss": "بە ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:02.398643659Z",
+  "model": "glm-5.3"
+}

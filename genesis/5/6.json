@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و شێت پێنج ساڵ و سەد ساڵ ژیا، و ئێنۆشی ⟨את⟩ بوو بە باوکی.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شێت ⟨شێس⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "و سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بوو بە باوکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئێنۆش"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ئێنۆش"
+    }
+  ],
+  "timestamp": "2026-09-24T09:11:20.305013166Z",
+  "model": "glm-5.3"
+}

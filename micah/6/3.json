@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئەی گەلەکەم، چیم بۆ تۆ کرد و بە چ شێوەیەک ماندووت کردم؟ دەربارەی من وەڵام بدەرە.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "گەلەکەم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کردم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چ"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "ماندووت کردم"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "وەڵام بدەرە"
+    },
+    {
+      "surface": "בי",
+      "gloss": "دەربارەی من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:31.450791313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و لەسەر مۆرکەران نەحەمیا ⟨تیرشاتا⟩ کوڕی حەکەلیا و سیدقیا",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "مۆرکەران"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "نەحەمیا"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "تیرشاتا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "حەکەلیا"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "و سیدقیا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:30.294080406Z",
+  "model": "glm-5.3"
+}

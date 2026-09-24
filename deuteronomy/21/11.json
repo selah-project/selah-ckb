@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و لە دیلەکاندا ژنێکی جوانی ڕوخسار ببینیت و حەزت لێی بکات و بۆ خۆت وەک ژن وەری بگریت،",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "و ببینیت"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "لە دیلەکاندا"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنێکی"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ڕوخسار"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "و حەزت لێی بکات"
+    },
+    {
+      "surface": "בה",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "و وەری بگریت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "وەک ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:39.455112429Z",
+  "model": "glm-5.3"
+}

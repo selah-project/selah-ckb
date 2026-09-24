@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و لەسەر هەموو چیایە بەرزەکان، و لەسەر هەموو گردە هەڵبڕدراوەکان.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "چیاکان"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "بەرزەکان"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "گردەکان"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "هەڵبڕدراوەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:12:01.753118738Z",
+  "model": "glm-5.3"
+}

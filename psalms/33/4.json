@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "چونکە ڕاستە وشەی یاهوە، و هەموو کردارەکانی بە دڵسۆزی",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ڕاستە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "کردارەکانی"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "بە دڵسۆزی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:59.064822670Z",
+  "model": "glm-5.3"
+}

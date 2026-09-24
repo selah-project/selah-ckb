@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی ڕەتسین، کوڕەکانی نەقودا، کوڕەکانی گەززام.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ڕەتسین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نەقودا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "گەززام"
+    }
+  ],
+  "timestamp": "2026-09-24T15:10:34.049880754Z",
+  "model": "glm-5.3"
+}

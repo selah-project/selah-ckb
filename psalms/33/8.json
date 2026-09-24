@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "بترسێن لە یاهوە هەموو زەوی، لەوەی بترسێن هەموو دانیشتووانی تێبێل.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "بترسێن"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "لە یاهوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لەوەی"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "بترسێن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تێبێل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:16.000403757Z",
+  "model": "glm-5.3"
+}

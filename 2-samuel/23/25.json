@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "شەمما ⟨حەرۆدی⟩، ئەلیقا ⟨حەرۆدی⟩،",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شەمما"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "⟨حەرۆدی⟩"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "ئەلیقا"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "⟨حەرۆدی⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:51.996872162Z",
+  "model": "glm-5.3"
+}

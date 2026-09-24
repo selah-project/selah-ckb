@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "قورسیی بەرد و بارکردنی لم، بەڵام تووڕەیی گێل قورسترە لە هەردووکیان.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "قورسی"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "و بارکردن"
+    },
+    {
+      "surface": "החול",
+      "gloss": "لم"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "بەڵام تووڕەیی"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "گێل"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "قورسترە"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "لە هەردووکیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:48.265825988Z",
+  "model": "glm-5.3"
+}

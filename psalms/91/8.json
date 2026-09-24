@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 91,
+  "translation": "تەنها بە چاوەکانت سەیر دەکەیت و سزای خراپەکاران دەبینیت.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "بە چاوەکانت"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "سەیر دەکەیت"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "و سزای"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکاران"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "دەبینیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:47.940876809Z",
+  "model": "glm-5.3"
+}

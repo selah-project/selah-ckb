@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "زمانەکەت لە خراپی بپارێزە و لێوەکانت لە قسەکردنی فێڵ.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "بپارێزە"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "زمانەکەت"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "لە خراپی"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "و لێوەکانت"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "لە قسەکردنی"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فێڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:42.800428943Z",
+  "model": "glm-5.3"
+}

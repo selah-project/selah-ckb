@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 86,
+  "translation": "نوێژی داود. یاهوە، گوێت لابدەرەوە، وەڵامی مبدەوە، چونکە هەژار و پەرێشانم.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "نوێژ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "لابدەرەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوێت"
+    },
+    {
+      "surface": "عנני",
+      "gloss": "وەڵامی مبدەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עני",
+      "gloss": "هەژار"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و پەرێشان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:20.463346142Z",
+  "model": "glm-5.3"
+}

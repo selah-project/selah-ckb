@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "و ئەوان نەیانزانی کە یۆسێف دەیبیستێت، چونکە شیکارەکە لە نێوانیاندا بوو.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "و ئەوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "نەیانزانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "دەیبیستێت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "شیکارەکە"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "لە نێوانیاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:49.757427496Z",
+  "model": "glm-5.3"
+}

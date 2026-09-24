@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 98,
+  "translation": "زامرە بکەن بۆ یاهوە بە چینۆر، بە چینۆر و بە دەنگی زیمرا.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "زامرە بکەن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "بە چینۆر"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "بە چینۆر"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "و بە دەنگی"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "زیمرا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:43.923799133Z",
+  "model": "glm-5.3"
+}

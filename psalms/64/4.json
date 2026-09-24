@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 64,
+  "translation": "ئەوانەی وەک شمشێر زمانیان تیژ کرد، تیریان ئاراستە کرد — وشەیەکی تاڵ",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ئەوانەی"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "تیژ کرد"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "وەک شمشێر"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "زمانیان"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ئاراستە کرد"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "تیریان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەیەک"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تاڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:26.395892938Z",
+  "model": "glm-5.3"
+}

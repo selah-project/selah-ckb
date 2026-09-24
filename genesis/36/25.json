@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "ئەمانەش کوڕەکانی عەناه بوون: دیشۆن و ئۆهۆلیڤاماه کچی عەناه.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانەش"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عەناه"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "دیشۆن"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "و ئۆهۆلیڤاماه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عەناه"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:02.366626805Z",
+  "model": "glm-5.3"
+}

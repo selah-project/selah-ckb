@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "سڕینەوە دەسڕمەوە هەموو شت لە ڕووی زەویەکە، ڕاگەیاندنی یاهوە.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "سڕینەوە"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "دەسڕمەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "پני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ڕاگەیاندنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:42:29.442799763Z",
+  "model": "glm-5.3"
+}

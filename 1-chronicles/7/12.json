@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و شوپیم و حوپیم کوڕانی عیر بوون؛ حوشیم ⟨کوڕانی⟩ ئەخێر.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "و شوپیم"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "و حوپیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حوشیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ئەخێر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:26.197878374Z",
+  "model": "glm-5.3"
+}

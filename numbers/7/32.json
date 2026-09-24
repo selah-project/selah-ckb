@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کفلێکی زێڕین، یەکێک، دە شەقڵ، پڕ لە کوێخە.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کفلێکی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕین"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "کوێخە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:16:07.219198406Z",
+  "model": "glm-5.3"
+}

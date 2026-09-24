@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 148,
+  "translation": "ئاگر و بەفرین، بەفری بەستوو و توێ، باێکی زۆر توند، ئەوەی وشەی ئەو دەکات.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "و بەفرین"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "بەفری بەستوو"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "و توێ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باێکی"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "زۆر توند"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "وشەی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:25.340465258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "چەکوش و شمشێر و تیری تیژ — پیاوێکە کە بە درۆیانە شهادەت دەدات لەسەر هاوڕێی.",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "چەکوش"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "و شمشێر"
+    },
+    {
+      "surface": "وחץ",
+      "gloss": "و تیر"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "تیژ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "شهادەت دەدات"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "لەسەر هاوڕێی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شهادەت"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "بە درۆیانە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:09.609471845Z",
+  "model": "glm-5.3"
+}

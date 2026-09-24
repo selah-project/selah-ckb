@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "من بۆ خۆم باخچە و پاردەیسەکان دروستمکرد، و لە ناویان دارێ هەموو میوە نیشتم.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "دروستمکرد"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باخچە"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "و پاردەیسەکان"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "و نیشتم"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لە ناویان"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:03.898173148Z",
+  "model": "glm-5.3"
+}

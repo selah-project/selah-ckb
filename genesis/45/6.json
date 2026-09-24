@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "چونکە ئەمە دوو ساڵە قاترییەکەیە لە ناو زەویەکە، و هێشتا پێنج ساڵ ماوە کە تێیاندا کێڵان و دروێنە نییە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دوو ساڵ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قاترییەکە"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "لە ناو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "و هێشتا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "کێڵان"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "و دروێنە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:34:20.462436546Z",
+  "model": "glm-5.3"
+}

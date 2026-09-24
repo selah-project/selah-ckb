@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و تۆ پیرۆزی، دانیشتووی ستایشەکانی ئیسرائیل ⟨ئیسرائیل⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "دانیشتوو"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ستایشەکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:57.922019120Z",
+  "model": "glm-5.3"
+}
