@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":31,"ref":"1-samuel 30:31","book":"1-samuel","lang":"ckb","chapter":30,"translation":"و بۆ ئەوانەی لە حەڤرۆن، و بۆ هەموو ئەو شوێنانەی داود لەوێ گەڕا، ئەو خۆی و پیاوەکانی.","tokens":[{"surface":"ולאשר","gloss":"و بۆ ئەوانەی"},{"surface":"בחברון","gloss":"لە حەڤرۆن"},{"surface":"ולכל","gloss":"و بۆ هەموو"},{"surface":"המקמות","gloss":"ئەو شوێنانە"},{"surface":"אשר","gloss":"کە"},{"surface":"התהלך","gloss":"گەڕا"},{"surface":"שם","gloss":"لەوێ"},{"surface":"דוד","gloss":"داود"},{"surface":"הוא","gloss":"ئەو خۆی"},{"surface":"ואנשיו","gloss":"و پیاوەکانی"}],"timestamp":"2026-09-24T11:28:35.409756528Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 30:31",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و بۆ ئەوانەی لە حەڤرۆن، و بۆ هەموو ئەو شوێنانەی داود لەوێ گەڕا، ئەو خۆی و پیاوەکانی.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "و بۆ ئەوانەی"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "لە حەڤرۆن"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "و بۆ هەموو"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "ئەو شوێنانە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "گەڕا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو خۆی"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "و پیاوەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:28:35.409756528Z",
+  "model": "glm-5.3"
+}

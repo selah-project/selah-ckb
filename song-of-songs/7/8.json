@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":8,"ref":"song-of-songs 7:8","book":"song-of-songs","lang":"ckb","chapter":7,"translation":"ئەمە قەدی تۆ دەچێتەوە بە دار خورما و مەمکەکانت وەکو خوشەکانی مێو","tokens":[{"surface":"זאת","gloss":"ئەمە"},{"surface":"קומתך","gloss":"قەدی تۆ"},{"surface":"דמתה","gloss":"دەچێتەوە بە"},{"surface":"לתמר","gloss":"دار خورما"},{"surface":"ושדיך","gloss":"و مەمکەکانت"},{"surface":"לאשכלות","gloss":"وەکو خوشەکانی مێو"}],"timestamp":"2026-09-24T17:28:01.468622152Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "ئەمە قەدی تۆ دەچێتەوە بە دار خورما و مەمکەکانت وەکو خوشەکانی مێو",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "قەدی تۆ"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "دەچێتەوە بە"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "دار خورما"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "و مەمکەکانت"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "وەکو خوشەکانی مێو"
+    }
+  ],
+  "timestamp": "2026-09-24T17:28:01.468622152Z",
+  "model": "glm-5.3"
+}

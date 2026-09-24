@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":25,"ref":"jeremiah 5:25","book":"jeremiah","lang":"ckb","chapter":5,"translation":"گوناهەکانتان ئەمانەی لادانیان دا، و خەتابەکانتان چاکە لە ئێوە ڕاگرتنیان کرد.","tokens":[{"surface":"עונותיכם","gloss":"گوناهەکانتان"},{"surface":"הטו","gloss":"لادانیان دا"},{"surface":"אלה","gloss":"ئەمانە"},{"surface":"וחטאותיכם","gloss":"و خەتابەکانتان"},{"surface":"מנעו","gloss":"ڕاگرتنیان کرد"},{"surface":"הטוב","gloss":"چاکە"},{"surface":"מכם","gloss":"لە ئێوە"}],"timestamp":"2026-09-24T12:39:42.675523825Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "گوناهەکانتان ئەمانەی لادانیان دا، و خەتابەکانتان چاکە لە ئێوە ڕاگرتنیان کرد.",
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "گوناهەکانتان"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "لادانیان دا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "و خەتابەکانتان"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "ڕاگرتنیان کرد"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "لە ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:39:42.675523825Z",
+  "model": "glm-5.3"
+}

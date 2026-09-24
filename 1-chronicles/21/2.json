@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-chronicles 21:2","book":"1-chronicles","lang":"ckb","chapter":21,"translation":"داود فەرمووی کرد بۆ یۆئاڤ و بۆ سەرکردەکانی گەل: بڕۆن، ییسرائێل ⟨את⟩ بژمێرن لە بێرشەڤەوە هەتا دان، و بۆم بهێنن، و من ژمارەیان ⟨את⟩ بزانم.","tokens":[{"surface":"ויאמר","gloss":"فەرمووی کرد"},{"surface":"דויד","gloss":"داود"},{"surface":"אל","gloss":"بۆ"},{"surface":"יואב","gloss":"یۆئاڤ"},{"surface":"ואל","gloss":"و بۆ"},{"surface":"שרי","gloss":"سەرکردەکانی"},{"surface":"העם","gloss":"گەل"},{"surface":"לכו","gloss":"بڕۆن"},{"surface":"ספרו","gloss":"بژمێرن"},{"surface":"את","gloss":"⟨את⟩","marks":"ییسرائێل"},{"surface":"ישראל","gloss":"ییسرائێل"},{"surface":"מבאר","gloss":"لە...ەوە"},{"surface":"שבע","gloss":"بێرشەڤە"},{"surface":"ועד","gloss":"هەتا"},{"surface":"דן","gloss":"دان"},{"surface":"והביאו","gloss":"بهێنن"},{"surface":"אלי","gloss":"بۆم"},{"surface":"ואדעה","gloss":"دەزانم"},{"surface":"את","gloss":"⟨את⟩","marks":"ژمارەیان"},{"surface":"מספרם","gloss":"ژمارەیان"}],"timestamp":"2026-09-24T15:28:48.943729231Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "داود فەرمووی کرد بۆ یۆئاڤ و بۆ سەرکردەکانی گەل: بڕۆن، ییسرائێل ⟨את⟩ بژمێرن لە بێرشەڤەوە هەتا دان، و بۆم بهێنن، و من ژمارەیان ⟨את⟩ بزانم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرمووی کرد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یۆئاڤ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سەرکردەکانی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "بڕۆن"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "بژمێرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ییسرائێل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائێل"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "لە...ەوە"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "بێرشەڤە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "بهێنن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "دەزانم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ژمارەیان"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ژمارەیان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:48.943729231Z",
+  "model": "glm-5.3"
+}

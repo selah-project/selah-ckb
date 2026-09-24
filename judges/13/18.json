@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":18,"ref":"judges 13:18","book":"judges","lang":"ckb","chapter":13,"translation":"و فریشتەی یاهوە بە وی وت: بۆچی ئەمە دەپرسی لە ناوی من؟ و ئەو سەرسوڕهێنەرە.","tokens":[{"surface":"ויאמר","gloss":"و وت"},{"surface":"לו","gloss":"بە وی"},{"surface":"מלאך","gloss":"فریشتەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"למה","gloss":"بۆچی"},{"surface":"זה","gloss":"ئەمە"},{"surface":"תשאל","gloss":"دەپرسی"},{"surface":"לשמי","gloss":"لە ناوی من"},{"surface":"והוא","gloss":"و ئەو"},{"surface":"פלאי","gloss":"سەرسوڕهێنەر"}],"timestamp":"2026-09-24T11:10:22.960368349Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و فریشتەی یاهوە بە وی وت: بۆچی ئەمە دەپرسی لە ناوی من؟ و ئەو سەرسوڕهێنەرە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بە وی"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فریشتەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "دەپرسی"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "لە ناوی من"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "سەرسوڕهێنەر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:10:22.960368349Z",
+  "model": "glm-5.3"
+}

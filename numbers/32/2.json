@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":2,"ref":"numbers 32:2","book":"numbers","lang":"ckb","chapter":32,"translation":"کوڕانی گاد و کوڕانی ڕێئوڤێن هاتن و بە مۆشە ⟨موسا⟩ و بە ئەلعەزەری کاهین و بە سەرۆکانی کۆمەڵەکەیان وت، بەم زوانی:","tokens":[{"surface":"ויבאו","gloss":"هاتن"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"גד","gloss":"گاد"},{"surface":"ובני","gloss":"و کوڕانی"},{"surface":"ראובן","gloss":"ڕێئوڤێن"},{"surface":"ויאמרו","gloss":"و وتن"},{"surface":"אל","gloss":"بە"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"ואל","gloss":"و بە"},{"surface":"אלעזר","gloss":"ئەلعەزەر"},{"surface":"הכהן","gloss":"کاهین"},{"surface":"ואל","gloss":"و بە"},{"surface":"נשיאי","gloss":"سەرۆکانی"},{"surface":"העדה","gloss":"کۆمەڵەکە"},{"surface":"לאמר","gloss":"بەم زوانی"}],"timestamp":"2026-09-24T10:31:14.469084354Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 32:2",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "کوڕانی گاد و کوڕانی ڕێئوڤێن هاتن و بە مۆشە ⟨موسا⟩ و بە ئەلعەزەری کاهین و بە سەرۆکانی کۆمەڵەکەیان وت، بەم زوانی:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "هاتن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ڕێئوڤێن"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و وتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بە"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئەلعەزەر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بە"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "سەرۆکانی"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "کۆمەڵەکە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زوانی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:14.469084354Z",
+  "model": "glm-5.3"
+}

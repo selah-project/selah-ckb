@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":28,"ref":"leviticus 7:28","book":"leviticus","lang":"ckb","chapter":7,"translation":"و یاهوە لەگەڵ مۆشە ⟨موسا⟩ قسەی کرد بە وتن.","tokens":[{"surface":"וידבר","gloss":"و فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"لەگەڵ"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"לאמר","gloss":"بە وتن"}],"timestamp":"2026-09-24T10:00:35.104550177Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و یاهوە لەگەڵ مۆشە ⟨موسا⟩ قسەی کرد بە وتن.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:00:35.104550177Z",
+  "model": "glm-5.3"
+}

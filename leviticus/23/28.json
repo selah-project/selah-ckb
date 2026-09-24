@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":28,"ref":"leviticus 23:28","book":"leviticus","lang":"ckb","chapter":23,"translation":"و هیچ کارێک لە عەین ئەم ڕۆژەدا ناکەن، چونکە ڕۆژی کیپوریمە ئەوە، بۆ لێبوردنتان لەبەردەم یاهوە ئێلۆهیمتان","tokens":[{"surface":"וכל","gloss":"و هیچ"},{"surface":"מלאכה","gloss":"کارێک"},{"surface":"לא","gloss":"نا"},{"surface":"תעשו","gloss":"دەکەن"},{"surface":"בעצם","gloss":"لە عەین"},{"surface":"היום","gloss":"ئەم ڕۆژەدا"},{"surface":"הזה","gloss":"ئەم"},{"surface":"כי","gloss":"چونکە"},{"surface":"יום","gloss":"ڕۆژ"},{"surface":"כפרים","gloss":"کیپوریم"},{"surface":"הוא","gloss":"ئەوە"},{"surface":"לכפר","gloss":"بۆ لێبوردن"},{"surface":"עליכם","gloss":"تان"},{"surface":"לפני","gloss":"لەبەردەم"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיכם","gloss":"ئێلۆهیمتان"}],"timestamp":"2026-09-24T10:11:20.996939064Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 23:28",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و هیچ کارێک لە عەین ئەم ڕۆژەدا ناکەن، چونکە ڕۆژی کیپوریمە ئەوە، بۆ لێبوردنتان لەبەردەم یاهوە ئێلۆهیمتان",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هیچ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کارێک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "دەکەن"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "لە عەین"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەم ڕۆژەدا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "کیپوریم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "بۆ لێبوردن"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:20.996939064Z",
+  "model": "glm-5.3"
+}

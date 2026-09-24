@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":3,"ref":"2-chronicles 11:3","book":"2-chronicles","lang":"ckb","chapter":11,"translation":"بڵێ بۆ ڕەحەبەئام کوڕی شەلۆمۆ پاشای یەهودا و بۆ هەموو ییسرائیل لە یەهودا و بێنیامین، بۆ وتن:","tokens":[{"surface":"אמר","gloss":"بڵێ"},{"surface":"אל","gloss":"بۆ"},{"surface":"רחבעם","gloss":"ڕەحەبەئام"},{"surface":"בן","gloss":"کوڕی"},{"surface":"שלמה","gloss":"شەلۆمۆ"},{"surface":"מלך","gloss":"پاشای"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"ואל","gloss":"و بۆ"},{"surface":"כל","gloss":"هەموو"},{"surface":"ישראל","gloss":"ییسرائیل"},{"surface":"ביהודה","gloss":"لە یەهودا"},{"surface":"ובנימן","gloss":"و بێنیامین"},{"surface":"לאמר","gloss":"بۆ وتن"}],"timestamp":"2026-09-24T15:37:09.660601295Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "بڵێ بۆ ڕەحەبەئام کوڕی شەلۆمۆ پاشای یەهودا و بۆ هەموو ییسرائیل لە یەهودا و بێنیامین، بۆ وتن:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ڕەحەبەئام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شەلۆمۆ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائیل"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "لە یەهودا"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "و بێنیامین"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:09.660601295Z",
+  "model": "glm-5.3"
+}

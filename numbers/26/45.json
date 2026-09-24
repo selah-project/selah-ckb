@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":45,"ref":"numbers 26:45","book":"numbers","lang":"ckb","chapter":26,"translation":"بۆ کوڕانی بیریا: بۆ حێبێر، خێزانی حێبێری؛ بۆ مەلکیێل، خێزانی مەلکیێلی.","tokens":[{"surface":"לבני","gloss":"بۆ کوڕانی"},{"surface":"בריעה","gloss":"بیریا"},{"surface":"לחבר","gloss":"بۆ حێبێر"},{"surface":"משפחת","gloss":"خێزانی"},{"surface":"החברי","gloss":"حێبێری"},{"surface":"למלכיאל","gloss":"بۆ مەلکیێل"},{"surface":"משפחת","gloss":"خێزانی"},{"surface":"המלכיאלי","gloss":"مەلکیێلی"}],"timestamp":"2026-09-24T10:28:04.270624835Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 26:45",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "بۆ کوڕانی بیریا: بۆ حێبێر، خێزانی حێبێری؛ بۆ مەلکیێل، خێزانی مەلکیێلی.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بیریا"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "بۆ حێبێر"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خێزانی"
+    },
+    {
+      "surface": "החברי",
+      "gloss": "حێبێری"
+    },
+    {
+      "surface": "למלכיאל",
+      "gloss": "بۆ مەلکیێل"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خێزانی"
+    },
+    {
+      "surface": "המלכיאלי",
+      "gloss": "مەلکیێلی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:04.270624835Z",
+  "model": "glm-5.3"
+}

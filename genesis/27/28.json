@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":28,"ref":"genesis 27:28","book":"genesis","lang":"ckb","chapter":27,"translation":"و ئێلۆهیم بەتێ بدات لە شەنی ئاسمان و لە چەوری زەوی، و فرەیی دانەوێڵە و ئاوی ترێ.","tokens":[{"surface":"ויתן","gloss":"و بدات"},{"surface":"לך","gloss":"بەتۆ"},{"surface":"האלהים","gloss":"ئێلۆهیم"},{"surface":"מטל","gloss":"شەنی"},{"surface":"השמים","gloss":"ئاسمان"},{"surface":"ומשמני","gloss":"و چەورەکانی"},{"surface":"הארץ","gloss":"زەوی"},{"surface":"ורב","gloss":"و فرەیی"},{"surface":"דגן","gloss":"دانەوێڵە"},{"surface":"ותירש","gloss":"و ئاوی ترێ"}],"timestamp":"2026-09-24T09:24:08.521807736Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 27:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ئێلۆهیم بەتێ بدات لە شەنی ئاسمان و لە چەوری زەوی، و فرەیی دانەوێڵە و ئاوی ترێ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و بدات"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بەتۆ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "شەنی"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "ומשמני",
+      "gloss": "و چەورەکانی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و فرەیی"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "دانەوێڵە"
+    },
+    {
+      "surface": "ותירש",
+      "gloss": "و ئاوی ترێ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:24:08.521807736Z",
+  "model": "glm-5.3"
+}

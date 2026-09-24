@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":22,"ref":"joshua 21:22","book":"joshua","lang":"ckb","chapter":21,"translation":"و ⟨את⟩ کیبتسایم و ⟨את⟩ مەزراکانی و ⟨את⟩ بێت حۆرۆن و ⟨את⟩ مەزراکانی — چوار شار.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩","marks":"کیبتسایم"},{"surface":"קבצים","gloss":"کیبتسایم"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مەزراکانی"},{"surface":"מגרשה","gloss":"مەزراکانی"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"بێت حۆرۆن"},{"surface":"בית","gloss":"بێت"},{"surface":"חורן","gloss":"حۆرۆن"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مەزراکانی"},{"surface":"מגרשה","gloss":"مەزراکانی"},{"surface":"ערים","gloss":"شار"},{"surface":"ארבע","gloss":"چوار"}],"timestamp":"2026-09-24T11:00:49.561315449Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ⟨את⟩ کیبتسایم و ⟨את⟩ مەزراکانی و ⟨את⟩ بێت حۆرۆن و ⟨את⟩ مەزراکانی — چوار شار.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کیبتسایم"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "کیبتسایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مەزراکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بێت حۆرۆن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "حۆرۆن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکانی"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مەزراکانی"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شار"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:49.561315449Z",
+  "model": "glm-5.3"
+}

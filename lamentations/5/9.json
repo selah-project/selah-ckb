@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":9,"ref":"lamentations 5:9","book":"lamentations","lang":"ckb","chapter":5,"translation":"بە گیانمان نانەکەمان دەهێنێت بە هۆی شمشێری بیابانەکە","tokens":[{"surface":"בנפשנו","gloss":"بە گیانمان"},{"surface":"נביא","gloss":"دەهێنێت"},{"surface":"לחמנו","gloss":"نانەکەمان"},{"surface":"מפני","gloss":"بە هۆی"},{"surface":"חרב","gloss":"شمشێری"},{"surface":"המדבר","gloss":"بیابانەکە"}],"timestamp":"2026-09-24T14:54:52.003807670Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "بە گیانمان نانەکەمان دەهێنێت بە هۆی شمشێری بیابانەکە",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "بە گیانمان"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "دەهێنێت"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "نانەکەمان"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "بە هۆی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێری"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابانەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:54:52.003807670Z",
+  "model": "glm-5.3"
+}

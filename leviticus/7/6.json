@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":6,"ref":"leviticus 7:6","book":"leviticus","lang":"ckb","chapter":7,"translation":"هەموو نێرینەیەک لە کاهینەکان دەیخوات، لە شوێنێکی پیرۆزدا دەخورێت، پیرۆزی پیرۆزەکانە ئەوەیە.","tokens":[{"surface":"כל","gloss":"هەموو"},{"surface":"זכר","gloss":"نێرینە"},{"surface":"בכהנים","gloss":"لە کاهینەکان"},{"surface":"יאכלנו","gloss":"دەیخوات"},{"surface":"במקום","gloss":"لە شوێن"},{"surface":"קדוש","gloss":"پیرۆز"},{"surface":"יאכל","gloss":"دەخورێت"},{"surface":"קדש","gloss":"پیرۆزی"},{"surface":"קדשים","gloss":"پیرۆزەکان"},{"surface":"הוא","gloss":"ئەوەیە"}],"timestamp":"2026-09-24T09:59:24.050954333Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "هەموو نێرینەیەک لە کاهینەکان دەیخوات، لە شوێنێکی پیرۆزدا دەخورێت، پیرۆزی پیرۆزەکانە ئەوەیە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێرینە"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "لە کاهینەکان"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "دەیخوات"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "لە شوێن"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخورێت"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:24.050954333Z",
+  "model": "glm-5.3"
+}

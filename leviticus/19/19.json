@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":19,"ref":"leviticus 19:19","book":"leviticus","lang":"ckb","chapter":19,"translation":"⟨את⟩ حکمەکانی من بپارێزن: ماڵاتەکەت بە دوو جۆر مەبەخشە زاوزێ، کێڵگەکەت بە دوو جۆر تۆو مەکە، و جلێکی دوو جۆر، شائتنز، لەسەرت مەخرێ.","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"حکمەکانی من"},{"surface":"חקתי","gloss":"حکمەکانی من"},{"surface":"תשמרו","gloss":"بپارێزن"},{"surface":"בהמתך","gloss":"ماڵاتەکەت"},{"surface":"לא","gloss":"نا"},{"surface":"תרביע","gloss":"بەخشینی زاوزێ"},{"surface":"כלאים","gloss":"دوو جۆر"},{"surface":"שדך","gloss":"کێڵگەکەت"},{"surface":"לא","gloss":"نا"},{"surface":"תזרע","gloss":"تۆو دان"},{"surface":"כלאים","gloss":"دوو جۆر"},{"surface":"ובגד","gloss":"و جلێک"},{"surface":"כלאים","gloss":"دوو جۆر"},{"surface":"שעטנז","gloss":"شائتنز"},{"surface":"לא","gloss":"نا"},{"surface":"יעלה","gloss":"سەرکەوتن"},{"surface":"עליך","gloss":"لەسەر تۆ"}],"timestamp":"2026-09-24T15:51:53.215570524Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 19:19",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "⟨את⟩ حکمەکانی من بپارێزن: ماڵاتەکەت بە دوو جۆر مەبەخشە زاوزێ، کێڵگەکەت بە دوو جۆر تۆو مەکە، و جلێکی دوو جۆر، شائتنز، لەسەرت مەخرێ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکمەکانی من"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "حکمەکانی من"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "بپارێزن"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ماڵاتەکەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תרביע",
+      "gloss": "بەخشینی زاوزێ"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "دوو جۆر"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "کێڵگەکەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "تۆو دان"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "دوو جۆر"
+    },
+    {
+      "surface": "ובגד",
+      "gloss": "و جلێک"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "دوو جۆر"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "شائتنز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "سەرکەوتن"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەر تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:51:53.215570524Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":15,"ref":"genesis 23:15","book":"genesis","lang":"ckb","chapter":23,"translation":"ئەی ئادۆنای من، دەمگوێیە: زەویێک ⟨is⟩ چوار سەد شەکەڵی زیو، لە نێوان من و نێوان تۆدا — ئەوە چییە؟ و ⟨את⟩ مردووەکەت بنێژە.","tokens":[{"surface":"אדני","gloss":"ئادۆنای من"},{"surface":"שמעני","gloss":"دەمگوێیە"},{"surface":"ארץ","gloss":"زەویێک"},{"surface":"ארבע","gloss":"چوار"},{"surface":"מאת","gloss":"سەد"},{"surface":"שקל","gloss":"شەکەڵ"},{"surface":"כסף","gloss":"زیو"},{"surface":"ביני","gloss":"لە نێوان من"},{"surface":"ובינך","gloss":"و نێوان تۆ"},{"surface":"מה","gloss":"چی"},{"surface":"הוא","gloss":"ئەوەیە"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مردووەکەت"},{"surface":"מתך","gloss":"مردووەکەت"},{"surface":"קבר","gloss":"بنێژە"}],"timestamp":"2026-09-24T09:18:50.916709690Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "ئەی ئادۆنای من، دەمگوێیە: زەویێک ⟨is⟩ چوار سەد شەکەڵی زیو، لە نێوان من و نێوان تۆدا — ئەوە چییە؟ و ⟨את⟩ مردووەکەت بنێژە.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای من"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "دەمگوێیە"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەویێک"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شەکەڵ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "لە نێوان من"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "و نێوان تۆ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مردووەکەت"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "مردووەکەت"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "بنێژە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:50.916709690Z",
+  "model": "glm-5.3"
+}

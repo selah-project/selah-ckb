@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":16,"ref":"1-kings 1:16","book":"1-kings","lang":"ckb","chapter":1,"translation":"بەت شێڤا کڕنووشی برد و لە مەلیک ساجدەی کرد، و مەلیک فەرمووی: چیت لێیە؟","tokens":[{"surface":"ותקד","gloss":"کڕنووشی برد"},{"surface":"בת","gloss":"بەت"},{"surface":"שבע","gloss":"شێڤا"},{"surface":"ותשתחו","gloss":"و ساجدەی کرد"},{"surface":"למלך","gloss":"لە مەلیک"},{"surface":"ויאמר","gloss":"و فەرمووی"},{"surface":"המלך","gloss":"مەلیک"},{"surface":"מה","gloss":"چی"},{"surface":"לך","gloss":"لێیە"}],"timestamp":"2026-09-24T11:43:50.222668206Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "بەت شێڤا کڕنووشی برد و لە مەلیک ساجدەی کرد، و مەلیک فەرمووی: چیت لێیە؟",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "کڕنووشی برد"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بەت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شێڤا"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "و ساجدەی کرد"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "لە مەلیک"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "مەلیک"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لێیە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:43:50.222668206Z",
+  "model": "glm-5.3"
+}

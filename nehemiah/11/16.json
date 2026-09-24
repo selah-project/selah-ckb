@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":16,"ref":"nehemiah 11:16","book":"nehemiah","lang":"ckb","chapter":11,"translation":"و شەبەتای و یۆزەڤاد لەسەر کاری دەرەکیی ماڵی ئێلۆهیم بوون، لە سەرکردەکانی لەڤییەکان.","tokens":[{"surface":"ושבתי","gloss":"و شەبەتای"},{"surface":"ויוזבד","gloss":"و یۆزەڤاد"},{"surface":"על","gloss":"لەسەر"},{"surface":"המלאכה","gloss":"کاری"},{"surface":"החיצנה","gloss":"دەرەکیی"},{"surface":"לבית","gloss":"ماڵی"},{"surface":"האלהים","gloss":"ئێلۆهیم"},{"surface":"מראשי","gloss":"لە سەرکردەکانی"},{"surface":"הלוים","gloss":"لەڤییەکان"}],"timestamp":"2026-09-24T15:19:29.485004013Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 11:16",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و شەبەتای و یۆزەڤاد لەسەر کاری دەرەکیی ماڵی ئێلۆهیم بوون، لە سەرکردەکانی لەڤییەکان.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "و شەبەتای"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "و یۆزەڤاد"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "החיצנה",
+      "gloss": "دەرەکیی"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "מראשי",
+      "gloss": "لە سەرکردەکانی"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لەڤییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:29.485004013Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":8,"ref":"ecclesiastes 1:8","book":"ecclesiastes","lang":"ckb","chapter":1,"translation":"هەموو قسەکان ماندووکەرن، مرۆڤ ناتوانێت قسەیان لێ بکات، چاو لە بینین تێر نابێت و گوێ لە بیستن پڕ نابێت","tokens":[{"surface":"כל","gloss":"هەموو"},{"surface":"הדברים","gloss":"قسەکان"},{"surface":"יגעים","gloss":"ماندووکەرن"},{"surface":"לא","gloss":"ن"},{"surface":"יוכל","gloss":"دەتوانێت"},{"surface":"איש","gloss":"مرۆڤ"},{"surface":"לדבר","gloss":"قسەیان لێ بکات"},{"surface":"לא","gloss":"ن"},{"surface":"תשבע","gloss":"تێر دەبێت"},{"surface":"עין","gloss":"چاو"},{"surface":"לראות","gloss":"لە بینین"},{"surface":"ולא","gloss":"و ن"},{"surface":"תמלא","gloss":"پڕ دەبێت"},{"surface":"אזן","gloss":"گوێ"},{"surface":"משמע","gloss":"لە بیستن"}],"timestamp":"2026-09-24T14:56:01.251832219Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "هەموو قسەکان ماندووکەرن، مرۆڤ ناتوانێت قسەیان لێ بکات، چاو لە بینین تێر نابێت و گوێ لە بیستن پڕ نابێت",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "قسەکان"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ماندووکەرن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "دەتوانێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "قسەیان لێ بکات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ن"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "تێر دەبێت"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چاو"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "لە بینین"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و ن"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "پڕ دەبێت"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "گوێ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "لە بیستن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:01.251832219Z",
+  "model": "glm-5.3"
+}

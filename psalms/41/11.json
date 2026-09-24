@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 41:11","book":"psalms","lang":"ckb","chapter":41,"translation":"و تۆ ئەی یاهوە، ڕەحمم پێ بکە و هەڵم ڕابگرەوە، و قەرەبوویان دەدەمەوە.","tokens":[{"surface":"ואתה","gloss":"و تۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"חנני","gloss":"ڕەحمم پێ بکە"},{"surface":"והקימני","gloss":"و هەڵم ڕابگرەوە"},{"surface":"ואשלמה","gloss":"و قەرەبوو دەدەمەوە"},{"surface":"להם","gloss":"بۆیان"}],"timestamp":"2026-09-24T13:56:20.122588733Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و تۆ ئەی یاهوە، ڕەحمم پێ بکە و هەڵم ڕابگرەوە، و قەرەبوویان دەدەمەوە.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ڕەحمم پێ بکە"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "و هەڵم ڕابگرەوە"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "و قەرەبوو دەدەمەوە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:20.122588733Z",
+  "model": "glm-5.3"
+}

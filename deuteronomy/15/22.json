@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"deuteronomy 15:22","book":"deuteronomy","lang":"ckb","chapter":15,"translation":"لە دەروازەکانتدا ⟨هی⟩ دەخۆیت؛ پیس و پاک یەکگرتوو ⟨ئەی⟩ دەخۆن، وەک غەزال و وەک ئاھوو.","tokens":[{"surface":"בשעריך","gloss":"لە دەروازەکانتدا"},{"surface":"תאכלנו","gloss":"⟨هی⟩ دەخۆیت"},{"surface":"הטמא","gloss":"پیس"},{"surface":"והטהור","gloss":"و پاک"},{"surface":"יחדו","gloss":"یەکگرتوو"},{"surface":"כצבי","gloss":"وەک غەزال"},{"surface":"וכאיל","gloss":"و وەک ئاھوو"}],"timestamp":"2026-09-24T10:39:54.094461636Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "لە دەروازەکانتدا ⟨هی⟩ دەخۆیت؛ پیس و پاک یەکگرتوو ⟨ئەی⟩ دەخۆن، وەک غەزال و وەک ئاھوو.",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "لە دەروازەکانتدا"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "⟨هی⟩ دەخۆیت"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "پیس"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "و پاک"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یەکگرتوو"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "وەک غەزال"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "و وەک ئاھوو"
+    }
+  ],
+  "timestamp": "2026-09-24T10:39:54.094461636Z",
+  "model": "glm-5.3"
+}

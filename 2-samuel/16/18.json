@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":18,"ref":"2-samuel 16:18","book":"2-samuel","lang":"ckb","chapter":16,"translation":"حوشای بە ئەڤشالۆم فەرموو: نا، بەڵکو ئەوەی یاهوە و ئەم گەلە و هەموو پیاوی ئیسرائیل هەڵبژاردوویانە، ئەو دەبم، و لەگەڵ ⟨את⟩ ئەو دادەنیشم.","tokens":[{"surface":"ויאמר","gloss":"فەرموو"},{"surface":"חושי","gloss":"حوشای"},{"surface":"אל","gloss":"بە"},{"surface":"אבשלם","gloss":"ئەڤشالۆم"},{"surface":"לא","gloss":"نا"},{"surface":"כי","gloss":"بەڵکو"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"בחר","gloss":"هەڵبژاردوویانە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"והעם","gloss":"و ئەم گەلە"},{"surface":"הזה","gloss":"ئەمە"},{"surface":"וכל","gloss":"و هەموو"},{"surface":"איש","gloss":"پیاو"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"לא","gloss":"نا"},{"surface":"אהיה","gloss":"دەبم"},{"surface":"ואתו","gloss":"و ⟨את⟩ ئەو"},{"surface":"אשב","gloss":"دادەنیشم"}],"timestamp":"2026-09-24T15:56:36.903615568Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 16:18",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "حوشای بە ئەڤشالۆم فەرموو: نا، بەڵکو ئەوەی یاهوە و ئەم گەلە و هەموو پیاوی ئیسرائیل هەڵبژاردوویانە، ئەو دەبم، و لەگەڵ ⟨את⟩ ئەو دادەنیشم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حوشای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "ئەڤشالۆم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "هەڵبژاردوویانە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "و ئەم گەلە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "دەبم"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "و ⟨את⟩ ئەو"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "دادەنیشم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:56:36.903615568Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-kings 17:2","book":"1-kings","lang":"ckb","chapter":17,"translation":"و وشەی یاهوە هاتە لای ئیلیاهو ⟨ئەلیاس⟩ ووتیشی:","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"דבר","gloss":"وشەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אליו","gloss":"هاتە لای ئیلیاهو ⟨ئەلیاس⟩"},{"surface":"לאמר","gloss":"ووتیشی ⟨کە⟩"}],"timestamp":"2026-09-24T11:53:59.444243209Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و وشەی یاهوە هاتە لای ئیلیاهو ⟨ئەلیاس⟩ ووتیشی:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هاتە لای ئیلیاهو ⟨ئەلیاس⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ووتیشی ⟨کە⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T11:53:59.444243209Z",
+  "model": "glm-5.3"
+}

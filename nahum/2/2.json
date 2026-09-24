@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":2,"ref":"nahum 2:2","book":"nahum","lang":"ckb","chapter":2,"translation":"هەڵکشاوە بڵاوکەرەوەیەک بەرامبەر ڕووت؛ قەڵا بپارە، ڕێگا چاودێری بکە، کەمەرت بەهێز بکە، هێزت زۆر بهێڵە.","tokens":[{"surface":"עלה","gloss":"هەڵکشاوە"},{"surface":"מפיץ","gloss":"بڵاوکەرەوەیەک"},{"surface":"על","gloss":"بەرامبەر"},{"surface":"פניך","gloss":"ڕووت"},{"surface":"נצור","gloss":"بپارە"},{"surface":"מצרה","gloss":"قەڵا"},{"surface":"צפה","gloss":"چاودێری بکە"},{"surface":"דרך","gloss":"ڕێگا"},{"surface":"חזק","gloss":"بەهێز بکە"},{"surface":"מתנים","gloss":"کەمەر"},{"surface":"אמץ","gloss":"بەهێز بکە"},{"surface":"כח","gloss":"هێز"},{"surface":"מאד","gloss":"زۆر"}],"timestamp":"2026-09-24T13:40:33.112032436Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 2:2",
+  "book": "nahum",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "هەڵکشاوە بڵاوکەرەوەیەک بەرامبەر ڕووت؛ قەڵا بپارە، ڕێگا چاودێری بکە، کەمەرت بەهێز بکە، هێزت زۆر بهێڵە.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "هەڵکشاوە"
+    },
+    {
+      "surface": "מפיץ",
+      "gloss": "بڵاوکەرەوەیەک"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "بپارە"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "قەڵا"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "چاودێری بکە"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "بەهێز بکە"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "کەمەر"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "بەهێز بکە"
+    },
+    {
+      "surface": "כח",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:33.112032436Z",
+  "model": "glm-5.3"
+}

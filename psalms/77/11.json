@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 77:11","book":"psalms","lang":"ckb","chapter":77,"translation":"و وتم ئەمە لاوازیی منە ساڵانی دەستی ڕاستی عەلیۆن","tokens":[{"surface":"ואמר","gloss":"و وتم"},{"surface":"חלותי","gloss":"لاوازیی من"},{"surface":"היא","gloss":"ئەمە"},{"surface":"שנות","gloss":"ساڵانی"},{"surface":"ימין","gloss":"دەستی ڕاست"},{"surface":"עליון","gloss":"عەلیۆن"}],"timestamp":"2026-09-24T14:04:17.687120310Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 77,
+  "translation": "و وتم ئەمە لاوازیی منە ساڵانی دەستی ڕاستی عەلیۆن",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و وتم"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "لاوازیی من"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ساڵانی"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "دەستی ڕاست"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عەلیۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:17.687120310Z",
+  "model": "glm-5.3"
+}

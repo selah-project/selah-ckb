@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":21,"ref":"job 24:21","book":"job","lang":"ckb","chapter":24,"translation":"بێکۆڕەکە دەچەوێنێت کە منداڵ نابێت، و بۆ بێوەژنەکە هیچ باشی ناکات.","tokens":[{"surface":"רעה","gloss":"دەچەوێنێت"},{"surface":"עקרה","gloss":"بێکۆڕ"},{"surface":"לא","gloss":"نا"},{"surface":"תלד","gloss":"منداڵ دەبێت"},{"surface":"ואלמנה","gloss":"و بێوەژن"},{"surface":"לא","gloss":"نا"},{"surface":"ייטיב","gloss":"باشی دەکات"}],"timestamp":"2026-09-24T14:42:10.097719569Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بێکۆڕەکە دەچەوێنێت کە منداڵ نابێت، و بۆ بێوەژنەکە هیچ باشی ناکات.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "دەچەوێنێت"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "بێکۆڕ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "منداڵ دەبێت"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "و بێوەژن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "باشی دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:10.097719569Z",
+  "model": "glm-5.3"
+}

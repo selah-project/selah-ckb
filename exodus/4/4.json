@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":4,"ref":"exodus 4:4","book":"exodus","lang":"ckb","chapter":4,"translation":"و یاهوە فەرمووی بۆ لای مۆشە: «دەستت درێژ بکە و لە کلکەکەی بگرە» و دەستەکەی درێژ کرد و بە توندی گرت و بوو ب عەسا لە کەپی دەستیدا.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"بۆ لای"},{"surface":"משה","gloss":"مۆشە"},{"surface":"שלח","gloss":"درێژ بکە"},{"surface":"ידך","gloss":"دەستت"},{"surface":"ואחז","gloss":"و بگرە"},{"surface":"בזנבו","gloss":"لە کلکەکەی"},{"surface":"וישלח","gloss":"و درێژ کرد"},{"surface":"ידו","gloss":"دەستەکەی"},{"surface":"ויחזק","gloss":"و بە توندی گرت"},{"surface":"בו","gloss":"بەو"},{"surface":"ויהי","gloss":"و بوو"},{"surface":"למטה","gloss":"ب عەسا"},{"surface":"בכפו","gloss":"لە کەپی دەستیدا"}],"timestamp":"2026-09-24T15:50:56.100251300Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و یاهوە فەرمووی بۆ لای مۆشە: «دەستت درێژ بکە و لە کلکەکەی بگرە» و دەستەکەی درێژ کرد و بە توندی گرت و بوو ب عەسا لە کەپی دەستیدا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "درێژ بکە"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "و بگرە"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "لە کلکەکەی"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "و درێژ کرد"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستەکەی"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "و بە توندی گرت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بەو"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ب عەسا"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "لە کەپی دەستیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:50:56.100251300Z",
+  "model": "glm-5.3"
+}

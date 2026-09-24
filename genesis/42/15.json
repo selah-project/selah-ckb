@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":15,"ref":"genesis 42:15","book":"genesis","lang":"ckb","chapter":42,"translation":"بەمە تاقی دەکرێنەوە: ژیانی پارعۆ ⟨فیرعەون⟩ — ئەگەر لەم ⟨شوێنە⟩ دەرناچن، تەنها بە هاتنی برای بچووکی ئێوە بۆ ئێرە.","tokens":[{"surface":"בזאת","gloss":"بەمە"},{"surface":"תבחנו","gloss":"تاقی دەکرێنەوە"},{"surface":"חי","gloss":"ژیانی"},{"surface":"פרעה","gloss":"پارعۆ ⟨فیرعەون⟩"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"תצאו","gloss":"دەرناچن"},{"surface":"מזה","gloss":"لەم"},{"surface":"כי","gloss":"تەنها"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"בבוא","gloss":"بە هاتنی"},{"surface":"אחיכם","gloss":"برای ئێوە"},{"surface":"הקטן","gloss":"بچووکەکە"},{"surface":"הנה","gloss":"بۆ ئێرە"}],"timestamp":"2026-09-24T09:32:00.042196859Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 42:15",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "بەمە تاقی دەکرێنەوە: ژیانی پارعۆ ⟨فیرعەون⟩ — ئەگەر لەم ⟨شوێنە⟩ دەرناچن، تەنها بە هاتنی برای بچووکی ئێوە بۆ ئێرە.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "بەمە"
+    },
+    {
+      "surface": "תבחנו",
+      "gloss": "تاقی دەکرێنەوە"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژیانی"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارعۆ ⟨فیرعەون⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "دەرناچن"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "لەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "بە هاتنی"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "برای ئێوە"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "بچووکەکە"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "بۆ ئێرە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:00.042196859Z",
+  "model": "glm-5.3"
+}

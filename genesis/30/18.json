@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":18,"ref":"genesis 30:18","book":"genesis","lang":"ckb","chapter":30,"translation":"و لێئا وتی: ئێلۆهیم کرێیەکەمیداوە، چونکە کۆمەڵەخزمەکەمدمە مێردەکەم. و ناوی نا ییساشار ⟨مسیح?⟩","tokens":[{"surface":"ותאמר","gloss":"و وتی"},{"surface":"לאה","gloss":"لێئا"},{"surface":"נתן","gloss":"داوە"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"שכרי","gloss":"کرێیەکەم"},{"surface":"אשר","gloss":"چونکە"},{"surface":"נתתי","gloss":"دام"},{"surface":"שפחתי","gloss":"کۆمەڵەخزمەکەم"},{"surface":"לאישי","gloss":"بۆ مێردەکەم"},{"surface":"ותקרא","gloss":"و ناوی نا"},{"surface":"שמו","gloss":"ناوی"},{"surface":"יששכר","gloss":"ییساشار"}],"timestamp":"2026-09-24T09:23:47.973888760Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 30:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و لێئا وتی: ئێلۆهیم کرێیەکەمیداوە، چونکە کۆمەڵەخزمەکەمدمە مێردەکەم. و ناوی نا ییساشار ⟨مسیح?⟩",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێئا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داوە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "کرێیەکەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دام"
+    },
+    {
+      "surface": "שפחתי",
+      "gloss": "کۆمەڵەخزمەکەم"
+    },
+    {
+      "surface": "לאישי",
+      "gloss": "بۆ مێردەکەم"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "و ناوی نا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ییساشار"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:47.973888760Z",
+  "model": "glm-5.3"
+}

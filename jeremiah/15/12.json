@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":12,"ref":"jeremiah 15:12","book":"jeremiah","lang":"ckb","chapter":15,"translation":"ئایا ئاسن دەشکێنێت، ئاسنی باکوور و مس؟","tokens":[{"surface":"הירע","gloss":"ئایا دەشکێنێت"},{"surface":"ברזל","gloss":"ئاسن"},{"surface":"ברזל","gloss":"ئاسنی"},{"surface":"מצפון","gloss":"باکوور"},{"surface":"ונחשת","gloss":"و مس"}],"timestamp":"2026-09-24T12:43:43.091292325Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ئایا ئاسن دەشکێنێت، ئاسنی باکوور و مس؟",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "ئایا دەشکێنێت"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسن"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسنی"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "باکوور"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "و مس"
+    }
+  ],
+  "timestamp": "2026-09-24T12:43:43.091292325Z",
+  "model": "glm-5.3"
+}

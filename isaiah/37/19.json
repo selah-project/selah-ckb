@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":19,"ref":"isaiah 37:19","book":"isaiah","lang":"ckb","chapter":37,"translation":"و ئەوان ⟨את⟩ خوداکانیان بە ئاگر فڕێ داوە، چونکە خودا نین، بەڵکو کاری دەستی مرۆڤن، دار و بەرد؛ و هەڵیانکوتاندوویانە.","tokens":[{"surface":"ונתן","gloss":"و فڕێ داوە"},{"surface":"את","gloss":"⟨את⟩","marks":"خوداکانیان"},{"surface":"אלהיהם","gloss":"خوداکانیان"},{"surface":"באש","gloss":"بە ئاگر"},{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نین"},{"surface":"אלהים","gloss":"خودا"},{"surface":"המה","gloss":"ئەوان"},{"surface":"כי","gloss":"بەڵکو"},{"surface":"אם","gloss":"بەڵکو"},{"surface":"מעשה","gloss":"کاری"},{"surface":"ידי","gloss":"دەستی"},{"surface":"אדם","gloss":"مرۆڤ"},{"surface":"עץ","gloss":"دار"},{"surface":"ואבן","gloss":"و بەرد"},{"surface":"ויאבדום","gloss":"و هەڵیانکوتاندوویانە"}],"timestamp":"2026-09-24T12:25:32.669935028Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و ئەوان ⟨את⟩ خوداکانیان بە ئاگر فڕێ داوە، چونکە خودا نین، بەڵکو کاری دەستی مرۆڤن، دار و بەرد؛ و هەڵیانکوتاندوویانە.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "و فڕێ داوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوداکانیان"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "خوداکانیان"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بە ئاگر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نین"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خودا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و بەرد"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "و هەڵیانکوتاندوویانە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:25:32.669935028Z",
+  "model": "glm-5.3"
+}

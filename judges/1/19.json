@@ -1,1 +1,84 @@
-{"tier":"glm-5.2","verse":19,"ref":"judges 1:19","book":"judges","lang":"ckb","chapter":1,"translation":"و یاهوە لەگەڵ ⟨את⟩ یەهوودا بوو و ⟨את⟩ چیای داگیرکرد، چونکە نەیتوانی ⟨את⟩ دانیشتووانی دۆڵەکە دەربکات، چونکە عەرەبانەی ئاسنیان هەبوو","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"את","gloss":"⟨את⟩ لەگەڵ","marks":"یەهوودا"},{"surface":"יהודה","gloss":"یەهوودا"},{"surface":"וירש","gloss":"و داگیرکرد"},{"surface":"את","gloss":"⟨את⟩","marks":"چیا"},{"surface":"ההר","gloss":"چیا"},{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نەیتوانی"},{"surface":"להוריש","gloss":"دەربکات"},{"surface":"את","gloss":"⟨את⟩","marks":"دانیشتووان"},{"surface":"ישבי","gloss":"دانیشتووانی"},{"surface":"העמק","gloss":"دۆڵەکە"},{"surface":"כי","gloss":"چونکە"},{"surface":"רכב","gloss":"عەرەبانە"},{"surface":"ברזל","gloss":"ئاسن"},{"surface":"להם","gloss":"هەبوو"}],"timestamp":"2026-09-24T11:03:58.812195523Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و یاهوە لەگەڵ ⟨את⟩ یەهوودا بوو و ⟨את⟩ چیای داگیرکرد، چونکە نەیتوانی ⟨את⟩ دانیشتووانی دۆڵەکە دەربکات، چونکە عەرەبانەی ئاسنیان هەبوو",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ لەگەڵ",
+      "marks": "یەهوودا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهوودا"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "و داگیرکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چیا"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەیتوانی"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "دەربکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دانیشتووان"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "دۆڵەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "عەرەبانە"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ئاسن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هەبوو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:03:58.812195523Z",
+  "model": "glm-5.3"
+}

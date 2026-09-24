@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":12,"ref":"ecclesiastes 1:12","book":"ecclesiastes","lang":"ckb","chapter":1,"translation":"من، کۆهێلێت ⟨قەسەکەر⟩، پاشای یسرائێل بووم لە یروشالایم ⟨قودس⟩.","tokens":[{"surface":"אני","gloss":"من"},{"surface":"קהלת","gloss":"کۆهێلێت"},{"surface":"הייתי","gloss":"بووم"},{"surface":"מלך","gloss":"پاشا"},{"surface":"על","gloss":"لەسەر"},{"surface":"ישראל","gloss":"یسرائێل"},{"surface":"בירושלם","gloss":"لە یروشالایم"}],"timestamp":"2026-09-24T14:55:23.739100944Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "من، کۆهێلێت ⟨قەسەکەر⟩، پاشای یسرائێل بووم لە یروشالایم ⟨قودس⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کۆهێلێت"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائێل"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە یروشالایم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:23.739100944Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":11,"ref":"ecclesiastes 8:11","book":"ecclesiastes","lang":"ckb","chapter":8,"translation":"لەبەر ئەوەی حوکم لەسەر کرداری خراپ بە خێرایی جێبەجێ ناکرێت، لەبەر ئەوە دڵی کوڕانی مرۆڤ لەوان پڕە بۆ کردنی خراپی.","tokens":[{"surface":"אשר","gloss":"لەبەر ئەوەی"},{"surface":"אין","gloss":"نییە"},{"surface":"נעשה","gloss":"جێبەجێ کراوە"},{"surface":"פתגם","gloss":"حوکم"},{"surface":"מעשה","gloss":"کرداری"},{"surface":"הרעה","gloss":"خراپ"},{"surface":"מהרה","gloss":"بە خێرایی"},{"surface":"על","gloss":"لەسەر"},{"surface":"כן","gloss":"ئەوە"},{"surface":"מלא","gloss":"پڕە"},{"surface":"לב","gloss":"دڵی"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"האדם","gloss":"مرۆڤ"},{"surface":"בהם","gloss":"لەوان"},{"surface":"לעשות","gloss":"بۆ کردنی"},{"surface":"רע","gloss":"خراپی"}],"timestamp":"2026-09-24T14:57:45.240711268Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "لەبەر ئەوەی حوکم لەسەر کرداری خراپ بە خێرایی جێبەجێ ناکرێت، لەبەر ئەوە دڵی کوڕانی مرۆڤ لەوان پڕە بۆ کردنی خراپی.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "لەبەر ئەوەی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "جێبەجێ کراوە"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "حوکم"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کرداری"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "بە خێرایی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردنی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:45.240711268Z",
+  "model": "glm-5.3"
+}

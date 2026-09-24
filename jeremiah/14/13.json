@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":13,"ref":"jeremiah 14:13","book":"jeremiah","lang":"ckb","chapter":14,"translation":"و فەرمووم: ئەی ئادۆنای یاهوە، ئەوەتا پێغەمبەرەکان بەیان دەڵێن: شمشێر نابینن و برسێتی بۆ ئێوە نابێت، چونکە شازێکی ڕاستەقینە بە ئێوە دەدەم لەم شوێنەدا.","tokens":[{"surface":"ואמר","gloss":"و فەرمووم"},{"surface":"אהה","gloss":"ئاه"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"הנה","gloss":"ئەوەتا"},{"surface":"הנבאים","gloss":"پێغەمبەرەکان"},{"surface":"אמרים","gloss":"دەڵێن"},{"surface":"להם","gloss":"بەیان"},{"surface":"לא","gloss":"نا"},{"surface":"תראו","gloss":"دەبینن"},{"surface":"חרב","gloss":"شمشێر"},{"surface":"ורעב","gloss":"و برسێتی"},{"surface":"לא","gloss":"نا"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"לכם","gloss":"بۆ ئێوە"},{"surface":"כי","gloss":"چونکە"},{"surface":"שלום","gloss":"شاز"},{"surface":"אמת","gloss":"ڕاستەقینە"},{"surface":"אתן","gloss":"دەدەم"},{"surface":"לכם","gloss":"بە ئێوە"},{"surface":"במקום","gloss":"لە شوێن"},{"surface":"הזה","gloss":"ئەم"}],"timestamp":"2026-09-24T16:50:57.783415077Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 14:13",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و فەرمووم: ئەی ئادۆنای یاهوە، ئەوەتا پێغەمبەرەکان بەیان دەڵێن: شمشێر نابینن و برسێتی بۆ ئێوە نابێت، چونکە شازێکی ڕاستەقینە بە ئێوە دەدەم لەم شوێنەدا.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و فەرمووم"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ئاه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "پێغەمبەرەکان"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بەیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "دەبینن"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "و برسێتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شاز"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستەقینە"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دەدەم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بە ئێوە"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "لە شوێن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:50:57.783415077Z",
+  "model": "glm-5.3"
+}

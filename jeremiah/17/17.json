@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":17,"ref":"jeremiah 17:17","book":"jeremiah","lang":"ckb","chapter":17,"translation":"مەبێت بۆ من ببێتە وێرانکار؛ تۆ پەناگەی منی لە ڕۆژی خراپیدا.","tokens":[{"surface":"אל","gloss":"مە"},{"surface":"תהיה","gloss":"ببێتە"},{"surface":"לי","gloss":"بۆ من"},{"surface":"למחתה","gloss":"وێرانکار"},{"surface":"מחסי","gloss":"پەناگەی من"},{"surface":"אתה","gloss":"تۆ"},{"surface":"ביום","gloss":"لە ڕۆژ"},{"surface":"רעה","gloss":"خراپی"}],"timestamp":"2026-09-24T12:45:56.056990354Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "مەبێت بۆ من ببێتە وێرانکار؛ تۆ پەناگەی منی لە ڕۆژی خراپیدا.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ببێتە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "وێرانکار"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "پەناگەی من"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:45:56.056990354Z",
+  "model": "glm-5.3"
+}

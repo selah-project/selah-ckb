@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":30,"ref":"daniel 3:30","book":"daniel","lang":"ckb","chapter":3,"translation":"ئەوکات پاشا شادراخ و مێشاخ و عەبێد نەگوی لە پارێزگای بابل سەرکەوتوو کرد.","tokens":[{"surface":"באדין","gloss":"ئەوکات"},{"surface":"מלכא","gloss":"پاشا"},{"surface":"הצלח","gloss":"سەرکەوتوو کرد"},{"surface":"לשדרך","gloss":"شادراخ"},{"surface":"מישך","gloss":"مێشاخ"},{"surface":"ועבד","gloss":"و عەبێد"},{"surface":"נגו","gloss":"نەگو"},{"surface":"במדינת","gloss":"لە پارێزگای"},{"surface":"בבל","gloss":"بابل"}],"timestamp":"2026-09-24T15:04:09.853898300Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەوکات پاشا شادراخ و مێشاخ و عەبێد نەگوی لە پارێزگای بابل سەرکەوتوو کرد.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "سەرکەوتوو کرد"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "شادراخ"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "مێشاخ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "و عەبێد"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "نەگو"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "لە پارێزگای"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:04:09.853898300Z",
+  "model": "glm-5.3"
+}

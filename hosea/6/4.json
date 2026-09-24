@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":4,"ref":"hosea 6:4","book":"hosea","lang":"ckb","chapter":6,"translation":"چی بکەم بۆ تۆ ئەی ئێفرایم؟ چیکەم بۆ تۆ ئەی یەهودا؟ چونکە حەسەدی ئێوە وەک هەوری بەیانیانە و وەک شەونمەزی زوو دەڕوات.","tokens":[{"surface":"מה","gloss":"چی"},{"surface":"אעשה","gloss":"بکەم"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"אפרים","gloss":"ئێفرایم"},{"surface":"מה","gloss":"چی"},{"surface":"אעשה","gloss":"بکەم"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"וחסדכם","gloss":"و حەسەدی ئێوە"},{"surface":"כענן","gloss":"وەک هەوری"},{"surface":"בקר","gloss":"بەیانیان"},{"surface":"וכטל","gloss":"و وەک شەونمەزی"},{"surface":"משכים","gloss":"زوو"},{"surface":"הלך","gloss":"دەڕوات"}],"timestamp":"2026-09-24T13:28:54.693364085Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 6:4",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چی بکەم بۆ تۆ ئەی ئێفرایم؟ چیکەم بۆ تۆ ئەی یەهودا؟ چونکە حەسەدی ئێوە وەک هەوری بەیانیانە و وەک شەونمەزی زوو دەڕوات.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "بکەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "بکەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "וחסדכם",
+      "gloss": "و حەسەدی ئێوە"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "وەک هەوری"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بەیانیان"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "و وەک شەونمەزی"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "زوو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "دەڕوات"
+    }
+  ],
+  "timestamp": "2026-09-24T13:28:54.693364085Z",
+  "model": "glm-5.3"
+}

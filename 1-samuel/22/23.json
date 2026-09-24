@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":23,"ref":"1-samuel 22:23","book":"1-samuel","lang":"ckb","chapter":22,"translation":"⟨את⟩ لەگەڵ من بمێنە، مەترسە؛ چونکە ئەوەی ⟨את⟩ گیانی من دەگەڕێت، ⟨את⟩ گیانی تۆیش دەگەڕێت؛ چونکە تۆ لە لای من پارێزراوی.","tokens":[{"surface":"שבה","gloss":"بمێنە"},{"surface":"אתי","gloss":"⟨את⟩ لەگەڵ من"},{"surface":"אל","gloss":"مە"},{"surface":"תירא","gloss":"ترسە"},{"surface":"כי","gloss":"چونکە"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"יבקש","gloss":"دەگەڕێت"},{"surface":"את","gloss":"⟨את⟩","marks":"گیانی من"},{"surface":"נפשי","gloss":"گیانی من"},{"surface":"יבקש","gloss":"دەگەڕێت"},{"surface":"את","gloss":"⟨את⟩","marks":"گیانی تۆ"},{"surface":"נפשך","gloss":"گیانی تۆ"},{"surface":"כי","gloss":"چونکە"},{"surface":"משמרת","gloss":"پارێزراوی"},{"surface":"אתה","gloss":"تۆ"},{"surface":"עמדי","gloss":"لە لای من"}],"timestamp":"2026-09-24T11:26:11.021701662Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "⟨את⟩ لەگەڵ من بمێنە، مەترسە؛ چونکە ئەوەی ⟨את⟩ گیانی من دەگەڕێت، ⟨את⟩ گیانی تۆیش دەگەڕێت؛ چونکە تۆ لە لای من پارێزراوی.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "بمێنە"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ لەگەڵ من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ترسە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "دەگەڕێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیانی من"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانی من"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "دەگەڕێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیانی تۆ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "گیانی تۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "پارێزراوی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لە لای من"
+    }
+  ],
+  "timestamp": "2026-09-24T11:26:11.021701662Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,67 @@
-{"tier":"glm-5.2","verse":21,"ref":"judges 3:21","book":"judges","lang":"ckb","chapter":3,"translation":"ئێهود ⟨את⟩ دەستی چەپی خۆی درێژکردەوە و ⟨את⟩ شمشێرەکەی لە سەرەی ڕانی ڕاستی هێنای و خستیه ناو زگی.","tokens":[{"surface":"וישלח","gloss":"درێژکردەوە"},{"surface":"אהוד","gloss":"ئێهود ⟨ئەهود⟩"},{"surface":"את","gloss":"⟨את⟩","marks":"دەست"},{"surface":"יד","gloss":"دەست"},{"surface":"שמאלו","gloss":"چەپی خۆی"},{"surface":"ויקח","gloss":"هێنا"},{"surface":"את","gloss":"⟨את⟩","marks":"شمشێرەکە"},{"surface":"החרב","gloss":"شمشێرەکە"},{"surface":"מעל","gloss":"لە سەرەی"},{"surface":"ירך","gloss":"ڕان"},{"surface":"ימינו","gloss":"ڕاستی"},{"surface":"ויתקעה","gloss":"خستیه ناو"},{"surface":"בבטנו","gloss":"ناو زگی"}],"timestamp":"2026-09-24T16:56:06.835890247Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئێهود ⟨את⟩ دەستی چەپی خۆی درێژکردەوە و ⟨את⟩ شمشێرەکەی لە سەرەی ڕانی ڕاستی هێنای و خستیه ناو زگی.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "درێژکردەوە"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "ئێهود ⟨ئەهود⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەست"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "چەپی خۆی"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمشێرەکە"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "شمشێرەکە"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە سەرەی"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ڕان"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "خستیه ناو"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "ناو زگی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:56:06.835890247Z",
+  "model": "glm-5.3"
+}

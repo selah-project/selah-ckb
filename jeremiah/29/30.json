@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":30,"ref":"jeremiah 29:30","book":"jeremiah","lang":"ckb","chapter":29,"translation":"و وشەی یاهوە هاتە لای ییرمەیاهوو ⟨ئیرمیا⟩ بۆ وتن:","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"דבר","gloss":"وشە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"لای"},{"surface":"ירמיהו","gloss":"ییرمەیاهوو ⟨ئیرمیا⟩"},{"surface":"לאמר","gloss":"بۆ وتن"}],"timestamp":"2026-09-24T12:52:49.566467323Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و وشەی یاهوە هاتە لای ییرمەیاهوو ⟨ئیرمیا⟩ بۆ وتن:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ییرمەیاهوو ⟨ئیرمیا⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:52:49.566467323Z",
+  "model": "glm-5.3"
+}

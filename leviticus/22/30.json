@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":30,"ref":"leviticus 22:30","book":"leviticus","lang":"ckb","chapter":22,"translation":"لە ڕۆژی ئەودا دەخوردرێت؛ هیچی لێی مەبهێڵنەوە هەتا بەیانی؛ من یاهوەم.","tokens":[{"surface":"ביום","gloss":"لە ڕۆژ"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"יאכל","gloss":"دەخوردرێت"},{"surface":"לא","gloss":"نا"},{"surface":"תותירו","gloss":"مەبهێڵنەوە"},{"surface":"ממנו","gloss":"لێی"},{"surface":"עד","gloss":"هەتا"},{"surface":"בקר","gloss":"بەیانی"},{"surface":"אני","gloss":"من"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T10:09:00.974971553Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "لە ڕۆژی ئەودا دەخوردرێت؛ هیچی لێی مەبهێڵنەوە هەتا بەیانی؛ من یاهوەم.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخوردرێت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "مەبهێڵنەوە"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:00.974971553Z",
+  "model": "glm-5.3"
+}

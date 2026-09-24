@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":12,"ref":"habakkuk 3:12","book":"habakkuk","lang":"ckb","chapter":3,"translation":"بە تووڕەیی دەپێی بەسەر زەویدا، بە توڕەیی گەلەکان دەدرنیت.","tokens":[{"surface":"בזעם","gloss":"بە تووڕەیی"},{"surface":"תצעד","gloss":"دەپێی"},{"surface":"ארץ","gloss":"بەسەر زەویدا"},{"surface":"באף","gloss":"بە توڕەیی"},{"surface":"תדוש","gloss":"دەدرنیت"},{"surface":"גוים","gloss":"گەلەکان"}],"timestamp":"2026-09-24T13:41:08.692880532Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "بە تووڕەیی دەپێی بەسەر زەویدا، بە توڕەیی گەلەکان دەدرنیت.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "بە تووڕەیی"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "دەپێی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "بەسەر زەویدا"
+    },
+    {
+      "surface": "באף",
+      "gloss": "بە توڕەیی"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "دەدرنیت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:41:08.692880532Z",
+  "model": "glm-5.3"
+}

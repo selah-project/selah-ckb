@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":7,"ref":"hosea 13:7","book":"hosea","lang":"ckb","chapter":13,"translation":"و من دەبم بۆ وان وەک شێر، وەک پلێنگ لە ڕێگا چاودێریان دەکەم.","tokens":[{"surface":"ואהי","gloss":"و من دەبم"},{"surface":"להם","gloss":"بۆ وان"},{"surface":"כמו","gloss":"وەک"},{"surface":"שחל","gloss":"شێر"},{"surface":"כנמר","gloss":"وەک پلێنگ"},{"surface":"על","gloss":"لە"},{"surface":"דרך","gloss":"ڕێگا"},{"surface":"אשור","gloss":"چاودێریان دەکەم"}],"timestamp":"2026-09-24T13:30:33.425386368Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و من دەبم بۆ وان وەک شێر، وەک پلێنگ لە ڕێگا چاودێریان دەکەم.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "و من دەبم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆ وان"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شێر"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "وەک پلێنگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "چاودێریان دەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:30:33.425386368Z",
+  "model": "glm-5.3"
+}

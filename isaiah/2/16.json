@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":16,"ref":"isaiah 2:16","book":"isaiah","lang":"ckb","chapter":2,"translation":"و لەسەر هەموو کەشتییەکانی تەرشیش، و لەسەر هەموو وێنە دڵخوازەکان.","tokens":[{"surface":"ועל","gloss":"و لەسەر"},{"surface":"כל","gloss":"هەموو"},{"surface":"אניות","gloss":"کەشتییەکانی"},{"surface":"תרשיש","gloss":"تەرشیش"},{"surface":"ועל","gloss":"و لەسەر"},{"surface":"כל","gloss":"هەموو"},{"surface":"שכיות","gloss":"وێنە دڵخوازەکان"},{"surface":"החמדה","gloss":"دڵخواز"}],"timestamp":"2026-09-24T12:12:01.753410350Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و لەسەر هەموو کەشتییەکانی تەرشیش، و لەسەر هەموو وێنە دڵخوازەکان.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "کەشتییەکانی"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تەرشیش"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "وێنە دڵخوازەکان"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "دڵخواز"
+    }
+  ],
+  "timestamp": "2026-09-24T12:12:01.753410350Z",
+  "model": "glm-5.3"
+}

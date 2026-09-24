@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 82:3","book":"psalms","lang":"ckb","chapter":82,"translation":"«دادبەریی لاواز و بێباوک بکەن، دەستەنگ و هەژار ڕاست بکەن.»","tokens":[{"surface":"שפטו","gloss":"دادبەریی... بکەن"},{"surface":"דל","gloss":"لاواز"},{"surface":"ויתום","gloss":"و بێباوک"},{"surface":"עני","gloss":"دەستەنگ"},{"surface":"ורש","gloss":"و هەژار"},{"surface":"הצדיקו","gloss":"ڕاست بکەن"}],"timestamp":"2026-09-24T14:05:53.119930077Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 82,
+  "translation": "«دادبەریی لاواز و بێباوک بکەن، دەستەنگ و هەژار ڕاست بکەن.»",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "دادبەریی... بکەن"
+    },
+    {
+      "surface": "דל",
+      "gloss": "لاواز"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "و بێباوک"
+    },
+    {
+      "surface": "עני",
+      "gloss": "دەستەنگ"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "و هەژار"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "ڕاست بکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:53.119930077Z",
+  "model": "glm-5.3"
+}

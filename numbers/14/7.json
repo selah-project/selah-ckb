@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":7,"ref":"numbers 14:7","book":"numbers","lang":"ckb","chapter":14,"translation":"و وتیان بۆ هەموو کۆمەڵی کوڕانی ئیسرائیل بڵێن: زەویەکە کە تێیدا تێپەڕین بۆ پشکنینی ⟨את⟩ ئەو، زەویەکی زۆر زۆر چاکە.","tokens":[{"surface":"ויאמרו","gloss":"و وتیان"},{"surface":"אל","gloss":"بۆ"},{"surface":"כל","gloss":"هەموو"},{"surface":"עדת","gloss":"کۆمەڵی"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"לאמר","gloss":"بڵێن"},{"surface":"הארץ","gloss":"زەویەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"עברנו","gloss":"تێپەڕین"},{"surface":"בה","gloss":"تێیدا"},{"surface":"לתור","gloss":"بۆ پشکنین"},{"surface":"אתה","gloss":"⟨את⟩ ئەو","marks":"زەویەکە"},{"surface":"טובה","gloss":"چاکە"},{"surface":"הארץ","gloss":"زەویەکە"},{"surface":"מאד","gloss":"زۆر"},{"surface":"מאד","gloss":"زۆر"}],"timestamp":"2026-09-24T10:20:55.589642644Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 14:7",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و وتیان بۆ هەموو کۆمەڵی کوڕانی ئیسرائیل بڵێن: زەویەکە کە تێیدا تێپەڕین بۆ پشکنینی ⟨את⟩ ئەو، زەویەکی زۆر زۆر چاکە.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و وتیان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "کۆمەڵی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "تێپەڕین"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "بۆ پشکنین"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:20:55.589642644Z",
+  "model": "glm-5.3"
+}

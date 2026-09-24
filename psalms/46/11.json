@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 46:11","book":"psalms","lang":"ckb","chapter":46,"translation":"ئارام بگرن و بزانن کە من ئێلۆهیمم؛ لە نەتەوەکاندا بەرزم، لە زەویدا بەرزم.","tokens":[{"surface":"הרפו","gloss":"ئارام بگرن"},{"surface":"ודעו","gloss":"و بزانن"},{"surface":"כי","gloss":"کە"},{"surface":"אנכי","gloss":"من"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"ארום","gloss":"بەرزم"},{"surface":"בגוים","gloss":"لە نەتەوەکاندا"},{"surface":"ארום","gloss":"بەرزم"},{"surface":"בארץ","gloss":"لە زەوی"}],"timestamp":"2026-09-24T13:57:44.077597871Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "ئارام بگرن و بزانن کە من ئێلۆهیمم؛ لە نەتەوەکاندا بەرزم، لە زەویدا بەرزم.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "ئارام بگرن"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "و بزانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "بەرزم"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "لە نەتەوەکاندا"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "بەرزم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:44.077597871Z",
+  "model": "glm-5.3"
+}

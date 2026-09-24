@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":10,"ref":"psalms 51:10","book":"psalms","lang":"ckb","chapter":51,"translation":"دڵخۆشی و شادی بەنێو ڕابەرە، با ئێسکەکانم کە شکاندوویتە دڵخۆش بن.","tokens":[{"surface":"תשמיעני","gloss":"بەنێو ڕابەرە"},{"surface":"ששון","gloss":"دڵخۆشی"},{"surface":"ושמחה","gloss":"و شادی"},{"surface":"תגלנה","gloss":"دڵخۆش بن"},{"surface":"עצמות","gloss":"ئێسکەکان"},{"surface":"דכית","gloss":"شکاندوویتە"}],"timestamp":"2026-09-24T13:59:02.006067754Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "دڵخۆشی و شادی بەنێو ڕابەرە، با ئێسکەکانم کە شکاندوویتە دڵخۆش بن.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "بەنێو ڕابەرە"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "دڵخۆشی"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "و شادی"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "دڵخۆش بن"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ئێسکەکان"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "شکاندوویتە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:02.006067754Z",
+  "model": "glm-5.3"
+}

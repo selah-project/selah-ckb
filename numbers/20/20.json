@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":20,"ref":"numbers 20:20","book":"numbers","lang":"ckb","chapter":20,"translation":"و وت: ناپەڕیت. و ئەدۆم بە دیایەوە دەرچوو، بە گەڵێکی زۆر و بە دەستێکی بەهێزەوە.","tokens":[{"surface":"ויאמר","gloss":"و وت"},{"surface":"לא","gloss":"نا"},{"surface":"תעבר","gloss":"ناپەڕیت"},{"surface":"ויצא","gloss":"و دەرچوو"},{"surface":"אדום","gloss":"ئەدۆم"},{"surface":"לקראתו","gloss":"بە دیایەوە"},{"surface":"בעם","gloss":"بە گەڵێکی زۆر"},{"surface":"כבד","gloss":"گرنگ"},{"surface":"וביד","gloss":"و بە دەستەوە"},{"surface":"חזקה","gloss":"بەهێز"}],"timestamp":"2026-09-24T10:25:34.755107837Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و وت: ناپەڕیت. و ئەدۆم بە دیایەوە دەرچوو، بە گەڵێکی زۆر و بە دەستێکی بەهێزەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ناپەڕیت"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "بە دیایەوە"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "بە گەڵێکی زۆر"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "گرنگ"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "و بە دەستەوە"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "بەهێز"
+    }
+  ],
+  "timestamp": "2026-09-24T10:25:34.755107837Z",
+  "model": "glm-5.3"
+}

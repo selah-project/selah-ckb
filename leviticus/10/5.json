@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":5,"ref":"leviticus 10:5","book":"leviticus","lang":"ckb","chapter":10,"translation":"و نزیک بوونەوە و بە کورتەکانیانەوە هەڵیانگرتن بۆ دەرەوەی خێوەتگا، وەک مۆشە ⟨موسا⟩ فەرموو.","tokens":[{"surface":"ויקרבו","gloss":"نزیک بوونەوە"},{"surface":"וישאם","gloss":"هەڵیانگرتن"},{"surface":"בכתנתם","gloss":"بە کورتەکانیانەوە"},{"surface":"אל","gloss":"بۆ"},{"surface":"מחוץ","gloss":"دەرەوە"},{"surface":"למחנה","gloss":"خێوەتگا"},{"surface":"כאשר","gloss":"وەک"},{"surface":"דבר","gloss":"فەرموو"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"}],"timestamp":"2026-09-24T10:02:41.505673975Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و نزیک بوونەوە و بە کورتەکانیانەوە هەڵیانگرتن بۆ دەرەوەی خێوەتگا، وەک مۆشە ⟨موسا⟩ فەرموو.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "نزیک بوونەوە"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "هەڵیانگرتن"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "بە کورتەکانیانەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "دەرەوە"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "خێوەتگا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T10:02:41.505673975Z",
+  "model": "glm-5.3"
+}

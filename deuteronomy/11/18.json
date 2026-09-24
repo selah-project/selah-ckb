@@ -1,1 +1,83 @@
-{"tier":"glm-5.2","verse":18,"ref":"deuteronomy 11:18","book":"deuteronomy","lang":"ckb","chapter":11,"translation":"و ئەم ⟨את⟩ وشەی من دەکەننە سەر دڵتان و سەر گیانتان، و ⟨את⟩ ئەوان بۆ نیشانەیەک بە دەستتان دەبەستن، و دەبن بۆ پێوەردە لە نێوان چاوتاندا.","tokens":[{"surface":"ושמתם","gloss":"دەکەنن"},{"surface":"את","gloss":"⟨את⟩","marks":"وشەی من"},{"surface":"דברי","gloss":"وشەی من"},{"surface":"אלה","gloss":"ئەم"},{"surface":"על","gloss":"سەر"},{"surface":"לבבכם","gloss":"دڵتان"},{"surface":"ועל","gloss":"و سەر"},{"surface":"נפשכם","gloss":"گیانتان"},{"surface":"וקשרתם","gloss":"دەبەستن"},{"surface":"אתם","gloss":"⟨את⟩ ئەوان","marks":"بۆ نیشانەیەک"},{"surface":"לאות","gloss":"بۆ نیشانەیەک"},{"surface":"על","gloss":"سەر"},{"surface":"ידכם","gloss":"دەستتان"},{"surface":"והיו","gloss":"و دەبن"},{"surface":"לטוטפת","gloss":"بۆ پێوەردە"},{"surface":"בין","gloss":"لە نێوان"},{"surface":"עיניכם","gloss":"چاوتان"}],"timestamp":"2026-09-24T10:38:43.030626681Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەم ⟨את⟩ وشەی من دەکەننە سەر دڵتان و سەر گیانتان، و ⟨את⟩ ئەوان بۆ نیشانەیەک بە دەستتان دەبەستن، و دەبن بۆ پێوەردە لە نێوان چاوتاندا.",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "دەکەنن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەی من"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەی من"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "دڵتان"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و سەر"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "گیانتان"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "دەبەستن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان",
+      "marks": "بۆ نیشانەیەک"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "بۆ نیشانەیەک"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "دەستتان"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "بۆ پێوەردە"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "چاوتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:43.030626681Z",
+  "model": "glm-5.3"
+}

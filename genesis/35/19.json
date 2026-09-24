@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":19,"ref":"genesis 35:19","book":"genesis","lang":"ckb","chapter":35,"translation":"و ڕاخێل ⟨مرد⟩ و لە ڕێگای ئێفرات نێژرا — ئەوەی بێت لەحەمە.","tokens":[{"surface":"ותמת","gloss":"و مرد"},{"surface":"רחל","gloss":"ڕاخێل"},{"surface":"ותקבר","gloss":"و نێژرا"},{"surface":"בדרך","gloss":"لە ڕێگای"},{"surface":"אפרתה","gloss":"ئێفرات"},{"surface":"הוא","gloss":"ئەوەی"},{"surface":"בית","gloss":"بێت"},{"surface":"לחם","gloss":"لەحەم"}],"timestamp":"2026-09-24T09:27:36.138338975Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و ڕاخێل ⟨مرد⟩ و لە ڕێگای ئێفرات نێژرا — ئەوەی بێت لەحەمە.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ڕاخێل"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "و نێژرا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگای"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ئێفرات"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەحەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:36.138338975Z",
+  "model": "glm-5.3"
+}

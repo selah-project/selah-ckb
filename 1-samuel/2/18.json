@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":18,"ref":"1-samuel 2:18","book":"1-samuel","lang":"ckb","chapter":2,"translation":"و شەموئێل خزمەتی دەکرد لە پێش ڕووی یاهوە ⟨את⟩، کوڕەیەک کە بە ئێفودی کەتان بوو.","tokens":[{"surface":"ושמואל","gloss":"و شەموئێل"},{"surface":"משרת","gloss":"خزمەتی دەکرد"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕووی"},{"surface":"פני","gloss":"ڕووی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"נער","gloss":"کوڕەیەک"},{"surface":"חגור","gloss":"بوو بە بەستراو"},{"surface":"אפוד","gloss":"ئێفود"},{"surface":"בד","gloss":"کەتانی"}],"timestamp":"2026-09-24T16:30:20.244052558Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و شەموئێل خزمەتی دەکرد لە پێش ڕووی یاهوە ⟨את⟩، کوڕەیەک کە بە ئێفودی کەتان بوو.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "و شەموئێل"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "خزمەتی دەکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נער",
+      "gloss": "کوڕەیەک"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "بوو بە بەستراو"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ئێفود"
+    },
+    {
+      "surface": "בד",
+      "gloss": "کەتانی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:30:20.244052558Z",
+  "model": "glm-5.3"
+}

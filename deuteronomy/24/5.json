@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":5,"ref":"deuteronomy 24:5","book":"deuteronomy","lang":"ckb","chapter":24,"translation":"کاتێک پیاوێک ژنێکی نوێ دەگرێت، بۆ لەشکر ناچێتەدەرەوە و نا هیچ شتێک لەسەری بسەپێنرێت؛ بەرێ بۆ ماڵی خۆی دەبێت یەک ساڵ و ⟨את⟩ ژنەکەی شاد بکات کە گرتوویەتی.","tokens":[{"surface":"כי","gloss":"کاتێک"},{"surface":"יקח","gloss":"بگرێت"},{"surface":"איש","gloss":"پیاوێک"},{"surface":"אשה","gloss":"ژنێک"},{"surface":"חדשה","gloss":"نوێ"},{"surface":"לא","gloss":"نا"},{"surface":"יצא","gloss":"بچێتەدەرەوە"},{"surface":"בצבא","gloss":"بۆ لەشکر"},{"surface":"ולא","gloss":"و نا"},{"surface":"יעבר","gloss":"بگوزەرێت"},{"surface":"עליו","gloss":"لەسەری"},{"surface":"לכל","gloss":"بۆ هیچ"},{"surface":"דבר","gloss":"شتێک"},{"surface":"נקי","gloss":"بەرێ"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"לביתו","gloss":"بۆ ماڵی خۆی"},{"surface":"שנה","gloss":"ساڵێک"},{"surface":"אחת","gloss":"یەک"},{"surface":"ושמח","gloss":"و شاد بکات"},{"surface":"את","gloss":"⟨את⟩","marks":"ژنەکەی"},{"surface":"אשתו","gloss":"ژنەکەی"},{"surface":"אשר","gloss":"کە"},{"surface":"לקח","gloss":"گرتوویەتی"}],"timestamp":"2026-09-24T10:45:28.150487157Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 24:5",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "کاتێک پیاوێک ژنێکی نوێ دەگرێت، بۆ لەشکر ناچێتەدەرەوە و نا هیچ شتێک لەسەری بسەپێنرێت؛ بەرێ بۆ ماڵی خۆی دەبێت یەک ساڵ و ⟨את⟩ ژنەکەی شاد بکات کە گرتوویەتی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگرێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێک"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "نوێ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بچێتەدەرەوە"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "بۆ لەشکر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "بگوزەرێت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هیچ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شتێک"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بەرێ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "بۆ ماڵی خۆی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵێک"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "و شاد بکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ژنەکەی"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "گرتوویەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:28.150487157Z",
+  "model": "glm-5.3"
+}

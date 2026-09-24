@@ -1,1 +1,109 @@
-{"tier":"glm-5.2","verse":3,"ref":"joshua 17:3","book":"joshua","lang":"ckb","chapter":17,"translation":"و بۆ سەلۆفحاد کوڕی حێفەر کوڕی گیلعاد کوڕی ماکیر کوڕی مەنەشە، کوڕی نەبوون بەڵکو کچانی بوو؛ و ئەمانە ناوەکانی کچەکانی بوون: ماحلا و نوئا حۆگلا میلکا و تیرزا.","tokens":[{"surface":"ולצלפחד","gloss":"و بۆ سەلۆفحاد"},{"surface":"בן","gloss":"کوڕی"},{"surface":"חפר","gloss":"حێفەر"},{"surface":"בן","gloss":"کوڕی"},{"surface":"גלעד","gloss":"گیلعاد"},{"surface":"בן","gloss":"کوڕی"},{"surface":"מכיר","gloss":"ماکیر"},{"surface":"בן","gloss":"کوڕی"},{"surface":"מנשה","gloss":"مەنەشە"},{"surface":"לא","gloss":"نەبوون"},{"surface":"היו","gloss":"بوون"},{"surface":"לו","gloss":"بۆ ئەو"},{"surface":"בנים","gloss":"کوڕان"},{"surface":"כי","gloss":"بەڵکو"},{"surface":"אם","gloss":"بەڵکو"},{"surface":"בנות","gloss":"کچان"},{"surface":"ואלה","gloss":"و ئەمانە"},{"surface":"שמות","gloss":"ناوەکانی"},{"surface":"בנתיו","gloss":"کچەکانی"},{"surface":"מחלה","gloss":"ماحلا"},{"surface":"ונעה","gloss":"و نوئا"},{"surface":"חגלה","gloss":"حۆگلا"},{"surface":"מלכה","gloss":"میلکا"},{"surface":"ותרצה","gloss":"و تیرزا"}],"timestamp":"2026-09-24T11:00:12.817380625Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 17:3",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و بۆ سەلۆفحاد کوڕی حێفەر کوڕی گیلعاد کوڕی ماکیر کوڕی مەنەشە، کوڕی نەبوون بەڵکو کچانی بوو؛ و ئەمانە ناوەکانی کچەکانی بوون: ماحلا و نوئا حۆگلا میلکا و تیرزا.",
+  "tokens": [
+    {
+      "surface": "ולצלפחד",
+      "gloss": "و بۆ سەلۆفحاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حێفەر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماکیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەشە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەبوون"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچان"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناوەکانی"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "کچەکانی"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ماحلا"
+    },
+    {
+      "surface": "ונעה",
+      "gloss": "و نوئا"
+    },
+    {
+      "surface": "חגלה",
+      "gloss": "حۆگلا"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "میلکا"
+    },
+    {
+      "surface": "ותרצה",
+      "gloss": "و تیرزا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:12.817380625Z",
+  "model": "glm-5.3"
+}

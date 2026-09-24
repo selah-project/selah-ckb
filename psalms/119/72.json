@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":72,"ref":"psalms 119:72","book":"psalms","lang":"ckb","chapter":119,"translation":"چاکە بۆ من تۆرای دەمت لە هەزاران زێو و زیو.","tokens":[{"surface":"טוב","gloss":"چاکە"},{"surface":"לי","gloss":"بۆ من"},{"surface":"תורת","gloss":"تۆرای"},{"surface":"פיך","gloss":"دەمت"},{"surface":"מאלפי","gloss":"لە هەزاران"},{"surface":"זהב","gloss":"زێو"},{"surface":"וכסף","gloss":"و زیو"}],"timestamp":"2026-09-24T14:16:52.310813653Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "چاکە بۆ من تۆرای دەمت لە هەزاران زێو و زیو.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تۆرای"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دەمت"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "لە هەزاران"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێو"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "و زیو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:52.310813653Z",
+  "model": "glm-5.3"
+}

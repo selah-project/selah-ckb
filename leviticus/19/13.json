@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":13,"ref":"leviticus 19:13","book":"leviticus","lang":"ckb","chapter":19,"translation":"کەڵەشێرەی ⟨את⟩ هاوڕێیەکەت مەکە و زوڵمی لێ مەکە، کرێی کرێکارێک ⟨את⟩ لە لاتدا بۆ بەیانی مەهێڵەوە.","tokens":[{"surface":"לא","gloss":"نا"},{"surface":"תעשק","gloss":"کەڵەشێرە مەکە"},{"surface":"את","gloss":"⟨את⟩","marks":"هاوڕێیەکەت"},{"surface":"רעך","gloss":"هاوڕێیەکەت"},{"surface":"ולא","gloss":"و نا"},{"surface":"תגזל","gloss":"زوڵمی لێ مەکە"},{"surface":"לא","gloss":"نا"},{"surface":"תלין","gloss":"مەهێڵەوە"},{"surface":"פעלת","gloss":"کرێی"},{"surface":"שכיר","gloss":"کرێکارێک"},{"surface":"אתך","gloss":"⟨את⟩ لە لاتدا"},{"surface":"עד","gloss":"بۆ"},{"surface":"בקר","gloss":"بەیانی"}],"timestamp":"2026-09-24T10:08:05.070869752Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "کەڵەشێرەی ⟨את⟩ هاوڕێیەکەت مەکە و زوڵمی لێ مەکە، کرێی کرێکارێک ⟨את⟩ لە لاتدا بۆ بەیانی مەهێڵەوە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "کەڵەشێرە مەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هاوڕێیەکەت"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "هاوڕێیەکەت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "زوڵمی لێ مەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "مەهێڵەوە"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "کرێی"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "کرێکارێک"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ لە لاتدا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بەیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:05.070869752Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":12,"ref":"1-samuel 10:12","book":"1-samuel","lang":"ckb","chapter":10,"translation":"و پیاوێکی لەوێ وەڵامی دایەوە و وت: و باوکیان کێیە؟ لەسەر ئەوە بوو بە پەندێک: ئایا شائوڵیش لە پێغەمبەراندا؟","tokens":[{"surface":"ויען","gloss":"و وەڵامی دایەوە"},{"surface":"איש","gloss":"پیاوێکی"},{"surface":"משם","gloss":"لەوێ"},{"surface":"ויאמר","gloss":"و وت"},{"surface":"ומי","gloss":"و کێ"},{"surface":"אביהם","gloss":"باوکیان"},{"surface":"על","gloss":"لەسەر"},{"surface":"כן","gloss":"ئەوە"},{"surface":"היתה","gloss":"بوو"},{"surface":"למשל","gloss":"بە پەندێک"},{"surface":"הגם","gloss":"ئایا"},{"surface":"שאול","gloss":"شائوڵیش"},{"surface":"בנבאים","gloss":"لە پێغەمبەراندا"}],"timestamp":"2026-09-24T11:20:26.906612043Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و پیاوێکی لەوێ وەڵامی دایەوە و وت: و باوکیان کێیە؟ لەسەر ئەوە بوو بە پەندێک: ئایا شائوڵیش لە پێغەمبەراندا؟",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و وەڵامی دایەوە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێکی"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "باوکیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "بە پەندێک"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائوڵیش"
+    },
+    {
+      "surface": "בנבאים",
+      "gloss": "لە پێغەمبەراندا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:20:26.906612043Z",
+  "model": "glm-5.3"
+}

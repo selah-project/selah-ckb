@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":9,"ref":"numbers 15:9","book":"numbers","lang":"ckb","chapter":15,"translation":"و لەسەر کۆرەی گا پێشکەش دەهێنرێتە پێش، ئاردی نازک، سێ دەیەک، تێکەڵکراو بە ڕۆن، نیوەی هینەکە.","tokens":[{"surface":"והקריב","gloss":"و دەهێنرێتە پێش"},{"surface":"על","gloss":"لەسەر"},{"surface":"בן","gloss":"کۆرەی"},{"surface":"הבקר","gloss":"گا"},{"surface":"מנחה","gloss":"پێشکەش"},{"surface":"סלת","gloss":"ئاردی نازک"},{"surface":"שלשה","gloss":"سێ"},{"surface":"עשרנים","gloss":"دەیەک"},{"surface":"בלול","gloss":"تێکەڵکراو"},{"surface":"בשמן","gloss":"بە ڕۆن"},{"surface":"חצי","gloss":"نیوەی"},{"surface":"ההין","gloss":"هینەکە"}],"timestamp":"2026-09-24T10:22:42.168233326Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 15:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و لەسەر کۆرەی گا پێشکەش دەهێنرێتە پێش، ئاردی نازک، سێ دەیەک، تێکەڵکراو بە ڕۆن، نیوەی هینەکە.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "و دەهێنرێتە پێش"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کۆرەی"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "پێشکەش"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ئاردی نازک"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "دەیەک"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "تێکەڵکراو"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "بە ڕۆن"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیوەی"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "هینەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:22:42.168233326Z",
+  "model": "glm-5.3"
+}

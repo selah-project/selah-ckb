@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":19,"ref":"exodus 23:19","book":"exodus","lang":"ckb","chapter":23,"translation":"سەرەتای یەکەمبەرەکانی زەویی تۆ دەهێنیتە ماڵی یاهوە ئێلۆهیمی تۆ؛ بەرمێک لە شیری دایکی ناکوڵێنیت.","tokens":[{"surface":"ראשית","gloss":"سەرەتا"},{"surface":"בכורי","gloss":"یەکەمبەرەکانی"},{"surface":"אדמתך","gloss":"زەویی تۆ"},{"surface":"תביא","gloss":"دەهێنیت"},{"surface":"בית","gloss":"ماڵی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיך","gloss":"ئێلۆهیمی تۆ"},{"surface":"לא","gloss":"نا"},{"surface":"תבשל","gloss":"دەکوڵێنیت"},{"surface":"גדי","gloss":"بەرمێک"},{"surface":"בחלב","gloss":"لە شیری"},{"surface":"אמו","gloss":"دایکی"}],"timestamp":"2026-09-24T09:47:33.891921717Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 23:19",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "سەرەتای یەکەمبەرەکانی زەویی تۆ دەهێنیتە ماڵی یاهوە ئێلۆهیمی تۆ؛ بەرمێک لە شیری دایکی ناکوڵێنیت.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "سەرەتا"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "یەکەمبەرەکانی"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "زەویی تۆ"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "دەهێنیت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "دەکوڵێنیت"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "بەرمێک"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "لە شیری"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:33.891921717Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":10,"ref":"2-kings 13:10","book":"2-kings","lang":"ckb","chapter":13,"translation":"لە ساڵی سی و حەوتەمی یۆئاش پاشای یەهودا یەهۆئاش کوڕی یەهۆئەحاز لە شۆمڕۆن بەسەر ئیسرائێلدا پاشایەتی کرد — شازدە ساڵ.","tokens":[{"surface":"בשנת","gloss":"لە ساڵی"},{"surface":"שלשים","gloss":"سی"},{"surface":"ושבע","gloss":"و حەوت"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"ליואש","gloss":"یۆئاش"},{"surface":"מלך","gloss":"پاشای"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"מלך","gloss":"پاشایەتی کرد"},{"surface":"יהואש","gloss":"یەهۆئاش"},{"surface":"בן","gloss":"کوڕی"},{"surface":"יהואחז","gloss":"یەهۆئەحاز"},{"surface":"על","gloss":"بەسەر"},{"surface":"ישראל","gloss":"ئیسرائێل"},{"surface":"בשמרון","gloss":"لە شۆمڕۆن"},{"surface":"שש","gloss":"شەش"},{"surface":"עשרה","gloss":"دە"},{"surface":"שנה","gloss":"ساڵ"}],"timestamp":"2026-09-24T12:05:09.306919422Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "لە ساڵی سی و حەوتەمی یۆئاش پاشای یەهودا یەهۆئاش کوڕی یەهۆئەحاز لە شۆمڕۆن بەسەر ئیسرائێلدا پاشایەتی کرد — شازدە ساڵ.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "یۆئاش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشایەتی کرد"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یەهۆئاش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "یەهۆئەحاز"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەسەر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائێل"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "لە شۆمڕۆن"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:05:09.306919422Z",
+  "model": "glm-5.3"
+}

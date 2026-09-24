@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":1,"ref":"ezekiel 28:1","book":"ezekiel","lang":"ckb","chapter":28,"translation":"وشەی یاهوە بۆ من بوو، دەڵێت:","tokens":[{"surface":"ויהי","gloss":"بوو"},{"surface":"דבר","gloss":"وشە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלי","gloss":"بۆ من"},{"surface":"לאמר","gloss":"دەڵێت"}],"timestamp":"2026-09-24T13:17:57.541801491Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 28:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "وشەی یاهوە بۆ من بوو، دەڵێت:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەڵێت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:17:57.541801491Z",
+  "model": "glm-5.3"
+}

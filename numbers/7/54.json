@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":54,"ref":"numbers 7:54","book":"numbers","lang":"ckb","chapter":7,"translation":"لە ڕۆژی هەشتەمدا سەرۆکی کوڕانی مەنەششە، گەملیئێل کوڕی پەداتسوور ⟨پێشکەشی کرد⟩.","tokens":[{"surface":"ביום","gloss":"لە ڕۆژ"},{"surface":"השמיני","gloss":"هەشتەم"},{"surface":"נשיא","gloss":"سەرۆک"},{"surface":"לבני","gloss":"بۆ کوڕانی"},{"surface":"מנשה","gloss":"مەنەششە"},{"surface":"גמליאל","gloss":"گەملیئێل"},{"surface":"בן","gloss":"کوڕی"},{"surface":"פדה","gloss":"پەدا"},{"surface":"צור","gloss":"تسوور"}],"timestamp":"2026-09-24T10:16:23.935820623Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لە ڕۆژی هەشتەمدا سەرۆکی کوڕانی مەنەششە، گەملیئێل کوڕی پەداتسوور ⟨پێشکەشی کرد⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هەشتەم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەششە"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "گەملیئێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پەدا"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تسوور"
+    }
+  ],
+  "timestamp": "2026-09-24T10:16:23.935820623Z",
+  "model": "glm-5.3"
+}

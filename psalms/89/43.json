@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":43,"ref":"psalms 89:43","book":"psalms","lang":"ckb","chapter":89,"translation":"بەرزت کردەوە دەستی ڕاستی دوژمنانی؛ شادمانەت کرد هەموو دوژمنانی.","tokens":[{"surface":"הרימות","gloss":"بەرزت کردەوە"},{"surface":"ימין","gloss":"دەستی ڕاستی"},{"surface":"צריו","gloss":"دوژمنانی"},{"surface":"השמחת","gloss":"شادمانەت کرد"},{"surface":"כל","gloss":"هەموو"},{"surface":"אויביו","gloss":"دوژمنانی"}],"timestamp":"2026-09-24T14:07:47.096823091Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 89:43",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "بەرزت کردەوە دەستی ڕاستی دوژمنانی؛ شادمانەت کرد هەموو دوژمنانی.",
+  "tokens": [
+    {
+      "surface": "הרימות",
+      "gloss": "بەرزت کردەوە"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "دەستی ڕاستی"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "دوژمنانی"
+    },
+    {
+      "surface": "השמחת",
+      "gloss": "شادمانەت کرد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "دوژمنانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:47.096823091Z",
+  "model": "glm-5.3"
+}

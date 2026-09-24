@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":30,"ref":"ezekiel 48:30","book":"ezekiel","lang":"ckb","chapter":48,"translation":"و ئەمانە دەرچوونەکانی شارەکەن — لە لای باکوورەوە پێنج سەد و چوار هەزار پێوەر.","tokens":[{"surface":"ואלה","gloss":"و ئەمانە"},{"surface":"תוצאת","gloss":"دەرچوونەکانی"},{"surface":"העיר","gloss":"شارەکەن"},{"surface":"מפאת","gloss":"لە لای"},{"surface":"צפון","gloss":"باکوورەوە"},{"surface":"חמש","gloss":"پێنج"},{"surface":"מאות","gloss":"سەد"},{"surface":"וארבעת","gloss":"و چوار"},{"surface":"אלפים","gloss":"هەزار"},{"surface":"מדה","gloss":"پێوەر"}],"timestamp":"2026-09-24T13:27:47.347908583Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و ئەمانە دەرچوونەکانی شارەکەن — لە لای باکوورەوە پێنج سەد و چوار هەزار پێوەر.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "دەرچوونەکانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکەن"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "باکوورەوە"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "پێوەر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:47.347908583Z",
+  "model": "glm-5.3"
+}

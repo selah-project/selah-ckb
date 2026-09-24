@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":28,"ref":"ecclesiastes 7:28","book":"ecclesiastes","lang":"ckb","chapter":7,"translation":"کە هێشتا گیانم گەڕایەوە و نەمدۆزییەوە: یەک مرۆڤ لە هەزاردا دۆزییەوە، بەڵام ژنێک لە هەموو ئەمانەدا نەمدۆزییەوە","tokens":[{"surface":"אשר","gloss":"کە"},{"surface":"עוד","gloss":"هێشتا"},{"surface":"בקשה","gloss":"گەڕایەوە"},{"surface":"נפשי","gloss":"گیانم"},{"surface":"ולא","gloss":"و نەم"},{"surface":"מצאתי","gloss":"دۆزییەوە"},{"surface":"אדם","gloss":"مرۆڤ"},{"surface":"אחד","gloss":"یەک"},{"surface":"מאלף","gloss":"لە هەزاردا"},{"surface":"מצאתי","gloss":"دۆزییەوە"},{"surface":"ואשה","gloss":"بەڵام ژنێک"},{"surface":"בכל","gloss":"لە هەموو"},{"surface":"אלה","gloss":"ئەمانەدا"},{"surface":"לא","gloss":"نەم"},{"surface":"מצאתי","gloss":"دۆزییەوە"}],"timestamp":"2026-09-24T14:57:06.970355448Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کە هێشتا گیانم گەڕایەوە و نەمدۆزییەوە: یەک مرۆڤ لە هەزاردا دۆزییەوە، بەڵام ژنێک لە هەموو ئەمانەدا نەمدۆزییەوە",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "گەڕایەوە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەم"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "دۆزییەوە"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "لە هەزاردا"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "دۆزییەوە"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "بەڵام ژنێک"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانەدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەم"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "دۆزییەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:57:06.970355448Z",
+  "model": "glm-5.3"
+}

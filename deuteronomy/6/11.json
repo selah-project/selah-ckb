@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":11,"ref":"deuteronomy 6:11","book":"deuteronomy","lang":"ckb","chapter":6,"translation":"و خانوو پڕ لە هەموو چاکە کە تۆ پڕیان نەکردوون، و کانییە هەڵکۆڵراوەکان کە تۆ هەڵیان نەکۆڵیون، مزگێن و زەیتوون کە تۆ ڕیانەنێنیون، و دەخۆیت و تێر دەبیت.","tokens":[{"surface":"ובתים","gloss":"و خانوو"},{"surface":"מלאים","gloss":"پڕ"},{"surface":"כל","gloss":"هەموو"},{"surface":"טוב","gloss":"چاکە"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"מלאת","gloss":"پڕیان نەکردوون"},{"surface":"וברת","gloss":"و کانییەکان"},{"surface":"חצובים","gloss":"هەڵکۆڵراوەکان"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"חצבת","gloss":"هەڵیان نەکۆڵیون"},{"surface":"כרמים","gloss":"مزگێن"},{"surface":"וזיתים","gloss":"و زەیتوون"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"נטעת","gloss":"ڕیانەنێنیون"},{"surface":"ואכלת","gloss":"و دەخۆیت"},{"surface":"ושבעת","gloss":"و تێر دەبیت"}],"timestamp":"2026-09-24T10:36:28.974757559Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 6:11",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و خانوو پڕ لە هەموو چاکە کە تۆ پڕیان نەکردوون، و کانییە هەڵکۆڵراوەکان کە تۆ هەڵیان نەکۆڵیون، مزگێن و زەیتوون کە تۆ ڕیانەنێنیون، و دەخۆیت و تێر دەبیت.",
+  "tokens": [
+    {
+      "surface": "ובתים",
+      "gloss": "و خانوو"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "پڕ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پڕیان نەکردوون"
+    },
+    {
+      "surface": "וברת",
+      "gloss": "و کانییەکان"
+    },
+    {
+      "surface": "חצובים",
+      "gloss": "هەڵکۆڵراوەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "هەڵیان نەکۆڵیون"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "مزگێن"
+    },
+    {
+      "surface": "וזיתים",
+      "gloss": "و زەیتوون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נטעת",
+      "gloss": "ڕیانەنێنیون"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "و دەخۆیت"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "و تێر دەبیت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:28.974757559Z",
+  "model": "glm-5.3"
+}

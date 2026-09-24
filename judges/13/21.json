@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":21,"ref":"judges 13:21","book":"judges","lang":"ckb","chapter":13,"translation":"و فریشتەی یاهوە ئیتر زیاتر بۆ مەنواح ⟨مەنوح⟩ و بۆ ژنەکەی دەرنەکەوت؛ ئەوکات مەنواح زانی کە فریشتەی یاهوە بوو.","tokens":[{"surface":"ולא","gloss":"و نە"},{"surface":"יסף","gloss":"زیاتر"},{"surface":"עוד","gloss":"ئیتر"},{"surface":"מלאך","gloss":"فریشتە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"להראה","gloss":"دەرکەوتن"},{"surface":"אל","gloss":"بۆ"},{"surface":"מנוח","gloss":"مەنواح"},{"surface":"ואל","gloss":"و بۆ"},{"surface":"אשתו","gloss":"ژنەکەی"},{"surface":"אז","gloss":"ئەوکات"},{"surface":"ידע","gloss":"زانی"},{"surface":"מנוח","gloss":"مەنواح"},{"surface":"כי","gloss":"کە"},{"surface":"מלאך","gloss":"فریشتە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"הוא","gloss":"بوو"}],"timestamp":"2026-09-24T11:09:52.929792137Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 13:21",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و فریشتەی یاهوە ئیتر زیاتر بۆ مەنواح ⟨مەنوح⟩ و بۆ ژنەکەی دەرنەکەوت؛ ئەوکات مەنواح زانی کە فریشتەی یاهوە بوو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "زیاتر"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فریشتە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "دەرکەوتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مەنواح"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنەکەی"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مەنواح"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فریشتە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:09:52.929792137Z",
+  "model": "glm-5.3"
+}

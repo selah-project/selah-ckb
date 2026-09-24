@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":2,"ref":"leviticus 4:2","book":"leviticus","lang":"ckb","chapter":4,"translation":"بە کوڕانی یسرائیل ⟨ئیسرائیل⟩ بڵێ گیان کاتێک بە هەڵە تاوان دەکات لە هەموو فەرمانەکانی یاهوە کی نابێت بکرێن و یەکێک لەوان دەکات","tokens":[{"surface":"דבר","gloss":"بڵێ"},{"surface":"אל","gloss":"بە"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"یسرائیل ⟨ئیسرائیل⟩"},{"surface":"לאמר","gloss":"بڵێ"},{"surface":"נפש","gloss":"گیان"},{"surface":"כי","gloss":"کاتێک"},{"surface":"תחטא","gloss":"تاوان دەکات"},{"surface":"בשגגה","gloss":"بە هەڵە"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"מצות","gloss":"فەرمانەکانی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אשר","gloss":"کی"},{"surface":"לא","gloss":"نابێت"},{"surface":"תעשינה","gloss":"بکرێن"},{"surface":"ועשה","gloss":"و دەکات"},{"surface":"מאחת","gloss":"یەکێک"},{"surface":"מהנה","gloss":"لەوان"}],"timestamp":"2026-09-24T09:59:07.368984339Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "بە کوڕانی یسرائیل ⟨ئیسرائیل⟩ بڵێ گیان کاتێک بە هەڵە تاوان دەکات لە هەموو فەرمانەکانی یاهوە کی نابێت بکرێن و یەکێک لەوان دەکات",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل ⟨ئیسرائیل⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بڵێ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "تاوان دەکات"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "بە هەڵە"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فەرمانەکانی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نابێت"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "بکرێن"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و دەکات"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "لەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:07.368984339Z",
+  "model": "glm-5.3"
+}

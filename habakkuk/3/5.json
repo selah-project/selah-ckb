@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":5,"ref":"habakkuk 3:5","book":"habakkuk","lang":"ckb","chapter":3,"translation":"لە پێشی دەردە ڕۆیشت و گڕ لە پێیەکانی دەرچوو.","tokens":[{"surface":"לפניו","gloss":"لە پێشی"},{"surface":"ילך","gloss":"ڕۆیشت"},{"surface":"דבר","gloss":"دەردە"},{"surface":"ויצא","gloss":"و دەرچوو"},{"surface":"רשף","gloss":"گڕ"},{"surface":"לרגליו","gloss":"لە پێیەکانی"}],"timestamp":"2026-09-24T13:41:31.984441122Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "لە پێشی دەردە ڕۆیشت و گڕ لە پێیەکانی دەرچوو.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "لە پێشی"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ڕۆیشت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دەردە"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "گڕ"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "لە پێیەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:41:31.984441122Z",
+  "model": "glm-5.3"
+}

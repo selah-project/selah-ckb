@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":7,"ref":"numbers 29:7","book":"numbers","lang":"ckb","chapter":29,"translation":"و لە ڕۆژی دەیەمی ئەم مانگی حەوتەمدا کۆبوونەوەی پیرۆز بۆ ئێوە دەبێت، و ⟨את⟩ گیانەکانتان بچکۆ دەخەن، هیچ کارێک ناکەن.","tokens":[{"surface":"ובעשור","gloss":"و لە ڕۆژی دەیەمدا"},{"surface":"לחדש","gloss":"ئەم مانگی"},{"surface":"השביעי","gloss":"حەوتەم"},{"surface":"הזה","gloss":"ئەم"},{"surface":"מקרא","gloss":"کۆبوونەوە"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"לכם","gloss":"بۆ ئێوە"},{"surface":"ועניתם","gloss":"و بچکۆ دەخەن"},{"surface":"את","gloss":"⟨את⟩","marks":"گیانەکانتان"},{"surface":"נפשתיכם","gloss":"گیانەکانتان"},{"surface":"כל","gloss":"هەموو"},{"surface":"מלאכה","gloss":"کار"},{"surface":"לא","gloss":"نا"},{"surface":"תעשו","gloss":"دەکەن"}],"timestamp":"2026-09-24T10:29:33.687470535Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 29:7",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لە ڕۆژی دەیەمی ئەم مانگی حەوتەمدا کۆبوونەوەی پیرۆز بۆ ئێوە دەبێت، و ⟨את⟩ گیانەکانتان بچکۆ دەخەن، هیچ کارێک ناکەن.",
+  "tokens": [
+    {
+      "surface": "ובעשור",
+      "gloss": "و لە ڕۆژی دەیەمدا"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ئەم مانگی"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "کۆبوونەوە"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "و بچکۆ دەخەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیانەکانتان"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "گیانەکانتان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:33.687470535Z",
+  "model": "glm-5.3"
+}

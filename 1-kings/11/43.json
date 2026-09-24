@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":43,"ref":"1-kings 11:43","book":"1-kings","lang":"ckb","chapter":11,"translation":"و شلۆمۆ لەگەڵ باوکانی خەوی کرد و لە شارِ داود باوکی نێژرا و رەحەبئام کوڕی لە جێی ئەو پاشایەتیی کرد.","tokens":[{"surface":"וישכב","gloss":"و خەوی کرد"},{"surface":"שלמה","gloss":"شلۆمۆ"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"אבתיו","gloss":"باوکانی"},{"surface":"ויקבר","gloss":"و نێژرا"},{"surface":"בעיר","gloss":"لە شارِ"},{"surface":"דוד","gloss":"داود"},{"surface":"אביו","gloss":"باوکی"},{"surface":"וימלך","gloss":"و پاشایەتیی کرد"},{"surface":"רחבעם","gloss":"رەحەبئام"},{"surface":"בנו","gloss":"کوڕی"},{"surface":"תחתיו","gloss":"لە جێی ئەو"}],"timestamp":"2026-09-24T11:51:14.457877395Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 11:43",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و شلۆمۆ لەگەڵ باوکانی خەوی کرد و لە شارِ داود باوکی نێژرا و رەحەبئام کوڕی لە جێی ئەو پاشایەتیی کرد.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "و خەوی کرد"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "باوکانی"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "و نێژرا"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "لە شارِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پاشایەتیی کرد"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رەحەبئام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جێی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:51:14.457877395Z",
+  "model": "glm-5.3"
+}

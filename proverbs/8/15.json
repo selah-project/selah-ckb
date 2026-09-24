@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":15,"ref":"proverbs 8:15","book":"proverbs","lang":"ckb","chapter":8,"translation":"بە من پادشایان دەفەرمانڕەوایەت دەکەن و سەرکردەکان دادپەروەری دادەنێن.","tokens":[{"surface":"בי","gloss":"بە من"},{"surface":"מלכים","gloss":"پادشایان"},{"surface":"ימלכו","gloss":"دەفەرمانڕەوایەت دەکەن"},{"surface":"ורוזנים","gloss":"و سەرکردەکان"},{"surface":"יחקקו","gloss":"دادەنێن"},{"surface":"צדק","gloss":"دادپەروەری"}],"timestamp":"2026-09-24T14:24:35.199716709Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بە من پادشایان دەفەرمانڕەوایەت دەکەن و سەرکردەکان دادپەروەری دادەنێن.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پادشایان"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "دەفەرمانڕەوایەت دەکەن"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "و سەرکردەکان"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "دادەنێن"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "دادپەروەری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:35.199716709Z",
+  "model": "glm-5.3"
+}

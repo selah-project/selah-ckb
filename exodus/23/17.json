@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":17,"ref":"exodus 23:17","book":"exodus","lang":"ckb","chapter":23,"translation":"سێ جار لە ساڵدا هەموو نێرەکانی تۆ دەردەکەون بەرامبەر ڕووی ئادۆنای یاهوە.","tokens":[{"surface":"שלש","gloss":"سێ"},{"surface":"פעמים","gloss":"جار"},{"surface":"בשנה","gloss":"لە ساڵدا"},{"surface":"יראה","gloss":"دەردەکەون"},{"surface":"כל","gloss":"هەموو"},{"surface":"זכורך","gloss":"نێرەکانی تۆ"},{"surface":"אל","gloss":"بەرامبەر"},{"surface":"פני","gloss":"ڕووی"},{"surface":"האדן","gloss":"ئادۆنای"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T09:47:33.891513810Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "سێ جار لە ساڵدا هەموو نێرەکانی تۆ دەردەکەون بەرامبەر ڕووی ئادۆنای یاهوە.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "جار"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "لە ساڵدا"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دەردەکەون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "نێرەکانی تۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:33.891513810Z",
+  "model": "glm-5.3"
+}

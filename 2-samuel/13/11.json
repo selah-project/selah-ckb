@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":11,"ref":"2-samuel 13:11","book":"2-samuel","lang":"ckb","chapter":13,"translation":"و نزیک بووەوە لێی بۆ ئەوەی بخوات، و ئەو بە توندی گرت و بە وی فەرموو: وەرە، لەگەڵ من بخەوە خوشکە من.","tokens":[{"surface":"ותגש","gloss":"و نزیک بووەوە"},{"surface":"אליו","gloss":"لێی"},{"surface":"לאכל","gloss":"بۆ ئەوەی بخوات"},{"surface":"ויחזק","gloss":"و بە توندی گرت"},{"surface":"בה","gloss":"ئەو"},{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"לה","gloss":"بە وی"},{"surface":"בואי","gloss":"وەرە"},{"surface":"שכבי","gloss":"بخەوە"},{"surface":"עמי","gloss":"لەگەڵ من"},{"surface":"אחותי","gloss":"خوشکە من"}],"timestamp":"2026-09-24T11:36:20.103325333Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 13:11",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و نزیک بووەوە لێی بۆ ئەوەی بخوات، و ئەو بە توندی گرت و بە وی فەرموو: وەرە، لەگەڵ من بخەوە خوشکە من.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "و نزیک بووەوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "بۆ ئەوەی بخوات"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "و بە توندی گرت"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بە وی"
+    },
+    {
+      "surface": "בואי",
+      "gloss": "وەرە"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "بخەوە"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "لەگەڵ من"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "خوشکە من"
+    }
+  ],
+  "timestamp": "2026-09-24T11:36:20.103325333Z",
+  "model": "glm-5.3"
+}

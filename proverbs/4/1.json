@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":1,"ref":"proverbs 4:1","book":"proverbs","lang":"ckb","chapter":4,"translation":"گوێ بگرن، کوڕان، لە فێرکاری باوک و گوێ ڕاگرن بۆ زانینی تێگەیشتن.","tokens":[{"surface":"שמעו","gloss":"گوێ بگرن"},{"surface":"בנים","gloss":"کوڕان"},{"surface":"מוסר","gloss":"فێرکاری"},{"surface":"אב","gloss":"باوک"},{"surface":"והקשיבו","gloss":"و گوێ ڕاگرن"},{"surface":"לדעת","gloss":"بۆ زانین"},{"surface":"בינה","gloss":"تێگەیشتن"}],"timestamp":"2026-09-24T14:23:21.611437067Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "گوێ بگرن، کوڕان، لە فێرکاری باوک و گوێ ڕاگرن بۆ زانینی تێگەیشتن.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "گوێ بگرن"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "فێرکاری"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باوک"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "و گوێ ڕاگرن"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "بۆ زانین"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:21.611437067Z",
+  "model": "glm-5.3"
+}

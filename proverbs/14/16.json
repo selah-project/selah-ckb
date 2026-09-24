@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":16,"ref":"proverbs 14:16","book":"proverbs","lang":"ckb","chapter":14,"translation":"دانا دەترسێت و لە خراپی دوور دەکەوێتەوە و نەفام تووڕە دەبێت و متمانە دەکات.","tokens":[{"surface":"חכם","gloss":"دانا"},{"surface":"ירא","gloss":"دەترسێت"},{"surface":"וסר","gloss":"و دوور دەکەوێتەوە"},{"surface":"מרע","gloss":"لە خراپی"},{"surface":"וכסיל","gloss":"و نەفام"},{"surface":"מתעבר","gloss":"تووڕە دەبێت"},{"surface":"ובוטח","gloss":"و متمانە دەکات"}],"timestamp":"2026-09-24T14:26:12.157381016Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "دانا دەترسێت و لە خراپی دوور دەکەوێتەوە و نەفام تووڕە دەبێت و متمانە دەکات.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "دەترسێت"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "و دوور دەکەوێتەوە"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "لە خراپی"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "و نەفام"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "تووڕە دەبێت"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "و متمانە دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:12.157381016Z",
+  "model": "glm-5.3"
+}

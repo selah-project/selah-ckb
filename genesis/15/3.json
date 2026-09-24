@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":3,"ref":"genesis 15:3","book":"genesis","lang":"ckb","chapter":15,"translation":"و ئاڤرام وتی: ئەوەتا بۆ من نەتداوە تۆو، و ئەوەتا کوڕی ماڵەکەم میراتگری من دەبێت ⟨את⟩.","tokens":[{"surface":"ויאמר","gloss":"و وتی"},{"surface":"אברם","gloss":"ئاڤرام"},{"surface":"הן","gloss":"ئەوەتا"},{"surface":"לי","gloss":"بۆ من"},{"surface":"לא","gloss":"نە"},{"surface":"נתתה","gloss":"تداوە تۆ"},{"surface":"זרע","gloss":"تۆو"},{"surface":"והנה","gloss":"و ئەوەتا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"ביתי","gloss":"ماڵەکەم"},{"surface":"יורש","gloss":"میراتگری"},{"surface":"אתי","gloss":"⟨את⟩","marks":"من"}],"timestamp":"2026-09-24T09:15:45.307427687Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و ئاڤرام وتی: ئەوەتا بۆ من نەتداوە تۆو، و ئەوەتا کوڕی ماڵەکەم میراتگری من دەبێت ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ئاڤرام"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "تداوە تۆ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تۆو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ماڵەکەم"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "میراتگری"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:15:45.307427687Z",
+  "model": "glm-5.3"
+}

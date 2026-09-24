@@ -1,1 +1,103 @@
-{"tier":"glm-5.2","verse":12,"ref":"leviticus 4:12","book":"leviticus","lang":"ckb","chapter":4,"translation":"و ⟨את⟩ هەموو گاڵەکە دەهێنێتە دەرەوەی ئۆرەوە، بۆ شوێنێکی پاک، بۆ ڕێژی خۆڵەمێشەکە، و ⟨את⟩ دەیسووتێنێت لەسەر دار لە ئاگردا؛ لەسەر ڕێژی خۆڵەمێشەکە سووتێنرێت.","tokens":[{"surface":"והוציא","gloss":"و دەیهێنێتە دەرەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو"},{"surface":"כל","gloss":"هەموو"},{"surface":"הפר","gloss":"گاڵەکە"},{"surface":"אל","gloss":"بۆ"},{"surface":"מחוץ","gloss":"دەرەوە"},{"surface":"למחנה","gloss":"ئۆرەکە"},{"surface":"אל","gloss":"بۆ"},{"surface":"מקום","gloss":"شوێن"},{"surface":"טהור","gloss":"پاک"},{"surface":"אל","gloss":"بۆ"},{"surface":"שפך","gloss":"ڕێژی"},{"surface":"הדשן","gloss":"خۆڵەمێشەکە"},{"surface":"ושרף","gloss":"و دەیسووتێنێت"},{"surface":"אתו","gloss":"⟨את⟩ ئەو","marks":"گاڵەکە"},{"surface":"על","gloss":"لەسەر"},{"surface":"עצים","gloss":"دار"},{"surface":"באש","gloss":"لە ئاگر"},{"surface":"על","gloss":"لەسەر"},{"surface":"שפך","gloss":"ڕێژی"},{"surface":"הדשן","gloss":"خۆڵەمێشەکە"},{"surface":"ישרף","gloss":"سووتێنرێت"}],"timestamp":"2026-09-24T09:59:17.972388698Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ⟨את⟩ هەموو گاڵەکە دەهێنێتە دەرەوەی ئۆرەوە، بۆ شوێنێکی پاک، بۆ ڕێژی خۆڵەمێشەکە، و ⟨את⟩ دەیسووتێنێت لەسەر دار لە ئاگردا؛ لەسەر ڕێژی خۆڵەمێشەکە سووتێنرێت.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "و دەیهێنێتە دەرەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گاڵەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "دەرەوە"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ئۆرەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێن"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ڕێژی"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "خۆڵەمێشەکە"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "و دەیسووتێنێت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "گاڵەکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "دار"
+    },
+    {
+      "surface": "באש",
+      "gloss": "لە ئاگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ڕێژی"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "خۆڵەمێشەکە"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "سووتێنرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:17.972388698Z",
+  "model": "glm-5.3"
+}

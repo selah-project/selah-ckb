@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":1,"ref":"proverbs 28:1","book":"proverbs","lang":"ckb","chapter":28,"translation":"هەڵاتن خراپەکار و هیچ ڕادووکێ نییە، و دادپەروەران وەک شێری گەنج متمانە دەکەن.","tokens":[{"surface":"נסו","gloss":"هەڵاتن"},{"surface":"ואין","gloss":"و هیچ نییە"},{"surface":"רדף","gloss":"ڕادووکێ"},{"surface":"רשע","gloss":"خراپەکار"},{"surface":"וצדיקים","gloss":"و دادپەروەران"},{"surface":"ככפיר","gloss":"وەک شێری گەنج"},{"surface":"יבטח","gloss":"متمانە دەکەن"}],"timestamp":"2026-09-24T14:32:33.921099701Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "هەڵاتن خراپەکار و هیچ ڕادووکێ نییە، و دادپەروەران وەک شێری گەنج متمانە دەکەن.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "هەڵاتن"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و هیچ نییە"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ڕادووکێ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپەکار"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "و دادپەروەران"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "وەک شێری گەنج"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "متمانە دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:33.921099701Z",
+  "model": "glm-5.3"
+}

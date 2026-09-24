@@ -1,1 +1,114 @@
-{"tier":"glm-5.2","verse":2,"ref":"exodus 36:2","book":"exodus","lang":"ckb","chapter":36,"translation":"و مۆشە ⟨موسا⟩ بانگی بێتسەلێل و ئەهولییاب و هەموو پیاوێکی دانای دڵی کرد، کە یاهوە دانایی لە دڵی ئەودا بەخشیبوو، هەموو ئەو کەسەی دڵی هەڵیدابێت بۆ نزیکبوونەوە بۆ کارەکە بۆ کردنی ⟨את⟩.","tokens":[{"surface":"ויקרא","gloss":"و بانگی کرد"},{"surface":"משה","gloss":"مۆشە"},{"surface":"אל","gloss":"بۆ"},{"surface":"בצלאל","gloss":"بێتسەلێل"},{"surface":"ואל","gloss":"و بۆ"},{"surface":"אהליאב","gloss":"ئەهولییاب"},{"surface":"ואל","gloss":"و بۆ"},{"surface":"כל","gloss":"هەموو"},{"surface":"איש","gloss":"پیاو"},{"surface":"חכם","gloss":"دانا"},{"surface":"לב","gloss":"دڵ"},{"surface":"אשר","gloss":"کە"},{"surface":"נתן","gloss":"بەخشیبوو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"חכמה","gloss":"دانایی"},{"surface":"בלבו","gloss":"لە دڵی ئەودا"},{"surface":"כל","gloss":"هەموو"},{"surface":"אשר","gloss":"کە"},{"surface":"נשאו","gloss":"هەڵیدابێت"},{"surface":"לבו","gloss":"دڵی"},{"surface":"לקרבה","gloss":"بۆ نزیکبوونەوە"},{"surface":"אל","gloss":"بۆ"},{"surface":"המלאכה","gloss":"کارەکە"},{"surface":"לעשת","gloss":"بۆ کردن"},{"surface":"אתה","gloss":"⟨את⟩ ئەو","marks":"کارەکە"}],"timestamp":"2026-09-24T15:50:58.197232341Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 36:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و مۆشە ⟨موسا⟩ بانگی بێتسەلێل و ئەهولییاب و هەموو پیاوێکی دانای دڵی کرد، کە یاهوە دانایی لە دڵی ئەودا بەخشیبوو، هەموو ئەو کەسەی دڵی هەڵیدابێت بۆ نزیکبوونەوە بۆ کارەکە بۆ کردنی ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و بانگی کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بێتسەلێل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "ئەهولییاب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "بەخشیبوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "لە دڵی ئەودا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "هەڵیدابێت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "לקרבה",
+      "gloss": "بۆ نزیکبوونەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "بۆ کردن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "کارەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:50:58.197232341Z",
+  "model": "glm-5.3"
+}

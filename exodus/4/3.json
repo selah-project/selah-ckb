@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":3,"ref":"exodus 4:3","book":"exodus","lang":"ckb","chapter":4,"translation":"و فەرموو: «فڕێی بدە زەویەکەوە» و فڕێی دا زەویەکەوە و بوو ب مار، و مۆشە ⟨موسا⟩ لە پێشی ڕایکرد.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"השליכהו","gloss":"فڕێی بدە"},{"surface":"ארצה","gloss":"زەویەکەوە"},{"surface":"וישליכהו","gloss":"و فڕێی دا"},{"surface":"ארצה","gloss":"زەویەکەوە"},{"surface":"ויהי","gloss":"و بوو"},{"surface":"לנחש","gloss":"ب مار"},{"surface":"וינס","gloss":"و ڕایکرد"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"מפניו","gloss":"لە پێشی"}],"timestamp":"2026-09-24T15:50:56.099972610Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و فەرموو: «فڕێی بدە زەویەکەوە» و فڕێی دا زەویەکەوە و بوو ب مار، و مۆشە ⟨موسا⟩ لە پێشی ڕایکرد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "فڕێی بدە"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زەویەکەوە"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "و فڕێی دا"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زەویەکەوە"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ب مار"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "و ڕایکرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "لە پێشی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:50:56.099972610Z",
+  "model": "glm-5.3"
+}

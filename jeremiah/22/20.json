@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":20,"ref":"jeremiah 22:20","book":"jeremiah","lang":"ckb","chapter":22,"translation":"سەربکەوە لوبنان و هەاران، و لە باشان دەنگت بدە، و لە عەباریمەوە هەاران، چونکو هەموو خۆشەویستەکانت شکاون.","tokens":[{"surface":"עלי","gloss":"سەربکەوە"},{"surface":"הלבנון","gloss":"لوبنان"},{"surface":"וצעקי","gloss":"و هەاران"},{"surface":"ובבשן","gloss":"و لە باشان"},{"surface":"תני","gloss":"بدە"},{"surface":"קולך","gloss":"دەنگت"},{"surface":"וצעקי","gloss":"و هەاران"},{"surface":"מעברים","gloss":"لە عەباریمەوە"},{"surface":"כי","gloss":"چونکو"},{"surface":"נשברו","gloss":"شکاون"},{"surface":"כל","gloss":"هەموو"},{"surface":"מאהביך","gloss":"خۆشەویستەکانت"}],"timestamp":"2026-09-24T12:46:52.077420116Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 22:20",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "سەربکەوە لوبنان و هەاران، و لە باشان دەنگت بدە، و لە عەباریمەوە هەاران، چونکو هەموو خۆشەویستەکانت شکاون.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "سەربکەوە"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لوبنان"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "و هەاران"
+    },
+    {
+      "surface": "ובבשן",
+      "gloss": "و لە باشان"
+    },
+    {
+      "surface": "תני",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "دەنگت"
+    },
+    {
+      "surface": "וצעקי",
+      "gloss": "و هەاران"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "لە عەباریمەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکو"
+    },
+    {
+      "surface": "נשברו",
+      "gloss": "شکاون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מאהביך",
+      "gloss": "خۆشەویستەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:46:52.077420116Z",
+  "model": "glm-5.3"
+}

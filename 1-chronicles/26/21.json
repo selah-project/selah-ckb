@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":21,"ref":"1-chronicles 26:21","book":"1-chronicles","lang":"ckb","chapter":26,"translation":"کوڕەکانی لاعدان، کوڕەکانی گەرشونی، بۆ لاعدان سەرەکانی باوکان، بۆ لاعدانی گەرشونی: یەحیئێلی.","tokens":[{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"לעדן","gloss":"لاعدان"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"הגרשני","gloss":"گەرشونی"},{"surface":"ללעדן","gloss":"بۆ لاعدان"},{"surface":"ראשי","gloss":"سەرەکانی"},{"surface":"האבות","gloss":"باوکان"},{"surface":"ללעדן","gloss":"بۆ لاعدان"},{"surface":"הגרשני","gloss":"گەرشونی"},{"surface":"יחיאלי","gloss":"یەحیئێلی"}],"timestamp":"2026-09-24T15:31:20.902788396Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 26:21",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "کوڕەکانی لاعدان، کوڕەکانی گەرشونی، بۆ لاعدان سەرەکانی باوکان، بۆ لاعدانی گەرشونی: یەحیئێلی.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لاعدان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "گەرشونی"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "بۆ لاعدان"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سەرەکانی"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "باوکان"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "بۆ لاعدان"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "گەرشونی"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "یەحیئێلی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:31:20.902788396Z",
+  "model": "glm-5.3"
+}

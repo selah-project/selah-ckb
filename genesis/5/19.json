@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":19,"ref":"genesis 5:19","book":"genesis","lang":"ckb","chapter":5,"translation":"و یەرەد دوای هێنانی ⟨את⟩ خەنوخ هەشت سەد ساڵ ژیی و کوڕان و کچانی بوو.","tokens":[{"surface":"ויחי","gloss":"ژیی"},{"surface":"ירד","gloss":"یەرەد"},{"surface":"אחרי","gloss":"دوای"},{"surface":"הולידו","gloss":"هێنانی"},{"surface":"את","gloss":"⟨את⟩","marks":"خەنوخ"},{"surface":"חנוך","gloss":"خەنوخ"},{"surface":"שמנה","gloss":"هەشت"},{"surface":"מאות","gloss":"سەد"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"ויולד","gloss":"بوو"},{"surface":"בנים","gloss":"کوڕان"},{"surface":"ובנות","gloss":"و کچان"}],"timestamp":"2026-09-24T09:12:32.959239269Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 5:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و یەرەد دوای هێنانی ⟨את⟩ خەنوخ هەشت سەد ساڵ ژیی و کوڕان و کچانی بوو.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژیی"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یەرەد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "هێنانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خەنوخ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خەنوخ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:32.959239269Z",
+  "model": "glm-5.3"
+}

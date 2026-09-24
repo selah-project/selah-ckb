@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":58,"ref":"genesis 24:58","book":"genesis","lang":"ckb","chapter":24,"translation":"و بانگیان ڕیڤکە کرد و پێیان وت: ئایا دەچیت لەگەڵ ئەم پیاوە؟ و وتی: دەچم.","tokens":[{"surface":"ויקראו","gloss":"و بانگیان کرد"},{"surface":"לרבקה","gloss":"ڕیڤکە"},{"surface":"ויאמרו","gloss":"و پێیان وت"},{"surface":"אליה","gloss":"پێی"},{"surface":"התלכי","gloss":"دەچیت"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"האיש","gloss":"پیاوەکە"},{"surface":"הזה","gloss":"ئەم"},{"surface":"ותאמר","gloss":"و وتی"},{"surface":"אלך","gloss":"دەچم"}],"timestamp":"2026-09-24T09:20:51.500003114Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "genesis 24:58",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و بانگیان ڕیڤکە کرد و پێیان وت: ئایا دەچیت لەگەڵ ئەم پیاوە؟ و وتی: دەچم.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "و بانگیان کرد"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "ڕیڤکە"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و پێیان وت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "התלכי",
+      "gloss": "دەچیت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "پیاوەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "دەچم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:51.500003114Z",
+  "model": "glm-5.3"
+}

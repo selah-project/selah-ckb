@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":11,"ref":"job 13:11","book":"job","lang":"ckb","chapter":13,"translation":"ئایا نا بەرزییەکەی دەترسێنێت ⟨את⟩ ئێوە، و ترسی دەکەوێتە سەر ئێوە؟","tokens":[{"surface":"הלא","gloss":"ئایا نا"},{"surface":"שאתו","gloss":"بەرزییەکەی"},{"surface":"תבעת","gloss":"دەترسێنێت"},{"surface":"אתכם","gloss":"⟨את⟩ ئێوە","marks":"ئێوە"},{"surface":"ופחדו","gloss":"و ترسی"},{"surface":"יפל","gloss":"دەکەوێت"},{"surface":"עליכם","gloss":"سەر ئێوە"}],"timestamp":"2026-09-24T14:37:24.944381444Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئایا نا بەرزییەکەی دەترسێنێت ⟨את⟩ ئێوە، و ترسی دەکەوێتە سەر ئێوە؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئایا نا"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "بەرزییەکەی"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "دەترسێنێت"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": "ئێوە"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "و ترسی"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "دەکەوێت"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "سەر ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:24.944381444Z",
+  "model": "glm-5.3"
+}

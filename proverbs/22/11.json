@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":11,"ref":"proverbs 22:11","book":"proverbs","lang":"ckb","chapter":22,"translation":"خۆشەویستی دڵی پاک — لێوەکانی جوانن — پاشا هاوڕێی ئەوەیە.","tokens":[{"surface":"אהב","gloss":"خۆشەویستی"},{"surface":"טהור","gloss":"پاک"},{"surface":"לב","gloss":"دڵ"},{"surface":"חן","gloss":"جوانی"},{"surface":"שפתיו","gloss":"لێوەکانی"},{"surface":"רעהו","gloss":"هاوڕێی"},{"surface":"מלך","gloss":"پاشا"}],"timestamp":"2026-09-24T14:28:29.104796879Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "خۆشەویستی دڵی پاک — لێوەکانی جوانن — پاشا هاوڕێی ئەوەیە.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "خۆشەویستی"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:29.104796879Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":9,"ref":"nehemiah 5:9","book":"nehemiah","lang":"ckb","chapter":5,"translation":"و فەرموو: چاک نییە ئەو کارەی ئێوە دەیکەن؛ ئایا لە ترسی ئێلۆهیمماندا ناڕۆن، لە سووکایەتیی گەلەکان دوژمنانمان؟","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"לא","gloss":"نا"},{"surface":"טוב","gloss":"چاک"},{"surface":"הדבר","gloss":"ئەو کارە"},{"surface":"אשר","gloss":"کە"},{"surface":"אתם","gloss":"ئێوە"},{"surface":"עשים","gloss":"دەیکەن"},{"surface":"הלוא","gloss":"ئایا نا"},{"surface":"ביראת","gloss":"لە ترسدا"},{"surface":"אלהינו","gloss":"ئێلۆهیممان"},{"surface":"תלכו","gloss":"ناڕۆن"},{"surface":"מחרפת","gloss":"لە سووکایەتی"},{"surface":"הגוים","gloss":"گەلەکان"},{"surface":"אויבינו","gloss":"دوژمنانمان"}],"timestamp":"2026-09-24T15:16:27.353111614Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 5:9",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و فەرموو: چاک نییە ئەو کارەی ئێوە دەیکەن؛ ئایا لە ترسی ئێلۆهیمماندا ناڕۆن، لە سووکایەتیی گەلەکان دوژمنانمان؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئەو کارە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "دەیکەن"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ئایا نا"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "لە ترسدا"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیممان"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ناڕۆن"
+    },
+    {
+      "surface": "מחרפת",
+      "gloss": "لە سووکایەتی"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "אויבינו",
+      "gloss": "دوژمنانمان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:16:27.353111614Z",
+  "model": "glm-5.3"
+}

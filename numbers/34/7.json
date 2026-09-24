@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":7,"ref":"numbers 34:7","book":"numbers","lang":"ckb","chapter":34,"translation":"و ئەمە دەبێت بۆ ئێوە سنووری باکوور لە دەریا گەورەکەوە هۆر چیاکە بۆ ئێوە دیاری دەکەن.","tokens":[{"surface":"וזה","gloss":"و ئەمە"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"לכם","gloss":"بۆ ئێوە"},{"surface":"גבול","gloss":"سنووری"},{"surface":"צפון","gloss":"باکوور"},{"surface":"מן","gloss":"لە"},{"surface":"הים","gloss":"دەریا"},{"surface":"הגדל","gloss":"گەورەکەوە"},{"surface":"תתאו","gloss":"دیاری دەکەن"},{"surface":"לכם","gloss":"بۆ ئێوە"},{"surface":"הר","gloss":"هۆر"},{"surface":"ההר","gloss":"چیاکە"}],"timestamp":"2026-09-24T10:32:09.677152626Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و ئەمە دەبێت بۆ ئێوە سنووری باکوور لە دەریا گەورەکەوە هۆر چیاکە بۆ ئێوە دیاری دەکەن.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "باکوور"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "گەورەکەوە"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "دیاری دەکەن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "הר",
+      "gloss": "هۆر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "چیاکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:09.677152626Z",
+  "model": "glm-5.3"
+}

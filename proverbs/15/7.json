@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":7,"ref":"proverbs 15:7","book":"proverbs","lang":"ckb","chapter":15,"translation":"لێوەکانی زیرەکان زانیابی بڵاو دەکەنەوە، بەڵام دڵی گەمژەکان وا نییە.","tokens":[{"surface":"שפתי","gloss":"لێوەکانی"},{"surface":"חכמים","gloss":"زیرەکان"},{"surface":"יזרו","gloss":"بڵاو دەکەنەوە"},{"surface":"דעת","gloss":"زانیابی"},{"surface":"ולב","gloss":"بەڵام دڵی"},{"surface":"כסילים","gloss":"گەمژەکان"},{"surface":"לא","gloss":"نا"},{"surface":"כן","gloss":"وا"}],"timestamp":"2026-09-24T14:26:48.531359860Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "لێوەکانی زیرەکان زانیابی بڵاو دەکەنەوە، بەڵام دڵی گەمژەکان وا نییە.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "لێوەکانی"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "زیرەکان"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "بڵاو دەکەنەوە"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیابی"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "بەڵام دڵی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "گەمژەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:48.531359860Z",
+  "model": "glm-5.3"
+}

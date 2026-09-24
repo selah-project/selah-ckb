@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":4,"ref":"numbers 27:4","book":"numbers","lang":"ckb","chapter":27,"translation":"بۆچی ناوی باوکمان لە نێو بنەماڵەی خۆیدا بسڕێتەوە، چونکە کوڕێکی نییە؟ بدە بە ئێمە خاوەندارێتییەک لە نێو برایانی باوکماندا.","tokens":[{"surface":"למה","gloss":"بۆچی"},{"surface":"יגרע","gloss":"بسڕێتەوە"},{"surface":"שם","gloss":"ناوی"},{"surface":"אבינו","gloss":"باوکمان"},{"surface":"מתוך","gloss":"لە نێو"},{"surface":"משפחתו","gloss":"بنەماڵەی خۆیدا"},{"surface":"כי","gloss":"چونکە"},{"surface":"אין","gloss":"نییە"},{"surface":"לו","gloss":"بۆی"},{"surface":"בן","gloss":"کوڕێک"},{"surface":"תנה","gloss":"بدە"},{"surface":"לנו","gloss":"بە ئێمە"},{"surface":"אחזה","gloss":"خاوەندارێتییەک"},{"surface":"בתוך","gloss":"لە نێو"},{"surface":"אחי","gloss":"برایانی"},{"surface":"אבינו","gloss":"باوکماندا"}],"timestamp":"2026-09-24T10:29:23.288609543Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 27:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "بۆچی ناوی باوکمان لە نێو بنەماڵەی خۆیدا بسڕێتەوە، چونکە کوڕێکی نییە؟ بدە بە ئێمە خاوەندارێتییەک لە نێو برایانی باوکماندا.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "بسڕێتەوە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "باوکمان"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "لە نێو"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "بنەماڵەی خۆیدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕێک"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "بدە"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بە ئێمە"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "خاوەندارێتییەک"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "لە نێو"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برایانی"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "باوکماندا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:23.288609543Z",
+  "model": "glm-5.3"
+}

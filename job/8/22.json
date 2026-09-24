@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":22,"ref":"job 8:22","book":"job","lang":"ckb","chapter":8,"translation":"ئەوانەی ڕق لێت هەیەن بە شەرم دەپۆشن، و چادری سەرکەتان نییە.","tokens":[{"surface":"שנאיך","gloss":"ئەوانەی ڕق لێت هەیەن"},{"surface":"ילבשו","gloss":"دەپۆشن"},{"surface":"בשת","gloss":"شەرم"},{"surface":"ואהל","gloss":"و چادری"},{"surface":"רשעים","gloss":"سەرکەتان"},{"surface":"איננו","gloss":"نییە"}],"timestamp":"2026-09-24T14:35:05.806053172Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 8:22",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئەوانەی ڕق لێت هەیەن بە شەرم دەپۆشن، و چادری سەرکەتان نییە.",
+  "tokens": [
+    {
+      "surface": "שנאיך",
+      "gloss": "ئەوانەی ڕق لێت هەیەن"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "دەپۆشن"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "شەرم"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "و چادری"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "سەرکەتان"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نییە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:05.806053172Z",
+  "model": "glm-5.3"
+}

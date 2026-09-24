@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 67:3","book":"psalms","lang":"ckb","chapter":67,"translation":"بۆ ئەوەی لە زەویدا ڕێگەت بناسرێت، لەنێو هەموو گەلاندا ڕزگاریت.","tokens":[{"surface":"לדעת","gloss":"بۆ ئەوەی بناسرێت"},{"surface":"בארץ","gloss":"لە زەویدا"},{"surface":"דרכך","gloss":"ڕێگەت"},{"surface":"בכל","gloss":"لەنێو هەموو"},{"surface":"גוים","gloss":"گەلاندا"},{"surface":"ישועתך","gloss":"ڕزگاریت"}],"timestamp":"2026-09-24T14:01:36.480369271Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 67,
+  "translation": "بۆ ئەوەی لە زەویدا ڕێگەت بناسرێت، لەنێو هەموو گەلاندا ڕزگاریت.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "بۆ ئەوەی بناسرێت"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویدا"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ڕێگەت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لەنێو هەموو"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلاندا"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ڕزگاریت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:36.480369271Z",
+  "model": "glm-5.3"
+}

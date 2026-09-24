@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":7,"ref":"leviticus 20:7","book":"leviticus","lang":"ckb","chapter":20,"translation":"و خۆتان پیرۆز بکەن و پیرۆز بن، چونکە من یاهوە ئێلۆهیمی ئێوەم.","tokens":[{"surface":"והתקדשתם","gloss":"و خۆتان پیرۆز بکەن"},{"surface":"והייתם","gloss":"و بن"},{"surface":"קדשים","gloss":"پیرۆز"},{"surface":"כי","gloss":"چونکە"},{"surface":"אני","gloss":"من"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיכם","gloss":"ئێلۆهیمی ئێوە"}],"timestamp":"2026-09-24T10:08:35.529999509Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و خۆتان پیرۆز بکەن و پیرۆز بن، چونکە من یاهوە ئێلۆهیمی ئێوەم.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "و خۆتان پیرۆز بکەن"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "و بن"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمی ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:35.529999509Z",
+  "model": "glm-5.3"
+}

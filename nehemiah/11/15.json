@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":15,"ref":"nehemiah 11:15","book":"nehemiah","lang":"ckb","chapter":11,"translation":"و لە لەڤییەکان: شەمایا کوڕی حەشوب کوڕی عەزریقام کوڕی حەشەڤیا کوڕی بونی.","tokens":[{"surface":"ומן","gloss":"و لە"},{"surface":"הלוים","gloss":"لەڤییەکان"},{"surface":"שמעיה","gloss":"شەمایا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"חשוב","gloss":"حەشوب"},{"surface":"בן","gloss":"کوڕی"},{"surface":"עזריקם","gloss":"عەزریقام"},{"surface":"בן","gloss":"کوڕی"},{"surface":"חשביה","gloss":"حەشەڤیا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"בוני","gloss":"بونی"}],"timestamp":"2026-09-24T15:19:29.484868161Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە لەڤییەکان: شەمایا کوڕی حەشوب کوڕی عەزریقام کوڕی حەشەڤیا کوڕی بونی.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لەڤییەکان"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شەمایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "حەشوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عەزریقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حەشەڤیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "بونی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:29.484868161Z",
+  "model": "glm-5.3"
+}

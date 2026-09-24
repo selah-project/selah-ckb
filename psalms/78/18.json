@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":18,"ref":"psalms 78:18","book":"psalms","lang":"ckb","chapter":78,"translation":"و ئێلیان لە دڵانیاندا تاقی کردەوە، بۆ داواکردنی خواردن بۆ گیانیان.","tokens":[{"surface":"וינסו","gloss":"و تاقییان کردەوە"},{"surface":"אל","gloss":"ئێل"},{"surface":"בלבבם","gloss":"لە دڵانیاندا"},{"surface":"לשאל","gloss":"بۆ داواکردن"},{"surface":"אכל","gloss":"خواردن"},{"surface":"לנפשם","gloss":"بۆ گیانیان"}],"timestamp":"2026-09-24T14:04:41.291912666Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "و ئێلیان لە دڵانیاندا تاقی کردەوە، بۆ داواکردنی خواردن بۆ گیانیان.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "و تاقییان کردەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "لە دڵانیاندا"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "بۆ داواکردن"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خواردن"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "بۆ گیانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:41.291912666Z",
+  "model": "glm-5.3"
+}

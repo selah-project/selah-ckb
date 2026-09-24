@@ -1,1 +1,130 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-kings 4:13","book":"2-kings","lang":"ckb","chapter":4,"translation":"و فەرمووی بۆ ئەو: بەی ئەی پێی بڵێ: ئەمەت بە ⟨את⟩ هەموو ئەم ترسە بۆ ئێمە ترسایت — چی بۆ بکرێت بۆ تۆ؟ دۆخێک هەیە بۆت قسە بکرێت لای پاشا یان لای سەرۆکی سەڤائۆت؟ و وت: لە ناو گەڵی خۆمدا ئەمن دانیشتووم.","tokens":[{"surface":"ויאמר","gloss":"و فەرمووی"},{"surface":"לו","gloss":"بۆ ئەو"},{"surface":"אמר","gloss":"بەی"},{"surface":"נא","gloss":"ئەی"},{"surface":"אליה","gloss":"پێی بڵێ"},{"surface":"הנה","gloss":"ئەمەت"},{"surface":"חרדת","gloss":"ترسایت"},{"surface":"אלינו","gloss":"بۆ ئێمە"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو ئەم ترسە"},{"surface":"כל","gloss":"هەموو"},{"surface":"החרדה","gloss":"ئەم ترسە"},{"surface":"הזאת","gloss":"ئەم"},{"surface":"מה","gloss":"چی"},{"surface":"לעשות","gloss":"بۆ بکرێت"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"היש","gloss":"دۆخێک هەیە"},{"surface":"לדבר","gloss":"قسە بکرێت"},{"surface":"לך","gloss":"بۆت"},{"surface":"אל","gloss":"لای"},{"surface":"המלך","gloss":"پاشا"},{"surface":"או","gloss":"یان"},{"surface":"אל","gloss":"لای"},{"surface":"שר","gloss":"سەرۆکی"},{"surface":"הצבא","gloss":"سەڤائۆت"},{"surface":"ותאמר","gloss":"و وت"},{"surface":"בתוך","gloss":"لە ناو"},{"surface":"עמי","gloss":"گەڵی خۆم"},{"surface":"אנכי","gloss":"ئەمن"},{"surface":"ישבת","gloss":"دانیشتووم"}],"timestamp":"2026-09-24T12:00:26.932437925Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 4:13",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و فەرمووی بۆ ئەو: بەی ئەی پێی بڵێ: ئەمەت بە ⟨את⟩ هەموو ئەم ترسە بۆ ئێمە ترسایت — چی بۆ بکرێت بۆ تۆ؟ دۆخێک هەیە بۆت قسە بکرێت لای پاشا یان لای سەرۆکی سەڤائۆت؟ و وت: لە ناو گەڵی خۆمدا ئەمن دانیشتووم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بەی"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئەی"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "پێی بڵێ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەمەت"
+    },
+    {
+      "surface": "חרדת",
+      "gloss": "ترسایت"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "بۆ ئێمە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەم ترسە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "החרדה",
+      "gloss": "ئەم ترسە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ بکرێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "היש",
+      "gloss": "دۆخێک هەیە"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "قسە بکرێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سەرۆکی"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "لە ناو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەڵی خۆم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ئەمن"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "دانیشتووم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:00:26.932437925Z",
+  "model": "glm-5.3"
+}

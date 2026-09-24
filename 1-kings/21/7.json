@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-kings 21:7","book":"1-kings","lang":"ckb","chapter":21,"translation":"و ئیڤزەبێل ئافرەتەکەی پێی وت: تۆ ئێستا پاشایەتی لەسەر ئیسرائیل دەکەیت! هەستە، نان بخۆ و دڵت خۆش بێت؛ من ⟨את⟩ مێوگەی نابوت ئیزرەعیلی دەدەم بە تۆ.","tokens":[{"surface":"ותאמר","gloss":"و پێی وت"},{"surface":"אליו","gloss":"لای ئەو"},{"surface":"איזבל","gloss":"ئیڤزەبێل"},{"surface":"אשתו","gloss":"ئافرەتەکەی"},{"surface":"אתה","gloss":"تۆ"},{"surface":"עתה","gloss":"ئێستا"},{"surface":"תעשה","gloss":"دەکەیت"},{"surface":"מלוכה","gloss":"پاشایەتی"},{"surface":"על","gloss":"لەسەر"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"קום","gloss":"هەستە"},{"surface":"אכל","gloss":"بخۆ"},{"surface":"לחם","gloss":"نان"},{"surface":"ויטב","gloss":"و خۆش بێت"},{"surface":"לבך","gloss":"دڵت"},{"surface":"אני","gloss":"من"},{"surface":"אתן","gloss":"دەدەم"},{"surface":"לך","gloss":"بە تۆ"},{"surface":"את","gloss":"⟨את⟩","marks":"مێوگەی نابوت"},{"surface":"כרם","gloss":"مێوگەی"},{"surface":"נבות","gloss":"نابوت"},{"surface":"היזרעאלי","gloss":"ئیزرەعیلی"}],"timestamp":"2026-09-24T11:57:30.642836550Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 21:7",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئیڤزەبێل ئافرەتەکەی پێی وت: تۆ ئێستا پاشایەتی لەسەر ئیسرائیل دەکەیت! هەستە، نان بخۆ و دڵت خۆش بێت؛ من ⟨את⟩ مێوگەی نابوت ئیزرەعیلی دەدەم بە تۆ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و پێی وت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لای ئەو"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ئیڤزەبێل"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ئافرەتەکەی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەکەیت"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "پاشایەتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "קום",
+      "gloss": "هەستە"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "بخۆ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ויטב",
+      "gloss": "و خۆش بێت"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دەدەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مێوگەی نابوت"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "مێوگەی"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "نابوت"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "ئیزرەعیلی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:57:30.642836550Z",
+  "model": "glm-5.3"
+}

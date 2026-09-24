@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":22,"ref":"proverbs 23:22","book":"proverbs","lang":"ckb","chapter":23,"translation":"بێدهنگ بڵێ نەک باوکت، ئەوەی تۆی بووه، و پیاهەڵمهکە کاتێک دایکت پیر بوو.","tokens":[{"surface":"שמע","gloss":"گوێ بگرە"},{"surface":"לאביך","gloss":"بۆ باوکت"},{"surface":"זה","gloss":"ئەوەی"},{"surface":"ילדך","gloss":"تۆی بووه"},{"surface":"ואל","gloss":"و مە"},{"surface":"תבוז","gloss":"پیاهەڵمهکە"},{"surface":"כי","gloss":"چونکە"},{"surface":"זקנה","gloss":"پیر بوو"},{"surface":"אמך","gloss":"دایکت"}],"timestamp":"2026-09-24T14:29:20.324692421Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بێدهنگ بڵێ نەک باوکت، ئەوەی تۆی بووه، و پیاهەڵمهکە کاتێک دایکت پیر بوو.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "بۆ باوکت"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "تۆی بووه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "پیاهەڵمهکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "پیر بوو"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "دایکت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:20.324692421Z",
+  "model": "glm-5.3"
+}

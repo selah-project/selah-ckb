@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":11,"ref":"esther 9:11","book":"esther","lang":"ckb","chapter":9,"translation":"لەو ڕۆژەدا ژمارەی کوژراوان لە شوشنی قەڵاکە هاتە پێش مەلەک","tokens":[{"surface":"ביום","gloss":"لە ڕۆژەکەدا"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"בא","gloss":"هاتە"},{"surface":"מספר","gloss":"ژمارەی"},{"surface":"ההרוגים","gloss":"کوژراوان"},{"surface":"בשושן","gloss":"لە شوشن"},{"surface":"הבירה","gloss":"قەڵاکە"},{"surface":"לפני","gloss":"پێش"},{"surface":"המלך","gloss":"مەلەک"}],"timestamp":"2026-09-24T15:00:55.182379167Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "لەو ڕۆژەدا ژمارەی کوژراوان لە شوشنی قەڵاکە هاتە پێش مەلەک",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژەکەدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هاتە"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژمارەی"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "کوژراوان"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "لە شوشن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قەڵاکە"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پێش"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "مەلەک"
+    }
+  ],
+  "timestamp": "2026-09-24T15:00:55.182379167Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":23,"ref":"ezekiel 47:23","book":"ezekiel","lang":"ckb","chapter":47,"translation":"و دەبێت، لەو هۆزەی میوانەکە لەگەڵی ⟨את⟩ دەمێنێتەوە، لەوێ میراتەکەی پێ دەدەن — ڕاگەیاندنی ئادۆنای یاهوە.","tokens":[{"surface":"והיה","gloss":"و دەبێت"},{"surface":"בשבט","gloss":"لە هۆزەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"גר","gloss":"دەمێنێتەوە"},{"surface":"הגר","gloss":"میوانەکە"},{"surface":"אתו","gloss":"⟨את⟩ ئەو"},{"surface":"שם","gloss":"لەوێ"},{"surface":"תתנו","gloss":"پێ دەدەن"},{"surface":"נחלתו","gloss":"میراتەکەی"},{"surface":"נאם","gloss":"ڕاگەیاندن"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T13:25:47.212210585Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 47:23",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 47,
+  "translation": "و دەبێت، لەو هۆزەی میوانەکە لەگەڵی ⟨את⟩ دەمێنێتەوە، لەوێ میراتەکەی پێ دەدەن — ڕاگەیاندنی ئادۆنای یاهوە.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "لە هۆزەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "גר",
+      "gloss": "دەمێنێتەوە"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "میوانەکە"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "پێ دەدەن"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراتەکەی"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ڕاگەیاندن"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:25:47.212210585Z",
+  "model": "glm-5.3"
+}

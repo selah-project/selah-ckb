@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":1,"ref":"isaiah 16:1","book":"isaiah","lang":"ckb","chapter":16,"translation":"بنێرن قوچی فەرمانڕەوای زەوی، لە سێلا بەرەو بیابان، بۆ چیای کچی سیۆن.","tokens":[{"surface":"שלחו","gloss":"بنێرن"},{"surface":"כר","gloss":"قوچ"},{"surface":"משל","gloss":"فەرمانڕەوای"},{"surface":"ארץ","gloss":"زەوی"},{"surface":"מסלע","gloss":"سێلا"},{"surface":"מדברה","gloss":"بەرەو بیابان"},{"surface":"אל","gloss":"بۆ"},{"surface":"הר","gloss":"چیای"},{"surface":"בת","gloss":"کچی"},{"surface":"ציון","gloss":"سیۆن"}],"timestamp":"2026-09-24T12:19:16.078614510Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "بنێرن قوچی فەرمانڕەوای زەوی، لە سێلا بەرەو بیابان، بۆ چیای کچی سیۆن.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "بنێرن"
+    },
+    {
+      "surface": "כר",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "فەرمانڕەوای"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "سێلا"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "بەرەو بیابان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "چیای"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سیۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:19:16.078614510Z",
+  "model": "glm-5.3"
+}

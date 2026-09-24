@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":28,"ref":"genesis 41:28","book":"genesis","lang":"ckb","chapter":41,"translation":"ئەوە قسەکەیە کە وتوومە بۆ پەرعۆ: ئەوەی ئێلۆهیم دەیکات، ⟨את⟩ بە پەرعۆ نیشانی داوە.","tokens":[{"surface":"הוא","gloss":"ئەوە"},{"surface":"הדבר","gloss":"قسەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"דברתי","gloss":"وتوومە"},{"surface":"אל","gloss":"بۆ"},{"surface":"פרעה","gloss":"پەرعۆ"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"האלהים","gloss":"ئێلۆهیم"},{"surface":"עשה","gloss":"دەیکات"},{"surface":"הראה","gloss":"نیشانی داوە"},{"surface":"את","gloss":"⟨את⟩","marks":"پەرعۆ"},{"surface":"פרעה","gloss":"پەرعۆ"}],"timestamp":"2026-09-24T09:30:19.428646611Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "ئەوە قسەکەیە کە وتوومە بۆ پەرعۆ: ئەوەی ئێلۆهیم دەیکات، ⟨את⟩ بە پەرعۆ نیشانی داوە.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "وتوومە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرعۆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دەیکات"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "نیشانی داوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەرعۆ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرعۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:30:19.428646611Z",
+  "model": "glm-5.3"
+}

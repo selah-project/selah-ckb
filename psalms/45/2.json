@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 45:2","book":"psalms","lang":"ckb","chapter":45,"translation":"دڵم شتێکی چاک ڕشتووە؛ دەڵێم: کارەکانم بۆ پادشایەن؛ زمانم قەڵەمی نووسەرێکی خێرایە","tokens":[{"surface":"רחש","gloss":"ڕشتووە"},{"surface":"לבי","gloss":"دڵم"},{"surface":"דבר","gloss":"شتێکی"},{"surface":"טוב","gloss":"چاک"},{"surface":"אמר","gloss":"دەڵێم"},{"surface":"אני","gloss":"من"},{"surface":"מעשי","gloss":"کارەکانم"},{"surface":"למלך","gloss":"بۆ پادشایەن"},{"surface":"לשוני","gloss":"زمانم"},{"surface":"עט","gloss":"قەڵەمی"},{"surface":"סופר","gloss":"نووسەرێکی"},{"surface":"מהיר","gloss":"خێرا"}],"timestamp":"2026-09-24T13:58:17.054243125Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "دڵم شتێکی چاک ڕشتووە؛ دەڵێم: کارەکانم بۆ پادشایەن؛ زمانم قەڵەمی نووسەرێکی خێرایە",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ڕشتووە"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شتێکی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "دەڵێم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کارەکانم"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بۆ پادشایەن"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "زمانم"
+    },
+    {
+      "surface": "עט",
+      "gloss": "قەڵەمی"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "نووسەرێکی"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "خێرا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:17.054243125Z",
+  "model": "glm-5.3"
+}

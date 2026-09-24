@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":14,"ref":"genesis 31:14","book":"genesis","lang":"ckb","chapter":31,"translation":"ڕاخێڵ و لێئا وەڵامیان دایەوە و بەیان وت: ئایا ئیتر بەش و میراتمان هەیە لە ماڵی باوکمان؟","tokens":[{"surface":"ותען","gloss":"وەڵامیان دایەوە"},{"surface":"רחל","gloss":"ڕاخێڵ"},{"surface":"ולאה","gloss":"و لێئا"},{"surface":"ותאמרנה","gloss":"و بەیان وت"},{"surface":"לו","gloss":"بۆی"},{"surface":"העוד","gloss":"ئایا ئیتر"},{"surface":"לנו","gloss":"بۆمان"},{"surface":"חלק","gloss":"بەش"},{"surface":"ונחלה","gloss":"و میرات"},{"surface":"בבית","gloss":"لە ماڵ"},{"surface":"אבינו","gloss":"باوکمان"}],"timestamp":"2026-09-24T09:25:56.681207452Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 31:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "ڕاخێڵ و لێئا وەڵامیان دایەوە و بەیان وت: ئایا ئیتر بەش و میراتمان هەیە لە ماڵی باوکمان؟",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "وەڵامیان دایەوە"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ڕاخێڵ"
+    },
+    {
+      "surface": "ולאה",
+      "gloss": "و لێئا"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "و بەیان وت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ئایا ئیتر"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆمان"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "بەش"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "و میرات"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە ماڵ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "باوکمان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:56.681207452Z",
+  "model": "glm-5.3"
+}

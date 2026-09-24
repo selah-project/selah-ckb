@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":24,"ref":"leviticus 11:24","book":"leviticus","lang":"ckb","chapter":11,"translation":"و بەمەکان پیس دەبن: هەر کەس دەستی لە تەرمەکانیان دەکەوێت پیس دەبێت هەتا ئێوارە.","tokens":[{"surface":"ולאלה","gloss":"و بەمەکان"},{"surface":"תטמאו","gloss":"پیس دەبن"},{"surface":"כל","gloss":"هەر کەس"},{"surface":"הנגע","gloss":"دەستی دەکەوێت"},{"surface":"בנבלתם","gloss":"لە تەرمەکانیان"},{"surface":"יטמא","gloss":"پیس دەبێت"},{"surface":"עד","gloss":"هەتا"},{"surface":"הערב","gloss":"ئێوارە"}],"timestamp":"2026-09-24T10:01:25.369038601Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و بەمەکان پیس دەبن: هەر کەس دەستی لە تەرمەکانیان دەکەوێت پیس دەبێت هەتا ئێوارە.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "و بەمەکان"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "پیس دەبن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەر کەس"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "دەستی دەکەوێت"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "لە تەرمەکانیان"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "پیس دەبێت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ئێوارە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:25.369038601Z",
+  "model": "glm-5.3"
+}

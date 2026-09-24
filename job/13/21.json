@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":21,"ref":"job 13:21","book":"job","lang":"ckb","chapter":13,"translation":"دەستەت لە من بە دووری هەڵبگرە و ترسەت مەترساندنی.","tokens":[{"surface":"כפך","gloss":"دەستەت"},{"surface":"מעלי","gloss":"لە من"},{"surface":"הרחק","gloss":"بە دووری هەڵبگرە"},{"surface":"ואמתך","gloss":"و ترسەت"},{"surface":"אל","gloss":"مە"},{"surface":"תבעתני","gloss":"ترساندنی"}],"timestamp":"2026-09-24T14:37:00.578692585Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 13:21",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "دەستەت لە من بە دووری هەڵبگرە و ترسەت مەترساندنی.",
+  "tokens": [
+    {
+      "surface": "כפך",
+      "gloss": "دەستەت"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "بە دووری هەڵبگرە"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "و ترسەت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תבעתני",
+      "gloss": "ترساندنی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:00.578692585Z",
+  "model": "glm-5.3"
+}

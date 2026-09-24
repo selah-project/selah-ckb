@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":34,"ref":"jeremiah 52:34","book":"jeremiah","lang":"ckb","chapter":52,"translation":"و بەخشڕۆژەکەی، بەخشڕۆژی هەمیشەی، لە مەلیکی بابل ⟨מאת⟩ پێی دەدرا، بەشی ڕۆژ بە ڕۆژێک، هەتا ڕۆژی مردنی، هەموو ڕۆژانی ژیانی.","tokens":[{"surface":"וארחתו","gloss":"و بەخشڕۆژەکەی"},{"surface":"ארחת","gloss":"بەخشڕۆژی"},{"surface":"תמיד","gloss":"هەمیشەی"},{"surface":"נתנה","gloss":"پێی دەدرا"},{"surface":"לו","gloss":"پێی"},{"surface":"מאת","gloss":"⟨מאת⟩","marks":"مەلیکی بابل"},{"surface":"מלך","gloss":"مەلیکی"},{"surface":"בבל","gloss":"بابل"},{"surface":"דבר","gloss":"بەشی"},{"surface":"יום","gloss":"ڕۆژ"},{"surface":"ביומו","gloss":"بە ڕۆژێک"},{"surface":"עד","gloss":"هەتا"},{"surface":"יום","gloss":"ڕۆژی"},{"surface":"מותו","gloss":"مردنی"},{"surface":"כל","gloss":"هەموو"},{"surface":"ימי","gloss":"ڕۆژانی"},{"surface":"חייו","gloss":"ژیانی"}],"timestamp":"2026-09-24T13:02:33.076259767Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 52:34",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 52,
+  "translation": "و بەخشڕۆژەکەی، بەخشڕۆژی هەمیشەی، لە مەلیکی بابل ⟨מאת⟩ پێی دەدرا، بەشی ڕۆژ بە ڕۆژێک، هەتا ڕۆژی مردنی، هەموو ڕۆژانی ژیانی.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "و بەخشڕۆژەکەی"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "بەخشڕۆژی"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "هەمیشەی"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "پێی دەدرا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩",
+      "marks": "مەلیکی بابل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مەلیکی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بەشی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "بە ڕۆژێک"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژی"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "مردنی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ژیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:02:33.076259767Z",
+  "model": "glm-5.3"
+}

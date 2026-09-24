@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":31,"ref":"ezekiel 34:31","book":"ezekiel","lang":"ckb","chapter":34,"translation":"و ئێوە مەڕەکانی منن مەڕی ڕەوەڵگەم ئێوە مرۆڤن من ئێلۆهیمتانم ئەمەی فەرموو ئادۆنای یاهوە","tokens":[{"surface":"ואתן","gloss":"و ئێوە"},{"surface":"צאני","gloss":"مەڕەکانی من"},{"surface":"צאן","gloss":"مەڕی"},{"surface":"מרעיתי","gloss":"ڕەوەڵگەم"},{"surface":"אדם","gloss":"مرۆڤ"},{"surface":"אתם","gloss":"ئێوە"},{"surface":"אני","gloss":"من"},{"surface":"אלהיכם","gloss":"ئێلۆهیمتان"},{"surface":"נאם","gloss":"ئەمەی فەرموو"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T13:18:51.366245380Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 34:31",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و ئێوە مەڕەکانی منن مەڕی ڕەوەڵگەم ئێوە مرۆڤن من ئێلۆهیمتانم ئەمەی فەرموو ئادۆنای یاهوە",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "و ئێوە"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "مەڕەکانی من"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕی"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "ڕەوەڵگەم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ئێلۆهیمتان"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ئەمەی فەرموو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:51.366245380Z",
+  "model": "glm-5.3"
+}

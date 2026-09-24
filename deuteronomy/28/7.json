@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":7,"ref":"deuteronomy 28:7","book":"deuteronomy","lang":"ckb","chapter":28,"translation":"یاهوە ⟨את⟩ دوژمنەکانت کە لە دژی تۆ هەڵدەستن، لەبەردەمت دەشکێنێت؛ بە یەک ڕێگا دەردەکەونە پێشتەوە و بە حەوت ڕێگا لەبەردەمت هەڵدێن.","tokens":[{"surface":"יתן","gloss":"دەدات"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"את","gloss":"⟨את⟩","marks":"دوژمنەکانت"},{"surface":"איביך","gloss":"دوژمنەکانت"},{"surface":"הקמים","gloss":"هەڵدەستن"},{"surface":"עליך","gloss":"لە دژی تۆ"},{"surface":"נגפים","gloss":"شکستخواردوو"},{"surface":"לפניך","gloss":"لەبەردەمت"},{"surface":"בדרך","gloss":"بە ڕێگا"},{"surface":"אחד","gloss":"یەک"},{"surface":"יצאו","gloss":"دەردەکەون"},{"surface":"אליך","gloss":"بۆتەوە"},{"surface":"ובשבעה","gloss":"و بە حەوت"},{"surface":"דרכים","gloss":"ڕێگا"},{"surface":"ינוסו","gloss":"هەڵدێن"},{"surface":"לפניך","gloss":"لەبەردەمت"}],"timestamp":"2026-09-24T10:47:10.827969050Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "یاهوە ⟨את⟩ دوژمنەکانت کە لە دژی تۆ هەڵدەستن، لەبەردەمت دەشکێنێت؛ بە یەک ڕێگا دەردەکەونە پێشتەوە و بە حەوت ڕێگا لەبەردەمت هەڵدێن.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دوژمنەکانت"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "دوژمنەکانت"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "هەڵدەستن"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لە دژی تۆ"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "شکستخواردوو"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "لەبەردەمت"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "بە ڕێگا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "دەردەکەون"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆتەوە"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "و بە حەوت"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "هەڵدێن"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "لەبەردەمت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:47:10.827969050Z",
+  "model": "glm-5.3"
+}

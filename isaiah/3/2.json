@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":2,"ref":"isaiah 3:2","book":"isaiah","lang":"ckb","chapter":3,"translation":"دڵێر و پیاوی شەڕ، دادوەر و پێغەمبەر، پێشبین و پیر،","tokens":[{"surface":"גבור","gloss":"دڵێر"},{"surface":"ואיש","gloss":"و پیاو"},{"surface":"מלחמה","gloss":"شەڕ"},{"surface":"שופט","gloss":"دادوەر"},{"surface":"ונביא","gloss":"و پێغەمبەر"},{"surface":"וקסם","gloss":"و پێشبین"},{"surface":"וזקן","gloss":"و پیر"}],"timestamp":"2026-09-24T12:13:17.970611143Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "دڵێر و پیاوی شەڕ، دادوەر و پێغەمبەر، پێشبین و پیر،",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "دڵێر"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاو"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "دادوەر"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "و پێغەمبەر"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "و پێشبین"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "و پیر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:13:17.970611143Z",
+  "model": "glm-5.3"
+}

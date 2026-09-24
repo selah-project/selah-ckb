@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 53:1","book":"psalms","lang":"ckb","chapter":53,"translation":"بۆ نۆبەدار، لەسەر مەحەلەت، مەشکیلێکی داود.","tokens":[{"surface":"למנצח","gloss":"بۆ نۆبەدار"},{"surface":"על","gloss":"لەسەر"},{"surface":"מחלת","gloss":"مەحەلەت"},{"surface":"משכיל","gloss":"مەشکیل"},{"surface":"לדוד","gloss":"بۆ داود"}],"timestamp":"2026-09-24T13:59:31.267407751Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 53,
+  "translation": "بۆ نۆبەدار، لەسەر مەحەلەت، مەشکیلێکی داود.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ نۆبەدار"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "مەحەلەت"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مەشکیل"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:31.267407751Z",
+  "model": "glm-5.3"
+}

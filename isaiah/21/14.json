@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":14,"ref":"isaiah 21:14","book":"isaiah","lang":"ckb","chapter":21,"translation":"بۆ قەرەبکردنی تینوو ئاویان هێنا، دانیشتووانی زەوی تێما بە نانی خۆیان پێش کەوتن بۆ لای هەڵاتوو.","tokens":[{"surface":"לקראת","gloss":"بۆ قەرەبکردنی"},{"surface":"צמא","gloss":"تینوو"},{"surface":"התיו","gloss":"هێنا"},{"surface":"מים","gloss":"ئاو"},{"surface":"ישבי","gloss":"دانیشتووانی"},{"surface":"ארץ","gloss":"زەوی"},{"surface":"תימא","gloss":"تێما"},{"surface":"בלחמו","gloss":"بە نانی خۆیان"},{"surface":"קדמו","gloss":"پێش کەوتن"},{"surface":"נדד","gloss":"هەڵاتوو"}],"timestamp":"2026-09-24T12:18:22.366847571Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "بۆ قەرەبکردنی تینوو ئاویان هێنا، دانیشتووانی زەوی تێما بە نانی خۆیان پێش کەوتن بۆ لای هەڵاتوو.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "بۆ قەرەبکردنی"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "تینوو"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "تێما"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "بە نانی خۆیان"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "پێش کەوتن"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "هەڵاتوو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:18:22.366847571Z",
+  "model": "glm-5.3"
+}

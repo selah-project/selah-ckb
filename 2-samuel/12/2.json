@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-samuel 12:2","book":"2-samuel","lang":"ckb","chapter":12,"translation":"بۆ دەوڵەمەندەکە مەڕ و گاو بە زۆری زۆر بوون.","tokens":[{"surface":"לעשיר","gloss":"بۆ دەوڵەمەندەکە"},{"surface":"היה","gloss":"بوون"},{"surface":"צאן","gloss":"مەڕ"},{"surface":"ובקר","gloss":"و گاو"},{"surface":"הרבה","gloss":"بە زۆری"},{"surface":"מאד","gloss":"زۆر"}],"timestamp":"2026-09-24T11:37:00.800438148Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "بۆ دەوڵەمەندەکە مەڕ و گاو بە زۆری زۆر بوون.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "بۆ دەوڵەمەندەکە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "و گاو"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بە زۆری"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:37:00.800438148Z",
+  "model": "glm-5.3"
+}

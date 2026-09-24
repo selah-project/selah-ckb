@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":8,"ref":"joshua 17:8","book":"joshua","lang":"ckb","chapter":17,"translation":"زەوی تەپواح بۆ مەنەشە بوو، و تەپواح لەسەر سنووری مەنەشە بۆ کوڕەکانی ئێفرایم بوو.","tokens":[{"surface":"למנשה","gloss":"بۆ مەنەشە"},{"surface":"היתה","gloss":"بوو"},{"surface":"ארץ","gloss":"زەوی"},{"surface":"תפוח","gloss":"تەپواح"},{"surface":"ותפוח","gloss":"و تەپواح"},{"surface":"אל","gloss":"لەسەر"},{"surface":"גבול","gloss":"سنووری"},{"surface":"מנשה","gloss":"مەنەشە"},{"surface":"לבני","gloss":"بۆ کوڕەکانی"},{"surface":"אפרים","gloss":"ئێفرایم"}],"timestamp":"2026-09-24T10:59:29.241138109Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 17:8",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "زەوی تەپواح بۆ مەنەشە بوو، و تەپواح لەسەر سنووری مەنەشە بۆ کوڕەکانی ئێفرایم بوو.",
+  "tokens": [
+    {
+      "surface": "למנשה",
+      "gloss": "بۆ مەنەشە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تەپواح"
+    },
+    {
+      "surface": "ותפוח",
+      "gloss": "و تەپواح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەشە"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕەکانی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:29.241138109Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":15,"ref":"psalms 50:15","book":"psalms","lang":"ckb","chapter":50,"translation":"و لە ڕۆژی تەنگەسەدا بانگم بکە، ڕزگارت دەکەم و تۆ شەرەفم دەدەی.","tokens":[{"surface":"וקראני","gloss":"و بانگم بکە"},{"surface":"ביום","gloss":"لە ڕۆژی"},{"surface":"צרה","gloss":"تەنگەسەدا"},{"surface":"אחלצך","gloss":"ڕزگارت دەکەم"},{"surface":"ותכבדני","gloss":"و شەرەفم دەدەی"}],"timestamp":"2026-09-24T13:58:12.054784623Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "و لە ڕۆژی تەنگەسەدا بانگم بکە، ڕزگارت دەکەم و تۆ شەرەفم دەدەی.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "و بانگم بکە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تەنگەسەدا"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ڕزگارت دەکەم"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "و شەرەفم دەدەی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:58:12.054784623Z",
+  "model": "glm-5.3"
+}

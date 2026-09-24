@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":25,"ref":"exodus 4:25","book":"exodus","lang":"ckb","chapter":4,"translation":"ئینجا سیپۆرە تاشەیەکی سوور وەرگرت و ⟨את⟩ پێستی کوڕەکەی بڕی و پێی لە پێیەکانیدا نا و وت: چونکە زاوای خوێنەکان تۆی بۆ من.","tokens":[{"surface":"ותקח","gloss":"وەرگرت"},{"surface":"צפרה","gloss":"سیپۆرە ⟨سیپۆرا⟩"},{"surface":"צר","gloss":"تاشەی سوور"},{"surface":"ותכרת","gloss":"و بڕی"},{"surface":"את","gloss":"⟨את⟩","marks":"پێستی کوڕەکەی"},{"surface":"ערלת","gloss":"پێستی"},{"surface":"בנה","gloss":"کوڕەکەی"},{"surface":"ותגע","gloss":"و پێی نا"},{"surface":"לרגליו","gloss":"لە پێیەکانیدا"},{"surface":"ותאמר","gloss":"و وت"},{"surface":"כי","gloss":"چونکە"},{"surface":"חתן","gloss":"زاوای"},{"surface":"דמים","gloss":"خوێنەکان"},{"surface":"אתה","gloss":"تۆ"},{"surface":"לי","gloss":"بۆ من"}],"timestamp":"2026-09-24T09:38:21.617226766Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ئینجا سیپۆرە تاشەیەکی سوور وەرگرت و ⟨את⟩ پێستی کوڕەکەی بڕی و پێی لە پێیەکانیدا نا و وت: چونکە زاوای خوێنەکان تۆی بۆ من.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "وەرگرت"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "سیپۆرە ⟨سیپۆرا⟩"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تاشەی سوور"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "و بڕی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پێستی کوڕەکەی"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "پێستی"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "و پێی نا"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "لە پێیەکانیدا"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "زاوای"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خوێنەکان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:38:21.617226766Z",
+  "model": "glm-5.3"
+}

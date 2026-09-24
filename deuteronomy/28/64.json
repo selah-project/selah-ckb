@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":64,"ref":"deuteronomy 28:64","book":"deuteronomy","lang":"ckb","chapter":28,"translation":"و یاهوە بڵاوت دەکاتەوە لەناو هەموو گەلەکاندا، لە کۆتایی زەویەوە هەتا کۆتایی زەوی، و لەوێ خزمەتی خوداکانی دیکە دەکەیت کە تۆ و باوکتانت نەیانناسیوە، دار و بەرد.","tokens":[{"surface":"והפיצך","gloss":"و بڵاوت دەکاتەوە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"בכל","gloss":"لەناو هەموو"},{"surface":"העמים","gloss":"گەلەکاندا"},{"surface":"מקצה","gloss":"لە کۆتایی"},{"surface":"הארץ","gloss":"زەویەوە"},{"surface":"ועד","gloss":"و هەتا"},{"surface":"קצה","gloss":"کۆتایی"},{"surface":"הארץ","gloss":"زەوی"},{"surface":"ועבדת","gloss":"و خزمەت دەکەیت"},{"surface":"שם","gloss":"لەوێ"},{"surface":"אלהים","gloss":"خوداکانی"},{"surface":"אחרים","gloss":"دیکە"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"ידעת","gloss":"ناسیوە"},{"surface":"אתה","gloss":"تۆ"},{"surface":"ואבתיך","gloss":"و باوکتانت"},{"surface":"עץ","gloss":"دار"},{"surface":"ואבן","gloss":"و بەرد"}],"timestamp":"2026-09-24T10:48:49.535727110Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "deuteronomy 28:64",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و یاهوە بڵاوت دەکاتەوە لەناو هەموو گەلەکاندا، لە کۆتایی زەویەوە هەتا کۆتایی زەوی، و لەوێ خزمەتی خوداکانی دیکە دەکەیت کە تۆ و باوکتانت نەیانناسیوە، دار و بەرد.",
+  "tokens": [
+    {
+      "surface": "והפיצך",
+      "gloss": "و بڵاوت دەکاتەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لەناو هەموو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلەکاندا"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و هەتا"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "کۆتایی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "و خزمەت دەکەیت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خوداکانی"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ناسیوە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "و باوکتانت"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "و بەرد"
+    }
+  ],
+  "timestamp": "2026-09-24T10:48:49.535727110Z",
+  "model": "glm-5.3"
+}

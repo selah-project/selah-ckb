@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":12,"ref":"ezekiel 13:12","book":"ezekiel","lang":"ckb","chapter":13,"translation":"و ئەوەتا دیوارەکە ڕووخا؛ ئایا نا دەگوترێت بۆ ئێوە: کوێیە ئەو گەچەی پۆشتنتان؟","tokens":[{"surface":"והנה","gloss":"و ئەوەتا"},{"surface":"נפל","gloss":"ڕووخا"},{"surface":"הקיר","gloss":"دیوارەکە"},{"surface":"הלוא","gloss":"ئایا نا"},{"surface":"יאמר","gloss":"دەگوترێت"},{"surface":"אליכם","gloss":"بۆ ئێوە"},{"surface":"איה","gloss":"کوێیە"},{"surface":"הטיח","gloss":"گەچەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"טחתם","gloss":"پۆشتنتان"}],"timestamp":"2026-09-24T13:08:38.528860205Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئەوەتا دیوارەکە ڕووخا؛ ئایا نا دەگوترێت بۆ ئێوە: کوێیە ئەو گەچەی پۆشتنتان؟",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ڕووخا"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوارەکە"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ئایا نا"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "دەگوترێت"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کوێیە"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "گەچەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "پۆشتنتان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:08:38.528860205Z",
+  "model": "glm-5.3"
+}

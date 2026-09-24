@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":161,"ref":"psalms 119:161","book":"psalms","lang":"ckb","chapter":119,"translation":"سەرکردەکان ڕاویانکردم بێ هۆکار، بەڵام دڵم لەبەر وشەکانت دەلەرزێت.","tokens":[{"surface":"שרים","gloss":"سەرکردەکان"},{"surface":"רדפוני","gloss":"ڕاویانکردم"},{"surface":"חנם","gloss":"بێ هۆکار"},{"surface":"ומדבריך","gloss":"بەڵام لەبەر وشەکانت"},{"surface":"פחד","gloss":"دەلەرزێت"},{"surface":"לבי","gloss":"دڵم"}],"timestamp":"2026-09-24T14:16:24.284809677Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "سەرکردەکان ڕاویانکردم بێ هۆکار، بەڵام دڵم لەبەر وشەکانت دەلەرزێت.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "سەرکردەکان"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "ڕاویانکردم"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بێ هۆکار"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "بەڵام لەبەر وشەکانت"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "دەلەرزێت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:24.284809677Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":28,"ref":"ezekiel 32:28","book":"ezekiel","lang":"ckb","chapter":32,"translation":"و تۆ لە ناوەڕاستی بێسوونەکان دەشکێیت و لەگەڵ ⟨את⟩ کوژراوانی شمشێر دەخەویت.","tokens":[{"surface":"ואתה","gloss":"و تۆ"},{"surface":"בתוך","gloss":"لە ناوەڕاستی"},{"surface":"ערלים","gloss":"بێسوونەکان"},{"surface":"תשבר","gloss":"دەشکێیت"},{"surface":"ותשכב","gloss":"و دەخەویت"},{"surface":"את","gloss":"⟨את⟩","marks":"کوژراوانی شمشێر"},{"surface":"חללי","gloss":"کوژراوانی"},{"surface":"חרב","gloss":"شمشێر"}],"timestamp":"2026-09-24T13:19:35.215993515Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 32:28",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و تۆ لە ناوەڕاستی بێسوونەکان دەشکێیت و لەگەڵ ⟨את⟩ کوژراوانی شمشێر دەخەویت.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "لە ناوەڕاستی"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "بێسوونەکان"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "دەشکێیت"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "و دەخەویت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوژراوانی شمشێر"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "کوژراوانی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:19:35.215993515Z",
+  "model": "glm-5.3"
+}

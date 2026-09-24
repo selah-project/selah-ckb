@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":24,"ref":"leviticus 19:24","book":"leviticus","lang":"ckb","chapter":19,"translation":"و لە ساڵی چوارەمدا هەموو میوەکەی پیرۆزی ستایش دەبێت بۆ یاهوە.","tokens":[{"surface":"ובשנה","gloss":"و لە ساڵ"},{"surface":"הרביעת","gloss":"چوارەم"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"כל","gloss":"هەموو"},{"surface":"פריו","gloss":"میوەکەی"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"הלולים","gloss":"ستایش"},{"surface":"ליהוה","gloss":"بۆ یاهوە"}],"timestamp":"2026-09-24T10:08:20.488943641Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و لە ساڵی چوارەمدا هەموو میوەکەی پیرۆزی ستایش دەبێت بۆ یاهوە.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "و لە ساڵ"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "چوارەم"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "میوەکەی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "ستایش"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:20.488943641Z",
+  "model": "glm-5.3"
+}

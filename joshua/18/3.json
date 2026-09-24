@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":3,"ref":"joshua 18:3","book":"joshua","lang":"ckb","chapter":18,"translation":"و یەهوشوا بە کوڕانی ییسڕائێل فەرموو تا کەی ئێوە سستن لە هاتن بۆ بەدەستهێنانی ⟨את⟩ زەویەکەی کە یاهوە ئێلۆهیمی باپیرانتان بە ئێوە داوە.","tokens":[{"surface":"ויאמר","gloss":"فەرموو"},{"surface":"יהושע","gloss":"یەهوشوا"},{"surface":"אל","gloss":"بە"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ییسڕائێل"},{"surface":"עד","gloss":"تا"},{"surface":"אנה","gloss":"کەی"},{"surface":"אתם","gloss":"ئێوە"},{"surface":"מתרפים","gloss":"سستن"},{"surface":"לבוא","gloss":"لە هاتن"},{"surface":"לרשת","gloss":"بۆ بەدەستهێنان"},{"surface":"את","gloss":"⟨את⟩","marks":"زەویەکە"},{"surface":"הארץ","gloss":"زەویەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"נתן","gloss":"داوە"},{"surface":"לכם","gloss":"بە ئێوە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהי","gloss":"ئێلۆهیمی"},{"surface":"אבותיכם","gloss":"باپیرانتان"}],"timestamp":"2026-09-24T10:59:59.263036763Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 18:3",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و یەهوشوا بە کوڕانی ییسڕائێل فەرموو تا کەی ئێوە سستن لە هاتن بۆ بەدەستهێنانی ⟨את⟩ زەویەکەی کە یاهوە ئێلۆهیمی باپیرانتان بە ئێوە داوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یەهوشوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسڕائێل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "מתרפים",
+      "gloss": "سستن"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "لە هاتن"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "بۆ بەدەستهێنان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "داوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بە ئێوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "باپیرانتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:59.263036763Z",
+  "model": "glm-5.3"
+}

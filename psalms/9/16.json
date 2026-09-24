@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":16,"ref":"psalms 9:16","book":"psalms","lang":"ckb","chapter":9,"translation":"گەلەکان نوقم بوون لە چاڵەکەی کە دروستیانکرد؛ لە تۆڕەکە کە شاردبوویانەتی پێیان گیراوە.","tokens":[{"surface":"טבעו","gloss":"نوقم بوون"},{"surface":"גוים","gloss":"گەلەکان"},{"surface":"בשחת","gloss":"لە چاڵ"},{"surface":"עשו","gloss":"دروستیانکرد"},{"surface":"ברשת","gloss":"لە تۆڕ"},{"surface":"זו","gloss":"ئەوە"},{"surface":"טמנו","gloss":"شاردبوویانەتی"},{"surface":"נלכדה","gloss":"گیراوە"},{"surface":"רגלם","gloss":"پێیان"}],"timestamp":"2026-09-24T13:50:13.004162689Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "گەلەکان نوقم بوون لە چاڵەکەی کە دروستیانکرد؛ لە تۆڕەکە کە شاردبوویانەتی پێیان گیراوە.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "نوقم بوون"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "لە چاڵ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "دروستیانکرد"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "لە تۆڕ"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "شاردبوویانەتی"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "گیراوە"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "پێیان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:13.004162689Z",
+  "model": "glm-5.3"
+}

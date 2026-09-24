@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":13,"ref":"isaiah 37:13","book":"isaiah","lang":"ckb","chapter":37,"translation":"لە کوێیە پادشاهی حەمات و پادشاهی ئەرپاد و پادشاهی شاری سەفەرڤایم، هێنا و عیڤە؟","tokens":[{"surface":"איה","gloss":"لە کوێیە"},{"surface":"מלך","gloss":"پادشاهی"},{"surface":"חמת","gloss":"حەمات"},{"surface":"ומלך","gloss":"و پادشاهی"},{"surface":"ארפד","gloss":"ئەرپاد"},{"surface":"ומלך","gloss":"و پادشاهی"},{"surface":"לעיר","gloss":"شاری"},{"surface":"ספרוים","gloss":"سەفەرڤایم"},{"surface":"הנע","gloss":"هێنا"},{"surface":"ועוה","gloss":"و عیڤە"}],"timestamp":"2026-09-24T12:25:23.527085217Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "لە کوێیە پادشاهی حەمات و پادشاهی ئەرپاد و پادشاهی شاری سەفەرڤایم، هێنا و عیڤە؟",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "لە کوێیە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشاهی"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حەمات"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و پادشاهی"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "ئەرپاد"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و پادشاهی"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "سەفەرڤایم"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "و عیڤە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:25:23.527085217Z",
+  "model": "glm-5.3"
+}

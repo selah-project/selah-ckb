@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 67:4","book":"psalms","lang":"ckb","chapter":67,"translation":"با گەلەکان سوپاست بکەن، ئەی ئێلۆهیم، با گەلەکان، هەموویان، سوپاست بکەن.","tokens":[{"surface":"יודוך","gloss":"با سوپاست بکەن"},{"surface":"עמים","gloss":"گەلەکان"},{"surface":"אלהים","gloss":"ئەی ئێلۆهیم"},{"surface":"יודוך","gloss":"با سوپاست بکەن"},{"surface":"עמים","gloss":"گەلەکان"},{"surface":"כלם","gloss":"هەموویان"}],"timestamp":"2026-09-24T14:01:36.480475019Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 67,
+  "translation": "با گەلەکان سوپاست بکەن، ئەی ئێلۆهیم، با گەلەکان، هەموویان، سوپاست بکەن.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "با سوپاست بکەن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئەی ئێلۆهیم"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "با سوپاست بکەن"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "هەموویان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:36.480475019Z",
+  "model": "glm-5.3"
+}

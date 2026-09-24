@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":10,"ref":"proverbs 3:10","book":"proverbs","lang":"ckb","chapter":3,"translation":"و کۆگاکانت لە فرەیی پڕ دەبن، و شەرابی تازە گەونەکانت دەتەقێنن.","tokens":[{"surface":"וימלאו","gloss":"و پڕ دەبن"},{"surface":"אסמיך","gloss":"کۆگاکانت"},{"surface":"שבע","gloss":"لە فرەیی"},{"surface":"ותירוש","gloss":"و شەرابی تازە"},{"surface":"יקביך","gloss":"گەونەکانت"},{"surface":"יפרצו","gloss":"دەتەقێنن"}],"timestamp":"2026-09-24T14:22:29.046006921Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و کۆگاکانت لە فرەیی پڕ دەبن، و شەرابی تازە گەونەکانت دەتەقێنن.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "و پڕ دەبن"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "کۆگاکانت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "لە فرەیی"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "و شەرابی تازە"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "گەونەکانت"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "دەتەقێنن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:29.046006921Z",
+  "model": "glm-5.3"
+}

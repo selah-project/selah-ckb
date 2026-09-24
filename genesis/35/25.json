@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":25,"ref":"genesis 35:25","book":"genesis","lang":"ckb","chapter":35,"translation":"و کوڕەکانی بیلها، کۆیلەی ڕاحێل، دان و نەفتالی بوون.","tokens":[{"surface":"ובני","gloss":"و کوڕەکانی"},{"surface":"בלהה","gloss":"بیلها"},{"surface":"שפחת","gloss":"کۆیلەی"},{"surface":"רחל","gloss":"ڕاحێل"},{"surface":"דן","gloss":"دان"},{"surface":"ונפתלי","gloss":"و نەفتالی"}],"timestamp":"2026-09-24T09:27:56.164126268Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و کوڕەکانی بیلها، کۆیلەی ڕاحێل، دان و نەفتالی بوون.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕەکانی"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بیلها"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "کۆیلەی"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ڕاحێل"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "و نەفتالی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:56.164126268Z",
+  "model": "glm-5.3"
+}

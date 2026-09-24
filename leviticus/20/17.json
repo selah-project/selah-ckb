@@ -1,1 +1,128 @@
-{"tier":"glm-5.2","verse":17,"ref":"leviticus 20:17","book":"leviticus","lang":"ckb","chapter":20,"translation":"و پیاوێک کە خوشکەی ⟨את⟩ بگرێت، کچی باوکی یان کچی دایکی، و ڕووتیی ⟨את⟩ ببینێت و ئەو ڕووتیی ⟨את⟩ ببینێت، حەسەدە و لەبەر چاوی کوڕانی گەلەکەیان دەبڕدرێن؛ ڕووتی خوشکەی ئاشکرا کرد، گوناهی خۆی هەڵدەگرێت.","tokens":[{"surface":"ואיש","gloss":"و پیاوێک"},{"surface":"אשר","gloss":"کە"},{"surface":"יקח","gloss":"بگرێت"},{"surface":"את","gloss":"⟨את⟩","marks":"خوشکەی"},{"surface":"אחתו","gloss":"خوشکەی"},{"surface":"בת","gloss":"کچی"},{"surface":"אביו","gloss":"باوکی"},{"surface":"או","gloss":"یان"},{"surface":"בת","gloss":"کچی"},{"surface":"אמו","gloss":"دایکی"},{"surface":"וראה","gloss":"و ببینێت"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕووتیی"},{"surface":"ערותה","gloss":"ڕووتی"},{"surface":"והיא","gloss":"و ئەو"},{"surface":"תראה","gloss":"دەبینێت"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕووتیی"},{"surface":"ערותו","gloss":"ڕووتی"},{"surface":"חסד","gloss":"حەسەد"},{"surface":"הוא","gloss":"ئەوە"},{"surface":"ונכרתו","gloss":"و دەبڕدرێن"},{"surface":"לעיני","gloss":"لەبەر چاوی"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"עמם","gloss":"گەلەکەیان"},{"surface":"ערות","gloss":"ڕووتی"},{"surface":"אחתו","gloss":"خوشکەی"},{"surface":"גלה","gloss":"ئاشکرا کرد"},{"surface":"עונו","gloss":"گوناهی"},{"surface":"ישא","gloss":"هەڵدەگرێت"}],"timestamp":"2026-09-24T17:40:22.236391084Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 20:17",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و پیاوێک کە خوشکەی ⟨את⟩ بگرێت، کچی باوکی یان کچی دایکی، و ڕووتیی ⟨את⟩ ببینێت و ئەو ڕووتیی ⟨את⟩ ببینێت، حەسەدە و لەبەر چاوی کوڕانی گەلەکەیان دەبڕدرێن؛ ڕووتی خوشکەی ئاشکرا کرد، گوناهی خۆی هەڵدەگرێت.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "بگرێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوشکەی"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "خوشکەی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "و ببینێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووتیی"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ڕووتی"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "دەبینێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووتیی"
+    },
+    {
+      "surface": "ערותו",
+      "gloss": "ڕووتی"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "و دەبڕدرێن"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "لەبەر چاوی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "گەلەکەیان"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ڕووتی"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "خوشکەی"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ئاشکرا کرد"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "گوناهی"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "هەڵدەگرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T17:40:22.236391084Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":8,"ref":"proverbs 25:8","book":"proverbs","lang":"ckb","chapter":25,"translation":"بە پەلە مەڕۆ بۆ کێشە، نەک لە کۆتایییدا نەزانی چی بکەیت، کاتێک هاوڕێیت شەرمەزاری دەکات ⟨את⟩ تۆ.","tokens":[{"surface":"אל","gloss":"مە-"},{"surface":"תצא","gloss":"مەڕۆ"},{"surface":"לרב","gloss":"بۆ کێشە"},{"surface":"מהר","gloss":"بە پەلە"},{"surface":"פן","gloss":"نەک"},{"surface":"מה","gloss":"چی"},{"surface":"תעשה","gloss":"بکەیت"},{"surface":"באחריתה","gloss":"لە کۆتایییدا"},{"surface":"בהכלים","gloss":"شەرمەزاری دەکات"},{"surface":"אתך","gloss":"⟨את⟩ تۆ","marks":"هاوڕێیت"},{"surface":"רעך","gloss":"هاوڕێیت"}],"timestamp":"2026-09-24T14:30:34.510604615Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "بە پەلە مەڕۆ بۆ کێشە، نەک لە کۆتایییدا نەزانی چی بکەیت، کاتێک هاوڕێیت شەرمەزاری دەکات ⟨את⟩ تۆ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "مەڕۆ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بۆ کێشە"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "بە پەلە"
+    },
+    {
+      "surface": "פן",
+      "gloss": "نەک"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بکەیت"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "لە کۆتایییدا"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "شەرمەزاری دەکات"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تۆ",
+      "marks": "هاوڕێیت"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "هاوڕێیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:34.510604615Z",
+  "model": "glm-5.3"
+}

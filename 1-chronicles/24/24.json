@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":24,"ref":"1-chronicles 24:24","book":"1-chronicles","lang":"ckb","chapter":24,"translation":"کوڕانی عوزیێل: میخا؛ بۆ کوڕانی میخا: شامور.","tokens":[{"surface":"בני","gloss":"کوڕانی"},{"surface":"עזיאל","gloss":"عوزیێل"},{"surface":"מיכה","gloss":"میخا"},{"surface":"לבני","gloss":"بۆ کوڕانی"},{"surface":"מיכה","gloss":"میخا"},{"surface":"שמור","gloss":"شامور"}],"timestamp":"2026-09-24T15:29:38.729177430Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "کوڕانی عوزیێل: میخا؛ بۆ کوڕانی میخا: شامور.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عوزیێل"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "شامور"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:38.729177430Z",
+  "model": "glm-5.3"
+}

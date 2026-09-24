@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-chronicles 12:7","book":"1-chronicles","lang":"ckb","chapter":12,"translation":"ئێلقانا و ییشییاهو و عەزارئێل و یۆعەزەر و یاشابعام قورحییەکان","tokens":[{"surface":"אלקנה","gloss":"ئێلقانا"},{"surface":"וישיהו","gloss":"و ییشییاهو"},{"surface":"ועזראל","gloss":"و عەزارئێل"},{"surface":"ויועזר","gloss":"و یۆعەزەر"},{"surface":"וישבעם","gloss":"و یاشابعام"},{"surface":"הקרחים","gloss":"قورحییەکان"}],"timestamp":"2026-09-24T15:24:52.929723057Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 12:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "ئێلقانا و ییشییاهو و عەزارئێل و یۆعەزەر و یاشابعام قورحییەکان",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ئێلقانا"
+    },
+    {
+      "surface": "וישיהו",
+      "gloss": "و ییشییاهو"
+    },
+    {
+      "surface": "ועזראל",
+      "gloss": "و عەزارئێل"
+    },
+    {
+      "surface": "ויועזר",
+      "gloss": "و یۆعەزەر"
+    },
+    {
+      "surface": "וישבעם",
+      "gloss": "و یاشابعام"
+    },
+    {
+      "surface": "הקרחים",
+      "gloss": "قورحییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:52.929723057Z",
+  "model": "glm-5.3"
+}

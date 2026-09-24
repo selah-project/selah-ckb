@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":15,"ref":"psalms 17:15","book":"psalms","lang":"ckb","chapter":17,"translation":"من بە دادپەروەری ڕووت دەبینم، لە خەبەرهاتندا لە شێوەت تێر دەبم.","tokens":[{"surface":"אני","gloss":"من"},{"surface":"בצדק","gloss":"بە دادپەروەری"},{"surface":"אחזה","gloss":"دەبینم"},{"surface":"פניך","gloss":"ڕووت"},{"surface":"אשבעה","gloss":"تێر دەبم"},{"surface":"בהקיץ","gloss":"لە خەبەرهاتندا"},{"surface":"תמונתך","gloss":"لە شێوەت"}],"timestamp":"2026-09-24T13:49:51.853000467Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "من بە دادپەروەری ڕووت دەبینم، لە خەبەرهاتندا لە شێوەت تێر دەبم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "بە دادپەروەری"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "دەبینم"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "تێر دەبم"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "لە خەبەرهاتندا"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "لە شێوەت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:51.853000467Z",
+  "model": "glm-5.3"
+}

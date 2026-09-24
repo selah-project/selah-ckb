@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":67,"ref":"genesis 24:67","book":"genesis","lang":"ckb","chapter":24,"translation":"ییتسحاک ⟨ئەو⟩ی هێنا چادری سارا دایکی، و ڕیڤکای ⟨את⟩ هێنا و بوو بۆ ئەو بە ژن، و خۆشیویخواست، و ییتسحاک ئارام بوو لە دوای دایکی.","tokens":[{"surface":"ויבאה","gloss":"هێنا"},{"surface":"יצחק","gloss":"ییتسحاک"},{"surface":"האהלה","gloss":"چادرەکە"},{"surface":"שרה","gloss":"سارا"},{"surface":"אמו","gloss":"دایکی"},{"surface":"ויקח","gloss":"و هێنا"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕیڤکا"},{"surface":"רבקה","gloss":"ڕیڤکا"},{"surface":"ותהי","gloss":"و بوو"},{"surface":"לו","gloss":"بۆ ئەو"},{"surface":"לאשה","gloss":"بە ژن"},{"surface":"ויאהבה","gloss":"و خۆشیویخواست"},{"surface":"וינחם","gloss":"و ئارام بوو"},{"surface":"יצחק","gloss":"ییتسحاک"},{"surface":"אחרי","gloss":"لە دوای"},{"surface":"אמו","gloss":"دایکی"}],"timestamp":"2026-09-24T16:46:06.744882980Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "genesis 24:67",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "ییتسحاک ⟨ئەو⟩ی هێنا چادری سارا دایکی، و ڕیڤکای ⟨את⟩ هێنا و بوو بۆ ئەو بە ژن، و خۆشیویخواست، و ییتسحاک ئارام بوو لە دوای دایکی.",
+  "tokens": [
+    {
+      "surface": "ויבאה",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاک"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "چادرەکە"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "و هێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕیڤکا"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ڕیڤکا"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بە ژن"
+    },
+    {
+      "surface": "ויאהבה",
+      "gloss": "و خۆشیویخواست"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "و ئارام بوو"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاک"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:46:06.744882980Z",
+  "model": "glm-5.3"
+}

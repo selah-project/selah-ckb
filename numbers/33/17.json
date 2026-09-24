@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":17,"ref":"numbers 33:17","book":"numbers","lang":"ckb","chapter":33,"translation":"و لە کیڤرۆت هاتەئاڤە ⟨خشۆکەکان⟩ ڕۆیشتن و لە حەسێرۆت چادران هەڵکێشا.","tokens":[{"surface":"ויסעו","gloss":"ڕۆیشتن"},{"surface":"מקברת","gloss":"لە کیڤرۆت"},{"surface":"התאוה","gloss":"هاتەئاڤە"},{"surface":"ויחנו","gloss":"چادران هەڵکێشا"},{"surface":"בחצרת","gloss":"لە حەسێرۆت"}],"timestamp":"2026-09-24T10:31:38.993317945Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 33:17",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە کیڤرۆت هاتەئاڤە ⟨خشۆکەکان⟩ ڕۆیشتن و لە حەسێرۆت چادران هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "מקברת",
+      "gloss": "لە کیڤرۆت"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "هاتەئاڤە"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "چادران هەڵکێشا"
+    },
+    {
+      "surface": "בחצרת",
+      "gloss": "لە حەسێرۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:38.993317945Z",
+  "model": "glm-5.3"
+}

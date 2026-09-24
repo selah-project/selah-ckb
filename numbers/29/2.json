@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":2,"ref":"numbers 29:2","book":"numbers","lang":"ckb","chapter":29,"translation":"و قوربانیی سووتاندنێک بۆ بۆنی خۆش بۆ یاهوە دەکەن: گوێرەیەک کوڕی گا، یەک؛ قوچێک، یەک؛ حەوت بەرخی ساڵێک، بێ خەوش.","tokens":[{"surface":"ועשיתם","gloss":"و دەکەن"},{"surface":"עלה","gloss":"قوربانیی سووتاندن"},{"surface":"לריח","gloss":"بۆ بۆنی"},{"surface":"ניחח","gloss":"خۆش"},{"surface":"ליהוה","gloss":"بۆ یاهوە"},{"surface":"פר","gloss":"گوێرەیەک"},{"surface":"בן","gloss":"کوڕی"},{"surface":"בקר","gloss":"گا"},{"surface":"אחד","gloss":"یەک"},{"surface":"איל","gloss":"قوچێک"},{"surface":"אחד","gloss":"یەک"},{"surface":"כבשים","gloss":"بەرخ"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"שבעה","gloss":"حەوت"},{"surface":"תמימם","gloss":"بێ خەوش"}],"timestamp":"2026-09-24T10:29:13.645084763Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 29:2",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و قوربانیی سووتاندنێک بۆ بۆنی خۆش بۆ یاهوە دەکەن: گوێرەیەک کوڕی گا، یەک؛ قوچێک، یەک؛ حەوت بەرخی ساڵێک، بێ خەوش.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "و دەکەن"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "قوربانیی سووتاندن"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "بۆ بۆنی"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "خۆش"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "פר",
+      "gloss": "گوێرەیەک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بێ خەوش"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:13.645084763Z",
+  "model": "glm-5.3"
+}

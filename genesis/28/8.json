@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":8,"ref":"genesis 28:8","book":"genesis","lang":"ckb","chapter":28,"translation":"و عیساو بینی کە کچەکانی کەنان خراپن لە چاوی ییتسچاکی باوکیدا.","tokens":[{"surface":"וירא","gloss":"بینی"},{"surface":"עשו","gloss":"عیساو"},{"surface":"כי","gloss":"کە"},{"surface":"רעות","gloss":"خراپن"},{"surface":"בנות","gloss":"کچەکانی"},{"surface":"כנען","gloss":"کەنان"},{"surface":"בעיני","gloss":"لە چاوی"},{"surface":"יצחק","gloss":"ییتسچاک"},{"surface":"אביו","gloss":"باوکیدا"}],"timestamp":"2026-09-24T09:22:50.164976902Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و عیساو بینی کە کچەکانی کەنان خراپن لە چاوی ییتسچاکی باوکیدا.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "بینی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "خراپن"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچەکانی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کەنان"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسچاک"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:50.164976902Z",
+  "model": "glm-5.3"
+}

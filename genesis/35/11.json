@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":11,"ref":"genesis 35:11","book":"genesis","lang":"ckb","chapter":35,"translation":"و ئێلۆهیم پێی فەرموو: من ئێل شادایم، بەرهەمدار بە و زۆبکە، گەلێک و کۆمەڵێک گەلان لە تۆ دەبن، و پاشاکان لە کەمەکانت دەردەچن.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"לו","gloss":"پێی"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"אני","gloss":"من"},{"surface":"אל","gloss":"ئێل"},{"surface":"שדי","gloss":"شادای"},{"surface":"פרה","gloss":"بەرهەمدار بە"},{"surface":"ורבה","gloss":"و زۆبکە"},{"surface":"גוי","gloss":"گەلێک"},{"surface":"וקהל","gloss":"و کۆمەڵێک"},{"surface":"גוים","gloss":"گەلان"},{"surface":"יהיה","gloss":"دەبن"},{"surface":"ממך","gloss":"لە تۆ"},{"surface":"ומלכים","gloss":"و پاشاکان"},{"surface":"מחלציך","gloss":"لە کەمەکانت"},{"surface":"יצאו","gloss":"دەردەچن"}],"timestamp":"2026-09-24T09:27:26.915386698Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 35:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و ئێلۆهیم پێی فەرموو: من ئێل شادایم، بەرهەمدار بە و زۆبکە، گەلێک و کۆمەڵێک گەلان لە تۆ دەبن، و پاشاکان لە کەمەکانت دەردەچن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شادای"
+    },
+    {
+      "surface": "פרה",
+      "gloss": "بەرهەمدار بە"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "و زۆبکە"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "گەلێک"
+    },
+    {
+      "surface": "וקהל",
+      "gloss": "و کۆمەڵێک"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "و پاشاکان"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "لە کەمەکانت"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "دەردەچن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:26.915386698Z",
+  "model": "glm-5.3"
+}

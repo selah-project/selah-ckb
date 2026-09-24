@@ -1,1 +1,99 @@
-{"tier":"glm-5.2","verse":20,"ref":"1-kings 2:20","book":"1-kings","lang":"ckb","chapter":2,"translation":"«و وت: یەک داواکاریی بچووک ئەمن — داوا دەکەم ⟨את⟩ لە ⟨لەتۆ⟩ — مەگەڕێنەوە ⟨את⟩ ڕووم؛ و پاشا فەرمووی بۆ ئەو: داوابکە ئەی دایکم، چونکە ڕووت ⟨את⟩ ناگەڕێنمەوە.»","tokens":[{"surface":"ותאמר","gloss":"و وت"},{"surface":"שאלה","gloss":"داواکاریی"},{"surface":"אחת","gloss":"یەک"},{"surface":"קטנה","gloss":"بچووک"},{"surface":"אנכי","gloss":"ئەمن"},{"surface":"שאלת","gloss":"داوا دەکەم"},{"surface":"מאתך","gloss":"⟨את⟩ لە ⟨لەتۆ⟩"},{"surface":"אל","gloss":"مە"},{"surface":"תשב","gloss":"گەڕێنەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕووم"},{"surface":"פני","gloss":"ڕووم"},{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"לה","gloss":"بۆ ئەو"},{"surface":"המלך","gloss":"پاشا"},{"surface":"שאלי","gloss":"داوابکە"},{"surface":"אמי","gloss":"ئەی دایکم"},{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نا"},{"surface":"אשיב","gloss":"دەگەڕێنمەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕووت"},{"surface":"פניך","gloss":"ڕووت"}],"timestamp":"2026-09-24T16:28:52.136681150Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "«و وت: یەک داواکاریی بچووک ئەمن — داوا دەکەم ⟨את⟩ لە ⟨لەتۆ⟩ — مەگەڕێنەوە ⟨את⟩ ڕووم؛ و پاشا فەرمووی بۆ ئەو: داوابکە ئەی دایکم، چونکە ڕووت ⟨את⟩ ناگەڕێنمەوە.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "داواکاریی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "بچووک"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ئەمن"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "داوا دەکەم"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ لە ⟨لەتۆ⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "گەڕێنەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "داوابکە"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ئەی دایکم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "دەگەڕێنمەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووت"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:28:52.136681150Z",
+  "model": "glm-5.3"
+}

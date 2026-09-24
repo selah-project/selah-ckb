@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":10,"ref":"ezra 2:10","book":"ezra","lang":"ckb","chapter":2,"translation":"کوڕەکانی بانی، شەش سەد چل و دوو.","tokens":[{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"בני","gloss":"بانی"},{"surface":"שש","gloss":"شەش"},{"surface":"מאות","gloss":"سەد"},{"surface":"ארבעים","gloss":"چل"},{"surface":"ושנים","gloss":"و دوو"}],"timestamp":"2026-09-24T15:09:48.580040197Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی بانی، شەش سەد چل و دوو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:09:48.580040197Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":15,"ref":"genesis 39:15","book":"genesis","lang":"ckb","chapter":39,"translation":"و بوو کاتێک بیستی کە دەنگم بەرزکردەوە و قیژاندم، جلەکەی لە لام بەجێهێشت و ڕایکرد و چووە دەرەوە،","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"כשמעו","gloss":"کاتێک بیستی"},{"surface":"כי","gloss":"کە"},{"surface":"הרימתי","gloss":"بەرزکردەوە"},{"surface":"קולי","gloss":"دەنگم"},{"surface":"ואקרא","gloss":"و قیژاندم"},{"surface":"ויעזב","gloss":"و بەجێهێشت"},{"surface":"בגדו","gloss":"جلەکەی"},{"surface":"אצלי","gloss":"لە لام"},{"surface":"וינס","gloss":"و ڕایکرد"},{"surface":"ויצא","gloss":"و چوو"},{"surface":"החוצה","gloss":"دەرەوە"}],"timestamp":"2026-09-24T09:29:03.819342445Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 39:15",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و بوو کاتێک بیستی کە دەنگم بەرزکردەوە و قیژاندم، جلەکەی لە لام بەجێهێشت و ڕایکرد و چووە دەرەوە،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "כשמעו",
+      "gloss": "کاتێک بیستی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הרימתי",
+      "gloss": "بەرزکردەوە"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "دەنگم"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "و قیژاندم"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "و بەجێهێشت"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "جلەکەی"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "لە لام"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "و ڕایکرد"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "و چوو"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "دەرەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:03.819342445Z",
+  "model": "glm-5.3"
+}

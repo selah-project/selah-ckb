@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":44,"ref":"1-chronicles 1:44","book":"1-chronicles","lang":"ckb","chapter":1,"translation":"و بەلع مرد، و یۆڤاو کوڕی زێراخ لە بۆزرە لە جێی ئەو پادشایی کرد.","tokens":[{"surface":"וימת","gloss":"مرد"},{"surface":"בלע","gloss":"بەلع"},{"surface":"וימלך","gloss":"پادشایی کرد"},{"surface":"תחתיו","gloss":"لە جێی ئەو"},{"surface":"יובב","gloss":"یۆڤاو"},{"surface":"בן","gloss":"کوڕی"},{"surface":"זרח","gloss":"زێراخ"},{"surface":"מבצרה","gloss":"لە بۆزرە"}],"timestamp":"2026-09-24T15:20:45.213195220Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و بەلع مرد، و یۆڤاو کوڕی زێراخ لە بۆزرە لە جێی ئەو پادشایی کرد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بەلع"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "پادشایی کرد"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جێی ئەو"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یۆڤاو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زێراخ"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "لە بۆزرە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:45.213195220Z",
+  "model": "glm-5.3"
+}

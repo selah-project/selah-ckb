@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":26,"ref":"joshua 13:26","book":"joshua","lang":"ckb","chapter":13,"translation":"و لە حەشبۆنەوە تا ڕامەتی میتسپە، و بەتۆنیم؛ و لە مەحەنایمەوە تا سنووری لیدبیر،","tokens":[{"surface":"ומחשבון","gloss":"و لە حەشبۆنەوە"},{"surface":"עד","gloss":"تا"},{"surface":"רמת","gloss":"ڕامەتی"},{"surface":"המצפה","gloss":"میتسپە"},{"surface":"ובטנים","gloss":"و بەتۆنیم"},{"surface":"וממחנים","gloss":"و لە مەحەنایمەوە"},{"surface":"עד","gloss":"تا"},{"surface":"גבול","gloss":"سنووری"},{"surface":"לדבר","gloss":"لیدبیر"}],"timestamp":"2026-09-24T16:54:45.009832064Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 13:26",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و لە حەشبۆنەوە تا ڕامەتی میتسپە، و بەتۆنیم؛ و لە مەحەنایمەوە تا سنووری لیدبیر،",
+  "tokens": [
+    {
+      "surface": "ומחשבון",
+      "gloss": "و لە حەشبۆنەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ڕامەتی"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "میتسپە"
+    },
+    {
+      "surface": "ובטנים",
+      "gloss": "و بەتۆنیم"
+    },
+    {
+      "surface": "וממחנים",
+      "gloss": "و لە مەحەنایمەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "لیدبیر"
+    }
+  ],
+  "timestamp": "2026-09-24T16:54:45.009832064Z",
+  "model": "glm-5.3"
+}

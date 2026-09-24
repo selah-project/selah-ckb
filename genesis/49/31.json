@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":31,"ref":"genesis 49:31","book":"genesis","lang":"ckb","chapter":49,"translation":"لەوێ ئاڤراهامیان ⟨את⟩ ناشتەوە و ⟨את⟩ سارای هاوسەری، لەوێ ییتسحاقیان ⟨את⟩ ناشتەوە و ⟨את⟩ ڕیڤکای هاوسەری، و لەوێ من ⟨את⟩ لێیانە ناشتەوە.","tokens":[{"surface":"שמה","gloss":"لەوێ"},{"surface":"קברו","gloss":"ناشتەوەیان"},{"surface":"את","gloss":"⟨את⟩","marks":"ئاڤراهام"},{"surface":"אברהם","gloss":"ئاڤراهام"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"سارا"},{"surface":"שרה","gloss":"سارا"},{"surface":"אשתו","gloss":"هاوسەری"},{"surface":"שמה","gloss":"لەوێ"},{"surface":"קברו","gloss":"ناشتەوەیان"},{"surface":"את","gloss":"⟨את⟩","marks":"ییتسحاق"},{"surface":"יצחק","gloss":"ییتسحاق"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"ڕیڤکا"},{"surface":"רבקה","gloss":"ڕیڤکا"},{"surface":"אשתו","gloss":"هاوسەری"},{"surface":"ושמה","gloss":"و لەوێ"},{"surface":"קברתי","gloss":"ناشتەوەمەنەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"لێیا"},{"surface":"לאה","gloss":"لێیا"}],"timestamp":"2026-09-24T16:48:27.535773738Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "لەوێ ئاڤراهامیان ⟨את⟩ ناشتەوە و ⟨את⟩ سارای هاوسەری، لەوێ ییتسحاقیان ⟨את⟩ ناشتەوە و ⟨את⟩ ڕیڤکای هاوسەری، و لەوێ من ⟨את⟩ لێیانە ناشتەوە.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ناشتەوەیان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاڤراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سارا"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "هاوسەری"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ناشتەوەیان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ییتسحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ڕیڤکا"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ڕیڤکا"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "هاوسەری"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و لەوێ"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "ناشتەوەمەنەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لێیا"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێیا"
+    }
+  ],
+  "timestamp": "2026-09-24T16:48:27.535773738Z",
+  "model": "glm-5.3"
+}

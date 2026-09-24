@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":5,"ref":"job 27:5","book":"job","lang":"ckb","chapter":27,"translation":"دوور بێت لە من ئەگەر ئێوە ⟨את⟩ راست بکەم تاوەکو دەمرم، بیگوناهیەکەم لام لادەنێم.","tokens":[{"surface":"חלילה","gloss":"دوور بێت"},{"surface":"לי","gloss":"لە من"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"אצדיק","gloss":"راست بکەم"},{"surface":"אתכם","gloss":"⟨את⟩ ئێوە","marks":"ئێوە"},{"surface":"עד","gloss":"تاوەکو"},{"surface":"אגוע","gloss":"دەمرم"},{"surface":"לא","gloss":"نا"},{"surface":"אסיר","gloss":"لادەدەم"},{"surface":"תמתי","gloss":"بیگوناهیەکەم"},{"surface":"ממני","gloss":"لام"}],"timestamp":"2026-09-24T14:41:40.677269545Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "دوور بێت لە من ئەگەر ئێوە ⟨את⟩ راست بکەم تاوەکو دەمرم، بیگوناهیەکەم لام لادەنێم.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "دوور بێت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "راست بکەم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": "ئێوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تاوەکو"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "دەمرم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "لادەدەم"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "بیگوناهیەکەم"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لام"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:40.677269545Z",
+  "model": "glm-5.3"
+}

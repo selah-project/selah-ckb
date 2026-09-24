@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":26,"ref":"nehemiah 3:26","book":"nehemiah","lang":"ckb","chapter":3,"translation":"و نەتینیم لە عۆفەل نیشتەجێ بوون، هەتا ⟨ شوێنەکەی ⟩ بەرامبەر دەروازەی ئاو بەرەو ڕۆژهەڵات و قوللەی دەرچوو.","tokens":[{"surface":"והנתינים","gloss":"و نەتینیم"},{"surface":"היו","gloss":"بوون"},{"surface":"ישבים","gloss":"نیشتەجێ"},{"surface":"בעפל","gloss":"لە عۆفەل"},{"surface":"עד","gloss":"هەتا"},{"surface":"נגד","gloss":"بەرامبەر"},{"surface":"שער","gloss":"دەروازەی"},{"surface":"המים","gloss":"ئاو"},{"surface":"למזרח","gloss":"بەرەو ڕۆژهەڵات"},{"surface":"והמגדל","gloss":"و قوللە"},{"surface":"היוצא","gloss":"دەرچوو"}],"timestamp":"2026-09-24T15:15:41.304053424Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 3:26",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و نەتینیم لە عۆفەل نیشتەجێ بوون، هەتا ⟨ شوێنەکەی ⟩ بەرامبەر دەروازەی ئاو بەرەو ڕۆژهەڵات و قوللەی دەرچوو.",
+  "tokens": [
+    {
+      "surface": "והנתינים",
+      "gloss": "و نەتینیم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "نیشتەجێ"
+    },
+    {
+      "surface": "בעפל",
+      "gloss": "لە عۆفەل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەروازەی"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "بەرەو ڕۆژهەڵات"
+    },
+    {
+      "surface": "והמגדל",
+      "gloss": "و قوللە"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "دەرچوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:15:41.304053424Z",
+  "model": "glm-5.3"
+}

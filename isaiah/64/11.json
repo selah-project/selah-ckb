@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":11,"ref":"isaiah 64:11","book":"isaiah","lang":"ckb","chapter":64,"translation":"لەسەر ئەمانەت ئایا خۆت ڕادەگریت، ئەی یاهوە؟ بێدەنگ دەبیت و ئێمە بە زۆر دەئازاریت؟","tokens":[{"surface":"העל","gloss":"لەسەر"},{"surface":"אלה","gloss":"ئەمانەت"},{"surface":"תתאפק","gloss":"خۆت ڕادەگریت"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"תחשה","gloss":"بێدەنگ دەبیت"},{"surface":"ותעננו","gloss":"و ئێمە دەئازاریت"},{"surface":"עד","gloss":"بە"},{"surface":"מאד","gloss":"زۆر"}],"timestamp":"2026-09-24T12:35:56.534192193Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 64,
+  "translation": "لەسەر ئەمانەت ئایا خۆت ڕادەگریت، ئەی یاهوە؟ بێدەنگ دەبیت و ئێمە بە زۆر دەئازاریت؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانەت"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "خۆت ڕادەگریت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "بێدەنگ دەبیت"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "و ئێمە دەئازاریت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:35:56.534192193Z",
+  "model": "glm-5.3"
+}

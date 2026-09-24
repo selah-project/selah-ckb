@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":3,"ref":"2-chronicles 24:3","book":"2-chronicles","lang":"ckb","chapter":24,"translation":"و یەهۆیاداع بۆی دوو ژنی هێنا، و کوڕ و کچی بوو.","tokens":[{"surface":"וישא","gloss":"و هێنا"},{"surface":"לו","gloss":"بۆی"},{"surface":"יהוידע","gloss":"یەهۆیاداع"},{"surface":"נשים","gloss":"ژنی"},{"surface":"שתים","gloss":"دوو"},{"surface":"ויולד","gloss":"و بوو بە خاوەنی"},{"surface":"בנים","gloss":"کوڕ"},{"surface":"ובנות","gloss":"و کچی"}],"timestamp":"2026-09-24T15:40:37.718604569Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و یەهۆیاداع بۆی دوو ژنی هێنا، و کوڕ و کچی بوو.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "و هێنا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یەهۆیاداع"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و بوو بە خاوەنی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:40:37.718604569Z",
+  "model": "glm-5.3"
+}

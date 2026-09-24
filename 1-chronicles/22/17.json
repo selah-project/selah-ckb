@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":17,"ref":"1-chronicles 22:17","book":"1-chronicles","lang":"ckb","chapter":22,"translation":"و داوەد فەرمانی بە هەموو سەرکردەکانی ئیسرائیل کرد کە یارمەتی شلۆمۆ کوڕی بدەن ⟨وتی⟩:","tokens":[{"surface":"ויצו","gloss":"و فەرمانی کرد"},{"surface":"דויד","gloss":"داوەد"},{"surface":"לכל","gloss":"بە هەموو"},{"surface":"שרי","gloss":"سەرکردەکانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"לעזר","gloss":"کە یارمەتی بدەن"},{"surface":"לשלמה","gloss":"شلۆمۆ"},{"surface":"בנו","gloss":"کوڕی"}],"timestamp":"2026-09-24T15:30:06.791992779Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و داوەد فەرمانی بە هەموو سەرکردەکانی ئیسرائیل کرد کە یارمەتی شلۆمۆ کوڕی بدەن ⟨وتی⟩:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "و فەرمانی کرد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوەد"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سەرکردەکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "کە یارمەتی بدەن"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:06.791992779Z",
+  "model": "glm-5.3"
+}

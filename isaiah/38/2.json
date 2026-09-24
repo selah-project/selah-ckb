@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":2,"ref":"isaiah 38:2","book":"isaiah","lang":"ckb","chapter":38,"translation":"و حیزقییاهوو ڕووی خۆی کردە لای دیوارەکە، و دوعا کرد بۆ یاهوە.","tokens":[{"surface":"ויסב","gloss":"و کردە لای"},{"surface":"חזקיהו","gloss":"حیزقییاهوو"},{"surface":"פניו","gloss":"ڕووی خۆی"},{"surface":"אל","gloss":"بۆ"},{"surface":"הקיר","gloss":"دیوارەکە"},{"surface":"ויתפלל","gloss":"و دوعا کرد"},{"surface":"אל","gloss":"بۆ"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T12:24:52.503535009Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و حیزقییاهوو ڕووی خۆی کردە لای دیوارەکە، و دوعا کرد بۆ یاهوە.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "و کردە لای"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حیزقییاهوو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووی خۆی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوارەکە"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "و دوعا کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:24:52.503535009Z",
+  "model": "glm-5.3"
+}

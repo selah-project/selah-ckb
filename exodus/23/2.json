@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":2,"ref":"exodus 23:2","book":"exodus","lang":"ckb","chapter":23,"translation":"لە دوای زۆرانەوە مەبە بۆ خراپی، و لەسەر ناکۆکی شایەتی مەدە بۆ لاربوون لە دوای زۆرانەوە بۆ لارکردنەوەی ⟨داد⟩.","tokens":[{"surface":"לא","gloss":"نەخێر"},{"surface":"תהיה","gloss":"مەبە"},{"surface":"אחרי","gloss":"لە دوای"},{"surface":"רבים","gloss":"زۆران"},{"surface":"לרעת","gloss":"بۆ خراپی"},{"surface":"ולא","gloss":"و نەخێر"},{"surface":"תענה","gloss":"وەڵام مەدە"},{"surface":"על","gloss":"لەسەر"},{"surface":"רב","gloss":"ناکۆکی"},{"surface":"לנטת","gloss":"بۆ لاربوون"},{"surface":"אחרי","gloss":"لە دوای"},{"surface":"רבים","gloss":"زۆران"},{"surface":"להטת","gloss":"بۆ لارکردنەوە"}],"timestamp":"2026-09-24T09:47:49.629051372Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "لە دوای زۆرانەوە مەبە بۆ خراپی، و لەسەر ناکۆکی شایەتی مەدە بۆ لاربوون لە دوای زۆرانەوە بۆ لارکردنەوەی ⟨داد⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "مەبە"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆران"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "بۆ خراپی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەخێر"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "وەڵام مەدە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ناکۆکی"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "بۆ لاربوون"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆران"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "بۆ لارکردنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:49.629051372Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":15,"ref":"2-samuel 16:15","book":"2-samuel","lang":"ckb","chapter":16,"translation":"ئاڤشالۆم و هەموو گەڵ، پیاوانی یسرائێل، هاتنە یەروشالایم، و ئەحیتۆفێل ⟨את⟩ لەگەڵی.","tokens":[{"surface":"ואבשלום","gloss":"و ئاڤشالۆم"},{"surface":"וכל","gloss":"و هەموو"},{"surface":"העם","gloss":"گەڵ"},{"surface":"איש","gloss":"پیاوانی"},{"surface":"ישראל","gloss":"یسرائێل"},{"surface":"באו","gloss":"هاتن"},{"surface":"ירושלם","gloss":"یەروشالایم"},{"surface":"ואחיתפל","gloss":"و ئەحیتۆفێل"},{"surface":"אתו","gloss":"⟨את⟩ لەگەڵی"}],"timestamp":"2026-09-24T11:38:38.247041192Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ئاڤشالۆم و هەموو گەڵ، پیاوانی یسرائێل، هاتنە یەروشالایم، و ئەحیتۆفێل ⟨את⟩ لەگەڵی.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "و ئاڤشالۆم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەڵ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائێل"
+    },
+    {
+      "surface": "באו",
+      "gloss": "هاتن"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یەروشالایم"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "و ئەحیتۆفێل"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ لەگەڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:38:38.247041192Z",
+  "model": "glm-5.3"
+}

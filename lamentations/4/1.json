@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":1,"ref":"lamentations 4:1","book":"lamentations","lang":"ckb","chapter":4,"translation":"چۆن تاریک بوو زێڕ؟ گۆڕا زێڕی چاک، زێڕی پاڵاوتە؟ ڕژێنران بەردەکانی پیرۆز لە سەری هەموو کۆچەکان.","tokens":[{"surface":"איכה","gloss":"چۆن"},{"surface":"יועם","gloss":"تاریک بوو"},{"surface":"זהב","gloss":"زێڕ"},{"surface":"ישנא","gloss":"گۆڕا"},{"surface":"הכתם","gloss":"زێڕی"},{"surface":"הטוב","gloss":"چاک"},{"surface":"תשתפכנה","gloss":"ڕژێنران"},{"surface":"אבני","gloss":"بەردەکانی"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"בראש","gloss":"لە سەری"},{"surface":"כל","gloss":"هەموو"},{"surface":"חוצות","gloss":"کۆچەکان"}],"timestamp":"2026-09-24T14:53:47.405591730Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چۆن تاریک بوو زێڕ؟ گۆڕا زێڕی چاک، زێڕی پاڵاوتە؟ ڕژێنران بەردەکانی پیرۆز لە سەری هەموو کۆچەکان.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "تاریک بوو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "گۆڕا"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "زێڕی"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "ڕژێنران"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "بەردەکانی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "لە سەری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "کۆچەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:53:47.405591730Z",
+  "model": "glm-5.3"
+}

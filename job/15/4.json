@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":4,"ref":"job 15:4","book":"job","lang":"ckb","chapter":15,"translation":"بەڵکوو تۆ شۆڕزی دەشکێنی و تەأمولی لەبەردەم ئێل کەم دەکەیتەوە.","tokens":[{"surface":"אף","gloss":"بەڵکوو"},{"surface":"אתה","gloss":"تۆ"},{"surface":"תפר","gloss":"دەشکێنی"},{"surface":"יראה","gloss":"شۆڕز"},{"surface":"ותגרע","gloss":"و کەم دەکەیتەوە"},{"surface":"שיחה","gloss":"تەأمولی"},{"surface":"לפני","gloss":"لەبەردەم"},{"surface":"אל","gloss":"ئێل"}],"timestamp":"2026-09-24T14:39:01.138979594Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "بەڵکوو تۆ شۆڕزی دەشکێنی و تەأمولی لەبەردەم ئێل کەم دەکەیتەوە.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بەڵکوو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "دەشکێنی"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "شۆڕز"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "و کەم دەکەیتەوە"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "تەأمولی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:01.138979594Z",
+  "model": "glm-5.3"
+}

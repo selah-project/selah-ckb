@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":3,"ref":"isaiah 6:3","book":"isaiah","lang":"ckb","chapter":6,"translation":"و ئەمە بۆ ئەوەی دی بانگی کرد و وت پیرۆز پیرۆز پیرۆز یاهوە سەڤائۆت شکۆیەکەی پڕی هەموو زەوییە","tokens":[{"surface":"וקרא","gloss":"و بانگی کرد"},{"surface":"זה","gloss":"ئەمە"},{"surface":"אל","gloss":"بۆ"},{"surface":"זה","gloss":"ئەوە"},{"surface":"ואמר","gloss":"و وت"},{"surface":"קדוש","gloss":"پیرۆز"},{"surface":"קדוש","gloss":"پیرۆز"},{"surface":"קדוש","gloss":"پیرۆز"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"צבאות","gloss":"سەڤائۆت"},{"surface":"מלא","gloss":"پڕی"},{"surface":"כל","gloss":"هەموو"},{"surface":"הארץ","gloss":"زەوی"},{"surface":"כבודו","gloss":"شکۆیەکەی"}],"timestamp":"2026-09-24T12:15:26.514257423Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ئەمە بۆ ئەوەی دی بانگی کرد و وت پیرۆز پیرۆز پیرۆز یاهوە سەڤائۆت شکۆیەکەی پڕی هەموو زەوییە",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "و بانگی کرد"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "شکۆیەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:15:26.514257423Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":30,"ref":"numbers 3:30","book":"numbers","lang":"ckb","chapter":3,"translation":"و سەرۆکی ماڵی باوک بۆ خێزانەکانی قەهاتییەکان ئەلیتسافان ⟨موسا⟩ کوڕی عوزیئێلە.","tokens":[{"surface":"ונשיא","gloss":"و سەرۆکی"},{"surface":"בית","gloss":"ماڵی"},{"surface":"אב","gloss":"باوک"},{"surface":"למשפחת","gloss":"بۆ خێزانەکانی"},{"surface":"הקהתי","gloss":"قەهاتییەکان"},{"surface":"אליצפן","gloss":"ئەلیتسافان"},{"surface":"בן","gloss":"کوڕی"},{"surface":"עזיאל","gloss":"عوزیئێل"}],"timestamp":"2026-09-24T10:14:43.857822152Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و سەرۆکی ماڵی باوک بۆ خێزانەکانی قەهاتییەکان ئەلیتسافان ⟨موسا⟩ کوڕی عوزیئێلە.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "و سەرۆکی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باوک"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "بۆ خێزانەکانی"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "قەهاتییەکان"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "ئەلیتسافان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عوزیئێل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:43.857822152Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":17,"ref":"judges 20:17","book":"judges","lang":"ckb","chapter":20,"translation":"و پیاوانی ئیسرائیل جگە لە بنیامین هەژمار کران، چوار سەد هەزار پیاوی شمشێرکێش، هەموو ئەمانە پیاوی شەڕ بوون.","tokens":[{"surface":"ואיש","gloss":"و پیاوانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"התפקדו","gloss":"هەژمار کران"},{"surface":"לבד","gloss":"جگە"},{"surface":"מבנימן","gloss":"لە بنیامین"},{"surface":"ארבע","gloss":"چوار"},{"surface":"מאות","gloss":"سەد"},{"surface":"אלף","gloss":"هەزار"},{"surface":"איש","gloss":"پیاو"},{"surface":"שלף","gloss":"کێشان"},{"surface":"חרב","gloss":"شمشێر"},{"surface":"כל","gloss":"هەموو"},{"surface":"זה","gloss":"ئەمانە"},{"surface":"איש","gloss":"پیاوی"},{"surface":"מלחמה","gloss":"شەڕ"}],"timestamp":"2026-09-24T11:15:30.613322164Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 20:17",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و پیاوانی ئیسرائیل جگە لە بنیامین هەژمار کران، چوار سەد هەزار پیاوی شمشێرکێش، هەموو ئەمانە پیاوی شەڕ بوون.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "هەژمار کران"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جگە"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "لە بنیامین"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "کێشان"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "شەڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:15:30.613322164Z",
+  "model": "glm-5.3"
+}

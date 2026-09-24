@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":5,"ref":"2-chronicles 19:5","book":"2-chronicles","lang":"ckb","chapter":19,"translation":"و لە زەویدا دادەرانی دانا لە هەموو شارە بەهێزکراوەکانی یەهودا، شار بە شار.","tokens":[{"surface":"ויעמד","gloss":"و دانا"},{"surface":"שפטים","gloss":"دادەران"},{"surface":"בארץ","gloss":"لە زەوی"},{"surface":"בכל","gloss":"لە هەموو"},{"surface":"ערי","gloss":"شارەکانی"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"הבצרות","gloss":"بەهێزکراوەکان"},{"surface":"לעיר","gloss":"بۆ شار"},{"surface":"ועיר","gloss":"و شار"}],"timestamp":"2026-09-24T16:08:19.503287608Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و لە زەویدا دادەرانی دانا لە هەموو شارە بەهێزکراوەکانی یەهودا، شار بە شار.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "و دانا"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "دادەران"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شارەکانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "بەهێزکراوەکان"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "بۆ شار"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "و شار"
+    }
+  ],
+  "timestamp": "2026-09-24T16:08:19.503287608Z",
+  "model": "glm-5.3"
+}

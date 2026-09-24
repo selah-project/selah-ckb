@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 58:11","book":"psalms","lang":"ckb","chapter":58,"translation":"دادپەروەر دڵخۆش دەبێت چونکە تۆمەتبارکردن دەبینێت، پێیەکانی لە خوێنی خراپەکار دەشۆرد.","tokens":[{"surface":"ישמח","gloss":"دڵخۆش دەبێت"},{"surface":"צדיק","gloss":"دادپەروەر"},{"surface":"כי","gloss":"چونکە"},{"surface":"חזה","gloss":"دەبینێت"},{"surface":"נקם","gloss":"تۆمەتبارکردن"},{"surface":"פעמיו","gloss":"پێیەکانی"},{"surface":"ירחץ","gloss":"دەشۆرد"},{"surface":"בדם","gloss":"لە خوێن"},{"surface":"הרשע","gloss":"خراپەکار"}],"timestamp":"2026-09-24T13:59:31.147929612Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 58,
+  "translation": "دادپەروەر دڵخۆش دەبێت چونکە تۆمەتبارکردن دەبینێت، پێیەکانی لە خوێنی خراپەکار دەشۆرد.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "دڵخۆش دەبێت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادپەروەر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دەبینێت"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "تۆمەتبارکردن"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "پێیەکانی"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "دەشۆرد"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "لە خوێن"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "خراپەکار"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:31.147929612Z",
+  "model": "glm-5.3"
+}

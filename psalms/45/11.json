@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 45:11","book":"psalms","lang":"ckb","chapter":45,"translation":"گوێ بیسە، ئەی کچ، و ببینە و لار بێنە گوێت؛ و گەلەکەت و ماڵی باوکت لەبیری بکە.","tokens":[{"surface":"שמעי","gloss":"گوێ بیسە"},{"surface":"בת","gloss":"ئەی کچ"},{"surface":"וראי","gloss":"و ببینە"},{"surface":"והטי","gloss":"و لار بێنە"},{"surface":"אזנך","gloss":"گوێت"},{"surface":"ושכחי","gloss":"و لەبیری بکە"},{"surface":"עמך","gloss":"گەلەکەت"},{"surface":"ובית","gloss":"و ماڵی"},{"surface":"אביך","gloss":"باوکت"}],"timestamp":"2026-09-24T13:57:38.010804226Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "گوێ بیسە، ئەی کچ، و ببینە و لار بێنە گوێت؛ و گەلەکەت و ماڵی باوکت لەبیری بکە.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "گوێ بیسە"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ئەی کچ"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "و ببینە"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "و لار بێنە"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "گوێت"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "و لەبیری بکە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلەکەت"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و ماڵی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:38.010804226Z",
+  "model": "glm-5.3"
+}

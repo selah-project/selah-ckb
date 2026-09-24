@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":38,"ref":"joshua 19:38","book":"joshua","lang":"ckb","chapter":19,"translation":"و یرون و میگدال ئێل و حۆرێم و بێیت عەنات و بێیت شەمێش؛ نۆتەین شار و دیوەکانی ئەوان","tokens":[{"surface":"ויראון","gloss":"و یرون"},{"surface":"ומגדל","gloss":"و میگدال"},{"surface":"אל","gloss":"ئێل"},{"surface":"חרם","gloss":"و حۆرێم"},{"surface":"ובית","gloss":"و بێیت"},{"surface":"ענת","gloss":"عەنات"},{"surface":"ובית","gloss":"و بێیت"},{"surface":"שמש","gloss":"شەمێش"},{"surface":"ערים","gloss":"شار"},{"surface":"תשע","gloss":"نۆتەین"},{"surface":"עשרה","gloss":"نۆتەین"},{"surface":"וחצריהן","gloss":"و دیوەکانی ئەوان"}],"timestamp":"2026-09-24T15:54:26.355262483Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 19:38",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و یرون و میگدال ئێل و حۆرێم و بێیت عەنات و بێیت شەمێش؛ نۆتەین شار و دیوەکانی ئەوان",
+  "tokens": [
+    {
+      "surface": "ויראון",
+      "gloss": "و یرون"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "و میگدال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "و حۆرێم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بێیت"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "عەنات"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "و بێیت"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "شەمێش"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شار"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نۆتەین"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "نۆتەین"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "و دیوەکانی ئەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:26.355262483Z",
+  "model": "glm-5.3"
+}

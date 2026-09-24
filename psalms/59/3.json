@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 59:3","book":"psalms","lang":"ckb","chapter":59,"translation":"ڕزگارم بکە لە کردەوانی خراپە، و لە پیاوانی خوێن خەڵاتم بکە.","tokens":[{"surface":"הצילני","gloss":"ڕزگارم بکە"},{"surface":"מפעלי","gloss":"لە کردەوانی"},{"surface":"און","gloss":"خراپە"},{"surface":"ומאנשי","gloss":"و لە پیاوانی"},{"surface":"דמים","gloss":"خوێن"},{"surface":"הושיעני","gloss":"خەڵاتم بکە"}],"timestamp":"2026-09-24T14:00:15.948253120Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 59,
+  "translation": "ڕزگارم بکە لە کردەوانی خراپە، و لە پیاوانی خوێن خەڵاتم بکە.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ڕزگارم بکە"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "لە کردەوانی"
+    },
+    {
+      "surface": "און",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "و لە پیاوانی"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "خەڵاتم بکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:15.948253120Z",
+  "model": "glm-5.3"
+}

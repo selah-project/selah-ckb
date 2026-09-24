@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"exodus 25:7","book":"exodus","lang":"ckb","chapter":25,"translation":"بەردەکانی شۆهەم و بەردەکانی دانانی ئێپۆد و حوشەکە،","tokens":[{"surface":"אבני","gloss":"بەردەکانی"},{"surface":"שהם","gloss":"شۆهەم"},{"surface":"ואבני","gloss":"و بەردەکانی"},{"surface":"מלאים","gloss":"دانانی"},{"surface":"לאפד","gloss":"ئێپۆد"},{"surface":"ולחשן","gloss":"و حوشەکە"}],"timestamp":"2026-09-24T09:48:40.050348053Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "بەردەکانی شۆهەم و بەردەکانی دانانی ئێپۆد و حوشەکە،",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "بەردەکانی"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شۆهەم"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "و بەردەکانی"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "دانانی"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "ئێپۆد"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "و حوشەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:48:40.050348053Z",
+  "model": "glm-5.3"
+}

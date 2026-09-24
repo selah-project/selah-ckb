@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":14,"ref":"jeremiah 7:14","book":"jeremiah","lang":"ckb","chapter":7,"translation":"و دەکەم بەو ماڵەی کە ناوی من لەسەری ناونراوە، کە ئێوە بە متمانەن بەی، و بەو شوێنەی کە دام بەتان و بۆ باوکانیتان، وەک ئەوەی کردم بە شیلو ⟨شیلۆ⟩.","tokens":[{"surface":"ועשיתי","gloss":"و دەکەم"},{"surface":"לבית","gloss":"بەو ماڵە"},{"surface":"אשר","gloss":"کە"},{"surface":"נקרא","gloss":"ناونراوە"},{"surface":"שמי","gloss":"ناوی من"},{"surface":"עליו","gloss":"لەسەری"},{"surface":"אשר","gloss":"کە"},{"surface":"אתם","gloss":"ئێوە"},{"surface":"בטחים","gloss":"بە متمانەن"},{"surface":"בו","gloss":"بەی"},{"surface":"ולמקום","gloss":"و بەو شوێنە"},{"surface":"אשר","gloss":"کە"},{"surface":"נתתי","gloss":"دام"},{"surface":"לכם","gloss":"بەتان"},{"surface":"ולאבותיכם","gloss":"و بۆ باوکانیتان"},{"surface":"כאשר","gloss":"وەک"},{"surface":"עשיתי","gloss":"کردم"},{"surface":"לשלו","gloss":"بە شیلو ⟨شیلۆ⟩"}],"timestamp":"2026-09-24T12:40:20.862756210Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 7:14",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و دەکەم بەو ماڵەی کە ناوی من لەسەری ناونراوە، کە ئێوە بە متمانەن بەی، و بەو شوێنەی کە دام بەتان و بۆ باوکانیتان، وەک ئەوەی کردم بە شیلو ⟨شیلۆ⟩.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "و دەکەم"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بەو ماڵە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ناونراوە"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ناوی من"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "بە متمانەن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "بەی"
+    },
+    {
+      "surface": "ולמקום",
+      "gloss": "و بەو شوێنە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دام"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بەتان"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "و بۆ باوکانیتان"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کردم"
+    },
+    {
+      "surface": "לשלו",
+      "gloss": "بە شیلو ⟨شیلۆ⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T12:40:20.862756210Z",
+  "model": "glm-5.3"
+}

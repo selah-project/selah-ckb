@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":3,"ref":"proverbs 3:3","book":"proverbs","lang":"ckb","chapter":3,"translation":"حەسەد و ڕاستی جێت نەهێڵن، وان ببەستە سەر گەرووی خۆت، وان بنووسە سەر تەختەی دڵت.","tokens":[{"surface":"חסד","gloss":"حەسەد"},{"surface":"ואמת","gloss":"و ڕاستی"},{"surface":"אל","gloss":"نە"},{"surface":"יעזבך","gloss":"جێت نەهێڵن"},{"surface":"קשרם","gloss":"ببەستە"},{"surface":"על","gloss":"سەر"},{"surface":"גרגרותיך","gloss":"گەرووی خۆت"},{"surface":"כתבם","gloss":"بنووسە"},{"surface":"על","gloss":"سەر"},{"surface":"לוח","gloss":"تەختەی"},{"surface":"לבך","gloss":"دڵت"}],"timestamp":"2026-09-24T14:23:15.748066285Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "حەسەد و ڕاستی جێت نەهێڵن، وان ببەستە سەر گەرووی خۆت، وان بنووسە سەر تەختەی دڵت.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "و ڕاستی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "جێت نەهێڵن"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ببەستە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "گەرووی خۆت"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "بنووسە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تەختەی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دڵت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:15.748066285Z",
+  "model": "glm-5.3"
+}

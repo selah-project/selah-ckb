@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":8,"ref":"genesis 49:8","book":"genesis","lang":"ckb","chapter":49,"translation":"یەهودا تۆ برایانت ستایش دەکەن؛ دەستت لە ملی دوژمنتان دەبێت؛ کوڕانی باوکت لەبەردەمت سوژدە دەگرن.","tokens":[{"surface":"יהודה","gloss":"یەهودا"},{"surface":"אתה","gloss":"تۆ"},{"surface":"יודוך","gloss":"ستایش دەکەن"},{"surface":"אחיך","gloss":"برایانت"},{"surface":"ידך","gloss":"دەستت"},{"surface":"בערף","gloss":"لە ملی"},{"surface":"איביך","gloss":"دوژمنتان"},{"surface":"ישתחוו","gloss":"سوژدە دەگرن"},{"surface":"לך","gloss":"لەبەردەمت"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"אביך","gloss":"باوکت"}],"timestamp":"2026-09-24T09:35:30.814934329Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 49:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "یەهودا تۆ برایانت ستایش دەکەن؛ دەستت لە ملی دوژمنتان دەبێت؛ کوڕانی باوکت لەبەردەمت سوژدە دەگرن.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ستایش دەکەن"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برایانت"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "בערף",
+      "gloss": "لە ملی"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "دوژمنتان"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "سوژدە دەگرن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لەبەردەمت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:30.814934329Z",
+  "model": "glm-5.3"
+}

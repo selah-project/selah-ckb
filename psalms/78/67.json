@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":67,"ref":"psalms 78:67","book":"psalms","lang":"ckb","chapter":78,"translation":"و چادری یوسێف ⟨یوسف⟩ی ڕەتکردەوە، و هۆزی ئێفرایمی نەهەڵبژارد.","tokens":[{"surface":"וימאס","gloss":"ڕەتکردەوە"},{"surface":"באהל","gloss":"چادری"},{"surface":"יוסף","gloss":"یوسێف ⟨یوسف⟩"},{"surface":"ובשבט","gloss":"و هۆزی"},{"surface":"אפרים","gloss":"ئێفرایم"},{"surface":"לא","gloss":"نا"},{"surface":"בחר","gloss":"هەڵبژارد"}],"timestamp":"2026-09-24T14:05:29.274581884Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "و چادری یوسێف ⟨یوسف⟩ی ڕەتکردەوە، و هۆزی ئێفرایمی نەهەڵبژارد.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "ڕەتکردەوە"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "چادری"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف ⟨یوسف⟩"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "و هۆزی"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "هەڵبژارد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:05:29.274581884Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":11,"ref":"ezekiel 11:11","book":"ezekiel","lang":"ckb","chapter":11,"translation":"ئەوە نابێت بۆ ئێوە بۆ دیگ و ئێوە نابن لە ناوەوەیدا بە گۆشت؛ تا سنووری ئیسرائیل ⟨את⟩ ئێوە دادوەری دەکەم.","tokens":[{"surface":"היא","gloss":"ئەوە"},{"surface":"לא","gloss":"نا"},{"surface":"תהיה","gloss":"دەبێت"},{"surface":"לכם","gloss":"بۆ ئێوە"},{"surface":"לסיר","gloss":"بۆ دیگ"},{"surface":"ואתם","gloss":"و ئێوە"},{"surface":"תהיו","gloss":"دەبن"},{"surface":"בתוכה","gloss":"لە ناوەوەیدا"},{"surface":"לבשר","gloss":"بە گۆشت"},{"surface":"אל","gloss":"تا"},{"surface":"גבול","gloss":"سنووری"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"אשפט","gloss":"دادوەری دەکەم"},{"surface":"אתכם","gloss":"⟨את⟩ ئێوە","marks":""}],"timestamp":"2026-09-24T13:07:27.184888916Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ئەوە نابێت بۆ ئێوە بۆ دیگ و ئێوە نابن لە ناوەوەیدا بە گۆشت؛ تا سنووری ئیسرائیل ⟨את⟩ ئێوە دادوەری دەکەم.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "بۆ دیگ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "و ئێوە"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "لە ناوەوەیدا"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "بە گۆشت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "دادوەری دەکەم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-24T13:07:27.184888916Z",
+  "model": "glm-5.3"
+}

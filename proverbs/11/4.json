@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":4,"ref":"proverbs 11:4","book":"proverbs","lang":"ckb","chapter":11,"translation":"سامان قازانج ناکات لە ڕۆژی تووڕەییدا و دادپەروەری لە مردن ڕزگاری دەکات.","tokens":[{"surface":"לא","gloss":"نە"},{"surface":"יועיל","gloss":"قازانج دەکات"},{"surface":"הון","gloss":"سامان"},{"surface":"ביום","gloss":"لە ڕۆژی"},{"surface":"עברה","gloss":"تووڕەیی"},{"surface":"וצדקה","gloss":"و دادپەروەری"},{"surface":"תציל","gloss":"ڕزگاری دەکات"},{"surface":"ממות","gloss":"لە مردن"}],"timestamp":"2026-09-24T14:26:13.549431284Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "سامان قازانج ناکات لە ڕۆژی تووڕەییدا و دادپەروەری لە مردن ڕزگاری دەکات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "قازانج دەکات"
+    },
+    {
+      "surface": "הון",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "تووڕەیی"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "و دادپەروەری"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ڕزگاری دەکات"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "لە مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:13.549431284Z",
+  "model": "glm-5.3"
+}

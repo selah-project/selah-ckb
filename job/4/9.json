@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":9,"ref":"job 4:9","book":"job","lang":"ckb","chapter":4,"translation":"لە هەناسەی ئێلۆهیم لەدەست دەچن و لە هەوای لووتی تەواو دەبن.","tokens":[{"surface":"מנשמת","gloss":"لە هەناسەی"},{"surface":"אלוה","gloss":"ئێلۆهیم"},{"surface":"יאבדו","gloss":"لەدەست دەچن"},{"surface":"ומרוח","gloss":"و لە هەوای"},{"surface":"אפו","gloss":"لووتی"},{"surface":"יכלו","gloss":"تەواو دەبن"}],"timestamp":"2026-09-24T14:33:53.120411640Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 4:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "لە هەناسەی ئێلۆهیم لەدەست دەچن و لە هەوای لووتی تەواو دەبن.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "لە هەناسەی"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "لەدەست دەچن"
+    },
+    {
+      "surface": "ומרוח",
+      "gloss": "و لە هەوای"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "لووتی"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "تەواو دەبن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:53.120411640Z",
+  "model": "glm-5.3"
+}

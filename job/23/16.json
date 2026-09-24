@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":16,"ref":"job 23:16","book":"job","lang":"ckb","chapter":23,"translation":"و ئێل دڵی من نەرم کرد، و شادای هەڵم لەرزاند.","tokens":[{"surface":"ואל","gloss":"و ئێل"},{"surface":"הרך","gloss":"نەرم کرد"},{"surface":"לבי","gloss":"دڵی من"},{"surface":"ושדי","gloss":"و شادای"},{"surface":"הבהילני","gloss":"هەڵم لەرزاند"}],"timestamp":"2026-09-24T14:41:14.432710347Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 23:16",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و ئێل دڵی من نەرم کرد، و شادای هەڵم لەرزاند.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "و ئێل"
+    },
+    {
+      "surface": "הרך",
+      "gloss": "نەرم کرد"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵی من"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "و شادای"
+    },
+    {
+      "surface": "הבהילני",
+      "gloss": "هەڵم لەرزاند"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:14.432710347Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":34,"ref":"1-kings 7:34","book":"1-kings","lang":"ckb","chapter":7,"translation":"و چوار شانی ⟨هەبوو⟩ بۆ چوار گۆشەی بنکە یەکەکە؛ لە بنکەکەوە شانەکانیان ⟨هەڵکەوتبوون⟩.","tokens":[{"surface":"וארבע","gloss":"و چوار"},{"surface":"כתפות","gloss":"شان"},{"surface":"אל","gloss":"بۆ"},{"surface":"ארבע","gloss":"چوار"},{"surface":"פנות","gloss":"گۆشەی"},{"surface":"המכנה","gloss":"بنکەی"},{"surface":"האחת","gloss":"یەکەکە"},{"surface":"מן","gloss":"لە"},{"surface":"המכנה","gloss":"بنکەکەوە"},{"surface":"כתפיה","gloss":"شانەکانیان"}],"timestamp":"2026-09-24T11:47:35.451081839Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 7:34",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و چوار شانی ⟨هەبوو⟩ بۆ چوار گۆشەی بنکە یەکەکە؛ لە بنکەکەوە شانەکانیان ⟨هەڵکەوتبوون⟩.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "شان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "گۆشەی"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "بنکەی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەکەکە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "بنکەکەوە"
+    },
+    {
+      "surface": "כתפיה",
+      "gloss": "شانەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:47:35.451081839Z",
+  "model": "glm-5.3"
+}

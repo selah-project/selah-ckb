@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":31,"ref":"genesis 21:31","book":"genesis","lang":"ckb","chapter":21,"translation":"لەبەر ئەوە نا نا بۆ ئەو شوێنە بیرشەڤوع، چونکە لەوێ هەردووکیان سوێندیان خوارد.","tokens":[{"surface":"על","gloss":"لەبەر"},{"surface":"כן","gloss":"ئەوە"},{"surface":"קרא","gloss":"نا نا"},{"surface":"למקום","gloss":"بۆ ئەو شوێنە"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"באר","gloss":"بیر"},{"surface":"שבע","gloss":"شەڤوع"},{"surface":"כי","gloss":"چونکە"},{"surface":"שם","gloss":"لەوێ"},{"surface":"נשבעו","gloss":"سوێندیان خوارد"},{"surface":"שניהם","gloss":"هەردووکیان"}],"timestamp":"2026-09-24T09:18:57.142846286Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "لەبەر ئەوە نا نا بۆ ئەو شوێنە بیرشەڤوع، چونکە لەوێ هەردووکیان سوێندیان خوارد.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "نا نا"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "بۆ ئەو شوێنە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شەڤوع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "سوێندیان خوارد"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "هەردووکیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:18:57.142846286Z",
+  "model": "glm-5.3"
+}

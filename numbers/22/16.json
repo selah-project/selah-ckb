@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":16,"ref":"numbers 22:16","book":"numbers","lang":"ckb","chapter":22,"translation":"چوونە لای بیلعام و پێیان وت: بەم شێوەیە بالاق کوڕی زیفور وتوویەتی: تکایە خۆت لە گەیشتنە لای من بەرگر مەکە.","tokens":[{"surface":"ויבאו","gloss":"چوونە"},{"surface":"אל","gloss":"لای"},{"surface":"בלעם","gloss":"بیلعام"},{"surface":"ויאמרו","gloss":"ووتیان"},{"surface":"לו","gloss":"پێی"},{"surface":"כה","gloss":"بەم شێوەیە"},{"surface":"אמר","gloss":"وتوویەتی"},{"surface":"בלק","gloss":"بالاق"},{"surface":"בן","gloss":"کوڕی"},{"surface":"צפור","gloss":"زیفور"},{"surface":"אל","gloss":"مەکە"},{"surface":"נא","gloss":"تکایە"},{"surface":"תמנע","gloss":"بەرگر مەکە"},{"surface":"מהלך","gloss":"گەیشتنە"},{"surface":"אלי","gloss":"لای من"}],"timestamp":"2026-09-24T10:26:04.263260914Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 22:16",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "چوونە لای بیلعام و پێیان وت: بەم شێوەیە بالاق کوڕی زیفور وتوویەتی: تکایە خۆت لە گەیشتنە لای من بەرگر مەکە.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "چوونە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ووتیان"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "כה",
+      "gloss": "بەم شێوەیە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وتوویەتی"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "زیفور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەکە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "بەرگر مەکە"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "گەیشتنە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:04.263260914Z",
+  "model": "glm-5.3"
+}

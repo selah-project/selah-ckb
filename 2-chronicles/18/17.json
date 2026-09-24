@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":17,"ref":"2-chronicles 18:17","book":"2-chronicles","lang":"ckb","chapter":18,"translation":"و پادشای ئیسرائیل بە یەهۆشافاتی فەرموو: ئایا نەموت بۆ تۆ، بە دڵنیایی شتێکی چاک بۆم پێغەمبەری ناکات، بەڵکو تەنها شتێکی خراپ؟","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"מלך","gloss":"پادشای"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"אל","gloss":"بە"},{"surface":"יהושפט","gloss":"یەهۆشافات"},{"surface":"הלא","gloss":"ئایا نە"},{"surface":"אמרתי","gloss":"وت"},{"surface":"אליך","gloss":"بۆ تۆ"},{"surface":"לא","gloss":"نە"},{"surface":"יתנבא","gloss":"پێغەمبەری دەکات"},{"surface":"עלי","gloss":"لەسەر من"},{"surface":"טוב","gloss":"چاک"},{"surface":"כי","gloss":"بە دڵنیایی"},{"surface":"אם","gloss":"بەڵکو تەنها"},{"surface":"לרע","gloss":"بۆ خراپ"}],"timestamp":"2026-09-24T17:19:41.814167877Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و پادشای ئیسرائیل بە یەهۆشافاتی فەرموو: ئایا نەموت بۆ تۆ، بە دڵنیایی شتێکی چاک بۆم پێغەمبەری ناکات، بەڵکو تەنها شتێکی خراپ؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یەهۆشافات"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ئایا نە"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وت"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "پێغەمبەری دەکات"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر من"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بە دڵنیایی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بەڵکو تەنها"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "بۆ خراپ"
+    }
+  ],
+  "timestamp": "2026-09-24T17:19:41.814167877Z",
+  "model": "glm-5.3"
+}

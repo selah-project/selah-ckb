@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":46,"ref":"1-chronicles 1:46","book":"1-chronicles","lang":"ckb","chapter":1,"translation":"و حوشام مرد و هەدەد کوڕی بەدەد ئەوەی ⟨את⟩ میدیانی لە کێڵگەی مۆئاڤ دا لە جێی ئەو پاشای بوو و ناوی شارەکەی عەڤیت بوو.","tokens":[{"surface":"וימת","gloss":"و مرد"},{"surface":"חושם","gloss":"حوشام"},{"surface":"וימלך","gloss":"و پاشای بوو"},{"surface":"תחתיו","gloss":"لە جێی ئەو"},{"surface":"הדד","gloss":"هەدەد"},{"surface":"בן","gloss":"کوڕی"},{"surface":"בדד","gloss":"بەدەد"},{"surface":"המכה","gloss":"ئەوەی دا"},{"surface":"את","gloss":"⟨את⟩","marks":"میدیان"},{"surface":"מדין","gloss":"میدیان"},{"surface":"בשדה","gloss":"لە کێڵگەی"},{"surface":"מואב","gloss":"مۆئاڤ"},{"surface":"ושם","gloss":"و ناوی"},{"surface":"עירו","gloss":"شارەکەی"},{"surface":"עיות","gloss":"عەڤیت"}],"timestamp":"2026-09-24T15:21:04.418836921Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 1:46",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و حوشام مرد و هەدەد کوڕی بەدەد ئەوەی ⟨את⟩ میدیانی لە کێڵگەی مۆئاڤ دا لە جێی ئەو پاشای بوو و ناوی شارەکەی عەڤیت بوو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "حوشام"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پاشای بوو"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جێی ئەو"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هەدەد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "بەدەد"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "ئەوەی دا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "لە کێڵگەی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاڤ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "شارەکەی"
+    },
+    {
+      "surface": "עיות",
+      "gloss": "عەڤیت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:21:04.418836921Z",
+  "model": "glm-5.3"
+}

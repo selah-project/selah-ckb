@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":19,"ref":"psalms 51:19","book":"psalms","lang":"ckb","chapter":51,"translation":"قوربانییەکانی ئێلۆهیم ڕۆحی شکانە؛ دڵی شکاو و پەستاو، ئەی ئێلۆهیم، بێ ڕێزی ناکەیت.","tokens":[{"surface":"זבחי","gloss":"قوربانییەکانی"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"רוח","gloss":"ڕۆح"},{"surface":"נשברה","gloss":"شکانە"},{"surface":"לב","gloss":"دڵ"},{"surface":"נשבר","gloss":"شکاو"},{"surface":"ונדכה","gloss":"و پەستاو"},{"surface":"אלהים","gloss":"ئەی ئێلۆهیم"},{"surface":"לא","gloss":"نا"},{"surface":"תבזה","gloss":"بێ ڕێزی ناکەیت"}],"timestamp":"2026-09-24T13:59:11.424438455Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "قوربانییەکانی ئێلۆهیم ڕۆحی شکانە؛ دڵی شکاو و پەستاو، ئەی ئێلۆهیم، بێ ڕێزی ناکەیت.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "قوربانییەکانی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "شکانە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "شکاو"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "و پەستاو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئەی ئێلۆهیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "بێ ڕێزی ناکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:11.424438455Z",
+  "model": "glm-5.3"
+}

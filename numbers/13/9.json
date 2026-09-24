@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":9,"ref":"numbers 13:9","book":"numbers","lang":"ckb","chapter":13,"translation":"بۆ هۆزی بینیامین ⟨بنیامین⟩ پالتی ⟨فەلتی⟩ کوڕی ڕەفوو ⟨ڕافوو⟩.","tokens":[{"surface":"למטה","gloss":"بۆ هۆزی"},{"surface":"בנימן","gloss":"بینیامین ⟨بنیامین⟩"},{"surface":"פלטי","gloss":"پالتی ⟨فەلتی⟩"},{"surface":"בן","gloss":"کوڕی"},{"surface":"רפוא","gloss":"ڕەفوو ⟨ڕافوو⟩"}],"timestamp":"2026-09-24T10:19:41.581161727Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بۆ هۆزی بینیامین ⟨بنیامین⟩ پالتی ⟨فەلتی⟩ کوڕی ڕەفوو ⟨ڕافوو⟩.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین ⟨بنیامین⟩"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "پالتی ⟨فەلتی⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "ڕەفوو ⟨ڕافوو⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:41.581161727Z",
+  "model": "glm-5.3"
+}

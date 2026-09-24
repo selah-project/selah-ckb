@@ -1,1 +1,59 @@
-{"tier":"glm-5.2","verse":42,"ref":"numbers 32:42","book":"numbers","lang":"ckb","chapter":32,"translation":"و نۆبەخ چوو و ⟨את⟩ قەنات و ⟨את⟩ کچەکانی ئەوانی گرت و بۆی نۆبەخ بە ناوی خۆی ناو نا","tokens":[{"surface":"ונבח","gloss":"و نۆبەخ"},{"surface":"הלך","gloss":"چوو"},{"surface":"וילכד","gloss":"و ئەوانی گرت"},{"surface":"את","gloss":"⟨את⟩","marks":"قەنات"},{"surface":"קנת","gloss":"قەنات"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"کچەکانی ئەوان"},{"surface":"בנתיה","gloss":"کچەکانی ئەوان"},{"surface":"ויקרא","gloss":"و ناو نا"},{"surface":"לה","gloss":"بۆی"},{"surface":"נבח","gloss":"نۆبەخ"},{"surface":"בשמו","gloss":"بە ناوی خۆی"}],"timestamp":"2026-09-24T10:29:51.303387179Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و نۆبەخ چوو و ⟨את⟩ قەنات و ⟨את⟩ کچەکانی ئەوانی گرت و بۆی نۆبەخ بە ناوی خۆی ناو نا",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "و نۆبەخ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "چوو"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "و ئەوانی گرت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قەنات"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "قەنات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کچەکانی ئەوان"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "کچەکانی ئەوان"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و ناو نا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "نۆبەخ"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "بە ناوی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:51.303387179Z",
+  "model": "glm-5.3"
+}

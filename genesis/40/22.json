@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":22,"ref":"genesis 40:22","book":"genesis","lang":"ckb","chapter":40,"translation":"و ⟨את⟩ سەرۆکی نانەوانەکان هەواسی کرد، وەک چۆن یۆسێف ⟨مۆشە⟩ بۆیانی شیکردەوە.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩"},{"surface":"שר","gloss":"سەرۆکی"},{"surface":"האפים","gloss":"نانەوانەکان"},{"surface":"תלה","gloss":"هەواسی کرد"},{"surface":"כאשר","gloss":"وەک چۆن"},{"surface":"פתר","gloss":"شیکردەوە"},{"surface":"להם","gloss":"بۆیان"},{"surface":"יוסף","gloss":"یۆسێف"}],"timestamp":"2026-09-24T09:28:44.624438184Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و ⟨את⟩ سەرۆکی نانەوانەکان هەواسی کرد، وەک چۆن یۆسێف ⟨مۆشە⟩ بۆیانی شیکردەوە.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سەرۆکی"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "نانەوانەکان"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "هەواسی کرد"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "شیکردەوە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف"
+    }
+  ],
+  "timestamp": "2026-09-24T09:28:44.624438184Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":4,"ref":"amos 8:4","book":"amos","lang":"ckb","chapter":8,"translation":"بیسێ ئەمە، ئەی ئەوانەی هەژاری دەخۆن، بۆ لەناوبردنی نەدارانی زەوی.","tokens":[{"surface":"שמעו","gloss":"بیسێ"},{"surface":"זאת","gloss":"ئەمە"},{"surface":"השאפים","gloss":"ئەوانەی دەخۆن"},{"surface":"אביון","gloss":"هەژار"},{"surface":"ולשבית","gloss":"و بۆ لەناوبردنی"},{"surface":"ענוי","gloss":"نەدارانی"},{"surface":"ארץ","gloss":"زەوی"}],"timestamp":"2026-09-24T13:34:40.373717122Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "بیسێ ئەمە، ئەی ئەوانەی هەژاری دەخۆن، بۆ لەناوبردنی نەدارانی زەوی.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "بیسێ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "ئەوانەی دەخۆن"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "هەژار"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "و بۆ لەناوبردنی"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "نەدارانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:34:40.373717122Z",
+  "model": "glm-5.3"
+}

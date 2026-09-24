@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":6,"ref":"psalms 115:6","book":"psalms","lang":"ckb","chapter":115,"translation":"گوێیانیان هەیە و نابیستن، لووتێکیان هەیە و هەم ناکەن،","tokens":[{"surface":"אזנים","gloss":"گوێیان"},{"surface":"להם","gloss":"یان هەیە"},{"surface":"ולא","gloss":"و نا"},{"surface":"ישמעו","gloss":"دەبیستن"},{"surface":"אף","gloss":"لووت"},{"surface":"להם","gloss":"یان هەیە"},{"surface":"ולא","gloss":"و نا"},{"surface":"יריחון","gloss":"هەم دەکەن"}],"timestamp":"2026-09-24T14:14:22.309756152Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 115,
+  "translation": "گوێیانیان هەیە و نابیستن، لووتێکیان هەیە و هەم ناکەن،",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "گوێیان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "یان هەیە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "دەبیستن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "لووت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "یان هەیە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "هەم دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:22.309756152Z",
+  "model": "glm-5.3"
+}

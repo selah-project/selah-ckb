@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":12,"ref":"numbers 5:12","book":"numbers","lang":"ckb","chapter":5,"translation":"قسە بکە لەگەڵ کوڕانی ئیسرائیل و بەوان بڵێ: هەر پیاوێک پیاوێک ئەگەر ژنەکەی لار ببێت و خێانەتی لە دژی ئەو بکات،","tokens":[{"surface":"דבר","gloss":"قسە بکە"},{"surface":"אל","gloss":"لەگەڵ"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"ואמרת","gloss":"و بڵێ"},{"surface":"אלהם","gloss":"بەوان"},{"surface":"איש","gloss":"پیاوێک"},{"surface":"איש","gloss":"پیاوێک"},{"surface":"כי","gloss":"ئەگەر"},{"surface":"תשטה","gloss":"لار ببێت"},{"surface":"אשתו","gloss":"ژنەکەی"},{"surface":"ומעלה","gloss":"و خێانەتی بکات"},{"surface":"בו","gloss":"لە دژی ئەو"},{"surface":"מעל","gloss":"خێانەت"}],"timestamp":"2026-09-24T10:15:49.605335201Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 5:12",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "قسە بکە لەگەڵ کوڕانی ئیسرائیل و بەوان بڵێ: هەر پیاوێک پیاوێک ئەگەر ژنەکەی لار ببێت و خێانەتی لە دژی ئەو بکات،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "قسە بکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بڵێ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بەوان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "لار ببێت"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنەکەی"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "و خێانەتی بکات"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە دژی ئەو"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خێانەت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:49.605335201Z",
+  "model": "glm-5.3"
+}

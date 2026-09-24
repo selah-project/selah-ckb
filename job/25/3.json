@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":3,"ref":"job 25:3","book":"job","lang":"ckb","chapter":25,"translation":"ئایا ژمارە بۆ لەشکرەکانی هەیە؟ و لەسەر کێ ڕووناکیی ئەو هەڵنایەت؟","tokens":[{"surface":"היש","gloss":"ئایا هەیە"},{"surface":"מספר","gloss":"ژمارە"},{"surface":"לגדודיו","gloss":"بۆ لەشکرەکانی"},{"surface":"ועל","gloss":"و لەسەر"},{"surface":"מי","gloss":"کێ"},{"surface":"לא","gloss":"نا"},{"surface":"יקום","gloss":"هەڵنایەت"},{"surface":"אורהו","gloss":"ڕووناکیی ئەو"}],"timestamp":"2026-09-24T14:41:30.538753953Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "ئایا ژمارە بۆ لەشکرەکانی هەیە؟ و لەسەر کێ ڕووناکیی ئەو هەڵنایەت؟",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ئایا هەیە"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژمارە"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "بۆ لەشکرەکانی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "هەڵنایەت"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "ڕووناکیی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:30.538753953Z",
+  "model": "glm-5.3"
+}

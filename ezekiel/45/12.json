@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":12,"ref":"ezekiel 45:12","book":"ezekiel","lang":"ckb","chapter":45,"translation":"و شێکەل بیست گێرا بێت؛ بیست شێکەل، پێنج و بیست شێکەل، دە و پێنج شێکەل — مەنە بۆ ئێوە بێت.","tokens":[{"surface":"והשקל","gloss":"و شێکەل"},{"surface":"עשרים","gloss":"بیست"},{"surface":"גרה","gloss":"گێرا"},{"surface":"עשרים","gloss":"بیست"},{"surface":"שקלים","gloss":"شێکەل"},{"surface":"חמשה","gloss":"پێنج"},{"surface":"ועשרים","gloss":"و بیست"},{"surface":"שקלים","gloss":"شێکەل"},{"surface":"עשרה","gloss":"دە"},{"surface":"וחמשה","gloss":"و پێنج"},{"surface":"שקל","gloss":"شێکەل"},{"surface":"המנה","gloss":"مەنە"},{"surface":"יהיה","gloss":"بێت"},{"surface":"לכם","gloss":"بۆ ئێوە"}],"timestamp":"2026-09-24T13:25:16.902462401Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "و شێکەل بیست گێرا بێت؛ بیست شێکەل، پێنج و بیست شێکەل، دە و پێنج شێکەل — مەنە بۆ ئێوە بێت.",
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "و شێکەل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گێرا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شێکەل"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شێکەل"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شێکەل"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "مەنە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:25:16.902462401Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":14,"ref":"genesis 16:14","book":"genesis","lang":"ckb","chapter":16,"translation":"لەسەر ئەوە بۆ بیرەکە ناو نرا: بیری لەحای ڕۆئی، ئەوەتا لە نێوان قادێش ⟨کادیس⟩ و لە نێوان بەرەد ⟨بەرێد⟩.","tokens":[{"surface":"על","gloss":"لەسەر"},{"surface":"כן","gloss":"ئەوە"},{"surface":"קרא","gloss":"ناو نرا"},{"surface":"לבאר","gloss":"بۆ بیرەکە"},{"surface":"באר","gloss":"بیر"},{"surface":"לחי","gloss":"لەحای"},{"surface":"ראי","gloss":"ڕۆئی"},{"surface":"הנה","gloss":"ئەوەتا"},{"surface":"בין","gloss":"لە نێوان"},{"surface":"קדש","gloss":"قادێش"},{"surface":"ובין","gloss":"و لە نێوان"},{"surface":"ברד","gloss":"بەرەد"}],"timestamp":"2026-09-24T09:16:22.967432124Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "لەسەر ئەوە بۆ بیرەکە ناو نرا: بیری لەحای ڕۆئی، ئەوەتا لە نێوان قادێش ⟨کادیس⟩ و لە نێوان بەرەد ⟨بەرێد⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناو نرا"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "بۆ بیرەکە"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لەحای"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ڕۆئی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادێش"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و لە نێوان"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "بەرەد"
+    }
+  ],
+  "timestamp": "2026-09-24T09:16:22.967432124Z",
+  "model": "glm-5.3"
+}

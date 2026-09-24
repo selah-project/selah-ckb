@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":7,"ref":"ecclesiastes 2:7","book":"ecclesiastes","lang":"ckb","chapter":2,"translation":"من کڕیم خزمەتکاران و خزمەتکارەکان، و کوڕانی ماڵ هەبوون لام؛ هەروەها ماڵات — گا و مەڕ — زۆر هەبوو لام، لە هەموو ئەوانەی لە پێشم بوون لە یەروشالایم ⟨قودس⟩.","tokens":[{"surface":"קניתי","gloss":"کڕیم"},{"surface":"עבדים","gloss":"خزمەتکاران"},{"surface":"ושפחות","gloss":"و خزمەتکارەکان"},{"surface":"ובני","gloss":"و کوڕانی"},{"surface":"בית","gloss":"ماڵ"},{"surface":"היה","gloss":"هەبوو"},{"surface":"לי","gloss":"لام"},{"surface":"גם","gloss":"هەروەها"},{"surface":"מקנה","gloss":"ماڵات"},{"surface":"בקר","gloss":"گا"},{"surface":"וצאן","gloss":"و مەڕ"},{"surface":"הרבה","gloss":"زۆر"},{"surface":"היה","gloss":"هەبوو"},{"surface":"לי","gloss":"لام"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"שהיו","gloss":"ئەوانەی بوون"},{"surface":"לפני","gloss":"لە پێشم"},{"surface":"בירושלם","gloss":"لە یەروشالایم"}],"timestamp":"2026-09-24T14:56:03.898655233Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 2:7",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "من کڕیم خزمەتکاران و خزمەتکارەکان، و کوڕانی ماڵ هەبوون لام؛ هەروەها ماڵات — گا و مەڕ — زۆر هەبوو لام، لە هەموو ئەوانەی لە پێشم بوون لە یەروشالایم ⟨قودس⟩.",
+  "tokens": [
+    {
+      "surface": "קניתי",
+      "gloss": "کڕیم"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "خزمەتکاران"
+    },
+    {
+      "surface": "ושפחות",
+      "gloss": "و خزمەتکارەکان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هەبوو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لام"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "و مەڕ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هەبوو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لام"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "שהיו",
+      "gloss": "ئەوانەی بوون"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێشم"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە یەروشالایم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:03.898655233Z",
+  "model": "glm-5.3"
+}

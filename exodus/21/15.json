@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":15,"ref":"exodus 21:15","book":"exodus","lang":"ckb","chapter":21,"translation":"و ئەوەی باوکی یان دایکی دەیدەرێت، بە دڵنیاییەوە دەکوژرێت.","tokens":[{"surface":"ומכה","gloss":"و ئەوەی دەیدەرێت"},{"surface":"אביו","gloss":"باوکی"},{"surface":"ואמו","gloss":"یان دایکی"},{"surface":"מות","gloss":"بە دڵنیاییەوە"},{"surface":"יומת","gloss":"دەکوژرێت"}],"timestamp":"2026-09-24T09:47:32.379630048Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئەوەی باوکی یان دایکی دەیدەرێت، بە دڵنیاییەوە دەکوژرێت.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "و ئەوەی دەیدەرێت"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "یان دایکی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "بە دڵنیاییەوە"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "دەکوژرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:47:32.379630048Z",
+  "model": "glm-5.3"
+}

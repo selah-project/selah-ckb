@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":16,"ref":"genesis 26:16","book":"genesis","lang":"ckb","chapter":26,"translation":"و ئەڤیمێلێخ فەرمووی بۆ ییتسحاق: بڕۆ لە لای ئێمەوە، چونکە زۆر بەهێزتر بوویت لە ئێمە.","tokens":[{"surface":"ויאמר","gloss":"فەرمووی"},{"surface":"אבימלך","gloss":"ئەڤیمێلێخ ⟨ئەبیمەلێک⟩"},{"surface":"אל","gloss":"بۆ"},{"surface":"יצחק","gloss":"ییتسحاق ⟨ئیسحاق⟩"},{"surface":"לך","gloss":"بڕۆ"},{"surface":"מעמנו","gloss":"لە لای ئێمەوە"},{"surface":"כי","gloss":"چونکە"},{"surface":"עצמת","gloss":"بەهێزتر بوویت"},{"surface":"ממנו","gloss":"لە ئێمە"},{"surface":"מאד","gloss":"زۆر"}],"timestamp":"2026-09-24T09:22:00.184977023Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و ئەڤیمێلێخ فەرمووی بۆ ییتسحاق: بڕۆ لە لای ئێمەوە، چونکە زۆر بەهێزتر بوویت لە ئێمە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ئەڤیمێلێخ ⟨ئەبیمەلێک⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق ⟨ئیسحاق⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "لە لای ئێمەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "بەهێزتر بوویت"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لە ئێمە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:22:00.184977023Z",
+  "model": "glm-5.3"
+}

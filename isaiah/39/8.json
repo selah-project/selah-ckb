@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":8,"ref":"isaiah 39:8","book":"isaiah","lang":"ckb","chapter":39,"translation":"و حیزقییاهو فەرمووی بۆ یەشایاهو: چاکە وشەی یاهوە کە تۆ فەرمووتە. و فەرمووی: چونکە لە ڕۆژانی مندا ئاشتی و ڕاستی دەبێت.","tokens":[{"surface":"ויאמר","gloss":"و فەرمووی"},{"surface":"חזקיהו","gloss":"حیزقییاهو"},{"surface":"אל","gloss":"بۆ"},{"surface":"ישעיהו","gloss":"یەشایاهو"},{"surface":"טוב","gloss":"چاکە"},{"surface":"דבר","gloss":"وشەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אשר","gloss":"کە"},{"surface":"דברת","gloss":"فەرمووتە"},{"surface":"ויאמר","gloss":"و فەرمووی"},{"surface":"כי","gloss":"چونکە"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"שלום","gloss":"ئاشتی"},{"surface":"ואמת","gloss":"و ڕاستی"},{"surface":"בימי","gloss":"لە ڕۆژانی مندا"}],"timestamp":"2026-09-24T12:26:00.660230646Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 39:8",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و حیزقییاهو فەرمووی بۆ یەشایاهو: چاکە وشەی یاهوە کە تۆ فەرمووتە. و فەرمووی: چونکە لە ڕۆژانی مندا ئاشتی و ڕاستی دەبێت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حیزقییاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یەشایاهو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "فەرمووتە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "و ڕاستی"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "لە ڕۆژانی مندا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:26:00.660230646Z",
+  "model": "glm-5.3"
+}

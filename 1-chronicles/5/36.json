@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":36,"ref":"1-chronicles 5:36","book":"1-chronicles","lang":"ckb","chapter":5,"translation":"و یۆحانان ⟨את⟩ عەزەریای بەخاوەند کرد، ئەوەی لە ئەو خانەیەدا کە شلۆمۆ ⟨لە⟩ ئۆرشەلیم بینایی، خزمەتی کاهینی کرد","tokens":[{"surface":"ויוחנן","gloss":"و یۆحانان"},{"surface":"הוליד","gloss":"بەخاوەند کرد"},{"surface":"את","gloss":"⟨את⟩","marks":"عەزەریا"},{"surface":"עזריה","gloss":"عەزەریا"},{"surface":"הוא","gloss":"ئەوە"},{"surface":"אשר","gloss":"کە"},{"surface":"כהן","gloss":"خزمەتی کاهینی کرد"},{"surface":"בבית","gloss":"لە ئەو خانەیەدا"},{"surface":"אשר","gloss":"کە"},{"surface":"בנה","gloss":"بینایی"},{"surface":"שלמה","gloss":"شلۆمۆ"},{"surface":"בירושלם","gloss":"ئۆرشەلیم"}],"timestamp":"2026-09-24T16:27:44.842233555Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 5:36",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و یۆحانان ⟨את⟩ عەزەریای بەخاوەند کرد، ئەوەی لە ئەو خانەیەدا کە شلۆمۆ ⟨لە⟩ ئۆرشەلیم بینایی، خزمەتی کاهینی کرد",
+  "tokens": [
+    {
+      "surface": "ויוחנן",
+      "gloss": "و یۆحانان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخاوەند کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەزەریا"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عەزەریا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "خزمەتی کاهینی کرد"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە ئەو خانەیەدا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بینایی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ئۆرشەلیم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:27:44.842233555Z",
+  "model": "glm-5.3"
+}

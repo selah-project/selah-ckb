@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":21,"ref":"ezekiel 45:21","book":"ezekiel","lang":"ckb","chapter":45,"translation":"لە یەکەمدا لە چواردەیەمی ڕۆژی مانگەکە پەسحی بۆ ئێوە دەبێت، جەژنی حەوت ڕۆژە، نانی بێ هەویر ⟨دەخورێت⟩.","tokens":[{"surface":"בראשון","gloss":"لە یەکەمدا"},{"surface":"בארבעה","gloss":"چوار"},{"surface":"עשר","gloss":"دە"},{"surface":"יום","gloss":"ڕۆژ"},{"surface":"לחדש","gloss":"مانگەکە"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"לכם","gloss":"بۆ ئێوە"},{"surface":"הפסח","gloss":"پەسحی"},{"surface":"חג","gloss":"جەژنی"},{"surface":"שבעות","gloss":"حەوت"},{"surface":"ימים","gloss":"ڕۆژ"},{"surface":"מצות","gloss":"نانی بێ هەویر"},{"surface":"יאכל","gloss":"دەخورێت"}],"timestamp":"2026-09-24T13:25:56.473493820Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 45:21",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "لە یەکەمدا لە چواردەیەمی ڕۆژی مانگەکە پەسحی بۆ ئێوە دەبێت، جەژنی حەوت ڕۆژە، نانی بێ هەویر ⟨دەخورێت⟩.",
+  "tokens": [
+    {
+      "surface": "בראשון",
+      "gloss": "لە یەکەمدا"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگەکە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پەسحی"
+    },
+    {
+      "surface": "חג",
+      "gloss": "جەژنی"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "نانی بێ هەویر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دەخورێت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:25:56.473493820Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 125:4","book":"psalms","lang":"ckb","chapter":125,"translation":"یاهوە، چاکە بە چاکەکان بکە و بە ڕاستەقینەکان لە دڵەکانیاندا.","tokens":[{"surface":"היטיבה","gloss":"چاکە بکە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"לטובים","gloss":"بە چاکەکان"},{"surface":"ולישרים","gloss":"و بە ڕاستەقینەکان"},{"surface":"בלבותם","gloss":"لە دڵەکانیاندا"}],"timestamp":"2026-09-24T14:18:34.776067773Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 125,
+  "translation": "یاهوە، چاکە بە چاکەکان بکە و بە ڕاستەقینەکان لە دڵەکانیاندا.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "چاکە بکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "بە چاکەکان"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "و بە ڕاستەقینەکان"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "لە دڵەکانیاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:34.776067773Z",
+  "model": "glm-5.3"
+}

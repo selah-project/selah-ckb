@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-kings 17:12","book":"2-kings","lang":"ckb","chapter":17,"translation":"و گیلولیمەکانیان خزمەتکرد، کە یاهوە پێی فەرموو بوو: ⟨את⟩ ئەم کارە مەکەن.","tokens":[{"surface":"ויעבדו","gloss":"خزمەتیانکرد"},{"surface":"הגללים","gloss":"گیلولیمەکان"},{"surface":"אשר","gloss":"کە"},{"surface":"אמר","gloss":"فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"להם","gloss":"پێیان"},{"surface":"לא","gloss":"مە"},{"surface":"תעשו","gloss":"کەن"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەم کارە"},{"surface":"הדבר","gloss":"کار"},{"surface":"הזה","gloss":"ئەمە"}],"timestamp":"2026-09-24T12:07:07.120186040Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و گیلولیمەکانیان خزمەتکرد، کە یاهوە پێی فەرموو بوو: ⟨את⟩ ئەم کارە مەکەن.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "خزمەتیانکرد"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "گیلولیمەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم کارە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:07:07.120186040Z",
+  "model": "glm-5.3"
+}

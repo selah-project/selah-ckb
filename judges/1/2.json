@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":2,"ref":"judges 1:2","book":"judges","lang":"ckb","chapter":1,"translation":"و یاهوە فەرمووی: یێهودا دەچێتە سەر؛ ئەوەتا من ⟨את⟩ زەوییەکەم داوەتە دەستی ئەو.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"יהודה","gloss":"یێهودا"},{"surface":"יעלה","gloss":"دەچێتە سەر"},{"surface":"הנה","gloss":"ئەوەتا"},{"surface":"נתתי","gloss":"داوەتە"},{"surface":"את","gloss":"⟨את⟩","marks":"زەوییەکە"},{"surface":"הארץ","gloss":"زەوییەکە"},{"surface":"בידו","gloss":"دەستی ئەو"}],"timestamp":"2026-09-24T11:03:43.311715756Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و یاهوە فەرمووی: یێهودا دەچێتە سەر؛ ئەوەتا من ⟨את⟩ زەوییەکەم داوەتە دەستی ئەو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یێهودا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "دەچێتە سەر"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داوەتە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەوییەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوییەکە"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "دەستی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:03:43.311715756Z",
+  "model": "glm-5.3"
+}

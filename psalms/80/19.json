@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":19,"ref":"psalms 80:19","book":"psalms","lang":"ckb","chapter":80,"translation":"و لە تۆ پاشەکشە ناکەین؛ ژیاندەتەوە و بە ناوت بانگ دەکەین.","tokens":[{"surface":"ולא","gloss":"و ناکەین"},{"surface":"נסוג","gloss":"پاشەکشە"},{"surface":"ממך","gloss":"لە تۆ"},{"surface":"תחינו","gloss":"ژیاندەتەوە"},{"surface":"ובשמך","gloss":"و بە ناوت"},{"surface":"נקרא","gloss":"بانگ دەکەین"}],"timestamp":"2026-09-24T14:06:19.329691068Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 80,
+  "translation": "و لە تۆ پاشەکشە ناکەین؛ ژیاندەتەوە و بە ناوت بانگ دەکەین.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و ناکەین"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "پاشەکشە"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "ژیاندەتەوە"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "و بە ناوت"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "بانگ دەکەین"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:19.329691068Z",
+  "model": "glm-5.3"
+}

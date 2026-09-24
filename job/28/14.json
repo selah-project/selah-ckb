@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":14,"ref":"job 28:14","book":"job","lang":"ckb","chapter":28,"translation":"قووڵایی وت: لە من نییە، و دەریا وت: لەگەڵ من نییە.","tokens":[{"surface":"תהום","gloss":"قووڵایی"},{"surface":"אמר","gloss":"وت"},{"surface":"לא","gloss":"نا"},{"surface":"בי","gloss":"لە من"},{"surface":"היא","gloss":"نییە"},{"surface":"וים","gloss":"و دەریا"},{"surface":"אמר","gloss":"وت"},{"surface":"אין","gloss":"نییە"},{"surface":"עמדי","gloss":"لەگەڵ من"}],"timestamp":"2026-09-24T14:41:49.628859735Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "قووڵایی وت: لە من نییە، و دەریا وت: لەگەڵ من نییە.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "قووڵایی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "היא",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "וים",
+      "gloss": "و دەریا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "لەگەڵ من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:49.628859735Z",
+  "model": "glm-5.3"
+}

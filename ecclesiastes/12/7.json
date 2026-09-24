@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":7,"ref":"ecclesiastes 12:7","book":"ecclesiastes","lang":"ckb","chapter":12,"translation":"و خۆڵەکە دەگەڕێتەوە سەر زەوی وەک لە سەرەتادا بوو، و ڕۆحەکە دەگەڕێتەوە بۆ لای ئێلۆهیم کە ئەوی داوە.","tokens":[{"surface":"וישב","gloss":"و دەگەڕێتەوە"},{"surface":"העפר","gloss":"خۆڵەکە"},{"surface":"על","gloss":"سەر"},{"surface":"הארץ","gloss":"زەوی"},{"surface":"כשהיה","gloss":"وەک لە سەرەتادا بوو"},{"surface":"והרוח","gloss":"و ڕۆحەکە"},{"surface":"תשוב","gloss":"دەگەڕێتەوە"},{"surface":"אל","gloss":"بۆ لای"},{"surface":"האלהים","gloss":"ئێلۆهیم"},{"surface":"אשר","gloss":"کە"},{"surface":"נתנה","gloss":"ئەوی داوە"}],"timestamp":"2026-09-24T14:59:04.771912085Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و خۆڵەکە دەگەڕێتەوە سەر زەوی وەک لە سەرەتادا بوو، و ڕۆحەکە دەگەڕێتەوە بۆ لای ئێلۆهیم کە ئەوی داوە.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و دەگەڕێتەوە"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "خۆڵەکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "وەک لە سەرەتادا بوو"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "و ڕۆحەکە"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "دەگەڕێتەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ئەوی داوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:59:04.771912085Z",
+  "model": "glm-5.3"
+}

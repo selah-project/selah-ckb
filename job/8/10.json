@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":10,"ref":"job 8:10","book":"job","lang":"ckb","chapter":8,"translation":"ئایا ئەوان فێرت ناکەن و بۆت ناڵێن، و لە دڵیانەوە وشە دەردەهێنن؟","tokens":[{"surface":"הלא","gloss":"ئایا"},{"surface":"הם","gloss":"ئەوان"},{"surface":"יורוך","gloss":"فێرت ناکەن"},{"surface":"יאמרו","gloss":"ناڵێن"},{"surface":"לך","gloss":"بۆت"},{"surface":"ומלבם","gloss":"و لە دڵیانەوە"},{"surface":"יוצאו","gloss":"دەردەهێنن"},{"surface":"מלים","gloss":"وشە"}],"timestamp":"2026-09-24T16:04:29.404877719Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئایا ئەوان فێرت ناکەن و بۆت ناڵێن، و لە دڵیانەوە وشە دەردەهێنن؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "فێرت ناکەن"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ناڵێن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆت"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "و لە دڵیانەوە"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "دەردەهێنن"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "وشە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:29.404877719Z",
+  "model": "glm-5.3"
+}

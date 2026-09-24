@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":14,"ref":"jonah 1:14","book":"jonah","lang":"ckb","chapter":1,"translation":"و بۆ یاهوە بانگیان کرد و وتیان: ئەی یاهوە، تکایە مەکە بە گیانی ئەم پیاوە لەناو بچین، و مەدە لەسەرمان خوێنی بێتاوان، چونکە تۆ یاهوە وەک چۆن ویستت کردت.","tokens":[{"surface":"ויקראו","gloss":"و بانگیان کرد"},{"surface":"אל","gloss":"بۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ויאמרו","gloss":"و وتیان"},{"surface":"אנה","gloss":"ئەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"مەکە"},{"surface":"נא","gloss":"تکایە"},{"surface":"נאבדה","gloss":"لەناو بچین"},{"surface":"בנפש","gloss":"بە گیانی"},{"surface":"האיש","gloss":"ئەم پیاوە"},{"surface":"הזה","gloss":"ئەمە"},{"surface":"ואל","gloss":"و مەدە"},{"surface":"תתן","gloss":"دەدەیت"},{"surface":"עלינו","gloss":"لەسەرمان"},{"surface":"דם","gloss":"خوێن"},{"surface":"נקיא","gloss":"بێتاوان"},{"surface":"כי","gloss":"چونکە"},{"surface":"אתה","gloss":"تۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"כאשר","gloss":"وەک چۆن"},{"surface":"חפצת","gloss":"ویستت"},{"surface":"עשית","gloss":"کردت"}],"timestamp":"2026-09-24T13:37:10.993132376Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jonah 1:14",
+  "book": "jonah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و بۆ یاهوە بانگیان کرد و وتیان: ئەی یاهوە، تکایە مەکە بە گیانی ئەم پیاوە لەناو بچین، و مەدە لەسەرمان خوێنی بێتاوان، چونکە تۆ یاهوە وەک چۆن ویستت کردت.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "و بانگیان کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و وتیان"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ئەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەکە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "נאבדה",
+      "gloss": "لەناو بچین"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "بە گیانی"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ئەم پیاوە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مەدە"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دەدەیت"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "لەسەرمان"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "נקיא",
+      "gloss": "بێتاوان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ویستت"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:37:10.993132376Z",
+  "model": "glm-5.3"
+}

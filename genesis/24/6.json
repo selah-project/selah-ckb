@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":6,"ref":"genesis 24:6","book":"genesis","lang":"ckb","chapter":24,"translation":"و ئاڤراهام ⟨ئیبراهیم⟩ پێی فەرموو: هۆشیاربە لەخۆت، مەگەر ⟨את⟩ کوڕەکەم بگەڕێنیتەوە بۆ ئەوێ.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"אליו","gloss":"پێی"},{"surface":"אברהם","gloss":"ئاڤراهام ⟨ئیبراهیم⟩"},{"surface":"השמר","gloss":"هۆشیاربە"},{"surface":"לך","gloss":"لەخۆت"},{"surface":"פן","gloss":"مەگەر"},{"surface":"תשיב","gloss":"بگەڕێنیتەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"کوڕەکەم"},{"surface":"בני","gloss":"کوڕەکەم"},{"surface":"שמה","gloss":"بۆ ئەوێ"}],"timestamp":"2026-09-24T09:20:34.904356918Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و ئاڤراهام ⟨ئیبراهیم⟩ پێی فەرموو: هۆشیاربە لەخۆت، مەگەر ⟨את⟩ کوڕەکەم بگەڕێنیتەوە بۆ ئەوێ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام ⟨ئیبراهیم⟩"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "هۆشیاربە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لەخۆت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "مەگەر"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "بگەڕێنیتەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕەکەم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکەم"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "بۆ ئەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:34.904356918Z",
+  "model": "glm-5.3"
+}

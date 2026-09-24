@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":7,"ref":"hosea 8:7","book":"hosea","lang":"ckb","chapter":8,"translation":"چونکە با دەیکەنن و زریان دەدرنێن؛ سەرەقەمێکی بۆی نییە؛ گەشەی سەرەتایی ئارد دروست ناکات؛ ڕەنگە دروستی بکات، بیانییەکان دەیقووتن.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"רוח","gloss":"با"},{"surface":"יזרעו","gloss":"دەیکەنن"},{"surface":"וסופתה","gloss":"و زریان"},{"surface":"יקצרו","gloss":"دەدرنێن"},{"surface":"קמה","gloss":"سەرەقەم"},{"surface":"אין","gloss":"نییە"},{"surface":"לו","gloss":"بۆی"},{"surface":"צמח","gloss":"گەشەی سەرەتایی"},{"surface":"בלי","gloss":"بێ"},{"surface":"יעשה","gloss":"دروست دەکات"},{"surface":"קמח","gloss":"ئارد"},{"surface":"אולי","gloss":"ڕەنگە"},{"surface":"יעשה","gloss":"بدا"},{"surface":"זרים","gloss":"بیانییەکان"},{"surface":"יבלעהו","gloss":"دەیقووتن"}],"timestamp":"2026-09-24T13:31:02.191091733Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "چونکە با دەیکەنن و زریان دەدرنێن؛ سەرەقەمێکی بۆی نییە؛ گەشەی سەرەتایی ئارد دروست ناکات؛ ڕەنگە دروستی بکات، بیانییەکان دەیقووتن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "با"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "دەیکەنن"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "و زریان"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "دەدرنێن"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "سەرەقەم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "گەشەی سەرەتایی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دروست دەکات"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ئارد"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ڕەنگە"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بدا"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "بیانییەکان"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "دەیقووتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:31:02.191091733Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":27,"ref":"psalms 18:27","book":"psalms","lang":"ckb","chapter":18,"translation":"لەگەڵ پاک خۆت پاک دەکەیت، و لەگەڵ چەڵەمە خۆت پیچ دەکەیت","tokens":[{"surface":"עם","gloss":"لەگەڵ"},{"surface":"נבר","gloss":"پاک"},{"surface":"תתברר","gloss":"خۆت پاک دەکەیت"},{"surface":"ועם","gloss":"و لەگەڵ"},{"surface":"עקש","gloss":"چەڵەمە"},{"surface":"תתפתל","gloss":"خۆت پیچ دەکەیت"}],"timestamp":"2026-09-24T13:51:37.072531061Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "لەگەڵ پاک خۆت پاک دەکەیت، و لەگەڵ چەڵەمە خۆت پیچ دەکەیت",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "خۆت پاک دەکەیت"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و لەگەڵ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "چەڵەمە"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "خۆت پیچ دەکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:37.072531061Z",
+  "model": "glm-5.3"
+}

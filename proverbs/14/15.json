@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":15,"ref":"proverbs 14:15","book":"proverbs","lang":"ckb","chapter":14,"translation":"سادەلووڤ بە هەموو شتێک باوەڕ دەکات و ئاقڵ دەرئەنجامی ڕێڕەوی خۆی دەبینێت.","tokens":[{"surface":"פתי","gloss":"سادەلووڤ"},{"surface":"יאמין","gloss":"باوەڕ دەکات"},{"surface":"לכל","gloss":"بە هەموو"},{"surface":"דבר","gloss":"شتێک"},{"surface":"וערום","gloss":"و ئاقڵ"},{"surface":"יבין","gloss":"دەبینێت"},{"surface":"לאשרו","gloss":"دەرئەنجامی ڕێڕەوی خۆی"}],"timestamp":"2026-09-24T14:26:12.157187260Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "سادەلووڤ بە هەموو شتێک باوەڕ دەکات و ئاقڵ دەرئەنجامی ڕێڕەوی خۆی دەبینێت.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "سادەلووڤ"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "باوەڕ دەکات"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شتێک"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "و ئاقڵ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "دەبینێت"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "دەرئەنجامی ڕێڕەوی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:12.157187260Z",
+  "model": "glm-5.3"
+}

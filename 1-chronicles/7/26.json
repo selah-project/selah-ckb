@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":26,"ref":"1-chronicles 7:26","book":"1-chronicles","lang":"ckb","chapter":7,"translation":"لەئادان کوڕەکەی، عەمیهود کوڕەکەی، ئەلیشاماع کوڕەکەی.","tokens":[{"surface":"לעדן","gloss":"لەئادان"},{"surface":"בנו","gloss":"کوڕەکەی"},{"surface":"עמיהוד","gloss":"عەمیهود"},{"surface":"בנו","gloss":"کوڕەکەی"},{"surface":"אלישמע","gloss":"ئەلیشاماع"},{"surface":"בנו","gloss":"کوڕەکەی"}],"timestamp":"2026-09-24T15:23:32.731364433Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لەئادان کوڕەکەی، عەمیهود کوڕەکەی، ئەلیشاماع کوڕەکەی.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "لەئادان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عەمیهود"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "ئەلیشاماع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:32.731364433Z",
+  "model": "glm-5.3"
+}

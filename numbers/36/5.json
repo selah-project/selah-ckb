@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":5,"ref":"numbers 36:5","book":"numbers","lang":"ckb","chapter":36,"translation":"و مۆشە ⟨موسا⟩ فەرمانی دا بە ⟨את⟩ کوڕانی ییسرائیل لەسەر دەمی یاهوە بە وتنی کە: بەم شێوەیە هۆزی کوڕانی یۆسێف قسە دەکەن.","tokens":[{"surface":"ויצו","gloss":"و فەرمانی دا"},{"surface":"משה","gloss":"مۆشە"},{"surface":"את","gloss":"⟨את⟩","marks":"کوڕانی ییسرائیل"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ییسرائیل"},{"surface":"על","gloss":"لەسەر"},{"surface":"פי","gloss":"دەمی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"לאמר","gloss":"بە وتنی کە"},{"surface":"כן","gloss":"بەم شێوەیە"},{"surface":"מטה","gloss":"هۆزی"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"יוסף","gloss":"یۆسێف"},{"surface":"דברים","gloss":"قسە دەکەن"}],"timestamp":"2026-09-24T10:33:33.907464624Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و مۆشە ⟨موسا⟩ فەرمانی دا بە ⟨את⟩ کوڕانی ییسرائیل لەسەر دەمی یاهوە بە وتنی کە: بەم شێوەیە هۆزی کوڕانی یۆسێف قسە دەکەن.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "و فەرمانی دا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕانی ییسرائیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی کە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "بەم شێوەیە"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "قسە دەکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:33:33.907464624Z",
+  "model": "glm-5.3"
+}

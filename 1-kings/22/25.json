@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":25,"ref":"1-kings 22:25","book":"1-kings","lang":"ckb","chapter":22,"translation":"و میکایەهو فەرموو: ئەوا تۆ لە ڕۆژی ئەودا دەبینیت، کە دەچیتە ژوورێک لە ناو ژوورێک بۆ خۆشاردنەوە.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"מיכיהו","gloss":"میکایەهو"},{"surface":"הנך","gloss":"ئەوا تۆ"},{"surface":"ראה","gloss":"دەبینیت"},{"surface":"ביום","gloss":"لە ڕۆژی"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"אשר","gloss":"کە"},{"surface":"תבא","gloss":"دەچیت"},{"surface":"חדר","gloss":"ژوورێک"},{"surface":"בחדר","gloss":"لە ناو ژوورێک"},{"surface":"להחבה","gloss":"بۆ خۆشاردنەوە"}],"timestamp":"2026-09-24T11:58:24.275209896Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 22:25",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و میکایەهو فەرموو: ئەوا تۆ لە ڕۆژی ئەودا دەبینیت، کە دەچیتە ژوورێک لە ناو ژوورێک بۆ خۆشاردنەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "میکایەهو"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ئەوا تۆ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دەبینیت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "دەچیت"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "ژوورێک"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "لە ناو ژوورێک"
+    },
+    {
+      "surface": "להחבה",
+      "gloss": "بۆ خۆشاردنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:58:24.275209896Z",
+  "model": "glm-5.3"
+}

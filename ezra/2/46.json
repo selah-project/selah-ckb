@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":46,"ref":"ezra 2:46","book":"ezra","lang":"ckb","chapter":2,"translation":"کوڕەکانی حاگاڤ، کوڕەکانی شەملای، کوڕەکانی حەنان.","tokens":[{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"חגב","gloss":"حاگاڤ"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"שמלי","gloss":"شەملای"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"חנן","gloss":"حەنان"}],"timestamp":"2026-09-24T15:10:34.049552962Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "کوڕەکانی حاگاڤ، کوڕەکانی شەملای، کوڕەکانی حەنان.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "حاگاڤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "شەملای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حەنان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:10:34.049552962Z",
+  "model": "glm-5.3"
+}

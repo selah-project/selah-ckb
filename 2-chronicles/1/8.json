@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-chronicles 1:8","book":"2-chronicles","lang":"ckb","chapter":1,"translation":"و شلۆمۆ بە ئێلۆهیمی وت: تۆ لەگەڵ داودی باوکم حەسەدێکی گەورەت کرد، و منت لە جێی ئەو کردۆتە پاشا.","tokens":[{"surface":"ויאמר","gloss":"و وت"},{"surface":"שלמה","gloss":"شلۆمۆ"},{"surface":"לאלהים","gloss":"بە ئێلۆهیم"},{"surface":"אתה","gloss":"تۆ"},{"surface":"עשית","gloss":"کردت"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"דויד","gloss":"داود"},{"surface":"אבי","gloss":"باوکم"},{"surface":"חסד","gloss":"حەسەد"},{"surface":"גדול","gloss":"گەورە"},{"surface":"והמלכתני","gloss":"و منت کردۆتە پاشا"},{"surface":"תחתיו","gloss":"لە جێی ئەو"}],"timestamp":"2026-09-24T15:32:47.137827719Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و شلۆمۆ بە ئێلۆهیمی وت: تۆ لەگەڵ داودی باوکم حەسەدێکی گەورەت کرد، و منت لە جێی ئەو کردۆتە پاشا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلۆمۆ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بە ئێلۆهیم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "و منت کردۆتە پاشا"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جێی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:32:47.137827719Z",
+  "model": "glm-5.3"
+}

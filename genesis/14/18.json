@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":18,"ref":"genesis 14:18","book":"genesis","lang":"ckb","chapter":14,"translation":"و مەلکی سادق پاشای شالێم نان و شەراب دەرهێنا، و ئەو خۆی کاهینی ئێل عەلیۆن بوو.","tokens":[{"surface":"ומלכי","gloss":"و مەلکی"},{"surface":"צדק","gloss":"سادق"},{"surface":"מלך","gloss":"پاشای"},{"surface":"שלם","gloss":"شالێم"},{"surface":"הוציא","gloss":"دەرهێنا"},{"surface":"לחם","gloss":"نان"},{"surface":"ויין","gloss":"و شەراب"},{"surface":"והוא","gloss":"و ئەو خۆی"},{"surface":"כהן","gloss":"کاهینی"},{"surface":"לאל","gloss":"ئێلی"},{"surface":"עליון","gloss":"عەلیۆن"}],"timestamp":"2026-09-24T09:15:32.034149411Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و مەلکی سادق پاشای شالێم نان و شەراب دەرهێنا، و ئەو خۆی کاهینی ئێل عەلیۆن بوو.",
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "و مەلکی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "سادق"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "شالێم"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "دەرهێنا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شەراب"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو خۆی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهینی"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ئێلی"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عەلیۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:15:32.034149411Z",
+  "model": "glm-5.3"
+}

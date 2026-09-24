@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":12,"ref":"jeremiah 29:12","book":"jeremiah","lang":"ckb","chapter":29,"translation":"و بانگی من دەکەن ⟨את⟩ و دەڕۆن و لای من نوێژ دەکەن و گوێ لە ئێوە دەگرم،","tokens":[{"surface":"וקראתם","gloss":"و بانگی من دەکەن"},{"surface":"אתי","gloss":"⟨את⟩","marks":"و دەڕۆن"},{"surface":"והלכתם","gloss":"و دەڕۆن"},{"surface":"והתפללתם","gloss":"و لای من نوێژ دەکەن"},{"surface":"אלי","gloss":"لای من"},{"surface":"ושמעתי","gloss":"و گوێ دەگرم"},{"surface":"אליכם","gloss":"لە ئێوە"}],"timestamp":"2026-09-24T16:51:39.104973764Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و بانگی من دەکەن ⟨את⟩ و دەڕۆن و لای من نوێژ دەکەن و گوێ لە ئێوە دەگرم،",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "و بانگی من دەکەن"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "و دەڕۆن"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "و دەڕۆن"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "و لای من نوێژ دەکەن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "و گوێ دەگرم"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "لە ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:51:39.104973764Z",
+  "model": "glm-5.3"
+}

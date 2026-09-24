@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":9,"ref":"esther 5:9","book":"esther","lang":"ckb","chapter":5,"translation":"هامان ⟨هامان⟩ لەو ڕۆژەدا دەرچوو شاد و دڵخۆش، و کە هامان ⟨את⟩ مۆردەخای بینی لە دەروازەی پاداشا، و نەهەستا و نەلەرزی لێی، ئەوکات هامان پڕ بوو لە تووڕەیی لەسەر مۆردەخای.","tokens":[{"surface":"ויצא","gloss":"دەرچوو"},{"surface":"המן","gloss":"هامان"},{"surface":"ביום","gloss":"لەو ڕۆژەدا"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"שמח","gloss":"شاد"},{"surface":"וטוב","gloss":"و دڵخۆش"},{"surface":"לב","gloss":"دڵ"},{"surface":"וכראות","gloss":"و کە بینی"},{"surface":"המן","gloss":"هامان"},{"surface":"את","gloss":"⟨את⟩","marks":"مۆردەخای"},{"surface":"מרדכי","gloss":"مۆردەخای"},{"surface":"בשער","gloss":"لە دەروازەی"},{"surface":"המלך","gloss":"پاداشا"},{"surface":"ולא","gloss":"و نە"},{"surface":"קם","gloss":"هەستا"},{"surface":"ולא","gloss":"و نە"},{"surface":"זע","gloss":"لەرزی"},{"surface":"ממנו","gloss":"لێی"},{"surface":"וימלא","gloss":"پڕ بوو"},{"surface":"המן","gloss":"هامان"},{"surface":"על","gloss":"لەسەر"},{"surface":"מרדכי","gloss":"مۆردەخای"},{"surface":"חמה","gloss":"تووڕەیی"}],"timestamp":"2026-09-24T14:59:28.232742754Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 5:9",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "هامان ⟨هامان⟩ لەو ڕۆژەدا دەرچوو شاد و دڵخۆش، و کە هامان ⟨את⟩ مۆردەخای بینی لە دەروازەی پاداشا، و نەهەستا و نەلەرزی لێی، ئەوکات هامان پڕ بوو لە تووڕەیی لەسەر مۆردەخای.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "دەرچوو"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لەو ڕۆژەدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "شاد"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "و دڵخۆش"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "וכראות",
+      "gloss": "و کە بینی"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۆردەخای"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مۆردەخای"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "لە دەروازەی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاداشا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "קם",
+      "gloss": "هەستا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "זע",
+      "gloss": "لەرزی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "پڕ بوو"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مۆردەخای"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "تووڕەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:59:28.232742754Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":16,"ref":"psalms 135:16","book":"psalms","lang":"ckb","chapter":135,"translation":"دەمیان هەیە و قسە ناکەن؛ چاویانیان هەیە و نابینن.","tokens":[{"surface":"פה","gloss":"دەم"},{"surface":"להם","gloss":"بۆیان"},{"surface":"ולא","gloss":"و نا"},{"surface":"ידברו","gloss":"قسە دەکەن"},{"surface":"עינים","gloss":"چاوەکان"},{"surface":"להם","gloss":"بۆیان"},{"surface":"ולא","gloss":"و نا"},{"surface":"יראו","gloss":"دەبینن"}],"timestamp":"2026-09-24T14:18:04.332644941Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 135,
+  "translation": "دەمیان هەیە و قسە ناکەن؛ چاویانیان هەیە و نابینن.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "دەم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "قسە دەکەن"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "چاوەکان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "دەبینن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:04.332644941Z",
+  "model": "glm-5.3"
+}

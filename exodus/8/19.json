@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":19,"ref":"exodus 8:19","book":"exodus","lang":"ckb","chapter":8,"translation":"و جیایی دەنێم لە نێوان گەلەکەم و لە نێوان گەلەکەت؛ سبەینێ ئەم نیشانە دەبێت.","tokens":[{"surface":"ושמתי","gloss":"و دەنێم"},{"surface":"פדת","gloss":"جیایی"},{"surface":"בין","gloss":"لە نێوان"},{"surface":"עמי","gloss":"گەلەکەم"},{"surface":"ובין","gloss":"و لە نێوان"},{"surface":"עמך","gloss":"گەلەکەت"},{"surface":"למחר","gloss":"سبەینێ"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"האת","gloss":"نیشانە"},{"surface":"הזה","gloss":"ئەم"}],"timestamp":"2026-09-24T09:39:52.217599864Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و جیایی دەنێم لە نێوان گەلەکەم و لە نێوان گەلەکەت؛ سبەینێ ئەم نیشانە دەبێت.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "و دەنێم"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "جیایی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەلەکەم"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و لە نێوان"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلەکەت"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "سبەینێ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "האת",
+      "gloss": "نیشانە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:39:52.217599864Z",
+  "model": "glm-5.3"
+}

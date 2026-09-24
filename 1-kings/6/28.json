@@ -1,1 +1,30 @@
-{"tier":"glm-5.2","verse":28,"ref":"1-kings 6:28","book":"1-kings","lang":"ckb","chapter":6,"translation":"و کێرووبەکانی ⟨את⟩ بە زێڕ چەسپاندنی پۆشتەکردن","tokens":[{"surface":"ויצף","gloss":"و داپۆشی"},{"surface":"את","gloss":"⟨את⟩","marks":"کێرووبەکان"},{"surface":"הכרובים","gloss":"کێرووبەکان"},{"surface":"זהב","gloss":"زێڕ"}],"timestamp":"2026-09-24T16:29:03.880894289Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و کێرووبەکانی ⟨את⟩ بە زێڕ چەسپاندنی پۆشتەکردن",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "و داپۆشی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کێرووبەکان"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کێرووبەکان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T16:29:03.880894289Z",
+  "model": "glm-5.3"
+}

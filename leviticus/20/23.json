@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":23,"ref":"leviticus 20:23","book":"leviticus","lang":"ckb","chapter":20,"translation":"و لە حوکمەکانی ئەو گەلەدا نەگەڕێن کە من لە ڕوویتانەوە دەریاندەخەم، چونکە ⟨את⟩ هەموو ئەمانەیان کرد و لێیان ڕق هەڵگیرسام.","tokens":[{"surface":"ולא","gloss":"و نا"},{"surface":"תלכו","gloss":"دەگەڕن"},{"surface":"בחקת","gloss":"لە حوکمەکانی"},{"surface":"הגוי","gloss":"ئەو گەلە"},{"surface":"אשר","gloss":"کە"},{"surface":"אני","gloss":"من"},{"surface":"משלח","gloss":"دەریاندەخەم"},{"surface":"מפניכם","gloss":"لە ڕوویتانەوە"},{"surface":"כי","gloss":"چونکە"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو ئەمانە"},{"surface":"כל","gloss":"هەموو"},{"surface":"אלה","gloss":"ئەمانە"},{"surface":"עשו","gloss":"کردیان"},{"surface":"ואקץ","gloss":"و لێیان ڕق هەڵگیرسام"},{"surface":"בם","gloss":"لێیان"}],"timestamp":"2026-09-24T10:09:45.159693305Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و لە حوکمەکانی ئەو گەلەدا نەگەڕێن کە من لە ڕوویتانەوە دەریاندەخەم، چونکە ⟨את⟩ هەموو ئەمانەیان کرد و لێیان ڕق هەڵگیرسام.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "دەگەڕن"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "لە حوکمەکانی"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ئەو گەلە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "دەریاندەخەم"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "لە ڕوویتانەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەمانە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردیان"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "و لێیان ڕق هەڵگیرسام"
+    },
+    {
+      "surface": "בם",
+      "gloss": "لێیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:45.159693305Z",
+  "model": "glm-5.3"
+}

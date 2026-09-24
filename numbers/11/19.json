@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":19,"ref":"numbers 11:19","book":"numbers","lang":"ckb","chapter":11,"translation":"نە یەک ڕۆژ دەخۆن و نە دوو ڕۆژ و نە پێنج ڕۆژ و نە دە ڕۆژ و نە بیست ڕۆژ","tokens":[{"surface":"לא","gloss":"نە"},{"surface":"יום","gloss":"یەک ڕۆژ"},{"surface":"אחד","gloss":"یەک"},{"surface":"תאכלון","gloss":"دەخۆن"},{"surface":"ולא","gloss":"و نە"},{"surface":"יומים","gloss":"دوو ڕۆژ"},{"surface":"ולא","gloss":"و نە"},{"surface":"חמשה","gloss":"پێنج"},{"surface":"ימים","gloss":"ڕۆژ"},{"surface":"ולא","gloss":"و نە"},{"surface":"עשרה","gloss":"دە"},{"surface":"ימים","gloss":"ڕۆژ"},{"surface":"ולא","gloss":"و نە"},{"surface":"עשרים","gloss":"بیست"},{"surface":"יום","gloss":"ڕۆژ"}],"timestamp":"2026-09-24T10:22:02.639852864Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "نە یەک ڕۆژ دەخۆن و نە دوو ڕۆژ و نە پێنج ڕۆژ و نە دە ڕۆژ و نە بیست ڕۆژ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יום",
+      "gloss": "یەک ڕۆژ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "دەخۆن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "دوو ڕۆژ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:22:02.639852864Z",
+  "model": "glm-5.3"
+}

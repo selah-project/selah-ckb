@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":20,"ref":"numbers 4:20","book":"numbers","lang":"ckb","chapter":4,"translation":"و با ناچنە ژوورەوە بۆ بینین وەکو فڕێدانی ⟨את⟩ پیرۆزییەکە و دەمرن.","tokens":[{"surface":"ולא","gloss":"و نا"},{"surface":"יבאו","gloss":"بچنە ژوورەوە"},{"surface":"לראות","gloss":"بۆ بینین"},{"surface":"כבלע","gloss":"وەکو فڕێدان"},{"surface":"את","gloss":"⟨את⟩","marks":"پیرۆزییەکە"},{"surface":"הקדש","gloss":"پیرۆزییەکە"},{"surface":"ומתו","gloss":"و دەمرن"}],"timestamp":"2026-09-24T10:15:00.004528910Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و با ناچنە ژوورەوە بۆ بینین وەکو فڕێدانی ⟨את⟩ پیرۆزییەکە و دەمرن.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "بچنە ژوورەوە"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "بۆ بینین"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "وەکو فڕێدان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیرۆزییەکە"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزییەکە"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "و دەمرن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:00.004528910Z",
+  "model": "glm-5.3"
+}

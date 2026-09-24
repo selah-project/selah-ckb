@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":23,"ref":"psalms 69:23","book":"psalms","lang":"ckb","chapter":69,"translation":"سفرەیان لەبەردەمیان ببێتە داو و بۆ ئاشتیان ببێتە تەڵە","tokens":[{"surface":"יהי","gloss":"ببێتە"},{"surface":"שלחנם","gloss":"سفرەیان"},{"surface":"לפניהם","gloss":"لەبەردەمیان"},{"surface":"לפח","gloss":"بۆ داو"},{"surface":"ולשלומים","gloss":"و بۆ ئاشتیان"},{"surface":"למוקש","gloss":"بۆ تەڵە"}],"timestamp":"2026-09-24T14:01:47.592322725Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "سفرەیان لەبەردەمیان ببێتە داو و بۆ ئاشتیان ببێتە تەڵە",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ببێتە"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "سفرەیان"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "لەبەردەمیان"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "بۆ داو"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "و بۆ ئاشتیان"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "بۆ تەڵە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:47.592322725Z",
+  "model": "glm-5.3"
+}

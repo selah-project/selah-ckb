@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":15,"ref":"2-chronicles 3:15","book":"2-chronicles","lang":"ckb","chapter":3,"translation":"و لە پێشی ماڵەکە دوو ستوونی کرد، درێژی سی و پێنج ئەمەه، و تاجەکەی کە لەسەر سەری بوو پێنج ئەمەه.","tokens":[{"surface":"ויעש","gloss":"و کرد"},{"surface":"לפני","gloss":"لە پێشی"},{"surface":"הבית","gloss":"ماڵەکە"},{"surface":"עמודים","gloss":"ستوون"},{"surface":"שנים","gloss":"دوو"},{"surface":"אמות","gloss":"ئەمەه"},{"surface":"שלשים","gloss":"سی"},{"surface":"וחמש","gloss":"و پێنج"},{"surface":"ארך","gloss":"درێژی"},{"surface":"והצפת","gloss":"و تاجەکەی"},{"surface":"אשר","gloss":"کە"},{"surface":"על","gloss":"لەسەر"},{"surface":"ראשו","gloss":"سەری"},{"surface":"אמות","gloss":"ئەمەه"},{"surface":"חמש","gloss":"پێنج"}],"timestamp":"2026-09-24T15:33:03.295865971Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و لە پێشی ماڵەکە دوو ستوونی کرد، درێژی سی و پێنج ئەمەه، و تاجەکەی کە لەسەر سەری بوو پێنج ئەمەه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێشی"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ماڵەکە"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "ستوون"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ئەمەه"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درێژی"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "و تاجەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ئەمەه"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:03.295865971Z",
+  "model": "glm-5.3"
+}

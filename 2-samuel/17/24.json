@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":24,"ref":"2-samuel 17:24","book":"2-samuel","lang":"ckb","chapter":17,"translation":"و داود هات مەحانایم، و ئەڤشالۆم ⟨את⟩ یاردێن پەڕاندەوە، ئەو و هەموو پیاوی ئیسرائیل لەگەڵی.","tokens":[{"surface":"ודוד","gloss":"و داود"},{"surface":"בא","gloss":"هات"},{"surface":"מחנימה","gloss":"مەحانایم"},{"surface":"ואבשלם","gloss":"و ئەڤشالۆم"},{"surface":"עבר","gloss":"پەڕاندەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"یاردێن"},{"surface":"הירדן","gloss":"یاردێن"},{"surface":"הוא","gloss":"ئەو"},{"surface":"וכל","gloss":"و هەموو"},{"surface":"איש","gloss":"پیاوی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"עמו","gloss":"لەگەڵی"}],"timestamp":"2026-09-24T11:39:17.764962734Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و داود هات مەحانایم، و ئەڤشالۆم ⟨את⟩ یاردێن پەڕاندەوە، ئەو و هەموو پیاوی ئیسرائیل لەگەڵی.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "و داود"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "مەحانایم"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "و ئەڤشالۆم"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پەڕاندەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاردێن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردێن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "لەگەڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:39:17.764962734Z",
+  "model": "glm-5.3"
+}

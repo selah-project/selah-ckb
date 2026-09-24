@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":18,"ref":"ecclesiastes 9:18","book":"ecclesiastes","lang":"ckb","chapter":9,"translation":"دانایی لە چەکەکانی جەنگ چاکترە، و یەک گوناهکار چاکەی زۆر لەناو دەبات.","tokens":[{"surface":"טובה","gloss":"چاکترە"},{"surface":"חכמה","gloss":"دانایی"},{"surface":"מכלי","gloss":"لە چەکەکانی"},{"surface":"קרב","gloss":"جەنگ"},{"surface":"וחוטא","gloss":"و گوناهکار"},{"surface":"אחד","gloss":"یەک"},{"surface":"יאבד","gloss":"لەناو دەبات"},{"surface":"טובה","gloss":"چاکەی"},{"surface":"הרבה","gloss":"زۆر"}],"timestamp":"2026-09-24T14:56:21.978820523Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "دانایی لە چەکەکانی جەنگ چاکترە، و یەک گوناهکار چاکەی زۆر لەناو دەبات.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "چاکترە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "لە چەکەکانی"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "جەنگ"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "و گوناهکار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "لەناو دەبات"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "چاکەی"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:21.978820523Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":15,"ref":"1-samuel 4:15","book":"1-samuel","lang":"ckb","chapter":4,"translation":"و عەیلی کوڕی نەوەد و هەشت ساڵ بوو و چاوەکانی ڕاوەستابوون و نەیدەتوانی ببینێت.","tokens":[{"surface":"ועלי","gloss":"و عەیلی"},{"surface":"בן","gloss":"کوڕی"},{"surface":"תשעים","gloss":"نەوەد"},{"surface":"ושמנה","gloss":"و هەشت"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"ועיניו","gloss":"و چاوەکانی"},{"surface":"קמה","gloss":"ڕاوەستابوون"},{"surface":"ולא","gloss":"و نە"},{"surface":"יכול","gloss":"دەتوانی"},{"surface":"לראות","gloss":"ببینێت"}],"timestamp":"2026-09-24T11:18:26.620117542Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و عەیلی کوڕی نەوەد و هەشت ساڵ بوو و چاوەکانی ڕاوەستابوون و نەیدەتوانی ببینێت.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "و عەیلی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نەوەد"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "و هەشت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "و چاوەکانی"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ڕاوەستابوون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "دەتوانی"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ببینێت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:18:26.620117542Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":9,"ref":"deuteronomy 12:9","book":"deuteronomy","lang":"ckb","chapter":12,"translation":"چونکە هێشتا نەهاتوونەتە ئەو ئارامە و ئەو میراتە، کە یاهوە ئێلۆهیمی ئێوە دەیداتێ","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نە"},{"surface":"באתם","gloss":"هاتوونەتە"},{"surface":"עד","gloss":"هێشتا"},{"surface":"עתה","gloss":"تا ئێستا"},{"surface":"אל","gloss":"بۆ"},{"surface":"המנוחה","gloss":"ئەو ئارامە"},{"surface":"ואל","gloss":"و بۆ"},{"surface":"הנחלה","gloss":"ئەو میراتە"},{"surface":"אשר","gloss":"کە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיך","gloss":"ئێلۆهیمی ئێوە"},{"surface":"נתן","gloss":"دەیداتێ"},{"surface":"לך","gloss":"بۆ تۆ"}],"timestamp":"2026-09-24T10:42:04.333622988Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "چونکە هێشتا نەهاتوونەتە ئەو ئارامە و ئەو میراتە، کە یاهوە ئێلۆهیمی ئێوە دەیداتێ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "هاتوونەتە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "تا ئێستا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ئەو ئارامە"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "ئەو میراتە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی ئێوە"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دەیداتێ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:04.333622988Z",
+  "model": "glm-5.3"
+}

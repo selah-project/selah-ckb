@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":27,"ref":"exodus 40:27","book":"exodus","lang":"ckb","chapter":40,"translation":"و لەسەری خۆشەبویی سووتاند، وەک چۆن یاهوە فەرمانی بە ⟨את⟩ مۆشە ⟨موسا⟩ کردبوو.","tokens":[{"surface":"ויקטר","gloss":"سووتاند"},{"surface":"עליו","gloss":"لەسەری"},{"surface":"קטרת","gloss":"خۆشەبویی"},{"surface":"סמים","gloss":"بۆنخۆش"},{"surface":"כאשר","gloss":"وەک چۆن"},{"surface":"צוה","gloss":"فەرمانی کردبوو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"את","gloss":"⟨את⟩","marks":"مۆشە"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"}],"timestamp":"2026-09-24T09:57:20.301341105Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و لەسەری خۆشەبویی سووتاند، وەک چۆن یاهوە فەرمانی بە ⟨את⟩ مۆشە ⟨موسا⟩ کردبوو.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "سووتاند"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خۆشەبویی"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "بۆنخۆش"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کردبوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۆشە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T09:57:20.301341105Z",
+  "model": "glm-5.3"
+}

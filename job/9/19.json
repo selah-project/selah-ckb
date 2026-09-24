@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":19,"ref":"job 9:19","book":"job","lang":"ckb","chapter":9,"translation":"ئەگەر بۆ هێز بێت — ئەوەتا ئەو بەهێزە؛ و ئەگەر بۆ داد بێت، کێ کاتێک بۆ دادگایی من دادەنێت؟","tokens":[{"surface":"אם","gloss":"ئەگەر"},{"surface":"לכח","gloss":"بۆ هێز"},{"surface":"אמיץ","gloss":"بەهێز"},{"surface":"הנה","gloss":"ئەوەتا"},{"surface":"ואם","gloss":"و ئەگەر"},{"surface":"למשפט","gloss":"بۆ داد"},{"surface":"מי","gloss":"کێ"},{"surface":"יועידני","gloss":"کاتێک بۆ دادگایی من دادەنێت"}],"timestamp":"2026-09-24T14:36:32.112467675Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 9:19",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "ئەگەر بۆ هێز بێت — ئەوەتا ئەو بەهێزە؛ و ئەگەر بۆ داد بێت، کێ کاتێک بۆ دادگایی من دادەنێت؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לכח",
+      "gloss": "بۆ هێز"
+    },
+    {
+      "surface": "אמיץ",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "بۆ داد"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יועידני",
+      "gloss": "کاتێک بۆ دادگایی من دادەنێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:32.112467675Z",
+  "model": "glm-5.3"
+}

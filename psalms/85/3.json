@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 85:3","book":"psalms","lang":"ckb","chapter":85,"translation":"سەرلێشێوانی گەلەکەتت هەڵگرت، هەموو تاوانەکانیانت شاردەوە، سێلا","tokens":[{"surface":"נשאת","gloss":"هەڵگرت"},{"surface":"עון","gloss":"سەرلێشێوانی"},{"surface":"עמך","gloss":"گەلەکەتت"},{"surface":"כסית","gloss":"شاردەوە"},{"surface":"כל","gloss":"هەموو"},{"surface":"חטאתם","gloss":"تاوانەکانیان"},{"surface":"סלה","gloss":"سێلا"}],"timestamp":"2026-09-24T14:07:13.876028102Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 85,
+  "translation": "سەرلێشێوانی گەلەکەتت هەڵگرت، هەموو تاوانەکانیانت شاردەوە، سێلا",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "هەڵگرت"
+    },
+    {
+      "surface": "עון",
+      "gloss": "سەرلێشێوانی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلەکەتت"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "شاردەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "تاوانەکانیان"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سێلا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:13.876028102Z",
+  "model": "glm-5.3"
+}

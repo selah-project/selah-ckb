@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":16,"ref":"exodus 19:16","book":"exodus","lang":"ckb","chapter":19,"translation":"و بوو لە ڕۆژی سێیەمدا کاتێک بەیانی بوو، و دەنگەکان و تریشقەکان بوون، و ھەوری قورس لەسەر چیاکە، و دەنگی شۆفار زۆر بەهێز؛ و ھەموو ئەو گەلەی لە چادرگادا بوو لەرزی.","tokens":[{"surface":"ויהי","gloss":"بوو"},{"surface":"ביום","gloss":"لە ڕۆژ"},{"surface":"השלישי","gloss":"سێیەم"},{"surface":"בהית","gloss":"کاتێک"},{"surface":"הבקר","gloss":"بەیانی"},{"surface":"ויהי","gloss":"بوون"},{"surface":"קלת","gloss":"دەنگەکان"},{"surface":"וברקים","gloss":"تریشقەکان"},{"surface":"וענן","gloss":"ھەور"},{"surface":"כבד","gloss":"قورس"},{"surface":"על","gloss":"لەسەر"},{"surface":"ההר","gloss":"چیاکە"},{"surface":"וקל","gloss":"دەنگی"},{"surface":"שפר","gloss":"شۆفار"},{"surface":"חזק","gloss":"بەهێز"},{"surface":"מאד","gloss":"زۆر"},{"surface":"ויחרד","gloss":"لەرزی"},{"surface":"כל","gloss":"هەموو"},{"surface":"העם","gloss":"گەل"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"במחנה","gloss":"لە چادرگا"}],"timestamp":"2026-09-24T09:44:52.580280043Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 19:16",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و بوو لە ڕۆژی سێیەمدا کاتێک بەیانی بوو، و دەنگەکان و تریشقەکان بوون، و ھەوری قورس لەسەر چیاکە، و دەنگی شۆفار زۆر بەهێز؛ و ھەموو ئەو گەلەی لە چادرگادا بوو لەرزی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سێیەم"
+    },
+    {
+      "surface": "בהית",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "دەنگەکان"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "تریشقەکان"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "ھەور"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "قورس"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "چیاکە"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شۆفار"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "لەرزی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "لە چادرگا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:52.580280043Z",
+  "model": "glm-5.3"
+}

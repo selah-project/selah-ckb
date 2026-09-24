@@ -1,1 +1,138 @@
-{"tier":"glm-5.2","verse":8,"ref":"ecclesiastes 4:8","book":"ecclesiastes","lang":"ckb","chapter":4,"translation":"یەکێک هەیە و دووەمی نییە، هەروەها کوڕ و برای هەر نییە بۆی، و کۆتایی بۆ هەموو زەحمەتیی نییە، هەروەها چاوەکانی بە سامان تێر نابن، و بۆ کێ من زەحمەت دەکێشم و گیانی خۆم ⟨את⟩ لە چاکە بێبەش دەکەم؟ هەروەها ئەمە هەواییە و کارێکی خراپە ئەوە.","tokens":[{"surface":"יש","gloss":"هەیە"},{"surface":"אחד","gloss":"یەکێک"},{"surface":"ואין","gloss":"و نییە"},{"surface":"שני","gloss":"دووەمی"},{"surface":"גם","gloss":"هەروەها"},{"surface":"בן","gloss":"کوڕ"},{"surface":"ואח","gloss":"و برای"},{"surface":"אין","gloss":"نییە"},{"surface":"לו","gloss":"بۆی"},{"surface":"ואין","gloss":"و نییە"},{"surface":"קץ","gloss":"کۆتایی"},{"surface":"לכל","gloss":"بۆ هەموو"},{"surface":"עמלו","gloss":"زەحمەتیی"},{"surface":"גם","gloss":"هەروەها"},{"surface":"עיניו","gloss":"چاوەکانی"},{"surface":"לא","gloss":"نا"},{"surface":"תשבע","gloss":"تێر نابن"},{"surface":"עשר","gloss":"سامان"},{"surface":"ולמי","gloss":"و بۆ کێ"},{"surface":"אני","gloss":"من"},{"surface":"עמל","gloss":"زەحمەت دەکێشم"},{"surface":"ומחסר","gloss":"و بێبەش دەکەم"},{"surface":"את","gloss":"⟨את⟩","marks":"گیانی خۆم"},{"surface":"נפשי","gloss":"گیانی خۆم"},{"surface":"מטובה","gloss":"لە چاکە"},{"surface":"גם","gloss":"هەروەها"},{"surface":"זה","gloss":"ئەمە"},{"surface":"הבל","gloss":"هەواییە"},{"surface":"וענין","gloss":"و کارێکی"},{"surface":"רע","gloss":"خراپە"},{"surface":"הוא","gloss":"ئەوە"}],"timestamp":"2026-09-24T14:56:20.534925951Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 4:8",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "یەکێک هەیە و دووەمی نییە، هەروەها کوڕ و برای هەر نییە بۆی، و کۆتایی بۆ هەموو زەحمەتیی نییە، هەروەها چاوەکانی بە سامان تێر نابن، و بۆ کێ من زەحمەت دەکێشم و گیانی خۆم ⟨את⟩ لە چاکە بێبەش دەکەم؟ هەروەها ئەمە هەواییە و کارێکی خراپە ئەوە.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دووەمی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "و برای"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "کۆتایی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "زەحمەتیی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "چاوەکانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "تێر نابن"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "و بۆ کێ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زەحمەت دەکێشم"
+    },
+    {
+      "surface": "ומחסר",
+      "gloss": "و بێبەش دەکەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیانی خۆم"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانی خۆم"
+    },
+    {
+      "surface": "מטובה",
+      "gloss": "لە چاکە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هەواییە"
+    },
+    {
+      "surface": "וענין",
+      "gloss": "و کارێکی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:20.534925951Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":15,"ref":"2-chronicles 24:15","book":"2-chronicles","lang":"ckb","chapter":24,"translation":"و یەهۆیادا پیر بوو و پڕ ڕۆژ بوو و مرد، کوڕی سەد و سی ساڵ لە کاتی مردنیدا،","tokens":[{"surface":"ויזקן","gloss":"و پیر بوو"},{"surface":"יהוידע","gloss":"یەهۆیادا"},{"surface":"וישבע","gloss":"و پڕ بوو"},{"surface":"ימים","gloss":"ڕۆژ"},{"surface":"וימת","gloss":"و مرد"},{"surface":"בן","gloss":"کوڕی"},{"surface":"מאה","gloss":"سەد"},{"surface":"ושלשים","gloss":"و سی"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"במותו","gloss":"لە کاتی مردنیدا"}],"timestamp":"2026-09-24T15:41:34.392500303Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 24:15",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و یەهۆیادا پیر بوو و پڕ ڕۆژ بوو و مرد، کوڕی سەد و سی ساڵ لە کاتی مردنیدا،",
+  "tokens": [
+    {
+      "surface": "ויזקן",
+      "gloss": "و پیر بوو"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یەهۆیادا"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "و پڕ بوو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "لە کاتی مردنیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:41:34.392500303Z",
+  "model": "glm-5.3"
+}

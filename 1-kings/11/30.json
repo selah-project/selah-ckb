@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":30,"ref":"1-kings 11:30","book":"1-kings","lang":"ckb","chapter":11,"translation":"و ئەحییە پۆشاکە نوێیەکەی گرت کە لەسەری بوو و دەرینی بە دوانزە پارچە.","tokens":[{"surface":"ויתפש","gloss":"و گرت"},{"surface":"אחיה","gloss":"ئەحییە"},{"surface":"בשלמה","gloss":"پۆشاکە"},{"surface":"החדשה","gloss":"نوێیەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"עליו","gloss":"لەسەری"},{"surface":"ויקרעה","gloss":"و دەرینی"},{"surface":"שנים","gloss":"دوو"},{"surface":"עשר","gloss":"دە"},{"surface":"קרעים","gloss":"پارچە"}],"timestamp":"2026-09-24T11:52:52.328807009Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەحییە پۆشاکە نوێیەکەی گرت کە لەسەری بوو و دەرینی بە دوانزە پارچە.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "و گرت"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ئەحییە"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "پۆشاکە"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "نوێیەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "و دەرینی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "پارچە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:52:52.328807009Z",
+  "model": "glm-5.3"
+}

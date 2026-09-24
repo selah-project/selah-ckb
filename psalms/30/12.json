@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 30:12","book":"psalms","lang":"ckb","chapter":30,"translation":"ماتەمەکەی منت گێڕیە سەما بۆ من، توێڵەکەت لێدام و بە شادی پێم بەستی.","tokens":[{"surface":"הפכת","gloss":"گێڕیە"},{"surface":"מספדי","gloss":"ماتەمەکەی من"},{"surface":"למחול","gloss":"بۆ سەما"},{"surface":"לי","gloss":"بۆ من"},{"surface":"פתחת","gloss":"لێدایت"},{"surface":"שקי","gloss":"توێڵەکەم"},{"surface":"ותאזרני","gloss":"و پێم بەستی"},{"surface":"שמחה","gloss":"بە شادی"}],"timestamp":"2026-09-24T13:53:02.801005512Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "ماتەمەکەی منت گێڕیە سەما بۆ من، توێڵەکەت لێدام و بە شادی پێم بەستی.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "گێڕیە"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "ماتەمەکەی من"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "بۆ سەما"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "لێدایت"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "توێڵەکەم"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "و پێم بەستی"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "بە شادی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:02.801005512Z",
+  "model": "glm-5.3"
+}

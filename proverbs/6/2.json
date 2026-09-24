@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":2,"ref":"proverbs 6:2","book":"proverbs","lang":"ckb","chapter":6,"translation":"بە قسەکانی دەمت گیری خواردووە، بە قسەکانی دەمت گیر کراوە","tokens":[{"surface":"נוקשת","gloss":"گیری خواردووە"},{"surface":"באמרי","gloss":"بە قسەکانی"},{"surface":"פיך","gloss":"دەمت"},{"surface":"נלכדת","gloss":"گیر کراوە"},{"surface":"באמרי","gloss":"بە قسەکانی"},{"surface":"פיך","gloss":"دەمت"}],"timestamp":"2026-09-24T14:23:46.774967942Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "بە قسەکانی دەمت گیری خواردووە، بە قسەکانی دەمت گیر کراوە",
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "گیری خواردووە"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "بە قسەکانی"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دەمت"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "گیر کراوە"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "بە قسەکانی"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "دەمت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:46.774967942Z",
+  "model": "glm-5.3"
+}

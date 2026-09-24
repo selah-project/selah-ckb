@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":25,"ref":"1-chronicles 11:25","book":"1-chronicles","lang":"ckb","chapter":11,"translation":"لە سییەکەوە ئەوەتا ئەو شەرەفمەندە، و بۆ سێیەکە نەهات، و داوید ئەوی لەسەر پاسەوانەکەی دانا.","tokens":[{"surface":"מן","gloss":"لە"},{"surface":"השלושים","gloss":"سییەکەوە"},{"surface":"הנו","gloss":"ئەوەتا"},{"surface":"נכבד","gloss":"شەرەفمەندە"},{"surface":"הוא","gloss":"ئەو"},{"surface":"ואל","gloss":"و بۆ"},{"surface":"השלושה","gloss":"سێیەکە"},{"surface":"לא","gloss":"نە"},{"surface":"בא","gloss":"هات"},{"surface":"וישימהו","gloss":"و ئەوی دانا"},{"surface":"דויד","gloss":"داوید"},{"surface":"על","gloss":"لەسەر"},{"surface":"משמעתו","gloss":"پاسەوانەکەی"}],"timestamp":"2026-09-24T15:24:26.909228646Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 11:25",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "لە سییەکەوە ئەوەتا ئەو شەرەفمەندە، و بۆ سێیەکە نەهات، و داوید ئەوی لەسەر پاسەوانەکەی دانا.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "سییەکەوە"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "شەرەفمەندە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "سێیەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "و ئەوی دانا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوید"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "משמעתו",
+      "gloss": "پاسەوانەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:26.909228646Z",
+  "model": "glm-5.3"
+}

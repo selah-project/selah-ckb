@@ -1,1 +1,119 @@
-{"tier":"glm-5.2","verse":1,"ref":"joshua 2:1","book":"joshua","lang":"ckb","chapter":2,"translation":"یاهۆشوە کوڕی نوونی نوون لە شیتیمەوە دوو پیاوی سیخوڕی بە نهێنی شاند و وت: بڕۆن، ئەوەی ببینن ⟨את⟩ زەویەکە و ⟨את⟩ یەریحۆ. و ئەوان ڕۆیین و هاتنە ماڵی ژنێکی زۆنا و ناوی ئەو ڕاحابە و ئەوان لەوێ خەوتن.","tokens":[{"surface":"וישלח","gloss":"شاند"},{"surface":"יהושע","gloss":"یاهۆشوە"},{"surface":"בן","gloss":"کوڕی"},{"surface":"נון","gloss":"نوون"},{"surface":"מן","gloss":"لە"},{"surface":"השטים","gloss":"شیتیمەوە"},{"surface":"שנים","gloss":"دوو"},{"surface":"אנשים","gloss":"پیاو"},{"surface":"מרגלים","gloss":"سیخوڕ"},{"surface":"חרש","gloss":"بە نهێنی"},{"surface":"לאמר","gloss":"و"},{"surface":"לכו","gloss":"بڕۆن"},{"surface":"ראו","gloss":"ببینن"},{"surface":"את","gloss":"⟨את⟩","marks":"زەویەکە"},{"surface":"הארץ","gloss":"زەویەکە"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"یەریحۆ"},{"surface":"יריחו","gloss":"یەریحۆ"},{"surface":"וילכו","gloss":"ڕۆیین"},{"surface":"ויבאו","gloss":"هاتن"},{"surface":"בית","gloss":"ماڵی"},{"surface":"אשה","gloss":"ژن"},{"surface":"זונה","gloss":"زۆنا"},{"surface":"ושמה","gloss":"و ناوی ئەو"},{"surface":"רחב","gloss":"ڕاحاب"},{"surface":"וישכבו","gloss":"خەوتن"},{"surface":"שמה","gloss":"لەوێ"}],"timestamp":"2026-09-24T10:52:56.390772030Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 2:1",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "یاهۆشوە کوڕی نوونی نوون لە شیتیمەوە دوو پیاوی سیخوڕی بە نهێنی شاند و وت: بڕۆن، ئەوەی ببینن ⟨את⟩ زەویەکە و ⟨את⟩ یەریحۆ. و ئەوان ڕۆیین و هاتنە ماڵی ژنێکی زۆنا و ناوی ئەو ڕاحابە و ئەوان لەوێ خەوتن.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "شاند"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یاهۆشوە"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نوون"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "شیتیمەوە"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "سیخوڕ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "بە نهێنی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "بڕۆن"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ببینن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یەریحۆ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یەریحۆ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ڕۆیین"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "هاتن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زۆنا"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "و ناوی ئەو"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ڕاحاب"
+    },
+    {
+      "surface": "וישכבו",
+      "gloss": "خەوتن"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "لەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:52:56.390772030Z",
+  "model": "glm-5.3"
+}

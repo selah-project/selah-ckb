@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":15,"ref":"amos 1:15","book":"amos","lang":"ckb","chapter":1,"translation":"و پاشاکەیان دەچێتە دەربەدەری، ئەو و سەرۆکەکانی پێکەوە، فەرموو یاهوە","tokens":[{"surface":"והלך","gloss":"و دەچێت"},{"surface":"מלכם","gloss":"پاشاکەیان"},{"surface":"בגולה","gloss":"بۆ دەربەدەری"},{"surface":"הוא","gloss":"ئەو"},{"surface":"ושריו","gloss":"و سەرۆکەکانی"},{"surface":"יחדו","gloss":"پێکەوە"},{"surface":"אמר","gloss":"فەرموو"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T13:32:05.297287412Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 1:15",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و پاشاکەیان دەچێتە دەربەدەری، ئەو و سەرۆکەکانی پێکەوە، فەرموو یاهوە",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "و دەچێت"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "پاشاکەیان"
+    },
+    {
+      "surface": "בגולה",
+      "gloss": "بۆ دەربەدەری"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "و سەرۆکەکانی"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:32:05.297287412Z",
+  "model": "glm-5.3"
+}

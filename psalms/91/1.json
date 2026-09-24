@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 91:1","book":"psalms","lang":"ckb","chapter":91,"translation":"ئەوەی دەنیشێت لە پەناهەی عەلیۆن، لە سایەی شادایدا دەمێنێتەوە.","tokens":[{"surface":"ישב","gloss":"دەنیشێت"},{"surface":"בסתר","gloss":"لە پەناهەی"},{"surface":"עליון","gloss":"عەلیۆن"},{"surface":"בצל","gloss":"لە سایەی"},{"surface":"שדי","gloss":"شادای"},{"surface":"יתלונן","gloss":"دەمێنێتەوە"}],"timestamp":"2026-09-24T14:10:04.819220510Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 91,
+  "translation": "ئەوەی دەنیشێت لە پەناهەی عەلیۆن، لە سایەی شادایدا دەمێنێتەوە.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "دەنیشێت"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "لە پەناهەی"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عەلیۆن"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "لە سایەی"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شادای"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "دەمێنێتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:04.819220510Z",
+  "model": "glm-5.3"
+}

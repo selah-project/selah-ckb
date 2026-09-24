@@ -1,1 +1,71 @@
-{"tier":"glm-5.2","verse":4,"ref":"genesis 42:4","book":"genesis","lang":"ckb","chapter":42,"translation":"بەڵام ⟨את⟩ بنیامین برای یوسێف یەعقوب لەگەڵ ⟨את⟩ براکانی نەنارد، چونکە وت بووی بیانکەوێتە زیانێک.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩","marks":"بنیامین"},{"surface":"בנימין","gloss":"بنیامین"},{"surface":"אחי","gloss":"برای"},{"surface":"יוסף","gloss":"یوسێف"},{"surface":"לא","gloss":"نەنارد نا"},{"surface":"שלח","gloss":"نەنارد"},{"surface":"יעקב","gloss":"یەعقوب"},{"surface":"את","gloss":"⟨את⟩","marks":"براکانی"},{"surface":"אחיו","gloss":"براکانی"},{"surface":"כי","gloss":"چونکە"},{"surface":"אמר","gloss":"وت"},{"surface":"פן","gloss":"بووی"},{"surface":"יקראנו","gloss":"بیانکەوێتە"},{"surface":"אסון","gloss":"زیانێک"}],"timestamp":"2026-09-24T09:32:05.454579598Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "بەڵام ⟨את⟩ بنیامین برای یوسێف یەعقوب لەگەڵ ⟨את⟩ براکانی نەنارد، چونکە وت بووی بیانکەوێتە زیانێک.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بنیامین"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەنارد نا"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "نەنارد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "براکانی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "براکانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "פן",
+      "gloss": "بووی"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "بیانکەوێتە"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "زیانێک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:05.454579598Z",
+  "model": "glm-5.3"
+}

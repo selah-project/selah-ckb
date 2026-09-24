@@ -1,1 +1,55 @@
-{"tier":"glm-5.2","verse":9,"ref":"jeremiah 30:9","book":"jeremiah","lang":"ckb","chapter":30,"translation":"و خزمەت دەکەن ⟨את⟩ یاهوە ئێلۆهیمی خۆیان و ⟨את⟩ داود ⟨پاشای⟩ خۆیان، ئەوەی کە بۆیان هەڵدەستێنم.","tokens":[{"surface":"ועבדו","gloss":"و خزمەت دەکەن"},{"surface":"את","gloss":"⟨את⟩","marks":"یاهوە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיהם","gloss":"ئێلۆهیمی خۆیان"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"داود"},{"surface":"דוד","gloss":"داود"},{"surface":"מלכם","gloss":"پاشای خۆیان"},{"surface":"אשר","gloss":"ئەوەی کە"},{"surface":"אקים","gloss":"هەڵدەستێنم"},{"surface":"להם","gloss":"بۆیان"}],"timestamp":"2026-09-24T16:52:28.800695938Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و خزمەت دەکەن ⟨את⟩ یاهوە ئێلۆهیمی خۆیان و ⟨את⟩ داود ⟨پاشای⟩ خۆیان، ئەوەی کە بۆیان هەڵدەستێنم.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "و خزمەت دەکەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ئێلۆهیمی خۆیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "داود"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "پاشای خۆیان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "هەڵدەستێنم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    }
+  ],
+  "timestamp": "2026-09-24T16:52:28.800695938Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":51,"ref":"numbers 26:51","book":"numbers","lang":"ckb","chapter":26,"translation":"ئەمانە ژماردراوەکانی کوڕەکانی ئیسرائیل بوون: شەش سەد هەزار و هەزار، حەوت سەد و سی.","tokens":[{"surface":"אלה","gloss":"ئەمانە"},{"surface":"פקודי","gloss":"ژماردراوەکانی"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"שש","gloss":"شەش"},{"surface":"מאות","gloss":"سەد"},{"surface":"אלף","gloss":"هەزار"},{"surface":"ואלף","gloss":"و هەزار"},{"surface":"שבע","gloss":"حەوت"},{"surface":"מאות","gloss":"سەد"},{"surface":"ושלשים","gloss":"و سی"}],"timestamp":"2026-09-24T10:27:50.811160827Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "ئەمانە ژماردراوەکانی کوڕەکانی ئیسرائیل بوون: شەش سەد هەزار و هەزار، حەوت سەد و سی.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ژماردراوەکانی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "و هەزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:27:50.811160827Z",
+  "model": "glm-5.3"
+}

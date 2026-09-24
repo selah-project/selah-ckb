@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":20,"ref":"proverbs 21:20","book":"proverbs","lang":"ckb","chapter":21,"translation":"گەنجینەی خۆش و ڕۆن لە ماڵی زاندا؛ بەڵام کەڵەگەت ⟨ئەوەی⟩ قووتی دەکات.","tokens":[{"surface":"אוצר","gloss":"گەنجینەی"},{"surface":"נחמד","gloss":"خۆش"},{"surface":"ושמן","gloss":"و ڕۆن"},{"surface":"בנוה","gloss":"لە ماڵی"},{"surface":"חכם","gloss":"زان"},{"surface":"וכסיל","gloss":"بەڵام کەڵەگەت"},{"surface":"אדם","gloss":"مرۆڤ"},{"surface":"יבלענו","gloss":"قووتی دەکات"}],"timestamp":"2026-09-24T17:02:56.697618932Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "گەنجینەی خۆش و ڕۆن لە ماڵی زاندا؛ بەڵام کەڵەگەت ⟨ئەوەی⟩ قووتی دەکات.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "گەنجینەی"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "خۆش"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "و ڕۆن"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "زان"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "بەڵام کەڵەگەت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "قووتی دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T17:02:56.697618932Z",
+  "model": "glm-5.3"
+}

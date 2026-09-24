@@ -1,1 +1,59 @@
-{"tier":"glm-5.2","verse":39,"ref":"exodus 29:39","book":"exodus","lang":"ckb","chapter":29,"translation":"⟨את⟩ بەرخە یەکەم لە بەیانیدا دەیکەیت و ⟨את⟩ بەرخە دووەم لە نێوان ئێوارەکاندا دەیکەیت","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"بەرخە یەکەم"},{"surface":"הכבש","gloss":"بەرخە"},{"surface":"האחד","gloss":"یەکەم"},{"surface":"תעשה","gloss":"دەیکەیت"},{"surface":"בבקר","gloss":"لە بەیانیدا"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"بەرخە دووەم"},{"surface":"הכבש","gloss":"بەرخە"},{"surface":"השני","gloss":"دووەم"},{"surface":"תעשה","gloss":"دەیکەیت"},{"surface":"בין","gloss":"لە نێوان"},{"surface":"הערבים","gloss":"ئێوارەکان"}],"timestamp":"2026-09-24T09:51:18.584973477Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "⟨את⟩ بەرخە یەکەم لە بەیانیدا دەیکەیت و ⟨את⟩ بەرخە دووەم لە نێوان ئێوارەکاندا دەیکەیت",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەرخە یەکەم"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "بەرخە"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەیکەیت"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "لە بەیانیدا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بەرخە دووەم"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "بەرخە"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەیکەیت"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ئێوارەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:51:18.584973477Z",
+  "model": "glm-5.3"
+}

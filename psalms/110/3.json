@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 110:3","book":"psalms","lang":"ckb","chapter":110,"translation":"گەلەکەت خۆبەخشین لە ڕۆژی هێزتدا، لە جوانییەکانی پیرۆزیدا؛ لە سکی بەیانیدا تۆڵەی گەنجیت لەگەڵدایە.","tokens":[{"surface":"עמך","gloss":"گەلەکەت"},{"surface":"נדבת","gloss":"خۆبەخشین"},{"surface":"ביום","gloss":"لە ڕۆژی"},{"surface":"חילך","gloss":"هێزتدا"},{"surface":"בהדרי","gloss":"لە جوانییەکانی"},{"surface":"קדש","gloss":"پیرۆزیدا"},{"surface":"מרחם","gloss":"لە سکی"},{"surface":"משחר","gloss":"بەیانی"},{"surface":"לך","gloss":"لەگەڵت"},{"surface":"טל","gloss":"شەونم"},{"surface":"ילדתיך","gloss":"گەنجیت"}],"timestamp":"2026-09-24T14:14:10.958442108Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 110,
+  "translation": "گەلەکەت خۆبەخشین لە ڕۆژی هێزتدا، لە جوانییەکانی پیرۆزیدا؛ لە سکی بەیانیدا تۆڵەی گەنجیت لەگەڵدایە.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "گەلەکەت"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "خۆبەخشین"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "هێزتدا"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "لە جوانییەکانی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆزیدا"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "لە سکی"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "بەیانی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لەگەڵت"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شەونم"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "گەنجیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:10.958442108Z",
+  "model": "glm-5.3"
+}

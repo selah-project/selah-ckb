@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":3,"ref":"deuteronomy 7:3","book":"deuteronomy","lang":"ckb","chapter":7,"translation":"و لەگەڵیان هاوسەرگیری مەکە، کچەکەت مەدە بە کوڕەکەی، و کچەکەی مەهێنە بۆ کوڕەکەت.","tokens":[{"surface":"ולא","gloss":"و مە"},{"surface":"תתחתן","gloss":"هاوسەرگیری مەکە"},{"surface":"בם","gloss":"لەگەڵیان"},{"surface":"בתך","gloss":"کچەکەت"},{"surface":"לא","gloss":"مە"},{"surface":"תתן","gloss":"مەدە"},{"surface":"לבנו","gloss":"بە کوڕەکەی"},{"surface":"ובתו","gloss":"و کچەکەی"},{"surface":"לא","gloss":"مە"},{"surface":"תקח","gloss":"مەهێنە"},{"surface":"לבנך","gloss":"بۆ کوڕەکەت"}],"timestamp":"2026-09-24T15:53:55.341346793Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و لەگەڵیان هاوسەرگیری مەکە، کچەکەت مەدە بە کوڕەکەی، و کچەکەی مەهێنە بۆ کوڕەکەت.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "هاوسەرگیری مەکە"
+    },
+    {
+      "surface": "בם",
+      "gloss": "لەگەڵیان"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "کچەکەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "مەدە"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "بە کوڕەکەی"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "و کچەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "مەهێنە"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "بۆ کوڕەکەت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:53:55.341346793Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 26:7","book":"psalms","lang":"ckb","chapter":26,"translation":"بۆ گەیاندنی دەنگی سوپاس و باسکردنی هەموو سەرسووڕهێنەرەکانت.","tokens":[{"surface":"לשמע","gloss":"بۆ گەیاندن"},{"surface":"בקול","gloss":"دەنگی"},{"surface":"תודה","gloss":"سوپاس"},{"surface":"ולספר","gloss":"و باسکردن"},{"surface":"כל","gloss":"هەموو"},{"surface":"נפלאותיך","gloss":"سەرسووڕهێنەرەکانت"}],"timestamp":"2026-09-24T13:53:11.640949367Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "بۆ گەیاندنی دەنگی سوپاس و باسکردنی هەموو سەرسووڕهێنەرەکانت.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "بۆ گەیاندن"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "سوپاس"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "و باسکردن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "سەرسووڕهێنەرەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:11.640949367Z",
+  "model": "glm-5.3"
+}

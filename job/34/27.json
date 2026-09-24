@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":27,"ref":"job 34:27","book":"job","lang":"ckb","chapter":34,"translation":"چونکە بەو هۆیە لای داو لە دوای ئەو، و هەموو ڕێکانی تێنەگەیشتوون.","tokens":[{"surface":"אשר","gloss":"چونکە"},{"surface":"על","gloss":"بەو"},{"surface":"כן","gloss":"هۆیە"},{"surface":"סרו","gloss":"لای داو"},{"surface":"מאחריו","gloss":"لە دوای ئەو"},{"surface":"וכל","gloss":"و هەموو"},{"surface":"דרכיו","gloss":"ڕێکانی"},{"surface":"לא","gloss":"نە"},{"surface":"השכילו","gloss":"گەیشتوون"}],"timestamp":"2026-09-24T14:44:43.621621602Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 34:27",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "چونکە بەو هۆیە لای داو لە دوای ئەو، و هەموو ڕێکانی تێنەگەیشتوون.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هۆیە"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "لای داو"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "لە دوای ئەو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ڕێکانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "گەیشتوون"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:43.621621602Z",
+  "model": "glm-5.3"
+}

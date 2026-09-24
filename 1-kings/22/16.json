@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":16,"ref":"1-kings 22:16","book":"1-kings","lang":"ckb","chapter":22,"translation":"و شا پێی وت: تا چەند جار من سوێندت پێ دەخەم کە قسە لەگەڵ مەکە مەگەر تەنها ڕاستی بە ناوی یاهوە؟","tokens":[{"surface":"ויאמר","gloss":"و وت"},{"surface":"אליו","gloss":"پێی"},{"surface":"המלך","gloss":"شا"},{"surface":"עד","gloss":"تا"},{"surface":"כמה","gloss":"چەند"},{"surface":"פעמים","gloss":"جار"},{"surface":"אני","gloss":"من"},{"surface":"משבעך","gloss":"سوێندت پێ دەخەم"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"תדבר","gloss":"قسە بکەیت"},{"surface":"אלי","gloss":"لەگەڵم"},{"surface":"רק","gloss":"تەنها"},{"surface":"אמת","gloss":"ڕاستی"},{"surface":"בשם","gloss":"بە ناوی"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T11:58:03.630959312Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 22:16",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و شا پێی وت: تا چەند جار من سوێندت پێ دەخەم کە قسە لەگەڵ مەکە مەگەر تەنها ڕاستی بە ناوی یاهوە؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "جار"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "משבעך",
+      "gloss": "سوێندت پێ دەخەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "قسە بکەیت"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لەگەڵم"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "بە ناوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:58:03.630959312Z",
+  "model": "glm-5.3"
+}

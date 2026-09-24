@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":20,"ref":"2-chronicles 33:20","book":"2-chronicles","lang":"ckb","chapter":33,"translation":"و مەنەشە لەگەڵ باوکانی خەوت و لە ماڵی خۆیدا بە خاک سپێردرا و ئامۆن کوڕی لە جیاتی ئەو پادشایی کرد.","tokens":[{"surface":"וישכב","gloss":"خەوت"},{"surface":"מנשה","gloss":"مەنەشە"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"אבתיו","gloss":"باوکانی"},{"surface":"ויקברהו","gloss":"بە خاک سپێردرا"},{"surface":"ביתו","gloss":"لە ماڵی خۆی"},{"surface":"וימלך","gloss":"پادشایی کرد"},{"surface":"אמון","gloss":"ئامۆن"},{"surface":"בנו","gloss":"کوڕی"},{"surface":"תחתיו","gloss":"لە جیاتی ئەو"}],"timestamp":"2026-09-24T15:45:14.571005552Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 33:20",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و مەنەشە لەگەڵ باوکانی خەوت و لە ماڵی خۆیدا بە خاک سپێردرا و ئامۆن کوڕی لە جیاتی ئەو پادشایی کرد.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "خەوت"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەشە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "باوکانی"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "بە خاک سپێردرا"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "لە ماڵی خۆی"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "پادشایی کرد"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ئامۆن"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جیاتی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:45:14.571005552Z",
+  "model": "glm-5.3"
+}

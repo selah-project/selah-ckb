@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":43,"ref":"1-kings 20:43","book":"1-kings","lang":"ckb","chapter":20,"translation":"و شای ئیسرائیل بۆ ماڵەکەی ڕۆیشت، خەمبار و توڕە، و هاتە شۆمرۆن ⟨سامیرا⟩.","tokens":[{"surface":"וילך","gloss":"و ڕۆیشت"},{"surface":"מלך","gloss":"شای"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"על","gloss":"بۆ"},{"surface":"ביתו","gloss":"ماڵەکەی"},{"surface":"סר","gloss":"خەمبار"},{"surface":"וזעף","gloss":"و توڕە"},{"surface":"ויבא","gloss":"و هاتە"},{"surface":"שמרונה","gloss":"شۆمرۆن ⟨سامیرا⟩"}],"timestamp":"2026-09-24T11:55:31.774886427Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و شای ئیسرائیل بۆ ماڵەکەی ڕۆیشت، خەمبار و توڕە، و هاتە شۆمرۆن ⟨سامیرا⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیشت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "شای"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ماڵەکەی"
+    },
+    {
+      "surface": "סר",
+      "gloss": "خەمبار"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "و توڕە"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و هاتە"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "شۆمرۆن ⟨سامیرا⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T11:55:31.774886427Z",
+  "model": "glm-5.3"
+}

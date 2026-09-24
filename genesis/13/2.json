@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":2,"ref":"genesis 13:2","book":"genesis","lang":"ckb","chapter":13,"translation":"و ئاڤراهام زۆر قورس ⟨بوو⟩ بە مەڕوماڵات، بە زیو و بە زێڕ.","tokens":[{"surface":"ואברם","gloss":"و ئاڤراهام"},{"surface":"כבד","gloss":"قورس"},{"surface":"מאד","gloss":"زۆر"},{"surface":"במקנה","gloss":"بە مەڕوماڵات"},{"surface":"בכסף","gloss":"بە زیو"},{"surface":"ובזהב","gloss":"و بە زێڕ"}],"timestamp":"2026-09-24T09:14:50.985626779Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئاڤراهام زۆر قورس ⟨بوو⟩ بە مەڕوماڵات، بە زیو و بە زێڕ.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "و ئاڤراهام"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "قورس"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "بە مەڕوماڵات"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "بە زیو"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "و بە زێڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:50.985626779Z",
+  "model": "glm-5.3"
+}

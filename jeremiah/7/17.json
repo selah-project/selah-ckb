@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":17,"ref":"jeremiah 7:17","book":"jeremiah","lang":"ckb","chapter":7,"translation":"مەبێت نابینیت ئەوان چ دەیکەن لە شارەکانی یەهودا و لە کۆڵانەکانی ئوریشالایم ⟨ئورشەلیم⟩؟","tokens":[{"surface":"האינך","gloss":"مەبێت تۆ"},{"surface":"ראה","gloss":"دەبینیت"},{"surface":"מה","gloss":"چ"},{"surface":"המה","gloss":"ئەوان"},{"surface":"עשים","gloss":"دەیکەن"},{"surface":"בערי","gloss":"لە شارەکانی"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"ובחצות","gloss":"و لە کۆڵانەکانی"},{"surface":"ירושלם","gloss":"ئوریشالایم ⟨ئورشەلیم⟩"}],"timestamp":"2026-09-24T12:41:25.238512348Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 7:17",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "مەبێت نابینیت ئەوان چ دەیکەن لە شارەکانی یەهودا و لە کۆڵانەکانی ئوریشالایم ⟨ئورشەلیم⟩؟",
+  "tokens": [
+    {
+      "surface": "האינך",
+      "gloss": "مەبێت تۆ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دەبینیت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "دەیکەن"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "لە شارەکانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "و لە کۆڵانەکانی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ئوریشالایم ⟨ئورشەلیم⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T12:41:25.238512348Z",
+  "model": "glm-5.3"
+}

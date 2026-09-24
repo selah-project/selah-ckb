@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-chronicles 22:10","book":"1-chronicles","lang":"ckb","chapter":22,"translation":"ئەو دەبنایات خانووێک بۆ ناوی من، و ئەو بۆ من بۆ کوڕیی دەبێت، و منیش بۆی باوک، و تەختی پاشایەتیی ئەو لەسەر ئیسرائیل بۆ هەمیشە پتەو دەکەم.","tokens":[{"surface":"הוא","gloss":"ئەو"},{"surface":"יבנה","gloss":"دەبنایات"},{"surface":"בית","gloss":"خانوو"},{"surface":"לשמי","gloss":"بۆ ناوی من"},{"surface":"והוא","gloss":"و ئەو"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"לי","gloss":"بۆ من"},{"surface":"לבן","gloss":"بۆ کوڕ"},{"surface":"ואני","gloss":"و من"},{"surface":"לו","gloss":"بۆی"},{"surface":"לאב","gloss":"بۆ باوک"},{"surface":"והכינותי","gloss":"و پتەو دەکەم"},{"surface":"כסא","gloss":"تەخت"},{"surface":"מלכותו","gloss":"پاشایەتیی ئەو"},{"surface":"על","gloss":"لەسەر"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"עד","gloss":"بۆ"},{"surface":"עולם","gloss":"هەمیشە"}],"timestamp":"2026-09-24T15:30:59.795641366Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 22:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئەو دەبنایات خانووێک بۆ ناوی من، و ئەو بۆ من بۆ کوڕیی دەبێت، و منیش بۆی باوک، و تەختی پاشایەتیی ئەو لەسەر ئیسرائیل بۆ هەمیشە پتەو دەکەم.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "دەبنایات"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانوو"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "بۆ ناوی من"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "بۆ کوڕ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "بۆ باوک"
+    },
+    {
+      "surface": "והכינותי",
+      "gloss": "و پتەو دەکەم"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تەخت"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "پاشایەتیی ئەو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:59.795641366Z",
+  "model": "glm-5.3"
+}

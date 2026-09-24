@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"job 21:3","book":"job","lang":"ckb","chapter":21,"translation":"هەڵم بگرن و من قسە دەکەم، و دوای قسەکردنەکەم گاڵتە بکەن.","tokens":[{"surface":"שאוני","gloss":"هەڵم بگرن"},{"surface":"ואנכי","gloss":"و من"},{"surface":"אדבר","gloss":"قسە دەکەم"},{"surface":"ואחר","gloss":"و دوای"},{"surface":"דברי","gloss":"قسەکردنەکەم"},{"surface":"תלעיג","gloss":"گاڵتە بکەن"}],"timestamp":"2026-09-24T14:40:43.938772527Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 21:3",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "هەڵم بگرن و من قسە دەکەم، و دوای قسەکردنەکەم گاڵتە بکەن.",
+  "tokens": [
+    {
+      "surface": "שאוני",
+      "gloss": "هەڵم بگرن"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "قسە دەکەم"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "و دوای"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "قسەکردنەکەم"
+    },
+    {
+      "surface": "תלעיג",
+      "gloss": "گاڵتە بکەن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:43.938772527Z",
+  "model": "glm-5.3"
+}

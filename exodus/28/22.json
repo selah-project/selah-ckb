@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":22,"ref":"exodus 28:22","book":"exodus","lang":"ckb","chapter":28,"translation":"وە لەسەر سنگبەستەکە زنجیری ڕیشاڵەکراوی تەکنی لاسەدراو، لە زێڕی پاک، بۆ دەکەیت.","tokens":[{"surface":"ועשית","gloss":"بۆ دەکەیت"},{"surface":"על","gloss":"لەسەر"},{"surface":"החשן","gloss":"سنگبەستەکە"},{"surface":"שרשת","gloss":"زنجیری ڕیشاڵەکراو"},{"surface":"גבלת","gloss":"تەکنی لاسەدراو"},{"surface":"מעשה","gloss":"کار"},{"surface":"עבת","gloss":"قۆزی"},{"surface":"זהב","gloss":"زێڕ"},{"surface":"טהור","gloss":"پاک"}],"timestamp":"2026-09-24T09:50:12.745135062Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "وە لەسەر سنگبەستەکە زنجیری ڕیشاڵەکراوی تەکنی لاسەدراو، لە زێڕی پاک، بۆ دەکەیت.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "بۆ دەکەیت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سنگبەستەکە"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "زنجیری ڕیشاڵەکراو"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "تەکنی لاسەدراو"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "قۆزی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:12.745135062Z",
+  "model": "glm-5.3"
+}

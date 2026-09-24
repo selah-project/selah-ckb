@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":34,"ref":"proverbs 14:34","book":"proverbs","lang":"ckb","chapter":14,"translation":"دادپەروەری گەلێک بەرز دەکاتەوە، و حەسەد بۆ کۆمەڵەکان ⟨هەڵەیە⟩ — چوارشێواز","tokens":[{"surface":"צדקה","gloss":"دادپەروەری"},{"surface":"תרומם","gloss":"بەرز دەکاتەوە"},{"surface":"גוי","gloss":"گەلێک"},{"surface":"וחסד","gloss":"و حەسەد"},{"surface":"לאמים","gloss":"بۆ کۆمەڵەکان"},{"surface":"חטאת","gloss":"هەڵەیە"}],"timestamp":"2026-09-24T17:02:05.094644342Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "دادپەروەری گەلێک بەرز دەکاتەوە، و حەسەد بۆ کۆمەڵەکان ⟨هەڵەیە⟩ — چوارشێواز",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "بەرز دەکاتەوە"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "گەلێک"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "و حەسەد"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "بۆ کۆمەڵەکان"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "هەڵەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T17:02:05.094644342Z",
+  "model": "glm-5.3"
+}

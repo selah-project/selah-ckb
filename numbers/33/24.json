@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":24,"ref":"numbers 33:24","book":"numbers","lang":"ckb","chapter":33,"translation":"و بەرکەوتن لە شاخی شافەرەوە، و لە حەڕادە ⟨خێوەیان دان⟩.","tokens":[{"surface":"ויסעו","gloss":"و بەرکەوتن"},{"surface":"מהר","gloss":"لە شاخی"},{"surface":"שפר","gloss":"شافەرەوە"},{"surface":"ויחנו","gloss":"و خێوەیان دان"},{"surface":"בחרדה","gloss":"لە حەڕادە"}],"timestamp":"2026-09-24T15:52:30.547727274Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و بەرکەوتن لە شاخی شافەرەوە، و لە حەڕادە ⟨خێوەیان دان⟩.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و بەرکەوتن"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "لە شاخی"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شافەرەوە"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و خێوەیان دان"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "لە حەڕادە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:30.547727274Z",
+  "model": "glm-5.3"
+}

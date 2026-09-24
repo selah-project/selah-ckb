@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":15,"ref":"haggai 1:15","book":"haggai","lang":"ckb","chapter":1,"translation":"لە ڕۆژی بیست و چوارەمی مانگ لە شەشەمدا لە ساڵی دووەمی داریاڤێش پاشا.","tokens":[{"surface":"ביום","gloss":"لە ڕۆژی"},{"surface":"עשרים","gloss":"بیست"},{"surface":"וארבעה","gloss":"و چوارەمی"},{"surface":"לחדש","gloss":"مانگ"},{"surface":"בששי","gloss":"لە شەشەمدا"},{"surface":"בשנת","gloss":"لە ساڵی"},{"surface":"שתים","gloss":"دووەمی"},{"surface":"לדריוש","gloss":"داریاڤێش"},{"surface":"המלך","gloss":"پاشا"}],"timestamp":"2026-09-24T13:41:27.079084919Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "لە ڕۆژی بیست و چوارەمی مانگ لە شەشەمدا لە ساڵی دووەمی داریاڤێش پاشا.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چوارەمی"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگ"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "لە شەشەمدا"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دووەمی"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "داریاڤێش"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:41:27.079084919Z",
+  "model": "glm-5.3"
+}

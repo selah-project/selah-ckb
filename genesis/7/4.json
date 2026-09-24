@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":4,"ref":"genesis 7:4","book":"genesis","lang":"ckb","chapter":7,"translation":"چونکە هێشتا لە حەوت ڕۆژی دیکە، من باران دەبارێنمە سەر زەوی چل ڕۆژ و چل شەو، و ⟨את⟩ هەموو ئەو بوونەوایەی کە دروستم کردووە، لە ڕووی زەوییەکە دەیسڕمەوە.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"לימים","gloss":"لە ڕۆژ"},{"surface":"עוד","gloss":"هێشتا"},{"surface":"שבעה","gloss":"حەوت"},{"surface":"אנכי","gloss":"من"},{"surface":"ממטיר","gloss":"باران دەبارێنم"},{"surface":"על","gloss":"لەسەر"},{"surface":"הארץ","gloss":"زەوی"},{"surface":"ארבעים","gloss":"چل"},{"surface":"יום","gloss":"ڕۆژ"},{"surface":"וארבעים","gloss":"و چل"},{"surface":"לילה","gloss":"شەو"},{"surface":"ומחיתי","gloss":"و دەیسڕمەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو"},{"surface":"כל","gloss":"هەموو"},{"surface":"היקום","gloss":"بوونەوا"},{"surface":"אשר","gloss":"کە"},{"surface":"עשיתי","gloss":"دروستم کردووە"},{"surface":"מעל","gloss":"لە"},{"surface":"פני","gloss":"ڕووی"},{"surface":"האדמה","gloss":"زەوی"}],"timestamp":"2026-09-24T09:13:19.171384149Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 7:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "چونکە هێشتا لە حەوت ڕۆژی دیکە، من باران دەبارێنمە سەر زەوی چل ڕۆژ و چل شەو، و ⟨את⟩ هەموو ئەو بوونەوایەی کە دروستم کردووە، لە ڕووی زەوییەکە دەیسڕمەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "باران دەبارێنم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "و چل"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەو"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "و دەیسڕمەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "היקום",
+      "gloss": "بوونەوا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "دروستم کردووە"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:19.171384149Z",
+  "model": "glm-5.3"
+}

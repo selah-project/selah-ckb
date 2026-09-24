@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-chronicles 29:2","book":"2-chronicles","lang":"ckb","chapter":29,"translation":"و ڕاستی ئەنجامدا لە چاوی یاهوەدا، بەپێی هەموو ئەوەی داڤید دایکی کردبوو.","tokens":[{"surface":"ויעש","gloss":"و ئەنجامیدا"},{"surface":"הישר","gloss":"ڕاستی"},{"surface":"בעיני","gloss":"لە چاوی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ככל","gloss":"بەپێی هەموو"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"עשה","gloss":"کردبوو"},{"surface":"דויד","gloss":"داڤید"},{"surface":"אביו","gloss":"دایکی"}],"timestamp":"2026-09-24T16:08:17.507146288Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و ڕاستی ئەنجامدا لە چاوی یاهوەدا، بەپێی هەموو ئەوەی داڤید دایکی کردبوو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و ئەنجامیدا"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "بەپێی هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردبوو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داڤید"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "دایکی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:08:17.507146288Z",
+  "model": "glm-5.3"
+}

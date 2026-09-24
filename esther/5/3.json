@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":3,"ref":"esther 5:3","book":"esther","lang":"ckb","chapter":5,"translation":"و پاشا بۆی فەرموو چ بۆ تۆیە ئەی ئستیر ⟨ئێستەر⟩ شاژن و چ داواکاریی تۆیە تا نیوەی پاشایەتی و دەدرێت بۆ تۆ.","tokens":[{"surface":"ויאמר","gloss":"فەرموو"},{"surface":"לה","gloss":"بۆی"},{"surface":"המלך","gloss":"پاشا"},{"surface":"מה","gloss":"چ"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"אסתר","gloss":"ئستیر ⟨ئێستەر⟩"},{"surface":"המלכה","gloss":"شاژن"},{"surface":"ומה","gloss":"و چ"},{"surface":"בקשתך","gloss":"داواکاریی تۆ"},{"surface":"עד","gloss":"تا"},{"surface":"חצי","gloss":"نیوەی"},{"surface":"המלכות","gloss":"پاشایەتی"},{"surface":"וינתן","gloss":"دەدرێت"},{"surface":"לך","gloss":"بۆ تۆ"}],"timestamp":"2026-09-24T15:00:36.899814366Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و پاشا بۆی فەرموو چ بۆ تۆیە ئەی ئستیر ⟨ئێستەر⟩ شاژن و چ داواکاریی تۆیە تا نیوەی پاشایەتی و دەدرێت بۆ تۆ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ئستیر ⟨ئێستەر⟩"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "شاژن"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چ"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "داواکاریی تۆ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیوەی"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "پاشایەتی"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "دەدرێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:00:36.899814366Z",
+  "model": "glm-5.3"
+}

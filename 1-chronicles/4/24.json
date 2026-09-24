@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":24,"ref":"1-chronicles 4:24","book":"1-chronicles","lang":"ckb","chapter":4,"translation":"کوڕەکانی شیمئۆن: نەموئێل، و یامین، یاریڤ، زێرەح، شائول.","tokens":[{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"שמעון","gloss":"شیمئۆن"},{"surface":"נמואל","gloss":"نەموئێل"},{"surface":"וימין","gloss":"و یامین"},{"surface":"יריב","gloss":"یاریڤ"},{"surface":"זרח","gloss":"زێرەح"},{"surface":"שאול","gloss":"شائول"}],"timestamp":"2026-09-24T15:22:08.668292360Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "کوڕەکانی شیمئۆن: نەموئێل، و یامین، یاریڤ، زێرەح، شائول.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمئۆن"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "نەموئێل"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "و یامین"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "یاریڤ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زێرەح"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:08.668292360Z",
+  "model": "glm-5.3"
+}

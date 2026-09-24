@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":2,"ref":"zechariah 5:2","book":"zechariah","lang":"ckb","chapter":5,"translation":"وە پێم فەرموو: چ دەبینیت؟ وە وتم: من دەبینم تەمرۆڵێکی فڕیو، درێژییەکەی بیست ئەمەه و پانییەکەی دە ئەمەه.","tokens":[{"surface":"ויאמר","gloss":"وە فەرموو"},{"surface":"אלי","gloss":"پێم"},{"surface":"מה","gloss":"چ"},{"surface":"אתה","gloss":"تۆ"},{"surface":"ראה","gloss":"دەبینیت"},{"surface":"ואמר","gloss":"وە وتم"},{"surface":"אני","gloss":"من"},{"surface":"ראה","gloss":"دەبینم"},{"surface":"מגלה","gloss":"تەمرۆڵێکی"},{"surface":"עפה","gloss":"فڕیو"},{"surface":"ארכה","gloss":"درێژییەکەی"},{"surface":"עשרים","gloss":"بیست"},{"surface":"באמה","gloss":"ئەمەه"},{"surface":"ורחבה","gloss":"و پانییەکەی"},{"surface":"עשר","gloss":"دە"},{"surface":"באמה","gloss":"ئەمەه"}],"timestamp":"2026-09-24T13:44:19.912776945Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 5:2",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "وە پێم فەرموو: چ دەبینیت؟ وە وتم: من دەبینم تەمرۆڵێکی فڕیو، درێژییەکەی بیست ئەمەه و پانییەکەی دە ئەمەه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وە فەرموو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دەبینیت"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "وە وتم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دەبینم"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "تەمرۆڵێکی"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "فڕیو"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "درێژییەکەی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ئەمەه"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "و پانییەکەی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ئەمەه"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:19.912776945Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":14,"ref":"jeremiah 18:14","book":"jeremiah","lang":"ckb","chapter":18,"translation":"ئایا بەفری لێبانۆن لە بەردی کێڵگە دەبردرێت، یان ئاوە بێگانە ساردە ڕۆیشتووەکان دەسڕدرێنەوە؟","tokens":[{"surface":"היעזב","gloss":"ئایا دەبردرێت"},{"surface":"מצור","gloss":"لە بەرد"},{"surface":"שדי","gloss":"کێڵگە"},{"surface":"שלג","gloss":"بەفر"},{"surface":"לבנון","gloss":"لێبانۆن"},{"surface":"אם","gloss":"یان"},{"surface":"ינתשו","gloss":"دەسڕدرێنەوە"},{"surface":"מים","gloss":"ئاوەکان"},{"surface":"זרים","gloss":"بێگانە"},{"surface":"קרים","gloss":"سارد"},{"surface":"נוזלים","gloss":"ڕۆیشتوو"}],"timestamp":"2026-09-24T12:46:18.675810310Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 18:14",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "ئایا بەفری لێبانۆن لە بەردی کێڵگە دەبردرێت، یان ئاوە بێگانە ساردە ڕۆیشتووەکان دەسڕدرێنەوە؟",
+  "tokens": [
+    {
+      "surface": "היעזב",
+      "gloss": "ئایا دەبردرێت"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "لە بەرد"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کێڵگە"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "بەفر"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لێبانۆن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یان"
+    },
+    {
+      "surface": "ינתשו",
+      "gloss": "دەسڕدرێنەوە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاوەکان"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "بێگانە"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "سارد"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "ڕۆیشتوو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:46:18.675810310Z",
+  "model": "glm-5.3"
+}

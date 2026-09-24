@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":32,"ref":"psalms 105:32","book":"psalms","lang":"ckb","chapter":105,"translation":"بارانەکانیانی کردە تەرزە، ئاگری شەرقڵە لە زەوییەکەیاندا","tokens":[{"surface":"נתן","gloss":"کردە"},{"surface":"גשמיהם","gloss":"بارانەکانیان"},{"surface":"ברד","gloss":"بۆ تەرزە"},{"surface":"אש","gloss":"ئاگر"},{"surface":"להבות","gloss":"شەرقڵە"},{"surface":"בארצם","gloss":"لە زەوییەکەیاندا"}],"timestamp":"2026-09-24T14:12:37.313997786Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "بارانەکانیانی کردە تەرزە، ئاگری شەرقڵە لە زەوییەکەیاندا",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "کردە"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "بارانەکانیان"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "بۆ تەرزە"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "شەرقڵە"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "لە زەوییەکەیاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:37.313997786Z",
+  "model": "glm-5.3"
+}

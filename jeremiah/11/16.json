@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":16,"ref":"jeremiah 11:16","book":"jeremiah","lang":"ckb","chapter":11,"translation":"زەیتوونی سەوز، جوان بە بەردار و شێوە، یاهوە ناوت ناوبرد؛ لە دەنگی هەرایەکی گەورە ئاگری لەسەری هەڵگیرساند و لقمارەکانی خراپ بوون.","tokens":[{"surface":"זית","gloss":"زەیتوون"},{"surface":"רענן","gloss":"سەوز"},{"surface":"יפה","gloss":"جوان"},{"surface":"פרי","gloss":"بەردار"},{"surface":"תאר","gloss":"شێوە"},{"surface":"קרא","gloss":"ناوبرد"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"שמך","gloss":"ناوت"},{"surface":"לקול","gloss":"لە دەنگ"},{"surface":"המולה","gloss":"هەرا"},{"surface":"גדלה","gloss":"گەورە"},{"surface":"הצית","gloss":"هەڵگیرساند"},{"surface":"אש","gloss":"ئاگر"},{"surface":"עליה","gloss":"لەسەری"},{"surface":"ורעו","gloss":"و خراپ بوون"},{"surface":"דליותיו","gloss":"لقمارەکانی"}],"timestamp":"2026-09-24T12:42:09.754156404Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 11:16",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "زەیتوونی سەوز، جوان بە بەردار و شێوە، یاهوە ناوت ناوبرد؛ لە دەنگی هەرایەکی گەورە ئاگری لەسەری هەڵگیرساند و لقمارەکانی خراپ بوون.",
+  "tokens": [
+    {
+      "surface": "זית",
+      "gloss": "زەیتوون"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "سەوز"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "بەردار"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "شێوە"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناوبرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "لە دەنگ"
+    },
+    {
+      "surface": "המולה",
+      "gloss": "هەرا"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "הצית",
+      "gloss": "هەڵگیرساند"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "و خراپ بوون"
+    },
+    {
+      "surface": "דליותיו",
+      "gloss": "لقمارەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:42:09.754156404Z",
+  "model": "glm-5.3"
+}

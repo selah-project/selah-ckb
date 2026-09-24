@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 27:3","book":"psalms","lang":"ckb","chapter":27,"translation":"ئەگەر لەشکرێک لە دەورم کەمبێتەوە، دڵم ناترسێت، ئەگەر جەنگێک لە دژی هەڵبستێت، لەمەدا من دڵنیام.","tokens":[{"surface":"אם","gloss":"ئەگەر"},{"surface":"תחנה","gloss":"کەمبێتەوە"},{"surface":"עלי","gloss":"لە دەورم"},{"surface":"מחנה","gloss":"لەشکر"},{"surface":"לא","gloss":"نا"},{"surface":"יירא","gloss":"دڵم ناترسێت"},{"surface":"לבי","gloss":"دڵم"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"תקום","gloss":"هەڵبستێت"},{"surface":"עלי","gloss":"لە دژی"},{"surface":"מלחמה","gloss":"جەنگ"},{"surface":"בזאת","gloss":"لەمەدا"},{"surface":"אני","gloss":"من"},{"surface":"בוטח","gloss":"دڵنیام"}],"timestamp":"2026-09-24T13:53:48.072079070Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "ئەگەر لەشکرێک لە دەورم کەمبێتەوە، دڵم ناترسێت، ئەگەر جەنگێک لە دژی هەڵبستێت، لەمەدا من دڵنیام.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "کەمبێتەوە"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لە دەورم"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "لەشکر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "دڵم ناترسێت"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "هەڵبستێت"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لە دژی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جەنگ"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "لەمەدا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "دڵنیام"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:48.072079070Z",
+  "model": "glm-5.3"
+}

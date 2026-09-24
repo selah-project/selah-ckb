@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 21:11","book":"psalms","lang":"ckb","chapter":21,"translation":"توخمەکەیان لە زەویەوە لەناو دەبەیت، و تۆویان لە نێو کوڕەکانی ئادەمدا.","tokens":[{"surface":"פרימו","gloss":"توخمەکەیان"},{"surface":"מארץ","gloss":"لە زەویەوە"},{"surface":"תאבד","gloss":"لەناو دەبەیت"},{"surface":"וזרעם","gloss":"و تۆویان"},{"surface":"מבני","gloss":"لە نێو کوڕەکانی"},{"surface":"אדם","gloss":"ئادەم"}],"timestamp":"2026-09-24T13:51:08.878649967Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "توخمەکەیان لە زەویەوە لەناو دەبەیت، و تۆویان لە نێو کوڕەکانی ئادەمدا.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "توخمەکەیان"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەویەوە"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "لەناو دەبەیت"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "و تۆویان"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "لە نێو کوڕەکانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:08.878649967Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":9,"ref":"numbers 20:9","book":"numbers","lang":"ckb","chapter":20,"translation":"مۆشە ⟨موسا⟩ هەڵە ⟨את⟩ عەسای لە لای یاهوە هێنا، وەک فەرموویێ بووی.","tokens":[{"surface":"ויקח","gloss":"هێنا"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"את","gloss":"⟨את⟩","marks":"عەسا"},{"surface":"המטה","gloss":"عەسا"},{"surface":"מלפני","gloss":"لە لای"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"כאשר","gloss":"وەک"},{"surface":"צוהו","gloss":"فەرموویێ بووی"}],"timestamp":"2026-09-24T10:25:00.202039931Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "مۆشە ⟨موسا⟩ هەڵە ⟨את⟩ عەسای لە لای یاهوە هێنا، وەک فەرموویێ بووی.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عەسا"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "عەسا"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "فەرموویێ بووی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:25:00.202039931Z",
+  "model": "glm-5.3"
+}

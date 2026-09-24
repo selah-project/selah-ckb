@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 117:2","book":"psalms","lang":"ckb","chapter":117,"translation":"چونکە حەسەدی بەسەرماندا زاڵ بووە، و ڕاستیی یاهوە بۆ هەتاهەتایەیە، ستایشی یاه بکەن.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"גבר","gloss":"زاڵ بووە"},{"surface":"עלינו","gloss":"بەسەرماندا"},{"surface":"חסדו","gloss":"حەسەدی"},{"surface":"ואמת","gloss":"و ڕاستیی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"לעולם","gloss":"بۆ هەتاهەتایە"},{"surface":"הללו","gloss":"ستایشی بکەن"},{"surface":"יה","gloss":"یاه"}],"timestamp":"2026-09-24T14:14:41.746739390Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 117,
+  "translation": "چونکە حەسەدی بەسەرماندا زاڵ بووە، و ڕاستیی یاهوە بۆ هەتاهەتایەیە، ستایشی یاه بکەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "زاڵ بووە"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "بەسەرماندا"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "و ڕاستیی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەتاهەتایە"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستایشی بکەن"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:41.746739390Z",
+  "model": "glm-5.3"
+}

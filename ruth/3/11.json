@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":11,"ref":"ruth 3:11","book":"ruth","lang":"ckb","chapter":3,"translation":"و ئێستا، کچم، مەترسە؛ هەموو ئەوەی دەڵێیت بۆ تۆ دەیکەم، چونکە هەموو دەروازەی گەلەکەم دەزانێت چونکە تۆ ژنێکی بەتوانای.","tokens":[{"surface":"ועתה","gloss":"و ئێستا"},{"surface":"בתי","gloss":"کچم"},{"surface":"אל","gloss":"مە"},{"surface":"תיראי","gloss":"بترسێ"},{"surface":"כל","gloss":"هەموو"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"תאמרי","gloss":"دەڵێیت"},{"surface":"אעשה","gloss":"دەیکەم"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"כי","gloss":"چونکە"},{"surface":"יודע","gloss":"دەزانێت"},{"surface":"כל","gloss":"هەموو"},{"surface":"שער","gloss":"دەروازەی"},{"surface":"עמי","gloss":"گەلەکەم"},{"surface":"כי","gloss":"چونکە"},{"surface":"אשת","gloss":"ژنێکی"},{"surface":"חיל","gloss":"بەتوانا"},{"surface":"את","gloss":"تۆ"}],"timestamp":"2026-09-24T14:50:28.414828479Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ruth 3:11",
+  "book": "ruth",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ئێستا، کچم، مەترسە؛ هەموو ئەوەی دەڵێیت بۆ تۆ دەیکەم، چونکە هەموو دەروازەی گەلەکەم دەزانێت چونکە تۆ ژنێکی بەتوانای.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "کچم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "بترسێ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "دەڵێیت"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "دەیکەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەروازەی"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەلەکەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنێکی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بەتوانا"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:50:28.414828479Z",
+  "model": "glm-5.3"
+}

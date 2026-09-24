@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":9,"ref":"1-kings 13:9","book":"1-kings","lang":"ckb","chapter":13,"translation":"چونکە بەم شێوەیە یاهوە بە وشەی خۆی ⟨את⟩ فەرمانی پێم کرد، بۆ وتن: نان نەخۆ و ئاو نەمژە و بەو ڕێگایەی کە هاتوویەتی ناگەڕێیتەوە.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"כן","gloss":"بەم شێوەیە"},{"surface":"צוה","gloss":"فەرمانی کرد"},{"surface":"אתי","gloss":"⟨את⟩","marks":"بە وشەی"},{"surface":"בדבר","gloss":"بە وشەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"לאמר","gloss":"بۆ وتن"},{"surface":"לא","gloss":"نەخێر"},{"surface":"תאכל","gloss":"نەخۆیت"},{"surface":"לחם","gloss":"نان"},{"surface":"ולא","gloss":"و نەخێر"},{"surface":"תשתה","gloss":"نامژیت"},{"surface":"מים","gloss":"ئاو"},{"surface":"ולא","gloss":"و نەخێر"},{"surface":"תשוב","gloss":"ناگەڕێیتەوە"},{"surface":"בדרך","gloss":"بە ڕێگا"},{"surface":"אשר","gloss":"کە"},{"surface":"הלכת","gloss":"هاتوویەتی"}],"timestamp":"2026-09-24T16:28:34.456429413Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "چونکە بەم شێوەیە یاهوە بە وشەی خۆی ⟨את⟩ فەرمانی پێم کرد، بۆ وتن: نان نەخۆ و ئاو نەمژە و بەو ڕێگایەی کە هاتوویەتی ناگەڕێیتەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "بەم شێوەیە"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کرد"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "بە وشەی"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بە وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "نەخۆیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەخێر"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "نامژیت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەخێر"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ناگەڕێیتەوە"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "بە ڕێگا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "هاتوویەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:28:34.456429413Z",
+  "model": "glm-5.3"
+}

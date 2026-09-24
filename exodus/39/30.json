@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":30,"ref":"exodus 39:30","book":"exodus","lang":"ckb","chapter":39,"translation":"و ⟨את⟩ پەڕەی تاجی پیرۆز لە زێڕی پاک دروستیان کرد، و لەسەری نووسیان نووسین وەک هەڵکێشانی مۆر: پیرۆز بۆ یاهوە.","tokens":[{"surface":"ויעשו","gloss":"و دروستیانکرد"},{"surface":"את","gloss":"⟨את⟩","marks":"پەڕەی تاج"},{"surface":"ציץ","gloss":"پەڕە"},{"surface":"נזר","gloss":"تاج"},{"surface":"הקדש","gloss":"پیرۆزی"},{"surface":"זהב","gloss":"زێڕ"},{"surface":"טהור","gloss":"پاک"},{"surface":"ויכתבו","gloss":"و نووسیان"},{"surface":"עליו","gloss":"لەسەری"},{"surface":"מכתב","gloss":"نووسین"},{"surface":"פתוחי","gloss":"هەڵکێشانی"},{"surface":"חותם","gloss":"مۆر"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"ליהוה","gloss":"بۆ یاهوە"}],"timestamp":"2026-09-24T15:51:27.125913834Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و ⟨את⟩ پەڕەی تاجی پیرۆز لە زێڕی پاک دروستیان کرد، و لەسەری نووسیان نووسین وەک هەڵکێشانی مۆر: پیرۆز بۆ یاهوە.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "و دروستیانکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەڕەی تاج"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "پەڕە"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "و نووسیان"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "نووسین"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "هەڵکێشانی"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "مۆر"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:51:27.125913834Z",
+  "model": "glm-5.3"
+}

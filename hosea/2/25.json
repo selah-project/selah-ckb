@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":25,"ref":"hosea 2:25","book":"hosea","lang":"ckb","chapter":2,"translation":"و بۆ خۆم تۆوی دەنێم لە زەویدا، و بەزەیی دەهێنمەوە بۆ ⟨את⟩ نا-بەزەیی، و دەڵێم بۆ نا-گەلم: تۆ گەمی، و ئەو دەڵێت: ئێلۆهیمی.","tokens":[{"surface":"וזרעתיה","gloss":"و دەنێم"},{"surface":"לי","gloss":"بۆ خۆم"},{"surface":"בארץ","gloss":"لە زەوی"},{"surface":"ורחמתי","gloss":"و بەزەیی دەهێنمەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"نا-بەزەیی"},{"surface":"לא","gloss":"نا"},{"surface":"רחמה","gloss":"بەزەیی"},{"surface":"ואמרתי","gloss":"و دەڵێم"},{"surface":"ללא","gloss":"بۆ نا"},{"surface":"עמי","gloss":"گەلم"},{"surface":"עמי","gloss":"گەمی"},{"surface":"אתה","gloss":"تۆ"},{"surface":"והוא","gloss":"و ئەو"},{"surface":"יאמר","gloss":"دەڵێت"},{"surface":"אלהי","gloss":"ئێلۆهیمی"}],"timestamp":"2026-09-24T13:27:37.021923434Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و بۆ خۆم تۆوی دەنێم لە زەویدا، و بەزەیی دەهێنمەوە بۆ ⟨את⟩ نا-بەزەیی، و دەڵێم بۆ نا-گەلم: تۆ گەمی، و ئەو دەڵێت: ئێلۆهیمی.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "و دەنێم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "و بەزەیی دەهێنمەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نا-بەزەیی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "بەزەیی"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "و دەڵێم"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "بۆ نا"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەلم"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەمی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:37.021923434Z",
+  "model": "glm-5.3"
+}

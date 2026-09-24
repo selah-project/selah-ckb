@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":22,"ref":"ezekiel 24:22","book":"ezekiel","lang":"ckb","chapter":24,"translation":"و ئێوە وەک ئەوەی من کردوویەتی دەکەن؛ لەسەر لێوی سەرەوە دەم نادەپۆشن و نانی خەڵکی نانەخۆاردەن.","tokens":[{"surface":"ועשיתם","gloss":"و دەکەن"},{"surface":"כאשר","gloss":"وەک ئەوەی"},{"surface":"עשיתי","gloss":"من کردوویەتی"},{"surface":"על","gloss":"لەسەر"},{"surface":"שפם","gloss":"لێوی سەرەوە"},{"surface":"לא","gloss":"نەخێر"},{"surface":"תעטו","gloss":"دەم نادەپۆشن"},{"surface":"ולחם","gloss":"و نانی"},{"surface":"אנשים","gloss":"خەڵکی"},{"surface":"לא","gloss":"نەخێر"},{"surface":"תאכלו","gloss":"نانەخۆاردەن"}],"timestamp":"2026-09-24T13:15:15.689129898Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و ئێوە وەک ئەوەی من کردوویەتی دەکەن؛ لەسەر لێوی سەرەوە دەم نادەپۆشن و نانی خەڵکی نانەخۆاردەن.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "و دەکەن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک ئەوەی"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "من کردوویەتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "لێوی سەرەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "دەم نادەپۆشن"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "و نانی"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "خەڵکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "نانەخۆاردەن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:15:15.689129898Z",
+  "model": "glm-5.3"
+}

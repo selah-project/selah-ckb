@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":5,"ref":"genesis 17:5","book":"genesis","lang":"ckb","chapter":17,"translation":"و ئیتر ناوت ئاڤرام ⟨את⟩ ناناسرێتەوە، و دەبێت ناوت ئاڤراهام، چونکە باوکی ژمارەیەکی زۆر گەلانم کردوویت.","tokens":[{"surface":"ולא","gloss":"و نا"},{"surface":"יקרא","gloss":"ناستنرێتەوە"},{"surface":"עוד","gloss":"ئیتر"},{"surface":"את","gloss":"⟨את⟩","marks":"ناوت"},{"surface":"שמך","gloss":"ناوت"},{"surface":"אברם","gloss":"ئاڤرام ⟨ئیبراهیم⟩"},{"surface":"והיה","gloss":"و دەبێت"},{"surface":"שמך","gloss":"ناوت"},{"surface":"אברהם","gloss":"ئاڤراهام"},{"surface":"כי","gloss":"چونکە"},{"surface":"אב","gloss":"باوکی"},{"surface":"המון","gloss":"ژمارەیەکی زۆر"},{"surface":"גוים","gloss":"گەلان"},{"surface":"נתתיך","gloss":"کردوویت"}],"timestamp":"2026-09-24T15:49:05.100062900Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و ئیتر ناوت ئاڤرام ⟨את⟩ ناناسرێتەوە، و دەبێت ناوت ئاڤراهام، چونکە باوکی ژمارەیەکی زۆر گەلانم کردوویت.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ناستنرێتەوە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناوت"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ئاڤرام ⟨ئیبراهیم⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ژمارەیەکی زۆر"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "کردوویت"
+    }
+  ],
+  "timestamp": "2026-09-24T15:49:05.100062900Z",
+  "model": "glm-5.3"
+}

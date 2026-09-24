@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":16,"ref":"job 18:16","book":"job","lang":"ckb","chapter":18,"translation":"لە ژێرەوە ڕەگەکانی دەوشکێن، و لە سەرەوە بەرهەمەکەی دەبڕدرێت.","tokens":[{"surface":"מתחת","gloss":"لە ژێرەوە"},{"surface":"שרשיו","gloss":"ڕەگەکانی"},{"surface":"יבשו","gloss":"دەوشکێن"},{"surface":"וממעל","gloss":"و لە سەرەوە"},{"surface":"ימל","gloss":"دەبڕدرێت"},{"surface":"קצירו","gloss":"بەرهەمەکەی"}],"timestamp":"2026-09-24T14:39:26.164717010Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 18:16",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "لە ژێرەوە ڕەگەکانی دەوشکێن، و لە سەرەوە بەرهەمەکەی دەبڕدرێت.",
+  "tokens": [
+    {
+      "surface": "מתחת",
+      "gloss": "لە ژێرەوە"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "ڕەگەکانی"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "دەوشکێن"
+    },
+    {
+      "surface": "וממעל",
+      "gloss": "و لە سەرەوە"
+    },
+    {
+      "surface": "ימל",
+      "gloss": "دەبڕدرێت"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "بەرهەمەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:26.164717010Z",
+  "model": "glm-5.3"
+}

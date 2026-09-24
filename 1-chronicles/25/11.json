@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":11,"ref":"1-chronicles 25:11","book":"1-chronicles","lang":"ckb","chapter":25,"translation":"چوارەم بۆ ییتزری ⟨موسا⟩ کوڕەکانی و براکانی، دوازدە","tokens":[{"surface":"הרביעי","gloss":"چوارەم"},{"surface":"ליצרי","gloss":"بۆ ییتزری"},{"surface":"בניו","gloss":"کوڕەکانی"},{"surface":"ואחיו","gloss":"و براکانی"},{"surface":"שנים","gloss":"دوو"},{"surface":"עשר","gloss":"دە"}],"timestamp":"2026-09-24T15:29:36.582058119Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 25:11",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "چوارەم بۆ ییتزری ⟨موسا⟩ کوڕەکانی و براکانی، دوازدە",
+  "tokens": [
+    {
+      "surface": "הרביעי",
+      "gloss": "چوارەم"
+    },
+    {
+      "surface": "ליצרי",
+      "gloss": "بۆ ییتزری"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:36.582058119Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 40:7","book":"psalms","lang":"ckb","chapter":40,"translation":"قوربانی و پێشکەش نەتویست، گوێکانت بۆم هەڵکەند، قوربانیی سووتاندن و قوربانیی گوناهت داوا نەکرد.","tokens":[{"surface":"זבח","gloss":"قوربانی"},{"surface":"ומנחה","gloss":"و پێشکەش"},{"surface":"לא","gloss":"نە"},{"surface":"חפצת","gloss":"ویستت"},{"surface":"אזנים","gloss":"گوێکان"},{"surface":"כרית","gloss":"هەڵکەندیت"},{"surface":"לי","gloss":"بۆم"},{"surface":"עולה","gloss":"قوربانیی سووتاندن"},{"surface":"וחטאה","gloss":"و قوربانیی گوناه"},{"surface":"לא","gloss":"نە"},{"surface":"שאלת","gloss":"داوا کرد"}],"timestamp":"2026-09-24T13:56:55.792594795Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "قوربانی و پێشکەش نەتویست، گوێکانت بۆم هەڵکەند، قوربانیی سووتاندن و قوربانیی گوناهت داوا نەکرد.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "قوربانی"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "و پێشکەش"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ویستت"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "گوێکان"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "هەڵکەندیت"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "قوربانیی سووتاندن"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "و قوربانیی گوناه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "داوا کرد"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:55.792594795Z",
+  "model": "glm-5.3"
+}

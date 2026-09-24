@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":14,"ref":"job 24:14","book":"job","lang":"ckb","chapter":24,"translation":"بە ڕووناکی هەڵدەستێت کوژەر، هەژار و نەدار دەکوژێت، و لە شەودا وەک دز دەبێت.","tokens":[{"surface":"לאור","gloss":"بە ڕووناکی"},{"surface":"יקום","gloss":"هەڵدەستێت"},{"surface":"רוצח","gloss":"کوژەر"},{"surface":"יקטל","gloss":"دەکوژێت"},{"surface":"עני","gloss":"هەژار"},{"surface":"ואביון","gloss":"و نەدار"},{"surface":"ובלילה","gloss":"و لە شەودا"},{"surface":"יהי","gloss":"دەبێت"},{"surface":"כגנב","gloss":"وەک دز"}],"timestamp":"2026-09-24T14:42:20.465690930Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 24:14",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بە ڕووناکی هەڵدەستێت کوژەر، هەژار و نەدار دەکوژێت، و لە شەودا وەک دز دەبێت.",
+  "tokens": [
+    {
+      "surface": "לאור",
+      "gloss": "بە ڕووناکی"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "هەڵدەستێت"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "کوژەر"
+    },
+    {
+      "surface": "יקטל",
+      "gloss": "دەکوژێت"
+    },
+    {
+      "surface": "עני",
+      "gloss": "هەژار"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و نەدار"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "و لە شەودا"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "وەک دز"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:20.465690930Z",
+  "model": "glm-5.3"
+}

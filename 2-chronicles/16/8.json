@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-chronicles 16:8","book":"2-chronicles","lang":"ckb","chapter":16,"translation":"ئایا کووشییەکان و لووبییەکان هێزێکی زۆر نەبوون، ئۆرگە و سوار، بە دڵنیاییەوە زۆر زۆر؟ و کە پشتت بە یاهوە بەست، ئەوانی دەستە دا.","tokens":[{"surface":"הלא","gloss":"ئایا نە"},{"surface":"הכושים","gloss":"کووشییەکان"},{"surface":"והלובים","gloss":"و لووبییەکان"},{"surface":"היו","gloss":"بوون"},{"surface":"לחיל","gloss":"هێزێکی"},{"surface":"לרב","gloss":"زۆر"},{"surface":"לרכב","gloss":"ئۆرگە"},{"surface":"ולפרשים","gloss":"و سوار"},{"surface":"להרבה","gloss":"بە زۆری"},{"surface":"מאד","gloss":"زۆر زۆر"},{"surface":"ובהשענך","gloss":"و کە پشتت بەست"},{"surface":"על","gloss":"بە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"נתנם","gloss":"ئەوانی دا"},{"surface":"בידך","gloss":"دەستە"}],"timestamp":"2026-09-24T15:38:58.918425068Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 16:8",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ئایا کووشییەکان و لووبییەکان هێزێکی زۆر نەبوون، ئۆرگە و سوار، بە دڵنیاییەوە زۆر زۆر؟ و کە پشتت بە یاهوە بەست، ئەوانی دەستە دا.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئایا نە"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "کووشییەکان"
+    },
+    {
+      "surface": "והלובים",
+      "gloss": "و لووبییەکان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "לחיל",
+      "gloss": "هێزێکی"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "ئۆرگە"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "و سوار"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "بە زۆری"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر زۆر"
+    },
+    {
+      "surface": "ובהשענך",
+      "gloss": "و کە پشتت بەست"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ئەوانی دا"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "دەستە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:38:58.918425068Z",
+  "model": "glm-5.3"
+}

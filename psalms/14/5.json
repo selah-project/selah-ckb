@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":5,"ref":"psalms 14:5","book":"psalms","lang":"ckb","chapter":14,"translation":"لەوێ ترسێکیان لێکەوت، چونکە ئێلۆهیم لە نەوەی دادپەروەردایە.","tokens":[{"surface":"שם","gloss":"لەوێ"},{"surface":"פחדו","gloss":"ترسێکیان لێکەوت"},{"surface":"פחד","gloss":"ترس"},{"surface":"כי","gloss":"چونکە"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"בדור","gloss":"لە نەوەی"},{"surface":"צדיק","gloss":"دادپەروەردا"}],"timestamp":"2026-09-24T13:49:57.999001498Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "لەوێ ترسێکیان لێکەوت، چونکە ئێلۆهیم لە نەوەی دادپەروەردایە.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ترسێکیان لێکەوت"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "لە نەوەی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "دادپەروەردا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:57.999001498Z",
+  "model": "glm-5.3"
+}

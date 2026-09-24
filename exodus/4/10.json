@@ -1,1 +1,113 @@
-{"tier":"glm-5.2","verse":10,"ref":"exodus 4:10","book":"exodus","lang":"ckb","chapter":4,"translation":"و مۆشە ⟨موسا⟩ فەرمووی بە یاهوە: تکایە ئەی ئادۆنای، من پیاوی قسەکان نیم، نە لە دوێنێ، نە لە پێشوو، نە لەو کاتەوەی قسەت لەگەڵ خزمەتکارت کردووە، چونکە من دەمێکی قورس و زمانێکی قورسم.","tokens":[{"surface":"ויאמר","gloss":"و فەرمووی"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"אל","gloss":"بە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"בי","gloss":"تکایە"},{"surface":"אדני","gloss":"ئەی ئادۆنای"},{"surface":"לא","gloss":"نا"},{"surface":"איש","gloss":"پیاو"},{"surface":"דברים","gloss":"قسەکان"},{"surface":"אנכי","gloss":"من"},{"surface":"גם","gloss":"نە لە"},{"surface":"מתמול","gloss":"دوێنێ"},{"surface":"גם","gloss":"نە لە"},{"surface":"משלשם","gloss":"پێشوو"},{"surface":"גם","gloss":"نە لە"},{"surface":"מאז","gloss":"لەو کاتەوە"},{"surface":"דברך","gloss":"قسەت"},{"surface":"אל","gloss":"لەگەڵ"},{"surface":"עבדך","gloss":"خزمەتکارت"},{"surface":"כי","gloss":"چونکە"},{"surface":"כבד","gloss":"قورس"},{"surface":"פה","gloss":"دەمێکی"},{"surface":"וכבד","gloss":"و قورس"},{"surface":"לשון","gloss":"زمانێکی"},{"surface":"אנכי","gloss":"منم"}],"timestamp":"2026-09-24T09:38:44.983519252Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 4:10",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و مۆشە ⟨موسا⟩ فەرمووی بە یاهوە: تکایە ئەی ئادۆنای، من پیاوی قسەکان نیم، نە لە دوێنێ، نە لە پێشوو، نە لەو کاتەوەی قسەت لەگەڵ خزمەتکارت کردووە، چونکە من دەمێکی قورس و زمانێکی قورسم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בי",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئەی ئادۆنای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "قسەکان"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نە لە"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "دوێنێ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نە لە"
+    },
+    {
+      "surface": "משלשם",
+      "gloss": "پێشوو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نە لە"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "لەو کاتەوە"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "قسەت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خزمەتکارت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "قورس"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دەمێکی"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "و قورس"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمانێکی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "منم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:38:44.983519252Z",
+  "model": "glm-5.3"
+}

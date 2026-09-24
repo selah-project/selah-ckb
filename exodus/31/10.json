@@ -1,1 +1,64 @@
-{"tier":"glm-5.2","verse":10,"ref":"exodus 31:10","book":"exodus","lang":"ckb","chapter":31,"translation":"و ⟨את⟩ جلی خزمەت و ⟨את⟩ جلی پیرۆزی ئەهارۆن کاهین ⟨את⟩ و ⟨אت⟩ جلی کوڕەکانی بۆ کاهینەتی،","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩","marks":"جلی خزمەت"},{"surface":"בגדי","gloss":"جلی"},{"surface":"השרד","gloss":"خزمەت"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"جلی پیرۆزی"},{"surface":"בגדי","gloss":"جلی"},{"surface":"הקדש","gloss":"پیرۆزی"},{"surface":"לאהרן","gloss":"ئەهارۆن"},{"surface":"הכהן","gloss":"کاهین"},{"surface":"ואת","gloss":"⟨את⟩ و ⟨אت⟩","marks":"جلی كوڕەكانی"},{"surface":"בגדי","gloss":"جلی"},{"surface":"בניו","gloss":"کوڕەکانی"},{"surface":"לכהן","gloss":"بۆ کاهینەتی"}],"timestamp":"2026-09-24T09:50:49.620213300Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و ⟨את⟩ جلی خزمەت و ⟨את⟩ جلی پیرۆزی ئەهارۆن کاهین ⟨את⟩ و ⟨אت⟩ جلی کوڕەکانی بۆ کاهینەتی،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "جلی خزمەت"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "جلی"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "خزمەت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "جلی پیرۆزی"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "جلی"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ئەهارۆن"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ و ⟨אت⟩",
+      "marks": "جلی كوڕەكانی"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "جلی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "بۆ کاهینەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:49.620213300Z",
+  "model": "glm-5.3"
+}

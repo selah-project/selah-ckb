@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":7,"ref":"genesis 9:7","book":"genesis","lang":"ckb","chapter":9,"translation":"و ئێوە بەرهەمدار بن و زیاد بن، لە زەویدا بڵاوبنەوە و تێیدا زیاد بن.","tokens":[{"surface":"ואתם","gloss":"و ئێوە"},{"surface":"פרו","gloss":"بەرهەمدار بن"},{"surface":"ורבו","gloss":"و زیاد بن"},{"surface":"שרצו","gloss":"بڵاوبنەوە"},{"surface":"בארץ","gloss":"لە زەویدا"},{"surface":"ורבו","gloss":"و زیاد بن"},{"surface":"בה","gloss":"تێیدا"}],"timestamp":"2026-09-24T09:12:22.582498995Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و ئێوە بەرهەمدار بن و زیاد بن، لە زەویدا بڵاوبنەوە و تێیدا زیاد بن.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "و ئێوە"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "بەرهەمدار بن"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "و زیاد بن"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "بڵاوبنەوە"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویدا"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "و زیاد بن"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:22.582498995Z",
+  "model": "glm-5.3"
+}

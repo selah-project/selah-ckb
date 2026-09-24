@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":50,"ref":"numbers 33:50","book":"numbers","lang":"ckb","chapter":33,"translation":"و یاهوە لە دەشتایی مۆئاب، لە کەنار یاردێن بەرانبەر یریحۆ، قسەی لەگەڵ مۆشە ⟨موسا⟩ کرد و فەرمووی:","tokens":[{"surface":"וידבר","gloss":"قسەی کرد"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"لەگەڵ"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"בערבת","gloss":"لە دەشتایی"},{"surface":"מואב","gloss":"مۆئاب"},{"surface":"על","gloss":"لە کەنار"},{"surface":"ירדן","gloss":"یاردێن"},{"surface":"ירחו","gloss":"بریحۆ"},{"surface":"לאמר","gloss":"فەرمووی"}],"timestamp":"2026-09-24T10:31:59.933043597Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و یاهوە لە دەشتایی مۆئاب، لە کەنار یاردێن بەرانبەر یریحۆ، قسەی لەگەڵ مۆشە ⟨موسا⟩ کرد و فەرمووی:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "لە دەشتایی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە کەنار"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "یاردێن"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "بریحۆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فەرمووی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:59.933043597Z",
+  "model": "glm-5.3"
+}

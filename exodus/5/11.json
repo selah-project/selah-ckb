@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":11,"ref":"exodus 5:11","book":"exodus","lang":"ckb","chapter":5,"translation":"ئێوە بڕۆن، بۆ خۆتان کاه لەوەی دەیدۆزنەوە وەربگرن، چونکە هیچ لە خزمەتی ئێوە کەم ناکرێتەوە.","tokens":[{"surface":"אתם","gloss":"ئێوە"},{"surface":"לכו","gloss":"بڕۆن"},{"surface":"קחו","gloss":"وەربگرن"},{"surface":"לכם","gloss":"بۆ خۆتان"},{"surface":"תבן","gloss":"کاه"},{"surface":"מאשר","gloss":"لەوەی"},{"surface":"תמצאו","gloss":"دەیدۆزنەوە"},{"surface":"כי","gloss":"چونکە"},{"surface":"אין","gloss":"هیچ"},{"surface":"נגרע","gloss":"کەم دەکرێتەوە"},{"surface":"מעבדתכם","gloss":"لە خزمەتی ئێوە"},{"surface":"דבר","gloss":"شتێک"}],"timestamp":"2026-09-24T09:37:44.543388644Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ئێوە بڕۆن، بۆ خۆتان کاه لەوەی دەیدۆزنەوە وەربگرن، چونکە هیچ لە خزمەتی ئێوە کەم ناکرێتەوە.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "بڕۆن"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "وەربگرن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ خۆتان"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "کاه"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "لەوەی"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "دەیدۆزنەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "کەم دەکرێتەوە"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "لە خزمەتی ئێوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شتێک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:37:44.543388644Z",
+  "model": "glm-5.3"
+}

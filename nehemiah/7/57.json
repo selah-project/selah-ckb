@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":57,"ref":"nehemiah 7:57","book":"nehemiah","lang":"ckb","chapter":7,"translation":"کوڕەکانی خزمەتکارانی شەلۆمۆ ⟨مۆشە⟩: کوڕەکانی سۆتای، کوڕەکانی سۆفەرەت، کوڕەکانی پەرودا.","tokens":[{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"עבדי","gloss":"خزمەتکارانی"},{"surface":"שלמה","gloss":"شەلۆمۆ ⟨مۆشە⟩"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"סוטי","gloss":"سۆتای"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"סופרת","gloss":"سۆفەرەت"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"פרידא","gloss":"پەرودا"}],"timestamp":"2026-09-24T15:17:36.983881603Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی خزمەتکارانی شەلۆمۆ ⟨مۆشە⟩: کوڕەکانی سۆتای، کوڕەکانی سۆفەرەت، کوڕەکانی پەرودا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "خزمەتکارانی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شەلۆمۆ ⟨مۆشە⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "سۆتای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "سۆفەرەت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "پەرودا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:36.983881603Z",
+  "model": "glm-5.3"
+}

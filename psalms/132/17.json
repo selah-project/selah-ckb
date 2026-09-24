@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":17,"ref":"psalms 132:17","book":"psalms","lang":"ckb","chapter":132,"translation":"لەوێ قۆچێک بۆ داود سەرهەڵدەستێنم، چرایەکم بۆ ماشیاحی خۆم ئامادە کردووە.","tokens":[{"surface":"שם","gloss":"لەوێ"},{"surface":"אצמיח","gloss":"سەرهەڵدەستێنم"},{"surface":"קרן","gloss":"قۆچێک"},{"surface":"לדוד","gloss":"بۆ داود"},{"surface":"ערכתי","gloss":"ئامادە کردووە"},{"surface":"נר","gloss":"چرایەک"},{"surface":"למשיחי","gloss":"بۆ ماشیاحی خۆم"}],"timestamp":"2026-09-24T14:17:34.456263731Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 132,
+  "translation": "لەوێ قۆچێک بۆ داود سەرهەڵدەستێنم، چرایەکم بۆ ماشیاحی خۆم ئامادە کردووە.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "سەرهەڵدەستێنم"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "قۆچێک"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ئامادە کردووە"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چرایەک"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "بۆ ماشیاحی خۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:34.456263731Z",
+  "model": "glm-5.3"
+}

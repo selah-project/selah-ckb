@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":20,"ref":"jeremiah 16:20","book":"jeremiah","lang":"ckb","chapter":16,"translation":"ئایا مرۆڤ بۆ خۆی خودایان دروستدەکات، و ئەوان خودا نین؟","tokens":[{"surface":"היעשה","gloss":"ئایا دروستدەکات"},{"surface":"לו","gloss":"بۆ خۆی"},{"surface":"אדם","gloss":"مرۆڤ"},{"surface":"אלהים","gloss":"خودایان"},{"surface":"והמה","gloss":"و ئەوان"},{"surface":"לא","gloss":"نا"},{"surface":"אלהים","gloss":"خودا"}],"timestamp":"2026-09-24T12:44:31.122270330Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ئایا مرۆڤ بۆ خۆی خودایان دروستدەکات، و ئەوان خودا نین؟",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "ئایا دروستدەکات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خودایان"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "و ئەوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خودا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:31.122270330Z",
+  "model": "glm-5.3"
+}

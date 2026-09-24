@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":14,"ref":"ezekiel 33:14","book":"ezekiel","lang":"ckb","chapter":33,"translation":"و کاتێک بە دەخراپەکە دەڵێم مردە دەمریت، و ئەو لە گوناهەکەی خۆی بگەڕێتەوە و داد و ڕاستی بکات،","tokens":[{"surface":"ובאמרי","gloss":"و کاتێک دەڵێم"},{"surface":"לרשע","gloss":"بە دەخراپەکە"},{"surface":"מות","gloss":"مردە"},{"surface":"תמות","gloss":"دەمریت"},{"surface":"ושב","gloss":"و بگەڕێتەوە"},{"surface":"מחטאתו","gloss":"لە گوناهەکەی"},{"surface":"ועשה","gloss":"و بکات"},{"surface":"משפט","gloss":"داد"},{"surface":"וצדקה","gloss":"و ڕاستی"}],"timestamp":"2026-09-24T13:18:48.551093438Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 33:14",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و کاتێک بە دەخراپەکە دەڵێم مردە دەمریت، و ئەو لە گوناهەکەی خۆی بگەڕێتەوە و داد و ڕاستی بکات،",
+  "tokens": [
+    {
+      "surface": "ובאמרי",
+      "gloss": "و کاتێک دەڵێم"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "بە دەخراپەکە"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردە"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "دەمریت"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "و بگەڕێتەوە"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "لە گوناهەکەی"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "و بکات"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "داد"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "و ڕاستی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:48.551093438Z",
+  "model": "glm-5.3"
+}

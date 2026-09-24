@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":6,"ref":"leviticus 2:6","book":"leviticus","lang":"ckb","chapter":2,"translation":"پارچەی پارچە ⟨את⟩ بکە و ڕۆن لەسەری ڕابڕێژە — پێشکەشکردنە.","tokens":[{"surface":"פתות","gloss":"پارچەی پارچە بکە"},{"surface":"אתה","gloss":"⟨את⟩","marks":"پارچەکان"},{"surface":"פתים","gloss":"پارچەکان"},{"surface":"ויצקת","gloss":"و ڕابڕێژە"},{"surface":"עליה","gloss":"لەسەری"},{"surface":"שמן","gloss":"ڕۆن"},{"surface":"מנחה","gloss":"پێشکەشکردن"},{"surface":"הוא","gloss":"ئەوەیە"}],"timestamp":"2026-09-24T09:58:06.689650276Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "پارچەی پارچە ⟨את⟩ بکە و ڕۆن لەسەری ڕابڕێژە — پێشکەشکردنە.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "پارچەی پارچە بکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "پارچەکان"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "پارچەکان"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "و ڕابڕێژە"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ڕۆن"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "پێشکەشکردن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:58:06.689650276Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"proverbs 16:22","book":"proverbs","lang":"ckb","chapter":16,"translation":"سەرچاوەی ژیان تێگەیشتنە بۆ خاوەنەکەی، و ڕاهێنانی نەفامان نەفامییە.","tokens":[{"surface":"מקור","gloss":"سەرچاوەی"},{"surface":"חיים","gloss":"ژیان"},{"surface":"שכל","gloss":"تێگەیشتن"},{"surface":"בעליו","gloss":"خاوەنەکەی"},{"surface":"ומוסר","gloss":"و ڕاهێنان"},{"surface":"אולים","gloss":"نەفامان"},{"surface":"אולת","gloss":"نەفامی"}],"timestamp":"2026-09-24T14:26:55.351830872Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 16:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "سەرچاوەی ژیان تێگەیشتنە بۆ خاوەنەکەی، و ڕاهێنانی نەفامان نەفامییە.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "سەرچاوەی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "تێگەیشتن"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "خاوەنەکەی"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "و ڕاهێنان"
+    },
+    {
+      "surface": "אולים",
+      "gloss": "نەفامان"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "نەفامی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:55.351830872Z",
+  "model": "glm-5.3"
+}

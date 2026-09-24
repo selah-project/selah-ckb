@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":35,"ref":"1-kings 20:35","book":"1-kings","lang":"ckb","chapter":20,"translation":"و پیاوێک لە کوڕانی پێغەمبەران وت بە هاوڕێکەی بە وشەی یاهوە تکایە لێمبدە و پیاوەکە ڕەتیکردەوە بۆ لێدانی.","tokens":[{"surface":"ואיש","gloss":"و پیاوێک"},{"surface":"אחד","gloss":"یەک"},{"surface":"מבני","gloss":"لە کوڕانی"},{"surface":"הנביאים","gloss":"پێغەمبەران"},{"surface":"אמר","gloss":"وت"},{"surface":"אל","gloss":"بە"},{"surface":"רעהו","gloss":"هاوڕێکەی"},{"surface":"בדבר","gloss":"بە وشەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"הכיני","gloss":"لێمبدە"},{"surface":"נא","gloss":"تکایە"},{"surface":"וימאן","gloss":"و ڕەتیکردەوە"},{"surface":"האיש","gloss":"پیاوەکە"},{"surface":"להכתו","gloss":"بۆ لێدانی"}],"timestamp":"2026-09-24T11:57:06.737196574Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 20:35",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و پیاوێک لە کوڕانی پێغەمبەران وت بە هاوڕێکەی بە وشەی یاهوە تکایە لێمبدە و پیاوەکە ڕەتیکردەوە بۆ لێدانی.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "لە کوڕانی"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "پێغەمبەران"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێکەی"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بە وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "لێمبدە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "و ڕەتیکردەوە"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "پیاوەکە"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "بۆ لێدانی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:57:06.737196574Z",
+  "model": "glm-5.3"
+}

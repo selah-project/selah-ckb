@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":18,"ref":"2-chronicles 7:18","book":"2-chronicles","lang":"ckb","chapter":7,"translation":"و کورسیی پاشایەتییەکەت دەپاڵێنم ⟨את⟩، وەک بە داود باوکت پەیمانم بەست وتم: پیاوێکی حاکم لە ئیسرائیلدا لە تۆ نەبڕدرێتەوە.","tokens":[{"surface":"והקימותי","gloss":"و دەپاڵێنم"},{"surface":"את","gloss":"⟨את⟩","marks":"کورسی"},{"surface":"כסא","gloss":"کورسی"},{"surface":"מלכותך","gloss":"پاشایەتییەکەت"},{"surface":"כאשר","gloss":"وەک"},{"surface":"כרתי","gloss":"پەیمانم بەست"},{"surface":"לדויד","gloss":"بە داود"},{"surface":"אביך","gloss":"باوکت"},{"surface":"לאמר","gloss":"وتم"},{"surface":"לא","gloss":"نە"},{"surface":"יכרת","gloss":"بڕدرێتەوە"},{"surface":"לך","gloss":"لە تۆ"},{"surface":"איש","gloss":"پیاوێک"},{"surface":"מושל","gloss":"حاکم"},{"surface":"בישראל","gloss":"لە ئیسرائیلدا"}],"timestamp":"2026-09-24T17:19:42.789268846Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 7:18",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و کورسیی پاشایەتییەکەت دەپاڵێنم ⟨את⟩، وەک بە داود باوکت پەیمانم بەست وتم: پیاوێکی حاکم لە ئیسرائیلدا لە تۆ نەبڕدرێتەوە.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "و دەپاڵێنم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کورسی"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "کورسی"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "پاشایەتییەکەت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "پەیمانم بەست"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "بە داود"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "بڕدرێتەوە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "لە ئیسرائیلدا"
+    }
+  ],
+  "timestamp": "2026-09-24T17:19:42.789268846Z",
+  "model": "glm-5.3"
+}

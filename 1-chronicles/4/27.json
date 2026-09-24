@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":27,"ref":"1-chronicles 4:27","book":"1-chronicles","lang":"ckb","chapter":4,"translation":"و بۆ شیمعی کوڕانی شازدە و کچانی شەش بوون، و بۆ براکانی کوڕانی زۆر نەبوون، و هەموو خێزانەکەیان وەک کوڕانی یەهودا نەزیادبوونەوە.","tokens":[{"surface":"ולשמעי","gloss":"و بۆ شیمعی"},{"surface":"בנים","gloss":"کوڕان"},{"surface":"ששה","gloss":"شەش"},{"surface":"עשר","gloss":"دە"},{"surface":"ובנות","gloss":"و کچان"},{"surface":"שש","gloss":"شەش"},{"surface":"ולאחיו","gloss":"و بۆ براکانی"},{"surface":"אין","gloss":"نییە"},{"surface":"בנים","gloss":"کوڕان"},{"surface":"רבים","gloss":"زۆر"},{"surface":"וכל","gloss":"و هەموو"},{"surface":"משפחתם","gloss":"خێزانەکەیان"},{"surface":"לא","gloss":"نە"},{"surface":"הרבו","gloss":"زیادبوونەوە"},{"surface":"עד","gloss":"وەک"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"יהודה","gloss":"یەهودا"}],"timestamp":"2026-09-24T15:22:28.433241682Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 4:27",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بۆ شیمعی کوڕانی شازدە و کچانی شەش بوون، و بۆ براکانی کوڕانی زۆر نەبوون، و هەموو خێزانەکەیان وەک کوڕانی یەهودا نەزیادبوونەوە.",
+  "tokens": [
+    {
+      "surface": "ולשמעי",
+      "gloss": "و بۆ شیمعی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "و کچان"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "و بۆ براکانی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "خێزانەکەیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "زیادبوونەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:28.433241682Z",
+  "model": "glm-5.3"
+}

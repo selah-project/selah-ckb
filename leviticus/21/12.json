@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":12,"ref":"leviticus 21:12","book":"leviticus","lang":"ckb","chapter":21,"translation":"و لە پەرستنگەکە دەرناچێت و پەرستنگەی ئێلۆهیمی خۆی ⟨את⟩ پیس ناکات، چونکە نەزیری روونی چەورکردنی ئێلۆهیمی لەسەرییەتی؛ من یاهوەم.","tokens":[{"surface":"ומן","gloss":"و لە"},{"surface":"המקדש","gloss":"پەرستنگەکە"},{"surface":"לא","gloss":"نا"},{"surface":"יצא","gloss":"دەردەچێت"},{"surface":"ולא","gloss":"و نا"},{"surface":"יחלל","gloss":"پیس دەکات"},{"surface":"את","gloss":"⟨את⟩","marks":"پەرستنگەی ئێلۆهیمی خۆی"},{"surface":"מקדש","gloss":"پەرستنگەی"},{"surface":"אלהיו","gloss":"ئێلۆهیمی"},{"surface":"כי","gloss":"چونکە"},{"surface":"נזר","gloss":"نەزیری"},{"surface":"שמן","gloss":"روونی"},{"surface":"משחת","gloss":"چەورکردنی"},{"surface":"אלהיו","gloss":"ئێلۆهیمی"},{"surface":"עליו","gloss":"لەسەری"},{"surface":"אני","gloss":"من"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T10:09:02.550255384Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و لە پەرستنگەکە دەرناچێت و پەرستنگەی ئێلۆهیمی خۆی ⟨את⟩ پیس ناکات، چونکە نەزیری روونی چەورکردنی ئێلۆهیمی لەسەرییەتی؛ من یاهوەم.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "پەرستنگەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "دەردەچێت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "پیس دەکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەرستنگەی ئێلۆهیمی خۆی"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "پەرستنگەی"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "نەزیری"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "روونی"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "چەورکردنی"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:02.550255384Z",
+  "model": "glm-5.3"
+}

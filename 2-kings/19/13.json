@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-kings 19:13","book":"2-kings","lang":"ckb","chapter":19,"translation":"کوێیە پاشای حەمات، و پاشای ئەرفاد، و پاشای شارۆچکەیەکەی سەفەرڤاییم ⟨حەینەع⟩ و ⟨عیوە⟩؟","tokens":[{"surface":"איו","gloss":"کوێیە"},{"surface":"מלך","gloss":"پاشای"},{"surface":"חמת","gloss":"حەمات"},{"surface":"ומלך","gloss":"و پاشای"},{"surface":"ארפד","gloss":"ئەرفاد"},{"surface":"ומלך","gloss":"و پاشای"},{"surface":"לעיר","gloss":"شارۆچکەیەکەی"},{"surface":"ספרוים","gloss":"سەفەرڤاییم"},{"surface":"הנע","gloss":"حەینەع"},{"surface":"ועוה","gloss":"و عیوە"}],"timestamp":"2026-09-24T12:08:38.350829672Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "کوێیە پاشای حەمات، و پاشای ئەرفاد، و پاشای شارۆچکەیەکەی سەفەرڤاییم ⟨حەینەع⟩ و ⟨عیوە⟩؟",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "کوێیە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حەمات"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و پاشای"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "ئەرفاد"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و پاشای"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شارۆچکەیەکەی"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "سەفەرڤاییم"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "حەینەع"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "و عیوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:08:38.350829672Z",
+  "model": "glm-5.3"
+}

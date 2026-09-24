@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":10,"ref":"jeremiah 21:10","book":"jeremiah","lang":"ckb","chapter":21,"translation":"چونکە ڕووم لەسەر ئەم شارە دانام بۆ خراپە و نەک بۆ چاکە، فەرمووی یاهوە؛ بە دەستی پادشای بابل دەدرێت و بە ئاگر دەسووتێنرێت.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"שמתי","gloss":"دانام"},{"surface":"פני","gloss":"ڕووم"},{"surface":"בעיר","gloss":"لەسەر شار"},{"surface":"הזאת","gloss":"ئەم"},{"surface":"לרעה","gloss":"بۆ خراپە"},{"surface":"ולא","gloss":"و نەک"},{"surface":"לטובה","gloss":"بۆ چاکە"},{"surface":"נאם","gloss":"فەرمووی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ביד","gloss":"بە دەستی"},{"surface":"מלך","gloss":"پادشای"},{"surface":"בבל","gloss":"بابل"},{"surface":"תנתן","gloss":"دەدرێت"},{"surface":"ושרפה","gloss":"و دەسووتێنرێت"},{"surface":"באש","gloss":"بە ئاگر"}],"timestamp":"2026-09-24T12:46:21.665633602Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 21:10",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "چونکە ڕووم لەسەر ئەم شارە دانام بۆ خراپە و نەک بۆ چاکە، فەرمووی یاهوە؛ بە دەستی پادشای بابل دەدرێت و بە ئاگر دەسووتێنرێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "دانام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووم"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "لەسەر شار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "بۆ خراپە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەک"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "بۆ چاکە"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "دەدرێت"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "و دەسووتێنرێت"
+    },
+    {
+      "surface": "באש",
+      "gloss": "بە ئاگر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:46:21.665633602Z",
+  "model": "glm-5.3"
+}

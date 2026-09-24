@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":3,"ref":"judges 6:3","book":"judges","lang":"ckb","chapter":6,"translation":"و بوو ئەگەر ییسڕائیل چین کرد، میدیان و عەمەلەق و کوڕانی ڕۆژهەڵات دەهاتنە سەری و دەیانکەوتنە سەری.","tokens":[{"surface":"והיה","gloss":"و بوو"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"זרע","gloss":"چین کرد"},{"surface":"ישראל","gloss":"ییسڕائیل"},{"surface":"ועלה","gloss":"و دەهاتە سەر"},{"surface":"מדין","gloss":"میدیان"},{"surface":"ועמלק","gloss":"و عەمەلەق"},{"surface":"ובני","gloss":"و کوڕانی"},{"surface":"קדם","gloss":"ڕۆژهەڵات"},{"surface":"ועלו","gloss":"و دەیانکەوتنە سەر"},{"surface":"עליו","gloss":"سەری"}],"timestamp":"2026-09-24T11:06:09.008490742Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 6:3",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و بوو ئەگەر ییسڕائیل چین کرد، میدیان و عەمەلەق و کوڕانی ڕۆژهەڵات دەهاتنە سەری و دەیانکەوتنە سەری.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "چین کرد"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسڕائیل"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "و دەهاتە سەر"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "و عەمەلەق"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "و کوڕانی"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ڕۆژهەڵات"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "و دەیانکەوتنە سەر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "سەری"
+    }
+  ],
+  "timestamp": "2026-09-24T11:06:09.008490742Z",
+  "model": "glm-5.3"
+}

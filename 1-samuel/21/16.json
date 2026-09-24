@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":16,"ref":"1-samuel 21:16","book":"1-samuel","lang":"ckb","chapter":21,"translation":"ئایا کەمی شێتەکانم هەیە کە ⟨את⟩ ئەمەتان هێناوە بۆ ئەوەی لە پێشم شێت بکات؟ ئایا ئەمە بێتە ناو ماڵی من؟","tokens":[{"surface":"חסר","gloss":"کەمی"},{"surface":"משגעים","gloss":"شێتەکان"},{"surface":"אני","gloss":"من"},{"surface":"כי","gloss":"کە"},{"surface":"הבאתם","gloss":"هێناوەتان"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەمە"},{"surface":"זה","gloss":"ئەمە"},{"surface":"להשתגע","gloss":"بۆ شێتکردن"},{"surface":"עלי","gloss":"لە پێشم"},{"surface":"הזה","gloss":"ئەمە"},{"surface":"יבוא","gloss":"بێتە"},{"surface":"אל","gloss":"ناو"},{"surface":"ביתי","gloss":"ماڵی من"}],"timestamp":"2026-09-24T11:26:19.253721643Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ئایا کەمی شێتەکانم هەیە کە ⟨את⟩ ئەمەتان هێناوە بۆ ئەوەی لە پێشم شێت بکات؟ ئایا ئەمە بێتە ناو ماڵی من؟",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "کەمی"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "شێتەکان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "هێناوەتان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەمە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "بۆ شێتکردن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لە پێشم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "بێتە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ماڵی من"
+    }
+  ],
+  "timestamp": "2026-09-24T11:26:19.253721643Z",
+  "model": "glm-5.3"
+}

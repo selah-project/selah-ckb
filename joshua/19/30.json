@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":30,"ref":"joshua 19:30","book":"joshua","lang":"ckb","chapter":19,"translation":"و ئوماه و ئافێق و رەحۆڤ — بیست و دوو شار و دێیەکانیان","tokens":[{"surface":"ועמה","gloss":"و ئوماه"},{"surface":"ואפק","gloss":"و ئافێق"},{"surface":"ורחב","gloss":"و رەحۆڤ"},{"surface":"ערים","gloss":"شار"},{"surface":"עשרים","gloss":"بیست"},{"surface":"ושתים","gloss":"و دوو"},{"surface":"וחצריהן","gloss":"و دێیەکانیان"}],"timestamp":"2026-09-24T11:00:16.337344629Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئوماه و ئافێق و رەحۆڤ — بیست و دوو شار و دێیەکانیان",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "و ئوماه"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "و ئافێق"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و رەحۆڤ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شار"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "و دێیەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:16.337344629Z",
+  "model": "glm-5.3"
+}

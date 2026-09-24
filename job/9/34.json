@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":34,"ref":"job 9:34","book":"job","lang":"ckb","chapter":9,"translation":"شەقەکەی لە سەرم لابەرێت، و با ترسەکەی من مەترسێنێت.","tokens":[{"surface":"יסר","gloss":"لابەرێت"},{"surface":"מעלי","gloss":"لە سەرم"},{"surface":"שבטו","gloss":"شەقەکەی"},{"surface":"ואמתו","gloss":"و ترسەکەی"},{"surface":"אל","gloss":"با"},{"surface":"תבעתני","gloss":"من مەترسێنێت"}],"timestamp":"2026-09-24T14:36:52.810039304Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 9:34",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "شەقەکەی لە سەرم لابەرێت، و با ترسەکەی من مەترسێنێت.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "لابەرێت"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "لە سەرم"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "شەقەکەی"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "و ترسەکەی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "תבעתני",
+      "gloss": "من مەترسێنێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:36:52.810039304Z",
+  "model": "glm-5.3"
+}

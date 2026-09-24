@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":4,"ref":"isaiah 60:4","book":"isaiah","lang":"ckb","chapter":60,"translation":"چاوت بە دەوری هەڵبڕە و ببینە، هەموویان کۆبوونەتەوە، بۆ تۆ دێن، کوڕەکانت لە دوورەوە دێن، و کچەکانت لە لاتەوە گەورە دەکرێن.","tokens":[{"surface":"שאי","gloss":"هەڵبڕە"},{"surface":"סביב","gloss":"بە دەوری"},{"surface":"עיניך","gloss":"چاوت"},{"surface":"וראי","gloss":"و ببینە"},{"surface":"כלם","gloss":"هەموویان"},{"surface":"נקבצו","gloss":"کۆبوونەتەوە"},{"surface":"באו","gloss":"دێن"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"בניך","gloss":"کوڕەکانت"},{"surface":"מרחוק","gloss":"لە دوورەوە"},{"surface":"יבאו","gloss":"دێن"},{"surface":"ובנתיך","gloss":"و کچەکانت"},{"surface":"על","gloss":"لە"},{"surface":"צד","gloss":"لاتەوە"},{"surface":"תאמנה","gloss":"گەورە دەکرێن"}],"timestamp":"2026-09-24T12:34:49.036570232Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 60:4",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 60,
+  "translation": "چاوت بە دەوری هەڵبڕە و ببینە، هەموویان کۆبوونەتەوە، بۆ تۆ دێن، کوڕەکانت لە دوورەوە دێن، و کچەکانت لە لاتەوە گەورە دەکرێن.",
+  "tokens": [
+    {
+      "surface": "שאי",
+      "gloss": "هەڵبڕە"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "بە دەوری"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "چاوت"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "و ببینە"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "هەموویان"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "کۆبوونەتەوە"
+    },
+    {
+      "surface": "באו",
+      "gloss": "دێن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "کوڕەکانت"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "لە دوورەوە"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "دێن"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "و کچەکانت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "צד",
+      "gloss": "لاتەوە"
+    },
+    {
+      "surface": "תאמנה",
+      "gloss": "گەورە دەکرێن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:34:49.036570232Z",
+  "model": "glm-5.3"
+}

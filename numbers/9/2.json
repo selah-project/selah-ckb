@@ -1,1 +1,38 @@
-{"tier":"glm-5.2","verse":2,"ref":"numbers 9:2","book":"numbers","lang":"ckb","chapter":9,"translation":"کوڕانی ئیسرائیل ⟨את⟩ پەسەحەکە لە کاتی دیاریکراوی خۆیدا بکەن","tokens":[{"surface":"ויעשו","gloss":"و بکەن"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"את","gloss":"⟨את⟩","marks":"پەسەحەکە"},{"surface":"הפסח","gloss":"پەسەح"},{"surface":"במועדו","gloss":"لە کاتی دیاریکراوی خۆی"}],"timestamp":"2026-09-24T10:19:26.262005267Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "کوڕانی ئیسرائیل ⟨את⟩ پەسەحەکە لە کاتی دیاریکراوی خۆیدا بکەن",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "و بکەن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەسەحەکە"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پەسەح"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "لە کاتی دیاریکراوی خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:26.262005267Z",
+  "model": "glm-5.3"
+}

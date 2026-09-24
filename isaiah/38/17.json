@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":17,"ref":"isaiah 38:17","book":"isaiah","lang":"ckb","chapter":38,"translation":"ئەوەتا بۆ ئاشتی تاڵی بۆم تاڵ بوو، و تۆ گیانمت بە خۆشەویستی لە کەڵەبەری تێکدان پارێشت، چونکە هەموو گوناهەکانم بۆ پشتت فڕێدا.","tokens":[{"surface":"הנה","gloss":"ئەوەتا"},{"surface":"לשלום","gloss":"بۆ ئاشتی"},{"surface":"מר","gloss":"تاڵی"},{"surface":"לי","gloss":"بۆم"},{"surface":"מר","gloss":"تاڵ بوو"},{"surface":"ואתה","gloss":"و تۆ"},{"surface":"חשקת","gloss":"خۆشەویستیت بوو"},{"surface":"נפשי","gloss":"گیانم"},{"surface":"משחת","gloss":"لە کەڵەبەر"},{"surface":"בלי","gloss":"تێکدان"},{"surface":"כי","gloss":"چونکە"},{"surface":"השלכת","gloss":"فڕێدا"},{"surface":"אחרי","gloss":"بۆ پشت"},{"surface":"גוך","gloss":"پشتت"},{"surface":"כל","gloss":"هەموو"},{"surface":"חטאי","gloss":"گوناهەکانم"}],"timestamp":"2026-09-24T12:24:56.237127474Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 38:17",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "ئەوەتا بۆ ئاشتی تاڵی بۆم تاڵ بوو، و تۆ گیانمت بە خۆشەویستی لە کەڵەبەری تێکدان پارێشت، چونکە هەموو گوناهەکانم بۆ پشتت فڕێدا.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "بۆ ئاشتی"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تاڵی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تاڵ بوو"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "חשקת",
+      "gloss": "خۆشەویستیت بوو"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "لە کەڵەبەر"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "تێکدان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "فڕێدا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بۆ پشت"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "پشتت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "گوناهەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:24:56.237127474Z",
+  "model": "glm-5.3"
+}

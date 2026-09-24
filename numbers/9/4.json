@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":4,"ref":"numbers 9:4","book":"numbers","lang":"ckb","chapter":9,"translation":"و مۆشە قسەی کرد بە کوڕانی ئیسرائیل بۆ کردنی پەسەح","tokens":[{"surface":"וידבר","gloss":"و قسەی کرد"},{"surface":"משה","gloss":"مۆشە"},{"surface":"אל","gloss":"بە"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"לעשת","gloss":"بۆ کردنی"},{"surface":"הפסח","gloss":"پەسەح"}],"timestamp":"2026-09-24T10:19:26.262322513Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و مۆشە قسەی کرد بە کوڕانی ئیسرائیل بۆ کردنی پەسەح",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "بۆ کردنی"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پەسەح"
+    }
+  ],
+  "timestamp": "2026-09-24T10:19:26.262322513Z",
+  "model": "glm-5.3"
+}

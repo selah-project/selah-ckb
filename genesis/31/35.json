@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":35,"ref":"genesis 31:35","book":"genesis","lang":"ckb","chapter":31,"translation":"وە وتژی بە باوکی: با لە چاوی ئاغام نەتووڕە بێت، چونکە ناتوانم لەبەردەمت هەڵبستم، چونکە ڕێژی ژنان لەسەرەم؛ وە گەڕا وە تێرافیمەکانی نەیدا ⟨את⟩.","tokens":[{"surface":"ותאמר","gloss":"وە وتژی"},{"surface":"אל","gloss":"بە"},{"surface":"אביה","gloss":"باوکی"},{"surface":"אל","gloss":"با"},{"surface":"יחר","gloss":"نەتووڕە بێت"},{"surface":"בעיני","gloss":"لە چاوی"},{"surface":"אדני","gloss":"ئاغام"},{"surface":"כי","gloss":"چونکە"},{"surface":"לוא","gloss":"نا"},{"surface":"אוכל","gloss":"ناتوانم"},{"surface":"לקום","gloss":"هەڵبستم"},{"surface":"מפניך","gloss":"لەبەردەمت"},{"surface":"כי","gloss":"چونکە"},{"surface":"דרך","gloss":"ڕێژی"},{"surface":"נשים","gloss":"ژنان"},{"surface":"לי","gloss":"لەسەرەم"},{"surface":"ויחפש","gloss":"وە گەڕا"},{"surface":"ולא","gloss":"وە نە"},{"surface":"מצא","gloss":"یدا"},{"surface":"את","gloss":"⟨את⟩","marks":"تێرافیمەکانی"},{"surface":"התרפים","gloss":"تێرافیمەکان"}],"timestamp":"2026-09-24T09:26:22.724701754Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 31:35",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "وە وتژی بە باوکی: با لە چاوی ئاغام نەتووڕە بێت، چونکە ناتوانم لەبەردەمت هەڵبستم، چونکە ڕێژی ژنان لەسەرەم؛ وە گەڕا وە تێرافیمەکانی نەیدا ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "وە وتژی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "نەتووڕە بێت"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئاغام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ناتوانم"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "هەڵبستم"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "لەبەردەمت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێژی"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژنان"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لەسەرەم"
+    },
+    {
+      "surface": "ויחפש",
+      "gloss": "وە گەڕا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "وە نە"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "یدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تێرافیمەکانی"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "تێرافیمەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:22.724701754Z",
+  "model": "glm-5.3"
+}

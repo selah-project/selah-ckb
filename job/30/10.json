@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":10,"ref":"job 30:10","book":"job","lang":"ckb","chapter":30,"translation":"لێم بێزیان، لە من دوور کەوتنەوە، و لە ڕوومەوە تافیان نەبەستاند.","tokens":[{"surface":"תעבוני","gloss":"لێم بێزیان"},{"surface":"רחקו","gloss":"دوور کەوتنەوە"},{"surface":"מני","gloss":"لە من"},{"surface":"ומפני","gloss":"و لە ڕوومەوە"},{"surface":"לא","gloss":"نە"},{"surface":"חשכו","gloss":"بەستاند"},{"surface":"רק","gloss":"تاف"}],"timestamp":"2026-09-24T14:43:07.891879578Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "لێم بێزیان، لە من دوور کەوتنەوە، و لە ڕوومەوە تافیان نەبەستاند.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "لێم بێزیان"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "دوور کەوتنەوە"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "و لە ڕوومەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "بەستاند"
+    },
+    {
+      "surface": "רק",
+      "gloss": "تاف"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:07.891879578Z",
+  "model": "glm-5.3"
+}

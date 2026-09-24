@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":2,"ref":"proverbs 10:2","book":"proverbs","lang":"ckb","chapter":10,"translation":"گەنجینەکانی خراپە سوود نادەن، و دادپەروەری لە مردن ڕزگار دەکات.","tokens":[{"surface":"לא","gloss":"نا"},{"surface":"יועילו","gloss":"سوود نادەن"},{"surface":"אוצרות","gloss":"گەنجینەکانی"},{"surface":"רשע","gloss":"خراپە"},{"surface":"וצדקה","gloss":"و دادپەروەری"},{"surface":"תציל","gloss":"ڕزگار دەکات"},{"surface":"ממות","gloss":"لە مردن"}],"timestamp":"2026-09-24T14:25:06.772402074Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "گەنجینەکانی خراپە سوود نادەن، و دادپەروەری لە مردن ڕزگار دەکات.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "سوود نادەن"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "گەنجینەکانی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپە"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "و دادپەروەری"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ڕزگار دەکات"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "لە مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:06.772402074Z",
+  "model": "glm-5.3"
+}

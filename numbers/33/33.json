@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":33,"ref":"numbers 33:33","book":"numbers","lang":"ckb","chapter":33,"translation":"و لە حۆر-هاگیدگادەوە بەڕێکەوتن، و لە یاتباتا کەمپیان دانا.","tokens":[{"surface":"ויסעו","gloss":"و بەڕێکەوتن"},{"surface":"מחר","gloss":"لە حۆر-هاگیدگادەوە"},{"surface":"הגדגד","gloss":"حۆر-هاگیدگاد"},{"surface":"ויחנו","gloss":"و کەمپیان دانا"},{"surface":"ביטבתה","gloss":"لە یاتباتا"}],"timestamp":"2026-09-24T10:31:29.201319535Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 33:33",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە حۆر-هاگیدگادەوە بەڕێکەوتن، و لە یاتباتا کەمپیان دانا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و بەڕێکەوتن"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "لە حۆر-هاگیدگادەوە"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "حۆر-هاگیدگاد"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و کەمپیان دانا"
+    },
+    {
+      "surface": "ביטבתה",
+      "gloss": "لە یاتباتا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:29.201319535Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 62:11","book":"psalms","lang":"ckb","chapter":62,"translation":"متمانە مەخەنەوە بە زوڵم و لە دەستدرێژیدا بەتاڵ مەبن، سامان کاتێک بەرهەم دەهێنێت، دڵ لەسەری مەخەنەوە","tokens":[{"surface":"אל","gloss":"مە"},{"surface":"תבטחו","gloss":"متمانە بکەن"},{"surface":"בעשק","gloss":"بە زوڵم"},{"surface":"ובגזל","gloss":"و بە دەستدرێژی"},{"surface":"אל","gloss":"مە"},{"surface":"תהבלו","gloss":"بەتاڵ بن"},{"surface":"חיל","gloss":"سامان"},{"surface":"כי","gloss":"کاتێک"},{"surface":"ינוב","gloss":"بەرهەم دەهێنێت"},{"surface":"אל","gloss":"مە"},{"surface":"תשיתו","gloss":"بخەنەوە"},{"surface":"לב","gloss":"دڵ"}],"timestamp":"2026-09-24T14:01:02.621315379Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 62,
+  "translation": "متمانە مەخەنەوە بە زوڵم و لە دەستدرێژیدا بەتاڵ مەبن، سامان کاتێک بەرهەم دەهێنێت، دڵ لەسەری مەخەنەوە",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "متمانە بکەن"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "بە زوڵم"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "و بە دەستدرێژی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "بەتاڵ بن"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "بەرهەم دەهێنێت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "بخەنەوە"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:02.621315379Z",
+  "model": "glm-5.3"
+}

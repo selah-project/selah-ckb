@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":17,"ref":"ezekiel 33:17","book":"ezekiel","lang":"ckb","chapter":33,"translation":"و کوڕانی گەلت دەڵێن ڕێگای ئادۆنای تەرازو ناکرێت و ئەوانیش ڕێگایان تەرازو ناکرێت.","tokens":[{"surface":"ואמרו","gloss":"و دەڵێن"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"עמך","gloss":"گەلت"},{"surface":"לא","gloss":"نا"},{"surface":"יתכן","gloss":"تەرازو ناکرێت"},{"surface":"דרך","gloss":"ڕێگای"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"והמה","gloss":"و ئەوانیش"},{"surface":"דרכם","gloss":"ڕێگایان"},{"surface":"לא","gloss":"نا"},{"surface":"יתכן","gloss":"تەرازو ناکرێت"}],"timestamp":"2026-09-24T13:19:05.074108407Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 33:17",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و کوڕانی گەلت دەڵێن ڕێگای ئادۆنای تەرازو ناکرێت و ئەوانیش ڕێگایان تەرازو ناکرێت.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "تەرازو ناکرێت"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "و ئەوانیش"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ڕێگایان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "تەرازو ناکرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T13:19:05.074108407Z",
+  "model": "glm-5.3"
+}

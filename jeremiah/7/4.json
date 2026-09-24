@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":4,"ref":"jeremiah 7:4","book":"jeremiah","lang":"ckb","chapter":7,"translation":"مەڵێ باوەڕ بە خۆتان بێت بە وشەکانی درۆی ئەم زارە: «هەیکەلی یاهوە، هەیکەلی یاهوە، هەیکەلی یاهوە ئەمانەن.»","tokens":[{"surface":"אל","gloss":"مەڵێ"},{"surface":"תבטחו","gloss":"باوەڕ بێت"},{"surface":"לכם","gloss":"بە خۆتان"},{"surface":"אל","gloss":"بە"},{"surface":"דברי","gloss":"وشەکانی"},{"surface":"השקר","gloss":"درۆی"},{"surface":"לאמר","gloss":"بەم زارە"},{"surface":"היכל","gloss":"هەیکەلی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"היכל","gloss":"هەیکەلی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"היכל","gloss":"هەیکەلی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"המה","gloss":"ئەمانەن"}],"timestamp":"2026-09-24T12:40:17.076611948Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "مەڵێ باوەڕ بە خۆتان بێت بە وشەکانی درۆی ئەم زارە: «هەیکەلی یاهوە، هەیکەلی یاهوە، هەیکەلی یاهوە ئەمانەن.»",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مەڵێ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "باوەڕ بێت"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بە خۆتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "درۆی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم زارە"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هەیکەلی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هەیکەلی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "هەیکەلی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەمانەن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:40:17.076611948Z",
+  "model": "glm-5.3"
+}

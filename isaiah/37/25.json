@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":25,"ref":"isaiah 37:25","book":"isaiah","lang":"ckb","chapter":37,"translation":"من قورتەڵم و ئاوم خواردەوە و بە تاڵانەی پێم هەموو نیرەکانی میتسرایم وشک دەکەمەوە.","tokens":[{"surface":"אני","gloss":"من"},{"surface":"קרתי","gloss":"قورتەڵم"},{"surface":"ושתיתי","gloss":"و خواردەوە"},{"surface":"מים","gloss":"ئاو"},{"surface":"ואחרב","gloss":"و وشک دەکەمەوە"},{"surface":"בכף","gloss":"بە تاڵانەی"},{"surface":"פעמי","gloss":"پێم"},{"surface":"כל","gloss":"هەموو"},{"surface":"יארי","gloss":"نیرەکانی"},{"surface":"מצור","gloss":"میتسرایم"}],"timestamp":"2026-09-24T12:24:53.570440264Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "من قورتەڵم و ئاوم خواردەوە و بە تاڵانەی پێم هەموو نیرەکانی میتسرایم وشک دەکەمەوە.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "قورتەڵم"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "و خواردەوە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "و وشک دەکەمەوە"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "بە تاڵانەی"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "نیرەکانی"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "میتسرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:24:53.570440264Z",
+  "model": "glm-5.3"
+}

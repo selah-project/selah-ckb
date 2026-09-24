@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 124:3","book":"psalms","lang":"ckb","chapter":124,"translation":"ئەو کاتە، لە گەرمبوونی تووڕەییان لەسەرمان، زیندوو یەخواردبوونەوە.","tokens":[{"surface":"אזי","gloss":"ئەو کاتە"},{"surface":"חיים","gloss":"زیندوو"},{"surface":"בלעונו","gloss":"یەخواردبوونەوە"},{"surface":"בחרות","gloss":"لە گەرمبوونیدا"},{"surface":"אפם","gloss":"تووڕەییان"},{"surface":"בנו","gloss":"لەسەرمان"}],"timestamp":"2026-09-24T17:03:23.213294123Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 124,
+  "translation": "ئەو کاتە، لە گەرمبوونی تووڕەییان لەسەرمان، زیندوو یەخواردبوونەوە.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ئەو کاتە"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زیندوو"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "یەخواردبوونەوە"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "لە گەرمبوونیدا"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "تووڕەییان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "لەسەرمان"
+    }
+  ],
+  "timestamp": "2026-09-24T17:03:23.213294123Z",
+  "model": "glm-5.3"
+}

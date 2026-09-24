@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-samuel 24:10","book":"1-samuel","lang":"ckb","chapter":24,"translation":"و داود بە شائولی فەرموو: بۆچی ⟨את⟩ وشەکانی مرۆڤ دەبیستێت، بە وتنی: ئەوەتا داود بەدوای زیانتەوە دەگەڕێت؟","tokens":[{"surface":"ויאמר","gloss":"فەرموو"},{"surface":"דוד","gloss":"داود"},{"surface":"לשאול","gloss":"بە شائول"},{"surface":"למה","gloss":"بۆچی"},{"surface":"תשמע","gloss":"دەبیستێت"},{"surface":"את","gloss":"⟨את⟩","marks":"وشەکانی مرۆڤ"},{"surface":"דברי","gloss":"وشەکانی"},{"surface":"אדם","gloss":"مرۆڤ"},{"surface":"לאמר","gloss":"وتی"},{"surface":"הנה","gloss":"ئەوەتا"},{"surface":"דוד","gloss":"داود"},{"surface":"מבקש","gloss":"دەگەڕێت"},{"surface":"רעתך","gloss":"زیانت"}],"timestamp":"2026-09-24T11:27:34.298318716Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و داود بە شائولی فەرموو: بۆچی ⟨את⟩ وشەکانی مرۆڤ دەبیستێت، بە وتنی: ئەوەتا داود بەدوای زیانتەوە دەگەڕێت؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "بە شائول"
+    },
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "دەبیستێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وشەکانی مرۆڤ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "دەگەڕێت"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "زیانت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:27:34.298318716Z",
+  "model": "glm-5.3"
+}

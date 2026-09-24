@@ -1,1 +1,51 @@
-{"tier":"glm-5.2","verse":23,"ref":"exodus 33:23","book":"exodus","lang":"ckb","chapter":33,"translation":"و ⟨את⟩ دەستەکەم لادەبەم، و تۆ ⟨את⟩ پشتی من دەبینیت، و ڕووم نابینرێت.","tokens":[{"surface":"והסרתי","gloss":"و لادەبەم"},{"surface":"את","gloss":"⟨את⟩","marks":"دەستەکەم"},{"surface":"כפי","gloss":"دەستەکەم"},{"surface":"וראית","gloss":"و دەبینیت"},{"surface":"את","gloss":"⟨את⟩","marks":"پشتی من"},{"surface":"אחרי","gloss":"پشتی من"},{"surface":"ופני","gloss":"و ڕووم"},{"surface":"לא","gloss":"نا"},{"surface":"יראו","gloss":"دەبینرێن"}],"timestamp":"2026-09-24T09:52:39.079866370Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و ⟨את⟩ دەستەکەم لادەبەم، و تۆ ⟨את⟩ پشتی من دەبینیت، و ڕووم نابینرێت.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "و لادەبەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەستەکەم"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "دەستەکەم"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "و دەبینیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پشتی من"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پشتی من"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "و ڕووم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "دەبینرێن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:52:39.079866370Z",
+  "model": "glm-5.3"
+}

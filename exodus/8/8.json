@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":8,"ref":"exodus 8:8","book":"exodus","lang":"ckb","chapter":8,"translation":"و مۆشە و ئاهارۆن ⟨هارون⟩ لە لای پەرعۆ دەرچوون، و مۆشە بۆ یاهوە هاواری کرد لەسەر کاری بۆقەکان کە بۆ پەرعۆی دانابوو.","tokens":[{"surface":"ויצא","gloss":"و دەرچوون"},{"surface":"משה","gloss":"مۆشە"},{"surface":"ואהרן","gloss":"و ئاهارۆن ⟨هارون⟩"},{"surface":"מעם","gloss":"لە لای"},{"surface":"פרעה","gloss":"پەرعۆ"},{"surface":"ויצעק","gloss":"و هاواری کرد"},{"surface":"משה","gloss":"مۆشە"},{"surface":"אל","gloss":"بۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"על","gloss":"لەسەر"},{"surface":"דבר","gloss":"کاری"},{"surface":"הצפרדעים","gloss":"بۆقەکان"},{"surface":"אשר","gloss":"کە"},{"surface":"שם","gloss":"دانابوو"},{"surface":"לפרעה","gloss":"بۆ پەرعۆ"}],"timestamp":"2026-09-24T09:39:48.501755990Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و مۆشە و ئاهارۆن ⟨هارون⟩ لە لای پەرعۆ دەرچوون، و مۆشە بۆ یاهوە هاواری کرد لەسەر کاری بۆقەکان کە بۆ پەرعۆی دانابوو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوون"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "و ئاهارۆن ⟨هارون⟩"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پەرعۆ"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "و هاواری کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "بۆقەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "دانابوو"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "بۆ پەرعۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:39:48.501755990Z",
+  "model": "glm-5.3"
+}

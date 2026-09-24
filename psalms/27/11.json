@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 27:11","book":"psalms","lang":"ckb","chapter":27,"translation":"ڕێگات فێرم بکە ئەی یاهوە و لە ڕێگای ڕاستدا پێم ببە بەهۆی دوژمنانم","tokens":[{"surface":"הורני","gloss":"فێرم بکە"},{"surface":"יהוה","gloss":"ئەی یاهوە"},{"surface":"דרכך","gloss":"ڕێگات"},{"surface":"ונחני","gloss":"و پێم ببە"},{"surface":"בארח","gloss":"لە ڕێگای"},{"surface":"מישור","gloss":"ڕاست"},{"surface":"למען","gloss":"بەهۆی"},{"surface":"שוררי","gloss":"دوژمنانم"}],"timestamp":"2026-09-24T13:53:05.549093007Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "ڕێگات فێرم بکە ئەی یاهوە و لە ڕێگای ڕاستدا پێم ببە بەهۆی دوژمنانم",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "فێرم بکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ڕێگات"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "و پێم ببە"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "لە ڕێگای"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بەهۆی"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "دوژمنانم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:05.549093007Z",
+  "model": "glm-5.3"
+}

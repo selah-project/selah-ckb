@@ -1,1 +1,71 @@
-{"tier":"glm-5.2","verse":20,"ref":"leviticus 27:20","book":"leviticus","lang":"ckb","chapter":27,"translation":"و ئەگەر ⟨את⟩ زەویەکە بکڕێتەوە نەکات، و ئەگەر ⟨את⟩ زەویەکە بۆ پیاوێکی دیکە فرۆشتبێت، ئیتر بەدیهەوە بکڕێتەوە نەکرێت.","tokens":[{"surface":"ואם","gloss":"و ئەگەر"},{"surface":"לא","gloss":"نا"},{"surface":"יגאל","gloss":"بکڕێتەوە نەکات"},{"surface":"את","gloss":"⟨את⟩","marks":"زەویەکە"},{"surface":"השדה","gloss":"زەویەکە"},{"surface":"ואם","gloss":"و ئەگەر"},{"surface":"מכר","gloss":"فرۆشتبێت"},{"surface":"את","gloss":"⟨את⟩","marks":"زەویەکە"},{"surface":"השדה","gloss":"زەویەکە"},{"surface":"לאיש","gloss":"بۆ پیاوێکی"},{"surface":"אחר","gloss":"دیکە"},{"surface":"לא","gloss":"نەکرێت"},{"surface":"יגאל","gloss":"بکڕێتەوە"},{"surface":"עוד","gloss":"ئیتر بەدیهەوە"}],"timestamp":"2026-09-24T10:13:21.907835593Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ئەگەر ⟨את⟩ زەویەکە بکڕێتەوە نەکات، و ئەگەر ⟨את⟩ زەویەکە بۆ پیاوێکی دیکە فرۆشتبێت، ئیتر بەدیهەوە بکڕێتەوە نەکرێت.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "بکڕێتەوە نەکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "فرۆشتبێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "بۆ پیاوێکی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەکرێت"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "بکڕێتەوە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر بەدیهەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:21.907835593Z",
+  "model": "glm-5.3"
+}

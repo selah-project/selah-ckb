@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":14,"ref":"nahum 3:14","book":"nahum","lang":"ckb","chapter":3,"translation":"ئاوی گەمارۆ بۆ خۆت هەڵکێشە؛ قەڵاکەت بەهێز بکە؛ بچۆ ژێوەکە و قوڕەکە بپێ؛ کورەی خشتەکە بەهێز بکە.","tokens":[{"surface":"מי","gloss":"ئاوی"},{"surface":"מצור","gloss":"گەمارۆ"},{"surface":"שאבי","gloss":"هەڵکێشە"},{"surface":"לך","gloss":"بۆ خۆت"},{"surface":"חזקי","gloss":"بەهێز بکە"},{"surface":"מבצריך","gloss":"قەڵاکەت"},{"surface":"באי","gloss":"بچۆ"},{"surface":"בטיט","gloss":"ژێوەکە"},{"surface":"ורמסי","gloss":"و بپێ"},{"surface":"בחמר","gloss":"قوڕەکە"},{"surface":"החזיקי","gloss":"بەهێز بکە"},{"surface":"מלבן","gloss":"کورەی خشتەکە"}],"timestamp":"2026-09-24T13:39:07.123568695Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nahum 3:14",
+  "book": "nahum",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئاوی گەمارۆ بۆ خۆت هەڵکێشە؛ قەڵاکەت بەهێز بکە؛ بچۆ ژێوەکە و قوڕەکە بپێ؛ کورەی خشتەکە بەهێز بکە.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ئاوی"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "گەمارۆ"
+    },
+    {
+      "surface": "שאבי",
+      "gloss": "هەڵکێشە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "بەهێز بکە"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "قەڵاکەت"
+    },
+    {
+      "surface": "באי",
+      "gloss": "بچۆ"
+    },
+    {
+      "surface": "בטיט",
+      "gloss": "ژێوەکە"
+    },
+    {
+      "surface": "ורמסי",
+      "gloss": "و بپێ"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "قوڕەکە"
+    },
+    {
+      "surface": "החזיקי",
+      "gloss": "بەهێز بکە"
+    },
+    {
+      "surface": "מלבן",
+      "gloss": "کورەی خشتەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:39:07.123568695Z",
+  "model": "glm-5.3"
+}

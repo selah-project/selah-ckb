@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":42,"ref":"deuteronomy 4:42","book":"deuteronomy","lang":"ckb","chapter":4,"translation":"بۆ ئەوەی کوشتەر بۆ ئەوێ ڕابکات — ئەوەی ⟨את⟩ هاوڕێی خۆی بەبێ زانیوش دەکوژێت، ئەوەی پێشتر لە دووشۆیشەوە دوژمنی نەبووە — و ڕابکاتە یەکێک لەو شارە ئەوەکانە و بژی.","tokens":[{"surface":"לנס","gloss":"بۆ ڕاکردن"},{"surface":"שמה","gloss":"بۆ ئەوێ"},{"surface":"רוצח","gloss":"کوشتەر"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"ירצח","gloss":"دەکوژێت"},{"surface":"את","gloss":"⟨את⟩","marks":"هاوڕێی خۆی"},{"surface":"רעהו","gloss":"هاوڕێی خۆی"},{"surface":"בבלי","gloss":"بەبێ"},{"surface":"דעת","gloss":"زانیوش"},{"surface":"והוא","gloss":"و ئەو"},{"surface":"לא","gloss":"نا"},{"surface":"שנא","gloss":"دوژمنی نەبووە"},{"surface":"לו","gloss":"بۆ ئەو"},{"surface":"מתמול","gloss":"لە دووشۆیشەوە"},{"surface":"שלשום","gloss":"پێشتر"},{"surface":"ונס","gloss":"و ڕابکات"},{"surface":"אל","gloss":"بۆ"},{"surface":"אחת","gloss":"یەکێک"},{"surface":"מן","gloss":"لە"},{"surface":"הערים","gloss":"شارە"},{"surface":"האל","gloss":"ئەوەکان"},{"surface":"וחי","gloss":"و بژی"}],"timestamp":"2026-09-24T10:35:44.853710100Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 4:42",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "بۆ ئەوەی کوشتەر بۆ ئەوێ ڕابکات — ئەوەی ⟨את⟩ هاوڕێی خۆی بەبێ زانیوش دەکوژێت، ئەوەی پێشتر لە دووشۆیشەوە دوژمنی نەبووە — و ڕابکاتە یەکێک لەو شارە ئەوەکانە و بژی.",
+  "tokens": [
+    {
+      "surface": "לנס",
+      "gloss": "بۆ ڕاکردن"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "بۆ ئەوێ"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "کوشتەر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "دەکوژێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هاوڕێی خۆی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێی خۆی"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیوش"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "دوژمنی نەبووە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "لە دووشۆیشەوە"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "پێشتر"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "و ڕابکات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شارە"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ئەوەکان"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "و بژی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:35:44.853710100Z",
+  "model": "glm-5.3"
+}

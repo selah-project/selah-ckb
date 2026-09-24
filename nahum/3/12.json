@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":12,"ref":"nahum 3:12","book":"nahum","lang":"ckb","chapter":3,"translation":"هەموو قەڵاکانی تۆ هەنجیرن لەگەڵ هەنجیری سەرەتایی؛ ئەگەر لێیان بکرێتەوە، دەکەونە دەمی خۆرەوە.","tokens":[{"surface":"כל","gloss":"هەموو"},{"surface":"מבצריך","gloss":"قەڵاکانی تۆ"},{"surface":"תאנים","gloss":"هەنجیرن"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"בכורים","gloss":"هەنجیری سەرەتایی"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"ינועו","gloss":"لێیان بکرێتەوە"},{"surface":"ונפלו","gloss":"دەکەونە"},{"surface":"על","gloss":"لە"},{"surface":"פי","gloss":"دەمی"},{"surface":"אוכל","gloss":"خۆر"}],"timestamp":"2026-09-24T13:39:00.876845286Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 3:12",
+  "book": "nahum",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "هەموو قەڵاکانی تۆ هەنجیرن لەگەڵ هەنجیری سەرەتایی؛ ئەگەر لێیان بکرێتەوە، دەکەونە دەمی خۆرەوە.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מבצריך",
+      "gloss": "قەڵاکانی تۆ"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "هەنجیرن"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "هەنجیری سەرەتایی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "لێیان بکرێتەوە"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "دەکەونە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "خۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:39:00.876845286Z",
+  "model": "glm-5.3"
+}

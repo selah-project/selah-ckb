@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":4,"ref":"judges 13:4","book":"judges","lang":"ckb","chapter":13,"translation":"و ئێستا خۆ ئاگاداربە، تکایە، و مەخۆرەوە شەراب و مشروبی بەهێش، و مەخۆ هیچ شتێکی پیس.","tokens":[{"surface":"ועתה","gloss":"و ئێستا"},{"surface":"השמרי","gloss":"خۆ ئاگاداربە"},{"surface":"נא","gloss":"تکایە"},{"surface":"ואל","gloss":"و مە"},{"surface":"תשתי","gloss":"مەخۆرەوە"},{"surface":"יין","gloss":"شەراب"},{"surface":"ושכר","gloss":"و مشروبی بەهێش"},{"surface":"ואל","gloss":"و مە"},{"surface":"תאכלי","gloss":"مەخۆ"},{"surface":"כל","gloss":"هیچ"},{"surface":"טמא","gloss":"پیس"}],"timestamp":"2026-09-24T11:10:02.620935201Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئێستا خۆ ئاگاداربە، تکایە، و مەخۆرەوە شەراب و مشروبی بەهێش، و مەخۆ هیچ شتێکی پیس.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "خۆ ئاگاداربە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "مەخۆرەوە"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شەراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "و مشروبی بەهێش"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مە"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "مەخۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیس"
+    }
+  ],
+  "timestamp": "2026-09-24T11:10:02.620935201Z",
+  "model": "glm-5.3"
+}

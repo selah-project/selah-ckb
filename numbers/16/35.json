@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":35,"ref":"numbers 16:35","book":"numbers","lang":"ckb","chapter":16,"translation":"و ئاگر لە لای یاهوە ⟨את⟩ دەرچوو، و ⟨את⟩ پەنجا و دوو سەد پیاوی پێشکەشکەری بوخوڕەکەی خواردەوە.","tokens":[{"surface":"ואש","gloss":"و ئاگر"},{"surface":"יצאה","gloss":"دەرچوو"},{"surface":"מאת","gloss":"لە لای ⟨את⟩"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ותאכל","gloss":"و خواردەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"پەنجا و دوو سەد پیاو"},{"surface":"החמשים","gloss":"پەنجا"},{"surface":"ומאתים","gloss":"و دوو سەد"},{"surface":"איש","gloss":"پیاو"},{"surface":"מקריבי","gloss":"پێشکەشکەری"},{"surface":"הקטרת","gloss":"بوخوڕەکە"}],"timestamp":"2026-09-24T10:23:08.305349611Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 16:35",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و ئاگر لە لای یاهوە ⟨את⟩ دەرچوو، و ⟨את⟩ پەنجا و دوو سەد پیاوی پێشکەشکەری بوخوڕەکەی خواردەوە.",
+  "tokens": [
+    {
+      "surface": "ואש",
+      "gloss": "و ئاگر"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "دەرچوو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە لای ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "و خواردەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەنجا و دوو سەد پیاو"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "و دوو سەد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "מקריבי",
+      "gloss": "پێشکەشکەری"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "بوخوڕەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:23:08.305349611Z",
+  "model": "glm-5.3"
+}

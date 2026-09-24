@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":6,"ref":"ecclesiastes 11:6","book":"ecclesiastes","lang":"ckb","chapter":11,"translation":"بەیانیانە ⟨את⟩ تۆوەکەت بچێنەوە، و ئێوارانە دەستت مەدابە، چونکە تۆ نازانی کام یەک سەردەکەوێت، ئەمە یان ئەوە، و ئەگەر هەردووکیان وەک یەک باشن.","tokens":[{"surface":"בבקר","gloss":"بەیانیانە"},{"surface":"זרע","gloss":"بچێنەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"تۆوەکەت"},{"surface":"זרעך","gloss":"تۆوەکەت"},{"surface":"ולערב","gloss":"و ئێوارانە"},{"surface":"אל","gloss":"مە"},{"surface":"תנח","gloss":"دابە"},{"surface":"ידך","gloss":"دەستت"},{"surface":"כי","gloss":"چونکە"},{"surface":"אינך","gloss":"تۆ نانی"},{"surface":"יודע","gloss":"دەزانیت"},{"surface":"אי","gloss":"کام"},{"surface":"זה","gloss":"یەک"},{"surface":"יכשר","gloss":"سەردەکەوێت"},{"surface":"הזה","gloss":"ئەمە"},{"surface":"או","gloss":"یان"},{"surface":"זה","gloss":"ئەوە"},{"surface":"ואם","gloss":"و ئەگەر"},{"surface":"שניהם","gloss":"هەردووکیان"},{"surface":"כאחד","gloss":"وەک یەک"},{"surface":"טובים","gloss":"باشن"}],"timestamp":"2026-09-24T14:58:22.939659681Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "بەیانیانە ⟨את⟩ تۆوەکەت بچێنەوە، و ئێوارانە دەستت مەدابە، چونکە تۆ نازانی کام یەک سەردەکەوێت، ئەمە یان ئەوە، و ئەگەر هەردووکیان وەک یەک باشن.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "بەیانیانە"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بچێنەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تۆوەکەت"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تۆوەکەت"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "و ئێوارانە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "دابە"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "تۆ نانی"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "دەزانیت"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کام"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "سەردەکەوێت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "هەردووکیان"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "وەک یەک"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "باشن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:22.939659681Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":20,"ref":"genesis 43:20","book":"genesis","lang":"ckb","chapter":43,"translation":"و ووتیان: تکایە ئەی ئادۆنای ماڵکانین، لە سەرەتادا داینە بەرەو خوارەوە بۆ کڕینی خۆراک.","tokens":[{"surface":"ויאמרו","gloss":"و ووتیان"},{"surface":"בי","gloss":"تکایە"},{"surface":"אדני","gloss":"ئەی ئادۆنای"},{"surface":"ירד","gloss":"داینە"},{"surface":"ירדנו","gloss":"بەرەو خوارەوە"},{"surface":"בתחלה","gloss":"لە سەرەتادا"},{"surface":"לשבר","gloss":"بۆ کڕینی"},{"surface":"אכל","gloss":"خۆراک"}],"timestamp":"2026-09-24T09:31:36.754513711Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "و ووتیان: تکایە ئەی ئادۆنای ماڵکانین، لە سەرەتادا داینە بەرەو خوارەوە بۆ کڕینی خۆراک.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "و ووتیان"
+    },
+    {
+      "surface": "בי",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئەی ئادۆنای"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "داینە"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "بەرەو خوارەوە"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "لە سەرەتادا"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "بۆ کڕینی"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خۆراک"
+    }
+  ],
+  "timestamp": "2026-09-24T09:31:36.754513711Z",
+  "model": "glm-5.3"
+}

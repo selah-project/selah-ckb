@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":2,"ref":"jeremiah 28:2","book":"jeremiah","lang":"ckb","chapter":28,"translation":"ئاوا فەرموویە یاهوەی سەڤائۆت، ئێلۆهیمی ئیسرائیل، ووتنی: شکاندم ⟨את⟩ قاچبەندی پاشای بابل.","tokens":[{"surface":"כה","gloss":"ئاوا"},{"surface":"אמר","gloss":"فەرموویە"},{"surface":"יהוה","gloss":"یاهوەی"},{"surface":"צבאות","gloss":"سەڤائۆت"},{"surface":"אלהי","gloss":"ئێلۆهیمی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"לאמר","gloss":"ووتنی"},{"surface":"שברתי","gloss":"شکاندم"},{"surface":"את","gloss":"⟨את⟩","marks":"قاچبەندی پاشای بابل"},{"surface":"על","gloss":"قاچبەندی"},{"surface":"מלך","gloss":"پاشای"},{"surface":"בבל","gloss":"بابل"}],"timestamp":"2026-09-24T12:52:29.214275154Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "ئاوا فەرموویە یاهوەی سەڤائۆت، ئێلۆهیمی ئیسرائیل، ووتنی: شکاندم ⟨את⟩ قاچبەندی پاشای بابل.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ئاوا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموویە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەی"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ووتنی"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "شکاندم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاچبەندی پاشای بابل"
+    },
+    {
+      "surface": "על",
+      "gloss": "قاچبەندی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:52:29.214275154Z",
+  "model": "glm-5.3"
+}

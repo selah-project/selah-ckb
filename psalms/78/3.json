@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 78:3","book":"psalms","lang":"ckb","chapter":78,"translation":"ئەوەی بیستمان و دەمانبینی، و باپیرانمان بۆمان گێڕایەوە.","tokens":[{"surface":"אשר","gloss":"ئەوەی"},{"surface":"שמענו","gloss":"بیستمان"},{"surface":"ונדעם","gloss":"دەمانبینی"},{"surface":"ואבותינו","gloss":"و باپیرانمان"},{"surface":"ספרו","gloss":"گێڕایەوە"},{"surface":"לנו","gloss":"بۆمان"}],"timestamp":"2026-09-24T14:04:58.574972436Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 78,
+  "translation": "ئەوەی بیستمان و دەمانبینی، و باپیرانمان بۆمان گێڕایەوە.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "بیستمان"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "دەمانبینی"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "و باپیرانمان"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "گێڕایەوە"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆمان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:58.574972436Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 147:4","book":"psalms","lang":"ckb","chapter":147,"translation":"ژمارەی کۆکەوان ئەژماردەکات، بۆ هەموویان ناو دەنێت.","tokens":[{"surface":"מונה","gloss":"ئەژماردەکات"},{"surface":"מספר","gloss":"ژمارەی"},{"surface":"לכוכבים","gloss":"کۆکەوان"},{"surface":"לכלם","gloss":"بۆ هەموویان"},{"surface":"שמות","gloss":"ناو"},{"surface":"יקרא","gloss":"دەنێت"}],"timestamp":"2026-09-24T14:21:40.187277543Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 147,
+  "translation": "ژمارەی کۆکەوان ئەژماردەکات، بۆ هەموویان ناو دەنێت.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "ئەژماردەکات"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ژمارەی"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "کۆکەوان"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "بۆ هەموویان"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "دەنێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:40.187277543Z",
+  "model": "glm-5.3"
+}

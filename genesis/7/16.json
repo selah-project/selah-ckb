@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":16,"ref":"genesis 7:16","book":"genesis","lang":"ckb","chapter":7,"translation":"و ئەوانەی هاتن، نێر و مێ لە هەموو گۆشت هاتن، وەک ئێلۆهیم ⟨את⟩ ی فەرمانی پێکردبوو؛ و یاهوە لە پشتیەوە دایگرت.","tokens":[{"surface":"והבאים","gloss":"و ئەوانەی هاتن"},{"surface":"זכר","gloss":"نێر"},{"surface":"ונקבה","gloss":"و مێ"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"בשר","gloss":"گۆشت"},{"surface":"באו","gloss":"هاتن"},{"surface":"כאשר","gloss":"وەک"},{"surface":"צוה","gloss":"فەرمانی پێکردبوو"},{"surface":"אתו","gloss":"⟨את⟩ ئەو","marks":"نۆاخ"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"ויסגר","gloss":"و دایگرت"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"בעדו","gloss":"لە پشتیەوە بۆی"}],"timestamp":"2026-09-24T09:12:42.970546126Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ئەوانەی هاتن، نێر و مێ لە هەموو گۆشت هاتن، وەک ئێلۆهیم ⟨את⟩ ی فەرمانی پێکردبوو؛ و یاهوە لە پشتیەوە دایگرت.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "و ئەوانەی هاتن"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "و مێ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشت"
+    },
+    {
+      "surface": "באו",
+      "gloss": "هاتن"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی پێکردبوو"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "نۆاخ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "و دایگرت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "لە پشتیەوە بۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:42.970546126Z",
+  "model": "glm-5.3"
+}

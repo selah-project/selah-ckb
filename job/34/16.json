@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":16,"ref":"job 34:16","book":"job","lang":"ckb","chapter":34,"translation":"و ئەگەر تێگەیشتن هەیە، ئەمە ببیستە، گوێ ڕابگرە بۆ دەنگی وشەکانم.","tokens":[{"surface":"ואם","gloss":"و ئەگەر"},{"surface":"בינה","gloss":"تێگەیشتن"},{"surface":"שמעה","gloss":"ببیستە"},{"surface":"זאת","gloss":"ئەمە"},{"surface":"האזינה","gloss":"گوێ ڕابگرە"},{"surface":"לקול","gloss":"بۆ دەنگی"},{"surface":"מלי","gloss":"وشەکانم"}],"timestamp":"2026-09-24T14:44:35.889165166Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 34:16",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و ئەگەر تێگەیشتن هەیە، ئەمە ببیستە، گوێ ڕابگرە بۆ دەنگی وشەکانم.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ببیستە"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "گوێ ڕابگرە"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "بۆ دەنگی"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "وشەکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:35.889165166Z",
+  "model": "glm-5.3"
+}

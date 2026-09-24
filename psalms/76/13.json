@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":13,"ref":"psalms 76:13","book":"psalms","lang":"ckb","chapter":76,"translation":"ڕۆحی سەرکردەکان دەبڕێتەوە، شڵەژێنەرە بۆ پاشاکانی زەوی.","tokens":[{"surface":"יבצר","gloss":"دەبڕێتەوە"},{"surface":"רוח","gloss":"ڕۆحی"},{"surface":"נגידים","gloss":"سەرکردەکان"},{"surface":"נורא","gloss":"شڵەژێنەرە"},{"surface":"למלכי","gloss":"بۆ پاشاکانی"},{"surface":"ארץ","gloss":"زەوی"}],"timestamp":"2026-09-24T14:03:30.404538252Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 76,
+  "translation": "ڕۆحی سەرکردەکان دەبڕێتەوە، شڵەژێنەرە بۆ پاشاکانی زەوی.",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "دەبڕێتەوە"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆحی"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "سەرکردەکان"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "شڵەژێنەرە"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "بۆ پاشاکانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:30.404538252Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":23,"ref":"numbers 29:23","book":"numbers","lang":"ckb","chapter":29,"translation":"و لە ڕۆژی چوارەمدا دە گوێران دوو قوچ چواردە بەرخ کوڕانی ساڵێک بێ کەموکوڕی.","tokens":[{"surface":"וביום","gloss":"و لە ڕۆژی"},{"surface":"הרביעי","gloss":"چوارەم"},{"surface":"פרים","gloss":"گوێران"},{"surface":"עשרה","gloss":"دە"},{"surface":"אילם","gloss":"قوچ"},{"surface":"שנים","gloss":"دوو"},{"surface":"כבשים","gloss":"بەرخ"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"שנה","gloss":"ساڵێک"},{"surface":"ארבעה","gloss":"چواردە"},{"surface":"עשר","gloss":"چواردە"},{"surface":"תמימם","gloss":"بێ کەموکوڕی"}],"timestamp":"2026-09-24T10:28:34.555882309Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لە ڕۆژی چوارەمدا دە گوێران دوو قوچ چواردە بەرخ کوڕانی ساڵێک بێ کەموکوڕی.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژی"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوارەم"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گوێران"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "بەرخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵێک"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چواردە"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "چواردە"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بێ کەموکوڕی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:28:34.555882309Z",
+  "model": "glm-5.3"
+}

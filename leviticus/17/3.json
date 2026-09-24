@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":3,"ref":"leviticus 17:3","book":"leviticus","lang":"ckb","chapter":17,"translation":"هەر پیاوێک لە ماڵی ئیسرائیل کە گا یان مەڕێک یان بزنێک لە ڕۆحاندا سەرببڕێت، یان کە لە دەرەوەی ڕۆحانەکەدا سەری ببڕێت،","tokens":[{"surface":"איש","gloss":"هەر پیاوێک"},{"surface":"איש","gloss":"پیاو"},{"surface":"מבית","gloss":"لە ماڵی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"אשר","gloss":"کە"},{"surface":"ישחט","gloss":"سەرببڕێت"},{"surface":"שור","gloss":"گا"},{"surface":"או","gloss":"یان"},{"surface":"כשב","gloss":"مەڕێک"},{"surface":"או","gloss":"یان"},{"surface":"עז","gloss":"بزنێک"},{"surface":"במחנה","gloss":"لە ڕۆحاندا"},{"surface":"או","gloss":"یان"},{"surface":"אשר","gloss":"کە"},{"surface":"ישחט","gloss":"سەری ببڕێت"},{"surface":"מחוץ","gloss":"لە دەرەوە"},{"surface":"למחנה","gloss":"ڕۆحانەکەدا"}],"timestamp":"2026-09-24T10:06:48.558386683Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "هەر پیاوێک لە ماڵی ئیسرائیل کە گا یان مەڕێک یان بزنێک لە ڕۆحاندا سەرببڕێت، یان کە لە دەرەوەی ڕۆحانەکەدا سەری ببڕێت،",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "هەر پیاوێک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "سەرببڕێت"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "مەڕێک"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بزنێک"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "لە ڕۆحاندا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "سەری ببڕێت"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "لە دەرەوە"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڕۆحانەکەدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:06:48.558386683Z",
+  "model": "glm-5.3"
+}

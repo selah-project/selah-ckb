@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":34,"ref":"ezekiel 27:34","book":"ezekiel","lang":"ckb","chapter":27,"translation":"کاتێک لە دەریاکان دەشکێیت، لە قووڵاییەکانی ئاودا، کاڵاکانت و هەموو کۆمەڵت لە ناوتدا کەوتن.","tokens":[{"surface":"עת","gloss":"کاتێک"},{"surface":"נשברת","gloss":"دەشکێیت"},{"surface":"מימים","gloss":"لە دەریاکان"},{"surface":"במעמקי","gloss":"لە قووڵاییەکانی"},{"surface":"מים","gloss":"ئاو"},{"surface":"מערבך","gloss":"کاڵاکانت"},{"surface":"וכל","gloss":"و هەموو"},{"surface":"קהלך","gloss":"کۆمەڵت"},{"surface":"בתוכך","gloss":"لە ناوتدا"},{"surface":"נפלו","gloss":"کەوتن"}],"timestamp":"2026-09-24T13:16:39.232947176Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 27:34",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "کاتێک لە دەریاکان دەشکێیت، لە قووڵاییەکانی ئاودا، کاڵاکانت و هەموو کۆمەڵت لە ناوتدا کەوتن.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "נשברת",
+      "gloss": "دەشکێیت"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "لە دەریاکان"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "لە قووڵاییەکانی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "کاڵاکانت"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "קהלך",
+      "gloss": "کۆمەڵت"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "لە ناوتدا"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "کەوتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:16:39.232947176Z",
+  "model": "glm-5.3"
+}

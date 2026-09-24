@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":35,"ref":"jeremiah 25:35","book":"jeremiah","lang":"ckb","chapter":25,"translation":"و ڕاکردن لە شوانەکان لەدەست چوو و ڕزگاری لە گەورەکانی مەڕەکان.","tokens":[{"surface":"ואבד","gloss":"و لەدەست چوو"},{"surface":"מנוס","gloss":"ڕاکردن"},{"surface":"מן","gloss":"لە"},{"surface":"הרעים","gloss":"شوانەکان"},{"surface":"ופליטה","gloss":"و ڕزگاری"},{"surface":"מאדירי","gloss":"لە گەورەکانی"},{"surface":"הצאן","gloss":"مەڕەکان"}],"timestamp":"2026-09-24T12:49:03.974241615Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و ڕاکردن لە شوانەکان لەدەست چوو و ڕزگاری لە گەورەکانی مەڕەکان.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "و لەدەست چوو"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "ڕاکردن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "شوانەکان"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "و ڕزگاری"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "لە گەورەکانی"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مەڕەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:49:03.974241615Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":17,"ref":"job 11:17","book":"job","lang":"ckb","chapter":11,"translation":"و لە نیوەڕۆدا ژیان هەڵدەستێت، دەفڕیت، وەک بەیانی دەبیت.","tokens":[{"surface":"ומצהרים","gloss":"و لە نیوەڕۆدا"},{"surface":"יקום","gloss":"هەڵدەستێت"},{"surface":"חלד","gloss":"ژیان"},{"surface":"תעפה","gloss":"دەفڕیت"},{"surface":"כבקר","gloss":"وەک بەیانی"},{"surface":"תהיה","gloss":"دەبیت"}],"timestamp":"2026-09-24T14:37:10.177708084Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 11:17",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە نیوەڕۆدا ژیان هەڵدەستێت، دەفڕیت، وەک بەیانی دەبیت.",
+  "tokens": [
+    {
+      "surface": "ומצהרים",
+      "gloss": "و لە نیوەڕۆدا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "هەڵدەستێت"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "תעפה",
+      "gloss": "دەفڕیت"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "وەک بەیانی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:10.177708084Z",
+  "model": "glm-5.3"
+}

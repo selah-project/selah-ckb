@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":5,"ref":"nehemiah 8:5","book":"nehemiah","lang":"ckb","chapter":8,"translation":"و عێزرا کتێبەکەی لەبەر چاوی هەموو گەلەکە کردەوە — چونکە لە سەرووی هەموو گەلەکەوە بوو — و کاتێک کردیەوە، هەموو گەلەکە ڕاوەستا.","tokens":[{"surface":"ויפתח","gloss":"و کردەوە"},{"surface":"עזרא","gloss":"عێزرا"},{"surface":"הספר","gloss":"کتێبەکە"},{"surface":"לעיני","gloss":"لەبەر چاوی"},{"surface":"כל","gloss":"هەموو"},{"surface":"העם","gloss":"گەلەکە"},{"surface":"כי","gloss":"چونکە"},{"surface":"מעל","gloss":"لە سەرووی"},{"surface":"כל","gloss":"هەموو"},{"surface":"העם","gloss":"گەلەکە"},{"surface":"היה","gloss":"بوو"},{"surface":"וכפתחו","gloss":"و کاتێک کردیەوە"},{"surface":"עמדו","gloss":"ڕاوەستان"},{"surface":"כל","gloss":"هەموو"},{"surface":"העם","gloss":"گەلەکە"}],"timestamp":"2026-09-24T15:18:22.519475613Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 8:5",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و عێزرا کتێبەکەی لەبەر چاوی هەموو گەلەکە کردەوە — چونکە لە سەرووی هەموو گەلەکەوە بوو — و کاتێک کردیەوە، هەموو گەلەکە ڕاوەستا.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "و کردەوە"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "عێزرا"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتێبەکە"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "لەبەر چاوی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە سەرووی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "וכפתחו",
+      "gloss": "و کاتێک کردیەوە"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ڕاوەستان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:18:22.519475613Z",
+  "model": "glm-5.3"
+}

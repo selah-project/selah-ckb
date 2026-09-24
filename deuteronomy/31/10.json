@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":10,"ref":"deuteronomy 31:10","book":"deuteronomy","lang":"ckb","chapter":31,"translation":"مۆشە فەرمانی بە ⟨את⟩ ئەوان کرد و وت: لە کۆتایی حەوت ساڵ، لە کاتی دیاریکراوی ساڵی لابردن، لە جەژنی سوکۆت ⟨ساکۆت⟩،","tokens":[{"surface":"ויצו","gloss":"فەرمانی کرد"},{"surface":"משה","gloss":"مۆشە"},{"surface":"אותם","gloss":"⟨את⟩ ئەوان","marks":"کاهینەکان و پیران"},{"surface":"לאמר","gloss":"ووت"},{"surface":"מקץ","gloss":"لە کۆتایی"},{"surface":"שבע","gloss":"حەوت"},{"surface":"שנים","gloss":"ساڵ"},{"surface":"במעד","gloss":"لە کاتی دیاریکراودا"},{"surface":"שנת","gloss":"ساڵی"},{"surface":"השמטה","gloss":"لابردن"},{"surface":"בחג","gloss":"لە جەژنی"},{"surface":"הסכות","gloss":"سوکۆت ⟨ساکۆت⟩"}],"timestamp":"2026-09-24T10:50:27.983185524Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "مۆشە فەرمانی بە ⟨את⟩ ئەوان کرد و وت: لە کۆتایی حەوت ساڵ، لە کاتی دیاریکراوی ساڵی لابردن، لە جەژنی سوکۆت ⟨ساکۆت⟩،",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "فەرمانی کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ئەوان",
+      "marks": "کاهینەکان و پیران"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ووت"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "لە کاتی دیاریکراودا"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "لابردن"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "لە جەژنی"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "سوکۆت ⟨ساکۆت⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:27.983185524Z",
+  "model": "glm-5.3"
+}

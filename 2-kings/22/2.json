@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-kings 22:2","book":"2-kings","lang":"ckb","chapter":22,"translation":"و ڕاستەکەی کرد لە چاوی یاهوەدا، و بە هەموو ڕێگای داود باوکییدا ڕۆیی، و لە ڕاست و لە چەپ نەوەلایەوە.","tokens":[{"surface":"ויעש","gloss":"و کرد"},{"surface":"הישר","gloss":"ڕاستەکە"},{"surface":"בעיני","gloss":"لە چاوی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"וילך","gloss":"و ڕۆیی"},{"surface":"בכל","gloss":"بە هەموو"},{"surface":"דרך","gloss":"ڕێگای"},{"surface":"דוד","gloss":"داود"},{"surface":"אביו","gloss":"باوکی"},{"surface":"ולא","gloss":"و نە"},{"surface":"סר","gloss":"وەلایەوە"},{"surface":"ימין","gloss":"لە ڕاست"},{"surface":"ושמאול","gloss":"و لە چەپ"}],"timestamp":"2026-09-24T12:10:31.546024879Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و ڕاستەکەی کرد لە چاوی یاهوەدا، و بە هەموو ڕێگای داود باوکییدا ڕۆیی، و لە ڕاست و لە چەپ نەوەلایەوە.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ڕاستەکە"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "و ڕۆیی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "סר",
+      "gloss": "وەلایەوە"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "لە ڕاست"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "و لە چەپ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:10:31.546024879Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":22,"ref":"proverbs 2:22","book":"proverbs","lang":"ckb","chapter":2,"translation":"و خراپەکان لە زەوی دەبڕدرێن، و خیانەتکاران لەیدا دەکۆڵدرێنەوە.","tokens":[{"surface":"ורשעים","gloss":"و خراپەکان"},{"surface":"מארץ","gloss":"لە زەوی"},{"surface":"יכרתו","gloss":"دەبڕدرێن"},{"surface":"ובוגדים","gloss":"و خیانەتکاران"},{"surface":"יסחו","gloss":"دەکۆڵدرێنەوە"},{"surface":"ממנה","gloss":"لەیدا"}],"timestamp":"2026-09-24T14:22:07.668949297Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 2:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و خراپەکان لە زەوی دەبڕدرێن، و خیانەتکاران لەیدا دەکۆڵدرێنەوە.",
+  "tokens": [
+    {
+      "surface": "ורשעים",
+      "gloss": "و خراپەکان"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "دەبڕدرێن"
+    },
+    {
+      "surface": "ובוגדים",
+      "gloss": "و خیانەتکاران"
+    },
+    {
+      "surface": "יסחו",
+      "gloss": "دەکۆڵدرێنەوە"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "لەیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:07.668949297Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":23,"ref":"proverbs 8:23","book":"proverbs","lang":"ckb","chapter":8,"translation":"لە هەتاهەتایەوە دامەزرێنراوم، لە سەرەتاوە، پێش زەوی.","tokens":[{"surface":"מעולם","gloss":"لە هەتاهەتایەوە"},{"surface":"נסכתי","gloss":"دامەزرێنراوم"},{"surface":"מראש","gloss":"لە سەرەتاوە"},{"surface":"מקדמי","gloss":"پێش"},{"surface":"ארץ","gloss":"زەوی"}],"timestamp":"2026-09-24T14:24:11.271762795Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "لە هەتاهەتایەوە دامەزرێنراوم، لە سەرەتاوە، پێش زەوی.",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "لە هەتاهەتایەوە"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "دامەزرێنراوم"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "لە سەرەتاوە"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "پێش"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:11.271762795Z",
+  "model": "glm-5.3"
+}

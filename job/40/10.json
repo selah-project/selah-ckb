@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":10,"ref":"job 40:10","book":"job","lang":"ckb","chapter":40,"translation":"ئێستا گەورەیی و بەرزی بخۆرەوە، و شکۆ و جوانی لەبەر بکە.","tokens":[{"surface":"עדה","gloss":"خۆ ڕازابە"},{"surface":"נא","gloss":"ئێستا"},{"surface":"גאון","gloss":"گەورەیی"},{"surface":"וגבה","gloss":"و بەرزی"},{"surface":"והוד","gloss":"و شکۆ"},{"surface":"והדר","gloss":"و جوانی"},{"surface":"תלבש","gloss":"لەبەری بکە"}],"timestamp":"2026-09-24T14:46:10.914564693Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "ئێستا گەورەیی و بەرزی بخۆرەوە، و شکۆ و جوانی لەبەر بکە.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "خۆ ڕازابە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "گەورەیی"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "و بەرزی"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "و شکۆ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "و جوانی"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "لەبەری بکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:10.914564693Z",
+  "model": "glm-5.3"
+}

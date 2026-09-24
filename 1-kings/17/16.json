@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":16,"ref":"1-kings 17:16","book":"1-kings","lang":"ckb","chapter":17,"translation":"کوڵەی ئاردەکە نەبڕایەوە، و قووپیلکەی زەیتەکە کەم نەبووەوە، بەپێی قسەی یاهوە، کە بە دەستی ئیلیاوهو قسەی کرد.","tokens":[{"surface":"כד","gloss":"کوڵە"},{"surface":"הקמח","gloss":"ئاردەکە"},{"surface":"לא","gloss":"نا"},{"surface":"כלתה","gloss":"بڕایەوە"},{"surface":"וצפחת","gloss":"و قووپیلکە"},{"surface":"השמן","gloss":"زەیتەکە"},{"surface":"לא","gloss":"نا"},{"surface":"חסר","gloss":"کەم بوو"},{"surface":"כדבר","gloss":"بەپێی قسەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אשר","gloss":"کە"},{"surface":"דבר","gloss":"قسەی کرد"},{"surface":"ביד","gloss":"بە دەستی"},{"surface":"אליהו","gloss":"ئیلیاوهو"}],"timestamp":"2026-09-24T11:54:27.117303579Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "کوڵەی ئاردەکە نەبڕایەوە، و قووپیلکەی زەیتەکە کەم نەبووەوە، بەپێی قسەی یاهوە، کە بە دەستی ئیلیاوهو قسەی کرد.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "کوڵە"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "ئاردەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "بڕایەوە"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "و قووپیلکە"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "زەیتەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کەم بوو"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "بەپێی قسەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەی کرد"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ئیلیاوهو"
+    }
+  ],
+  "timestamp": "2026-09-24T11:54:27.117303579Z",
+  "model": "glm-5.3"
+}

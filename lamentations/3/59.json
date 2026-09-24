@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":59,"ref":"lamentations 3:59","book":"lamentations","lang":"ckb","chapter":3,"translation":"یاهوە، سەرکێشییەکەمی بینیت، بڕیار لە مافم بدە.","tokens":[{"surface":"ראיתה","gloss":"بینیت"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"עותתי","gloss":"سەرکێشییەکەمی"},{"surface":"שפטה","gloss":"بڕیار بدە"},{"surface":"משפטי","gloss":"لە مافم"}],"timestamp":"2026-09-24T14:52:47.190311799Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "یاهوە، سەرکێشییەکەمی بینیت، بڕیار لە مافم بدە.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "بینیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "سەرکێشییەکەمی"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "بڕیار بدە"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "لە مافم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:52:47.190311799Z",
+  "model": "glm-5.3"
+}

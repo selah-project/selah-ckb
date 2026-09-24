@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":4,"ref":"jeremiah 3:4","book":"jeremiah","lang":"ckb","chapter":3,"translation":"ئایا لە ئێستاوە بۆ من بانگت نەکردووە — باوکەم، تۆ هاوەندی گەنجیمی؟","tokens":[{"surface":"הלוא","gloss":"ئایا نا"},{"surface":"מעתה","gloss":"لە ئێستاوە"},{"surface":"קראתי","gloss":"بانگت کردووە"},{"surface":"לי","gloss":"بۆ من"},{"surface":"אבי","gloss":"باوکەم"},{"surface":"אלוף","gloss":"هاوەند"},{"surface":"נערי","gloss":"گەنجیم"},{"surface":"אתה","gloss":"تۆ"}],"timestamp":"2026-09-24T12:38:11.513494178Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئایا لە ئێستاوە بۆ من بانگت نەکردووە — باوکەم، تۆ هاوەندی گەنجیمی؟",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ئایا نا"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "لە ئێستاوە"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "بانگت کردووە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکەم"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "هاوەند"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "گەنجیم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:11.513494178Z",
+  "model": "glm-5.3"
+}

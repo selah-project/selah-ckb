@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":9,"ref":"job 41:9","book":"job","lang":"ckb","chapter":41,"translation":"کەسێک بە برایەوە لکاوە، دەگیرێن و جیا نابنەوە.","tokens":[{"surface":"איש","gloss":"کەسێک"},{"surface":"באחיהו","gloss":"بە برایەوە"},{"surface":"ידבקו","gloss":"لکاوە"},{"surface":"יתלכדו","gloss":"دەگیرێن"},{"surface":"ולא","gloss":"و نا"},{"surface":"יתפרדו","gloss":"جیا دەبنەوە"}],"timestamp":"2026-09-24T14:47:21.516191057Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 41:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "کەسێک بە برایەوە لکاوە، دەگیرێن و جیا نابنەوە.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "کەسێک"
+    },
+    {
+      "surface": "באחיהו",
+      "gloss": "بە برایەوە"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "لکاوە"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "دەگیرێن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "جیا دەبنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:47:21.516191057Z",
+  "model": "glm-5.3"
+}

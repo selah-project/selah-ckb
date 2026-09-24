@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":16,"ref":"ecclesiastes 7:16","book":"ecclesiastes","lang":"ckb","chapter":7,"translation":"مەبە زۆر سێدانەر، و مەبە خۆت لە حیکمەتدا زۆر لەپڕ — بۆچی خۆت وێران بکەیت؟","tokens":[{"surface":"אל","gloss":"مەبە"},{"surface":"תהי","gloss":"بە"},{"surface":"צדיק","gloss":"سێدانەر"},{"surface":"הרבה","gloss":"زۆر"},{"surface":"ואל","gloss":"و مەبە"},{"surface":"תתחכם","gloss":"خۆت لە حیکمەتدا"},{"surface":"יותר","gloss":"زۆر لەپڕ"},{"surface":"למה","gloss":"بۆچی"},{"surface":"תשומם","gloss":"خۆت وێران بکەیت"}],"timestamp":"2026-09-24T16:06:10.049641937Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "مەبە زۆر سێدانەر، و مەبە خۆت لە حیکمەتدا زۆر لەپڕ — بۆچی خۆت وێران بکەیت؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مەبە"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بە"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "سێدانەر"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و مەبە"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "خۆت لە حیکمەتدا"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "زۆر لەپڕ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "خۆت وێران بکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:06:10.049641937Z",
+  "model": "glm-5.3"
+}

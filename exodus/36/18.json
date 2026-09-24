@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":18,"ref":"exodus 36:18","book":"exodus","lang":"ckb","chapter":36,"translation":"و پەنجا قولابی مس بۆ بەستنەوەی ⟨את⟩ چادرەکە دروستکرد بۆ ئەوەی یەک بێت.","tokens":[{"surface":"ויעש","gloss":"و دروستکرد"},{"surface":"קרסי","gloss":"قولابی"},{"surface":"נחשת","gloss":"مس"},{"surface":"חמשים","gloss":"پەنجا"},{"surface":"לחבר","gloss":"بۆ بەستنەوەی"},{"surface":"את","gloss":"⟨את⟩","marks":"چادرەکە"},{"surface":"האהל","gloss":"چادرەکە"},{"surface":"להית","gloss":"بۆ ئەوەی"},{"surface":"אחד","gloss":"یەک بێت"}],"timestamp":"2026-09-24T09:56:22.285179934Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و پەنجا قولابی مس بۆ بەستنەوەی ⟨את⟩ چادرەکە دروستکرد بۆ ئەوەی یەک بێت.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و دروستکرد"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "قولابی"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پەنجا"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "بۆ بەستنەوەی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چادرەکە"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "چادرەکە"
+    },
+    {
+      "surface": "להית",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک بێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:56:22.285179934Z",
+  "model": "glm-5.3"
+}

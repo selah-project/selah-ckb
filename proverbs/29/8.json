@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":8,"ref":"proverbs 29:8","book":"proverbs","lang":"ckb","chapter":29,"translation":"پیاوانی گاڵتەکار شار هەڵدەدەن، بەڵام زیرەکان تووڕەیی دەگەڕێننەوە.","tokens":[{"surface":"אנשי","gloss":"پیاوانی"},{"surface":"לצון","gloss":"گاڵتەکاری"},{"surface":"יפיחו","gloss":"هەڵدەدەن"},{"surface":"קריה","gloss":"شار"},{"surface":"וחכמים","gloss":"بەڵام زیرەکان"},{"surface":"ישיבו","gloss":"دەگەڕێننەوە"},{"surface":"אף","gloss":"تووڕەیی"}],"timestamp":"2026-09-24T16:04:42.106097238Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "پیاوانی گاڵتەکار شار هەڵدەدەن، بەڵام زیرەکان تووڕەیی دەگەڕێننەوە.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "گاڵتەکاری"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "هەڵدەدەن"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شار"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "بەڵام زیرەکان"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "دەگەڕێننەوە"
+    },
+    {
+      "surface": "אף",
+      "gloss": "تووڕەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:42.106097238Z",
+  "model": "glm-5.3"
+}

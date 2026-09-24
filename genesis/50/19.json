@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":19,"ref":"genesis 50:19","book":"genesis","lang":"ckb","chapter":50,"translation":"و یۆسێف فەرمووی بۆیان: مەترسن، چونکە ئایا لە جێی ئێلۆهیم منم؟","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"אלהם","gloss":"بۆیان"},{"surface":"יוסף","gloss":"یۆسێف"},{"surface":"אל","gloss":"مە-"},{"surface":"תיראו","gloss":"ترسن"},{"surface":"כי","gloss":"چونکە"},{"surface":"התחת","gloss":"لە جێی"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"אני","gloss":"منم"}],"timestamp":"2026-09-24T09:35:52.881283754Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 50,
+  "translation": "و یۆسێف فەرمووی بۆیان: مەترسن، چونکە ئایا لە جێی ئێلۆهیم منم؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە-"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ترسن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "لە جێی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "منم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:52.881283754Z",
+  "model": "glm-5.3"
+}

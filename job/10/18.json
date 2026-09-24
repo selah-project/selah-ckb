@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":18,"ref":"job 10:18","book":"job","lang":"ckb","chapter":10,"translation":"و بۆچی لە سک دەرمهێنایت؟ دەمرم و چاو نابینێت.","tokens":[{"surface":"ולמה","gloss":"و بۆچی"},{"surface":"מרחם","gloss":"لە سک"},{"surface":"הצאתני","gloss":"دەرمهێنایت"},{"surface":"אגוע","gloss":"دەمرم"},{"surface":"ועין","gloss":"و چاو"},{"surface":"לא","gloss":"نە"},{"surface":"תראני","gloss":"دەبینێت"}],"timestamp":"2026-09-24T14:37:37.389573273Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و بۆچی لە سک دەرمهێنایت؟ دەمرم و چاو نابینێت.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "و بۆچی"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "لە سک"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "دەرمهێنایت"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "دەمرم"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "و چاو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "دەبینێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:37.389573273Z",
+  "model": "glm-5.3"
+}

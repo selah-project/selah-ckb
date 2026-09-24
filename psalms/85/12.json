@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 85:12","book":"psalms","lang":"ckb","chapter":85,"translation":"ڕاستی لە زەویەوە دەڕوێت، و دادپەروەری لە ئاسمانەوە ڕوو دەکاتەوە.","tokens":[{"surface":"אמת","gloss":"ڕاستی"},{"surface":"מארץ","gloss":"لە زەویەوە"},{"surface":"תצמח","gloss":"دەڕوێت"},{"surface":"וצדק","gloss":"و دادپەروەری"},{"surface":"משמים","gloss":"لە ئاسمانەوە"},{"surface":"נשקף","gloss":"ڕوو دەکاتەوە"}],"timestamp":"2026-09-24T14:07:11.119826007Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 85,
+  "translation": "ڕاستی لە زەویەوە دەڕوێت، و دادپەروەری لە ئاسمانەوە ڕوو دەکاتەوە.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەویەوە"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "دەڕوێت"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "و دادپەروەری"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "لە ئاسمانەوە"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "ڕوو دەکاتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:11.119826007Z",
+  "model": "glm-5.3"
+}

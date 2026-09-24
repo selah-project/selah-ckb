@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":1,"ref":"deuteronomy 21:1","book":"deuteronomy","lang":"ckb","chapter":21,"translation":"ئەگەر کەسێکی کوژراو لە زەویدا بدۆزرێتەوە، کە یاهوە ئێلۆهیمت دەیداتێ بۆ ئەوەی بیڕەوێنیت، کەوتبێتە کێڵگە، و نەزانرێت کێ لێیداوە،","tokens":[{"surface":"כי","gloss":"ئەگەر"},{"surface":"ימצא","gloss":"بدۆزرێتەوە"},{"surface":"חלל","gloss":"کوژراو"},{"surface":"באדמה","gloss":"لە زەویدا"},{"surface":"אשר","gloss":"کە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיך","gloss":"ئێلۆهیمت"},{"surface":"נתן","gloss":"دەیداتێ"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"לרשתה","gloss":"بۆ ئەوەی بیڕەوێنیت"},{"surface":"נפל","gloss":"کەوتبێت"},{"surface":"בשדה","gloss":"لە کێڵگە"},{"surface":"לא","gloss":"نە"},{"surface":"נודע","gloss":"زانرێت"},{"surface":"מי","gloss":"کێ"},{"surface":"הכהו","gloss":"لێیداوە"}],"timestamp":"2026-09-24T10:44:17.428460357Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 21:1",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "ئەگەر کەسێکی کوژراو لە زەویدا بدۆزرێتەوە، کە یاهوە ئێلۆهیمت دەیداتێ بۆ ئەوەی بیڕەوێنیت، کەوتبێتە کێڵگە، و نەزانرێت کێ لێیداوە،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "بدۆزرێتەوە"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "کوژراو"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "لە زەویدا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دەیداتێ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "بۆ ئەوەی بیڕەوێنیت"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "کەوتبێت"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "لە کێڵگە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "زانرێت"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "لێیداوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:17.428460357Z",
+  "model": "glm-5.3"
+}

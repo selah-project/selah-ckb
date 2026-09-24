@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":20,"ref":"deuteronomy 32:20","book":"deuteronomy","lang":"ckb","chapter":32,"translation":"و فەرموو: ڕووم لێیان دەشارمەوە، دەبینم کۆتاییان چییە، چونکە ئەوان نەوەیەکی سەرلێشێون، کوڕان کە متمانە پێیان ناکرێت.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"אסתירה","gloss":"دەشارمەوە"},{"surface":"פני","gloss":"ڕووم"},{"surface":"מהם","gloss":"لەوان"},{"surface":"אראה","gloss":"دەبینم"},{"surface":"מה","gloss":"چی"},{"surface":"אחריתם","gloss":"کۆتاییان"},{"surface":"כי","gloss":"چونکە"},{"surface":"דור","gloss":"نەوە"},{"surface":"תהפכת","gloss":"سەرلێشێواو"},{"surface":"המה","gloss":"ئەوان"},{"surface":"בנים","gloss":"کوڕان"},{"surface":"לא","gloss":"نە"},{"surface":"אמן","gloss":"متمانە"},{"surface":"בם","gloss":"پێیان"}],"timestamp":"2026-09-24T10:50:32.467307644Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 32:20",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و فەرموو: ڕووم لێیان دەشارمەوە، دەبینم کۆتاییان چییە، چونکە ئەوان نەوەیەکی سەرلێشێون، کوڕان کە متمانە پێیان ناکرێت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אסתירה",
+      "gloss": "دەشارمەوە"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووم"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "دەبینم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אחריתם",
+      "gloss": "کۆتاییان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نەوە"
+    },
+    {
+      "surface": "תהפכת",
+      "gloss": "سەرلێشێواو"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "متمانە"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پێیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:50:32.467307644Z",
+  "model": "glm-5.3"
+}

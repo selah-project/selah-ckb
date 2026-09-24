@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":27,"ref":"ezekiel 37:27","book":"ezekiel","lang":"ckb","chapter":37,"translation":"وە میشکانەم لەسەریان دەبێت، وە من دەبم بۆیان بۆ ئێلۆهیم، وە ئەوان دەبن بۆ من بۆ گەل.","tokens":[{"surface":"והיה","gloss":"وە دەبێت"},{"surface":"משכני","gloss":"میشکانەم"},{"surface":"עליהם","gloss":"لەسەریان"},{"surface":"והייתי","gloss":"وە من دەبم"},{"surface":"להם","gloss":"بۆیان"},{"surface":"לאלהים","gloss":"بۆ ئێلۆهیم"},{"surface":"והמה","gloss":"وە ئەوان"},{"surface":"יהיו","gloss":"دەبن"},{"surface":"לי","gloss":"بۆ من"},{"surface":"לעם","gloss":"بۆ گەل"}],"timestamp":"2026-09-24T13:21:33.538414268Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 37:27",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "وە میشکانەم لەسەریان دەبێت، وە من دەبم بۆیان بۆ ئێلۆهیم، وە ئەوان دەبن بۆ من بۆ گەل.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "وە دەبێت"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "میشکانەم"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "لەسەریان"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "وە من دەبم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بۆ ئێلۆهیم"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "وە ئەوان"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "بۆ گەل"
+    }
+  ],
+  "timestamp": "2026-09-24T13:21:33.538414268Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":11,"ref":"genesis 25:11","book":"genesis","lang":"ckb","chapter":25,"translation":"و لە دوای مردنی ئاڤراهام بوو کە ئێلۆهیم ییتسحاق کوڕەکەی بەرەکەت کرد؛ و ⟨את⟩ ییتسحاک لەگەڵ بێر لەحای ڕۆئی ژیا.","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"אחרי","gloss":"لە دوای"},{"surface":"מות","gloss":"مردنی"},{"surface":"אברהם","gloss":"ئاڤراهام"},{"surface":"ויברך","gloss":"و بەرەکەت کرد"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"את","gloss":"⟨את⟩","marks":"ییتسحاق"},{"surface":"יצחק","gloss":"ییتسحاک"},{"surface":"בנו","gloss":"کوڕەکەی"},{"surface":"וישב","gloss":"و ژیا"},{"surface":"יצחק","gloss":"ییتسحاک"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"באר","gloss":"بێر"},{"surface":"לחי","gloss":"لەحای"},{"surface":"ראי","gloss":"ڕۆئی"}],"timestamp":"2026-09-24T09:21:27.446169035Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و لە دوای مردنی ئاڤراهام بوو کە ئێلۆهیم ییتسحاق کوڕەکەی بەرەکەت کرد؛ و ⟨את⟩ ییتسحاک لەگەڵ بێر لەحای ڕۆئی ژیا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردنی"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "و بەرەکەت کرد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ییتسحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاک"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕەکەی"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاک"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بێر"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لەحای"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ڕۆئی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:27.446169035Z",
+  "model": "glm-5.3"
+}

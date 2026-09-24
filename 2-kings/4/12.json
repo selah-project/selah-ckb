@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-kings 4:12","book":"2-kings","lang":"ckb","chapter":4,"translation":"و فەرمووی بۆ گێحازی ⟨گەهازی⟩ خزمەتکاری، بانگی ئەم شوونامییە بکە، و بانگی کردی و ڕاوەستا لە پێشی.","tokens":[{"surface":"ויאמר","gloss":"و فەرمووی"},{"surface":"אל","gloss":"بۆ"},{"surface":"גחזי","gloss":"گێحازی"},{"surface":"נערו","gloss":"خزمەتکاری"},{"surface":"קרא","gloss":"بانگی بکە"},{"surface":"לשונמית","gloss":"شوونامییە"},{"surface":"הזאת","gloss":"ئەم"},{"surface":"ויקרא","gloss":"و بانگی کردی"},{"surface":"לה","gloss":"ئەوی"},{"surface":"ותעמד","gloss":"و ڕاوەستا"},{"surface":"לפניו","gloss":"لە پێشی"}],"timestamp":"2026-09-24T15:58:05.101086979Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 4:12",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و فەرمووی بۆ گێحازی ⟨گەهازی⟩ خزمەتکاری، بانگی ئەم شوونامییە بکە، و بانگی کردی و ڕاوەستا لە پێشی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "گێحازی"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "خزمەتکاری"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "بانگی بکە"
+    },
+    {
+      "surface": "לשונמית",
+      "gloss": "شوونامییە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "و بانگی کردی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ئەوی"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "و ڕاوەستا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "لە پێشی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:58:05.101086979Z",
+  "model": "glm-5.3"
+}

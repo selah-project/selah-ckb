@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":12,"ref":"deuteronomy 16:12","book":"deuteronomy","lang":"ckb","chapter":16,"translation":"و بیردەکەیتەوە کە خزمەتکار بووی لە میتسرایم، و دەیپارێزی و دەیکەیت ⟨את⟩ ئەم حوکمانە.","tokens":[{"surface":"וזכרת","gloss":"و بیردەکەیتەوە"},{"surface":"כי","gloss":"کە"},{"surface":"עבד","gloss":"خزمەتکار"},{"surface":"היית","gloss":"بووی"},{"surface":"במצרים","gloss":"لە میتسرایم"},{"surface":"ושמרת","gloss":"و دەیپارێزی"},{"surface":"ועשית","gloss":"و دەیکەیت"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەم حوکمانە"},{"surface":"החקים","gloss":"ئەم حوکمانە"},{"surface":"האלה","gloss":"ئەمانە"}],"timestamp":"2026-09-24T10:40:20.016404276Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و بیردەکەیتەوە کە خزمەتکار بووی لە میتسرایم، و دەیپارێزی و دەیکەیت ⟨את⟩ ئەم حوکمانە.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "و بیردەکەیتەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خزمەتکار"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بووی"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "لە میتسرایم"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "و دەیپارێزی"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "و دەیکەیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم حوکمانە"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ئەم حوکمانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەمانە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:40:20.016404276Z",
+  "model": "glm-5.3"
+}

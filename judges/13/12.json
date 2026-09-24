@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":12,"ref":"judges 13:12","book":"judges","lang":"ckb","chapter":13,"translation":"و مەنواح وت: ئێستا قسەکەت دێتە دی — دەستووری ئەو گەنجە چی دەبێت و کاری؟","tokens":[{"surface":"ויאמר","gloss":"و وت"},{"surface":"מנוח","gloss":"مەنواح"},{"surface":"עתה","gloss":"ئێستا"},{"surface":"יבא","gloss":"دێتە دی"},{"surface":"דבריך","gloss":"قسەکەت"},{"surface":"מה","gloss":"چی"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"משפט","gloss":"دەستووری"},{"surface":"הנער","gloss":"ئەو گەنجە"},{"surface":"ומעשהו","gloss":"و کاری"}],"timestamp":"2026-09-24T11:09:57.500865451Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و مەنواح وت: ئێستا قسەکەت دێتە دی — دەستووری ئەو گەنجە چی دەبێت و کاری؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مەنواح"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دێتە دی"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "قسەکەت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دەستووری"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ئەو گەنجە"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "و کاری"
+    }
+  ],
+  "timestamp": "2026-09-24T11:09:57.500865451Z",
+  "model": "glm-5.3"
+}

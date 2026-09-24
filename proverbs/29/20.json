@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":20,"ref":"proverbs 29:20","book":"proverbs","lang":"ckb","chapter":29,"translation":"کەسێکی خێرا لە وشەکانیدا بینیوتە؟ هیوا بۆ گێل زیاترە لەوانی ئەو.","tokens":[{"surface":"חזית","gloss":"بینیوتە"},{"surface":"איש","gloss":"کەسێک"},{"surface":"אץ","gloss":"خێرا"},{"surface":"בדבריו","gloss":"لە وشەکانیدا"},{"surface":"תקוה","gloss":"هیوا"},{"surface":"לכסיל","gloss":"بۆ گێل"},{"surface":"ממנו","gloss":"لەوانی ئەو"}],"timestamp":"2026-09-24T14:32:01.314170467Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "کەسێکی خێرا لە وشەکانیدا بینیوتە؟ هیوا بۆ گێل زیاترە لەوانی ئەو.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "بینیوتە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کەسێک"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "خێرا"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "لە وشەکانیدا"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "هیوا"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "بۆ گێل"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لەوانی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:01.314170467Z",
+  "model": "glm-5.3"
+}

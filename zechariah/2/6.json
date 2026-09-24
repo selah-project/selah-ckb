@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":6,"ref":"zechariah 2:6","book":"zechariah","lang":"ckb","chapter":2,"translation":"و من وت: بۆ کوێ تۆ دەڕۆی؟ و ئەو پێم فەرموو: بۆ پێوانەکردنی ⟨את⟩ یەروشالایم ⟨ئورشەلیم⟩، بۆ بینینی چەند پانە و چەند درێژە","tokens":[{"surface":"ואמר","gloss":"و وت"},{"surface":"אנה","gloss":"بۆ کوێ"},{"surface":"אתה","gloss":"تۆ"},{"surface":"הלך","gloss":"دەڕۆی"},{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"אלי","gloss":"پێم"},{"surface":"למד","gloss":"بۆ پێوانەکردنی"},{"surface":"את","gloss":"⟨את⟩","marks":"یەروشالایم"},{"surface":"ירושלם","gloss":"یەروشالایم"},{"surface":"לראות","gloss":"بۆ بینینی"},{"surface":"כמה","gloss":"چەند"},{"surface":"רחבה","gloss":"پانە"},{"surface":"וכמה","gloss":"و چەند"},{"surface":"ארכה","gloss":"درێژە"}],"timestamp":"2026-09-24T13:44:00.447318519Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و من وت: بۆ کوێ تۆ دەڕۆی؟ و ئەو پێم فەرموو: بۆ پێوانەکردنی ⟨את⟩ یەروشالایم ⟨ئورشەلیم⟩، بۆ بینینی چەند پانە و چەند درێژە",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "بۆ کوێ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "دەڕۆی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "למד",
+      "gloss": "بۆ پێوانەکردنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەروشالایم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یەروشالایم"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "بۆ بینینی"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "پانە"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "و چەند"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "درێژە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:00.447318519Z",
+  "model": "glm-5.3"
+}

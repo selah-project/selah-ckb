@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":42,"ref":"numbers 14:42","book":"numbers","lang":"ckb","chapter":14,"translation":"بەرز مەبەوە چونکە یاهوە لە نێو ئێوەدا نییە و لەبەردەم دوژمنەکانتاندا نەدەدرێن","tokens":[{"surface":"אל","gloss":"بەرز مە"},{"surface":"תעלו","gloss":"مەبەوە"},{"surface":"כי","gloss":"چونکە"},{"surface":"אין","gloss":"نییە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"בקרבכם","gloss":"لە نێو ئێوەدا"},{"surface":"ולא","gloss":"و نە"},{"surface":"תנגפו","gloss":"دەدرێن"},{"surface":"לפני","gloss":"لەبەردەم"},{"surface":"איביכם","gloss":"دوژمنەکانتان"}],"timestamp":"2026-09-24T10:21:21.045003221Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "بەرز مەبەوە چونکە یاهوە لە نێو ئێوەدا نییە و لەبەردەم دوژمنەکانتاندا نەدەدرێن",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "بەرز مە"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "مەبەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "لە نێو ئێوەدا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "دەدرێن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "دوژمنەکانتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:21:21.045003221Z",
+  "model": "glm-5.3"
+}

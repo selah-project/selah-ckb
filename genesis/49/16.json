@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":16,"ref":"genesis 49:16","book":"genesis","lang":"ckb","chapter":49,"translation":"دان دادپەروەری گەلەکەی دەکات وەک یەکێک لە هۆزەکانی ئیسرائیل.","tokens":[{"surface":"דן","gloss":"دان"},{"surface":"ידין","gloss":"دادپەروەری دەکات"},{"surface":"עמו","gloss":"گەلەکەی"},{"surface":"כאחד","gloss":"وەک یەکێک"},{"surface":"שבטי","gloss":"هۆزەکانی"},{"surface":"ישראל","gloss":"ئیسرائیل"}],"timestamp":"2026-09-24T09:35:14.904037112Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 49,
+  "translation": "دان دادپەروەری گەلەکەی دەکات وەک یەکێک لە هۆزەکانی ئیسرائیل.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "دادپەروەری دەکات"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گەلەکەی"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "وەک یەکێک"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "هۆزەکانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T09:35:14.904037112Z",
+  "model": "glm-5.3"
+}

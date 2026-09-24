@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":20,"ref":"ecclesiastes 2:20","book":"ecclesiastes","lang":"ckb","chapter":2,"translation":"و من خۆم ڕووم لە دڵبڕین کردەوە بۆ ⟨את⟩ دڵم لەسەر هەموو ئەو زەحمەتەی کە لەژێر خۆردا زەحمەتی تێداکێشام.","tokens":[{"surface":"וסבותי","gloss":"و ڕووم کردەوە"},{"surface":"אני","gloss":"من خۆم"},{"surface":"ליאש","gloss":"بۆ دڵبڕین"},{"surface":"את","gloss":"⟨את⟩","marks":"دڵم"},{"surface":"לבי","gloss":"دڵم"},{"surface":"על","gloss":"لەسەر"},{"surface":"כל","gloss":"هەموو"},{"surface":"העמל","gloss":"ئەو زەحمەتە"},{"surface":"שעמלתי","gloss":"کە زەحمەتی تێداکێشام"},{"surface":"תחת","gloss":"لەژێر"},{"surface":"השמש","gloss":"خۆر"}],"timestamp":"2026-09-24T14:56:07.600100430Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و من خۆم ڕووم لە دڵبڕین کردەوە بۆ ⟨את⟩ دڵم لەسەر هەموو ئەو زەحمەتەی کە لەژێر خۆردا زەحمەتی تێداکێشام.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "و ڕووم کردەوە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من خۆم"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "بۆ دڵبڕین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵم"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "ئەو زەحمەتە"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "کە زەحمەتی تێداکێشام"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:56:07.600100430Z",
+  "model": "glm-5.3"
+}

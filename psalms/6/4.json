@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 6:4","book":"psalms","lang":"ckb","chapter":6,"translation":"و گیانەکەم زۆر شێواوە؛ و تۆ ئەی یاهوە، تا کەی؟","tokens":[{"surface":"ונפשי","gloss":"و گیانەکەم"},{"surface":"נבהלה","gloss":"شێواوە"},{"surface":"מאד","gloss":"زۆر"},{"surface":"ואת","gloss":"و تۆ"},{"surface":"יהוה","gloss":"ئەی یاهوە"},{"surface":"עד","gloss":"تا"},{"surface":"מתי","gloss":"کەی"}],"timestamp":"2026-09-24T16:02:09.304127242Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و گیانەکەم زۆر شێواوە؛ و تۆ ئەی یاهوە، تا کەی؟",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "و گیانەکەم"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "شێواوە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:02:09.304127242Z",
+  "model": "glm-5.3"
+}

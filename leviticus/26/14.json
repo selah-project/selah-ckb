@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":14,"ref":"leviticus 26:14","book":"leviticus","lang":"ckb","chapter":26,"translation":"و ئەگەر لە من نەبیستن، و ⟨את⟩ هەموو ئەم فەرمانەکان نەکەن؛","tokens":[{"surface":"ואם","gloss":"و ئەگەر"},{"surface":"לא","gloss":"نە"},{"surface":"תשמעו","gloss":"ببیستن"},{"surface":"לי","gloss":"لە من"},{"surface":"ולא","gloss":"و نە"},{"surface":"תעשו","gloss":"بکەن"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو ئەم فەرمانەکان"},{"surface":"כל","gloss":"هەموو"},{"surface":"המצות","gloss":"فەرمانەکان"},{"surface":"האלה","gloss":"ئەم"}],"timestamp":"2026-09-24T10:12:08.637229719Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و ئەگەر لە من نەبیستن، و ⟨את⟩ هەموو ئەم فەرمانەکان نەکەن؛",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ببیستن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بکەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو ئەم فەرمانەکان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "فەرمانەکان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:12:08.637229719Z",
+  "model": "glm-5.3"
+}

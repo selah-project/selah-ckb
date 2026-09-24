@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":9,"ref":"jeremiah 37:9","book":"jeremiah","lang":"ckb","chapter":37,"translation":"ئەمەش یاهوە فەرموو: گیانەکانتان فریو مەدەن بە وتنی: بەدڵنیاییەوە کەشدییەکان لەلای ئێمەوە دەڕۆن، چونکە ناڕۆن.","tokens":[{"surface":"כה","gloss":"ئەمەش"},{"surface":"אמר","gloss":"فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"مە"},{"surface":"תשאו","gloss":"فریو بدەن"},{"surface":"נפשתיכם","gloss":"گیانەکانتان"},{"surface":"לאמר","gloss":"بە وتنی"},{"surface":"הלך","gloss":"بەدڵنیاییەوە دەڕوات"},{"surface":"ילכו","gloss":"دەڕۆن"},{"surface":"מעלינו","gloss":"لەلای ئێمەوە"},{"surface":"הכשדים","gloss":"کەشدییەکان"},{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نا"},{"surface":"ילכו","gloss":"دەڕۆن"}],"timestamp":"2026-09-24T12:55:49.505578956Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 37:9",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "ئەمەش یاهوە فەرموو: گیانەکانتان فریو مەدەن بە وتنی: بەدڵنیاییەوە کەشدییەکان لەلای ئێمەوە دەڕۆن، چونکە ناڕۆن.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ئەمەش"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "فریو بدەن"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "گیانەکانتان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتنی"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "بەدڵنیاییەوە دەڕوات"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "دەڕۆن"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "لەلای ئێمەوە"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "کەشدییەکان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "دەڕۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T12:55:49.505578956Z",
+  "model": "glm-5.3"
+}

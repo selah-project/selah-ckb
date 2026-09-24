@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":16,"ref":"ezekiel 36:16","book":"ezekiel","lang":"ckb","chapter":36,"translation":"و وشەی یاهوە هاتم لای، بەمەی فەرموو","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"דבר","gloss":"وشەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלי","gloss":"لای من"},{"surface":"לאמר","gloss":"بەمەی فەرموو"}],"timestamp":"2026-09-24T13:20:44.483074036Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و وشەی یاهوە هاتم لای، بەمەی فەرموو",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەمەی فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:20:44.483074036Z",
+  "model": "glm-5.3"
+}

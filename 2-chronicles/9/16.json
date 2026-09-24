@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":16,"ref":"2-chronicles 9:16","book":"2-chronicles","lang":"ckb","chapter":9,"translation":"و سێ سەد قەڵغانی بچووکی زێڕی لێدراو، سێ سەد شەکێلی زێڕ بۆ یەک قەڵغان بەکارهات، و پاشا ئەوانی لە ماڵی دارستانی لوبنان دانا.","tokens":[{"surface":"ושלש","gloss":"و سێ"},{"surface":"מאות","gloss":"سەد"},{"surface":"מגנים","gloss":"قەڵغانە بچووکەکان"},{"surface":"זהב","gloss":"زێڕی"},{"surface":"שחוט","gloss":"لێدراو"},{"surface":"שלש","gloss":"سێ"},{"surface":"מאות","gloss":"سەد"},{"surface":"זהב","gloss":"زێڕ"},{"surface":"יעלה","gloss":"بەکارهات"},{"surface":"על","gloss":"بۆ"},{"surface":"המגן","gloss":"قەڵغانەکە"},{"surface":"האחת","gloss":"یەک"},{"surface":"ויתנם","gloss":"و ئەوانی دانا"},{"surface":"המלך","gloss":"پاشا"},{"surface":"בבית","gloss":"لە ماڵی"},{"surface":"יער","gloss":"دارستانی"},{"surface":"הלבנון","gloss":"لوبنان"}],"timestamp":"2026-09-24T15:35:28.527860894Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و سێ سەد قەڵغانی بچووکی زێڕی لێدراو، سێ سەد شەکێلی زێڕ بۆ یەک قەڵغان بەکارهات، و پاشا ئەوانی لە ماڵی دارستانی لوبنان دانا.",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "قەڵغانە بچووکەکان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕی"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "لێدراو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بەکارهات"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "قەڵغانەکە"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "و ئەوانی دانا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "יער",
+      "gloss": "دارستانی"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لوبنان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:35:28.527860894Z",
+  "model": "glm-5.3"
+}

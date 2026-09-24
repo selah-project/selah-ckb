@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":16,"ref":"psalms 33:16","book":"psalms","lang":"ckb","chapter":33,"translation":"پادشا بە زۆری سوپا ڕزگار نابێت، گەورە بە زۆری هێز ڕزگاری نادات.","tokens":[{"surface":"אין","gloss":"نییە"},{"surface":"המלך","gloss":"پادشا"},{"surface":"נושע","gloss":"ڕزگار نابێت"},{"surface":"ברב","gloss":"بە زۆری"},{"surface":"חיל","gloss":"سوپا"},{"surface":"גבור","gloss":"گەورە"},{"surface":"לא","gloss":"نا"},{"surface":"ינצל","gloss":"ڕزگاری نادات"},{"surface":"ברב","gloss":"بە زۆری"},{"surface":"כח","gloss":"هێز"}],"timestamp":"2026-09-24T13:54:45.484875047Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "پادشا بە زۆری سوپا ڕزگار نابێت، گەورە بە زۆری هێز ڕزگاری نادات.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ڕزگار نابێت"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بە زۆری"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سوپا"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ڕزگاری نادات"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بە زۆری"
+    },
+    {
+      "surface": "כח",
+      "gloss": "هێز"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:45.484875047Z",
+  "model": "glm-5.3"
+}

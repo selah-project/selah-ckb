@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":69,"ref":"deuteronomy 28:69","book":"deuteronomy","lang":"ckb","chapter":28,"translation":"ئەمانە وشەکانی پەیمانەکەن کە یاهوە فەرمانی بە ⟨את⟩ مۆشە ⟨موسا⟩ دا بۆ بەستنی ⟨את⟩ کوڕانی ئیسرائیل لە زەوی مۆئاب، جگە لە پەیمانەکەی کە لەگەڵ ⟨את⟩ ئەوان لە حۆرێب بستی.","tokens":[{"surface":"אלה","gloss":"ئەمانە"},{"surface":"דברי","gloss":"وشەکانی"},{"surface":"הברית","gloss":"پەیمانەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"צוה","gloss":"فەرمانی دا"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"את","gloss":"⟨את⟩","marks":"مۆشە"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"לכרת","gloss":"بۆ بەستن"},{"surface":"את","gloss":"⟨את⟩","marks":"کوڕانی"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"בארץ","gloss":"لە زەوی"},{"surface":"מואב","gloss":"مۆئاب"},{"surface":"מלבד","gloss":"جگە لە"},{"surface":"הברית","gloss":"پەیمانەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"כרת","gloss":"بستی"},{"surface":"אתם","gloss":"⟨את⟩ ئەوان"},{"surface":"בחרב","gloss":"لە حۆرێب"}],"timestamp":"2026-09-24T17:57:49.744387671Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "deuteronomy 28:69",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "ئەمانە وشەکانی پەیمانەکەن کە یاهوە فەرمانی بە ⟨את⟩ مۆشە ⟨موسا⟩ دا بۆ بەستنی ⟨את⟩ کوڕانی ئیسرائیل لە زەوی مۆئاب، جگە لە پەیمانەکەی کە لەگەڵ ⟨את⟩ ئەوان لە حۆرێب بستی.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانی"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "پەیمانەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۆشە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "بۆ بەستن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕانی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "جگە لە"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "پەیمانەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "بستی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "لە حۆرێب"
+    }
+  ],
+  "timestamp": "2026-09-24T17:57:49.744387671Z",
+  "model": "glm-5.3"
+}

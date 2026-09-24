@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":41,"ref":"genesis 41:41","book":"genesis","lang":"ckb","chapter":41,"translation":"و فیرعەون بۆ یوسێف ⟨موسا نا، یوسێف⟩ فەرموو: ئەوەتا من ⟨את⟩ تۆم دانا لەسەر هەموو زەوی میتسرایم.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"פרעה","gloss":"فیرعەون"},{"surface":"אל","gloss":"بۆ"},{"surface":"יוסף","gloss":"یوسێف"},{"surface":"ראה","gloss":"ئەوەتا"},{"surface":"נתתי","gloss":"دانام"},{"surface":"אתך","gloss":"⟨את⟩ تۆ","marks":"تۆ"},{"surface":"על","gloss":"لەسەر"},{"surface":"כל","gloss":"هەموو"},{"surface":"ארץ","gloss":"زەوی"},{"surface":"מצרים","gloss":"میتسرایم"}],"timestamp":"2026-09-24T16:47:41.143537735Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و فیرعەون بۆ یوسێف ⟨موسا نا، یوسێف⟩ فەرموو: ئەوەتا من ⟨את⟩ تۆم دانا لەسەر هەموو زەوی میتسرایم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیرعەون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "دانام"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تۆ",
+      "marks": "تۆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T16:47:41.143537735Z",
+  "model": "glm-5.3"
+}

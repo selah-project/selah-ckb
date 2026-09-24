@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":16,"ref":"1-chronicles 24:16","book":"1-chronicles","lang":"ckb","chapter":24,"translation":"بۆ پەتاحیا نۆ دە، بۆ یەحەزقێل بیست.","tokens":[{"surface":"לפתחיה","gloss":"بۆ پەتاحیا"},{"surface":"תשעה","gloss":"نۆ"},{"surface":"עשר","gloss":"دە"},{"surface":"ליחזקאל","gloss":"بۆ یەحەزقێل"},{"surface":"העשרים","gloss":"بیست"}],"timestamp":"2026-09-24T15:29:44.435949447Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بۆ پەتاحیا نۆ دە، بۆ یەحەزقێل بیست.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "بۆ پەتاحیا"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "بۆ یەحەزقێل"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "بیست"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:44.435949447Z",
+  "model": "glm-5.3"
+}

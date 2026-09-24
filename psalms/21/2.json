@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 21:2","book":"psalms","lang":"ckb","chapter":21,"translation":"یاهوە، لە هێزی تۆدا پادشا دڵخۆشە، و لە ڕزگارییت تۆدا چەند زۆر شادە!","tokens":[{"surface":"יהוה","gloss":"یاهوە"},{"surface":"בעזך","gloss":"لە هێزی تۆدا"},{"surface":"ישמח","gloss":"دڵخۆشە"},{"surface":"מלך","gloss":"پادشا"},{"surface":"ובישועתך","gloss":"و لە ڕزگارییت تۆدا"},{"surface":"מה","gloss":"چەند"},{"surface":"יגיל","gloss":"شادە"},{"surface":"מאד","gloss":"زۆر"}],"timestamp":"2026-09-24T13:52:25.203354327Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "یاهوە، لە هێزی تۆدا پادشا دڵخۆشە، و لە ڕزگارییت تۆدا چەند زۆر شادە!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "لە هێزی تۆدا"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "دڵخۆشە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "و لە ڕزگارییت تۆدا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "شادە"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:25.203354327Z",
+  "model": "glm-5.3"
+}

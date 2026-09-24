@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-kings 22:2","book":"1-kings","lang":"ckb","chapter":22,"translation":"و بوو لە ساڵی سێیەمدا، یەهۆشافات پاشای یەهودا دابەزی بۆ لای پاشای ئیسرائیل.","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"בשנה","gloss":"لە ساڵی"},{"surface":"השלישית","gloss":"سێیەم"},{"surface":"וירד","gloss":"دابەزی"},{"surface":"יהושפט","gloss":"یەهۆشافات ⟨یەهۆشەفات⟩"},{"surface":"מלך","gloss":"پاشای"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"אל","gloss":"بۆ لای"},{"surface":"מלך","gloss":"پاشای"},{"surface":"ישראל","gloss":"ئیسرائیل"}],"timestamp":"2026-09-24T11:58:40.467461136Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و بوو لە ساڵی سێیەمدا، یەهۆشافات پاشای یەهودا دابەزی بۆ لای پاشای ئیسرائیل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "سێیەم"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "دابەزی"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یەهۆشافات ⟨یەهۆشەفات⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T11:58:40.467461136Z",
+  "model": "glm-5.3"
+}

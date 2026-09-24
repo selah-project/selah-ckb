@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":7,"ref":"haggai 1:7","book":"haggai","lang":"ckb","chapter":1,"translation":"وەها فەرمووی یاهوەی سەڤائۆت: دڵی خۆتان بخەنە سەر ڕێگاکانی خۆتان.","tokens":[{"surface":"כה","gloss":"وەها"},{"surface":"אמר","gloss":"فەرمووی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"צבאות","gloss":"سەڤائۆت"},{"surface":"שימו","gloss":"بخەن"},{"surface":"לבבכם","gloss":"دڵی خۆتان"},{"surface":"על","gloss":"سەر"},{"surface":"דרכיכם","gloss":"ڕێگاکانی خۆتان"}],"timestamp":"2026-09-24T13:42:25.354232468Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "وەها فەرمووی یاهوەی سەڤائۆت: دڵی خۆتان بخەنە سەر ڕێگاکانی خۆتان.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "وەها"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "بخەن"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "دڵی خۆتان"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ڕێگاکانی خۆتان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:42:25.354232468Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":15,"ref":"ecclesiastes 1:15","book":"ecclesiastes","lang":"ckb","chapter":1,"translation":"چەوانە ناتوانرێت ڕاست بکرێت، و کەموکوڕی ناتوانرێت بژمێردرێت.","tokens":[{"surface":"מעות","gloss":"چەوانە"},{"surface":"לא","gloss":"نا"},{"surface":"יוכל","gloss":"دەتوانرێت"},{"surface":"לתקן","gloss":"ڕاست بکرێت"},{"surface":"וחסרון","gloss":"و کەموکوڕی"},{"surface":"לא","gloss":"نا"},{"surface":"יוכל","gloss":"دەتوانرێت"},{"surface":"להמנות","gloss":"بژمێردرێت"}],"timestamp":"2026-09-24T14:55:38.443163344Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "چەوانە ناتوانرێت ڕاست بکرێت، و کەموکوڕی ناتوانرێت بژمێردرێت.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "چەوانە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "دەتوانرێت"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ڕاست بکرێت"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "و کەموکوڕی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "دەتوانرێت"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "بژمێردرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:38.443163344Z",
+  "model": "glm-5.3"
+}

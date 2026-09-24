@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":36,"ref":"jeremiah 32:36","book":"jeremiah","lang":"ckb","chapter":32,"translation":"و ئێستا بۆیە هەر بەم شێوەیە یاهوە، ئێلۆهیمی ئیسرائیل، فەرمووی بۆ ئەو شارەی کە ئێوە دەڵێن دەدرێتە دەست پاشای بابل بە شمشێر و برسیی و نەخۆشی.","tokens":[{"surface":"ועתה","gloss":"و ئێستا"},{"surface":"לכן","gloss":"بۆیە"},{"surface":"כה","gloss":"بەم شێوەیە"},{"surface":"אמר","gloss":"فەرمووی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהי","gloss":"ئێلۆهیمی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"אל","gloss":"بۆ"},{"surface":"העיר","gloss":"ئەو شارەی"},{"surface":"הזאת","gloss":"ئەم"},{"surface":"אשר","gloss":"کە"},{"surface":"אתם","gloss":"ئێوە"},{"surface":"אמרים","gloss":"دەڵێن"},{"surface":"נתנה","gloss":"دەدرێتە"},{"surface":"ביד","gloss":"دەست"},{"surface":"מלך","gloss":"پاشای"},{"surface":"בבל","gloss":"بابل"},{"surface":"בחרב","gloss":"بە شمشێر"},{"surface":"וברעב","gloss":"و بە برسیی"},{"surface":"ובדבר","gloss":"و بە نەخۆشی"}],"timestamp":"2026-09-24T12:53:42.362958243Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 32:36",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و ئێستا بۆیە هەر بەم شێوەیە یاهوە، ئێلۆهیمی ئیسرائیل، فەرمووی بۆ ئەو شارەی کە ئێوە دەڵێن دەدرێتە دەست پاشای بابل بە شمشێر و برسیی و نەخۆشی.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "بۆیە"
+    },
+    {
+      "surface": "כה",
+      "gloss": "بەم شێوەیە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ئەو شارەی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "دەدرێتە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "بە شمشێر"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "و بە برسیی"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "و بە نەخۆشی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:53:42.362958243Z",
+  "model": "glm-5.3"
+}

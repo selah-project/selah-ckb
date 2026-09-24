@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":10,"ref":"genesis 3:10","book":"genesis","lang":"ckb","chapter":3,"translation":"و وت: ⟨את⟩ دەنگی تۆم لە باغچەدا بیست و ترسان چونکە ڕووتم و خۆم شاردەوە.","tokens":[{"surface":"ויאמר","gloss":"و وت"},{"surface":"את","gloss":"⟨את⟩","marks":"دەنگی تۆ"},{"surface":"קלך","gloss":"دەنگی تۆ"},{"surface":"שמעתי","gloss":"بیست"},{"surface":"בגן","gloss":"لە باغچەدا"},{"surface":"ואירא","gloss":"و ترسان"},{"surface":"כי","gloss":"چونکە"},{"surface":"עירם","gloss":"ڕووت"},{"surface":"אנכי","gloss":"من"},{"surface":"ואחבא","gloss":"و خۆم شاردەوە"}],"timestamp":"2026-09-24T16:46:34.692125428Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و وت: ⟨את⟩ دەنگی تۆم لە باغچەدا بیست و ترسان چونکە ڕووتم و خۆم شاردەوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەنگی تۆ"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "دەنگی تۆ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "لە باغچەدا"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "و ترسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "و خۆم شاردەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:46:34.692125428Z",
+  "model": "glm-5.3"
+}

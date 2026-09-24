@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":42,"ref":"1-samuel 14:42","book":"1-samuel","lang":"ckb","chapter":14,"translation":"و شائول فەرموو: لە نێوان من و لە نێوان یۆناتانی کوڕمدا فید بدەن. و یۆناتان گیرا.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"שאול","gloss":"شائول"},{"surface":"הפילו","gloss":"فید بدەن"},{"surface":"ביני","gloss":"لە نێوان من"},{"surface":"ובין","gloss":"و لە نێوان"},{"surface":"יונתן","gloss":"یۆناتان"},{"surface":"בני","gloss":"کوڕم"},{"surface":"וילכד","gloss":"و گیرا"},{"surface":"יונתן","gloss":"یۆناتان"}],"timestamp":"2026-09-24T11:22:01.768592600Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و شائول فەرموو: لە نێوان من و لە نێوان یۆناتانی کوڕمدا فید بدەن. و یۆناتان گیرا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "فید بدەن"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "لە نێوان من"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و لە نێوان"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یۆناتان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "و گیرا"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یۆناتان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:22:01.768592600Z",
+  "model": "glm-5.3"
+}

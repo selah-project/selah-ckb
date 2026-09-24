@@ -1,1 +1,63 @@
-{"tier":"glm-5.2","verse":9,"ref":"isaiah 28:9","book":"isaiah","lang":"ckb","chapter":28,"translation":"⟨את⟩ کێیە کە فێری زانست دەکات و ⟨את⟩ کێیە کە پەیام تێدەگەیەنێت؟ ئەوانەی لە شیر لابراون و لە ممەکان دوورکراونەتەوە.","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"کێ"},{"surface":"מי","gloss":"کێیە"},{"surface":"יורה","gloss":"فێری دەکات"},{"surface":"דעה","gloss":"زانست"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"کێ"},{"surface":"מי","gloss":"کێیە"},{"surface":"יבין","gloss":"تێدەگەیەنێت"},{"surface":"שמועה","gloss":"پەیام"},{"surface":"גמולי","gloss":"لابراوان"},{"surface":"מחלב","gloss":"لە شیر"},{"surface":"עתיקי","gloss":"دوورکراوان"},{"surface":"משדים","gloss":"لە ممەکان"}],"timestamp":"2026-09-24T12:20:52.354210059Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "⟨את⟩ کێیە کە فێری زانست دەکات و ⟨את⟩ کێیە کە پەیام تێدەگەیەنێت؟ ئەوانەی لە شیر لابراون و لە ممەکان دوورکراونەتەوە.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کێ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێیە"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "فێری دەکات"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "زانست"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کێ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێیە"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "تێدەگەیەنێت"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "پەیام"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "لابراوان"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "لە شیر"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "دوورکراوان"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "لە ممەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:20:52.354210059Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":5,"ref":"psalms 37:5","book":"psalms","lang":"ckb","chapter":37,"translation":"ڕێگای خۆت بگۆڵە سەر یاهوە و پشتی پێ ببەستە و ئەو دەیکات.","tokens":[{"surface":"גול","gloss":"بگۆڵە"},{"surface":"על","gloss":"سەر"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"דרכך","gloss":"ڕێگای تۆ"},{"surface":"ובטח","gloss":"و پشتی پێ ببەستە"},{"surface":"עליו","gloss":"بە ئەو"},{"surface":"והוא","gloss":"و ئەو"},{"surface":"יעשה","gloss":"دەیکات"}],"timestamp":"2026-09-24T13:55:27.266175660Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "ڕێگای خۆت بگۆڵە سەر یاهوە و پشتی پێ ببەستە و ئەو دەیکات.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "بگۆڵە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ڕێگای تۆ"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "و پشتی پێ ببەستە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بە ئەو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەیکات"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:27.266175660Z",
+  "model": "glm-5.3"
+}

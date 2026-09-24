@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":28,"ref":"job 21:28","book":"job","lang":"ckb","chapter":21,"translation":"چونکە دەڵێن: ماڵی گەورە کوێیە و چادری میشکانەکانی خراپەکان کوێیە؟","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"תאמרו","gloss":"دەڵێن"},{"surface":"איה","gloss":"کوێیە"},{"surface":"בית","gloss":"ماڵی"},{"surface":"נדיב","gloss":"گەورە"},{"surface":"ואיה","gloss":"و کوێیە"},{"surface":"אהל","gloss":"چادری"},{"surface":"משכנות","gloss":"میشکانەکانی"},{"surface":"רשעים","gloss":"خراپەکان"}],"timestamp":"2026-09-24T14:40:49.726456802Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 21:28",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "چونکە دەڵێن: ماڵی گەورە کوێیە و چادری میشکانەکانی خراپەکان کوێیە؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کوێیە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "و کوێیە"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "چادری"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "میشکانەکانی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "خراپەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:40:49.726456802Z",
+  "model": "glm-5.3"
+}

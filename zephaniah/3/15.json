@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":15,"ref":"zephaniah 3:15","book":"zephaniah","lang":"ckb","chapter":3,"translation":"یاهوە حوکمەکانت لابردووە، ڕووی لە دوژمنەکەت کردووە، پاشای ئیسڕائیل، یاهوە، لە ناوتدایە، لە خراپی ئیتر ناترسیت","tokens":[{"surface":"הסיר","gloss":"لابردووە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"משפטיך","gloss":"حوکمەکانت"},{"surface":"פנה","gloss":"ڕووی لە ... کردووە"},{"surface":"איבך","gloss":"دوژمنەکەت"},{"surface":"מלך","gloss":"پاشای"},{"surface":"ישראל","gloss":"ئیسڕائیل"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"בקרבך","gloss":"لە ناوتدایە"},{"surface":"לא","gloss":"نا"},{"surface":"תיראי","gloss":"ناترسیت"},{"surface":"רע","gloss":"لە خراپی"},{"surface":"עוד","gloss":"ئیتر"}],"timestamp":"2026-09-24T13:40:57.145870216Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "یاهوە حوکمەکانت لابردووە، ڕووی لە دوژمنەکەت کردووە، پاشای ئیسڕائیل، یاهوە، لە ناوتدایە، لە خراپی ئیتر ناترسیت",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "لابردووە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "حوکمەکانت"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ڕووی لە ... کردووە"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "دوژمنەکەت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسڕائیل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "لە ناوتدایە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ناترسیت"
+    },
+    {
+      "surface": "רע",
+      "gloss": "لە خراپی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:40:57.145870216Z",
+  "model": "glm-5.3"
+}

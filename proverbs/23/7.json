@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":7,"ref":"proverbs 23:7","book":"proverbs","lang":"ckb","chapter":23,"translation":"چونکە وەکو ژمێریار لە گیانیدا هەیە، «بخۆ و بخۆرەوە» پێت دەڵێت، بەڵام دڵی لەگەڵ تۆ نییە","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"כמו","gloss":"وەکو"},{"surface":"שער","gloss":"ژمێریار"},{"surface":"בנפשו","gloss":"لە گیانیدا"},{"surface":"כן","gloss":"هەیە"},{"surface":"הוא","gloss":"ئەو"},{"surface":"אכל","gloss":"بخۆ"},{"surface":"ושתה","gloss":"و بخۆرەوە"},{"surface":"יאמר","gloss":"دەڵێت"},{"surface":"לך","gloss":"پێت"},{"surface":"ולבו","gloss":"بەڵام دڵی"},{"surface":"בל","gloss":"نییە"},{"surface":"עמך","gloss":"لەگەڵ تۆ"}],"timestamp":"2026-09-24T14:29:52.383922506Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "چونکە وەکو ژمێریار لە گیانیدا هەیە، «بخۆ و بخۆرەوە» پێت دەڵێت، بەڵام دڵی لەگەڵ تۆ نییە",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەکو"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ژمێریار"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "لە گیانیدا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "بخۆ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "و بخۆرەوە"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "دەڵێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "بەڵام دڵی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:52.383922506Z",
+  "model": "glm-5.3"
+}

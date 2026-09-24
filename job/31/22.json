@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":22,"ref":"job 31:22","book":"job","lang":"ckb","chapter":31,"translation":"شانم لە مەرەکەبی خۆی بکەوێت، و باوکم لە ئێسکی خۆی بشکێت؛","tokens":[{"surface":"כתפי","gloss":"شانم"},{"surface":"משכמה","gloss":"لە مەرەکەبی خۆی"},{"surface":"תפול","gloss":"بکەوێت"},{"surface":"ואזרעי","gloss":"و باوکم"},{"surface":"מקנה","gloss":"لە ئێسکی خۆی"},{"surface":"תשבר","gloss":"بشکێت"}],"timestamp":"2026-09-24T14:43:00.028181313Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 31:22",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "شانم لە مەرەکەبی خۆی بکەوێت، و باوکم لە ئێسکی خۆی بشکێت؛",
+  "tokens": [
+    {
+      "surface": "כתפי",
+      "gloss": "شانم"
+    },
+    {
+      "surface": "משכמה",
+      "gloss": "لە مەرەکەبی خۆی"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "بکەوێت"
+    },
+    {
+      "surface": "ואזרעי",
+      "gloss": "و باوکم"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "لە ئێسکی خۆی"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "بشکێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:00.028181313Z",
+  "model": "glm-5.3"
+}

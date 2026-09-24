@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":10,"ref":"ezekiel 3:10","book":"ezekiel","lang":"ckb","chapter":3,"translation":"و پێم فەرموو: کوڕی ئادەم، ⟨את⟩ هەموو وشەکانم کە لەگەڵت دەڵێم بە دڵت وەرگرە و بە گوێکانت ببیستە.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"אלי","gloss":"پێم"},{"surface":"בן","gloss":"کوڕی"},{"surface":"אדם","gloss":"ئادەم"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو وشەکانم"},{"surface":"כל","gloss":"هەموو"},{"surface":"דברי","gloss":"وشەکانم"},{"surface":"אשר","gloss":"کە"},{"surface":"אדבר","gloss":"دەڵێم"},{"surface":"אליך","gloss":"لەگەڵت"},{"surface":"קח","gloss":"وەرگرە"},{"surface":"בלבבך","gloss":"بە دڵت"},{"surface":"ובאזניך","gloss":"و بە گوێکانت"},{"surface":"שמע","gloss":"ببیستە"}],"timestamp":"2026-09-24T13:05:23.652393297Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و پێم فەرموو: کوڕی ئادەم، ⟨את⟩ هەموو وشەکانم کە لەگەڵت دەڵێم بە دڵت وەرگرە و بە گوێکانت ببیستە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ئادەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو وشەکانم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وشەکانم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "دەڵێم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لەگەڵت"
+    },
+    {
+      "surface": "קח",
+      "gloss": "وەرگرە"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "بە دڵت"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "و بە گوێکانت"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ببیستە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:05:23.652393297Z",
+  "model": "glm-5.3"
+}

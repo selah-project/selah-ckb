@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 119:2","book":"psalms","lang":"ckb","chapter":119,"translation":"خۆشبەخت ئەوانەی شایەتییەکانی دەپارێزن، بە هەموو دڵێکەوە دەیگەڕێن.","tokens":[{"surface":"אשרי","gloss":"خۆشبەخت"},{"surface":"נצרי","gloss":"ئەوانەی دەپارێزن"},{"surface":"עדתיו","gloss":"شایەتییەکانی"},{"surface":"בכל","gloss":"بە هەموو"},{"surface":"לב","gloss":"دڵ"},{"surface":"ידרשוהו","gloss":"دەیگەڕێن"}],"timestamp":"2026-09-24T14:15:36.563713812Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "خۆشبەخت ئەوانەی شایەتییەکانی دەپارێزن، بە هەموو دڵێکەوە دەیگەڕێن.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خۆشبەخت"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "ئەوانەی دەپارێزن"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "شایەتییەکانی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "دەیگەڕێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:36.563713812Z",
+  "model": "glm-5.3"
+}

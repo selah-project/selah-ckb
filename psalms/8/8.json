@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 8:8","book":"psalms","lang":"ckb","chapter":8,"translation":"مەڕ و گا، هەموویان، و هەروەها ماڵاتی کێڵگە.","tokens":[{"surface":"צנה","gloss":"مەڕ"},{"surface":"ואלפים","gloss":"و گا"},{"surface":"כלם","gloss":"هەموویان"},{"surface":"וגם","gloss":"و هەروەها"},{"surface":"בהמות","gloss":"ماڵاتی"},{"surface":"שדי","gloss":"کێڵگە"}],"timestamp":"2026-09-24T13:49:40.108411035Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "مەڕ و گا، هەموویان، و هەروەها ماڵاتی کێڵگە.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "و گا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "هەموویان"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ماڵاتی"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کێڵگە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:40.108411035Z",
+  "model": "glm-5.3"
+}

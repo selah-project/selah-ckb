@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":4,"ref":"jeremiah 23:4","book":"jeremiah","lang":"ckb","chapter":23,"translation":"و بۆیان شوانان ڕادەهێنم و دەیانڵێن، و دووبارە ناترسن و ناشکێن و ناپەیدان، وتاری یاهوە.","tokens":[{"surface":"והקמתי","gloss":"و ڕادەهێنم"},{"surface":"עליהם","gloss":"بۆیان"},{"surface":"רעים","gloss":"شوانان"},{"surface":"ורעום","gloss":"و دەیانڵێن"},{"surface":"ולא","gloss":"و نا"},{"surface":"ייראו","gloss":"ناترسن"},{"surface":"עוד","gloss":"دووبارە"},{"surface":"ולא","gloss":"و نا"},{"surface":"יחתו","gloss":"ناشکێن"},{"surface":"ולא","gloss":"و نا"},{"surface":"יפקדו","gloss":"ناپەیدان"},{"surface":"נאם","gloss":"وتاری"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T12:47:35.487705184Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 23:4",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و بۆیان شوانان ڕادەهێنم و دەیانڵێن، و دووبارە ناترسن و ناشکێن و ناپەیدان، وتاری یاهوە.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "و ڕادەهێنم"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "شوانان"
+    },
+    {
+      "surface": "ורעום",
+      "gloss": "و دەیانڵێن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ناترسن"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دووبارە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "ناشکێن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "ناپەیدان"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتاری"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:47:35.487705184Z",
+  "model": "glm-5.3"
+}

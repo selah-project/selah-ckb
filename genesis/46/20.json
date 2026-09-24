@@ -1,1 +1,83 @@
-{"tier":"glm-5.2","verse":20,"ref":"genesis 46:20","book":"genesis","lang":"ckb","chapter":46,"translation":"و بۆ یوسێف لە زەوی میتسرایمدا ⟨מەنەششێه و ئێفرایم⟩ لەدایک بوون، کە ئاسنات کچی پۆتی فێرا کاهینی ئۆن بۆی بووینیەوە: ⟨את⟩ مەنەششێه و ⟨את⟩ ئێفرایم.","tokens":[{"surface":"ויולד","gloss":"و لەدایک بوون"},{"surface":"ליוסף","gloss":"بۆ یوسێف"},{"surface":"בארץ","gloss":"لە زەوی"},{"surface":"מצרים","gloss":"میتسرایم"},{"surface":"אשר","gloss":"کە"},{"surface":"ילדה","gloss":"بووینیەوە"},{"surface":"לו","gloss":"بۆی"},{"surface":"אסנת","gloss":"ئاسنات"},{"surface":"בת","gloss":"کچی"},{"surface":"פוטי","gloss":"پۆتی"},{"surface":"פרע","gloss":"فێرا"},{"surface":"כהן","gloss":"کاهینی"},{"surface":"אן","gloss":"ئۆن"},{"surface":"את","gloss":"⟨את⟩","marks":"مەنەششێه"},{"surface":"מנשה","gloss":"مەنەششێه"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"ئێفرایم"},{"surface":"אפרים","gloss":"ئێفرایم"}],"timestamp":"2026-09-24T09:33:20.929946120Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "و بۆ یوسێف لە زەوی میتسرایمدا ⟨מەنەششێه و ئێفرایم⟩ لەدایک بوون، کە ئاسنات کچی پۆتی فێرا کاهینی ئۆن بۆی بووینیەوە: ⟨את⟩ مەنەششێه و ⟨את⟩ ئێفرایم.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "و لەدایک بوون"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "بۆ یوسێف"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بووینیەوە"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "ئاسنات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "پۆتی"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "فێرا"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهینی"
+    },
+    {
+      "surface": "אן",
+      "gloss": "ئۆن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەنەششێه"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مەنەششێه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئێفرایم"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:33:20.929946120Z",
+  "model": "glm-5.3"
+}

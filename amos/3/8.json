@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":8,"ref":"amos 3:8","book":"amos","lang":"ckb","chapter":3,"translation":"شێر زەڕەی کردووە، کێ نا دەترسێت؟ ئادۆنای یاهوە فەرموویەتی، کێ نا پێغەمبەرایەتی دەکات؟","tokens":[{"surface":"אריה","gloss":"شێر"},{"surface":"שאג","gloss":"زەڕەی کردووە"},{"surface":"מי","gloss":"کێ"},{"surface":"לא","gloss":"نا"},{"surface":"יירא","gloss":"دەترسێت"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"דבר","gloss":"فەرموویەتی"},{"surface":"מי","gloss":"کێ"},{"surface":"לא","gloss":"نا"},{"surface":"ינבא","gloss":"پێغەمبەرایەتی دەکات"}],"timestamp":"2026-09-24T13:33:25.840610707Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "شێر زەڕەی کردووە، کێ نا دەترسێت؟ ئادۆنای یاهوە فەرموویەتی، کێ نا پێغەمبەرایەتی دەکات؟",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "شێر"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "زەڕەی کردووە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "دەترسێت"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموویەتی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "پێغەمبەرایەتی دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T13:33:25.840610707Z",
+  "model": "glm-5.3"
+}

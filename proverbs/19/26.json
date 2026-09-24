@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":26,"ref":"proverbs 19:26","book":"proverbs","lang":"ckb","chapter":19,"translation":"ئەوەی باوکی دەڕووخێنێت و دایکی دەڕەوێنێت، کوڕێکە شەرم و سووکایەتی دەهێنێت.","tokens":[{"surface":"משדד","gloss":"دەڕووخێنێت"},{"surface":"אב","gloss":"باوک"},{"surface":"יבריח","gloss":"دەڕەوێنێت"},{"surface":"אם","gloss":"دایک"},{"surface":"בן","gloss":"کوڕ"},{"surface":"מביש","gloss":"شەرم دەهێنێت"},{"surface":"ומחפיר","gloss":"و سووکایەتی دەهێنێت"}],"timestamp":"2026-09-24T14:28:54.794798485Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "ئەوەی باوکی دەڕووخێنێت و دایکی دەڕەوێنێت، کوڕێکە شەرم و سووکایەتی دەهێنێت.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "دەڕووخێنێت"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باوک"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "دەڕەوێنێت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "دایک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "شەرم دەهێنێت"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "و سووکایەتی دەهێنێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:54.794798485Z",
+  "model": "glm-5.3"
+}

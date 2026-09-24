@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":20,"ref":"2-chronicles 36:20","book":"2-chronicles","lang":"ckb","chapter":36,"translation":"و ئاوارەکرد ماوەکە لە شمشێرەوە بۆ باڤێل ⟨بابڵ⟩ و بوون بۆ ئەو و بۆ کوڕەکانی بۆ خزمەتکاران تا فەرمانڕەوایی شانشینی پەراس.","tokens":[{"surface":"ויגל","gloss":"و ئاوارەکرد"},{"surface":"השארית","gloss":"ماوەکە"},{"surface":"מן","gloss":"لە"},{"surface":"החרב","gloss":"شمشێرەکە"},{"surface":"אל","gloss":"بۆ"},{"surface":"בבל","gloss":"باڤێل ⟨بابڵ⟩"},{"surface":"ויהיו","gloss":"و بوون"},{"surface":"לו","gloss":"بۆ ئەو"},{"surface":"ולבניו","gloss":"و بۆ کوڕەکانی"},{"surface":"לעבדים","gloss":"بۆ خزمەتکاران"},{"surface":"עד","gloss":"تا"},{"surface":"מלך","gloss":"فەرمانڕەوایی"},{"surface":"מלכות","gloss":"شانشینی"},{"surface":"פרס","gloss":"پەراس"}],"timestamp":"2026-09-24T16:08:43.780850135Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 36:20",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و ئاوارەکرد ماوەکە لە شمشێرەوە بۆ باڤێل ⟨بابڵ⟩ و بوون بۆ ئەو و بۆ کوڕەکانی بۆ خزمەتکاران تا فەرمانڕەوایی شانشینی پەراس.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "و ئاوارەکرد"
+    },
+    {
+      "surface": "השארית",
+      "gloss": "ماوەکە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "شمشێرەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "باڤێل ⟨بابڵ⟩"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "و بۆ کوڕەکانی"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "بۆ خزمەتکاران"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "فەرمانڕەوایی"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "شانشینی"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "پەراس"
+    }
+  ],
+  "timestamp": "2026-09-24T16:08:43.780850135Z",
+  "model": "glm-5.3"
+}

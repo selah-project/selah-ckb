@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":23,"ref":"proverbs 19:23","book":"proverbs","lang":"ckb","chapter":19,"translation":"شۆڕی یاهوە بۆ ژیانە، و تێربوو دادەمەزرێت، بە گشتی ناچاوی بە خراپەدا ناکات.","tokens":[{"surface":"יראת","gloss":"شۆڕی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"לחיים","gloss":"بۆ ژیان"},{"surface":"ושבע","gloss":"و تێربوو"},{"surface":"ילין","gloss":"دادەمەزرێت"},{"surface":"בל","gloss":"بە گشتی"},{"surface":"יפקד","gloss":"ناچاوی بکات"},{"surface":"רע","gloss":"خراپە"}],"timestamp":"2026-09-24T14:28:10.736414778Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "شۆڕی یاهوە بۆ ژیانە، و تێربوو دادەمەزرێت، بە گشتی ناچاوی بە خراپەدا ناکات.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "شۆڕی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "بۆ ژیان"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و تێربوو"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "دادەمەزرێت"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بە گشتی"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ناچاوی بکات"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:10.736414778Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 29:7","book":"psalms","lang":"ckb","chapter":29,"translation":"دەنگی یاهوە شەوڵەکانی ئاگر دەبڕێت.","tokens":[{"surface":"קול","gloss":"دەنگی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"חצב","gloss":"دەبڕێت"},{"surface":"להבות","gloss":"شەوڵەکانی"},{"surface":"אש","gloss":"ئاگر"}],"timestamp":"2026-09-24T13:53:05.955393463Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "دەنگی یاهوە شەوڵەکانی ئاگر دەبڕێت.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "دەبڕێت"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "شەوڵەکانی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:05.955393463Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":19,"ref":"psalms 9:19","book":"psalms","lang":"ckb","chapter":9,"translation":"چونکە نە بۆ هەمیشە بێسەرووبەر لەبیر دەکرێت، هیوای نزمەکان بۆ هەتاهەتایە ناکۆڵێت.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نە"},{"surface":"לנצח","gloss":"بۆ هەمیشە"},{"surface":"ישכח","gloss":"لەبیر دەکرێت"},{"surface":"אביון","gloss":"بێسەرووبەر"},{"surface":"תקות","gloss":"هیوا"},{"surface":"ענוים","gloss":"نزمەکان"},{"surface":"תאבד","gloss":"ناکۆڵێت"},{"surface":"לעד","gloss":"بۆ هەتاهەتایە"}],"timestamp":"2026-09-24T13:50:12.734546732Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "چونکە نە بۆ هەمیشە بێسەرووبەر لەبیر دەکرێت، هیوای نزمەکان بۆ هەتاهەتایە ناکۆڵێت.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "لەبیر دەکرێت"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "بێسەرووبەر"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "هیوا"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "نزمەکان"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ناکۆڵێت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "بۆ هەتاهەتایە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:50:12.734546732Z",
+  "model": "glm-5.3"
+}

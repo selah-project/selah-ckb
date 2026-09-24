@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":6,"ref":"ezekiel 3:6","book":"ezekiel","lang":"ckb","chapter":3,"translation":"نا بۆ گەلانی زۆر، قووڵی لێو و قورسی زمان، کە تۆ وشەکانیان نابیستێنیت؛ ئەگەر ⟨نا⟩ من تۆم نەاردبا بۆیان، ئەوان ئەوان گوێ دەگرن لە تۆ","tokens":[{"surface":"לא","gloss":"نا"},{"surface":"אל","gloss":"بۆ"},{"surface":"עמים","gloss":"گەلانی"},{"surface":"רבים","gloss":"زۆر"},{"surface":"עמקי","gloss":"قووڵی"},{"surface":"שפה","gloss":"لێو"},{"surface":"וכבדי","gloss":"و قورسی"},{"surface":"לשון","gloss":"زمان"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نا"},{"surface":"תשמע","gloss":"نابیستێنیت"},{"surface":"דבריהם","gloss":"وشەکانیان"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"לא","gloss":"⟨نا⟩"},{"surface":"אליהם","gloss":"بۆیان"},{"surface":"שלחתיך","gloss":"من تۆم نەاردبا"},{"surface":"המה","gloss":"ئەوان"},{"surface":"ישמעו","gloss":"گوێ دەگرن"},{"surface":"אליך","gloss":"لە تۆ"}],"timestamp":"2026-09-24T13:06:13.026439046Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 3:6",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "نا بۆ گەلانی زۆر، قووڵی لێو و قورسی زمان، کە تۆ وشەکانیان نابیستێنیت؛ ئەگەر ⟨نا⟩ من تۆم نەاردبا بۆیان، ئەوان ئەوان گوێ دەگرن لە تۆ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "گەلانی"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "قووڵی"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لێو"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "و قورسی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "نابیستێنیت"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "وشەکانیان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨نا⟩"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "من تۆم نەاردبا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "گوێ دەگرن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "لە تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:06:13.026439046Z",
+  "model": "glm-5.3"
+}

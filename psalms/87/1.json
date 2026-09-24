@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 87:1","book":"psalms","lang":"ckb","chapter":87,"translation":"کوڕانی کۆرەح ⟨لە⟩؛ مەزموورێک، سروودێک. بناغەیەکەی له چیاکانی پیرۆزدا بوو.","tokens":[{"surface":"לבני","gloss":"کوڕانی"},{"surface":"קרח","gloss":"کۆرەح"},{"surface":"מזמור","gloss":"مەزموور"},{"surface":"שיר","gloss":"سروود"},{"surface":"יסודתו","gloss":"بناغەیەکەی"},{"surface":"בהררי","gloss":"له چیاکانی"},{"surface":"קדש","gloss":"پیرۆز"}],"timestamp":"2026-09-24T14:07:42.384650919Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 87,
+  "translation": "کوڕانی کۆرەح ⟨لە⟩؛ مەزموورێک، سروودێک. بناغەیەکەی له چیاکانی پیرۆزدا بوو.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "کۆرەح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مەزموور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سروود"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "بناغەیەکەی"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "له چیاکانی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:42.384650919Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,90 @@
-{"tier":"glm-5.2","verse":14,"ref":"deuteronomy 22:14","book":"deuteronomy","lang":"ckb","chapter":22,"translation":"و تۆمەتی وشەیانی بۆ دادەنێت و ناوێکی خراپ لەسەر دەردەخات و دەڵێت ئەم ژنەم گرتووە ⟨את⟩ و چوومە نزیکی ئەو و پاکێتی بۆ ئەو نەدۆزیومە،","tokens":[{"surface":"ושם","gloss":"و دادەنێت"},{"surface":"לה","gloss":"بۆ ئەو"},{"surface":"עלילת","gloss":"تۆمەتی"},{"surface":"דברים","gloss":"وشەیان"},{"surface":"והוציא","gloss":"و دەردەخات"},{"surface":"עליה","gloss":"لەسەر ئەو"},{"surface":"שם","gloss":"ناو"},{"surface":"רע","gloss":"خراپ"},{"surface":"ואמר","gloss":"و دەڵێت"},{"surface":"את","gloss":"⟨את⟩","marks":"ژنەکە ئەمە"},{"surface":"האשה","gloss":"ژن"},{"surface":"הזאת","gloss":"ئەمە"},{"surface":"לקחתי","gloss":"گرتم"},{"surface":"ואקרב","gloss":"و چوومە نزیکی"},{"surface":"אליה","gloss":"ئەو"},{"surface":"ולא","gloss":"و نە"},{"surface":"מצאתי","gloss":"دۆزیومە"},{"surface":"לה","gloss":"بۆ ئەو"},{"surface":"בתולים","gloss":"پاکێتی"}],"timestamp":"2026-09-24T10:45:25.458553121Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 22:14",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و تۆمەتی وشەیانی بۆ دادەنێت و ناوێکی خراپ لەسەر دەردەخات و دەڵێت ئەم ژنەم گرتووە ⟨את⟩ و چوومە نزیکی ئەو و پاکێتی بۆ ئەو نەدۆزیومە،",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "و دادەنێت"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "עלילת",
+      "gloss": "تۆمەتی"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "وشەیان"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "و دەردەخات"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەر ئەو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خراپ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ژنەکە ئەمە"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "گرتم"
+    },
+    {
+      "surface": "ואקרב",
+      "gloss": "و چوومە نزیکی"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "دۆزیومە"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "پاکێتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:25.458553121Z",
+  "model": "glm-5.3"
+}

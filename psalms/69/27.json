@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":27,"ref":"psalms 69:27","book":"psalms","lang":"ckb","chapter":69,"translation":"چونکە تۆ کە تۆ لێیداوە ڕاویان دەکات، و دەربارەی ئازاری بریندارەکانت دەژمێرن قسە.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"אתה","gloss":"تۆ"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"הכית","gloss":"لێیداوە"},{"surface":"רדפו","gloss":"ڕاویان دەکات"},{"surface":"ואל","gloss":"و دەربارەی"},{"surface":"מכאוב","gloss":"ئازار"},{"surface":"חלליך","gloss":"بریندارەکانت"},{"surface":"יספרו","gloss":"دەژمێرن قسە"}],"timestamp":"2026-09-24T14:02:46.280228869Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 69,
+  "translation": "چونکە تۆ کە تۆ لێیداوە ڕاویان دەکات، و دەربارەی ئازاری بریندارەکانت دەژمێرن قسە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "لێیداوە"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ڕاویان دەکات"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و دەربارەی"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ئازار"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "بریندارەکانت"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "دەژمێرن قسە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:46.280228869Z",
+  "model": "glm-5.3"
+}

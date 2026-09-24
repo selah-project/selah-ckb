@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":20,"ref":"ezekiel 23:20","book":"ezekiel","lang":"ckb","chapter":23,"translation":"و حەزی لە کۆییەکانیان کرد کە گۆشتیان وەک گۆشتی گوێدرێژە و تۆوی ئەسپەکانیان وەک تۆوی ئەوان","tokens":[{"surface":"ותעגבה","gloss":"حەزی کرد"},{"surface":"על","gloss":"لە"},{"surface":"פלגשיהם","gloss":"کۆییەکانیان"},{"surface":"אשר","gloss":"کە"},{"surface":"בשר","gloss":"گۆشتی"},{"surface":"חמורים","gloss":"گوێدرێژ"},{"surface":"בשרם","gloss":"گۆشتیان"},{"surface":"וזרמת","gloss":"تۆوی"},{"surface":"סוסים","gloss":"ئەسپەکان"},{"surface":"זרמתם","gloss":"تۆویان"}],"timestamp":"2026-09-24T13:15:20.602740299Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 23:20",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و حەزی لە کۆییەکانیان کرد کە گۆشتیان وەک گۆشتی گوێدرێژە و تۆوی ئەسپەکانیان وەک تۆوی ئەوان",
+  "tokens": [
+    {
+      "surface": "ותעגבה",
+      "gloss": "حەزی کرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "פלגשיהם",
+      "gloss": "کۆییەکانیان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گۆشتی"
+    },
+    {
+      "surface": "חמורים",
+      "gloss": "گوێدرێژ"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "گۆشتیان"
+    },
+    {
+      "surface": "וזרמת",
+      "gloss": "تۆوی"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ئەسپەکان"
+    },
+    {
+      "surface": "זרמתם",
+      "gloss": "تۆویان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:15:20.602740299Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 19:4","book":"psalms","lang":"ckb","chapter":19,"translation":"قسەیەک نییە و وشەکانیش نیین، بەبێ ئەوەی دەنگیان ببیسترێت.","tokens":[{"surface":"אין","gloss":"نییە"},{"surface":"אמר","gloss":"قسەیەک"},{"surface":"ואין","gloss":"و نیین"},{"surface":"דברים","gloss":"وشەکانیش"},{"surface":"בלי","gloss":"بەبێ ئەوەی"},{"surface":"נשמע","gloss":"ببیسترێت"},{"surface":"קולם","gloss":"دەنگیان"}],"timestamp":"2026-09-24T13:51:50.015944929Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "قسەیەک نییە و وشەکانیش نیین، بەبێ ئەوەی دەنگیان ببیسترێت.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "قسەیەک"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نیین"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "وشەکانیش"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بەبێ ئەوەی"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ببیسترێت"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "دەنگیان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:50.015944929Z",
+  "model": "glm-5.3"
+}

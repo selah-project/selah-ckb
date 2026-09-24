@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":16,"ref":"psalms 105:16","book":"psalms","lang":"ckb","chapter":105,"translation":"و برسیێتی بانگ کردە سەر زەویەکە، هەموو عاسای نانی شکاند.","tokens":[{"surface":"ויקרא","gloss":"و بانگ کرد"},{"surface":"רעב","gloss":"برسیێتی"},{"surface":"על","gloss":"سەر"},{"surface":"הארץ","gloss":"زەویەکە"},{"surface":"כל","gloss":"هەموو"},{"surface":"מטה","gloss":"عاسای"},{"surface":"לחם","gloss":"نان"},{"surface":"שבר","gloss":"شکاند"}],"timestamp":"2026-09-24T14:11:57.926920116Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 105,
+  "translation": "و برسیێتی بانگ کردە سەر زەویەکە، هەموو عاسای نانی شکاند.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و بانگ کرد"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "برسیێتی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عاسای"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شکاند"
+    }
+  ],
+  "timestamp": "2026-09-24T14:11:57.926920116Z",
+  "model": "glm-5.3"
+}

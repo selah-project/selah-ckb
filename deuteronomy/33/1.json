@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":1,"ref":"deuteronomy 33:1","book":"deuteronomy","lang":"ckb","chapter":33,"translation":"و ئەمە بەرەکەتەکەیە کە مۆشە ⟨موسا⟩ پیاوی ئێلۆهیم ⟨את⟩ کوڕانی ئیسرائێل پێش مردنی بەرەکەت کرد.","tokens":[{"surface":"וזאת","gloss":"و ئەمە"},{"surface":"הברכה","gloss":"بەرەکەتەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"ברך","gloss":"بەرەکەت کرد"},{"surface":"משה","gloss":"مۆشە"},{"surface":"איש","gloss":"پیاوی"},{"surface":"האלהים","gloss":"ئێلۆهیم"},{"surface":"את","gloss":"⟨את⟩","marks":"کوڕانی ئیسرائێل"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائێل"},{"surface":"לפני","gloss":"پێش"},{"surface":"מותו","gloss":"مردنی"}],"timestamp":"2026-09-24T10:49:46.319356988Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و ئەمە بەرەکەتەکەیە کە مۆشە ⟨موسا⟩ پیاوی ئێلۆهیم ⟨את⟩ کوڕانی ئیسرائێل پێش مردنی بەرەکەت کرد.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "بەرەکەتەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "بەرەکەت کرد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕانی ئیسرائێل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائێل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پێش"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "مردنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:46.319356988Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":7,"ref":"genesis 11:7","book":"genesis","lang":"ckb","chapter":11,"translation":"وەرن دایبەزین و لەوێ زمانیان تێک بدەین کە پیاوێک زمانی هاوڕێکەی نەبیستێت.","tokens":[{"surface":"הבה","gloss":"وەرن"},{"surface":"נרדה","gloss":"دایبەزین"},{"surface":"ונבלה","gloss":"و تێک بدەین"},{"surface":"שם","gloss":"لەوێ"},{"surface":"שפתם","gloss":"زمانیان"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"ישמעו","gloss":"بیستێت"},{"surface":"איש","gloss":"پیاوێک"},{"surface":"שפת","gloss":"زمانی"},{"surface":"רעהו","gloss":"هاوڕێکەی"}],"timestamp":"2026-09-24T09:14:57.997756137Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "وەرن دایبەزین و لەوێ زمانیان تێک بدەین کە پیاوێک زمانی هاوڕێکەی نەبیستێت.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "وەرن"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "دایبەزین"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "و تێک بدەین"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "زمانیان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "بیستێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "هاوڕێکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:57.997756137Z",
+  "model": "glm-5.3"
+}

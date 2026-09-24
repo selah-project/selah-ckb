@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":15,"ref":"ezekiel 43:15","book":"ezekiel","lang":"ckb","chapter":43,"translation":"و هەرئێل چوار ئەمەه، و لە ئەریئێل و بۆ سەرەوە قۆچەکان چوارن.","tokens":[{"surface":"וההראל","gloss":"و هەرئێل"},{"surface":"ארבע","gloss":"چوار"},{"surface":"אמות","gloss":"ئەمەه"},{"surface":"ומהאראיל","gloss":"و لە ئەریئێل"},{"surface":"ולמעלה","gloss":"و بۆ سەرەوە"},{"surface":"הקרנות","gloss":"قۆچەکان"},{"surface":"ארבע","gloss":"چوارن"}],"timestamp":"2026-09-24T17:23:00.670108474Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "و هەرئێل چوار ئەمەه، و لە ئەریئێل و بۆ سەرەوە قۆچەکان چوارن.",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "و هەرئێل"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ئەمەه"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "و لە ئەریئێل"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "و بۆ سەرەوە"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "قۆچەکان"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوارن"
+    }
+  ],
+  "timestamp": "2026-09-24T17:23:00.670108474Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":3,"ref":"isaiah 11:3","book":"isaiah","lang":"ckb","chapter":11,"translation":"و بە ترسی یاهوە ⟨دڵخۆش⟩ دەبێت و بە دیاری چاوەکانی داد ناکات و بە بیستنی گوێەکانی بڕیار نادا","tokens":[{"surface":"והריחו","gloss":"و دڵخۆش دەبێت"},{"surface":"ביראת","gloss":"بە ترسی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ולא","gloss":"و نا"},{"surface":"למראה","gloss":"بە دیاری"},{"surface":"עיניו","gloss":"چاوەکانی"},{"surface":"ישפוט","gloss":"داد ناکات"},{"surface":"ולא","gloss":"و نا"},{"surface":"למשמע","gloss":"بە بیستنی"},{"surface":"אזניו","gloss":"گوێەکانی"},{"surface":"יוכיח","gloss":"بڕیار نادا"}],"timestamp":"2026-09-24T12:17:35.471055548Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و بە ترسی یاهوە ⟨دڵخۆش⟩ دەبێت و بە دیاری چاوەکانی داد ناکات و بە بیستنی گوێەکانی بڕیار نادا",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "و دڵخۆش دەبێت"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "بە ترسی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "بە دیاری"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "چاوەکانی"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "داد ناکات"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "بە بیستنی"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "گوێەکانی"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "بڕیار نادا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:17:35.471055548Z",
+  "model": "glm-5.3"
+}

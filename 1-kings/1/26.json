@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":26,"ref":"1-kings 1:26","book":"1-kings","lang":"ckb","chapter":1,"translation":"و من — من بەندەی تۆم — و سادۆقی کاهین و بێنایاهوی کوڕی یێهۆیاداع و شلۆمۆی بەندەی تۆ بانگی نەکردووە.","tokens":[{"surface":"ולי","gloss":"و بۆ من"},{"surface":"אני","gloss":"من"},{"surface":"עבדך","gloss":"بەندەی تۆ"},{"surface":"ולצדק","gloss":"و سادۆقی"},{"surface":"הכהן","gloss":"کاهین"},{"surface":"ולבניהו","gloss":"و بێنایاهوی"},{"surface":"בן","gloss":"کوڕی"},{"surface":"יהוידע","gloss":"یێهۆیاداع"},{"surface":"ולשלמה","gloss":"و شلۆمۆی"},{"surface":"עבדך","gloss":"بەندەی تۆ"},{"surface":"לא","gloss":"نە"},{"surface":"קרא","gloss":"بانگی کردووە"}],"timestamp":"2026-09-24T15:57:16.230062653Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 1:26",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و من — من بەندەی تۆم — و سادۆقی کاهین و بێنایاهوی کوڕی یێهۆیاداع و شلۆمۆی بەندەی تۆ بانگی نەکردووە.",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "و بۆ من"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بەندەی تۆ"
+    },
+    {
+      "surface": "ולצדק",
+      "gloss": "و سادۆقی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "ולבניהו",
+      "gloss": "و بێنایاهوی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یێهۆیاداع"
+    },
+    {
+      "surface": "ולשלמה",
+      "gloss": "و شلۆمۆی"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "بەندەی تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "بانگی کردووە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:57:16.230062653Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":10,"ref":"proverbs 14:10","book":"proverbs","lang":"ckb","chapter":14,"translation":"دڵ تەنگیی گیانی خۆی دەزانێت، و لە شادییەکەیدا بیانی بەشداری ناکات.","tokens":[{"surface":"לב","gloss":"دڵ"},{"surface":"יודע","gloss":"دەزانێت"},{"surface":"מרת","gloss":"تەنگی"},{"surface":"נפשו","gloss":"گیانی خۆی"},{"surface":"ובשמחתו","gloss":"و لە شادییەکەیدا"},{"surface":"לא","gloss":"نا"},{"surface":"יתערב","gloss":"بەشداری دەکات"},{"surface":"זר","gloss":"بیانی"}],"timestamp":"2026-09-24T14:25:43.891666950Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "دڵ تەنگیی گیانی خۆی دەزانێت، و لە شادییەکەیدا بیانی بەشداری ناکات.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "تەنگی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی خۆی"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "و لە شادییەکەیدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "بەشداری دەکات"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیانی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:43.891666950Z",
+  "model": "glm-5.3"
+}

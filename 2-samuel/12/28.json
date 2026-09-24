@@ -1,1 +1,83 @@
-{"tier":"glm-5.2","verse":28,"ref":"2-samuel 12:28","book":"2-samuel","lang":"ckb","chapter":12,"translation":"و ئێستا کۆبکەرەوە ⟨את⟩ ماوەی گەلەکە و ڕابکە لەسەر شارەکە و بیگرە، ئەگینا من ⟨את⟩ شارەکە دەگرم و ناوی من لەسەری دادەنرێت.","tokens":[{"surface":"ועתה","gloss":"و ئێستا"},{"surface":"אסף","gloss":"کۆبکەرەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"ماوەی گەلەکە"},{"surface":"יתר","gloss":"ماوە"},{"surface":"העם","gloss":"گەلەکە"},{"surface":"וחנה","gloss":"و ڕابکە"},{"surface":"על","gloss":"لەسەر"},{"surface":"העיר","gloss":"شارەکە"},{"surface":"ולכדה","gloss":"و بیگرە"},{"surface":"פן","gloss":"ئەگینا"},{"surface":"אלכד","gloss":"دەگرم"},{"surface":"אני","gloss":"من"},{"surface":"את","gloss":"⟨את⟩","marks":"شارەکە"},{"surface":"העיר","gloss":"شارەکە"},{"surface":"ונקרא","gloss":"و دادەنرێت"},{"surface":"שמי","gloss":"ناوی من"},{"surface":"עליה","gloss":"لەسەری"}],"timestamp":"2026-09-24T16:35:34.687783228Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و ئێستا کۆبکەرەوە ⟨את⟩ ماوەی گەلەکە و ڕابکە لەسەر شارەکە و بیگرە، ئەگینا من ⟨את⟩ شارەکە دەگرم و ناوی من لەسەری دادەنرێت.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "کۆبکەرەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماوەی گەلەکە"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ماوە"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "و ڕابکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "و بیگرە"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ئەگینا"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "دەگرم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شارەکە"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "و دادەنرێت"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ناوی من"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    }
+  ],
+  "timestamp": "2026-09-24T16:35:34.687783228Z",
+  "model": "glm-5.3"
+}

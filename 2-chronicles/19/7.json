@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":7,"ref":"2-chronicles 19:7","book":"2-chronicles","lang":"ckb","chapter":19,"translation":"و ئێستا دەبێت ترسی یاهوە لەسەر ئێوە بێت، بپارێزن و بکەن، چونکە لەگەڵ یاهوە ئێلۆهیمەکەماندا ستەم و ڕووبردن و وەرگرتنی بەخشش نییە.","tokens":[{"surface":"ועתה","gloss":"و ئێستا"},{"surface":"יהי","gloss":"دەبێت"},{"surface":"פחד","gloss":"ترس"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"עליכם","gloss":"لەسەر ئێوە"},{"surface":"שמרו","gloss":"بپارێزن"},{"surface":"ועשו","gloss":"و بکەن"},{"surface":"כי","gloss":"چونکە"},{"surface":"אין","gloss":"نییە"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהינו","gloss":"ئێلۆهیمەکەمان"},{"surface":"עולה","gloss":"ستەم"},{"surface":"ומשא","gloss":"و ڕووبردن"},{"surface":"פנים","gloss":"ڕوو"},{"surface":"ומקח","gloss":"و وەرگرتن"},{"surface":"שחד","gloss":"بەخششی بەرتیل"}],"timestamp":"2026-09-24T16:08:32.773838345Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 19:7",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئێستا دەبێت ترسی یاهوە لەسەر ئێوە بێت، بپارێزن و بکەن، چونکە لەگەڵ یاهوە ئێلۆهیمەکەماندا ستەم و ڕووبردن و وەرگرتنی بەخشش نییە.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ترس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "لەسەر ئێوە"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "بپارێزن"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "و بکەن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ئێلۆهیمەکەمان"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ستەم"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "و ڕووبردن"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوو"
+    },
+    {
+      "surface": "ומקח",
+      "gloss": "و وەرگرتن"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "بەخششی بەرتیل"
+    }
+  ],
+  "timestamp": "2026-09-24T16:08:32.773838345Z",
+  "model": "glm-5.3"
+}

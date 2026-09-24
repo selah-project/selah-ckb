@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":20,"ref":"psalms 119:20","book":"psalms","lang":"ckb","chapter":119,"translation":"گیانم پارە پارە بووە بە تامەزرۆیی بۆ حوکمەکانت لە هەموو کاتێکدا.","tokens":[{"surface":"גרסה","gloss":"پارە پارە بووە"},{"surface":"נפשי","gloss":"گیانم"},{"surface":"לתאבה","gloss":"بە تامەزرۆیی"},{"surface":"אל","gloss":"بۆ"},{"surface":"משפטיך","gloss":"حوکمەکانت"},{"surface":"בכל","gloss":"لە هەموو"},{"surface":"עת","gloss":"کاتێکدا"}],"timestamp":"2026-09-24T14:15:38.556773785Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "گیانم پارە پارە بووە بە تامەزرۆیی بۆ حوکمەکانت لە هەموو کاتێکدا.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "پارە پارە بووە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "بە تامەزرۆیی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "حوکمەکانت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتێکدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:15:38.556773785Z",
+  "model": "glm-5.3"
+}

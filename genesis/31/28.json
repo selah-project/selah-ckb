@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":28,"ref":"genesis 31:28","book":"genesis","lang":"ckb","chapter":31,"translation":"و ڕێم نەدا بۆ ماچکردنی کوڕەکانم و کچەکانم؟ ئێستا نافامیت لەو کارەدا.","tokens":[{"surface":"ולא","gloss":"و نا"},{"surface":"נטשתני","gloss":"ڕێم نەدا"},{"surface":"לנשק","gloss":"بۆ ماچکردن"},{"surface":"לבני","gloss":"بۆ کوڕەکانم"},{"surface":"ולבנתי","gloss":"و بۆ کچەکانم"},{"surface":"עתה","gloss":"ئێستا"},{"surface":"הסכלת","gloss":"نافامیت"},{"surface":"עשו","gloss":"کردنت"}],"timestamp":"2026-09-24T09:25:24.159292597Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 31:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و ڕێم نەدا بۆ ماچکردنی کوڕەکانم و کچەکانم؟ ئێستا نافامیت لەو کارەدا.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "נטשתני",
+      "gloss": "ڕێم نەدا"
+    },
+    {
+      "surface": "לנשק",
+      "gloss": "بۆ ماچکردن"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕەکانم"
+    },
+    {
+      "surface": "ולבנתי",
+      "gloss": "و بۆ کچەکانم"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "הסכלת",
+      "gloss": "نافامیت"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کردنت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:24.159292597Z",
+  "model": "glm-5.3"
+}

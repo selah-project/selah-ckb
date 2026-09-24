@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":6,"ref":"song-of-songs 3:6","book":"song-of-songs","lang":"ckb","chapter":3,"translation":"کێیە ئەوەی کە لە بیابانەوە سەردەکەوێت، وەک ستوونەکانی دووکەڵ، بە موری و لوبان بۆخۆشکراو، لە هەموو پارچەی بازرگان؟","tokens":[{"surface":"מי","gloss":"کێیە"},{"surface":"זאת","gloss":"ئەوەی کە"},{"surface":"עלה","gloss":"سەردەکەوێت"},{"surface":"מן","gloss":"لە"},{"surface":"המדבר","gloss":"بیابانەوە"},{"surface":"כתימרות","gloss":"وەک ستوونەکانی"},{"surface":"עשן","gloss":"دووکەڵ"},{"surface":"מקטרת","gloss":"بۆخۆشکراو"},{"surface":"מור","gloss":"بە موری"},{"surface":"ולבונה","gloss":"و لوبان"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"אבקת","gloss":"پارچەی"},{"surface":"רוכל","gloss":"بازرگان"}],"timestamp":"2026-09-24T14:49:03.427446726Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "کێیە ئەوەی کە لە بیابانەوە سەردەکەوێت، وەک ستوونەکانی دووکەڵ، بە موری و لوبان بۆخۆشکراو، لە هەموو پارچەی بازرگان؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێیە"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سەردەکەوێت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابانەوە"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "وەک ستوونەکانی"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "دووکەڵ"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "بۆخۆشکراو"
+    },
+    {
+      "surface": "מור",
+      "gloss": "بە موری"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "و لوبان"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "پارچەی"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "بازرگان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:49:03.427446726Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,67 @@
-{"tier":"glm-5.2","verse":17,"ref":"leviticus 19:17","book":"leviticus","lang":"ckb","chapter":19,"translation":"برادەرت لە دڵی خۆتدا ڕقا لێ مەبە، ⟨את⟩ برادەرت بە دڵتەوە مەبە، هۆخیاخ تۆکیاخ ⟨את⟩ هاوڕێیەکەت بکە، و لەسەری گوناه مەهێڵە.","tokens":[{"surface":"לא","gloss":"نەخێر"},{"surface":"תשנא","gloss":"ڕقا لێ مەبە"},{"surface":"את","gloss":"⟨את⟩","marks":"برادەرت"},{"surface":"אחיך","gloss":"برادەرت"},{"surface":"בלבבך","gloss":"لە دڵی خۆتدا"},{"surface":"הוכח","gloss":"هۆخیاخ"},{"surface":"תוכיח","gloss":"تۆکیاخ"},{"surface":"את","gloss":"⟨את⟩","marks":"هاوڕێیەکەت"},{"surface":"עמיתך","gloss":"هاوڕێیەکەت"},{"surface":"ולא","gloss":"و نەخێر"},{"surface":"תשא","gloss":"مەهێڵە"},{"surface":"עליו","gloss":"لەسەری"},{"surface":"חטא","gloss":"گوناه"}],"timestamp":"2026-09-24T16:57:39.979248514Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "برادەرت لە دڵی خۆتدا ڕقا لێ مەبە، ⟨את⟩ برادەرت بە دڵتەوە مەبە، هۆخیاخ تۆکیاخ ⟨את⟩ هاوڕێیەکەت بکە، و لەسەری گوناه مەهێڵە.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "ڕقا لێ مەبە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برادەرت"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برادەرت"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "لە دڵی خۆتدا"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "هۆخیاخ"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "تۆکیاخ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هاوڕێیەکەت"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "هاوڕێیەکەت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەخێر"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "مەهێڵە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گوناه"
+    }
+  ],
+  "timestamp": "2026-09-24T16:57:39.979248514Z",
+  "model": "glm-5.3"
+}

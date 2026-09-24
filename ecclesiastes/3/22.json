@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":22,"ref":"ecclesiastes 3:22","book":"ecclesiastes","lang":"ckb","chapter":3,"translation":"و بینیم کە نییە چاک لەوەی کە مرۆڤ لە کردەوەکانی دڵخۆش بێت، چونکە ئەوە بەشەکەیەتی، چونکە کێ دەیهێنێت بۆ بینینی ئەوەی کە دوای ئەو دەبێت؟","tokens":[{"surface":"וראיתי","gloss":"و بینیم"},{"surface":"כי","gloss":"کە"},{"surface":"אין","gloss":"نییە"},{"surface":"טוב","gloss":"چاک"},{"surface":"מאשר","gloss":"لەوەی کە"},{"surface":"ישמח","gloss":"دڵخۆش بێت"},{"surface":"האדם","gloss":"مرۆڤ"},{"surface":"במעשיו","gloss":"لە کردەوەکانی"},{"surface":"כי","gloss":"چونکە"},{"surface":"הוא","gloss":"ئەوە"},{"surface":"חלקו","gloss":"بەشەکەیەتی"},{"surface":"כי","gloss":"چونکە"},{"surface":"מי","gloss":"کێ"},{"surface":"יביאנו","gloss":"دەیهێنێت"},{"surface":"לראות","gloss":"بۆ بینین"},{"surface":"במה","gloss":"لەوەی"},{"surface":"שיהיה","gloss":"دەبێت"},{"surface":"אחריו","gloss":"دوای ئەو"}],"timestamp":"2026-09-24T14:55:25.156428073Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 3:22",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و بینیم کە نییە چاک لەوەی کە مرۆڤ لە کردەوەکانی دڵخۆش بێت، چونکە ئەوە بەشەکەیەتی، چونکە کێ دەیهێنێت بۆ بینینی ئەوەی کە دوای ئەو دەبێت؟",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "و بینیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاک"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "لەوەی کە"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "دڵخۆش بێت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "لە کردەوەکانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "بەشەکەیەتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "دەیهێنێت"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "بۆ بینین"
+    },
+    {
+      "surface": "במה",
+      "gloss": "لەوەی"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "دوای ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:25.156428073Z",
+  "model": "glm-5.3"
+}

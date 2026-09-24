@@ -1,1 +1,83 @@
-{"tier":"glm-5.2","verse":13,"ref":"leviticus 16:13","book":"leviticus","lang":"ckb","chapter":16,"translation":"و ⟨את⟩ کندەرەکەی خستە سەر ئاگرەکە لەپێش یاهوە، و هەوری کندەرەکە ⟨את⟩ کاپۆرەتەکەی داپۆشی کە لەسەر شایەتەکەیە، و نەمرا.","tokens":[{"surface":"ונתן","gloss":"و خستە"},{"surface":"את","gloss":"⟨את⟩","marks":"کندەرەکە"},{"surface":"הקטרת","gloss":"کندەرەکە"},{"surface":"על","gloss":"لەسەر"},{"surface":"האש","gloss":"ئاگرەکە"},{"surface":"לפני","gloss":"لەپێش"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"וכסה","gloss":"و داپۆشی"},{"surface":"ענן","gloss":"هەور"},{"surface":"הקטרת","gloss":"کندەرەکە"},{"surface":"את","gloss":"⟨את⟩","marks":"کاپۆرەتەکە"},{"surface":"הכפרת","gloss":"کاپۆرەتەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"על","gloss":"لەسەر"},{"surface":"העדות","gloss":"شایەتەکە"},{"surface":"ולא","gloss":"و نا"},{"surface":"ימות","gloss":"دەمرێت"}],"timestamp":"2026-09-24T10:06:57.057727040Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و ⟨את⟩ کندەرەکەی خستە سەر ئاگرەکە لەپێش یاهوە، و هەوری کندەرەکە ⟨את⟩ کاپۆرەتەکەی داپۆشی کە لەسەر شایەتەکەیە، و نەمرا.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "و خستە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کندەرەکە"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "کندەرەکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ئاگرەکە"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەپێش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "و داپۆشی"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "هەور"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "کندەرەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاپۆرەتەکە"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کاپۆرەتەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "شایەتەکە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "دەمرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:06:57.057727040Z",
+  "model": "glm-5.3"
+}

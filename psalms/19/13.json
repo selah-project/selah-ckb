@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":13,"ref":"psalms 19:13","book":"psalms","lang":"ckb","chapter":19,"translation":"هەڵەکان کا بێت لە شێواوییەکان پاکم بکەرەوە","tokens":[{"surface":"שגיאות","gloss":"هەڵەکان"},{"surface":"מי","gloss":"کا"},{"surface":"יבין","gloss":"بێت"},{"surface":"מנסתרות","gloss":"لە شێواوییەکان"},{"surface":"נקני","gloss":"پاکم بکەرەوە"}],"timestamp":"2026-09-24T13:51:03.834012427Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "هەڵەکان کا بێت لە شێواوییەکان پاکم بکەرەوە",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "هەڵەکان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کا"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "لە شێواوییەکان"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "پاکم بکەرەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:03.834012427Z",
+  "model": "glm-5.3"
+}

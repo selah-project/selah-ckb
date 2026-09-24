@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":18,"ref":"joshua 19:18","book":"joshua","lang":"ckb","chapter":19,"translation":"و سنوورەکەیان بوو یزرەئێل، و هەکسولوت، و شونێم.","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"גבולם","gloss":"سنوورەکەیان"},{"surface":"יזרעאלה","gloss":"یزرەئێل"},{"surface":"והכסולת","gloss":"و هەکسولوت"},{"surface":"ושונם","gloss":"و شونێم"}],"timestamp":"2026-09-24T11:00:06.741444368Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 19:18",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و سنوورەکەیان بوو یزرەئێل، و هەکسولوت، و شونێم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "سنوورەکەیان"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "یزرەئێل"
+    },
+    {
+      "surface": "והכסולת",
+      "gloss": "و هەکسولوت"
+    },
+    {
+      "surface": "ושונם",
+      "gloss": "و شونێم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:06.741444368Z",
+  "model": "glm-5.3"
+}

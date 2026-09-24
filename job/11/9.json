@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":9,"ref":"job 11:9","book":"job","lang":"ckb","chapter":11,"translation":"درێژترە لە زەوی پێوانەکەی، و پانترە لە دەریا.","tokens":[{"surface":"ארכה","gloss":"درێژترە"},{"surface":"מארץ","gloss":"لە زەوی"},{"surface":"מדה","gloss":"پێوانەکەی"},{"surface":"ורחבה","gloss":"و پانترە"},{"surface":"מני","gloss":"لە"},{"surface":"ים","gloss":"دەریا"}],"timestamp":"2026-09-24T14:37:13.123413786Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "درێژترە لە زەوی پێوانەکەی، و پانترە لە دەریا.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "درێژترە"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "پێوانەکەی"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "و پانترە"
+    },
+    {
+      "surface": "מני",
+      "gloss": "لە"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:13.123413786Z",
+  "model": "glm-5.3"
+}

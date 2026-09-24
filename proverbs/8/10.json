@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":10,"ref":"proverbs 8:10","book":"proverbs","lang":"ckb","chapter":8,"translation":"ئامۆژگاریی من وەرنە گرن، نەک زیو، و زانیاری لە زێڕی هەڵبژاردە.","tokens":[{"surface":"קחו","gloss":"وەرنە گرن"},{"surface":"מוסרי","gloss":"ئامۆژگاریی من"},{"surface":"ואל","gloss":"و نا"},{"surface":"כסף","gloss":"زیو"},{"surface":"ודעת","gloss":"و زانیاری"},{"surface":"מחרוץ","gloss":"لە زێڕی"},{"surface":"נבחר","gloss":"هەڵبژاردە"}],"timestamp":"2026-09-24T14:24:06.436702545Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئامۆژگاریی من وەرنە گرن، نەک زیو، و زانیاری لە زێڕی هەڵبژاردە.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "وەرنە گرن"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "ئامۆژگاریی من"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و زانیاری"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "لە زێڕی"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "هەڵبژاردە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:06.436702545Z",
+  "model": "glm-5.3"
+}

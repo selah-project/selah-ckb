@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":22,"ref":"proverbs 5:22","book":"proverbs","lang":"ckb","chapter":5,"translation":"ستەمەکانی خۆی ⟨את⟩ خراپەکە دەگرن، و بە ئاراستەی تاوانەکەی دەگیرێت.","tokens":[{"surface":"עוונותיו","gloss":"ستەمەکانی خۆی"},{"surface":"ילכדנו","gloss":"دەگرن"},{"surface":"את","gloss":"⟨את⟩","marks":"خراپەکە"},{"surface":"הרשע","gloss":"خراپەکە"},{"surface":"ובחבלי","gloss":"و بە ئاراستەی"},{"surface":"חטאתו","gloss":"تاوانەکەی"},{"surface":"יתמך","gloss":"دەگیرێت"}],"timestamp":"2026-09-24T16:04:01.264346365Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "ستەمەکانی خۆی ⟨את⟩ خراپەکە دەگرن، و بە ئاراستەی تاوانەکەی دەگیرێت.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "ستەمەکانی خۆی"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "دەگرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خراپەکە"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "خراپەکە"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "و بە ئاراستەی"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "تاوانەکەی"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "دەگیرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:04:01.264346365Z",
+  "model": "glm-5.3"
+}

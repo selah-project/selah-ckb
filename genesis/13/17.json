@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":17,"ref":"genesis 13:17","book":"genesis","lang":"ckb","chapter":13,"translation":"ڕێ بکە، لە زەویەکەدا بگەڕێ بە درێژییەکەی و بە پانییەکەی، چونکە من ئەوە بە تۆ دەدەم.","tokens":[{"surface":"קום","gloss":"ڕێ بکە"},{"surface":"התהלך","gloss":"بگەڕێ"},{"surface":"בארץ","gloss":"لە زەویەکەدا"},{"surface":"לארכה","gloss":"بە درێژییەکەی"},{"surface":"ולרחבה","gloss":"و بە پانییەکەی"},{"surface":"כי","gloss":"چونکە"},{"surface":"לך","gloss":"بە تۆ"},{"surface":"אתננה","gloss":"ئەوە دەدەم"}],"timestamp":"2026-09-24T09:13:55.620461197Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ڕێ بکە، لە زەویەکەدا بگەڕێ بە درێژییەکەی و بە پانییەکەی، چونکە من ئەوە بە تۆ دەدەم.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ڕێ بکە"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "بگەڕێ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویەکەدا"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "بە درێژییەکەی"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "و بە پانییەکەی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بە تۆ"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ئەوە دەدەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:13:55.620461197Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":82,"ref":"psalms 119:82","book":"psalms","lang":"ckb","chapter":119,"translation":"چاوەکانم بۆ وتەی تۆ ماندوو بوون، بە دەم: کەی دەمن دڵنوایی دەکەیت؟","tokens":[{"surface":"כלו","gloss":"ماندوو بوون"},{"surface":"עיני","gloss":"چاوەکانم"},{"surface":"לאמרתך","gloss":"بۆ وتەی تۆ"},{"surface":"לאמר","gloss":"بە دەم"},{"surface":"מתי","gloss":"کەی"},{"surface":"תנחמני","gloss":"دەمن دڵنوایی دەکەیت"}],"timestamp":"2026-09-24T14:16:33.721395535Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "چاوەکانم بۆ وتەی تۆ ماندوو بوون، بە دەم: کەی دەمن دڵنوایی دەکەیت؟",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ماندوو بوون"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوەکانم"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "بۆ وتەی تۆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە دەم"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "دەمن دڵنوایی دەکەیت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:16:33.721395535Z",
+  "model": "glm-5.3"
+}

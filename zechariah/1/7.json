@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":7,"ref":"zechariah 1:7","book":"zechariah","lang":"ckb","chapter":1,"translation":"لە ڕۆژی بیست و چواری مانگی یازدەیەم — ئەوەی مانگی شەڤاتە — لە ساڵی دووەمی داریاڤێش ⟨دەریاووش⟩، وشەی یاهوە بوو بۆ زەخەریا کوڕی بەرەخیا کوڕی عیدۆ پێغەمبەر، بۆ وتن:","tokens":[{"surface":"ביום","gloss":"لە ڕۆژی"},{"surface":"עשרים","gloss":"بیست"},{"surface":"וארבעה","gloss":"و چوار"},{"surface":"לעשתי","gloss":"یازدەیەمی"},{"surface":"עשר","gloss":"یازدە"},{"surface":"חדש","gloss":"مانگ"},{"surface":"הוא","gloss":"ئەوەی"},{"surface":"חדש","gloss":"مانگی"},{"surface":"שבט","gloss":"شەڤات"},{"surface":"בשנת","gloss":"لە ساڵی"},{"surface":"שתים","gloss":"دووەمی"},{"surface":"לדריוש","gloss":"داریاڤێش"},{"surface":"היה","gloss":"بوو"},{"surface":"דבר","gloss":"وشەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"بۆ"},{"surface":"זכריה","gloss":"زەخەریا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"ברכיהו","gloss":"بەرەخیا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"עדוא","gloss":"عیدۆ"},{"surface":"הנביא","gloss":"پێغەمبەر"},{"surface":"לאמר","gloss":"بۆ وتن"}],"timestamp":"2026-09-24T13:43:10.844116256Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 1:7",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "لە ڕۆژی بیست و چواری مانگی یازدەیەم — ئەوەی مانگی شەڤاتە — لە ساڵی دووەمی داریاڤێش ⟨دەریاووش⟩، وشەی یاهوە بوو بۆ زەخەریا کوڕی بەرەخیا کوڕی عیدۆ پێغەمبەر، بۆ وتن:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "یازدەیەمی"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "یازدە"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مانگ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مانگی"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "شەڤات"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دووەمی"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "داریاڤێش"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زەخەریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "بەرەخیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עדוא",
+      "gloss": "عیدۆ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:43:10.844116256Z",
+  "model": "glm-5.3"
+}

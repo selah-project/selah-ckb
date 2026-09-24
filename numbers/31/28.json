@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":28,"ref":"numbers 31:28","book":"numbers","lang":"ckb","chapter":31,"translation":"و باجێک بۆ یاهوە لە ⟨את⟩ پیاوانی شەڕی ئەوانەی بۆ لەشکر دەردەچن هەڵدەگریت — یەک گیان لە پێنج سەد، لە مرۆڤ و لە گاوەکان و لە حێرەکان و لە مەڕەکان.","tokens":[{"surface":"והרמת","gloss":"و هەڵدەگریت"},{"surface":"מכס","gloss":"باجێک"},{"surface":"ליהוה","gloss":"بۆ یاهوە"},{"surface":"מאת","gloss":"لە ⟨את⟩"},{"surface":"אנשי","gloss":"پیاوانی"},{"surface":"המלחמה","gloss":"شەڕ"},{"surface":"היצאים","gloss":"ئەوانەی دەردەچن"},{"surface":"לצבא","gloss":"بۆ لەشکر"},{"surface":"אחד","gloss":"یەک"},{"surface":"נפש","gloss":"گیان"},{"surface":"מחמש","gloss":"لە پێنج"},{"surface":"המאות","gloss":"سەد"},{"surface":"מן","gloss":"لە"},{"surface":"האדם","gloss":"مرۆڤ"},{"surface":"ומן","gloss":"و لە"},{"surface":"הבקר","gloss":"گاوەکان"},{"surface":"ומן","gloss":"و لە"},{"surface":"החמרים","gloss":"حێرەکان"},{"surface":"ומן","gloss":"و لە"},{"surface":"הצאן","gloss":"مەڕەکان"}],"timestamp":"2026-09-24T10:30:44.837130492Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 31:28",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و باجێک بۆ یاهوە لە ⟨את⟩ پیاوانی شەڕی ئەوانەی بۆ لەشکر دەردەچن هەڵدەگریت — یەک گیان لە پێنج سەد، لە مرۆڤ و لە گاوەکان و لە حێرەکان و لە مەڕەکان.",
+  "tokens": [
+    {
+      "surface": "והרמת",
+      "gloss": "و هەڵدەگریت"
+    },
+    {
+      "surface": "מכס",
+      "gloss": "باجێک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "پیاوانی"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "شەڕ"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ئەوانەی دەردەچن"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "بۆ لەشکر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "מחמש",
+      "gloss": "لە پێنج"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "گاوەکان"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "החמרים",
+      "gloss": "حێرەکان"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مەڕەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:44.837130492Z",
+  "model": "glm-5.3"
+}

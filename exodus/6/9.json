@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":9,"ref":"exodus 6:9","book":"exodus","lang":"ckb","chapter":6,"translation":"و مۆشە ⟨موسا⟩ هەر وا وت بە کوڕانی ئیسرائیل، بەڵام گوێیان نەگرت لە مۆشە، لەبەر کورتیی ڕۆح و لەبەر خزمەتێکی سەخت.","tokens":[{"surface":"וידבר","gloss":"و وت"},{"surface":"משה","gloss":"مۆشە"},{"surface":"כן","gloss":"هەر وا"},{"surface":"אל","gloss":"بە"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"ולא","gloss":"بەڵام"},{"surface":"שמעו","gloss":"گوێیان نەگرت"},{"surface":"אל","gloss":"لە"},{"surface":"משה","gloss":"مۆشە"},{"surface":"מקצר","gloss":"لەبەر کورتیی"},{"surface":"רוח","gloss":"ڕۆح"},{"surface":"ומעבדה","gloss":"و لەبەر خزمەتێکی"},{"surface":"קשה","gloss":"سەخت"}],"timestamp":"2026-09-24T09:37:02.170455706Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و مۆشە ⟨موسا⟩ هەر وا وت بە کوڕانی ئیسرائیل، بەڵام گوێیان نەگرت لە مۆشە، لەبەر کورتیی ڕۆح و لەبەر خزمەتێکی سەخت.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوێیان نەگرت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "لەبەر کورتیی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ڕۆح"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "و لەبەر خزمەتێکی"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سەخت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:37:02.170455706Z",
+  "model": "glm-5.3"
+}

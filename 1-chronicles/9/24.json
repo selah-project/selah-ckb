@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":24,"ref":"1-chronicles 9:24","book":"1-chronicles","lang":"ckb","chapter":9,"translation":"بۆ چوار ئاڕاستە دەروازەبانەکان دەبن: ڕۆژهەڵات، ڕۆژاوا، باکوور و باشوور.","tokens":[{"surface":"לארבע","gloss":"بۆ چوار"},{"surface":"רוחות","gloss":"ئاڕاستە"},{"surface":"יהיו","gloss":"دەبن"},{"surface":"השערים","gloss":"دەروازەبانەکان"},{"surface":"מזרח","gloss":"ڕۆژهەڵات"},{"surface":"ימה","gloss":"ڕۆژاوا"},{"surface":"צפונה","gloss":"باکوور"},{"surface":"ונגבה","gloss":"و باشوور"}],"timestamp":"2026-09-24T15:24:19.558960867Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "بۆ چوار ئاڕاستە دەروازەبانەکان دەبن: ڕۆژهەڵات، ڕۆژاوا، باکوور و باشوور.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "بۆ چوار"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ئاڕاستە"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دەروازەبانەکان"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ڕۆژهەڵات"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ڕۆژاوا"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "باکوور"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "و باشوور"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:19.558960867Z",
+  "model": "glm-5.3"
+}

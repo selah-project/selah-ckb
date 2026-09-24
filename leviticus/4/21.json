@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":21,"ref":"leviticus 4:21","book":"leviticus","lang":"ckb","chapter":4,"translation":"و دەرئەخات ⟨את⟩ گایەکە بۆ دەرەوەی کامپەکە و سووتاندنی دەکات ⟨את⟩ وەک سووتاندنی ⟨את⟩ گا یەکەم؛ قوربانیی گوناهی کۆمەڵەکەیە.","tokens":[{"surface":"והוציא","gloss":"و دەرئەخات"},{"surface":"את","gloss":"⟨את⟩","marks":"گایەکە"},{"surface":"הפר","gloss":"گایەکە"},{"surface":"אל","gloss":"بۆ"},{"surface":"מחוץ","gloss":"دەرەوەی"},{"surface":"למחנה","gloss":"کامپەکە"},{"surface":"ושרף","gloss":"و سووتاندنی دەکات"},{"surface":"אתו","gloss":"⟨את⟩ ئەو"},{"surface":"כאשר","gloss":"وەک"},{"surface":"שרף","gloss":"سووتاندنی"},{"surface":"את","gloss":"⟨את⟩","marks":"گا"},{"surface":"הפר","gloss":"گا"},{"surface":"הראשון","gloss":"یەکەم"},{"surface":"חטאת","gloss":"قوربانیی گوناه"},{"surface":"הקהל","gloss":"کۆمەڵەکە"},{"surface":"הוא","gloss":"ئەوەیە"}],"timestamp":"2026-09-24T09:59:35.950674226Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و دەرئەخات ⟨את⟩ گایەکە بۆ دەرەوەی کامپەکە و سووتاندنی دەکات ⟨את⟩ وەک سووتاندنی ⟨את⟩ گا یەکەم؛ قوربانیی گوناهی کۆمەڵەکەیە.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "و دەرئەخات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گایەکە"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گایەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "دەرەوەی"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "کامپەکە"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "و سووتاندنی دەکات"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "سووتاندنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گا"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "قوربانیی گوناه"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "کۆمەڵەکە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:35.950674226Z",
+  "model": "glm-5.3"
+}

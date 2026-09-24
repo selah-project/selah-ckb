@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 42:3","book":"psalms","lang":"ckb","chapter":42,"translation":"گیانم بۆ ئێلۆهیم، بۆ ئێڵی زیندوو، تینوو بوو — کەی دێم و ڕووی ئێلۆهیم دەبینم؟","tokens":[{"surface":"צמאה","gloss":"تینوو بوو"},{"surface":"נפשי","gloss":"گیانم"},{"surface":"לאלהים","gloss":"بۆ ئێلۆهیم"},{"surface":"לאל","gloss":"بۆ ئێڵی"},{"surface":"חי","gloss":"زیندوو"},{"surface":"מתי","gloss":"کەی"},{"surface":"אבוא","gloss":"دێم"},{"surface":"ואראה","gloss":"و دەبینم"},{"surface":"פני","gloss":"ڕووی"},{"surface":"אלהים","gloss":"ئێلۆهیم"}],"timestamp":"2026-09-24T13:56:42.552295703Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "گیانم بۆ ئێلۆهیم، بۆ ئێڵی زیندوو، تینوو بوو — کەی دێم و ڕووی ئێلۆهیم دەبینم؟",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "تینوو بوو"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بۆ ئێلۆهیم"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "بۆ ئێڵی"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندوو"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "دێم"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "و دەبینم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:42.552295703Z",
+  "model": "glm-5.3"
+}

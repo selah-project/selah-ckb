@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":19,"ref":"joshua 6:19","book":"joshua","lang":"ckb","chapter":6,"translation":"و هەموو زیو و زێڕ و ئامرازی مس و ئاسن پیرۆزن بۆ یاهوە؛ بۆ خەزێنەی یاهوە دێن.","tokens":[{"surface":"וכל","gloss":"و هەموو"},{"surface":"כסף","gloss":"زیو"},{"surface":"וזהב","gloss":"و زێڕ"},{"surface":"וכלי","gloss":"و ئامرازی"},{"surface":"נחשת","gloss":"مس"},{"surface":"וברזל","gloss":"و ئاسن"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"הוא","gloss":"ئەوە"},{"surface":"ליהוה","gloss":"بۆ یاهوە"},{"surface":"אוצר","gloss":"خەزێنە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"יבוא","gloss":"دێت"}],"timestamp":"2026-09-24T10:53:39.209589247Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 6:19",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و هەموو زیو و زێڕ و ئامرازی مس و ئاسن پیرۆزن بۆ یاهوە؛ بۆ خەزێنەی یاهوە دێن.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "و زێڕ"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "و ئامرازی"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "و ئاسن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "خەزێنە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "دێت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:53:39.209589247Z",
+  "model": "glm-5.3"
+}

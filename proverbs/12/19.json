@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":19,"ref":"proverbs 12:19","book":"proverbs","lang":"ckb","chapter":12,"translation":"لێوی ڕاستی پتەو دەبێت بۆ هەمیشە، و تا گەڕێک زمانی درۆ","tokens":[{"surface":"שפת","gloss":"لێوی"},{"surface":"אמת","gloss":"ڕاستی"},{"surface":"תכון","gloss":"پتەو دەبێت"},{"surface":"לעד","gloss":"بۆ هەمیشە"},{"surface":"ועד","gloss":"و تا"},{"surface":"ארגיעה","gloss":"گەڕێک"},{"surface":"לשון","gloss":"زمانی"},{"surface":"שקר","gloss":"درۆ"}],"timestamp":"2026-09-24T14:26:03.618705299Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "لێوی ڕاستی پتەو دەبێت بۆ هەمیشە، و تا گەڕێک زمانی درۆ",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "لێوی"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاستی"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "پتەو دەبێت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "گەڕێک"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زمانی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:03.618705299Z",
+  "model": "glm-5.3"
+}

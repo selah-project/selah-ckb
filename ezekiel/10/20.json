@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":20,"ref":"ezekiel 10:20","book":"ezekiel","lang":"ckb","chapter":10,"translation":"ئەوە ئاژەڵە زیندووەکەیە کە لەژێر ئێلۆهیمی ئیسرائیل لە کەنار ڕووباری کەڤار بینیم و زانم کە کرووبەکان ئەوانن.","tokens":[{"surface":"היא","gloss":"ئەوە"},{"surface":"החיה","gloss":"ئاژەڵە زیندووەکەیە"},{"surface":"אשר","gloss":"کە"},{"surface":"ראיתי","gloss":"بینیم"},{"surface":"תחת","gloss":"لەژێر"},{"surface":"אלהי","gloss":"ئێلۆهیمی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"בנהר","gloss":"لە کەنار ڕووباری"},{"surface":"כבר","gloss":"کەڤار"},{"surface":"ואדע","gloss":"زانم"},{"surface":"כי","gloss":"کە"},{"surface":"כרובים","gloss":"کرووبەکان"},{"surface":"המה","gloss":"ئەوانن"}],"timestamp":"2026-09-24T13:07:40.050612273Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 10:20",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ئەوە ئاژەڵە زیندووەکەیە کە لەژێر ئێلۆهیمی ئیسرائیل لە کەنار ڕووباری کەڤار بینیم و زانم کە کرووبەکان ئەوانن.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ئاژەڵە زیندووەکەیە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "لە کەنار ڕووباری"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "کەڤار"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "زانم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کرووبەکان"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوانن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:07:40.050612273Z",
+  "model": "glm-5.3"
+}

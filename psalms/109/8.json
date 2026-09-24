@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 109:8","book":"psalms","lang":"ckb","chapter":109,"translation":"ڕۆژەکانی کەم بن، و ئۆفەری کەسێکی دیکە وەربگرێت.","tokens":[{"surface":"יהיו","gloss":"بن"},{"surface":"ימיו","gloss":"ڕۆژەکانی"},{"surface":"מעטים","gloss":"کەم"},{"surface":"פקדתו","gloss":"ئۆفەر"},{"surface":"יקח","gloss":"وەربگرێت"},{"surface":"אחר","gloss":"کەسێکی دیکە"}],"timestamp":"2026-09-24T14:13:53.912106934Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 109,
+  "translation": "ڕۆژەکانی کەم بن، و ئۆفەری کەسێکی دیکە وەربگرێت.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "کەم"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ئۆفەر"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وەربگرێت"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "کەسێکی دیکە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:13:53.912106934Z",
+  "model": "glm-5.3"
+}

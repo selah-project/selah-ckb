@@ -1,1 +1,131 @@
-{"tier":"glm-5.2","verse":4,"ref":"1-kings 21:4","book":"1-kings","lang":"ckb","chapter":21,"translation":"و ئەهاب هات بۆ ماڵەکەی، توڕە و ڕقی، لەبەر ئەو قسەی کە ناڤوتی ئیزرەئەلی پێی وتی و وتی: میراتی باوکانم ⟨את⟩ پێت نادەم؛ و خەوییشتە سەر جێخەوەکەی و ڕووی ⟨את⟩ خستە لا و نانی نەخوارد.","tokens":[{"surface":"ויבא","gloss":"و هات"},{"surface":"אחאב","gloss":"ئەهاب"},{"surface":"אל","gloss":"بۆ"},{"surface":"ביתו","gloss":"ماڵەکەی"},{"surface":"סר","gloss":"توڕە"},{"surface":"וזעף","gloss":"و ڕقی"},{"surface":"על","gloss":"لەبەر"},{"surface":"הדבר","gloss":"قسەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"דבר","gloss":"وتی"},{"surface":"אליו","gloss":"پێی"},{"surface":"נבות","gloss":"ناڤوت"},{"surface":"היזרעאלי","gloss":"ئیزرەئەلی"},{"surface":"ויאמר","gloss":"و وتی"},{"surface":"לא","gloss":"نا"},{"surface":"אתן","gloss":"دەدەم"},{"surface":"לך","gloss":"پێت"},{"surface":"את","gloss":"⟨את⟩","marks":"میراتی باوکانم"},{"surface":"נחלת","gloss":"میراتی"},{"surface":"אבותי","gloss":"باوکانم"},{"surface":"וישכב","gloss":"و خەوییشت"},{"surface":"על","gloss":"سەر"},{"surface":"מטתו","gloss":"جێخەوەکەی"},{"surface":"ויסב","gloss":"و خستە لا"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕووی"},{"surface":"פניו","gloss":"ڕووی"},{"surface":"ולא","gloss":"و نا"},{"surface":"אכל","gloss":"خوارد"},{"surface":"לחם","gloss":"نان"}],"timestamp":"2026-09-24T11:57:10.851648508Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 21:4",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئەهاب هات بۆ ماڵەکەی، توڕە و ڕقی، لەبەر ئەو قسەی کە ناڤوتی ئیزرەئەلی پێی وتی و وتی: میراتی باوکانم ⟨את⟩ پێت نادەم؛ و خەوییشتە سەر جێخەوەکەی و ڕووی ⟨את⟩ خستە لا و نانی نەخوارد.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ئەهاب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ماڵەکەی"
+    },
+    {
+      "surface": "סר",
+      "gloss": "توڕە"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "و ڕقی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ناڤوت"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "ئیزرەئەلی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دەدەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میراتی باوکانم"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراتی"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "باوکانم"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "و خەوییشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "جێخەوەکەی"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "و خستە لا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووی"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوارد"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:57:10.851648508Z",
+  "model": "glm-5.3"
+}

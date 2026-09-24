@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":26,"ref":"genesis 45:26","book":"genesis","lang":"ckb","chapter":45,"translation":"و پێی گوتن: هێشتا یوسف زیندووە، و ئەو بەسەر هەموو زەوی میتسرایمدا فەرمانڕەوایە. و دڵی سارد بووەوە، چونکە باوەڕی پێیان نەکرد.","tokens":[{"surface":"ויגדו","gloss":"گوتن"},{"surface":"לו","gloss":"پێی"},{"surface":"לאמר","gloss":"کە"},{"surface":"עוד","gloss":"هێشتا"},{"surface":"יוסף","gloss":"یوسف"},{"surface":"חי","gloss":"زیندووە"},{"surface":"וכי","gloss":"و کە"},{"surface":"הוא","gloss":"ئەو"},{"surface":"משל","gloss":"فەرمانڕەوایە"},{"surface":"בכל","gloss":"بەسەر هەموو"},{"surface":"ארץ","gloss":"زەوی"},{"surface":"מצרים","gloss":"میتسرایم"},{"surface":"ויפג","gloss":"سارد بووەوە"},{"surface":"לבו","gloss":"دڵی"},{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نە"},{"surface":"האמין","gloss":"باوەڕی کرد"},{"surface":"להם","gloss":"پێیان"}],"timestamp":"2026-09-24T09:34:31.817127867Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 45:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 45,
+  "translation": "و پێی گوتن: هێشتا یوسف زیندووە، و ئەو بەسەر هەموو زەوی میتسرایمدا فەرمانڕەوایە. و دڵی سارد بووەوە، چونکە باوەڕی پێیان نەکرد.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "گوتن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زیندووە"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "و کە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "משל",
+      "gloss": "فەرمانڕەوایە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بەسەر هەموو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "ויפג",
+      "gloss": "سارد بووەوە"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "باوەڕی کرد"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پێیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:34:31.817127867Z",
+  "model": "glm-5.3"
+}

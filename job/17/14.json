@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":14,"ref":"job 17:14","book":"job","lang":"ckb","chapter":17,"translation":"بە کڵاوەبوونەوەم وت: تۆ باوکی منی؛ دایکم و خوشکیشم بۆ کرمەکانن.","tokens":[{"surface":"לשחת","gloss":"بە کڵاوەبوونەوە"},{"surface":"קראתי","gloss":"وتم"},{"surface":"אבי","gloss":"باوکی من"},{"surface":"אתה","gloss":"تۆ"},{"surface":"אמי","gloss":"دایکی من"},{"surface":"ואחתי","gloss":"و خوشکیشم"},{"surface":"לרמה","gloss":"بۆ کرم"}],"timestamp":"2026-09-24T14:39:28.915416440Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "بە کڵاوەبوونەوەم وت: تۆ باوکی منی؛ دایکم و خوشکیشم بۆ کرمەکانن.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "بە کڵاوەبوونەوە"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکی من"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "دایکی من"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "و خوشکیشم"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "بۆ کرم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:28.915416440Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,47 @@
-{"tier":"glm-5.2","verse":39,"ref":"1-chronicles 2:39","book":"1-chronicles","lang":"ckb","chapter":2,"translation":"و عەزەریا ⟨את⟩ حەلێزی بووکەوت و حەلێز ⟨את⟩ ئێلعاسای بووکەوت","tokens":[{"surface":"ועזריה","gloss":"و عەزەریا"},{"surface":"הליד","gloss":"بووکەوت"},{"surface":"את","gloss":"⟨את⟩","marks":"حەلێز"},{"surface":"חלץ","gloss":"حەلێز"},{"surface":"וחלץ","gloss":"و حەلێز"},{"surface":"הליד","gloss":"بووکەوت"},{"surface":"את","gloss":"⟨את⟩","marks":"ئێلعاسا"},{"surface":"אלעשה","gloss":"ئێلعاسا"}],"timestamp":"2026-09-24T16:27:08.132383779Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و عەزەریا ⟨את⟩ حەلێزی بووکەوت و حەلێز ⟨את⟩ ئێلعاسای بووکەوت",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "و عەزەریا"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بووکەوت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حەلێز"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "حەلێز"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "و حەلێز"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بووکەوت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئێلعاسا"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ئێلعاسا"
+    }
+  ],
+  "timestamp": "2026-09-24T16:27:08.132383779Z",
+  "model": "glm-5.3"
+}

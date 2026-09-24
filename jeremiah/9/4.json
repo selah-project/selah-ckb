@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":4,"ref":"jeremiah 9:4","book":"jeremiah","lang":"ckb","chapter":9,"translation":"و هەر پیاوێک هاوڕێی خۆی فریو دەدات، و ڕاستی قسە ناکەن؛ زمانەکەیان فێر کردووە قسەی درۆ بکات، ستەمکاری — ماندوو بوون.","tokens":[{"surface":"ואיש","gloss":"و هەر پیاوێک"},{"surface":"ברעהו","gloss":"هاوڕێی خۆی"},{"surface":"יהתלו","gloss":"فریو دەدات"},{"surface":"ואמת","gloss":"و ڕاستی"},{"surface":"לא","gloss":"نا"},{"surface":"ידברו","gloss":"قسە دەکەن"},{"surface":"למדו","gloss":"فێر کردووە"},{"surface":"לשונם","gloss":"زمانەکەیان"},{"surface":"דבר","gloss":"قسەی"},{"surface":"שקר","gloss":"درۆ"},{"surface":"העוה","gloss":"ستەمکاری"},{"surface":"נלאו","gloss":"ماندوو بوون"}],"timestamp":"2026-09-24T12:42:59.046904342Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 9:4",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و هەر پیاوێک هاوڕێی خۆی فریو دەدات، و ڕاستی قسە ناکەن؛ زمانەکەیان فێر کردووە قسەی درۆ بکات، ستەمکاری — ماندوو بوون.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و هەر پیاوێک"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "هاوڕێی خۆی"
+    },
+    {
+      "surface": "יהתלו",
+      "gloss": "فریو دەدات"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "و ڕاستی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "قسە دەکەن"
+    },
+    {
+      "surface": "למדו",
+      "gloss": "فێر کردووە"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "زمانەکەیان"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "قسەی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "ستەمکاری"
+    },
+    {
+      "surface": "נלאו",
+      "gloss": "ماندوو بوون"
+    }
+  ],
+  "timestamp": "2026-09-24T12:42:59.046904342Z",
+  "model": "glm-5.3"
+}

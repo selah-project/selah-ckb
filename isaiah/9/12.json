@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":12,"ref":"isaiah 9:12","book":"isaiah","lang":"ckb","chapter":9,"translation":"و گەلەکە نەگەڕایەوە بۆ لای ئەوەی لێیدەدا، و ⟨את⟩ یاهوەی سەڤائۆت نەگەڕان.","tokens":[{"surface":"והעם","gloss":"و گەلەکە"},{"surface":"לא","gloss":"نا"},{"surface":"שב","gloss":"نەگەڕایەوە"},{"surface":"עד","gloss":"بۆ لای"},{"surface":"המכהו","gloss":"ئەوەی لێیدەدا"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"یاهوەی سەڤائۆت"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"צבאות","gloss":"سەڤائۆت"},{"surface":"לא","gloss":"نا"},{"surface":"דרשו","gloss":"نەگەڕان"}],"timestamp":"2026-09-24T12:16:29.475839472Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و گەلەکە نەگەڕایەوە بۆ لای ئەوەی لێیدەدا، و ⟨את⟩ یاهوەی سەڤائۆت نەگەڕان.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "و گەلەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "שב",
+      "gloss": "نەگەڕایەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "ئەوەی لێیدەدا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "یاهوەی سەڤائۆت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "نەگەڕان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:16:29.475839472Z",
+  "model": "glm-5.3"
+}

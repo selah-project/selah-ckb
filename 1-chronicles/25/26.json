@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":26,"ref":"1-chronicles 25:26","book":"1-chronicles","lang":"ckb","chapter":25,"translation":"نۆیەم بۆ مەلۆتی، کوڕەکانی و براکانی، دوازدە.","tokens":[{"surface":"לתשעה","gloss":"بۆ نۆ"},{"surface":"עשר","gloss":"و دە"},{"surface":"למלותי","gloss":"بۆ مەلۆتی"},{"surface":"בניו","gloss":"کوڕەکانی"},{"surface":"ואחיו","gloss":"و براکانی"},{"surface":"שנים","gloss":"دوو"},{"surface":"עשר","gloss":"و دە"}],"timestamp":"2026-09-24T15:29:49.610707162Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "نۆیەم بۆ مەلۆتی، کوڕەکانی و براکانی، دوازدە.",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "بۆ نۆ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "و دە"
+    },
+    {
+      "surface": "למלותי",
+      "gloss": "بۆ مەلۆتی"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "و دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:49.610707162Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":2,"ref":"isaiah 20:2","book":"isaiah","lang":"ckb","chapter":20,"translation":"لەو کاتەدا یاهوە بە دەست یەشەیاهو کوڕی ئامۆتس فەرمووی کرد و وت: بڕۆ و ساکۆکە لە ناوقەدت بکێشە دەر و پێڵاوەکەت لە پێت هەڵبکێشە. ئەویش وا کرد، بە ڕووت و بێپێ ڕۆیشت.","tokens":[{"surface":"בעת","gloss":"لە کات"},{"surface":"ההיא","gloss":"ئەو"},{"surface":"דבר","gloss":"فەرمووی کرد"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ביד","gloss":"بە دەست"},{"surface":"ישעיהו","gloss":"یەشەیاهو"},{"surface":"בן","gloss":"کوڕی"},{"surface":"אמוץ","gloss":"ئامۆتس"},{"surface":"לאמר","gloss":"بۆ وتن"},{"surface":"לך","gloss":"بڕۆ"},{"surface":"ופתחת","gloss":"و بکێشە دەر"},{"surface":"השק","gloss":"ساکۆکە"},{"surface":"מעל","gloss":"لە"},{"surface":"מתניך","gloss":"ناوقەدت"},{"surface":"ונעלך","gloss":"و پێڵاوەکەت"},{"surface":"תחלץ","gloss":"هەڵبکێشە"},{"surface":"מעל","gloss":"لە"},{"surface":"רגליך","gloss":"پێت"},{"surface":"ויעש","gloss":"و کرد"},{"surface":"כן","gloss":"وا"},{"surface":"הלך","gloss":"ڕۆیشت"},{"surface":"ערום","gloss":"ڕووت"},{"surface":"ויחף","gloss":"و بێپێ"}],"timestamp":"2026-09-24T15:58:53.758024073Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 20:2",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "لەو کاتەدا یاهوە بە دەست یەشەیاهو کوڕی ئامۆتس فەرمووی کرد و وت: بڕۆ و ساکۆکە لە ناوقەدت بکێشە دەر و پێڵاوەکەت لە پێت هەڵبکێشە. ئەویش وا کرد، بە ڕووت و بێپێ ڕۆیشت.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "لە کات"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرمووی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەست"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یەشەیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ئامۆتس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بڕۆ"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "و بکێشە دەر"
+    },
+    {
+      "surface": "השק",
+      "gloss": "ساکۆکە"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "ناوقەدت"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "و پێڵاوەکەت"
+    },
+    {
+      "surface": "תחלץ",
+      "gloss": "هەڵبکێشە"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "پێت"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ڕۆیشت"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ڕووت"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "و بێپێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:58:53.758024073Z",
+  "model": "glm-5.3"
+}

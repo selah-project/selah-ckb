@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":17,"ref":"ezekiel 32:17","book":"ezekiel","lang":"ckb","chapter":32,"translation":"و بوو لە ساڵی دوازدەدا، لە پۆنجدەیەمی مانگدا، وشەی یاهوە بوو هاتە لای من بە وتن","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"בשתי","gloss":"لە دوو"},{"surface":"עשרה","gloss":"دە"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"בחמשה","gloss":"لە پێنج"},{"surface":"עשר","gloss":"دە"},{"surface":"לחדש","gloss":"لە مانگ"},{"surface":"היה","gloss":"بوو"},{"surface":"דבר","gloss":"وشە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלי","gloss":"لای من"},{"surface":"לאמר","gloss":"بە وتن"}],"timestamp":"2026-09-24T13:18:55.525394483Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 32:17",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و بوو لە ساڵی دوازدەدا، لە پۆنجدەیەمی مانگدا، وشەی یاهوە بوو هاتە لای من بە وتن",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "لە دوو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "لە پێنج"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "لە مانگ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لای من"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:55.525394483Z",
+  "model": "glm-5.3"
+}

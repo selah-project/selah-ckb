@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":2,"ref":"exodus 31:2","book":"exodus","lang":"ckb","chapter":31,"translation":"ببینە، بە ناو بانگم کرد بێتسالێل کوڕی ئوری کوڕی حوور لە هۆزی یەهودا،","tokens":[{"surface":"ראה","gloss":"ببینە"},{"surface":"קראתי","gloss":"بانگم کرد"},{"surface":"בשם","gloss":"بە ناو"},{"surface":"בצלאל","gloss":"بێتسالێل"},{"surface":"בן","gloss":"کوڕی"},{"surface":"אורי","gloss":"ئوری"},{"surface":"בן","gloss":"کوڕی"},{"surface":"חור","gloss":"حوور"},{"surface":"למטה","gloss":"لە هۆزی"},{"surface":"יהודה","gloss":"یەهودا"}],"timestamp":"2026-09-24T09:50:17.075489910Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "ببینە، بە ناو بانگم کرد بێتسالێل کوڕی ئوری کوڕی حوور لە هۆزی یەهودا،",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ببینە"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "بانگم کرد"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "بە ناو"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بێتسالێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ئوری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حوور"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "لە هۆزی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:17.075489910Z",
+  "model": "glm-5.3"
+}

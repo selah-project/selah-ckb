@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-samuel 30:10","book":"1-samuel","lang":"ckb","chapter":30,"translation":"و داوود بەدوادا کەوت، ئەو و چوار سەد پیاو، و دوو سەد پیاو ڕایانگرت کە ماندوو بوون لە پێکردنی ⟨את⟩ ڕووباری بێسۆر.","tokens":[{"surface":"וירדף","gloss":"و بەدوادا کەوت"},{"surface":"דוד","gloss":"داوود"},{"surface":"הוא","gloss":"ئەو"},{"surface":"וארבע","gloss":"و چوار"},{"surface":"מאות","gloss":"سەد"},{"surface":"איש","gloss":"پیاو"},{"surface":"ויעמדו","gloss":"و ڕایانگرت"},{"surface":"מאתים","gloss":"دوو سەد"},{"surface":"איש","gloss":"پیاو"},{"surface":"אשר","gloss":"کە"},{"surface":"פגרו","gloss":"ماندوو بوون"},{"surface":"מעבר","gloss":"پێکردن"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕووباری بێسۆر"},{"surface":"נחל","gloss":"ڕووبار"},{"surface":"הבשור","gloss":"بێسۆر"}],"timestamp":"2026-09-24T11:29:13.401242397Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و داوود بەدوادا کەوت، ئەو و چوار سەد پیاو، و دوو سەد پیاو ڕایانگرت کە ماندوو بوون لە پێکردنی ⟨את⟩ ڕووباری بێسۆر.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "و بەدوادا کەوت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "و ڕایانگرت"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوو سەد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "ماندوو بوون"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پێکردن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕووباری بێسۆر"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ڕووبار"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "بێسۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:29:13.401242397Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":14,"ref":"psalms 89:14","book":"psalms","lang":"ckb","chapter":89,"translation":"قۆڵت لەگەڵ گەورەییە؛ دەستت بەهێزە، ڕاستت بەرزە.","tokens":[{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"זרוע","gloss":"قۆڵ"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"גבורה","gloss":"گەورەیی"},{"surface":"תעז","gloss":"بەهێزە"},{"surface":"ידך","gloss":"دەستت"},{"surface":"תרום","gloss":"بەرزە"},{"surface":"ימינך","gloss":"ڕاستت"}],"timestamp":"2026-09-24T14:08:07.607361906Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "قۆڵت لەگەڵ گەورەییە؛ دەستت بەهێزە، ڕاستت بەرزە.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "قۆڵ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "گەورەیی"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "بەهێزە"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "بەرزە"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ڕاستت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:08:07.607361906Z",
+  "model": "glm-5.3"
+}

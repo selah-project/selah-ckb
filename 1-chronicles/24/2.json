@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-chronicles 24:2","book":"1-chronicles","lang":"ckb","chapter":24,"translation":"و ناداب و ئاڤیهوو لە بەردەم باوکیاندا مردن و منداڵیان نەبوو، و ئێلعازار و ئیتامار وەک کاهین خزمەتیان کرد.","tokens":[{"surface":"וימת","gloss":"و مردن"},{"surface":"נדב","gloss":"ناداب"},{"surface":"ואביהוא","gloss":"و ئاڤیهوو"},{"surface":"לפני","gloss":"لە بەردەمدا"},{"surface":"אביהם","gloss":"باوکیان"},{"surface":"ובנים","gloss":"و منداڵ"},{"surface":"לא","gloss":"نە"},{"surface":"היו","gloss":"بوو"},{"surface":"להם","gloss":"بۆیان"},{"surface":"ויכהנו","gloss":"و وەک کاهین خزمەتیان کرد"},{"surface":"אלעזר","gloss":"ئێلعازار"},{"surface":"ואיתמר","gloss":"و ئیتامار"}],"timestamp":"2026-09-24T15:30:05.322222483Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 24:2",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و ناداب و ئاڤیهوو لە بەردەم باوکیاندا مردن و منداڵیان نەبوو، و ئێلعازار و ئیتامار وەک کاهین خزمەتیان کرد.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مردن"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداب"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "و ئاڤیهوو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە بەردەمدا"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "باوکیان"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "و منداڵ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "ויכהנו",
+      "gloss": "و وەک کاهین خزمەتیان کرد"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئێلعازار"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "و ئیتامار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:05.322222483Z",
+  "model": "glm-5.3"
+}

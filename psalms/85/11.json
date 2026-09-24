@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 85:11","book":"psalms","lang":"ckb","chapter":85,"translation":"حەسەد و ڕاستی بەیەک گەیشتن، دادپەروەری و ئاشتی یەکتریان ماچ کرد.","tokens":[{"surface":"חסד","gloss":"حەسەد"},{"surface":"ואמת","gloss":"و ڕاستی"},{"surface":"נפגשו","gloss":"بەیەک گەیشتن"},{"surface":"צדק","gloss":"دادپەروەری"},{"surface":"ושלום","gloss":"و ئاشتی"},{"surface":"נשקו","gloss":"ماچیان کرد"}],"timestamp":"2026-09-24T14:07:11.119668711Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 85,
+  "translation": "حەسەد و ڕاستی بەیەک گەیشتن، دادپەروەری و ئاشتی یەکتریان ماچ کرد.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "و ڕاستی"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "بەیەک گەیشتن"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "و ئاشتی"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "ماچیان کرد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:11.119668711Z",
+  "model": "glm-5.3"
+}

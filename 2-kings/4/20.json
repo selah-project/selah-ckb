@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":20,"ref":"2-kings 4:20","book":"2-kings","lang":"ckb","chapter":4,"translation":"و بەری و هێنایە لای دایکی، و دانیشت لەسەر ئەژنۆکانی ⟨ئەو⟩ تا نیوەڕۆ و مرد.","tokens":[{"surface":"וישאהו","gloss":"و بەری"},{"surface":"ויביאהו","gloss":"و هێنایە"},{"surface":"אל","gloss":"لای"},{"surface":"אמו","gloss":"دایکی"},{"surface":"וישב","gloss":"و دانیشت"},{"surface":"על","gloss":"لەسەر"},{"surface":"ברכיה","gloss":"ئەژنۆکانی ⟨ئەو⟩"},{"surface":"עד","gloss":"تا"},{"surface":"הצהרים","gloss":"نیوەڕۆ"},{"surface":"וימת","gloss":"و مرد"}],"timestamp":"2026-09-24T12:00:25.812139885Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بەری و هێنایە لای دایکی، و دانیشت لەسەر ئەژنۆکانی ⟨ئەو⟩ تا نیوەڕۆ و مرد.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "و بەری"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "و هێنایە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لای"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "دایکی"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "و دانیشت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "ئەژنۆکانی ⟨ئەو⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "نیوەڕۆ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    }
+  ],
+  "timestamp": "2026-09-24T12:00:25.812139885Z",
+  "model": "glm-5.3"
+}

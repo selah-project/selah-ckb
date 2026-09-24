@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":23,"ref":"proverbs 24:23","book":"proverbs","lang":"ckb","chapter":24,"translation":"ئەمانەش بۆ دانیشتووانن: ناسینی ڕوخسار لە دادگادا بە هیچ شێوەیێ باش نییە.","tokens":[{"surface":"גם","gloss":"ئەمانەش"},{"surface":"אלה","gloss":"ئەمانە"},{"surface":"לחכמים","gloss":"بۆ دانیشتووان"},{"surface":"הכר","gloss":"ناسینی"},{"surface":"פנים","gloss":"ڕوخسار"},{"surface":"במשפט","gloss":"لە دادگادا"},{"surface":"בל","gloss":"بە هیچ شێوەیێ"},{"surface":"טוב","gloss":"باش"}],"timestamp":"2026-09-24T14:29:47.728451762Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "ئەمانەش بۆ دانیشتووانن: ناسینی ڕوخسار لە دادگادا بە هیچ شێوەیێ باش نییە.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ئەمانەش"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "بۆ دانیشتووان"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ناسینی"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ڕوخسار"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "لە دادگادا"
+    },
+    {
+      "surface": "בל",
+      "gloss": "بە هیچ شێوەیێ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    }
+  ],
+  "timestamp": "2026-09-24T14:29:47.728451762Z",
+  "model": "glm-5.3"
+}

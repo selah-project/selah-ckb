@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-chronicles 21:7","book":"1-chronicles","lang":"ckb","chapter":21,"translation":"و ئەو کارە لە چاوی ئێلۆهیمدا خراپ بوو، و ⟨את⟩ ئیسرائیلی لێدا.","tokens":[{"surface":"וירע","gloss":"و خراپ بوو"},{"surface":"בעיני","gloss":"لە چاودا"},{"surface":"האלהים","gloss":"ئێلۆهیم"},{"surface":"על","gloss":"دەربارەی"},{"surface":"הדבר","gloss":"کارەکە"},{"surface":"הזה","gloss":"ئەو"},{"surface":"ויך","gloss":"و لێدا"},{"surface":"את","gloss":"⟨את⟩","marks":"ئیسرائیل"},{"surface":"ישראל","gloss":"ئیسرائیل"}],"timestamp":"2026-09-24T15:28:36.504213198Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و ئەو کارە لە چاوی ئێلۆهیمدا خراپ بوو، و ⟨את⟩ ئیسرائیلی لێدا.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "و خراپ بوو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاودا"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "دەربارەی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "و لێدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئیسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:28:36.504213198Z",
+  "model": "glm-5.3"
+}

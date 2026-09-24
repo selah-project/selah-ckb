@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":35,"ref":"job 38:35","book":"job","lang":"ckb","chapter":38,"translation":"ئایا تریسکەکان دەنێری و ⟨ئەوان⟩ دەڕۆن، و بۆ تۆ دەڵێن: لێرەین؟","tokens":[{"surface":"התשלח","gloss":"ئایا دەنێری"},{"surface":"ברקים","gloss":"تریسکەکان"},{"surface":"וילכו","gloss":"و دەڕۆن"},{"surface":"ויאמרו","gloss":"و دەڵێن"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"הננו","gloss":"لێرەین"}],"timestamp":"2026-09-24T14:46:42.208036191Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 38:35",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "ئایا تریسکەکان دەنێری و ⟨ئەوان⟩ دەڕۆن، و بۆ تۆ دەڵێن: لێرەین؟",
+  "tokens": [
+    {
+      "surface": "התשלח",
+      "gloss": "ئایا دەنێری"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "تریسکەکان"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و دەڕۆن"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "و دەڵێن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "لێرەین"
+    }
+  ],
+  "timestamp": "2026-09-24T14:46:42.208036191Z",
+  "model": "glm-5.3"
+}

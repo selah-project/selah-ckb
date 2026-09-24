@@ -1,1 +1,109 @@
-{"tier":"glm-5.2","verse":9,"ref":"genesis 20:9","book":"genesis","lang":"ckb","chapter":20,"translation":"ئەڤیمێلێخ بانگی ئاڤراهامی کرد و پێی فەرموو: چی کرتووە بۆ ئێمە؟ و من چا قسەی لات کردووە، کە گوناهێکی گەورەت خستووەتە سەر من و سەر شانشینەکەم؟ کردارێک کە ناکرێن بە من کردوون.","tokens":[{"surface":"ויקרא","gloss":"بانگی کرد"},{"surface":"אבימלך","gloss":"ئەڤیمێلێخ"},{"surface":"לאברהם","gloss":"ئاڤراهام"},{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"לו","gloss":"پێی"},{"surface":"מה","gloss":"چی"},{"surface":"עשית","gloss":"کرتووە"},{"surface":"לנו","gloss":"بۆ ئێمە"},{"surface":"ומה","gloss":"و من چ"},{"surface":"חטאתי","gloss":"قسەی لات کردووە"},{"surface":"לך","gloss":"لە تۆ"},{"surface":"כי","gloss":"کە"},{"surface":"הבאת","gloss":"خستووەتە"},{"surface":"עלי","gloss":"سەر من"},{"surface":"ועל","gloss":"و سەر"},{"surface":"ממלכתי","gloss":"شانشینەکەم"},{"surface":"חטאה","gloss":"گوناهێک"},{"surface":"גדלה","gloss":"گەورە"},{"surface":"מעשים","gloss":"کردار"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نا"},{"surface":"יעשו","gloss":"ناکرێن"},{"surface":"עשית","gloss":"کردوون"},{"surface":"עמדי","gloss":"بە من"}],"timestamp":"2026-09-24T16:45:04.399132136Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 20:9",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "ئەڤیمێلێخ بانگی ئاڤراهامی کرد و پێی فەرموو: چی کرتووە بۆ ئێمە؟ و من چا قسەی لات کردووە، کە گوناهێکی گەورەت خستووەتە سەر من و سەر شانشینەکەم؟ کردارێک کە ناکرێن بە من کردوون.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "بانگی کرد"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ئەڤیمێلێخ"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کرتووە"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ ئێمە"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و من چ"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "قسەی لات کردووە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "خستووەتە"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "سەر من"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و سەر"
+    },
+    {
+      "surface": "ממלכתי",
+      "gloss": "شانشینەکەم"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "گوناهێک"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "מעשים",
+      "gloss": "کردار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ناکرێن"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کردوون"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "بە من"
+    }
+  ],
+  "timestamp": "2026-09-24T16:45:04.399132136Z",
+  "model": "glm-5.3"
+}

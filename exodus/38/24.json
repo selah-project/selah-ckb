@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":24,"ref":"exodus 38:24","book":"exodus","lang":"ckb","chapter":38,"translation":"هەموو زێڕەکەی ئەوەی بۆ کارەکە لە هەموو کاری پیرۆزدا کرا، و زێڕی ڕەوانەکردنەکە نۆ و بیست کیکار و حەوت سەد و سی شەکەل بوو، بە شەکێلی پیرۆز.","tokens":[{"surface":"כל","gloss":"هەموو"},{"surface":"הזהב","gloss":"زێڕەکەی"},{"surface":"העשוי","gloss":"ئەوەی"},{"surface":"למלאכה","gloss":"بۆ کارەکە"},{"surface":"בכל","gloss":"لە هەموو"},{"surface":"מלאכת","gloss":"کاری"},{"surface":"הקדש","gloss":"پیرۆزدا"},{"surface":"ויהי","gloss":"و"},{"surface":"זהב","gloss":"زێڕی"},{"surface":"התנופה","gloss":"ڕەوانەکردنەکە"},{"surface":"תשע","gloss":"نۆ"},{"surface":"ועשרים","gloss":"و بیست"},{"surface":"ככר","gloss":"کیکار"},{"surface":"ושבע","gloss":"و حەوت"},{"surface":"מאות","gloss":"سەد"},{"surface":"ושלשים","gloss":"و سی"},{"surface":"שקל","gloss":"شەکەل"},{"surface":"בשקל","gloss":"بە شەکێلی"},{"surface":"הקדש","gloss":"پیرۆز"}],"timestamp":"2026-09-24T09:56:45.894421538Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 38:24",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "هەموو زێڕەکەی ئەوەی بۆ کارەکە لە هەموو کاری پیرۆزدا کرا، و زێڕی ڕەوانەکردنەکە نۆ و بیست کیکار و حەوت سەد و سی شەکەل بوو، بە شەکێلی پیرۆز.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زێڕەکەی"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "بۆ کارەکە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزدا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕی"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ڕەوانەکردنەکە"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "کیکار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "و حەوت"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شەکەل"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "بە شەکێلی"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆز"
+    }
+  ],
+  "timestamp": "2026-09-24T09:56:45.894421538Z",
+  "model": "glm-5.3"
+}

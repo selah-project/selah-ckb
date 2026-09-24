@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":32,"ref":"proverbs 24:32","book":"proverbs","lang":"ckb","chapter":24,"translation":"من بینیم و دڵم دایناوە؛ بینیم و ئامۆژگاریم وەرگرت.","tokens":[{"surface":"ואחזה","gloss":"و بینیم"},{"surface":"אנכי","gloss":"من"},{"surface":"אשית","gloss":"دانا"},{"surface":"לבי","gloss":"دڵم"},{"surface":"ראיתי","gloss":"بینیم"},{"surface":"לקחתי","gloss":"وەرمگرت"},{"surface":"מוסר","gloss":"ئامۆژگاری"}],"timestamp":"2026-09-24T14:30:28.172085760Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "من بینیم و دڵم دایناوە؛ بینیم و ئامۆژگاریم وەرگرت.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "و بینیم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "بینیم"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "وەرمگرت"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ئامۆژگاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:28.172085760Z",
+  "model": "glm-5.3"
+}

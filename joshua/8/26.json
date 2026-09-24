@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":26,"ref":"joshua 8:26","book":"joshua","lang":"ckb","chapter":8,"translation":"و یەهۆشوا دەستی خۆی نەگەڕاندەوە کە بە ڕمەکە درێژکردبوو، هەتا هەموو دانیشتووانی عای ⟨את⟩ بە تەواوی لەناوبرد.","tokens":[{"surface":"ויהושע","gloss":"و یەهۆشوا"},{"surface":"לא","gloss":"نە"},{"surface":"השיב","gloss":"گەڕاندەوە"},{"surface":"ידו","gloss":"دەستی خۆی"},{"surface":"אשר","gloss":"کە"},{"surface":"נטה","gloss":"درێژکردبوو"},{"surface":"בכידון","gloss":"بە ڕمەکە"},{"surface":"עד","gloss":"هەتا"},{"surface":"אשר","gloss":"کە"},{"surface":"החרים","gloss":"بە تەواوی لەناوبرد"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو دانیشتووانی عای"},{"surface":"כל","gloss":"هەموو"},{"surface":"ישבי","gloss":"دانیشتووانی"},{"surface":"העי","gloss":"عای"}],"timestamp":"2026-09-24T10:54:30.820309669Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 8:26",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و یەهۆشوا دەستی خۆی نەگەڕاندەوە کە بە ڕمەکە درێژکردبوو، هەتا هەموو دانیشتووانی عای ⟨את⟩ بە تەواوی لەناوبرد.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "و یەهۆشوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "گەڕاندەوە"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی خۆی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "درێژکردبوو"
+    },
+    {
+      "surface": "בכידון",
+      "gloss": "بە ڕمەکە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "بە تەواوی لەناوبرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو دانیشتووانی عای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "دانیشتووانی"
+    },
+    {
+      "surface": "העי",
+      "gloss": "عای"
+    }
+  ],
+  "timestamp": "2026-09-24T10:54:30.820309669Z",
+  "model": "glm-5.3"
+}

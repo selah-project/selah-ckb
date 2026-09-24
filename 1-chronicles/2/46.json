@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":46,"ref":"1-chronicles 2:46","book":"1-chronicles","lang":"ckb","chapter":2,"translation":"و عەیفە، پیلەگێشی کالەڤ، ⟨את⟩ حەران و ⟨את⟩ موتسا و ⟨את⟩ گەزێزی بوو؛ و حەران ⟨את⟩ گەزێزی بەخواست.","tokens":[{"surface":"ועיפה","gloss":"و عەیفە"},{"surface":"פילגש","gloss":"پیلەگێش"},{"surface":"כלב","gloss":"کالەڤ"},{"surface":"ילדה","gloss":"بوو"},{"surface":"את","gloss":"⟨את⟩","marks":"حەران"},{"surface":"חרן","gloss":"حەران"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"موتسا"},{"surface":"מוצא","gloss":"موتسا"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"گەزێز"},{"surface":"גזז","gloss":"گەزێز"},{"surface":"וחרן","gloss":"و حەران"},{"surface":"הליד","gloss":"بەخواست"},{"surface":"את","gloss":"⟨את⟩","marks":"گەزێز"},{"surface":"גזז","gloss":"گەزێز"}],"timestamp":"2026-09-24T16:27:35.728158493Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و عەیفە، پیلەگێشی کالەڤ، ⟨את⟩ حەران و ⟨את⟩ موتسا و ⟨את⟩ گەزێزی بوو؛ و حەران ⟨את⟩ گەزێزی بەخواست.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "و عەیفە"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "پیلەگێش"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالەڤ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حەران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حەران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "موتسا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "موتسا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "گەزێز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گەزێز"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "و حەران"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بەخواست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەزێز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "گەزێز"
+    }
+  ],
+  "timestamp": "2026-09-24T16:27:35.728158493Z",
+  "model": "glm-5.3"
+}

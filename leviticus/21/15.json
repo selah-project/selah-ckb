@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":15,"ref":"leviticus 21:15","book":"leviticus","lang":"ckb","chapter":21,"translation":"و تۆوی خۆی لەناو گەلەکەیدا پیس ناکات چونکو من یاهوەم ئەو پیرۆز دەکەم.","tokens":[{"surface":"ולא","gloss":"و نا"},{"surface":"יחלל","gloss":"پیس دەکات"},{"surface":"זרעו","gloss":"تۆوی خۆی"},{"surface":"בעמיו","gloss":"لەناو گەلەکەیدا"},{"surface":"כי","gloss":"چونکو"},{"surface":"אני","gloss":"من"},{"surface":"יהוה","gloss":"یاهوەم"},{"surface":"מקדשו","gloss":"پیرۆز دەکات"}],"timestamp":"2026-09-24T10:08:03.379679514Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و تۆوی خۆی لەناو گەلەکەیدا پیس ناکات چونکو من یاهوەم ئەو پیرۆز دەکەم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "پیس دەکات"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "تۆوی خۆی"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "لەناو گەلەکەیدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەم"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "پیرۆز دەکات"
+    }
+  ],
+  "timestamp": "2026-09-24T10:08:03.379679514Z",
+  "model": "glm-5.3"
+}

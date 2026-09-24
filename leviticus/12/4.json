@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":4,"ref":"leviticus 12:4","book":"leviticus","lang":"ckb","chapter":12,"translation":"و سی ڕۆژ و سێ ڕۆژ لە خوێنی پاکبوونەوە دەنیشێت؛ بە هیچ پیرۆزێک دەستی ناڵێت و بۆ پەرستگاکە ناچێت، تا ڕۆژانی پاکبوونەوەکەی پڕ ببن.","tokens":[{"surface":"ושלשים","gloss":"و سی"},{"surface":"יום","gloss":"ڕۆژ"},{"surface":"ושלשת","gloss":"و سێ"},{"surface":"ימים","gloss":"ڕۆژ"},{"surface":"תשב","gloss":"دەنیشێت"},{"surface":"בדמי","gloss":"لە خوێنی"},{"surface":"טהרה","gloss":"پاکبوونەوە"},{"surface":"בכל","gloss":"بە هیچ"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"לא","gloss":"نا"},{"surface":"תגע","gloss":"دەستی ناڵێت"},{"surface":"ואל","gloss":"و بۆ"},{"surface":"המקדש","gloss":"پەرستگاکە"},{"surface":"לא","gloss":"نا"},{"surface":"תבא","gloss":"ناچێت"},{"surface":"עד","gloss":"تا"},{"surface":"מלאת","gloss":"پڕبوونی"},{"surface":"ימי","gloss":"ڕۆژانی"},{"surface":"טהרה","gloss":"پاکبوونەوەکەی"}],"timestamp":"2026-09-24T10:03:00.179516144Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 12:4",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و سی ڕۆژ و سێ ڕۆژ لە خوێنی پاکبوونەوە دەنیشێت؛ بە هیچ پیرۆزێک دەستی ناڵێت و بۆ پەرستگاکە ناچێت، تا ڕۆژانی پاکبوونەوەکەی پڕ ببن.",
+  "tokens": [
+    {
+      "surface": "ושלשים",
+      "gloss": "و سی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "دەنیشێت"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "لە خوێنی"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاکبوونەوە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بە هیچ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "دەستی ناڵێت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "پەرستگاکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ناچێت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "پڕبوونی"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژانی"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاکبوونەوەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:03:00.179516144Z",
+  "model": "glm-5.3"
+}

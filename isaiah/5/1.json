@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":1,"ref":"isaiah 5:1","book":"isaiah","lang":"ckb","chapter":5,"translation":"«ئێستا بۆ دڵدارم دەڵێمەوە، گۆرانیی دڵدارم بۆ ڕەبەزاری؛ ڕەبەزارێک بوو بۆ دڵدارم، لە قۆچێک، کوڕی چەور.»","tokens":[{"surface":"אשירה","gloss":"دەڵێمەوە"},{"surface":"נא","gloss":"ئێستا"},{"surface":"לידידי","gloss":"بۆ دڵدارم"},{"surface":"שירת","gloss":"گۆرانیی"},{"surface":"דודי","gloss":"دڵدارم"},{"surface":"לכרמו","gloss":"بۆ ڕەبەزاری"},{"surface":"כרם","gloss":"ڕەبەزارێک"},{"surface":"היה","gloss":"بوو"},{"surface":"לידידי","gloss":"بۆ دڵدارم"},{"surface":"בקרן","gloss":"لە قۆچێک"},{"surface":"בן","gloss":"کوڕی"},{"surface":"שמן","gloss":"چەور"}],"timestamp":"2026-09-24T16:49:35.154189928Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "«ئێستا بۆ دڵدارم دەڵێمەوە، گۆرانیی دڵدارم بۆ ڕەبەزاری؛ ڕەبەزارێک بوو بۆ دڵدارم، لە قۆچێک، کوڕی چەور.»",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "دەڵێمەوە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "بۆ دڵدارم"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "گۆرانیی"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "دڵدارم"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "بۆ ڕەبەزاری"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ڕەبەزارێک"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "بۆ دڵدارم"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "لە قۆچێک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "چەور"
+    }
+  ],
+  "timestamp": "2026-09-24T16:49:35.154189928Z",
+  "model": "glm-5.3"
+}

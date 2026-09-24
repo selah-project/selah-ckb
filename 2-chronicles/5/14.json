@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":14,"ref":"2-chronicles 5:14","book":"2-chronicles","lang":"ckb","chapter":5,"translation":"و کاهینان نەیانتوانی ڕابوەستن بۆ خزمەتکردن لەبەر هەورەکە، چونکە شکۆی یاهوە ⟨את⟩ ماڵی ئێلۆهیمی پڕکردەوە.","tokens":[{"surface":"ולא","gloss":"و نە"},{"surface":"יכלו","gloss":"توانیان"},{"surface":"הכהנים","gloss":"کاهینان"},{"surface":"לעמוד","gloss":"بۆ ڕاوەستان"},{"surface":"לשרת","gloss":"بۆ خزمەتکردن"},{"surface":"מפני","gloss":"لەبەر"},{"surface":"הענן","gloss":"هەورەکە"},{"surface":"כי","gloss":"چونکە"},{"surface":"מלא","gloss":"پڕکردەوە"},{"surface":"כבוד","gloss":"شکۆی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"את","gloss":"⟨את⟩","marks":"ماڵی ئێلۆهیم"},{"surface":"בית","gloss":"ماڵی"},{"surface":"האלהים","gloss":"ئێلۆهیم"}],"timestamp":"2026-09-24T15:33:05.445982183Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 5:14",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و کاهینان نەیانتوانی ڕابوەستن بۆ خزمەتکردن لەبەر هەورەکە، چونکە شکۆی یاهوە ⟨את⟩ ماڵی ئێلۆهیمی پڕکردەوە.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "توانیان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهینان"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "بۆ ڕاوەستان"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "بۆ خزمەتکردن"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "هەورەکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "پڕکردەوە"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماڵی ئێلۆهیم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:05.445982183Z",
+  "model": "glm-5.3"
+}

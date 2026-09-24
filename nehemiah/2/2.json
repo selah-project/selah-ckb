@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":2,"ref":"nehemiah 2:2","book":"nehemiah","lang":"ckb","chapter":2,"translation":"و پاشا بۆم فەرموو: بۆچی ڕوخسارت ناخۆشە، لەکاتێکدا تۆ نەخۆش نیت؟ ئەمە هیچ نییە مەگەر دڵتەڕێژی. و من زۆر زۆر ترسا.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"לי","gloss":"بۆم"},{"surface":"המלך","gloss":"پاشا"},{"surface":"מדוע","gloss":"بۆچی"},{"surface":"פניך","gloss":"ڕوخسارت"},{"surface":"רעים","gloss":"ناخۆشە"},{"surface":"ואתה","gloss":"و تۆ"},{"surface":"אינך","gloss":"نیت"},{"surface":"חולה","gloss":"نەخۆش"},{"surface":"אין","gloss":"هیچ نییە"},{"surface":"זה","gloss":"ئەمە"},{"surface":"כי","gloss":"مەگەر"},{"surface":"אם","gloss":"⟨مەگەر⟩"},{"surface":"רע","gloss":"دڵتەڕێژی"},{"surface":"לב","gloss":"دڵ"},{"surface":"ואירא","gloss":"و ترسا"},{"surface":"הרבה","gloss":"زۆر"},{"surface":"מאד","gloss":"زۆر"}],"timestamp":"2026-09-24T15:14:47.460248922Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و پاشا بۆم فەرموو: بۆچی ڕوخسارت ناخۆشە، لەکاتێکدا تۆ نەخۆش نیت؟ ئەمە هیچ نییە مەگەر دڵتەڕێژی. و من زۆر زۆر ترسا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕوخسارت"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ناخۆشە"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "نیت"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "نەخۆش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "هیچ نییە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مەگەر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨مەگەر⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "دڵتەڕێژی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "و ترسا"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:14:47.460248922Z",
+  "model": "glm-5.3"
+}

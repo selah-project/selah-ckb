@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":8,"ref":"isaiah 14:8","book":"isaiah","lang":"ckb","chapter":14,"translation":"هەروەها سرووەکان بۆ تۆ شاد بوون، ئارزەکانی لێبانۆن؛ لەو کاتەوە خەوتووی، دەبڕەر لەسەر ئێمە سەرنانکەوێت.","tokens":[{"surface":"גם","gloss":"هەروەها"},{"surface":"ברושים","gloss":"سرووەکان"},{"surface":"שמחו","gloss":"شاد بوون"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"ארזי","gloss":"ئارزەکانی"},{"surface":"לבנון","gloss":"لێبانۆن"},{"surface":"מאז","gloss":"لەو کاتەوە"},{"surface":"שכבת","gloss":"خەوتووی"},{"surface":"לא","gloss":"نا"},{"surface":"יעלה","gloss":"سەرنانکەوێت"},{"surface":"הכרת","gloss":"دەبڕەر"},{"surface":"עלינו","gloss":"لەسەر ئێمە"}],"timestamp":"2026-09-24T12:17:05.314671649Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "هەروەها سرووەکان بۆ تۆ شاد بوون، ئارزەکانی لێبانۆن؛ لەو کاتەوە خەوتووی، دەبڕەر لەسەر ئێمە سەرنانکەوێت.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "سرووەکان"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "شاد بوون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ئارزەکانی"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لێبانۆن"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "لەو کاتەوە"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "خەوتووی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "سەرنانکەوێت"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "دەبڕەر"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "لەسەر ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:17:05.314671649Z",
+  "model": "glm-5.3"
+}

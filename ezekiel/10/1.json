@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":1,"ref":"ezekiel 10:1","book":"ezekiel","lang":"ckb","chapter":10,"translation":"و بینیم و ئەوا لەسەر ڕووپەوەی سەر کرووبەکان وەک بەردی سەفیر وەک دەرکەوتنی شێوەی تەختێک دەبینرێت لەسەریان.","tokens":[{"surface":"ואראה","gloss":"و بینیم"},{"surface":"והנה","gloss":"و ئەوا"},{"surface":"אל","gloss":"لەسەر"},{"surface":"הרקיע","gloss":"ڕووپەوەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"על","gloss":"لەسەر"},{"surface":"ראש","gloss":"سەر"},{"surface":"הכרבים","gloss":"کرووبەکان"},{"surface":"כאבן","gloss":"وەک بەردی"},{"surface":"ספיר","gloss":"سەفیر"},{"surface":"כמראה","gloss":"وەک دەرکەوتنی"},{"surface":"דמות","gloss":"شێوەی"},{"surface":"כסא","gloss":"تەخت"},{"surface":"נראה","gloss":"دەبینرێت"},{"surface":"עליהם","gloss":"لەسەریان"}],"timestamp":"2026-09-24T13:08:34.097723930Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 10:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و بینیم و ئەوا لەسەر ڕووپەوەی سەر کرووبەکان وەک بەردی سەفیر وەک دەرکەوتنی شێوەی تەختێک دەبینرێت لەسەریان.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "و بینیم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ڕووپەوەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "کرووبەکان"
+    },
+    {
+      "surface": "כאבן",
+      "gloss": "وەک بەردی"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "سەفیر"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "وەک دەرکەوتنی"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "شێوەی"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تەخت"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "دەبینرێت"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "لەسەریان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:08:34.097723930Z",
+  "model": "glm-5.3"
+}

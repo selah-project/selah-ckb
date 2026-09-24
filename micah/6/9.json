@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":9,"ref":"micah 6:9","book":"micah","lang":"ckb","chapter":6,"translation":"دەنگی یاهوە بۆ شارەکە بانگ دەکات، و دانایی ناوت دەترسێنێت؛ گوێ بگرن لە گۆسە، و کێ ئەوی دیاری کردووە.","tokens":[{"surface":"קול","gloss":"دەنگی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"לעיר","gloss":"بۆ شارەکە"},{"surface":"יקרא","gloss":"بانگ دەکات"},{"surface":"ותושיה","gloss":"و دانایی"},{"surface":"יראה","gloss":"دەترسێنێت"},{"surface":"שמך","gloss":"ناوت"},{"surface":"שמעו","gloss":"گوێ بگرن"},{"surface":"מטה","gloss":"لە گۆسە"},{"surface":"ומי","gloss":"و کێ"},{"surface":"יעדה","gloss":"دیاری کردووە"}],"timestamp":"2026-09-24T13:38:45.236379441Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "دەنگی یاهوە بۆ شارەکە بانگ دەکات، و دانایی ناوت دەترسێنێت؛ گوێ بگرن لە گۆسە، و کێ ئەوی دیاری کردووە.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "بۆ شارەکە"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "بانگ دەکات"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "و دانایی"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دەترسێنێت"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "گوێ بگرن"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "لە گۆسە"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "و کێ"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "دیاری کردووە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:38:45.236379441Z",
+  "model": "glm-5.3"
+}

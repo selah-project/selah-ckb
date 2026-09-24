@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":3,"ref":"proverbs 25:3","book":"proverbs","lang":"ckb","chapter":25,"translation":"ئاسمان بۆ بەرزی، و زەوی بۆ قووڵی، و دڵی پاشاکان لێکۆڵینەوەی نییە.","tokens":[{"surface":"שמים","gloss":"ئاسمان"},{"surface":"לרום","gloss":"بۆ بەرزی"},{"surface":"וארץ","gloss":"و زەوی"},{"surface":"לעמק","gloss":"بۆ قووڵی"},{"surface":"ולב","gloss":"و دڵی"},{"surface":"מלכים","gloss":"پاشاکان"},{"surface":"אין","gloss":"نییە"},{"surface":"חקר","gloss":"لێکۆڵینەوەی"}],"timestamp":"2026-09-24T14:30:42.861564643Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "ئاسمان بۆ بەرزی، و زەوی بۆ قووڵی، و دڵی پاشاکان لێکۆڵینەوەی نییە.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "ئاسمان"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "بۆ بەرزی"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "و زەوی"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "بۆ قووڵی"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "و دڵی"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پاشاکان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "لێکۆڵینەوەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:30:42.861564643Z",
+  "model": "glm-5.3"
+}

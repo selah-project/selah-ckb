@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":19,"ref":"2-samuel 1:19","book":"2-samuel","lang":"ckb","chapter":1,"translation":"ئاسکی جوانی ئیسرائیل، لە بەرزاییەکانتدا بریندارە — چۆن بەهێزەکان کەوتن!","tokens":[{"surface":"הצבי","gloss":"ئاسکی جوان"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"על","gloss":"لەسەر"},{"surface":"במותיך","gloss":"بەرزاییەکانت"},{"surface":"חלל","gloss":"بریندار"},{"surface":"איך","gloss":"چۆن"},{"surface":"נפלו","gloss":"کەوتن"},{"surface":"גבורים","gloss":"بەهێزەکان"}],"timestamp":"2026-09-24T11:31:06.698317857Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 1:19",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "ئاسکی جوانی ئیسرائیل، لە بەرزاییەکانتدا بریندارە — چۆن بەهێزەکان کەوتن!",
+  "tokens": [
+    {
+      "surface": "הצבי",
+      "gloss": "ئاسکی جوان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "بەرزاییەکانت"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "بریندار"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "کەوتن"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "بەهێزەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:31:06.698317857Z",
+  "model": "glm-5.3"
+}

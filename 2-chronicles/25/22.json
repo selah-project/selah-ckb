@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"2-chronicles 25:22","book":"2-chronicles","lang":"ckb","chapter":25,"translation":"و یەهودا لەبەردەم ئیسرائیل داکۆکیران ⟨و⟩ هەر پیاوێک بۆ چادرەکەی هەڵات.","tokens":[{"surface":"וינגף","gloss":"داکۆکیران"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"לפני","gloss":"لەبەردەم"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"וינסו","gloss":"و هەڵاتن"},{"surface":"איש","gloss":"هەر پیاوێک"},{"surface":"לאהליו","gloss":"بۆ چادرەکەی"}],"timestamp":"2026-09-24T15:43:09.898637728Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و یەهودا لەبەردەم ئیسرائیل داکۆکیران ⟨و⟩ هەر پیاوێک بۆ چادرەکەی هەڵات.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "داکۆکیران"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لەبەردەم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "و هەڵاتن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هەر پیاوێک"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "بۆ چادرەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:43:09.898637728Z",
+  "model": "glm-5.3"
+}

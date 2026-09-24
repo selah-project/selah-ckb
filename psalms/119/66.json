@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":66,"ref":"psalms 119:66","book":"psalms","lang":"ckb","chapter":119,"translation":"چاکی تێگەیشتن و زانیاری فێرم بکە، چونکە بە فرمانەکانت باوەڕم هێناوە.","tokens":[{"surface":"טוב","gloss":"چاکی"},{"surface":"טעם","gloss":"تێگەیشتن"},{"surface":"ודעת","gloss":"و زانیاری"},{"surface":"למדני","gloss":"فێرم بکە"},{"surface":"כי","gloss":"چونکە"},{"surface":"במצותיך","gloss":"بە فرمانەکانت"},{"surface":"האמנתי","gloss":"باوەڕم هێناوە"}],"timestamp":"2026-09-24T14:17:03.771470990Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 119,
+  "translation": "چاکی تێگەیشتن و زانیاری فێرم بکە، چونکە بە فرمانەکانت باوەڕم هێناوە.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "چاکی"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "تێگەیشتن"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "و زانیاری"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "فێرم بکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "بە فرمانەکانت"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "باوەڕم هێناوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:03.771470990Z",
+  "model": "glm-5.3"
+}

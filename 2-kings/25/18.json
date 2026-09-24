@@ -1,1 +1,76 @@
-{"tier":"glm-5.2","verse":18,"ref":"2-kings 25:18","book":"2-kings","lang":"ckb","chapter":25,"translation":"و سەرۆکی جلادەکان ⟨את⟩ سێرایا کاهینی سەرەکی و ⟨את⟩ تسفەنیاهو کاهینی دووەم و ⟨את⟩ سێ پارێزەری دەرگاوی برد.","tokens":[{"surface":"ויקח","gloss":"و برد"},{"surface":"רב","gloss":"سەرۆکی"},{"surface":"טבחים","gloss":"جلادەکان"},{"surface":"את","gloss":"⟨את⟩","marks":"سێرایا"},{"surface":"שריה","gloss":"سێرایا"},{"surface":"כהן","gloss":"کاهینی"},{"surface":"הראש","gloss":"سەرەکی"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"تسفەنیاهو"},{"surface":"צפניהו","gloss":"تسفەنیاهو"},{"surface":"כהן","gloss":"کاهینی"},{"surface":"משנה","gloss":"دووەم"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"سێ پارێزەری دەرگا"},{"surface":"שלשת","gloss":"سێ"},{"surface":"שמרי","gloss":"پارێزەرانی"},{"surface":"הסף","gloss":"دەرگا"}],"timestamp":"2026-09-24T12:13:13.121207580Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و سەرۆکی جلادەکان ⟨את⟩ سێرایا کاهینی سەرەکی و ⟨את⟩ تسفەنیاهو کاهینی دووەم و ⟨את⟩ سێ پارێزەری دەرگاوی برد.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "و برد"
+    },
+    {
+      "surface": "רב",
+      "gloss": "سەرۆکی"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "جلادەکان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سێرایا"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سێرایا"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهینی"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سەرەکی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "تسفەنیاهو"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "تسفەنیاهو"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهینی"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سێ پارێزەری دەرگا"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "پارێزەرانی"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "دەرگا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:13:13.121207580Z",
+  "model": "glm-5.3"
+}

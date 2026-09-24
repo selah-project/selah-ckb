@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":7,"ref":"deuteronomy 17:7","book":"deuteronomy","lang":"ckb","chapter":17,"translation":"دەستی شایەتان دەبێت لەسەری لە پێشەوە بۆ کووشتنی، و دەستی هەموو گەلەکە لە دواوە؛ و ئەو خراپەیە لە ناوەڕۆکتەوە لەناو دەبەیت.","tokens":[{"surface":"יד","gloss":"دەستی"},{"surface":"העדים","gloss":"شایەتان"},{"surface":"תהיה","gloss":"دەبێت"},{"surface":"בו","gloss":"لەسەری"},{"surface":"בראשנה","gloss":"لە پێشەوە"},{"surface":"להמיתו","gloss":"بۆ کووشتنی"},{"surface":"ויד","gloss":"و دەستی"},{"surface":"כל","gloss":"هەموو"},{"surface":"העם","gloss":"گەلەکە"},{"surface":"באחרנה","gloss":"لە دواوە"},{"surface":"ובערת","gloss":"و لەناو دەبەیت"},{"surface":"הרע","gloss":"خراپەیەکە"},{"surface":"מקרבך","gloss":"لە ناوەڕۆکتەوە"}],"timestamp":"2026-09-24T10:44:17.186858382Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "دەستی شایەتان دەبێت لەسەری لە پێشەوە بۆ کووشتنی، و دەستی هەموو گەلەکە لە دواوە؛ و ئەو خراپەیە لە ناوەڕۆکتەوە لەناو دەبەیت.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "شایەتان"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "لە پێشەوە"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "بۆ کووشتنی"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "و دەستی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "لە دواوە"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "و لەناو دەبەیت"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "خراپەیەکە"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "لە ناوەڕۆکتەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:17.186858382Z",
+  "model": "glm-5.3"
+}

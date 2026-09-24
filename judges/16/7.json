@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":7,"ref":"judges 16:7","book":"judges","lang":"ckb","chapter":16,"translation":"و شیمشۆن وتى بۆی: ئەگەر بە حەوت تەوتاری تازە کە نەوشکاونەوە بمبەستن، لاواز دەبم و دەبم وەک یەکێک لە مرۆڤەکان.","tokens":[{"surface":"ויאמר","gloss":"و وتى"},{"surface":"אליה","gloss":"بۆی"},{"surface":"שמשון","gloss":"شیمشۆن"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"יאסרני","gloss":"بمبەستن"},{"surface":"בשבעה","gloss":"بە حەوت"},{"surface":"יתרים","gloss":"تەوتار"},{"surface":"לחים","gloss":"تازە"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"חרבו","gloss":"وشک بووەوە"},{"surface":"וחליתי","gloss":"لاواز دەبم"},{"surface":"והייתי","gloss":"و دەبم"},{"surface":"כאחד","gloss":"وەک یەکێک لە"},{"surface":"האדם","gloss":"مرۆڤەکان"}],"timestamp":"2026-09-24T11:12:43.852395735Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 16:7",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و شیمشۆن وتى بۆی: ئەگەر بە حەوت تەوتاری تازە کە نەوشکاونەوە بمبەستن، لاواز دەبم و دەبم وەک یەکێک لە مرۆڤەکان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وتى"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شیمشۆن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יאסרני",
+      "gloss": "بمبەستن"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "بە حەوت"
+    },
+    {
+      "surface": "יתרים",
+      "gloss": "تەوتار"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "تازە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "وشک بووەوە"
+    },
+    {
+      "surface": "וחליתי",
+      "gloss": "لاواز دەبم"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "و دەبم"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "وەک یەکێک لە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:12:43.852395735Z",
+  "model": "glm-5.3"
+}

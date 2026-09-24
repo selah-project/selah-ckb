@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":25,"ref":"proverbs 8:25","book":"proverbs","lang":"ckb","chapter":8,"translation":"پێش ئەوەی کێوەکان دابەزرێن، لە پێش هەرزەگرداندا من لەدایک هێنرام.","tokens":[{"surface":"בטרם","gloss":"پێش ئەوەی"},{"surface":"הרים","gloss":"کێوەکان"},{"surface":"הטבעו","gloss":"دابەزرێن"},{"surface":"לפני","gloss":"لە پێش"},{"surface":"גבעות","gloss":"هەرزەگردان"},{"surface":"חוללתי","gloss":"لەدایک هێنرام"}],"timestamp":"2026-09-24T14:25:10.458799084Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "پێش ئەوەی کێوەکان دابەزرێن، لە پێش هەرزەگرداندا من لەدایک هێنرام.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "پێش ئەوەی"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "کێوەکان"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "دابەزرێن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "هەرزەگردان"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "لەدایک هێنرام"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:10.458799084Z",
+  "model": "glm-5.3"
+}

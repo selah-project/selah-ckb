@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":17,"ref":"proverbs 28:17","book":"proverbs","lang":"ckb","chapter":28,"translation":"مرۆڤ کە بە خوێنی گیان ستەم دەکات هەتا چاڵ دەڕوات با پاڵپشتی ئەو نەکرێت","tokens":[{"surface":"אדם","gloss":"مرۆڤ"},{"surface":"עשק","gloss":"ستەم دەکات"},{"surface":"בדם","gloss":"بە خوێن"},{"surface":"נפש","gloss":"گیان"},{"surface":"עד","gloss":"هەتا"},{"surface":"בור","gloss":"چاڵ"},{"surface":"ינוס","gloss":"دەڕوات"},{"surface":"אל","gloss":"با نە"},{"surface":"יתמכו","gloss":"پاڵپشتی بکەن"},{"surface":"בו","gloss":"ئەو"}],"timestamp":"2026-09-24T14:32:26.762330083Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "مرۆڤ کە بە خوێنی گیان ستەم دەکات هەتا چاڵ دەڕوات با پاڵپشتی ئەو نەکرێت",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ستەم دەکات"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "بە خوێن"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "בור",
+      "gloss": "چاڵ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "دەڕوات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "با نە"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "پاڵپشتی بکەن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:26.762330083Z",
+  "model": "glm-5.3"
+}

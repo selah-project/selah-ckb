@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":14,"ref":"deuteronomy 28:14","book":"deuteronomy","lang":"ckb","chapter":28,"translation":"و لانابڕێیت لە هیچ لەو وشەیانەی کە من ئەمڕۆ فەرمانی پێ دەکەم ⟨את⟩ ئێوە، بۆ ڕاست یان بۆ چەپ، بۆ ڕۆیشتن لەدوای خوداکانی دیکە بۆ خزمەتکردنیان.","tokens":[{"surface":"ולא","gloss":"و نا"},{"surface":"תסור","gloss":"لانابڕێیت"},{"surface":"מכל","gloss":"لە هیچ"},{"surface":"הדברים","gloss":"لەو وشەیانەی"},{"surface":"אשר","gloss":"کە"},{"surface":"אנכי","gloss":"من"},{"surface":"מצוה","gloss":"فەرمانی پێ دەکەم"},{"surface":"אתכם","gloss":"⟨את⟩ ئێوە","marks":"ئێوە"},{"surface":"היום","gloss":"ئەمڕۆ"},{"surface":"ימין","gloss":"ڕاست"},{"surface":"ושמאול","gloss":"و چەپ"},{"surface":"ללכת","gloss":"بۆ ڕۆیشتن"},{"surface":"אחרי","gloss":"لەدوای"},{"surface":"אלהים","gloss":"خوداکان"},{"surface":"אחרים","gloss":"دیکە"},{"surface":"לעבדם","gloss":"بۆ خزمەتکردنیان"}],"timestamp":"2026-09-24T16:38:57.749893549Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و لانابڕێیت لە هیچ لەو وشەیانەی کە من ئەمڕۆ فەرمانی پێ دەکەم ⟨את⟩ ئێوە، بۆ ڕاست یان بۆ چەپ، بۆ ڕۆیشتن لەدوای خوداکانی دیکە بۆ خزمەتکردنیان.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "لانابڕێیت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هیچ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "لەو وشەیانەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "فەرمانی پێ دەکەم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ئێوە",
+      "marks": "ئێوە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "و چەپ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "بۆ ڕۆیشتن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "لەدوای"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خوداکان"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "بۆ خزمەتکردنیان"
+    }
+  ],
+  "timestamp": "2026-09-24T16:38:57.749893549Z",
+  "model": "glm-5.3"
+}

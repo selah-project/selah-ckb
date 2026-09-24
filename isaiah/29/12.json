@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":12,"ref":"isaiah 29:12","book":"isaiah","lang":"ckb","chapter":29,"translation":"و کتێبەکە دەدرێت بە ئەوەی کتێب نەدەزانێت، دەڵێن: ئەی تکایە ئەمە بخوێنەوە، و دەڵێت: کتێب نەدەزانم.","tokens":[{"surface":"ונתן","gloss":"و دەدرێت"},{"surface":"הספר","gloss":"کتێبەکە"},{"surface":"על","gloss":"بۆ"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"לא","gloss":"نە"},{"surface":"ידע","gloss":"دەزانێت"},{"surface":"ספר","gloss":"کتێب"},{"surface":"לאמר","gloss":"دەڵێن"},{"surface":"קרא","gloss":"بخوێنەوە"},{"surface":"נא","gloss":"ئەی تکایە"},{"surface":"זה","gloss":"ئەمە"},{"surface":"ואמר","gloss":"و دەڵێت"},{"surface":"לא","gloss":"نە"},{"surface":"ידעתי","gloss":"نەدەزانم"},{"surface":"ספר","gloss":"کتێب"}],"timestamp":"2026-09-24T12:22:56.762573359Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و کتێبەکە دەدرێت بە ئەوەی کتێب نەدەزانێت، دەڵێن: ئەی تکایە ئەمە بخوێنەوە، و دەڵێت: کتێب نەدەزانم.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "و دەدرێت"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتێبەکە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "دەزانێت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتێب"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "بخوێنەوە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئەی تکایە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و دەڵێت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "نەدەزانم"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتێب"
+    }
+  ],
+  "timestamp": "2026-09-24T12:22:56.762573359Z",
+  "model": "glm-5.3"
+}

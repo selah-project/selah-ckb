@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":7,"ref":"isaiah 39:7","book":"isaiah","lang":"ckb","chapter":39,"translation":"و لە کوڕەکانت کە لە تۆ دەردەچن، کە لێیان دەبێت، دەیانگرن و دەبن بە خەسەکان لە کۆشکی پاشای بابل.","tokens":[{"surface":"ומבניך","gloss":"و لە کوڕەکانت"},{"surface":"אשר","gloss":"کە"},{"surface":"יצאו","gloss":"دەردەچن"},{"surface":"ממך","gloss":"لە تۆ"},{"surface":"אשר","gloss":"کە"},{"surface":"תוליד","gloss":"لێیان دەبێت"},{"surface":"יקחו","gloss":"دەیانگرن"},{"surface":"והיו","gloss":"و دەبن"},{"surface":"סריסים","gloss":"خەسەکان"},{"surface":"בהיכל","gloss":"لە کۆشک"},{"surface":"מלך","gloss":"پاشای"},{"surface":"בבל","gloss":"بابل"}],"timestamp":"2026-09-24T12:26:00.660058403Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 39:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و لە کوڕەکانت کە لە تۆ دەردەچن، کە لێیان دەبێت، دەیانگرن و دەبن بە خەسەکان لە کۆشکی پاشای بابل.",
+  "tokens": [
+    {
+      "surface": "ומבניך",
+      "gloss": "و لە کوڕەکانت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "دەردەچن"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "لە تۆ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "لێیان دەبێت"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "دەیانگرن"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "خەسەکان"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "لە کۆشک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:26:00.660058403Z",
+  "model": "glm-5.3"
+}

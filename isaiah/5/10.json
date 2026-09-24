@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 5:10","book":"isaiah","lang":"ckb","chapter":5,"translation":"چونکە دە جووتی مزڕ دەکەنەوە یەک بات، و تۆوی حۆمەرێک دەکاتەوە یەک ئێفا.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"עשרת","gloss":"دە"},{"surface":"צמדי","gloss":"جووتی"},{"surface":"כרם","gloss":"مزڕ"},{"surface":"יעשו","gloss":"دەکەنەوە"},{"surface":"בת","gloss":"بات"},{"surface":"אחת","gloss":"یەک"},{"surface":"וזרע","gloss":"و تۆوی"},{"surface":"חמר","gloss":"حۆمەرێک"},{"surface":"יעשה","gloss":"دەکاتەوە"},{"surface":"איפה","gloss":"ئێفا"}],"timestamp":"2026-09-24T12:14:51.289504470Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چونکە دە جووتی مزڕ دەکەنەوە یەک بات، و تۆوی حۆمەرێک دەکاتەوە یەک ئێفا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دە"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "جووتی"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "مزڕ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "دەکەنەوە"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بات"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "و تۆوی"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "حۆمەرێک"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکاتەوە"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ئێفا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:14:51.289504470Z",
+  "model": "glm-5.3"
+}

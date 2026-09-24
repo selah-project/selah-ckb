@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":20,"ref":"psalms 136:20","book":"psalms","lang":"ckb","chapter":136,"translation":"و عوگی پادشای بەشان، چونکە بۆ ئەبەدە حەسەدی.","tokens":[{"surface":"ולעוג","gloss":"و عوگ"},{"surface":"מלך","gloss":"پادشای"},{"surface":"הבשן","gloss":"بەشان"},{"surface":"כי","gloss":"چونکە"},{"surface":"לעולם","gloss":"بۆ ئەبەد"},{"surface":"חסדו","gloss":"حەسەدی"}],"timestamp":"2026-09-24T14:19:15.334010198Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "و عوگی پادشای بەشان، چونکە بۆ ئەبەدە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "و عوگ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشای"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "بەشان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ ئەبەد"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:15.334010198Z",
+  "model": "glm-5.3"
+}

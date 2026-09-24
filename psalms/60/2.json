@@ -1,1 +1,84 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 60:2","book":"psalms","lang":"ckb","chapter":60,"translation":"لە شەڕکردنیدا لەگەڵ ⟨את⟩ ئارامی نەهەرایم و لەگەڵ ⟨את⟩ ئارامی سۆبا، یۆئاب گەڕایەوە و ⟨את⟩ ئەدۆمی لە دۆڵی شۆردا لێدا — دوازدە هەزار.","tokens":[{"surface":"בהצותו","gloss":"لە شەڕکردنیدا"},{"surface":"את","gloss":"⟨את⟩","marks":"ئارامی نەهەرایم"},{"surface":"ארם","gloss":"ئارام"},{"surface":"נהרים","gloss":"نەهەرایم"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"ئارامی سۆبا"},{"surface":"ארם","gloss":"ئارام"},{"surface":"צובה","gloss":"سۆبا"},{"surface":"וישב","gloss":"گەڕایەوە"},{"surface":"יואב","gloss":"یۆئاب"},{"surface":"ויך","gloss":"لێدا"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەدۆم"},{"surface":"אדום","gloss":"ئەدۆم"},{"surface":"בגיא","gloss":"لە دۆڵ"},{"surface":"מלח","gloss":"شۆر"},{"surface":"שנים","gloss":"دوو"},{"surface":"עשר","gloss":"دە"},{"surface":"אלף","gloss":"هەزار"}],"timestamp":"2026-09-24T14:01:04.007501695Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 60,
+  "translation": "لە شەڕکردنیدا لەگەڵ ⟨את⟩ ئارامی نەهەرایم و لەگەڵ ⟨את⟩ ئارامی سۆبا، یۆئاب گەڕایەوە و ⟨את⟩ ئەدۆمی لە دۆڵی شۆردا لێدا — دوازدە هەزار.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "لە شەڕکردنیدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئارامی نەهەرایم"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ئارام"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "نەهەرایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "ئارامی سۆبا"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ئارام"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "سۆبا"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "گەڕایەوە"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یۆئاب"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "لێدا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەدۆم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "لە دۆڵ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "شۆر"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:04.007501695Z",
+  "model": "glm-5.3"
+}

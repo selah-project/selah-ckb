@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":15,"ref":"job 32:15","book":"job","lang":"ckb","chapter":32,"translation":"تێکشکاون، جاری تر وەڵام نادەنەوە، وشەیان لێ لابراوە.","tokens":[{"surface":"חתו","gloss":"تێکشکاون"},{"surface":"לא","gloss":"نە"},{"surface":"ענו","gloss":"وەڵام دەدەنەوە"},{"surface":"עוד","gloss":"جاری تر"},{"surface":"העתיקו","gloss":"لابراوە"},{"surface":"מהם","gloss":"لێیان"},{"surface":"מלים","gloss":"وشە"}],"timestamp":"2026-09-24T14:43:37.174144516Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "تێکشکاون، جاری تر وەڵام نادەنەوە، وشەیان لێ لابراوە.",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "تێکشکاون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "وەڵام دەدەنەوە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "جاری تر"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "لابراوە"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "لێیان"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "وشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:37.174144516Z",
+  "model": "glm-5.3"
+}

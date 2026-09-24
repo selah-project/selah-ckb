@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":7,"ref":"isaiah 48:7","book":"isaiah","lang":"ckb","chapter":48,"translation":"ئێستا درێژکرانەوە و نەک لەو کاتەوە، و پێش ڕۆژ نەبیستتنیان، ئەگەر نە دەڵێی لۆ بیستم.","tokens":[{"surface":"עתה","gloss":"ئێستا"},{"surface":"נבראו","gloss":"درێژکرانەوە"},{"surface":"ולא","gloss":"و نەک"},{"surface":"מאז","gloss":"لەو کاتەوە"},{"surface":"ולפני","gloss":"و پێش"},{"surface":"יום","gloss":"ڕۆژ"},{"surface":"ולא","gloss":"و نا"},{"surface":"שמעתם","gloss":"نەبیستتنیان"},{"surface":"פן","gloss":"ئەگەر نە"},{"surface":"תאמר","gloss":"دەڵێی"},{"surface":"הנה","gloss":"لۆ"},{"surface":"ידעתין","gloss":"بیستم"}],"timestamp":"2026-09-24T12:29:29.353183527Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "ئێستا درێژکرانەوە و نەک لەو کاتەوە، و پێش ڕۆژ نەبیستتنیان، ئەگەر نە دەڵێی لۆ بیستم.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "درێژکرانەوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نەک"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "لەو کاتەوە"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "و پێش"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "نەبیستتنیان"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ئەگەر نە"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "دەڵێی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "لۆ"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "بیستم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:29:29.353183527Z",
+  "model": "glm-5.3"
+}

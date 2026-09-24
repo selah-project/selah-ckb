@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":23,"ref":"leviticus 4:23","book":"leviticus","lang":"ckb","chapter":4,"translation":"یان گوناهەکەی کە تێیدا گوناهی کردووە بۆی ڕوون دەبێتەوە، ئەوا قوربانییەکەی دەهێنێت ⟨את⟩؛ بۆسکی بێرانەکە، نێرینەیەکی بێ کەسڵ،","tokens":[{"surface":"או","gloss":"یان"},{"surface":"הודע","gloss":"ڕوون دەبێتەوە"},{"surface":"אליו","gloss":"بۆی"},{"surface":"חטאתו","gloss":"گوناهەکەی"},{"surface":"אשר","gloss":"کە"},{"surface":"חטא","gloss":"گوناهی کردووە"},{"surface":"בה","gloss":"تێیدا"},{"surface":"והביא","gloss":"و دەهێنێت"},{"surface":"את","gloss":"⟨את⟩","marks":"قوربانییەکەی"},{"surface":"קרבנו","gloss":"قوربانییەکەی"},{"surface":"שעיר","gloss":"بۆسک"},{"surface":"עזים","gloss":"بێرانەکە"},{"surface":"זכר","gloss":"نێرینە"},{"surface":"תמים","gloss":"بێ کەسڵ"}],"timestamp":"2026-09-24T09:59:35.951129698Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "یان گوناهەکەی کە تێیدا گوناهی کردووە بۆی ڕوون دەبێتەوە، ئەوا قوربانییەکەی دەهێنێت ⟨את⟩؛ بۆسکی بێرانەکە، نێرینەیەکی بێ کەسڵ،",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ڕوون دەبێتەوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "گوناهەکەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گوناهی کردووە"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "و دەهێنێت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوربانییەکەی"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "قوربانییەکەی"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "بۆسک"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بێرانەکە"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نێرینە"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بێ کەسڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:35.951129698Z",
+  "model": "glm-5.3"
+}

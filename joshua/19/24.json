@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":24,"ref":"joshua 19:24","book":"joshua","lang":"ckb","chapter":19,"translation":"و قورعەی پێنجەم بۆ هۆزی کوڕانی ئاشێر بەپێی خێزانەکانیان دەرچوو.","tokens":[{"surface":"ויצא","gloss":"و دەرچوو"},{"surface":"הגורל","gloss":"قورعەکە"},{"surface":"החמישי","gloss":"پێنجەم"},{"surface":"למטה","gloss":"بۆ هۆزی"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"אשר","gloss":"ئاشێر"},{"surface":"למשפחותם","gloss":"بەپێی خێزانەکانیان"}],"timestamp":"2026-09-24T10:59:56.595837324Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 19:24",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و قورعەی پێنجەم بۆ هۆزی کوڕانی ئاشێر بەپێی خێزانەکانیان دەرچوو.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قورعەکە"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پێنجەم"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "بۆ هۆزی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئاشێر"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "بەپێی خێزانەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:59:56.595837324Z",
+  "model": "glm-5.3"
+}

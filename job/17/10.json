@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":10,"ref":"job 17:10","book":"job","lang":"ckb","chapter":17,"translation":"بەڵام هەموو ئێوە بگەڕێنەوە و وەرن ئێستا، و دانایەک لە نێو ئێوەدا نادۆزمەوە.","tokens":[{"surface":"ואולם","gloss":"بەڵام"},{"surface":"כלם","gloss":"هەموو ئێوە"},{"surface":"תשבו","gloss":"بگەڕێنەوە"},{"surface":"ובאו","gloss":"و وەرن"},{"surface":"נא","gloss":"ئێستا"},{"surface":"ולא","gloss":"و نا"},{"surface":"אמצא","gloss":"نادۆزمەوە"},{"surface":"בכם","gloss":"لە نێو ئێوەدا"},{"surface":"חכם","gloss":"دانایەک"}],"timestamp":"2026-09-24T14:38:40.296955591Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 17:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "بەڵام هەموو ئێوە بگەڕێنەوە و وەرن ئێستا، و دانایەک لە نێو ئێوەدا نادۆزمەوە.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "هەموو ئێوە"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "بگەڕێنەوە"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "و وەرن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "نادۆزمەوە"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "لە نێو ئێوەدا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانایەک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:38:40.296955591Z",
+  "model": "glm-5.3"
+}

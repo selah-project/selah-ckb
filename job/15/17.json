@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":17,"ref":"job 15:17","book":"job","lang":"ckb","chapter":15,"translation":"ئەمە بۆت دەردەخەم، گوێ لە من بگرە، و ئەوەی من بینیومەتی دەیگێڕمەوە.","tokens":[{"surface":"אחוך","gloss":"بۆت دەردەخەم"},{"surface":"שמע","gloss":"گوێ بگرە"},{"surface":"לי","gloss":"لە من"},{"surface":"וזה","gloss":"و ئەوەی"},{"surface":"חזיתי","gloss":"من بینیومەتی"},{"surface":"ואספרה","gloss":"دەیگێڕمەوە"}],"timestamp":"2026-09-24T14:39:05.709055323Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 15:17",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ئەمە بۆت دەردەخەم، گوێ لە من بگرە، و ئەوەی من بینیومەتی دەیگێڕمەوە.",
+  "tokens": [
+    {
+      "surface": "אחוך",
+      "gloss": "بۆت دەردەخەم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "و ئەوەی"
+    },
+    {
+      "surface": "חזיתי",
+      "gloss": "من بینیومەتی"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "دەیگێڕمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:05.709055323Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":8,"ref":"ezekiel 18:8","book":"ezekiel","lang":"ckb","chapter":18,"translation":"بە سوود نادات و زیادی وەرناگرێت، دەستی خۆی لە ستەمدا لادەدات، دادپەروەریی ڕاست لە نێوان مرۆڤ و مرۆڤدا دەکات،","tokens":[{"surface":"בנשך","gloss":"بە سوود"},{"surface":"לא","gloss":"نە"},{"surface":"יתן","gloss":"دەدات"},{"surface":"ותרבית","gloss":"و زیادی"},{"surface":"לא","gloss":"نە"},{"surface":"יקח","gloss":"وەردەگرێت"},{"surface":"מעול","gloss":"لە ستەم"},{"surface":"ישיב","gloss":"لادەدات"},{"surface":"ידו","gloss":"دەستی خۆی"},{"surface":"משפט","gloss":"دادپەروەری"},{"surface":"אמת","gloss":"ڕاست"},{"surface":"יעשה","gloss":"دەکات"},{"surface":"בין","gloss":"لە نێوان"},{"surface":"איש","gloss":"مرۆڤ"},{"surface":"לאיש","gloss":"و مرۆڤ"}],"timestamp":"2026-09-24T13:11:16.679658635Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "بە سوود نادات و زیادی وەرناگرێت، دەستی خۆی لە ستەمدا لادەدات، دادپەروەریی ڕاست لە نێوان مرۆڤ و مرۆڤدا دەکات،",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "بە سوود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دەدات"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "و زیادی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وەردەگرێت"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "لە ستەم"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "لادەدات"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی خۆی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاست"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "בין",
+      "gloss": "لە نێوان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "و مرۆڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:11:16.679658635Z",
+  "model": "glm-5.3"
+}

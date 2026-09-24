@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":5,"ref":"exodus 19:5","book":"exodus","lang":"ckb","chapter":19,"translation":"و ئێستا ئەگەر بەڕاستی گوێ لە دەنگم بگرن و ⟨את⟩ پەیمانم بپارێزن، ئەوا دەبن بۆ من ماڵێکی داخراو لە هەموو گەلان، چونکە هەموو زەوی هی منە.","tokens":[{"surface":"ועתה","gloss":"و ئێستا"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"שמוע","gloss":"بەڕاستی"},{"surface":"תשמעו","gloss":"گوێ دەگرن"},{"surface":"בקלי","gloss":"لە دەنگم"},{"surface":"ושמרתם","gloss":"و بپارێزن"},{"surface":"את","gloss":"⟨את⟩","marks":"پەیمانم"},{"surface":"בריתי","gloss":"پەیمانم"},{"surface":"והייתם","gloss":"و دەبن"},{"surface":"לי","gloss":"بۆ من"},{"surface":"סגלה","gloss":"ماڵێکی داخراو"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"העמים","gloss":"گەلان"},{"surface":"כי","gloss":"چونکە"},{"surface":"לי","gloss":"هی منە"},{"surface":"כל","gloss":"هەموو"},{"surface":"הארץ","gloss":"زەوی"}],"timestamp":"2026-09-24T09:44:46.217209260Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 19:5",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئێستا ئەگەر بەڕاستی گوێ لە دەنگم بگرن و ⟨את⟩ پەیمانم بپارێزن، ئەوا دەبن بۆ من ماڵێکی داخراو لە هەموو گەلان، چونکە هەموو زەوی هی منە.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "بەڕاستی"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "گوێ دەگرن"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "لە دەنگم"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "و بپارێزن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەیمانم"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "پەیمانم"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "ماڵێکی داخراو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "هی منە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:46.217209260Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":13,"ref":"proverbs 27:13","book":"proverbs","lang":"ckb","chapter":27,"translation":"جلەکەی هەڵبگرە، چونکە کەلەنەری بیانی بووە، و بۆ بێگانە کاڵبەرگێکی لێ وەرگرە.","tokens":[{"surface":"קח","gloss":"هەڵبگرە"},{"surface":"בגדו","gloss":"جلەکەی"},{"surface":"כי","gloss":"چونکە"},{"surface":"ערב","gloss":"کەلەنەر بووە"},{"surface":"זר","gloss":"بیانی"},{"surface":"ובעד","gloss":"و بۆ"},{"surface":"נכריה","gloss":"بێگانە"},{"surface":"חבלהו","gloss":"کاڵبەرگێکی لێ وەرگرە"}],"timestamp":"2026-09-24T14:32:03.589661733Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "جلەکەی هەڵبگرە، چونکە کەلەنەری بیانی بووە، و بۆ بێگانە کاڵبەرگێکی لێ وەرگرە.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "هەڵبگرە"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "جلەکەی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کەلەنەر بووە"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیانی"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بێگانە"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "کاڵبەرگێکی لێ وەرگرە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:03.589661733Z",
+  "model": "glm-5.3"
+}

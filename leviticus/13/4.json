@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":4,"ref":"leviticus 13:4","book":"leviticus","lang":"ckb","chapter":13,"translation":"و ئەگەر پەڵەیەکی سپی ئەوەیە لە پێستی گۆشتی و دەرکەوتنی قووڵتر نییە لە پێستەکە و مووەکەی نەگۆڕاوە بۆ سپی — و کاهین ⟨את⟩ زیانەکە حەوت ڕۆژ دەستبەسەری دەکات.","tokens":[{"surface":"ואם","gloss":"و ئەگەر"},{"surface":"בהרת","gloss":"پەڵەی"},{"surface":"לבנה","gloss":"سپی"},{"surface":"הוא","gloss":"ئەوەیە"},{"surface":"בעור","gloss":"لە پێستی"},{"surface":"בשרו","gloss":"گۆشتی"},{"surface":"ועמק","gloss":"و قووڵتر"},{"surface":"אין","gloss":"نییە"},{"surface":"מראה","gloss":"دەرکەوتنی"},{"surface":"מן","gloss":"لە"},{"surface":"העור","gloss":"پێستەکە"},{"surface":"ושערה","gloss":"و مووەکەی"},{"surface":"לא","gloss":"نە"},{"surface":"הפך","gloss":"گۆڕاوە"},{"surface":"לבן","gloss":"سپی"},{"surface":"והסגיר","gloss":"و دەستبەسەری دەکات"},{"surface":"הכהן","gloss":"کاهین"},{"surface":"את","gloss":"⟨את⟩","marks":"زیانەکە"},{"surface":"הנגע","gloss":"زیانەکە"},{"surface":"שבעת","gloss":"حەوت"},{"surface":"ימים","gloss":"ڕۆژ"}],"timestamp":"2026-09-24T15:52:21.859018279Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 13:4",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ئەگەر پەڵەیەکی سپی ئەوەیە لە پێستی گۆشتی و دەرکەوتنی قووڵتر نییە لە پێستەکە و مووەکەی نەگۆڕاوە بۆ سپی — و کاهین ⟨את⟩ زیانەکە حەوت ڕۆژ دەستبەسەری دەکات.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "پەڵەی"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "سپی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "لە پێستی"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "گۆشتی"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "و قووڵتر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "دەرکەوتنی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העור",
+      "gloss": "پێستەکە"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "و مووەکەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "گۆڕاوە"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "سپی"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "و دەستبەسەری دەکات"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زیانەکە"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "زیانەکە"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:52:21.859018279Z",
+  "model": "glm-5.3"
+}

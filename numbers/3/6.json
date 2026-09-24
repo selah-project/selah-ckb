@@ -1,1 +1,60 @@
-{"tier":"glm-5.2","verse":6,"ref":"numbers 3:6","book":"numbers","lang":"ckb","chapter":3,"translation":"هۆزی لێڤی ⟨את⟩ نزیک بکەوە و ⟨את⟩ ئەو بخستۆ بەردەم ئهارۆن کاهینەکە و خزمەتی ⟨את⟩ ئەو بکەن.","tokens":[{"surface":"הקרב","gloss":"نزیک بکەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"هۆزی لێڤی"},{"surface":"מטה","gloss":"هۆز"},{"surface":"לוי","gloss":"لێڤی"},{"surface":"והעמדת","gloss":"و بخستۆ بەردەم"},{"surface":"אתו","gloss":"⟨את⟩ ئەو","marks":"هۆزی لێڤی"},{"surface":"לפני","gloss":"بەردەم"},{"surface":"אהרן","gloss":"ئهارۆن"},{"surface":"הכהן","gloss":"کاهینەکە"},{"surface":"ושרתו","gloss":"و خزمەت بکەن"},{"surface":"אתו","gloss":"⟨את⟩ ئەو","marks":"ئهارۆن"}],"timestamp":"2026-09-24T17:06:14.964200385Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "هۆزی لێڤی ⟨את⟩ نزیک بکەوە و ⟨את⟩ ئەو بخستۆ بەردەم ئهارۆن کاهینەکە و خزمەتی ⟨את⟩ ئەو بکەن.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "نزیک بکەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هۆزی لێڤی"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "هۆز"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "و بخستۆ بەردەم"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "هۆزی لێڤی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "بەردەم"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئهارۆن"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهینەکە"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "و خزمەت بکەن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ئەو",
+      "marks": "ئهارۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T17:06:14.964200385Z",
+  "model": "glm-5.3"
+}

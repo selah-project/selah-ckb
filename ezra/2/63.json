@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":63,"ref":"ezra 2:63","book":"ezra","lang":"ckb","chapter":2,"translation":"و تیرشاتا بە ئەوانی فەرموو کە لە پیرۆزی پیرۆزەکان نەخۆن، هەتا کاهینێک بۆ ئوریم و تومیم ڕاوەستێت.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"התרשתא","gloss":"تیرشاتا"},{"surface":"להם","gloss":"بە ئەوان"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"יאכלו","gloss":"بخۆن"},{"surface":"מקדש","gloss":"لە پیرۆزی"},{"surface":"הקדשים","gloss":"پیرۆزەکان"},{"surface":"עד","gloss":"هەتا"},{"surface":"עמד","gloss":"ڕاوەستانی"},{"surface":"כהן","gloss":"کاهینێک"},{"surface":"לאורים","gloss":"بۆ ئوریم"},{"surface":"ולתמים","gloss":"و تومیم"}],"timestamp":"2026-09-24T15:11:14.747663433Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "ezra 2:63",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و تیرشاتا بە ئەوانی فەرموو کە لە پیرۆزی پیرۆزەکان نەخۆن، هەتا کاهینێک بۆ ئوریم و تومیم ڕاوەستێت.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "تیرشاتا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بە ئەوان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "بخۆن"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "لە پیرۆزی"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "پیرۆزەکان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ڕاوەستانی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهینێک"
+    },
+    {
+      "surface": "לאורים",
+      "gloss": "بۆ ئوریم"
+    },
+    {
+      "surface": "ולתמים",
+      "gloss": "و تومیم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:11:14.747663433Z",
+  "model": "glm-5.3"
+}

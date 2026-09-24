@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":1,"ref":"isaiah 15:1","book":"isaiah","lang":"ckb","chapter":15,"translation":"بارِ مۆآب؛ چونکە بە شەوێک عارِ مۆآب وێران کرا و بێدەنگ بوو؛ چونکە بە شەوێک قیرِ مۆآب وێران کرا و بێدەنگ بوو.","tokens":[{"surface":"משא","gloss":"بار"},{"surface":"מואב","gloss":"مۆآب"},{"surface":"כי","gloss":"چونکە"},{"surface":"בליל","gloss":"بە شەوێک"},{"surface":"שדד","gloss":"وێران کرا"},{"surface":"ער","gloss":"عار"},{"surface":"מואב","gloss":"مۆآب"},{"surface":"נדמה","gloss":"بێدەنگ بوو"},{"surface":"כי","gloss":"چونکە"},{"surface":"בליל","gloss":"بە شەوێک"},{"surface":"שדד","gloss":"وێران کرا"},{"surface":"קיר","gloss":"قیر"},{"surface":"מואב","gloss":"مۆآب"},{"surface":"נדמה","gloss":"بێدەنگ بوو"}],"timestamp":"2026-09-24T15:58:56.932591642Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "بارِ مۆآب؛ چونکە بە شەوێک عارِ مۆآب وێران کرا و بێدەنگ بوو؛ چونکە بە شەوێک قیرِ مۆآب وێران کرا و بێدەنگ بوو.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆآب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "بە شەوێک"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "وێران کرا"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عار"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆآب"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "بێدەنگ بوو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "بە شەوێک"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "وێران کرا"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "قیر"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆآب"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "بێدەنگ بوو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:58:56.932591642Z",
+  "model": "glm-5.3"
+}

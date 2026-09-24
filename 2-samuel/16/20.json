@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":20,"ref":"2-samuel 16:20","book":"2-samuel","lang":"ckb","chapter":16,"translation":"و ئاڤشالۆم ⟨ئەبوسالێم⟩ فەرمووی بۆ ئەخیتۆفێل: ئێوە ڕاوێژ بدەن، چی بکەین.","tokens":[{"surface":"ויאמר","gloss":"و فەرمووی"},{"surface":"אבשלום","gloss":"ئاڤشالۆم"},{"surface":"אל","gloss":"بۆ"},{"surface":"אחיתפל","gloss":"ئەخیتۆفێل"},{"surface":"הבו","gloss":"بدەن"},{"surface":"לכם","gloss":"بۆ ئێوە"},{"surface":"עצה","gloss":"ڕاوێژ"},{"surface":"מה","gloss":"چی"},{"surface":"נעשה","gloss":"بکەین"}],"timestamp":"2026-09-24T15:56:56.981187519Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و ئاڤشالۆم ⟨ئەبوسالێم⟩ فەرمووی بۆ ئەخیتۆفێل: ئێوە ڕاوێژ بدەن، چی بکەین.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ئاڤشالۆم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "ئەخیتۆفێل"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "بدەن"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ڕاوێژ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "بکەین"
+    }
+  ],
+  "timestamp": "2026-09-24T15:56:56.981187519Z",
+  "model": "glm-5.3"
+}

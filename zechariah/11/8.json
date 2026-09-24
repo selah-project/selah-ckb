@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":8,"ref":"zechariah 11:8","book":"zechariah","lang":"ckb","chapter":11,"translation":"و سێ شوانەکەم ⟨את⟩ لە مانگێکدا لەناو برد، گیانم لێیان بێتاقەت بوو، و گیانیانیش لێی من قوڕەبووڕ بوو.","tokens":[{"surface":"ואכחד","gloss":"و لەناو بەرمد"},{"surface":"את","gloss":"⟨את⟩","marks":"سێ شوانەکە"},{"surface":"שלשת","gloss":"سێ"},{"surface":"הרעים","gloss":"شوانەکان"},{"surface":"בירח","gloss":"لە مانگ"},{"surface":"אחד","gloss":"یەک"},{"surface":"ותקצר","gloss":"و بێتاقەت بوو"},{"surface":"נפשי","gloss":"گیانم"},{"surface":"בהם","gloss":"لەوان"},{"surface":"וגם","gloss":"و هەروەها"},{"surface":"נפשם","gloss":"گیانیان"},{"surface":"בחלה","gloss":"قوڕەبووڕ بوو"},{"surface":"בי","gloss":"لە من"}],"timestamp":"2026-09-24T13:47:12.424133279Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و سێ شوانەکەم ⟨את⟩ لە مانگێکدا لەناو برد، گیانم لێیان بێتاقەت بوو، و گیانیانیش لێی من قوڕەبووڕ بوو.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "و لەناو بەرمد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سێ شوانەکە"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "شوانەکان"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "لە مانگ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "و بێتاقەت بوو"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "گیانیان"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "قوڕەبووڕ بوو"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:47:12.424133279Z",
+  "model": "glm-5.3"
+}

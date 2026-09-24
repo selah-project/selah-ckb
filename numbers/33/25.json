@@ -1,1 +1,29 @@
-{"tier":"glm-5.2","verse":25,"ref":"numbers 33:25","book":"numbers","lang":"ckb","chapter":33,"translation":"و لە حەرادە ڕۆیشتن و لە ماکهێلۆت چادر هەڵکێشا.","tokens":[{"surface":"ויסעו","gloss":"ڕۆیشتن"},{"surface":"מחרדה","gloss":"لە حەرادە"},{"surface":"ויחנו","gloss":"چادر هەڵکێشا"},{"surface":"במקהלת","gloss":"لە ماکهێلۆت"}],"timestamp":"2026-09-24T10:31:25.367829799Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 33:25",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە حەرادە ڕۆیشتن و لە ماکهێلۆت چادر هەڵکێشا.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ڕۆیشتن"
+    },
+    {
+      "surface": "מחרדה",
+      "gloss": "لە حەرادە"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "چادر هەڵکێشا"
+    },
+    {
+      "surface": "במקהלת",
+      "gloss": "لە ماکهێلۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:25.367829799Z",
+  "model": "glm-5.3"
+}

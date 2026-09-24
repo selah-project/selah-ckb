@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 123:3","book":"psalms","lang":"ckb","chapter":123,"translation":"چاوەی لێمان بکە ئەی یاهوە، چاوەی لێمان بکە، چونکە زۆر تێر بووین بە سووکایەتی.","tokens":[{"surface":"חננו","gloss":"چاوەی لێمان بکە"},{"surface":"יהוה","gloss":"ئەی یاهوە"},{"surface":"חננו","gloss":"چاوەی لێمان بکە"},{"surface":"כי","gloss":"چونکە"},{"surface":"רב","gloss":"زۆر"},{"surface":"שבענו","gloss":"تێر بووین"},{"surface":"בוז","gloss":"بە سووکایەتی"}],"timestamp":"2026-09-24T14:18:55.437900946Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 123,
+  "translation": "چاوەی لێمان بکە ئەی یاهوە، چاوەی لێمان بکە، چونکە زۆر تێر بووین بە سووکایەتی.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "چاوەی لێمان بکە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ئەی یاهوە"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "چاوەی لێمان بکە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "تێر بووین"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بە سووکایەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:18:55.437900946Z",
+  "model": "glm-5.3"
+}

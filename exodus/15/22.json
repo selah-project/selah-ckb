@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":22,"ref":"exodus 15:22","book":"exodus","lang":"ckb","chapter":15,"translation":"و مۆشە ⟨موسا⟩ ئیسرائیلی ⟨את⟩ لە دەریای قەمەشەوە بەڕێکەوت، و دەرچوون بۆ بیابانی شوور، و سێ ڕۆژ لە بیاباندا ڕۆیشتن و ئاویان نەدۆزییەوە.","tokens":[{"surface":"ויסע","gloss":"و بەڕێکەوت"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"את","gloss":"⟨את⟩","marks":"ئیسرائیل"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"מים","gloss":"لە دەریای"},{"surface":"סוף","gloss":"قەمەش"},{"surface":"ויצאו","gloss":"و دەرچوون"},{"surface":"אל","gloss":"بۆ"},{"surface":"מדבר","gloss":"بیابانی"},{"surface":"שור","gloss":"شوور"},{"surface":"וילכו","gloss":"و ڕۆیشتن"},{"surface":"שלשת","gloss":"سێ"},{"surface":"ימים","gloss":"ڕۆژ"},{"surface":"במדבר","gloss":"لە بیاباندا"},{"surface":"ולא","gloss":"و نە"},{"surface":"מצאו","gloss":"دۆزیانەوە"},{"surface":"מים","gloss":"ئاو"}],"timestamp":"2026-09-24T09:42:13.984930742Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و مۆشە ⟨موسا⟩ ئیسرائیلی ⟨את⟩ لە دەریای قەمەشەوە بەڕێکەوت، و دەرچوون بۆ بیابانی شوور، و سێ ڕۆژ لە بیاباندا ڕۆیشتن و ئاویان نەدۆزییەوە.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "و بەڕێکەوت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئیسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "מים",
+      "gloss": "لە دەریای"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "قەمەش"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "و دەرچوون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابانی"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شوور"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "و ڕۆیشتن"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیاباندا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "دۆزیانەوە"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:42:13.984930742Z",
+  "model": "glm-5.3"
+}

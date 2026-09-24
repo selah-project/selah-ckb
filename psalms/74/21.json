@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":21,"ref":"psalms 74:21","book":"psalms","lang":"ckb","chapter":74,"translation":"با نەگەڕێتەوە خەفەتبارو شەرمەزار، دەستەنگ و پێویستدار ناوی تۆ ستاین بکەن.","tokens":[{"surface":"אל","gloss":"با نە"},{"surface":"ישב","gloss":"نەگەڕێتەوە"},{"surface":"דך","gloss":"خەفەتبارو"},{"surface":"נכלם","gloss":"شەرمەزار"},{"surface":"עני","gloss":"دەستەنگ"},{"surface":"ואביון","gloss":"و پێویستدار"},{"surface":"יהללו","gloss":"ستاین بکەن"},{"surface":"שמך","gloss":"ناوی تۆ"}],"timestamp":"2026-09-24T14:04:05.135681543Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 74,
+  "translation": "با نەگەڕێتەوە خەفەتبارو شەرمەزار، دەستەنگ و پێویستدار ناوی تۆ ستاین بکەن.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "با نە"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "نەگەڕێتەوە"
+    },
+    {
+      "surface": "דך",
+      "gloss": "خەفەتبارو"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "شەرمەزار"
+    },
+    {
+      "surface": "עני",
+      "gloss": "دەستەنگ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "و پێویستدار"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ستاین بکەن"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:04:05.135681543Z",
+  "model": "glm-5.3"
+}

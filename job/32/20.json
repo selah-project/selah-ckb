@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":20,"ref":"job 32:20","book":"job","lang":"ckb","chapter":32,"translation":"قسە دەکەم و هەڵدەمێ بۆم، لێوم دەکەمەوە و وەڵام دەدەمەوە.","tokens":[{"surface":"אדברה","gloss":"قسە دەکەم"},{"surface":"וירוח","gloss":"و هەڵدەمێ"},{"surface":"לי","gloss":"بۆم"},{"surface":"אפתח","gloss":"دەکەمەوە"},{"surface":"שפתי","gloss":"لێوم"},{"surface":"ואענה","gloss":"و وەڵام دەدەمەوە"}],"timestamp":"2026-09-24T14:43:22.456497680Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 32:20",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "قسە دەکەم و هەڵدەمێ بۆم، لێوم دەکەمەوە و وەڵام دەدەمەوە.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "قسە دەکەم"
+    },
+    {
+      "surface": "וירוח",
+      "gloss": "و هەڵدەمێ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "دەکەمەوە"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "لێوم"
+    },
+    {
+      "surface": "ואענה",
+      "gloss": "و وەڵام دەدەمەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:22.456497680Z",
+  "model": "glm-5.3"
+}

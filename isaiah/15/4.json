@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":4,"ref":"isaiah 15:4","book":"isaiah","lang":"ckb","chapter":15,"translation":"و حەشبۆن ⟨موسا⟩ هاواری کرد، و ئەلعالێ تا یاهاس دەنگیان بیسترا؛ لەبەر ئەوە چەکدارانی مۆئاب هاوار دەکەن، گیانی خۆی بۆ خۆی دەشکێت.","tokens":[{"surface":"ותזעק","gloss":"و هاواری کرد"},{"surface":"חשבון","gloss":"حەشبۆن"},{"surface":"ואלעלה","gloss":"و ئەلعالێ"},{"surface":"עד","gloss":"تا"},{"surface":"יהץ","gloss":"یاهاس"},{"surface":"נשמע","gloss":"بیسترا"},{"surface":"קולם","gloss":"دەنگیان"},{"surface":"על","gloss":"لەسەر"},{"surface":"כן","gloss":"ئەوە"},{"surface":"חלצי","gloss":"چەکدارانی"},{"surface":"מואב","gloss":"مۆئاب"},{"surface":"יריעו","gloss":"هاوار دەکەن"},{"surface":"נפשו","gloss":"گیانی"},{"surface":"ירעה","gloss":"دەشکێت"},{"surface":"לו","gloss":"بۆ خۆی"}],"timestamp":"2026-09-24T16:48:39.509376902Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 15:4",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و حەشبۆن ⟨موسا⟩ هاواری کرد، و ئەلعالێ تا یاهاس دەنگیان بیسترا؛ لەبەر ئەوە چەکدارانی مۆئاب هاوار دەکەن، گیانی خۆی بۆ خۆی دەشکێت.",
+  "tokens": [
+    {
+      "surface": "ותזעק",
+      "gloss": "و هاواری کرد"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حەشبۆن"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "و ئەلعالێ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יהץ",
+      "gloss": "یاهاس"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "بیسترا"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "دەنگیان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "חלצי",
+      "gloss": "چەکدارانی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "هاوار دەکەن"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "دەشکێت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:48:39.509376902Z",
+  "model": "glm-5.3"
+}

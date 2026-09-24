@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":24,"ref":"2-kings 4:24","book":"2-kings","lang":"ckb","chapter":4,"translation":"و زینی مێردارەکەی بەست و بە خزمەتکارەکەی فەرموو: لێدە و بڕۆ، ڕامەگرە بۆ سواربوونەکەم، چونکە ئەگەر نەم گوت بۆت.","tokens":[{"surface":"ותחבש","gloss":"و زین بەست"},{"surface":"האתון","gloss":"مێردارەکەی"},{"surface":"ותאמר","gloss":"و فەرموو"},{"surface":"אל","gloss":"بە"},{"surface":"נערה","gloss":"خزمەتکارەکەی"},{"surface":"נהג","gloss":"لێدە"},{"surface":"ולך","gloss":"و بڕۆ"},{"surface":"אל","gloss":"مە"},{"surface":"תעצר","gloss":"ڕامەگرە"},{"surface":"לי","gloss":"بۆم"},{"surface":"לרכב","gloss":"بۆ سواربوونەکەم"},{"surface":"כי","gloss":"چونکە"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"אמרתי","gloss":"نەم گوت"},{"surface":"לך","gloss":"بۆت"}],"timestamp":"2026-09-24T11:59:57.779978276Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 4:24",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و زینی مێردارەکەی بەست و بە خزمەتکارەکەی فەرموو: لێدە و بڕۆ، ڕامەگرە بۆ سواربوونەکەم، چونکە ئەگەر نەم گوت بۆت.",
+  "tokens": [
+    {
+      "surface": "ותחבש",
+      "gloss": "و زین بەست"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "مێردارەکەی"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "خزمەتکارەکەی"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "لێدە"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "و بڕۆ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תעצר",
+      "gloss": "ڕامەگرە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "بۆ سواربوونەکەم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "نەم گوت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:59:57.779978276Z",
+  "model": "glm-5.3"
+}

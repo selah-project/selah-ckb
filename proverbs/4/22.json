@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"proverbs 4:22","book":"proverbs","lang":"ckb","chapter":4,"translation":"چونکە ژیانن بۆ ئەوانەی دەیاندۆزنەوە، و بۆ هەموو لەشیان چاککردنەوەیە.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"חיים","gloss":"ژیان"},{"surface":"הם","gloss":"⟨ن⟩"},{"surface":"למצאיהם","gloss":"بۆ ئەوانەی دەیاندۆزنەوە"},{"surface":"ולכל","gloss":"و بۆ هەموو"},{"surface":"בשרו","gloss":"لەشیان"},{"surface":"מרפא","gloss":"چاککردنەوە"}],"timestamp":"2026-09-24T14:22:22.017311102Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە ژیانن بۆ ئەوانەی دەیاندۆزنەوە، و بۆ هەموو لەشیان چاککردنەوەیە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ن⟩"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "بۆ ئەوانەی دەیاندۆزنەوە"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "و بۆ هەموو"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "لەشیان"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "چاککردنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:22.017311102Z",
+  "model": "glm-5.3"
+}

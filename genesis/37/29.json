@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":29,"ref":"genesis 37:29","book":"genesis","lang":"ckb","chapter":37,"translation":"ڕوئوبەن ⟨ڕەئوبین⟩ گەڕایەوە بۆ چاڵەکە و ئەوەتا یۆسەف ⟨یوسف⟩ لە چاڵەکەدا نییە و ⟨את⟩ جلەکانی دڕی.","tokens":[{"surface":"וישב","gloss":"گەڕایەوە"},{"surface":"ראובן","gloss":"ڕوئوبەن"},{"surface":"אל","gloss":"بۆ"},{"surface":"הבור","gloss":"چاڵەکە"},{"surface":"והנה","gloss":"و ئەوەتا"},{"surface":"אין","gloss":"نییە"},{"surface":"יוסף","gloss":"یۆسەف"},{"surface":"בבור","gloss":"لە چاڵەکەدا"},{"surface":"ויקרע","gloss":"دڕی"},{"surface":"את","gloss":"⟨את⟩","marks":"جلەکانی"},{"surface":"בגדיו","gloss":"جلەکانی"}],"timestamp":"2026-09-24T09:28:54.394106775Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 37:29",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "ڕوئوبەن ⟨ڕەئوبین⟩ گەڕایەوە بۆ چاڵەکە و ئەوەتا یۆسەف ⟨یوسف⟩ لە چاڵەکەدا نییە و ⟨את⟩ جلەکانی دڕی.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "گەڕایەوە"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ڕوئوبەن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "چاڵەکە"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسەف"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "لە چاڵەکەدا"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "دڕی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جلەکانی"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "جلەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:28:54.394106775Z",
+  "model": "glm-5.3"
+}

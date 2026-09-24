@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 18:8","book":"psalms","lang":"ckb","chapter":18,"translation":"و زەوی لەرزی و داڵدای کرد و بناغەکانی چیا داڵدایان کرد و لەرزیانەوە چونکە تووڕە بوو","tokens":[{"surface":"ותגעש","gloss":"و لەرزی"},{"surface":"ותרעש","gloss":"و داڵدای کرد"},{"surface":"הארץ","gloss":"زەوی"},{"surface":"ומוסדי","gloss":"و بناغەکانی"},{"surface":"הרים","gloss":"چیا"},{"surface":"ירגזו","gloss":"داڵدایان کرد"},{"surface":"ויתגעשו","gloss":"و لەرزیانەوە"},{"surface":"כי","gloss":"چونکە"},{"surface":"חרה","gloss":"تووڕە بوو"},{"surface":"לו","gloss":"⟨لە خۆی⟩"}],"timestamp":"2026-09-24T13:51:36.432925741Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و زەوی لەرزی و داڵدای کرد و بناغەکانی چیا داڵدایان کرد و لەرزیانەوە چونکە تووڕە بوو",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "و لەرزی"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "و داڵدای کرد"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "و بناغەکانی"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "چیا"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "داڵدایان کرد"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "و لەرزیانەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "تووڕە بوو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨لە خۆی⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:36.432925741Z",
+  "model": "glm-5.3"
+}

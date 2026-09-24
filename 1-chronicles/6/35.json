@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":35,"ref":"1-chronicles 6:35","book":"1-chronicles","lang":"ckb","chapter":6,"translation":"و ئەمانە کوڕەکانی ئاهارۆن ⟨هارون⟩ن: ئێلعازار کوڕی ئەو، پینخاس کوڕی ئەو، ئەڤیشوع کوڕی ئەو.","tokens":[{"surface":"ואלה","gloss":"و ئەمانە"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"אהרן","gloss":"ئاهارۆن ⟨هارون⟩"},{"surface":"אלעזר","gloss":"ئێلعازار"},{"surface":"בנו","gloss":"کوڕی ئەو"},{"surface":"פינחס","gloss":"پینخاس"},{"surface":"בנו","gloss":"کوڕی ئەو"},{"surface":"אבישוע","gloss":"ئەڤیشوع"},{"surface":"בנו","gloss":"کوڕی ئەو"}],"timestamp":"2026-09-24T15:23:19.295773532Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 6:35",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ئەمانە کوڕەکانی ئاهارۆن ⟨هارون⟩ن: ئێلعازار کوڕی ئەو، پینخاس کوڕی ئەو، ئەڤیشوع کوڕی ئەو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن ⟨هارون⟩"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئێلعازار"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی ئەو"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینخاس"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی ئەو"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ئەڤیشوع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:19.295773532Z",
+  "model": "glm-5.3"
+}

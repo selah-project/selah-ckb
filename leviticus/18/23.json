@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":23,"ref":"leviticus 18:23","book":"leviticus","lang":"ckb","chapter":18,"translation":"و لە هەموو ماڵاتێک شەوەنخوابی خۆت مەدە بۆ پیسەتی بە ی، و ژنێک نابێت ڕاوەستێت لە پێش ماڵاتێک بۆ ڕازیبونەوە؛ تێکەڵە ئەوەیە.","tokens":[{"surface":"ובכל","gloss":"و لە هەموو"},{"surface":"בהמה","gloss":"ماڵاتێک"},{"surface":"לא","gloss":"مە"},{"surface":"תתן","gloss":"بدەی"},{"surface":"שכבתך","gloss":"شەوەنخوابی خۆت"},{"surface":"לטמאה","gloss":"بۆ پیسبوون"},{"surface":"בה","gloss":"بە ی"},{"surface":"ואשה","gloss":"و ژنێک"},{"surface":"לא","gloss":"نابێت"},{"surface":"תעמד","gloss":"ڕاوەستێت"},{"surface":"לפני","gloss":"لە پێش"},{"surface":"בהמה","gloss":"ماڵاتێک"},{"surface":"לרבעה","gloss":"بۆ ڕازیبونەوە"},{"surface":"תבל","gloss":"تێکەڵە"},{"surface":"הוא","gloss":"ئەوەیە"}],"timestamp":"2026-09-24T15:51:21.773740888Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 18:23",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و لە هەموو ماڵاتێک شەوەنخوابی خۆت مەدە بۆ پیسەتی بە ی، و ژنێک نابێت ڕاوەستێت لە پێش ماڵاتێک بۆ ڕازیبونەوە؛ تێکەڵە ئەوەیە.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "و لە هەموو"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ماڵاتێک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بدەی"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "شەوەنخوابی خۆت"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "بۆ پیسبوون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بە ی"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "و ژنێک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نابێت"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ڕاوەستێت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ماڵاتێک"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "بۆ ڕازیبونەوە"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "تێکەڵە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:51:21.773740888Z",
+  "model": "glm-5.3"
+}

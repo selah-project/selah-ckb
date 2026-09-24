@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":26,"ref":"1-chronicles 6:26","book":"1-chronicles","lang":"ckb","chapter":6,"translation":"کوڕی ئێتنی، کوڕی زێراخ، کوڕی عەدایا.","tokens":[{"surface":"בן","gloss":"کوڕی"},{"surface":"אתני","gloss":"ئێتنی"},{"surface":"בן","gloss":"کوڕی"},{"surface":"זרח","gloss":"زێراخ"},{"surface":"בן","gloss":"کوڕی"},{"surface":"עדיה","gloss":"عەدایا"}],"timestamp":"2026-09-24T15:23:10.827635418Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕی ئێتنی، کوڕی زێراخ، کوڕی عەدایا.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "ئێتنی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زێراخ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "عەدایا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:10.827635418Z",
+  "model": "glm-5.3"
+}

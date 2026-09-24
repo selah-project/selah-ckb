@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 51:11","book":"psalms","lang":"ckb","chapter":51,"translation":"ڕووخۆت لە گوناهەکانم بشارەوە و هەموو سەرپێچییەکانم بسڕەوە.","tokens":[{"surface":"הסתר","gloss":"بشارەوە"},{"surface":"פניך","gloss":"ڕووخۆت"},{"surface":"מחטאי","gloss":"لە گوناهەکانم"},{"surface":"וכל","gloss":"و هەموو"},{"surface":"עונתי","gloss":"سەرپێچییەکانم"},{"surface":"מחה","gloss":"بسڕەوە"}],"timestamp":"2026-09-24T13:59:02.006248169Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 51,
+  "translation": "ڕووخۆت لە گوناهەکانم بشارەوە و هەموو سەرپێچییەکانم بسڕەوە.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "بشارەوە"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ڕووخۆت"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "لە گوناهەکانم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "سەرپێچییەکانم"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "بسڕەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:59:02.006248169Z",
+  "model": "glm-5.3"
+}

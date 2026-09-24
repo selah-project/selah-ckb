@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":24,"ref":"2-samuel 7:24","book":"2-samuel","lang":"ckb","chapter":7,"translation":"و ⟨تۆ⟩ ⟨את⟩ گەلی تۆ ئیسرائێل بۆ خۆت چەسپاند، بۆ خۆت بۆ گەلێک تا هەتاهەتایی، و تۆ یاهوە بۆ ئەوان بووی بۆ ئێلۆهیم.","tokens":[{"surface":"ותכונן","gloss":"و چەسپاند"},{"surface":"לך","gloss":"بۆ خۆت"},{"surface":"את","gloss":"⟨את⟩","marks":"گەلی تۆ ئیسرائێل"},{"surface":"עמך","gloss":"گەلی تۆ"},{"surface":"ישראל","gloss":"ئیسرائێل"},{"surface":"לך","gloss":"بۆ خۆت"},{"surface":"לעם","gloss":"بۆ گەل"},{"surface":"עד","gloss":"تا"},{"surface":"עולם","gloss":"هەتاهەتایی"},{"surface":"ואתה","gloss":"و تۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"היית","gloss":"بووی"},{"surface":"להם","gloss":"بۆ ئەوان"},{"surface":"לאלהים","gloss":"بۆ ئێلۆهیم"}],"timestamp":"2026-09-24T11:34:38.839975228Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 7:24",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و ⟨تۆ⟩ ⟨את⟩ گەلی تۆ ئیسرائێل بۆ خۆت چەسپاند، بۆ خۆت بۆ گەلێک تا هەتاهەتایی، و تۆ یاهوە بۆ ئەوان بووی بۆ ئێلۆهیم.",
+  "tokens": [
+    {
+      "surface": "ותכונן",
+      "gloss": "و چەسپاند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەلی تۆ ئیسرائێل"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلی تۆ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائێل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "بۆ گەل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەتاهەتایی"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היית",
+      "gloss": "بووی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "بۆ ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:34:38.839975228Z",
+  "model": "glm-5.3"
+}

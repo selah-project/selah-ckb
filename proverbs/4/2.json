@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":2,"ref":"proverbs 4:2","book":"proverbs","lang":"ckb","chapter":4,"translation":"چونکە وانەی باشم بە ئێوە داوە؛ تۆرام بەجێ مەهێڵن.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"לקח","gloss":"وانە"},{"surface":"טוב","gloss":"باش"},{"surface":"נתתי","gloss":"داوە"},{"surface":"לכם","gloss":"بە ئێوە"},{"surface":"תורתי","gloss":"تۆرام"},{"surface":"אל","gloss":"مە"},{"surface":"תעזבו","gloss":"بەجێ بهێڵن"}],"timestamp":"2026-09-24T14:23:21.611703393Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "چونکە وانەی باشم بە ئێوە داوە؛ تۆرام بەجێ مەهێڵن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "وانە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "باش"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "داوە"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بە ئێوە"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "تۆرام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "بەجێ بهێڵن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:21.611703393Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":18,"ref":"job 11:18","book":"job","lang":"ckb","chapter":11,"translation":"و دڵنیا دەبیت چونکە هیوا هەیە، و دەکەنیت، بە دڵنیایی دەخەوت.","tokens":[{"surface":"ובטחת","gloss":"و دڵنیا دەبیت"},{"surface":"כי","gloss":"چونکە"},{"surface":"יש","gloss":"هەیە"},{"surface":"תקוה","gloss":"هیوا"},{"surface":"וחפרת","gloss":"و دەکەنیت"},{"surface":"לבטח","gloss":"بە دڵنیایی"},{"surface":"תשכב","gloss":"دەخەوت"}],"timestamp":"2026-09-24T14:37:10.178112289Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 11:18",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و دڵنیا دەبیت چونکە هیوا هەیە، و دەکەنیت، بە دڵنیایی دەخەوت.",
+  "tokens": [
+    {
+      "surface": "ובטחת",
+      "gloss": "و دڵنیا دەبیت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "هیوا"
+    },
+    {
+      "surface": "וחפרת",
+      "gloss": "و دەکەنیت"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بە دڵنیایی"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "دەخەوت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:10.178112289Z",
+  "model": "glm-5.3"
+}

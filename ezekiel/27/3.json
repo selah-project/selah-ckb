@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":3,"ref":"ezekiel 27:3","book":"ezekiel","lang":"ckb","chapter":27,"translation":"و بە تسۆر بڵێ: دانیشتووی دەروازەکانی دەریا، بازرگانی گەلەکان بۆ دوورگە زۆرەکان، تۆ. هاکەوت فەرمووی ئادۆنای یاهوە: ئەی تسۆر، تۆ وتت: منم تەواویی جوانی.","tokens":[{"surface":"ואמרת","gloss":"و بڵێ"},{"surface":"לצור","gloss":"بە تسۆر"},{"surface":"הישבתי","gloss":"دانیشتووی"},{"surface":"על","gloss":"لە"},{"surface":"מבואת","gloss":"دەروازەکانی"},{"surface":"ים","gloss":"دەریا"},{"surface":"רכלת","gloss":"بازرگانی"},{"surface":"העמים","gloss":"گەلەکان"},{"surface":"אל","gloss":"بۆ"},{"surface":"איים","gloss":"دوورگە"},{"surface":"רבים","gloss":"زۆرەکان"},{"surface":"כה","gloss":"هاکەوت"},{"surface":"אמר","gloss":"فەرمووی"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"צור","gloss":"تسۆر"},{"surface":"את","gloss":"تۆ"},{"surface":"אמרת","gloss":"وتت"},{"surface":"אני","gloss":"منم"},{"surface":"כלילת","gloss":"تەواویی"},{"surface":"יפי","gloss":"جوانی"}],"timestamp":"2026-09-24T13:16:54.266069888Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 27:3",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و بە تسۆر بڵێ: دانیشتووی دەروازەکانی دەریا، بازرگانی گەلەکان بۆ دوورگە زۆرەکان، تۆ. هاکەوت فەرمووی ئادۆنای یاهوە: ئەی تسۆر، تۆ وتت: منم تەواویی جوانی.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "و بڵێ"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "بە تسۆر"
+    },
+    {
+      "surface": "הישבתי",
+      "gloss": "دانیشتووی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "מבואת",
+      "gloss": "دەروازەکانی"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "רכלת",
+      "gloss": "بازرگانی"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "איים",
+      "gloss": "دوورگە"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆرەکان"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هاکەوت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تسۆر"
+    },
+    {
+      "surface": "את",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "وتت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "منم"
+    },
+    {
+      "surface": "כלילת",
+      "gloss": "تەواویی"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "جوانی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:16:54.266069888Z",
+  "model": "glm-5.3"
+}

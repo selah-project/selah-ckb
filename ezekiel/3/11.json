@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":11,"ref":"ezekiel 3:11","book":"ezekiel","lang":"ckb","chapter":3,"translation":"و بڕۆ، بۆ دوورخراوان بگە، بۆ کوڕانی گەلەکەت، و قسەی لەگەڵیان بکە و بڵێ بەیان: هەر وەها فەرموو ئادۆنای یاهوە: ئەگەر دەبیستن و ئەگەر دەوەستن.","tokens":[{"surface":"ולך","gloss":"و بڕۆ"},{"surface":"בא","gloss":"بگە"},{"surface":"אל","gloss":"بۆ"},{"surface":"הגולה","gloss":"دوورخراوان"},{"surface":"אל","gloss":"بۆ"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"עמך","gloss":"گەلەکەت"},{"surface":"ודברת","gloss":"و قسەی بکە"},{"surface":"אליהם","gloss":"لەگەڵیان"},{"surface":"ואמרת","gloss":"و بڵێ"},{"surface":"אליהם","gloss":"بەیان"},{"surface":"כה","gloss":"هەر وەها"},{"surface":"אמר","gloss":"فەرموو"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"ישמעו","gloss":"دەبیستن"},{"surface":"ואם","gloss":"و ئەگەر"},{"surface":"יחדלו","gloss":"دەوەستن"}],"timestamp":"2026-09-24T13:05:23.652594038Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 3:11",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و بڕۆ، بۆ دوورخراوان بگە، بۆ کوڕانی گەلەکەت، و قسەی لەگەڵیان بکە و بڵێ بەیان: هەر وەها فەرموو ئادۆنای یاهوە: ئەگەر دەبیستن و ئەگەر دەوەستن.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "و بڕۆ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "بگە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "دوورخراوان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "گەلەکەت"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "و قسەی بکە"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لەگەڵیان"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "و بڵێ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "بەیان"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هەر وەها"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "دەبیستن"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "دەوەستن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:05:23.652594038Z",
+  "model": "glm-5.3"
+}

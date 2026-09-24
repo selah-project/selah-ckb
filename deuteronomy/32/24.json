@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":24,"ref":"deuteronomy 32:24","book":"deuteronomy","lang":"ckb","chapter":32,"translation":"ماندوویی برسێتی و تێکشکاندنی گەرمای سووتان و نەخۆشییەکی تاڵ؛ و ددانی ماڵات بەسەریاندا دەنێرم، لەگەڵ زەهری خشۆکەکانی خۆڵ.","tokens":[{"surface":"מזי","gloss":"ماندوویی"},{"surface":"רעב","gloss":"برسێتی"},{"surface":"ולחמי","gloss":"و تێکشکاندنی"},{"surface":"רשף","gloss":"گەرمای سووتان"},{"surface":"וקטב","gloss":"و نەخۆشیی"},{"surface":"מרירי","gloss":"تاڵ"},{"surface":"ושן","gloss":"و ددان"},{"surface":"בהמות","gloss":"ماڵات"},{"surface":"אשלח","gloss":"دەنێرم"},{"surface":"בם","gloss":"بەسەریاندا"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"חמת","gloss":"زەهر"},{"surface":"זחלי","gloss":"خشۆکەکانی"},{"surface":"עפר","gloss":"خۆڵ"}],"timestamp":"2026-09-24T10:49:16.986050815Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 32:24",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "ماندوویی برسێتی و تێکشکاندنی گەرمای سووتان و نەخۆشییەکی تاڵ؛ و ددانی ماڵات بەسەریاندا دەنێرم، لەگەڵ زەهری خشۆکەکانی خۆڵ.",
+  "tokens": [
+    {
+      "surface": "מזי",
+      "gloss": "ماندوویی"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "برسێتی"
+    },
+    {
+      "surface": "ולחמי",
+      "gloss": "و تێکشکاندنی"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "گەرمای سووتان"
+    },
+    {
+      "surface": "וקטב",
+      "gloss": "و نەخۆشیی"
+    },
+    {
+      "surface": "מרירי",
+      "gloss": "تاڵ"
+    },
+    {
+      "surface": "ושן",
+      "gloss": "و ددان"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "دەنێرم"
+    },
+    {
+      "surface": "בם",
+      "gloss": "بەسەریاندا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زەهر"
+    },
+    {
+      "surface": "זחלי",
+      "gloss": "خشۆکەکانی"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خۆڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:16.986050815Z",
+  "model": "glm-5.3"
+}

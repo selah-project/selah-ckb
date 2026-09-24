@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":7,"ref":"2-chronicles 4:7","book":"2-chronicles","lang":"ckb","chapter":4,"translation":"و ⟨את⟩ دە چراڵی زێڕین دروستکرد بەپێی حوکمی خۆیان، و لە پەرستگادا دانا — پێنج لای ڕاست و پێنج لای چەپ.","tokens":[{"surface":"ויעש","gloss":"و دروستکرد"},{"surface":"את","gloss":"⟨את⟩","marks":"چراڵی زێڕین"},{"surface":"מנרות","gloss":"چراڵی"},{"surface":"הזהב","gloss":"زێڕین"},{"surface":"עשר","gloss":"دە"},{"surface":"כמשפטם","gloss":"بەپێی حوکمی خۆیان"},{"surface":"ויתן","gloss":"و دانا"},{"surface":"בהיכל","gloss":"لە پەرستگا"},{"surface":"חמש","gloss":"پێنج"},{"surface":"מימין","gloss":"لای ڕاست"},{"surface":"וחמש","gloss":"و پێنج"},{"surface":"משמאול","gloss":"لای چەپ"}],"timestamp":"2026-09-24T15:33:28.995792919Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ⟨את⟩ دە چراڵی زێڕین دروستکرد بەپێی حوکمی خۆیان، و لە پەرستگادا دانا — پێنج لای ڕاست و پێنج لای چەپ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و دروستکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چراڵی زێڕین"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "چراڵی"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زێڕین"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "بەپێی حوکمی خۆیان"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و دانا"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "لە پەرستگا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "لای ڕاست"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "لای چەپ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:28.995792919Z",
+  "model": "glm-5.3"
+}

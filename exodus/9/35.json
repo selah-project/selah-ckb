@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":35,"ref":"exodus 9:35","book":"exodus","lang":"ckb","chapter":9,"translation":"و دڵی فیرعەون بەهێز بوو، و کوڕانی ئیسرائیلی ⟨את⟩ نەنارد، وەک یاهوە بە دەستی مۆشە فەرمووی بوو.","tokens":[{"surface":"ויחזק","gloss":"بەهێز بوو"},{"surface":"לב","gloss":"دڵی"},{"surface":"פרעה","gloss":"فیرعەون"},{"surface":"ולא","gloss":"و نە"},{"surface":"שלח","gloss":"نارد"},{"surface":"את","gloss":"⟨את⟩","marks":"کوڕانی ئیسرائیلی"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیلی"},{"surface":"כאשר","gloss":"وەک"},{"surface":"דבר","gloss":"فەرمووی بوو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ביד","gloss":"بە دەستی"},{"surface":"משה","gloss":"مۆشە"}],"timestamp":"2026-09-24T09:39:39.489529147Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و دڵی فیرعەون بەهێز بوو، و کوڕانی ئیسرائیلی ⟨את⟩ نەنارد، وەک یاهوە بە دەستی مۆشە فەرمووی بوو.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "بەهێز بوو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیرعەون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوڕانی ئیسرائیلی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیلی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرمووی بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:39:39.489529147Z",
+  "model": "glm-5.3"
+}

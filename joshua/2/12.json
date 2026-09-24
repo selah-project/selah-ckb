@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":12,"ref":"joshua 2:12","book":"joshua","lang":"ckb","chapter":2,"translation":"و ئێستا تکایە بە یاهوە پێم بەڵێن بدەن، چونکە حەسەدم لەگەڵ ئێوە کرم، هەروەها ئێوە لەگەڵ ماڵی باوکمی حەسەد بکەن و نیشانەیەکی ڕاست پێم بدەن.","tokens":[{"surface":"ועתה","gloss":"و ئێستا"},{"surface":"השבעו","gloss":"بەڵێن بدەن"},{"surface":"נא","gloss":"تکایە"},{"surface":"לי","gloss":"پێم"},{"surface":"ביהוה","gloss":"بە یاهوە"},{"surface":"כי","gloss":"چونکە"},{"surface":"עשיתי","gloss":"کرم"},{"surface":"עמכם","gloss":"لەگەڵ ئێوە"},{"surface":"חסד","gloss":"حەسەد"},{"surface":"ועשיתם","gloss":"و بکەن"},{"surface":"גם","gloss":"هەروەها"},{"surface":"אתם","gloss":"ئێوە"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"בית","gloss":"ماڵی"},{"surface":"אבי","gloss":"باوکمی"},{"surface":"חסד","gloss":"حەسەد"},{"surface":"ונתתם","gloss":"و بدەن"},{"surface":"לי","gloss":"پێم"},{"surface":"אות","gloss":"نیشانەیەک"},{"surface":"אמת","gloss":"ڕاست"}],"timestamp":"2026-09-24T15:54:53.286183506Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 2:12",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئێستا تکایە بە یاهوە پێم بەڵێن بدەن، چونکە حەسەدم لەگەڵ ئێوە کرم، هەروەها ئێوە لەگەڵ ماڵی باوکمی حەسەد بکەن و نیشانەیەکی ڕاست پێم بدەن.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "השבעו",
+      "gloss": "بەڵێن بدەن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "بە یاهوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کرم"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "لەگەڵ ئێوە"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "و بکەن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکمی"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "و بدەن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نیشانەیەک"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ڕاست"
+    }
+  ],
+  "timestamp": "2026-09-24T15:54:53.286183506Z",
+  "model": "glm-5.3"
+}

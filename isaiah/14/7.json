@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"isaiah 14:7","book":"isaiah","lang":"ckb","chapter":14,"translation":"هەموو زەویەکە حەسانەوە و ئارام بوو، بە گۆرانی قەرەباڵغ بوون.","tokens":[{"surface":"נחה","gloss":"حەسانەوە"},{"surface":"שקטה","gloss":"ئارام بوو"},{"surface":"כל","gloss":"هەموو"},{"surface":"הארץ","gloss":"زەویەکە"},{"surface":"פצחו","gloss":"قەرەباڵغ بوون"},{"surface":"רנה","gloss":"بە گۆرانی"}],"timestamp":"2026-09-24T12:17:05.314533841Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "هەموو زەویەکە حەسانەوە و ئارام بوو، بە گۆرانی قەرەباڵغ بوون.",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "حەسانەوە"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ئارام بوو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "قەرەباڵغ بوون"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "بە گۆرانی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:17:05.314533841Z",
+  "model": "glm-5.3"
+}

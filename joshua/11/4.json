@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":4,"ref":"joshua 11:4","book":"joshua","lang":"ckb","chapter":11,"translation":"و دەرچوون، ئەوان و هەموو لەشکرەکانیان لەگەڵیان — گەڵێکی زۆر وەک قومی کە لەسەر کەنار دەریایە بە ژمارەی زۆر، و ئەسپ و عەرەبانەی زۆر زۆر.","tokens":[{"surface":"ויצאו","gloss":"و دەرچوون"},{"surface":"הם","gloss":"ئەوان"},{"surface":"וכל","gloss":"و هەموو"},{"surface":"מחניהם","gloss":"لەشکرەکانیان"},{"surface":"עמם","gloss":"لەگەڵیان"},{"surface":"עם","gloss":"گەڵێکی"},{"surface":"רב","gloss":"زۆر"},{"surface":"כחול","gloss":"وەک قومی"},{"surface":"אשר","gloss":"کە"},{"surface":"על","gloss":"لەسەر"},{"surface":"שפת","gloss":"کەنار"},{"surface":"הים","gloss":"دەریایە"},{"surface":"לרב","gloss":"بە ژمارەی زۆر"},{"surface":"וסוס","gloss":"و ئەسپ"},{"surface":"ורכב","gloss":"و عەرەبانەی"},{"surface":"רב","gloss":"زۆر"},{"surface":"מאד","gloss":"زۆر"}],"timestamp":"2026-09-24T10:57:39.059813489Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 11:4",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و دەرچوون، ئەوان و هەموو لەشکرەکانیان لەگەڵیان — گەڵێکی زۆر وەک قومی کە لەسەر کەنار دەریایە بە ژمارەی زۆر، و ئەسپ و عەرەبانەی زۆر زۆر.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "و دەرچوون"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "لەشکرەکانیان"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "لەگەڵیان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "گەڵێکی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "وەک قومی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کەنار"
+    },
+    {
+      "surface": "הים",
+      "gloss": "دەریایە"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بە ژمارەی زۆر"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "و ئەسپ"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "و عەرەبانەی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:57:39.059813489Z",
+  "model": "glm-5.3"
+}

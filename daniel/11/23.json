@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":23,"ref":"daniel 11:23","book":"daniel","lang":"ckb","chapter":11,"translation":"و لە پەیوەستبوون لەگەڵی فێڵ دەکات، و بەرزدەبێتەوە و بە کەمێک لە گەل بەهێز دەبێت.","tokens":[{"surface":"ומן","gloss":"و لە"},{"surface":"התחברות","gloss":"پەیوەستبوون"},{"surface":"אליו","gloss":"لەگەڵی"},{"surface":"יעשה","gloss":"دەکات"},{"surface":"מרמה","gloss":"فێڵ"},{"surface":"ועלה","gloss":"و بەرزدەبێتەوە"},{"surface":"ועצם","gloss":"و بەهێز دەبێت"},{"surface":"במעט","gloss":"بە کەمێک"},{"surface":"גוי","gloss":"لە گەل"}],"timestamp":"2026-09-24T16:05:39.545173924Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 11:23",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و لە پەیوەستبوون لەگەڵی فێڵ دەکات، و بەرزدەبێتەوە و بە کەمێک لە گەل بەهێز دەبێت.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "התחברות",
+      "gloss": "پەیوەستبوون"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "فێڵ"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "و بەرزدەبێتەوە"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "و بەهێز دەبێت"
+    },
+    {
+      "surface": "במעט",
+      "gloss": "بە کەمێک"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "لە گەل"
+    }
+  ],
+  "timestamp": "2026-09-24T16:05:39.545173924Z",
+  "model": "glm-5.3"
+}

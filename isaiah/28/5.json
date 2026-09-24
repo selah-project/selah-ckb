@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":5,"ref":"isaiah 28:5","book":"isaiah","lang":"ckb","chapter":28,"translation":"لە ڕۆژی ئەوەدا یاهوەی سەڤائۆت دەبێتە تاجی شکۆ و تاجی جوانی، بۆ ماوەی گەلی.","tokens":[{"surface":"ביום","gloss":"لە ڕۆژی"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"צבאות","gloss":"سەڤائۆت"},{"surface":"לעטרת","gloss":"بۆ تاجی"},{"surface":"צבי","gloss":"شکۆ"},{"surface":"ולצפירת","gloss":"و بۆ تاجی"},{"surface":"תפארה","gloss":"جوانی"},{"surface":"לשאר","gloss":"بۆ ماوەی"},{"surface":"עמו","gloss":"گەلی"}],"timestamp":"2026-09-24T12:21:31.000781998Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "لە ڕۆژی ئەوەدا یاهوەی سەڤائۆت دەبێتە تاجی شکۆ و تاجی جوانی، بۆ ماوەی گەلی.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "بۆ تاجی"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "و بۆ تاجی"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "بۆ ماوەی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "گەلی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:21:31.000781998Z",
+  "model": "glm-5.3"
+}

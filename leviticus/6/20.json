@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":20,"ref":"leviticus 6:20","book":"leviticus","lang":"ckb","chapter":6,"translation":"هەموو ئەوەی بە گۆشتی ⟨ئەو⟩ دەگەیەنێت پیرۆز ⟨دەبێت⟩، و ئەوەی لە خوێنی دەچەقێنرێت لەسەر جلەکە، لە شوێنی پیرۆزدا دەشۆردرێت.","tokens":[{"surface":"כל","gloss":"هەموو"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"יגע","gloss":"دەگەیەنێت"},{"surface":"בבשרה","gloss":"بە گۆشتی"},{"surface":"יקדש","gloss":"پیرۆز دەبێت"},{"surface":"ואשר","gloss":"و ئەوەی"},{"surface":"יזה","gloss":"دەچەقێنرێت"},{"surface":"מדמה","gloss":"لە خوێنی"},{"surface":"על","gloss":"لەسەر"},{"surface":"הבגד","gloss":"جلەکە"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"יזה","gloss":"دەچەقێنرێت"},{"surface":"עליה","gloss":"لەسەری"},{"surface":"תכבס","gloss":"دەشۆردرێت"},{"surface":"במקום","gloss":"لە شوێن"},{"surface":"קדש","gloss":"پیرۆز"}],"timestamp":"2026-09-24T09:59:45.428114310Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 6:20",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "هەموو ئەوەی بە گۆشتی ⟨ئەو⟩ دەگەیەنێت پیرۆز ⟨دەبێت⟩، و ئەوەی لە خوێنی دەچەقێنرێت لەسەر جلەکە، لە شوێنی پیرۆزدا دەشۆردرێت.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "دەگەیەنێت"
+    },
+    {
+      "surface": "בבשרה",
+      "gloss": "بە گۆشتی"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "پیرۆز دەبێت"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "و ئەوەی"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "دەچەقێنرێت"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "لە خوێنی"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "جلەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "دەچەقێنرێت"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "دەشۆردرێت"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "لە شوێن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:45.428114310Z",
+  "model": "glm-5.3"
+}

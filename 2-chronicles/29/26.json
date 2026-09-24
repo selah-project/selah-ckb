@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":26,"ref":"2-chronicles 29:26","book":"2-chronicles","lang":"ckb","chapter":29,"translation":"و لێڤییەکان بە ئامرازەکانی داود ڕاوەستان و کاهینەکان بە کەرنەکان","tokens":[{"surface":"ויעמדו","gloss":"و ڕاوەستان"},{"surface":"הלוים","gloss":"لێڤییەکان"},{"surface":"בכלי","gloss":"بە ئامرازەکانی"},{"surface":"דויד","gloss":"داود"},{"surface":"והכהנים","gloss":"و کاهینەکان"},{"surface":"בחצצרות","gloss":"بە کەرنەکان"}],"timestamp":"2026-09-24T15:44:11.935513617Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 29:26",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و لێڤییەکان بە ئامرازەکانی داود ڕاوەستان و کاهینەکان بە کەرنەکان",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "و ڕاوەستان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لێڤییەکان"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "بە ئامرازەکانی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "و کاهینەکان"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "بە کەرنەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:44:11.935513617Z",
+  "model": "glm-5.3"
+}

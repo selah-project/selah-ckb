@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":2,"ref":"job 30:2","book":"job","lang":"ckb","chapter":30,"translation":"هەروەها هێزی دەستەکانیان بۆچی بۆ من؟ لەسەریان پیری تەواو سڕدراوە.","tokens":[{"surface":"גם","gloss":"هەروەها"},{"surface":"כח","gloss":"هێز"},{"surface":"ידיהם","gloss":"دەستەکانیان"},{"surface":"למה","gloss":"بۆچی"},{"surface":"לי","gloss":"بۆ من"},{"surface":"עלימו","gloss":"لەسەریان"},{"surface":"אבד","gloss":"سڕدراوە"},{"surface":"כלח","gloss":"پیری تەواو"}],"timestamp":"2026-09-24T14:43:55.157757200Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "هەروەها هێزی دەستەکانیان بۆچی بۆ من؟ لەسەریان پیری تەواو سڕدراوە.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "כח",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "دەستەکانیان"
+    },
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "لەسەریان"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "سڕدراوە"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "پیری تەواو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:43:55.157757200Z",
+  "model": "glm-5.3"
+}

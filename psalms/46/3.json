@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 46:3","book":"psalms","lang":"ckb","chapter":46,"translation":"لەبەر ئەوە ناترسین کاتێک زەوی دەگۆڕدرێت و کاتێک چیاکان دەلەرزێن لە ناوەڕاستی دەریاکاندا.","tokens":[{"surface":"על","gloss":"لەبەر"},{"surface":"כן","gloss":"ئەوە"},{"surface":"לא","gloss":"نا"},{"surface":"נירא","gloss":"دەترسین"},{"surface":"בהמיר","gloss":"کاتێک دەگۆڕدرێت"},{"surface":"ארץ","gloss":"زەوی"},{"surface":"ובמוט","gloss":"و کاتێک دەلەرزێن"},{"surface":"הרים","gloss":"چیاکان"},{"surface":"בלב","gloss":"لە ناوەڕاستی"},{"surface":"ימים","gloss":"دەریاکان"}],"timestamp":"2026-09-24T13:57:50.177539540Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "لەبەر ئەوە ناترسین کاتێک زەوی دەگۆڕدرێت و کاتێک چیاکان دەلەرزێن لە ناوەڕاستی دەریاکاندا.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "دەترسین"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "کاتێک دەگۆڕدرێت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "و کاتێک دەلەرزێن"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "چیاکان"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "لە ناوەڕاستی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دەریاکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:50.177539540Z",
+  "model": "glm-5.3"
+}

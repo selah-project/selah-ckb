@@ -1,1 +1,83 @@
-{"tier":"glm-5.2","verse":3,"ref":"ecclesiastes 4:3","book":"ecclesiastes","lang":"ckb","chapter":4,"translation":"و لە هەردووکیان باشترە ⟨את⟩ ئەوەی کە هێشتا نەبووە، ئەوەی کە کارە خراپەکەی نەبینیوە ⟨את⟩ کە لەژێر خۆردا کراوە.","tokens":[{"surface":"וטוב","gloss":"و باشترە"},{"surface":"משניהם","gloss":"لە هەردووکیان"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەوەی"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"עדן","gloss":"هێشتا"},{"surface":"לא","gloss":"نە"},{"surface":"היה","gloss":"بووە"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"לא","gloss":"نە"},{"surface":"ראה","gloss":"بینیوە"},{"surface":"את","gloss":"⟨את⟩","marks":"کارەکە"},{"surface":"המעשה","gloss":"کارەکە"},{"surface":"הרע","gloss":"خراپەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"נעשה","gloss":"کراوە"},{"surface":"תחת","gloss":"لەژێر"},{"surface":"השמש","gloss":"خۆر"}],"timestamp":"2026-09-24T16:39:22.449265726Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و لە هەردووکیان باشترە ⟨את⟩ ئەوەی کە هێشتا نەبووە، ئەوەی کە کارە خراپەکەی نەبینیوە ⟨את⟩ کە لەژێر خۆردا کراوە.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "و باشترە"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "لە هەردووکیان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "بینیوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کارەکە"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کارەکە"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "خراپەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کراوە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T16:39:22.449265726Z",
+  "model": "glm-5.3"
+}

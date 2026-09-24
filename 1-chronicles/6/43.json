@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":43,"ref":"1-chronicles 6:43","book":"1-chronicles","lang":"ckb","chapter":6,"translation":"و ⟨את⟩ حیلێن و ⟨את⟩ مەگراشەکانی، ⟨את⟩ دیبیر و ⟨את⟩ مەگراشەکانی.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩","marks":"حیلێن"},{"surface":"חילז","gloss":"حیلێن"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مەگراشەکانی"},{"surface":"מגרשיה","gloss":"مەگراشەکانی"},{"surface":"את","gloss":"⟨את⟩","marks":"دیبیر"},{"surface":"דביר","gloss":"دیبیر"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مەگراشەکانی"},{"surface":"מגרשיה","gloss":"مەگراشەکانی"}],"timestamp":"2026-09-24T15:23:11.926131121Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ حیلێن و ⟨את⟩ مەگراشەکانی، ⟨את⟩ دیبیر و ⟨את⟩ مەگراشەکانی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حیلێن"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "حیلێن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەگراشەکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەگراشەکانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیبیر"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دیبیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەگراشەکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەگراشەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:11.926131121Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":21,"ref":"nehemiah 3:21","book":"nehemiah","lang":"ckb","chapter":3,"translation":"دوای ئەو مەرێمۆت کوڕی ئوریا کوڕی هاکۆز پێوانەیەکی دووەمی چەسپاند، لە دەرگای ماڵی ئێلیاشیڤ هەتا کۆتایی ماڵی ئێلیاشیڤ.","tokens":[{"surface":"אחריו","gloss":"دوای ئەو"},{"surface":"החזיק","gloss":"چەسپاند"},{"surface":"מרמות","gloss":"مەرێمۆت"},{"surface":"בן","gloss":"کوڕی"},{"surface":"אוריה","gloss":"ئوریا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"הקוץ","gloss":"هاکۆز"},{"surface":"מדה","gloss":"پێوانەیەکی"},{"surface":"שנית","gloss":"دووەمی"},{"surface":"מפתח","gloss":"لە دەرگای"},{"surface":"בית","gloss":"ماڵی"},{"surface":"אלישיב","gloss":"ئێلیاشیڤ"},{"surface":"ועד","gloss":"و هەتا"},{"surface":"תכלית","gloss":"کۆتایی"},{"surface":"בית","gloss":"ماڵی"},{"surface":"אלישיב","gloss":"ئێلیاشیڤ"}],"timestamp":"2026-09-24T15:15:15.703407812Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 3:21",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "دوای ئەو مەرێمۆت کوڕی ئوریا کوڕی هاکۆز پێوانەیەکی دووەمی چەسپاند، لە دەرگای ماڵی ئێلیاشیڤ هەتا کۆتایی ماڵی ئێلیاشیڤ.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "دوای ئەو"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "چەسپاند"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مەرێمۆت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ئوریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "הקוץ",
+      "gloss": "هاکۆز"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "پێوانەیەکی"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دووەمی"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "لە دەرگای"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ئێلیاشیڤ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و هەتا"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "کۆتایی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ئێلیاشیڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:15:15.703407812Z",
+  "model": "glm-5.3"
+}

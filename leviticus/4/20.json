@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":20,"ref":"leviticus 4:20","book":"leviticus","lang":"ckb","chapter":4,"translation":"و بۆ گوێرەکە وەک ئەوەی بۆ گوێرە قوربانیی هەڵەکە کرد، هەر وا بۆی دەکات؛ و کاهین لە پاڵان دیاری دەکات و لێیان ببووردرێت.","tokens":[{"surface":"ועשה","gloss":"و دەکات"},{"surface":"לפר","gloss":"بۆ گوێرە"},{"surface":"כאשר","gloss":"وەک ئەوەی"},{"surface":"עשה","gloss":"کرد"},{"surface":"לפר","gloss":"بۆ گوێرەی"},{"surface":"החטאת","gloss":"قوربانیی هەڵە"},{"surface":"כן","gloss":"هەر وا"},{"surface":"יעשה","gloss":"دەکات"},{"surface":"לו","gloss":"بۆی"},{"surface":"וכפר","gloss":"و دیاری دەکات"},{"surface":"עלהם","gloss":"لە پاڵان"},{"surface":"הכהן","gloss":"کاهین"},{"surface":"ונסלח","gloss":"و ببووردرێت"},{"surface":"להם","gloss":"لێیان"}],"timestamp":"2026-09-24T09:59:21.838027830Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و بۆ گوێرەکە وەک ئەوەی بۆ گوێرە قوربانیی هەڵەکە کرد، هەر وا بۆی دەکات؛ و کاهین لە پاڵان دیاری دەکات و لێیان ببووردرێت.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "و دەکات"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "بۆ گوێرە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک ئەوەی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "بۆ گوێرەی"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "قوربانیی هەڵە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "و دیاری دەکات"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "لە پاڵان"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "و ببووردرێت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لێیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:21.838027830Z",
+  "model": "glm-5.3"
+}

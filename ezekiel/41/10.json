@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":10,"ref":"ezekiel 41:10","book":"ezekiel","lang":"ckb","chapter":41,"translation":"و لە نێوان ژوورەکاندا پانیی بیست ئارکە بوو، دەورووبەر دەوری خانووەکە، دەورووبەر، دەورووبەر.","tokens":[{"surface":"ובין","gloss":"و لە نێوان"},{"surface":"הלשכות","gloss":"ژوورەکان"},{"surface":"רחב","gloss":"پانیی"},{"surface":"עשרים","gloss":"بیست"},{"surface":"אמה","gloss":"ئارکە"},{"surface":"סביב","gloss":"دەورووبەر"},{"surface":"לבית","gloss":"دەوری خانووەکە"},{"surface":"סביב","gloss":"دەورووبەر"},{"surface":"סביב","gloss":"دەورووبەر"}],"timestamp":"2026-09-24T13:23:13.292006677Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و لە نێوان ژوورەکاندا پانیی بیست ئارکە بوو، دەورووبەر دەوری خانووەکە، دەورووبەر، دەورووبەر.",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "و لە نێوان"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ژوورەکان"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پانیی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ئارکە"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دەورووبەر"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "دەوری خانووەکە"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دەورووبەر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "دەورووبەر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:23:13.292006677Z",
+  "model": "glm-5.3"
+}

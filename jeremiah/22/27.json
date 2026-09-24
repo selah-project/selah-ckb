@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":27,"ref":"jeremiah 22:27","book":"jeremiah","lang":"ckb","chapter":22,"translation":"و بۆ ئەو زەوییەی کە گیانیان ⟨את⟩ بەرزدەکەن بۆ گەڕانەوە بۆ ئەوێ، بۆ ئەوێ ناگەڕێنەوە.","tokens":[{"surface":"ועל","gloss":"و بۆ"},{"surface":"הארץ","gloss":"ئەو زەوییەی"},{"surface":"אשר","gloss":"کە"},{"surface":"הם","gloss":"ئەوان"},{"surface":"מנשאים","gloss":"بەرزدەکەن"},{"surface":"את","gloss":"⟨את⟩","marks":"گیانیان"},{"surface":"נפשם","gloss":"گیانیان"},{"surface":"לשוב","gloss":"بۆ گەڕانەوە"},{"surface":"שם","gloss":"بۆ ئەوێ"},{"surface":"שמה","gloss":"بۆ ئەوێ"},{"surface":"לא","gloss":"نە"},{"surface":"ישובו","gloss":"ناگەڕێنەوە"}],"timestamp":"2026-09-24T12:46:17.690018927Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و بۆ ئەو زەوییەی کە گیانیان ⟨את⟩ بەرزدەکەن بۆ گەڕانەوە بۆ ئەوێ، بۆ ئەوێ ناگەڕێنەوە.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ئەو زەوییەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "بەرزدەکەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیانیان"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "گیانیان"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "بۆ گەڕانەوە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "بۆ ئەوێ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "بۆ ئەوێ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ناگەڕێنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:46:17.690018927Z",
+  "model": "glm-5.3"
+}

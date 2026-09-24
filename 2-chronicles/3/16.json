@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":16,"ref":"2-chronicles 3:16","book":"2-chronicles","lang":"ckb","chapter":3,"translation":"و زنجیرەکانی لە دێبیردا کرد و لەسەر سەری ستوونەکانی نا، و سێوە هەرمێنی سەدی کرد و لە زنجیرەکانیدا نا.","tokens":[{"surface":"ויעש","gloss":"و کرد"},{"surface":"שרשרות","gloss":"زنجیرەکان"},{"surface":"בדביר","gloss":"لە دێبیر"},{"surface":"ויתן","gloss":"و نا"},{"surface":"על","gloss":"لەسەر"},{"surface":"ראש","gloss":"سەری"},{"surface":"העמדים","gloss":"ستوونەکانی"},{"surface":"ויעש","gloss":"و کرد"},{"surface":"רמונים","gloss":"سێوە هەرمێن"},{"surface":"מאה","gloss":"سەد"},{"surface":"ויתן","gloss":"و نا"},{"surface":"בשרשרות","gloss":"لە زنجیرەکانیدا"}],"timestamp":"2026-09-24T15:33:03.296021240Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 3:16",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و زنجیرەکانی لە دێبیردا کرد و لەسەر سەری ستوونەکانی نا، و سێوە هەرمێنی سەدی کرد و لە زنجیرەکانیدا نا.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "שרשרות",
+      "gloss": "زنجیرەکان"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "لە دێبیر"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ستوونەکانی"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "و کرد"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "سێوە هەرمێن"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "בשרשרות",
+      "gloss": "لە زنجیرەکانیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:33:03.296021240Z",
+  "model": "glm-5.3"
+}

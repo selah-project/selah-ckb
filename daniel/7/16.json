@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":16,"ref":"daniel 7:16","book":"daniel","lang":"ckb","chapter":7,"translation":"نزیک بوومەوە لای یەکێک لە ڕاوەستاوانەکان، و دڵنیاییەکەم لەو دەربارەی هەموو ئەمە پرسی، و بەمی فەرموو و واتای قسەکانم فێر کرد.","tokens":[{"surface":"קרבת","gloss":"نزیک بوومەوە"},{"surface":"על","gloss":"لای"},{"surface":"חד","gloss":"یەکێک"},{"surface":"מן","gloss":"لە"},{"surface":"קאמיא","gloss":"ڕاوەستاوانەکان"},{"surface":"ויציבא","gloss":"و دڵنیاییەکەم"},{"surface":"אבעא","gloss":"پرسی"},{"surface":"מנה","gloss":"لەو"},{"surface":"על","gloss":"دەربارەی"},{"surface":"כל","gloss":"هەموو"},{"surface":"דנה","gloss":"ئەمە"},{"surface":"ואמר","gloss":"و فەرموو"},{"surface":"לי","gloss":"بەم"},{"surface":"ופשר","gloss":"و واتا"},{"surface":"מליא","gloss":"قسەکان"},{"surface":"יהודענני","gloss":"فێرم کرد"}],"timestamp":"2026-09-24T15:07:02.586209940Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 7:16",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "نزیک بوومەوە لای یەکێک لە ڕاوەستاوانەکان، و دڵنیاییەکەم لەو دەربارەی هەموو ئەمە پرسی، و بەمی فەرموو و واتای قسەکانم فێر کرد.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "نزیک بوومەوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "لای"
+    },
+    {
+      "surface": "חד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "קאמיא",
+      "gloss": "ڕاوەستاوانەکان"
+    },
+    {
+      "surface": "ויציבא",
+      "gloss": "و دڵنیاییەکەم"
+    },
+    {
+      "surface": "אבעא",
+      "gloss": "پرسی"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "لەو"
+    },
+    {
+      "surface": "על",
+      "gloss": "دەربارەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بەم"
+    },
+    {
+      "surface": "ופשר",
+      "gloss": "و واتا"
+    },
+    {
+      "surface": "מליא",
+      "gloss": "قسەکان"
+    },
+    {
+      "surface": "יהודענני",
+      "gloss": "فێرم کرد"
+    }
+  ],
+  "timestamp": "2026-09-24T15:07:02.586209940Z",
+  "model": "glm-5.3"
+}

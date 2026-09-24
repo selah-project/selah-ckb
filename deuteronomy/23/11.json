@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":11,"ref":"deuteronomy 23:11","book":"deuteronomy","lang":"ckb","chapter":23,"translation":"کاتێک پیاوێک لە تۆدا هەیە کە لە ڕووداوێکی شەوانە پاک نییە، دەڕواتە دەرەوە بۆ دەرەوەی ئۆردوگا، ناچێتە ناو ناوەڕاستی ئۆردوگا","tokens":[{"surface":"כי","gloss":"کاتێک"},{"surface":"יהיה","gloss":"هەیە"},{"surface":"בך","gloss":"لە تۆدا"},{"surface":"איש","gloss":"پیاوێک"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نا"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"טהור","gloss":"پاک"},{"surface":"מקרה","gloss":"لە ڕووداوێکی"},{"surface":"לילה","gloss":"شەوانە"},{"surface":"ויצא","gloss":"دەڕواتە دەرەوە"},{"surface":"אל","gloss":"بۆ"},{"surface":"מחוץ","gloss":"دەرەوەی"},{"surface":"למחנה","gloss":"ئۆردوگا"},{"surface":"לא","gloss":"نا"},{"surface":"יבא","gloss":"دەچێتە"},{"surface":"אל","gloss":"ناو"},{"surface":"תוך","gloss":"ناوەڕاستی"},{"surface":"המחנה","gloss":"ئۆردوگا"}],"timestamp":"2026-09-24T10:45:09.785207970Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "کاتێک پیاوێک لە تۆدا هەیە کە لە ڕووداوێکی شەوانە پاک نییە، دەڕواتە دەرەوە بۆ دەرەوەی ئۆردوگا، ناچێتە ناو ناوەڕاستی ئۆردوگا",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە تۆدا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "لە ڕووداوێکی"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شەوانە"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "دەڕواتە دەرەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "دەرەوەی"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ئۆردوگا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دەچێتە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ناوەڕاستی"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ئۆردوگا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:09.785207970Z",
+  "model": "glm-5.3"
+}

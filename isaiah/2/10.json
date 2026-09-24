@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 2:10","book":"isaiah","lang":"ckb","chapter":2,"translation":"بچۆ ناو بەرد و بشاردرەوە لە خۆڵ، لە ڕووی دڵەڕاوکێی یاهوە و لە شکۆی گەورەییەکەی.","tokens":[{"surface":"בוא","gloss":"بچۆ"},{"surface":"בצור","gloss":"ناو بەرد"},{"surface":"והטמן","gloss":"و بشاردرەوە"},{"surface":"בעפר","gloss":"لە خۆڵ"},{"surface":"מפני","gloss":"لە ڕووی"},{"surface":"פחד","gloss":"دڵەڕاوکێی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ומהדר","gloss":"و لە شکۆی"},{"surface":"גאנו","gloss":"گەورەییەکەی"}],"timestamp":"2026-09-24T12:11:49.126675905Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "بچۆ ناو بەرد و بشاردرەوە لە خۆڵ، لە ڕووی دڵەڕاوکێی یاهوە و لە شکۆی گەورەییەکەی.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "بچۆ"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ناو بەرد"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "و بشاردرەوە"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "لە خۆڵ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لە ڕووی"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "دڵەڕاوکێی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "و لە شکۆی"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "گەورەییەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:11:49.126675905Z",
+  "model": "glm-5.3"
+}

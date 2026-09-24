@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":19,"ref":"jeremiah 3:19","book":"jeremiah","lang":"ckb","chapter":3,"translation":"و من فەرمووم: چۆنت لە نێو کوڕاندا دابنێم و زەویێکی خۆش بەت دەدم، میراتی جوانی سەڤائۆتی گەلەکان؟ و فەرمووم: باوکم پێم دەڵێن و لەدوای من ناگەڕێنەوە.","tokens":[{"surface":"ואנכי","gloss":"و من"},{"surface":"אמרתי","gloss":"فەرمووم"},{"surface":"איך","gloss":"چۆن"},{"surface":"אשיתך","gloss":"دات دابنێم"},{"surface":"בבנים","gloss":"لە نێو کوڕاندا"},{"surface":"ואתן","gloss":"و دادەم"},{"surface":"לך","gloss":"بەت"},{"surface":"ארץ","gloss":"زەوی"},{"surface":"חמדה","gloss":"خۆش"},{"surface":"נחלת","gloss":"میراتی"},{"surface":"צבי","gloss":"جوانی"},{"surface":"צבאות","gloss":"سەڤائۆت"},{"surface":"גוים","gloss":"گەلەکان"},{"surface":"ואמר","gloss":"و فەرمووم"},{"surface":"אבי","gloss":"باوکم"},{"surface":"תקראו","gloss":"پێم دەڵێن"},{"surface":"לי","gloss":"من"},{"surface":"ומאחרי","gloss":"و لەدوای من"},{"surface":"לא","gloss":"نا"},{"surface":"תשובו","gloss":"دەگەڕێنەوە"}],"timestamp":"2026-09-24T12:39:30.855330992Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 3:19",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و من فەرمووم: چۆنت لە نێو کوڕاندا دابنێم و زەویێکی خۆش بەت دەدم، میراتی جوانی سەڤائۆتی گەلەکان؟ و فەرمووم: باوکم پێم دەڵێن و لەدوای من ناگەڕێنەوە.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "فەرمووم"
+    },
+    {
+      "surface": "איך",
+      "gloss": "چۆن"
+    },
+    {
+      "surface": "אשיתך",
+      "gloss": "دات دابنێم"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "لە نێو کوڕاندا"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "و دادەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بەت"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "خۆش"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراتی"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "جوانی"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "سەڤائۆت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "و فەرمووم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باوکم"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "پێم دەڵێن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ומאחרי",
+      "gloss": "و لەدوای من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשובו",
+      "gloss": "دەگەڕێنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:39:30.855330992Z",
+  "model": "glm-5.3"
+}

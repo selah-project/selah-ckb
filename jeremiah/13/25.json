@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":25,"ref":"jeremiah 13:25","book":"jeremiah","lang":"ckb","chapter":13,"translation":"ئەمە پشکەکەتە، بەشی پێوانەکەت ⟨את⟩ لە لای من، فەرمووی یاهوە، چونکە لەبیرت کردی من ⟨את⟩ و پشتت بە درۆ بەست.","tokens":[{"surface":"זה","gloss":"ئەمە"},{"surface":"גורלך","gloss":"پشکەکەتە"},{"surface":"מנת","gloss":"بەشی"},{"surface":"מדיך","gloss":"پێوانەکەت"},{"surface":"מאתי","gloss":"⟨את⟩ لە لای من"},{"surface":"נאם","gloss":"فەرمووی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אשר","gloss":"چونکە"},{"surface":"שכחת","gloss":"لەبیرت کردی"},{"surface":"אותי","gloss":"⟨את⟩ من"},{"surface":"ותבטחי","gloss":"پشتت بەست"},{"surface":"בשקר","gloss":"بە درۆ"}],"timestamp":"2026-09-24T17:25:35.106579556Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "ئەمە پشکەکەتە، بەشی پێوانەکەت ⟨את⟩ لە لای من، فەرمووی یاهوە، چونکە لەبیرت کردی من ⟨את⟩ و پشتت بە درۆ بەست.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "پشکەکەتە"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "بەشی"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "پێوانەکەت"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ لە لای من"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فەرمووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "لەبیرت کردی"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ من"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "پشتت بەست"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "بە درۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T17:25:35.106579556Z",
+  "model": "glm-5.3"
+}

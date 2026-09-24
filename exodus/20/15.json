@@ -1,1 +1,21 @@
-{"tier":"glm-5.2","verse":15,"ref":"exodus 20:15","book":"exodus","lang":"ckb","chapter":20,"translation":"نەدزۆت","tokens":[{"surface":"לא","gloss":"نە"},{"surface":"תגנב","gloss":"دزۆت"}],"timestamp":"2026-09-24T16:40:51.850248219Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "نەدزۆت",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "دزۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:40:51.850248219Z",
+  "model": "glm-5.3"
+}

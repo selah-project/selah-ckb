@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":22,"ref":"1-chronicles 5:22","book":"1-chronicles","lang":"ckb","chapter":5,"translation":"چونکە زۆر کوژراو کەوتن، چونکە شەڕەکە لە ئێلۆهیم بوو، و لە جێگەیان دانیشتن تا گۆشەنشینی.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"חללים","gloss":"کوژراو"},{"surface":"רבים","gloss":"زۆر"},{"surface":"נפלו","gloss":"کەوتن"},{"surface":"כי","gloss":"چونکە"},{"surface":"מהאלהים","gloss":"لە ئێلۆهیم"},{"surface":"המלחמה","gloss":"شەڕەکە"},{"surface":"וישבו","gloss":"دانیشتن"},{"surface":"תחתיהם","gloss":"لە جێگەیان"},{"surface":"עד","gloss":"تا"},{"surface":"הגלה","gloss":"گۆشەنشینی"}],"timestamp":"2026-09-24T15:22:50.795459905Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 5:22",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چونکە زۆر کوژراو کەوتن، چونکە شەڕەکە لە ئێلۆهیم بوو، و لە جێگەیان دانیشتن تا گۆشەنشینی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "کوژراو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "کەوتن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "لە ئێلۆهیم"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "شەڕەکە"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "دانیشتن"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "لە جێگەیان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "گۆشەنشینی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:50.795459905Z",
+  "model": "glm-5.3"
+}

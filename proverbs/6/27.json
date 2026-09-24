@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":27,"ref":"proverbs 6:27","book":"proverbs","lang":"ckb","chapter":6,"translation":"ئایا مرۆڤێک ئاگر دەهێنێتە ئامۆزای خۆی، و جلەکانی نەسووتێن؟","tokens":[{"surface":"היחתה","gloss":"ئایا دەهێنێتە...ەوە"},{"surface":"איש","gloss":"مرۆڤێک"},{"surface":"אש","gloss":"ئاگر"},{"surface":"בחיקו","gloss":"لە ئامۆزای خۆی"},{"surface":"ובגדיו","gloss":"و جلەکانی"},{"surface":"לא","gloss":"نە"},{"surface":"תשרפנה","gloss":"سووتێن"}],"timestamp":"2026-09-24T17:02:52.407234058Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "ئایا مرۆڤێک ئاگر دەهێنێتە ئامۆزای خۆی، و جلەکانی نەسووتێن؟",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "ئایا دەهێنێتە...ەوە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤێک"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "لە ئامۆزای خۆی"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "و جلەکانی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "سووتێن"
+    }
+  ],
+  "timestamp": "2026-09-24T17:02:52.407234058Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":24,"ref":"amos 5:24","book":"amos","lang":"ckb","chapter":5,"translation":"و دادپەروەری وەک ئاو ڕاتبگوزێرێت، و ڕاستی وەک ڕووبارێکی هەمیشەیی.","tokens":[{"surface":"ויגל","gloss":"و ڕاتبگوزێرێت"},{"surface":"כמים","gloss":"وەک ئاو"},{"surface":"משפט","gloss":"دادپەروەری"},{"surface":"וצדקה","gloss":"و ڕاستی"},{"surface":"כנחל","gloss":"وەک ڕووبار"},{"surface":"איתן","gloss":"هەمیشەیی"}],"timestamp":"2026-09-24T13:34:05.270540603Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "amos 5:24",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و دادپەروەری وەک ئاو ڕاتبگوزێرێت، و ڕاستی وەک ڕووبارێکی هەمیشەیی.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "و ڕاتبگوزێرێت"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "وەک ئاو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادپەروەری"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "و ڕاستی"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "وەک ڕووبار"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "هەمیشەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:34:05.270540603Z",
+  "model": "glm-5.3"
+}

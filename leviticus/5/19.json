@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":19,"ref":"leviticus 5:19","book":"leviticus","lang":"ckb","chapter":5,"translation":"قوربانیی تاوانەکەیە؛ بێگومان تاوانباری لای یاهوە بووە.","tokens":[{"surface":"אשם","gloss":"قوربانیی تاوانەکەیە"},{"surface":"הוא","gloss":"بێگومان"},{"surface":"אשם","gloss":"تاوانبار"},{"surface":"אשם","gloss":"تاوانبار بووە"},{"surface":"ליהוה","gloss":"لای یاهوە"}],"timestamp":"2026-09-24T16:58:58.371566638Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "قوربانیی تاوانەکەیە؛ بێگومان تاوانباری لای یاهوە بووە.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "قوربانیی تاوانەکەیە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "بێگومان"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "تاوانبار"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "تاوانبار بووە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لای یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:58:58.371566638Z",
+  "model": "glm-5.3"
+}

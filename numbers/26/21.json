@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":21,"ref":"numbers 26:21","book":"numbers","lang":"ckb","chapter":26,"translation":"و کوڕانی پەرەتس بوون: بۆ حەزرۆن، بنەماڵەی حەزرۆنی؛ بۆ حامول، بنەماڵەی حامولی.","tokens":[{"surface":"ויהיו","gloss":"و بوون"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"פרץ","gloss":"پەرەتس"},{"surface":"לחצרן","gloss":"بۆ حەزرۆن"},{"surface":"משפחת","gloss":"بنەماڵەی"},{"surface":"החצרני","gloss":"حەزرۆنی"},{"surface":"לחמול","gloss":"بۆ حامول"},{"surface":"משפחת","gloss":"بنەماڵەی"},{"surface":"החמולי","gloss":"حامولی"}],"timestamp":"2026-09-24T10:26:56.305499899Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و کوڕانی پەرەتس بوون: بۆ حەزرۆن، بنەماڵەی حەزرۆنی؛ بۆ حامول، بنەماڵەی حامولی.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "و بوون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پەرەتس"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "بۆ حەزرۆن"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "بنەماڵەی"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "حەزرۆنی"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "بۆ حامول"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "بنەماڵەی"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "حامولی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:56.305499899Z",
+  "model": "glm-5.3"
+}

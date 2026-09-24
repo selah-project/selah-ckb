@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":24,"ref":"psalms 136:24","book":"psalms","lang":"ckb","chapter":136,"translation":"و لە دەسەڵەتمەندانمان ڕزگارمان کرد، چونکە بۆ هەمیشەیە حەسەدی.","tokens":[{"surface":"ויפרקנו","gloss":"و ڕزگارمان کرد"},{"surface":"מצרינו","gloss":"لە دەسەڵەتمەندانمان"},{"surface":"כי","gloss":"چونکە"},{"surface":"לעולם","gloss":"بۆ هەمیشە"},{"surface":"חסדו","gloss":"حەسەدی"}],"timestamp":"2026-09-24T14:19:07.664897665Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "و لە دەسەڵەتمەندانمان ڕزگارمان کرد، چونکە بۆ هەمیشەیە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "و ڕزگارمان کرد"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "لە دەسەڵەتمەندانمان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:07.664897665Z",
+  "model": "glm-5.3"
+}

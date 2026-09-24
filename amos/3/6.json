@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":6,"ref":"amos 3:6","book":"amos","lang":"ckb","chapter":3,"translation":"ئەگەر شۆفار لە شارێک دەژەنرێت، و گەل نا دەلەرزن؟ ئەگەر خراپەیەک لە شارێک هەبێت، و یاهوە نا کردوویەتی؟","tokens":[{"surface":"אם","gloss":"ئەگەر"},{"surface":"יתקע","gloss":"دەژەنرێت"},{"surface":"שופר","gloss":"شۆفار"},{"surface":"בעיר","gloss":"لە شارێک"},{"surface":"ועם","gloss":"و گەل"},{"surface":"לא","gloss":"نا"},{"surface":"יחרדו","gloss":"دەلەرزن"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"תהיה","gloss":"هەبێت"},{"surface":"רעה","gloss":"خراپەیەک"},{"surface":"בעיר","gloss":"لە شارێک"},{"surface":"ויהוה","gloss":"و یاهوە"},{"surface":"לא","gloss":"نا"},{"surface":"עשה","gloss":"کردوویەتی"}],"timestamp":"2026-09-24T13:33:25.840312181Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "ئەگەر شۆفار لە شارێک دەژەنرێت، و گەل نا دەلەرزن؟ ئەگەر خراپەیەک لە شارێک هەبێت، و یاهوە نا کردوویەتی؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "دەژەنرێت"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شۆفار"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "لە شارێک"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "و گەل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "دەلەرزن"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "هەبێت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "خراپەیەک"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "لە شارێک"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "و یاهوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردوویەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:33:25.840312181Z",
+  "model": "glm-5.3"
+}

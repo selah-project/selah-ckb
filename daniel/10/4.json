@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":4,"ref":"daniel 10:4","book":"daniel","lang":"ckb","chapter":10,"translation":"و لە ڕۆژی بیست و چواری مانگی یەکەمدا، من لە کەناری ڕووبارە گەورەکە بووم، ئەوەی خۆی حیددەقەڵە.","tokens":[{"surface":"וביום","gloss":"و لە ڕۆژی"},{"surface":"עשרים","gloss":"بیست"},{"surface":"וארבעה","gloss":"و چوار"},{"surface":"לחדש","gloss":"مانگی"},{"surface":"הראשון","gloss":"یەکەم"},{"surface":"ואני","gloss":"و من"},{"surface":"הייתי","gloss":"بووم"},{"surface":"על","gloss":"لە"},{"surface":"יד","gloss":"کەناری"},{"surface":"הנהר","gloss":"ڕووبارەکە"},{"surface":"הגדול","gloss":"گەورە"},{"surface":"הוא","gloss":"ئەوەی"},{"surface":"חדקל","gloss":"حیددەقەڵ"}],"timestamp":"2026-09-24T15:08:19.878367481Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 10:4",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و لە ڕۆژی بیست و چواری مانگی یەکەمدا، من لە کەناری ڕووبارە گەورەکە بووم، ئەوەی خۆی حیددەقەڵە.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگی"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "و من"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "بووم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "יד",
+      "gloss": "کەناری"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ڕووبارەکە"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "حیددەقەڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:08:19.878367481Z",
+  "model": "glm-5.3"
+}

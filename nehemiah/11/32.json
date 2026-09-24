@@ -1,1 +1,25 @@
-{"tier":"glm-5.2","verse":32,"ref":"nehemiah 11:32","book":"nehemiah","lang":"ckb","chapter":11,"translation":"لە عەناتوت، نۆڤ، عەنەنیه","tokens":[{"surface":"ענתות","gloss":"عەناتوت"},{"surface":"נב","gloss":"نۆڤ"},{"surface":"ענניה","gloss":"عەنەنیه"}],"timestamp":"2026-09-24T15:19:12.984309857Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "لە عەناتوت، نۆڤ، عەنەنیه",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "عەناتوت"
+    },
+    {
+      "surface": "נב",
+      "gloss": "نۆڤ"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "عەنەنیه"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:12.984309857Z",
+  "model": "glm-5.3"
+}

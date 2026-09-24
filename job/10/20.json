@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":20,"ref":"job 10:20","book":"job","lang":"ckb","chapter":10,"translation":"ئایا ڕۆژەکانم کەم نین؟ ⟨بوەستێت⟩، لە من ⟨لا دەچێتەوە⟩ و کەمێک ئاسوودە دەبم.","tokens":[{"surface":"הלא","gloss":"ئایا نا"},{"surface":"מעט","gloss":"کەم"},{"surface":"ימי","gloss":"ڕۆژەکانم"},{"surface":"יחדל","gloss":"⟨بوەستێت⟩"},{"surface":"ישית","gloss":"دابنێت"},{"surface":"ממני","gloss":"لە من"},{"surface":"ואבליגה","gloss":"و ئاسوودە دەبم"},{"surface":"מעט","gloss":"کەمێک"}],"timestamp":"2026-09-24T14:37:37.389888632Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "ئایا ڕۆژەکانم کەم نین؟ ⟨بوەستێت⟩، لە من ⟨لا دەچێتەوە⟩ و کەمێک ئاسوودە دەبم.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ئایا نا"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کەم"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ڕۆژەکانم"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "⟨بوەستێت⟩"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "دابنێت"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "و ئاسوودە دەبم"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "کەمێک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:37:37.389888632Z",
+  "model": "glm-5.3"
+}

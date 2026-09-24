@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":19,"ref":"genesis 28:19","book":"genesis","lang":"ckb","chapter":28,"translation":"و ناوی ⟨את⟩ ئەو شوێنەی ناوهێنا بەیت ئێل، بەڵام لوز ناوی ئەو شارە بوو لە پێشوودا.","tokens":[{"surface":"ויקרא","gloss":"ناوهێنا"},{"surface":"את","gloss":"⟨את⟩","marks":"ناو"},{"surface":"שם","gloss":"ناوی"},{"surface":"המקום","gloss":"ئەو شوێنە"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"בית","gloss":"بەیت"},{"surface":"אל","gloss":"ئێل"},{"surface":"ואולם","gloss":"بەڵام"},{"surface":"לוז","gloss":"لوز ⟨لووز⟩"},{"surface":"שם","gloss":"ناوی"},{"surface":"העיר","gloss":"ئەو شارە"},{"surface":"לראשנה","gloss":"لە پێشوودا"}],"timestamp":"2026-09-24T09:23:58.624111557Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و ناوی ⟨את⟩ ئەو شوێنەی ناوهێنا بەیت ئێل، بەڵام لوز ناوی ئەو شارە بوو لە پێشوودا.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ناوهێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ئەو شوێنە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بەیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "بەڵام"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لوز ⟨لووز⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ئەو شارە"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "لە پێشوودا"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:58.624111557Z",
+  "model": "glm-5.3"
+}

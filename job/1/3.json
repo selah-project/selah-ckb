@@ -1,1 +1,113 @@
-{"tier":"glm-5.2","verse":3,"ref":"job 1:3","book":"job","lang":"ckb","chapter":1,"translation":"و ماڵاتەکەی حەوت هەزار مەڕ و سێ هەزار وحش و پێنج سەد جووت گا و پێنج سەد لاشەی مێ بوو، و خزمەتکارێکی زۆر زۆر؛ و ئەو پیاوە لە هەموو کوڕانی ڕۆژهەڵات گەورەتر بوو.","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"מקנהו","gloss":"ماڵاتەکەی"},{"surface":"שבעת","gloss":"حەوت"},{"surface":"אלפי","gloss":"هەزار"},{"surface":"צאן","gloss":"مەڕ"},{"surface":"ושלשת","gloss":"و سێ"},{"surface":"אלפי","gloss":"هەزار"},{"surface":"גמלים","gloss":"وحش"},{"surface":"וחמש","gloss":"و پێنج"},{"surface":"מאות","gloss":"سەد"},{"surface":"צמד","gloss":"جووت"},{"surface":"בקר","gloss":"گا"},{"surface":"וחמש","gloss":"و پێنج"},{"surface":"מאות","gloss":"سەد"},{"surface":"אתונות","gloss":"لاشەی مێ"},{"surface":"ועבדה","gloss":"و خزمەتکار"},{"surface":"רבה","gloss":"زۆر"},{"surface":"מאד","gloss":"بە زۆری"},{"surface":"ויהי","gloss":"و بوو"},{"surface":"האיש","gloss":"ئەو پیاوە"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"גדול","gloss":"گەورەتر"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"קדם","gloss":"ڕۆژهەڵات"}],"timestamp":"2026-09-24T14:34:16.496533372Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 1:3",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ماڵاتەکەی حەوت هەزار مەڕ و سێ هەزار وحش و پێنج سەد جووت گا و پێنج سەد لاشەی مێ بوو، و خزمەتکارێکی زۆر زۆر؛ و ئەو پیاوە لە هەموو کوڕانی ڕۆژهەڵات گەورەتر بوو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ماڵاتەکەی"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "حەوت"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "وحش"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "جووت"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گا"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "و پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "لاشەی مێ"
+    },
+    {
+      "surface": "ועבדה",
+      "gloss": "و خزمەتکار"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بە زۆری"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ئەو پیاوە"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورەتر"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ڕۆژهەڵات"
+    }
+  ],
+  "timestamp": "2026-09-24T14:34:16.496533372Z",
+  "model": "glm-5.3"
+}

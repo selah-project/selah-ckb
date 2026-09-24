@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":6,"ref":"ezekiel 23:6","book":"ezekiel","lang":"ckb","chapter":23,"translation":"بە شینی ئەرغەوانی پۆشرابوون — پارێزگار و گەورەکان، گەنجانی دڵخواز هەموویان، سوارە، سواری ئەسپ.","tokens":[{"surface":"לבשי","gloss":"پۆشرابوون"},{"surface":"תכלת","gloss":"شینی ئەرغەوانی"},{"surface":"פחות","gloss":"پارێزگار"},{"surface":"וסגנים","gloss":"و گەورەکان"},{"surface":"בחורי","gloss":"گەنجانی"},{"surface":"חמד","gloss":"دڵخواز"},{"surface":"כלם","gloss":"هەموویان"},{"surface":"פרשים","gloss":"سوارە"},{"surface":"רכבי","gloss":"سواری"},{"surface":"סוסים","gloss":"ئەسپ"}],"timestamp":"2026-09-24T13:15:45.906236987Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 23:6",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "بە شینی ئەرغەوانی پۆشرابوون — پارێزگار و گەورەکان، گەنجانی دڵخواز هەموویان، سوارە، سواری ئەسپ.",
+  "tokens": [
+    {
+      "surface": "לבשי",
+      "gloss": "پۆشرابوون"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "شینی ئەرغەوانی"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "پارێزگار"
+    },
+    {
+      "surface": "וסגנים",
+      "gloss": "و گەورەکان"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "گەنجانی"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "دڵخواز"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "هەموویان"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "سوارە"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "سواری"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ئەسپ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:15:45.906236987Z",
+  "model": "glm-5.3"
+}

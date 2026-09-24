@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":8,"ref":"leviticus 26:8","book":"leviticus","lang":"ckb","chapter":26,"translation":"و پێنج لە ئێوە سەد کەس دادەڕۆن، و سەد لە ئێوە دە هەزار دادەڕۆن، و دوژمنانتان بەردەم ئێوەدا بۆ شمشێر دەکەون.","tokens":[{"surface":"ורדפו","gloss":"و دادەڕۆن"},{"surface":"מכם","gloss":"لە ئێوە"},{"surface":"חמשה","gloss":"پێنج"},{"surface":"מאה","gloss":"سەد"},{"surface":"ומאה","gloss":"و سەد"},{"surface":"מכם","gloss":"لە ئێوە"},{"surface":"רבבה","gloss":"دە هەزار"},{"surface":"ירדפו","gloss":"دادەڕۆن"},{"surface":"ונפלו","gloss":"و دەکەون"},{"surface":"איביכם","gloss":"دوژمنانتان"},{"surface":"לפניכם","gloss":"بەردەم ئێوەدا"},{"surface":"לחרב","gloss":"بۆ شمشێر"}],"timestamp":"2026-09-24T10:11:47.613932059Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و پێنج لە ئێوە سەد کەس دادەڕۆن، و سەد لە ئێوە دە هەزار دادەڕۆن، و دوژمنانتان بەردەم ئێوەدا بۆ شمشێر دەکەون.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "و دادەڕۆن"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "لە ئێوە"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "و سەد"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "لە ئێوە"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "دە هەزار"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "دادەڕۆن"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "و دەکەون"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "دوژمنانتان"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "بەردەم ئێوەدا"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "بۆ شمشێر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:11:47.613932059Z",
+  "model": "glm-5.3"
+}

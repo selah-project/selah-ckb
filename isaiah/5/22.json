@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":22,"ref":"isaiah 5:22","book":"isaiah","lang":"ckb","chapter":5,"translation":"وای بۆ گەورەکان لە خواردنەوەی شەرابدا و پیاوانی هێز لە تێکەڵکردنی مەیی بەهێزدا.","tokens":[{"surface":"הוי","gloss":"وای بۆ"},{"surface":"גבורים","gloss":"گەورەکان"},{"surface":"לשתות","gloss":"لە خواردنەوەی"},{"surface":"יין","gloss":"شەراب"},{"surface":"ואנשי","gloss":"و پیاوانی"},{"surface":"חיל","gloss":"هێز"},{"surface":"למסך","gloss":"لە تێکەڵکردنی"},{"surface":"שכר","gloss":"مەیی بەهێز"}],"timestamp":"2026-09-24T12:15:25.453802033Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 5:22",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "وای بۆ گەورەکان لە خواردنەوەی شەرابدا و پیاوانی هێز لە تێکەڵکردنی مەیی بەهێزدا.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای بۆ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "گەورەکان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "لە خواردنەوەی"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شەراب"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "و پیاوانی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "هێز"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "لە تێکەڵکردنی"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "مەیی بەهێز"
+    }
+  ],
+  "timestamp": "2026-09-24T12:15:25.453802033Z",
+  "model": "glm-5.3"
+}

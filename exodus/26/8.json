@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":8,"ref":"exodus 26:8","book":"exodus","lang":"ckb","chapter":26,"translation":"درێژیی پەردەی یەک سی ئارشین دەبێت و پانی پەردەی یەک چوار ئارشین؛ پێوانەی یەک بۆ یازدە پەردەکە.","tokens":[{"surface":"ארך","gloss":"درێژیی"},{"surface":"היריעה","gloss":"پەردەی"},{"surface":"האחת","gloss":"یەک"},{"surface":"שלשים","gloss":"سی"},{"surface":"באמה","gloss":"بە ئارشین"},{"surface":"ורחב","gloss":"و پانی"},{"surface":"ארבע","gloss":"چوار"},{"surface":"באמה","gloss":"بە ئارشین"},{"surface":"היריעה","gloss":"پەردەی"},{"surface":"האחת","gloss":"یەک"},{"surface":"מדה","gloss":"پێوانەی"},{"surface":"אחת","gloss":"یەک"},{"surface":"לעשתי","gloss":"بۆ یازدە"},{"surface":"עשרה","gloss":"دە"},{"surface":"יריעת","gloss":"پەردە"}],"timestamp":"2026-09-24T09:49:45.485002413Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 26:8",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "درێژیی پەردەی یەک سی ئارشین دەبێت و پانی پەردەی یەک چوار ئارشین؛ پێوانەی یەک بۆ یازدە پەردەکە.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "درێژیی"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پەردەی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "بە ئارشین"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و پانی"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "بە ئارشین"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پەردەی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "پێوانەی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "بۆ یازدە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پەردە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:45.485002413Z",
+  "model": "glm-5.3"
+}

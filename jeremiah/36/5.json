@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":5,"ref":"jeremiah 36:5","book":"jeremiah","lang":"ckb","chapter":36,"translation":"و یارمیاهوو فەرمانیدا بە ⟨את⟩ باڕووخ بەم وتەیە: من گیراوم، ناتوانم بچمە ناو ماڵی یاهوە.","tokens":[{"surface":"ויצוה","gloss":"و فەرمانیدا"},{"surface":"ירמיהו","gloss":"یارمیاهوو"},{"surface":"את","gloss":"⟨את⟩","marks":"باڕووخ"},{"surface":"ברוך","gloss":"باڕووخ"},{"surface":"לאמר","gloss":"بەم وتەیە"},{"surface":"אני","gloss":"من"},{"surface":"עצור","gloss":"گیراوم"},{"surface":"לא","gloss":"نا"},{"surface":"אוכל","gloss":"دەتوانم"},{"surface":"לבוא","gloss":"بچمەژوورەوە"},{"surface":"בית","gloss":"ماڵ"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T12:54:55.234178595Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و یارمیاهوو فەرمانیدا بە ⟨את⟩ باڕووخ بەم وتەیە: من گیراوم، ناتوانم بچمە ناو ماڵی یاهوە.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "و فەرمانیدا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یارمیاهوو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باڕووخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باڕووخ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەم وتەیە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "گیراوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "دەتوانم"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "بچمەژوورەوە"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:54:55.234178595Z",
+  "model": "glm-5.3"
+}

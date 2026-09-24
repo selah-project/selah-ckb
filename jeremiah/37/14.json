@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":14,"ref":"jeremiah 37:14","book":"jeremiah","lang":"ckb","chapter":37,"translation":"و یەرمیا وتی: درۆیە، لای کاسدییەکان ناکەوم؛ بەڵام ئەو گوێی لێی نەگرت، و ییریا یەرمیای گرت و بردی بۆ لای ئاغاکان.","tokens":[{"surface":"ויאמר","gloss":"و وت"},{"surface":"ירמיהו","gloss":"یەرمیا"},{"surface":"שקר","gloss":"درۆ"},{"surface":"אינני","gloss":"نیم"},{"surface":"נפל","gloss":"دەکەوم"},{"surface":"על","gloss":"لای"},{"surface":"הכשדים","gloss":"کاسدییەکان"},{"surface":"ולא","gloss":"و نە"},{"surface":"שמע","gloss":"گوێی نەگرت"},{"surface":"אליו","gloss":"لێی"},{"surface":"ויתפש","gloss":"و گرت"},{"surface":"יראייה","gloss":"ییریا"},{"surface":"בירמיהו","gloss":"یەرمیای"},{"surface":"ויבאהו","gloss":"و بردی"},{"surface":"אל","gloss":"بۆ لای"},{"surface":"השרים","gloss":"ئاغاکان"}],"timestamp":"2026-09-24T12:55:52.294472206Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 37:14",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و یەرمیا وتی: درۆیە، لای کاسدییەکان ناکەوم؛ بەڵام ئەو گوێی لێی نەگرت، و ییریا یەرمیای گرت و بردی بۆ لای ئاغاکان.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یەرمیا"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درۆ"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "نیم"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "دەکەوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لای"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "کاسدییەکان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێی نەگرت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لێی"
+    },
+    {
+      "surface": "ויתפש",
+      "gloss": "و گرت"
+    },
+    {
+      "surface": "יראייה",
+      "gloss": "ییریا"
+    },
+    {
+      "surface": "בירמיהו",
+      "gloss": "یەرمیای"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "و بردی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ئاغاکان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:55:52.294472206Z",
+  "model": "glm-5.3"
+}

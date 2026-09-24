@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":21,"ref":"1-kings 17:21","book":"1-kings","lang":"ckb","chapter":17,"translation":"و خۆی لەسەر منداڵەکە سێ جار درێژکرد و بانگی یاهوەی کرد و فەرموو: یاهوە ئێلۆهای من، تکایە گیانی ئەم منداڵە بگەڕێتەوە بۆ ناخی.","tokens":[{"surface":"ויתמדד","gloss":"خۆی درێژکرد"},{"surface":"על","gloss":"لەسەر"},{"surface":"הילד","gloss":"منداڵەکە"},{"surface":"שלש","gloss":"سێ"},{"surface":"פעמים","gloss":"جار"},{"surface":"ויקרא","gloss":"بانگی کرد"},{"surface":"אל","gloss":"بۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ויאמר","gloss":"فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהי","gloss":"ئێلۆهای"},{"surface":"תשב","gloss":"بگەڕێتەوە"},{"surface":"נא","gloss":"تکایە"},{"surface":"נפש","gloss":"گیان"},{"surface":"הילד","gloss":"منداڵەکە"},{"surface":"הזה","gloss":"ئەمە"},{"surface":"על","gloss":"بۆ"},{"surface":"קרבו","gloss":"ناخی"}],"timestamp":"2026-09-24T11:54:06.840641465Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 17:21",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و خۆی لەسەر منداڵەکە سێ جار درێژکرد و بانگی یاهوەی کرد و فەرموو: یاهوە ئێلۆهای من، تکایە گیانی ئەم منداڵە بگەڕێتەوە بۆ ناخی.",
+  "tokens": [
+    {
+      "surface": "ויתמדד",
+      "gloss": "خۆی درێژکرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "منداڵەکە"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "جار"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "بانگی کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهای"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "بگەڕێتەوە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "گیان"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "منداڵەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ناخی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:54:06.840641465Z",
+  "model": "glm-5.3"
+}

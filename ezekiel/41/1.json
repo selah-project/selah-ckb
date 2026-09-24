@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":1,"ref":"ezekiel 41:1","book":"ezekiel","lang":"ckb","chapter":41,"translation":"و منی هێنایە ناو هیکالەکە و ⟨את⟩ ستوونەکانی پێوا: شەش ئەممە پانی لەم لایەوە و شەش ئەممە پانی لەو لایەوە — پانی چادرەکە.","tokens":[{"surface":"ויביאני","gloss":"و منی هێنایە"},{"surface":"אל","gloss":"ناو"},{"surface":"ההיכל","gloss":"هیکالەکە"},{"surface":"וימד","gloss":"و پێوا"},{"surface":"את","gloss":"⟨את⟩","marks":"ستوونەکان"},{"surface":"האילים","gloss":"ستوونەکانی"},{"surface":"שש","gloss":"شەش"},{"surface":"אמות","gloss":"ئەممە"},{"surface":"רחב","gloss":"پانی"},{"surface":"מפו","gloss":"لەم لایەوە"},{"surface":"ושש","gloss":"و شەش"},{"surface":"אמות","gloss":"ئەممە"},{"surface":"רחב","gloss":"پانی"},{"surface":"מפו","gloss":"لەو لایەوە"},{"surface":"רחב","gloss":"پانی"},{"surface":"האהל","gloss":"چادرەکە"}],"timestamp":"2026-09-24T16:44:35.472770119Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 41,
+  "translation": "و منی هێنایە ناو هیکالەکە و ⟨את⟩ ستوونەکانی پێوا: شەش ئەممە پانی لەم لایەوە و شەش ئەممە پانی لەو لایەوە — پانی چادرەکە.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "و منی هێنایە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "هیکالەکە"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "و پێوا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستوونەکان"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ستوونەکانی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ئەممە"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "لەم لایەوە"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ئەممە"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "لەو لایەوە"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "چادرەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:44:35.472770119Z",
+  "model": "glm-5.3"
+}

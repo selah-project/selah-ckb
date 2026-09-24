@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":8,"ref":"proverbs 11:8","book":"proverbs","lang":"ckb","chapter":11,"translation":"ڕاستکار لە تەنگەتەسیا ڕزگاری دەبێت، و شەڕەکار لە جیاتی ئەو دێت.","tokens":[{"surface":"צדיק","gloss":"ڕاستکار"},{"surface":"מצרה","gloss":"لە تەنگەتەسیا"},{"surface":"נחלץ","gloss":"ڕزگاری دەبێت"},{"surface":"ויבא","gloss":"و دێت"},{"surface":"רשע","gloss":"شەڕەکار"},{"surface":"תחתיו","gloss":"لە جیاتی ئەو"}],"timestamp":"2026-09-24T14:25:37.154987316Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ڕاستکار لە تەنگەتەسیا ڕزگاری دەبێت، و شەڕەکار لە جیاتی ئەو دێت.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ڕاستکار"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "لە تەنگەتەسیا"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "ڕزگاری دەبێت"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "و دێت"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شەڕەکار"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جیاتی ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:37.154987316Z",
+  "model": "glm-5.3"
+}

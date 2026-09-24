@@ -1,1 +1,25 @@
-{"tier":"glm-5.2","verse":36,"ref":"joshua 19:36","book":"joshua","lang":"ckb","chapter":19,"translation":"و ئەدەما، و ڕاما، و حەسۆر.","tokens":[{"surface":"ואדמה","gloss":"و ئەدەما"},{"surface":"והרמה","gloss":"و ڕاما"},{"surface":"וחצור","gloss":"و حەسۆر"}],"timestamp":"2026-09-24T11:00:38.737085362Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و ئەدەما، و ڕاما، و حەسۆر.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "و ئەدەما"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "و ڕاما"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "و حەسۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:38.737085362Z",
+  "model": "glm-5.3"
+}

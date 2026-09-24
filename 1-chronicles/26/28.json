@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":28,"ref":"1-chronicles 26:28","book":"1-chronicles","lang":"ckb","chapter":26,"translation":"و هەموو ئەوانەی شموئێل بینەرەکە و شائول کوڕی قیش و ئاڤنێر کوڕی نێر و یۆئاڤ کوڕی تسرویاه پیرۆز کردبوون — هەموو پیرۆزکەرێک لەسەر دەستی شێلۆمیت و برایانی بوو.","tokens":[{"surface":"וכל","gloss":"و هەموو"},{"surface":"ההקדיש","gloss":"پیرۆز کردبوون"},{"surface":"שמואל","gloss":"شموئێل"},{"surface":"הראה","gloss":"بینەرەکە"},{"surface":"ושאול","gloss":"و شائول"},{"surface":"בן","gloss":"کوڕی"},{"surface":"קיש","gloss":"قیش"},{"surface":"ואבנר","gloss":"و ئاڤنێر"},{"surface":"בן","gloss":"کوڕی"},{"surface":"נר","gloss":"نێر"},{"surface":"ויואב","gloss":"و یۆئاڤ"},{"surface":"בן","gloss":"کوڕی"},{"surface":"צרויה","gloss":"تسرویاه"},{"surface":"כל","gloss":"هەموو"},{"surface":"המקדיש","gloss":"پیرۆزکەرێک"},{"surface":"על","gloss":"لەسەر"},{"surface":"יד","gloss":"دەستی"},{"surface":"שלמית","gloss":"شێلۆمیت"},{"surface":"ואחיו","gloss":"و برایانی"}],"timestamp":"2026-09-24T15:31:34.952005082Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 26:28",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "و هەموو ئەوانەی شموئێل بینەرەکە و شائول کوڕی قیش و ئاڤنێر کوڕی نێر و یۆئاڤ کوڕی تسرویاه پیرۆز کردبوون — هەموو پیرۆزکەرێک لەسەر دەستی شێلۆمیت و برایانی بوو.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "ההקדיש",
+      "gloss": "پیرۆز کردبوون"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئێل"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "بینەرەکە"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "و شائول"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قیش"
+    },
+    {
+      "surface": "ואבנר",
+      "gloss": "و ئاڤنێر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "و یۆئاڤ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تسرویاه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "پیرۆزکەرێک"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شێلۆمیت"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و برایانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:31:34.952005082Z",
+  "model": "glm-5.3"
+}

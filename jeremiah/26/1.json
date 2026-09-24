@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":1,"ref":"jeremiah 26:1","book":"jeremiah","lang":"ckb","chapter":26,"translation":"لە سەرەتای پاشایەتیی یاهویاکیم کوڕی یۆشیاهو پاشای یەهودا، ئەم قسەیە لە لای ⟨את⟩ یاهوە هات، بۆ وتن،","tokens":[{"surface":"בראשית","gloss":"لە سەرەتای"},{"surface":"ממלכות","gloss":"پاشایەتیی"},{"surface":"יהויקים","gloss":"یاهویاکیم ⟨یهویاقیم⟩"},{"surface":"בן","gloss":"کوڕی"},{"surface":"יאשיהו","gloss":"یۆشیاهو ⟨یووشیا⟩"},{"surface":"מלך","gloss":"پاشای"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"היה","gloss":"هات"},{"surface":"הדבר","gloss":"ئەم قسەیە"},{"surface":"הזה","gloss":"ئەم قسەیە"},{"surface":"מאת","gloss":"لە ⟨את⟩","marks":"یاهوە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"לאמר","gloss":"بۆ وتن"}],"timestamp":"2026-09-24T17:25:15.915024953Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 26:1",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "لە سەرەتای پاشایەتیی یاهویاکیم کوڕی یۆشیاهو پاشای یەهودا، ئەم قسەیە لە لای ⟨את⟩ یاهوە هات، بۆ وتن،",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "لە سەرەتای"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "پاشایەتیی"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "یاهویاکیم ⟨یهویاقیم⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یۆشیاهو ⟨یووشیا⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "هات"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئەم قسەیە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم قسەیە"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بۆ وتن"
+    }
+  ],
+  "timestamp": "2026-09-24T17:25:15.915024953Z",
+  "model": "glm-5.3"
+}

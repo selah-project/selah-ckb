@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":18,"ref":"genesis 11:18","book":"genesis","lang":"ckb","chapter":11,"translation":"و پەلەگ سی ساڵ ژیا و ⟨את⟩ رەئوی زا.","tokens":[{"surface":"ויחי","gloss":"ژیا"},{"surface":"פלג","gloss":"پەلەگ"},{"surface":"שלשים","gloss":"سی"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"ויולד","gloss":"و زا"},{"surface":"את","gloss":"⟨את⟩","marks":"رەئو"},{"surface":"רעו","gloss":"رەئو"}],"timestamp":"2026-09-24T09:14:22.286892128Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و پەلەگ سی ساڵ ژیا و ⟨את⟩ رەئوی زا.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژیا"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پەلەگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "سی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "و زا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رەئو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رەئو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:14:22.286892128Z",
+  "model": "glm-5.3"
+}

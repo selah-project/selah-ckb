@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":5,"ref":"judges 5:5","book":"judges","lang":"ckb","chapter":5,"translation":"چیاکان لە ڕووی یاهوە تاوانان، ئەوەی سینای، لە ڕووی یاهوە، ئێلۆهیمی ئیسرائیل.","tokens":[{"surface":"הרים","gloss":"چیاکان"},{"surface":"נזלו","gloss":"تاوانان"},{"surface":"מפני","gloss":"لەڕووی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"זה","gloss":"ئەوەی"},{"surface":"סיני","gloss":"سینای"},{"surface":"מפני","gloss":"لەڕووی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהי","gloss":"ئێلۆهیمی"},{"surface":"ישראל","gloss":"ئیسرائیل"}],"timestamp":"2026-09-24T11:04:57.094559334Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "چیاکان لە ڕووی یاهوە تاوانان، ئەوەی سینای، لە ڕووی یاهوە، ئێلۆهیمی ئیسرائیل.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "چیاکان"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "تاوانان"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لەڕووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینای"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "لەڕووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T11:04:57.094559334Z",
+  "model": "glm-5.3"
+}

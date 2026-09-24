@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":37,"ref":"1-kings 6:37","book":"1-kings","lang":"ckb","chapter":6,"translation":"لە ساڵی چوارەمدا بنکەی ماڵی یاهوە دانرا، لە مانگی زیڤ.","tokens":[{"surface":"בשנה","gloss":"لە ساڵی"},{"surface":"הרביעית","gloss":"چوارەم"},{"surface":"יסד","gloss":"بنکەی دانرا"},{"surface":"בית","gloss":"ماڵی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"בירח","gloss":"لە مانگی"},{"surface":"זו","gloss":"زیڤ"}],"timestamp":"2026-09-24T11:46:29.495863554Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "لە ساڵی چوارەمدا بنکەی ماڵی یاهوە دانرا، لە مانگی زیڤ.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "لە ساڵی"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "چوارەم"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "بنکەی دانرا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "لە مانگی"
+    },
+    {
+      "surface": "זו",
+      "gloss": "زیڤ"
+    }
+  ],
+  "timestamp": "2026-09-24T11:46:29.495863554Z",
+  "model": "glm-5.3"
+}

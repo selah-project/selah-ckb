@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":19,"ref":"deuteronomy 6:19","book":"deuteronomy","lang":"ckb","chapter":6,"translation":"بۆ ڕادانی ⟨את⟩ هەموو دوژمنەکانت لەبەردەمتەوە، وەک یاهوە فەرموویەتی.","tokens":[{"surface":"להדף","gloss":"بۆ ڕادانی"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو دوژمنەکانت"},{"surface":"כל","gloss":"هەموو"},{"surface":"איביך","gloss":"دوژمنەکانت"},{"surface":"מפניך","gloss":"لەبەردەمتەوە"},{"surface":"כאשר","gloss":"وەک"},{"surface":"דבר","gloss":"فەرموویەتی"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T10:36:57.814389873Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "بۆ ڕادانی ⟨את⟩ هەموو دوژمنەکانت لەبەردەمتەوە، وەک یاهوە فەرموویەتی.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "بۆ ڕادانی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو دوژمنەکانت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "دوژمنەکانت"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "لەبەردەمتەوە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموویەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:36:57.814389873Z",
+  "model": "glm-5.3"
+}

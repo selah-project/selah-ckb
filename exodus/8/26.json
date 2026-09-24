@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":26,"ref":"exodus 8:26","book":"exodus","lang":"ckb","chapter":8,"translation":"و مۆشە ⟨موسا⟩ لە لای فیرعەون دەرچوو و بەزاری لە یاهوە کرد.","tokens":[{"surface":"ויצא","gloss":"و دەرچوو"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"מעם","gloss":"لە لای"},{"surface":"פרעה","gloss":"فیرعەون"},{"surface":"ויעתר","gloss":"و بەزاری کرد"},{"surface":"אל","gloss":"لە"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T09:40:20.581592641Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و مۆشە ⟨موسا⟩ لە لای فیرعەون دەرچوو و بەزاری لە یاهوە کرد.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "و دەرچوو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیرعەون"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "و بەزاری کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:40:20.581592641Z",
+  "model": "glm-5.3"
+}

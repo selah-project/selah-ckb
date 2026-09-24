@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":18,"ref":"2-kings 2:18","book":"2-kings","lang":"ckb","chapter":2,"translation":"و گەڕانەوە لای ئەو — و ئەو لە ڕیحۆ دانیشتبوو — و فەرمووی بۆ ئەوان: ئایا نەموتن بۆ ئێوە: مەڕۆن؟","tokens":[{"surface":"וישבו","gloss":"و گەڕانەوە"},{"surface":"אליו","gloss":"لای ئەو"},{"surface":"והוא","gloss":"و ئەو"},{"surface":"ישב","gloss":"دانیشتبوو"},{"surface":"ביריחו","gloss":"لە ڕیحۆ"},{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"אלהם","gloss":"بۆ ئەوان"},{"surface":"הלוא","gloss":"ئایا نە"},{"surface":"אמרתי","gloss":"وتنم"},{"surface":"אליכם","gloss":"بۆ ئێوە"},{"surface":"אל","gloss":"مە"},{"surface":"תלכו","gloss":"ڕۆن"}],"timestamp":"2026-09-24T11:58:51.268153978Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 2:18",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و گەڕانەوە لای ئەو — و ئەو لە ڕیحۆ دانیشتبوو — و فەرمووی بۆ ئەوان: ئایا نەموتن بۆ ئێوە: مەڕۆن؟",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "و گەڕانەوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لای ئەو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "و ئەو"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "دانیشتبوو"
+    },
+    {
+      "surface": "ביריחו",
+      "gloss": "لە ڕیحۆ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "بۆ ئەوان"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ئایا نە"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وتنم"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "بۆ ئێوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ڕۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:58:51.268153978Z",
+  "model": "glm-5.3"
+}

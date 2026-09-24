@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":42,"ref":"numbers 7:42","book":"numbers","lang":"ckb","chapter":7,"translation":"لە ڕۆژی شەشەمدا ئەلیاساف کوڕی دێئوێل، سەرۆکی کوڕانی گاد.","tokens":[{"surface":"ביום","gloss":"لە ڕۆژی"},{"surface":"הששי","gloss":"شەشەمدا"},{"surface":"נשיא","gloss":"سەرۆک"},{"surface":"לבני","gloss":"کوڕانی"},{"surface":"גד","gloss":"گاد"},{"surface":"אליסף","gloss":"ئەلیاساف"},{"surface":"בן","gloss":"کوڕی"},{"surface":"דעואל","gloss":"دێئوێل"}],"timestamp":"2026-09-24T10:15:53.063505571Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "لە ڕۆژی شەشەمدا ئەلیاساف کوڕی دێئوێل، سەرۆکی کوڕانی گاد.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شەشەمدا"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ئەلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دێئوێل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:53.063505571Z",
+  "model": "glm-5.3"
+}

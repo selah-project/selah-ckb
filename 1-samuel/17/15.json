@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":15,"ref":"1-samuel 17:15","book":"1-samuel","lang":"ckb","chapter":17,"translation":"و داوود دەچوو و لەلای شائولەوە دەگەڕایەوە، بۆ ڕاندنی ⟨את⟩ مەڕەکەی باوکی لە بێت لەحێم.","tokens":[{"surface":"ודוד","gloss":"و داوود"},{"surface":"הלך","gloss":"دەچوو"},{"surface":"ושב","gloss":"و دەگەڕایەوە"},{"surface":"מעל","gloss":"لەلایەوە"},{"surface":"שאול","gloss":"شائول"},{"surface":"לרעות","gloss":"بۆ ڕاندنی"},{"surface":"את","gloss":"⟨את⟩","marks":"مەڕەکە"},{"surface":"צאן","gloss":"مەڕ"},{"surface":"אביו","gloss":"باوکی"},{"surface":"בית","gloss":"بێت"},{"surface":"לחם","gloss":"لەحێم"}],"timestamp":"2026-09-24T15:55:53.742789326Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "و داوود دەچوو و لەلای شائولەوە دەگەڕایەوە، بۆ ڕاندنی ⟨את⟩ مەڕەکەی باوکی لە بێت لەحێم.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "و داوود"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "دەچوو"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "و دەگەڕایەوە"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لەلایەوە"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "بۆ ڕاندنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەڕەکە"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لەحێم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:55:53.742789326Z",
+  "model": "glm-5.3"
+}

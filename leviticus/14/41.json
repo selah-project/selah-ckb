@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":41,"ref":"leviticus 14:41","book":"leviticus","lang":"ckb","chapter":14,"translation":"و ⟨את⟩ خانووەکە لە ناوەوە بە دەوری توێژێنێتەوە، و ⟨את⟩ خۆڵەکەی کە توێژیان کردووە دەڕێژنە دەرەوەی شارەکە بۆ شوێنێکی پیس.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩","marks":"خانووەکە"},{"surface":"הבית","gloss":"خانووەکە"},{"surface":"יקצע","gloss":"توێژێنێتەوە"},{"surface":"מבית","gloss":"لە ناوەوە"},{"surface":"סביב","gloss":"بە دەوری"},{"surface":"ושפכו","gloss":"و دەڕێژن"},{"surface":"את","gloss":"⟨את⟩","marks":"خۆڵەکە"},{"surface":"העפר","gloss":"خۆڵەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"הקצו","gloss":"توێژیان کردووە"},{"surface":"אל","gloss":"بۆ"},{"surface":"מחוץ","gloss":"دەرەوە"},{"surface":"לעיר","gloss":"شارەکە"},{"surface":"אל","gloss":"بۆ"},{"surface":"מקום","gloss":"شوێنێک"},{"surface":"טמא","gloss":"پیس"}],"timestamp":"2026-09-24T10:04:40.366247133Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ⟨את⟩ خانووەکە لە ناوەوە بە دەوری توێژێنێتەوە، و ⟨את⟩ خۆڵەکەی کە توێژیان کردووە دەڕێژنە دەرەوەی شارەکە بۆ شوێنێکی پیس.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "خانووەکە"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانووەکە"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "توێژێنێتەوە"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "لە ناوەوە"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "بە دەوری"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "و دەڕێژن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خۆڵەکە"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "خۆڵەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "توێژیان کردووە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "دەرەوە"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێنێک"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "پیس"
+    }
+  ],
+  "timestamp": "2026-09-24T10:04:40.366247133Z",
+  "model": "glm-5.3"
+}

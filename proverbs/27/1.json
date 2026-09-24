@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":1,"ref":"proverbs 27:1","book":"proverbs","lang":"ckb","chapter":27,"translation":"خۆ مەپەستە لە ڕۆژی سبەینێ، چونکە نازانی ڕۆژ چی دەبەخشێت.","tokens":[{"surface":"אל","gloss":"مە"},{"surface":"תתהלל","gloss":"خۆ دەپەستێت"},{"surface":"ביום","gloss":"لە ڕۆژ"},{"surface":"מחר","gloss":"سبەینێ"},{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نا"},{"surface":"תדע","gloss":"دەزانیت"},{"surface":"מה","gloss":"چی"},{"surface":"ילד","gloss":"دەبەخشێت"},{"surface":"יום","gloss":"ڕۆژ"}],"timestamp":"2026-09-24T14:32:48.265283765Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "خۆ مەپەستە لە ڕۆژی سبەینێ، چونکە نازانی ڕۆژ چی دەبەخشێت.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "خۆ دەپەستێت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "سبەینێ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "دەزانیت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "دەبەخشێت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:48.265283765Z",
+  "model": "glm-5.3"
+}

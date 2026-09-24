@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":34,"ref":"joshua 15:34","book":"joshua","lang":"ckb","chapter":15,"translation":"و زانواخ و عەین گەنیم و تەپواخ و هەعەینام","tokens":[{"surface":"וזנוח","gloss":"و زانواخ"},{"surface":"ועין","gloss":"و عەین"},{"surface":"גנים","gloss":"گەنیم"},{"surface":"תפוח","gloss":"تەپواخ"},{"surface":"והעינם","gloss":"و هەعەینام"}],"timestamp":"2026-09-24T10:58:59.299363965Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "و زانواخ و عەین گەنیم و تەپواخ و هەعەینام",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "و زانواخ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "و عەین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گەنیم"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تەپواخ"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "و هەعەینام"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:59.299363965Z",
+  "model": "glm-5.3"
+}

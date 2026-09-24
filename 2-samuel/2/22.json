@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":22,"ref":"2-samuel 2:22","book":"2-samuel","lang":"ckb","chapter":2,"translation":"و ئاڤنیر دووبارە زیاتری کرد بە وتن بە عاساهێل: لە دوای من بۆ خۆت لابدە؛ بۆچی بە زەوی بدەم لێت، و چۆن ڕووم بۆ لای یوئاڤ برایت هەڵبگرم؟","tokens":[{"surface":"ויסף","gloss":"و زیاتری کرد"},{"surface":"עוד","gloss":"دووبارە"},{"surface":"אבנר","gloss":"ئاڤنیر"},{"surface":"לאמר","gloss":"بە وتن"},{"surface":"אל","gloss":"بە"},{"surface":"עשהאל","gloss":"عاساهێل"},{"surface":"סור","gloss":"لابدە"},{"surface":"לך","gloss":"بۆ خۆت"},{"surface":"מאחרי","gloss":"لە دوای"},{"surface":"למה","gloss":"بۆچی"},{"surface":"אככה","gloss":"بدەم لێت"},{"surface":"ארצה","gloss":"بە زەوی"},{"surface":"ואיך","gloss":"و چۆن"},{"surface":"אשא","gloss":"هەڵبگرم"},{"surface":"פני","gloss":"ڕووم"},{"surface":"אל","gloss":"بۆ لای"},{"surface":"יואב","gloss":"یوئاڤ"},{"surface":"אחיך","gloss":"برایت"}],"timestamp":"2026-09-24T11:32:19.457923772Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 2:22",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئاڤنیر دووبارە زیاتری کرد بە وتن بە عاساهێل: لە دوای من بۆ خۆت لابدە؛ بۆچی بە زەوی بدەم لێت، و چۆن ڕووم بۆ لای یوئاڤ برایت هەڵبگرم؟",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "و زیاتری کرد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "دووبارە"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ئاڤنیر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە وتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "عاساهێل"
+    },
+    {
+      "surface": "סור",
+      "gloss": "لابدە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "למה",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "אככה",
+      "gloss": "بدەم لێت"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "بە زەوی"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "و چۆن"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "هەڵبگرم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ لای"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوئاڤ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برایت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:32:19.457923772Z",
+  "model": "glm-5.3"
+}

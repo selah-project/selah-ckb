@@ -1,1 +1,79 @@
-{"tier":"glm-5.2","verse":27,"ref":"1-kings 11:27","book":"1-kings","lang":"ckb","chapter":11,"translation":"و ئەمە ئەو کارە بوو کە دەستی هەڵبڕی لە پاشا شێلۆمۆ ⟨سلێمان⟩: شێلۆمۆ ⟨את⟩ میلۆی دروستکرد، ⟨את⟩ کەوانەی شاری داود باوکی داخست.","tokens":[{"surface":"וזה","gloss":"و ئەمە"},{"surface":"הדבר","gloss":"کار"},{"surface":"אשר","gloss":"کە"},{"surface":"הרים","gloss":"هەڵبڕی"},{"surface":"יד","gloss":"دەست"},{"surface":"במלך","gloss":"لە پاشا"},{"surface":"שלמה","gloss":"شێلۆمۆ ⟨سلێمان⟩"},{"surface":"בנה","gloss":"دروستکرد"},{"surface":"את","gloss":"⟨את⟩","marks":"میلۆ"},{"surface":"המלוא","gloss":"میلۆ"},{"surface":"סגר","gloss":"داخست"},{"surface":"את","gloss":"⟨את⟩","marks":"کەوانە"},{"surface":"פרץ","gloss":"کەوانە"},{"surface":"עיר","gloss":"شاری"},{"surface":"דוד","gloss":"داود"},{"surface":"אביו","gloss":"باوکی"}],"timestamp":"2026-09-24T16:28:21.843671498Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەمە ئەو کارە بوو کە دەستی هەڵبڕی لە پاشا شێلۆمۆ ⟨سلێمان⟩: شێلۆمۆ ⟨את⟩ میلۆی دروستکرد، ⟨את⟩ کەوانەی شاری داود باوکی داخست.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "هەڵبڕی"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "لە پاشا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شێلۆمۆ ⟨سلێمان⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "دروستکرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میلۆ"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "میلۆ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "داخست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کەوانە"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "کەوانە"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شاری"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    }
+  ],
+  "timestamp": "2026-09-24T16:28:21.843671498Z",
+  "model": "glm-5.3"
+}

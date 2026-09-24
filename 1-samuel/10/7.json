@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-samuel 10:7","book":"1-samuel","lang":"ckb","chapter":10,"translation":"و دەبێت کە ئەم نیشانانە هاتن بۆ تۆ، بیکە بۆ خۆت ئەوەی دەستت پەیدای دەکات، چونکە ئێلۆهیم لەگەڵ تۆیە.","tokens":[{"surface":"והיה","gloss":"و دەبێت"},{"surface":"כי","gloss":"کە"},{"surface":"תבאינה","gloss":"هاتن"},{"surface":"האתות","gloss":"نیشانانە"},{"surface":"האלה","gloss":"ئەم"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"עשה","gloss":"بیکە"},{"surface":"לך","gloss":"بۆ خۆت"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"תמצא","gloss":"پەیدای دەکات"},{"surface":"ידך","gloss":"دەستت"},{"surface":"כי","gloss":"چونکە"},{"surface":"האלהים","gloss":"ئێلۆهیم"},{"surface":"עמך","gloss":"لەگەڵ تۆیە"}],"timestamp":"2026-09-24T11:19:52.219038727Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و دەبێت کە ئەم نیشانانە هاتن بۆ تۆ، بیکە بۆ خۆت ئەوەی دەستت پەیدای دەکات، چونکە ئێلۆهیم لەگەڵ تۆیە.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "هاتن"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "نیشانانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بیکە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پەیدای دەکات"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆیە"
+    }
+  ],
+  "timestamp": "2026-09-24T11:19:52.219038727Z",
+  "model": "glm-5.3"
+}

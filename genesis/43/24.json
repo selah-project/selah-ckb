@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":24,"ref":"genesis 43:24","book":"genesis","lang":"ckb","chapter":43,"translation":"و پیاوەکە پیاوانەکەی بردە ناو ماڵی یوسێف ⟨את⟩، و ئاوی دا و پێیانی خۆیان شوشتن، و خۆراکێکی بە خەرەکانیان دا.","tokens":[{"surface":"ויבא","gloss":"و بردە"},{"surface":"האיש","gloss":"پیاوەکە"},{"surface":"את","gloss":"⟨את⟩","marks":"پیاوانەکە"},{"surface":"האנשים","gloss":"پیاوانەکە"},{"surface":"ביתה","gloss":"ناو ماڵی"},{"surface":"יוסף","gloss":"یوسێف"},{"surface":"ויתן","gloss":"و دا"},{"surface":"מים","gloss":"ئاو"},{"surface":"וירחצו","gloss":"و شوشتن"},{"surface":"רגליהם","gloss":"پێیانی خۆیان"},{"surface":"ויתן","gloss":"و دا"},{"surface":"מספוא","gloss":"خۆراکێک"},{"surface":"לחמריהם","gloss":"بە خەرەکانیان"}],"timestamp":"2026-09-24T09:32:10.188889545Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 43,
+  "translation": "و پیاوەکە پیاوانەکەی بردە ناو ماڵی یوسێف ⟨את⟩، و ئاوی دا و پێیانی خۆیان شوشتن، و خۆراکێکی بە خەرەکانیان دا.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "و بردە"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "پیاوەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیاوانەکە"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "پیاوانەکە"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ناو ماڵی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسێف"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "و شوشتن"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "پێیانی خۆیان"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "خۆراکێک"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "بە خەرەکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:32:10.188889545Z",
+  "model": "glm-5.3"
+}

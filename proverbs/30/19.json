@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":19,"ref":"proverbs 30:19","book":"proverbs","lang":"ckb","chapter":30,"translation":"ڕێگای هەڵۆ لە ئاسمان، ڕێگای مار لەسەر بەرد، ڕێگای کەشتی لە دڵی دەریا، و ڕێگای پیاو لەگەڵ گەنجەژنێک.","tokens":[{"surface":"דרך","gloss":"ڕێگای"},{"surface":"הנשר","gloss":"هەڵۆکە"},{"surface":"בשמים","gloss":"لە ئاسمان"},{"surface":"דרך","gloss":"ڕێگای"},{"surface":"נחש","gloss":"مار"},{"surface":"עלי","gloss":"لەسەر"},{"surface":"צור","gloss":"بەرد"},{"surface":"דרך","gloss":"ڕێگای"},{"surface":"אניה","gloss":"کەشتی"},{"surface":"בלב","gloss":"لە دڵی"},{"surface":"ים","gloss":"دەریا"},{"surface":"ודרך","gloss":"و ڕێگای"},{"surface":"גבר","gloss":"پیاو"},{"surface":"בעלמה","gloss":"لەگەڵ گەنجەژنێک"}],"timestamp":"2026-09-24T14:32:36.478495817Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "ڕێگای هەڵۆ لە ئاسمان، ڕێگای مار لەسەر بەرد، ڕێگای کەشتی لە دڵی دەریا، و ڕێگای پیاو لەگەڵ گەنجەژنێک.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "هەڵۆکە"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "لە ئاسمان"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "צור",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "کەشتی"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "لە دڵی"
+    },
+    {
+      "surface": "ים",
+      "gloss": "دەریا"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "و ڕێگای"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "لەگەڵ گەنجەژنێک"
+    }
+  ],
+  "timestamp": "2026-09-24T14:32:36.478495817Z",
+  "model": "glm-5.3"
+}

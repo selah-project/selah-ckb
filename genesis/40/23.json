@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":23,"ref":"genesis 40:23","book":"genesis","lang":"ckb","chapter":40,"translation":"و سەرۆکی ئاوەژەنەران یادی یۆسێفی نەکرد ⟨את⟩ یۆسێف، و لەبیری چوو.","tokens":[{"surface":"ולא","gloss":"و نە"},{"surface":"זכר","gloss":"یادی نەکرد"},{"surface":"שר","gloss":"سەرۆکی"},{"surface":"המשקים","gloss":"ئاوەژەنەران"},{"surface":"את","gloss":"⟨את⟩","marks":"یۆسێف"},{"surface":"יוסף","gloss":"یۆسێف"},{"surface":"וישכחהו","gloss":"و لەبیری چوو"}],"timestamp":"2026-09-24T09:28:44.624602744Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و سەرۆکی ئاوەژەنەران یادی یۆسێفی نەکرد ⟨את⟩ یۆسێف، و لەبیری چوو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یادی نەکرد"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سەرۆکی"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ئاوەژەنەران"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یۆسێف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یۆسێف"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "و لەبیری چوو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:28:44.624602744Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":24,"ref":"numbers 26:24","book":"numbers","lang":"ckb","chapter":26,"translation":"بۆ یاشوب، بنەماڵەی یاشوبی؛ بۆ شیمرۆن، بنەماڵەی شیمرۆنی.","tokens":[{"surface":"לישוב","gloss":"بۆ یاشوب"},{"surface":"משפחת","gloss":"بنەماڵەی"},{"surface":"הישובי","gloss":"یاشوبی"},{"surface":"לשמרן","gloss":"بۆ شیمرۆن"},{"surface":"משפחת","gloss":"بنەماڵەی"},{"surface":"השמרני","gloss":"شیمرۆنی"}],"timestamp":"2026-09-24T10:26:56.306049664Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "بۆ یاشوب، بنەماڵەی یاشوبی؛ بۆ شیمرۆن، بنەماڵەی شیمرۆنی.",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "بۆ یاشوب"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "بنەماڵەی"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "یاشوبی"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "بۆ شیمرۆن"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "بنەماڵەی"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "شیمرۆنی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:26:56.306049664Z",
+  "model": "glm-5.3"
+}

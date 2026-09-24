@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":35,"ref":"joshua 21:35","book":"joshua","lang":"ckb","chapter":21,"translation":"⟨את⟩ دیمنە و ⟨את⟩ مەزراکەی، ⟨את⟩ نەهەلەل و ⟨את⟩ مەزراکەی، چوار شار.","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"دیمنە"},{"surface":"דמנה","gloss":"دیمنە"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مەزراکەی"},{"surface":"מגרשה","gloss":"مەزراکەی"},{"surface":"את","gloss":"⟨את⟩","marks":"نەهەلەل"},{"surface":"נהלל","gloss":"نەهەلەل"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مەزراکەی"},{"surface":"מגרשה","gloss":"مەزراکەی"},{"surface":"ערים","gloss":"شار"},{"surface":"ארבע","gloss":"چوار"}],"timestamp":"2026-09-24T11:00:42.416653326Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "⟨את⟩ دیمنە و ⟨את⟩ مەزراکەی، ⟨את⟩ نەهەلەل و ⟨את⟩ مەزراکەی، چوار شار.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیمنە"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "دیمنە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکەی"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مەزراکەی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نەهەلەل"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "نەهەلەل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەزراکەی"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "مەزراکەی"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شار"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    }
+  ],
+  "timestamp": "2026-09-24T11:00:42.416653326Z",
+  "model": "glm-5.3"
+}

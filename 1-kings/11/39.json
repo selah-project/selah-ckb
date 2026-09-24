@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":39,"ref":"1-kings 11:39","book":"1-kings","lang":"ckb","chapter":11,"translation":"و نەوەی داود ⟨את⟩ لەبەر ئەمە سەرشۆڕ دەکەم، تەنها نا بۆ هەموو ڕۆژەکان.","tokens":[{"surface":"ואענה","gloss":"سەرشۆڕ دەکەم"},{"surface":"את","gloss":"⟨את⟩","marks":"نەوەی داود"},{"surface":"זרע","gloss":"نەوە"},{"surface":"דוד","gloss":"داود"},{"surface":"למען","gloss":"لەبەر"},{"surface":"זאת","gloss":"ئەمە"},{"surface":"אך","gloss":"تەنها"},{"surface":"לא","gloss":"نا"},{"surface":"כל","gloss":"هەموو"},{"surface":"הימים","gloss":"ڕۆژەکان"}],"timestamp":"2026-09-24T11:51:40.109797209Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و نەوەی داود ⟨את⟩ لەبەر ئەمە سەرشۆڕ دەکەم، تەنها نا بۆ هەموو ڕۆژەکان.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "سەرشۆڕ دەکەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نەوەی داود"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نەوە"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "למען",
+      "gloss": "لەبەر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ڕۆژەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T11:51:40.109797209Z",
+  "model": "glm-5.3"
+}

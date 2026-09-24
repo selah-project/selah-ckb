@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":21,"ref":"joshua 6:21","book":"joshua","lang":"ckb","chapter":6,"translation":"و ⟨את⟩ هەموو ئەوەی لە شار هەبوو حەرام کردن، لە پیاوەوە تا ژن، لە گەنجەوە تا پیر، و تا گا و مەڕ و کەر، بە دەمی شمشێر.","tokens":[{"surface":"ויחרימו","gloss":"حەرام کردن"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو"},{"surface":"כל","gloss":"هەموو"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"בעיר","gloss":"لە شار"},{"surface":"מאיש","gloss":"لە پیاوەوە"},{"surface":"ועד","gloss":"و تا"},{"surface":"אשה","gloss":"ژن"},{"surface":"מנער","gloss":"لە گەنجەوە"},{"surface":"ועד","gloss":"و تا"},{"surface":"זקן","gloss":"پیر"},{"surface":"ועד","gloss":"و تا"},{"surface":"שור","gloss":"گا"},{"surface":"ושה","gloss":"و مەڕ"},{"surface":"וחמור","gloss":"و کەر"},{"surface":"לפי","gloss":"بە دەمی"},{"surface":"חרב","gloss":"شمشێر"}],"timestamp":"2026-09-24T10:55:01.807936522Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ هەموو ئەوەی لە شار هەبوو حەرام کردن، لە پیاوەوە تا ژن، لە گەنجەوە تا پیر، و تا گا و مەڕ و کەر، بە دەمی شمشێر.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "حەرام کردن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "لە شار"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "لە پیاوەوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "لە گەنجەوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گا"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "و مەڕ"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "و کەر"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بە دەمی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:55:01.807936522Z",
+  "model": "glm-5.3"
+}

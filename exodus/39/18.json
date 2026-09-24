@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":18,"ref":"exodus 39:18","book":"exodus","lang":"ckb","chapter":39,"translation":"و ⟨את⟩ دوو سەرەی دوو زنجیرەکەیان لەسەر دوو ڕووکارە قاوەتنەکە دانا، و ئەوانیان لەسەر شانی ئێفۆد دانا، بەرەوڕووی ڕووەکەی.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩","marks":"دوو سەرە"},{"surface":"שתי","gloss":"دوو"},{"surface":"קצות","gloss":"سەرەی"},{"surface":"שתי","gloss":"دوو"},{"surface":"העבתת","gloss":"زنجیرەکە"},{"surface":"נתנו","gloss":"دانا"},{"surface":"על","gloss":"لەسەر"},{"surface":"שתי","gloss":"دوو"},{"surface":"המשבצת","gloss":"ڕووکارە قاوەتنەکە"},{"surface":"ויתנם","gloss":"و ئەوانی دانا"},{"surface":"על","gloss":"لەسەر"},{"surface":"כתפת","gloss":"شانی"},{"surface":"האפד","gloss":"ئێفۆد"},{"surface":"אל","gloss":"بۆ"},{"surface":"מול","gloss":"بەرەوڕوو"},{"surface":"פניו","gloss":"ڕووەکەی"}],"timestamp":"2026-09-24T09:57:26.990890080Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 39:18",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و ⟨את⟩ دوو سەرەی دوو زنجیرەکەیان لەسەر دوو ڕووکارە قاوەتنەکە دانا، و ئەوانیان لەسەر شانی ئێفۆد دانا، بەرەوڕووی ڕووەکەی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "دوو سەرە"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "سەرەی"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "زنجیرەکە"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "ڕووکارە قاوەتنەکە"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "و ئەوانی دانا"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "شانی"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ئێفۆد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "بەرەوڕوو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ڕووەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:57:26.990890080Z",
+  "model": "glm-5.3"
+}

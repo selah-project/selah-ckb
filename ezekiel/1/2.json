@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":2,"ref":"ezekiel 1:2","book":"ezekiel","lang":"ckb","chapter":1,"translation":"لە پێنجەمی مانگ — ئەوە ساڵی پێنجەمە بۆ دوورخستنی پاشا یۆیاخین ⟨یۆیاکین⟩.","tokens":[{"surface":"בחמשה","gloss":"لە پێنج"},{"surface":"לחדש","gloss":"مانگ"},{"surface":"היא","gloss":"ئەوە"},{"surface":"השנה","gloss":"ساڵی"},{"surface":"החמישית","gloss":"پێنجەم"},{"surface":"לגלות","gloss":"بۆ دوورخستن"},{"surface":"המלך","gloss":"پاشا"},{"surface":"יויכין","gloss":"یۆیاخین ⟨یۆیاکین⟩"}],"timestamp":"2026-09-24T13:04:58.835818962Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "لە پێنجەمی مانگ — ئەوە ساڵی پێنجەمە بۆ دوورخستنی پاشا یۆیاخین ⟨یۆیاکین⟩.",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "لە پێنج"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مانگ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "پێنجەم"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "بۆ دوورخستن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "یۆیاخین ⟨یۆیاکین⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T13:04:58.835818962Z",
+  "model": "glm-5.3"
+}

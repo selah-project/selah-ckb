@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":15,"ref":"proverbs 4:15","book":"proverbs","lang":"ckb","chapter":4,"translation":"لێی بەرگردە، بە تێیدا مەڕۆ، لێی بپچرەوە و تێپەڕە.","tokens":[{"surface":"פרעהו","gloss":"لێی بەرگردە"},{"surface":"אל","gloss":"مە"},{"surface":"תעבר","gloss":"تێپەڕێ"},{"surface":"בו","gloss":"تێیدا"},{"surface":"שטה","gloss":"بپچرەوە"},{"surface":"מעליו","gloss":"لە ئەو"},{"surface":"ועבור","gloss":"و تێپەڕە"}],"timestamp":"2026-09-24T14:22:59.664736275Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "لێی بەرگردە، بە تێیدا مەڕۆ، لێی بپچرەوە و تێپەڕە.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "لێی بەرگردە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "تێپەڕێ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "بپچرەوە"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "لە ئەو"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "و تێپەڕە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:59.664736275Z",
+  "model": "glm-5.3"
+}

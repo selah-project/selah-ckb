@@ -1,1 +1,68 @@
-{"tier":"glm-5.2","verse":26,"ref":"numbers 20:26","book":"numbers","lang":"ckb","chapter":20,"translation":"و ئاهارۆن ⟨את⟩ لە جلەکانی بپۆخە و ئەوانی بپۆشە ⟨את⟩ ئێلعازەر کوڕی، و ئاهارۆن کۆدەکرێتەوە و لەوێ دەمرێت.","tokens":[{"surface":"והפשט","gloss":"و بپۆخە"},{"surface":"את","gloss":"⟨את⟩","marks":"ئاهارۆن"},{"surface":"אהרן","gloss":"ئاهارۆن"},{"surface":"את","gloss":"⟨את⟩","marks":"جلەکانی"},{"surface":"בגדיו","gloss":"لە جلەکانی"},{"surface":"והלבשתם","gloss":"و ئەوانی بپۆشە"},{"surface":"את","gloss":"⟨את⟩","marks":"ئێلعازەر"},{"surface":"אלעזר","gloss":"ئێلعازەر"},{"surface":"בנו","gloss":"کوڕی"},{"surface":"ואהרן","gloss":"و ئاهارۆن"},{"surface":"יאסף","gloss":"کۆدەکرێتەوە"},{"surface":"ומת","gloss":"و دەمرێت"},{"surface":"שם","gloss":"لەوێ"}],"timestamp":"2026-09-24T17:58:08.663262970Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 20:26",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و ئاهارۆن ⟨את⟩ لە جلەکانی بپۆخە و ئەوانی بپۆشە ⟨את⟩ ئێلعازەر کوڕی، و ئاهارۆن کۆدەکرێتەوە و لەوێ دەمرێت.",
+  "tokens": [
+    {
+      "surface": "והפשט",
+      "gloss": "و بپۆخە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاهارۆن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جلەکانی"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "لە جلەکانی"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "و ئەوانی بپۆشە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئێلعازەر"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ئێلعازەر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "و ئاهارۆن"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "کۆدەکرێتەوە"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "و دەمرێت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T17:58:08.663262970Z",
+  "model": "glm-5.3"
+}

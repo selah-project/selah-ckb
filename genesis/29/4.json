@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":4,"ref":"genesis 29:4","book":"genesis","lang":"ckb","chapter":29,"translation":"یەعقوب پێی فەرموو: برایانم، لە کوێوەن؟ و وتیان: ئێمە لە حارانین.","tokens":[{"surface":"ויאמר","gloss":"فەرموو"},{"surface":"להם","gloss":"پێی"},{"surface":"יעקב","gloss":"یەعقوب"},{"surface":"אחי","gloss":"برایانم"},{"surface":"מאין","gloss":"لە کوێوە"},{"surface":"אתם","gloss":"ن"},{"surface":"ויאמרו","gloss":"وتیان"},{"surface":"מחרן","gloss":"لە حاران"},{"surface":"אנחנו","gloss":"ئێمە"}],"timestamp":"2026-09-24T09:23:37.174076212Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "یەعقوب پێی فەرموو: برایانم، لە کوێوەن؟ و وتیان: ئێمە لە حارانین.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پێی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برایانم"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "لە کوێوە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ن"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "وتیان"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "لە حاران"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:37.174076212Z",
+  "model": "glm-5.3"
+}

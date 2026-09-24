@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 60:1","book":"psalms","lang":"ckb","chapter":60,"translation":"بۆ سەرپەرشتیار، لەسەر شوشان عیدوت، میکتامی داود، بۆ فێرکردن.","tokens":[{"surface":"למנצח","gloss":"بۆ سەرپەرشتیار"},{"surface":"על","gloss":"لەسەر"},{"surface":"שושן","gloss":"شوشان"},{"surface":"עדות","gloss":"عیدوت"},{"surface":"מכתם","gloss":"میکتام"},{"surface":"לדוד","gloss":"بۆ داود"},{"surface":"ללמד","gloss":"بۆ فێرکردن"}],"timestamp":"2026-09-24T14:01:04.007214973Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 60,
+  "translation": "بۆ سەرپەرشتیار، لەسەر شوشان عیدوت، میکتامی داود، بۆ فێرکردن.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ سەرپەرشتیار"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "شوشان"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "عیدوت"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "میکتام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "بۆ داود"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "بۆ فێرکردن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:04.007214973Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":17,"ref":"jeremiah 39:17","book":"jeremiah","lang":"ckb","chapter":39,"translation":"و لە ڕۆژی ئەو ⟨تۆ⟩ ڕزگار دەکەم، خۆراوای یاهوە، و نادردرێیتە بە دەستی ئەو پیاوانەی کە تۆ لە ڕوویان دەترسیت.","tokens":[{"surface":"והצלתיך","gloss":"و ڕزگارت دەکەم"},{"surface":"ביום","gloss":"لە ڕۆژ"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"נאם","gloss":"خۆراوای"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ולא","gloss":"و نا"},{"surface":"תנתן","gloss":"دردرێیتەوە"},{"surface":"ביד","gloss":"بە دەست"},{"surface":"האנשים","gloss":"ئەو پیاوانە"},{"surface":"אשר","gloss":"کە"},{"surface":"אתה","gloss":"تۆ"},{"surface":"יגור","gloss":"دەترسیت"},{"surface":"מפניהם","gloss":"لە ڕوویان"}],"timestamp":"2026-09-24T12:55:25.997500342Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 39:17",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و لە ڕۆژی ئەو ⟨تۆ⟩ ڕزگار دەکەم، خۆراوای یاهوە، و نادردرێیتە بە دەستی ئەو پیاوانەی کە تۆ لە ڕوویان دەترسیت.",
+  "tokens": [
+    {
+      "surface": "והצלתיך",
+      "gloss": "و ڕزگارت دەکەم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خۆراوای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "دردرێیتەوە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەست"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ئەو پیاوانە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "دەترسیت"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "لە ڕوویان"
+    }
+  ],
+  "timestamp": "2026-09-24T12:55:25.997500342Z",
+  "model": "glm-5.3"
+}

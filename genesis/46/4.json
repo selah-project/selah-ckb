@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":4,"ref":"genesis 46:4","book":"genesis","lang":"ckb","chapter":46,"translation":"من دەنگەوەم لەگەڵت بۆ میتسرایم، و منیش بەڕاستی بەرزکردنەوە بەرزدەتکەمەوە، و یۆسێف ⟨یوسف⟩ دەست دەخاتە سەر چاوەکانت.","tokens":[{"surface":"אנכי","gloss":"من"},{"surface":"ארד","gloss":"دەنگەوەم"},{"surface":"עמך","gloss":"لەگەڵت"},{"surface":"מצרימה","gloss":"بۆ میتسرایم"},{"surface":"ואנכי","gloss":"و منیش"},{"surface":"אעלך","gloss":"بەرزدەتکەمەوە"},{"surface":"גם","gloss":"بەڕاستی"},{"surface":"עלה","gloss":"بەرزکردنەوە"},{"surface":"ויוסף","gloss":"و یۆسێف"},{"surface":"ישית","gloss":"دەخاتە"},{"surface":"ידו","gloss":"دەست"},{"surface":"על","gloss":"سەر"},{"surface":"עיניך","gloss":"چاوەکانت"}],"timestamp":"2026-09-24T09:33:55.504285849Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 46:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "من دەنگەوەم لەگەڵت بۆ میتسرایم، و منیش بەڕاستی بەرزکردنەوە بەرزدەتکەمەوە، و یۆسێف ⟨یوسف⟩ دەست دەخاتە سەر چاوەکانت.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "دەنگەوەم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵت"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "بۆ میتسرایم"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و منیش"
+    },
+    {
+      "surface": "אעלך",
+      "gloss": "بەرزدەتکەمەوە"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بەڕاستی"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "بەرزکردنەوە"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "و یۆسێف"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "دەخاتە"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "چاوەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:33:55.504285849Z",
+  "model": "glm-5.3"
+}

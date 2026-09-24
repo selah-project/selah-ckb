@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":25,"ref":"psalms 18:25","book":"psalms","lang":"ckb","chapter":18,"translation":"و یاهوە بۆم گەڕاندەوە بەپێی ڕاستیی من، بەپێی پاکیی دەستەکانی من لە بەرچاوی ئەودا","tokens":[{"surface":"וישב","gloss":"و گەڕاندەوە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"לי","gloss":"بۆم"},{"surface":"כצדקי","gloss":"بەپێی ڕاستیی من"},{"surface":"כבר","gloss":"بەپێی پاکیی"},{"surface":"ידי","gloss":"دەستەکانی من"},{"surface":"לנגד","gloss":"لە بەرچاوی"},{"surface":"עיניו","gloss":"ئەودا"}],"timestamp":"2026-09-24T13:51:37.072141945Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و یاهوە بۆم گەڕاندەوە بەپێی ڕاستیی من، بەپێی پاکیی دەستەکانی من لە بەرچاوی ئەودا",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "و گەڕاندەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "بەپێی ڕاستیی من"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "بەپێی پاکیی"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستەکانی من"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "لە بەرچاوی"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ئەودا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:51:37.072141945Z",
+  "model": "glm-5.3"
+}

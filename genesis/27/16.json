@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":16,"ref":"genesis 27:16","book":"genesis","lang":"ckb","chapter":27,"translation":"و ⟨את⟩ پێستەکانی بەزنی بزنەکان خستیانە سەر دەستەکانی و سەر بەشی نەرمی ملەکەی.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩"},{"surface":"ערת","gloss":"پێستەکانی"},{"surface":"גדיי","gloss":"بەزنی"},{"surface":"העזים","gloss":"بزنەکان"},{"surface":"הלבישה","gloss":"خستیانە سەر"},{"surface":"על","gloss":"سەر"},{"surface":"ידיו","gloss":"دەستەکانی"},{"surface":"ועל","gloss":"و سەر"},{"surface":"חלקת","gloss":"بەشی نەرمی"},{"surface":"צואריו","gloss":"ملەکەی"}],"timestamp":"2026-09-24T09:23:24.832996016Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ⟨את⟩ پێستەکانی بەزنی بزنەکان خستیانە سەر دەستەکانی و سەر بەشی نەرمی ملەکەی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "پێستەکانی"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "بەزنی"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "بزنەکان"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "خستیانە سەر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "دەستەکانی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و سەر"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "بەشی نەرمی"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "ملەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:24.832996016Z",
+  "model": "glm-5.3"
+}

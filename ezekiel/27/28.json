@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":28,"ref":"ezekiel 27:28","book":"ezekiel","lang":"ckb","chapter":27,"translation":"بە دەنگی هاوارینی کەشتیوانەکانت، دەوروبەرەکان دەلەرزێن.","tokens":[{"surface":"לקול","gloss":"بە دەنگی"},{"surface":"זעקת","gloss":"هاوارینی"},{"surface":"חבליך","gloss":"کەشتیوانەکانت"},{"surface":"ירעשו","gloss":"دەلەرزێن"},{"surface":"מגרשות","gloss":"دەوروبەرەکان"}],"timestamp":"2026-09-24T13:17:01.058397268Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "بە دەنگی هاوارینی کەشتیوانەکانت، دەوروبەرەکان دەلەرزێن.",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "بە دەنگی"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "هاوارینی"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "کەشتیوانەکانت"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "دەلەرزێن"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "دەوروبەرەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:17:01.058397268Z",
+  "model": "glm-5.3"
+}

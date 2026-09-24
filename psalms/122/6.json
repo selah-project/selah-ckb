@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":6,"ref":"psalms 122:6","book":"psalms","lang":"ckb","chapter":122,"translation":"داوای ئاشتی یەروشالایم بکەن، دەئاسوودەن خۆشەویستەکانی تۆ.","tokens":[{"surface":"שאלו","gloss":"داوای بکەن"},{"surface":"שלום","gloss":"ئاشتی"},{"surface":"ירושלם","gloss":"یەروشالایم ⟨قودس⟩"},{"surface":"ישליו","gloss":"دەئاسوودەن"},{"surface":"אהביך","gloss":"خۆشەویستەکانی تۆ"}],"timestamp":"2026-09-24T14:17:54.911797227Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 122,
+  "translation": "داوای ئاشتی یەروشالایم بکەن، دەئاسوودەن خۆشەویستەکانی تۆ.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "داوای بکەن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یەروشالایم ⟨قودس⟩"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "دەئاسوودەن"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "خۆشەویستەکانی تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:17:54.911797227Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":23,"ref":"2-kings 4:23","book":"2-kings","lang":"ckb","chapter":4,"translation":"و فەرمووی: بۆچی تۆ ئەمڕۆ بۆی دەچیت؟ نییە مانگی نوێ و نییە شابات. و فەرمووی: سەلامەتی.","tokens":[{"surface":"ויאמר","gloss":"و فەرمووی"},{"surface":"מדוע","gloss":"بۆچی"},{"surface":"אתי","gloss":"تۆ"},{"surface":"הלכתי","gloss":"دەچیت"},{"surface":"אליו","gloss":"بۆی"},{"surface":"היום","gloss":"ئەمڕۆ"},{"surface":"לא","gloss":"نییە"},{"surface":"חדש","gloss":"مانگی نوێ"},{"surface":"ולא","gloss":"و نییە"},{"surface":"שבת","gloss":"شابات"},{"surface":"ותאמר","gloss":"و فەرمووی"},{"surface":"שלום","gloss":"سەلامەتی"}],"timestamp":"2026-09-24T11:59:57.779818676Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و فەرمووی: بۆچی تۆ ئەمڕۆ بۆی دەچیت؟ نییە مانگی نوێ و نییە شابات. و فەرمووی: سەلامەتی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "بۆچی"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "دەچیت"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مانگی نوێ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شابات"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سەلامەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:59:57.779818676Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":10,"ref":"leviticus 10:10","book":"leviticus","lang":"ckb","chapter":10,"translation":"و بۆ جیاکردنەوەی نێوان پیرۆزەکە و نێوان ئاساییەکە، و نێوان پیسەکە و نێوان پاکەکە.","tokens":[{"surface":"ולהבדיל","gloss":"و بۆ جیاکردنەوەی"},{"surface":"בין","gloss":"نێوان"},{"surface":"הקדש","gloss":"پیرۆزەکە"},{"surface":"ובין","gloss":"و نێوان"},{"surface":"החל","gloss":"ئاساییەکە"},{"surface":"ובין","gloss":"و نێوان"},{"surface":"הטמא","gloss":"پیسەکە"},{"surface":"ובין","gloss":"و نێوان"},{"surface":"הטהור","gloss":"پاکەکە"}],"timestamp":"2026-09-24T10:01:58.538161Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و بۆ جیاکردنەوەی نێوان پیرۆزەکە و نێوان ئاساییەکە، و نێوان پیسەکە و نێوان پاکەکە.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "و بۆ جیاکردنەوەی"
+    },
+    {
+      "surface": "בין",
+      "gloss": "نێوان"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزەکە"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و نێوان"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ئاساییەکە"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و نێوان"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "پیسەکە"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و نێوان"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "پاکەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:01:58.538161Z",
+  "model": "glm-5.3"
+}

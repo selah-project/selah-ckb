@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":6,"ref":"deuteronomy 33:6","book":"deuteronomy","lang":"ckb","chapter":33,"translation":"بژیت ڕەئوبێن و نەمرێت، و پیاوەکانی بە ژمارە بن.","tokens":[{"surface":"יחי","gloss":"بژیت"},{"surface":"ראובן","gloss":"ڕەئوبێن"},{"surface":"ואל","gloss":"و نە"},{"surface":"ימת","gloss":"مرێت"},{"surface":"ויהי","gloss":"و بن"},{"surface":"מתיו","gloss":"پیاوەکانی"},{"surface":"מספר","gloss":"بە ژمارە"}],"timestamp":"2026-09-24T10:49:52.803729217Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "بژیت ڕەئوبێن و نەمرێت، و پیاوەکانی بە ژمارە بن.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "بژیت"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ڕەئوبێن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "مرێت"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بن"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "پیاوەکانی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "بە ژمارە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:49:52.803729217Z",
+  "model": "glm-5.3"
+}

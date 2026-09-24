@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":13,"ref":"joshua 24:13","book":"joshua","lang":"ckb","chapter":24,"translation":"و زەویێکم دا بە ئێوە کە ئێوە ماندوو نەبوونە تێیدا و شارەکان کە ئێوە نەیان بنیادنان و تێیان دانیشتن مۆزگەل و زەیتوون کە ئێوە نەیان ناندووە ئێوە دەیانخۆن","tokens":[{"surface":"ואתן","gloss":"و دا"},{"surface":"לכם","gloss":"بە ئێوە"},{"surface":"ארץ","gloss":"زەویێک"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"יגעת","gloss":"ماندوو بوونە"},{"surface":"בה","gloss":"تێیدا"},{"surface":"וערים","gloss":"و شارەکان"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"בניתם","gloss":"بینیاندنان"},{"surface":"ותשבו","gloss":"و دانیشتن"},{"surface":"בהם","gloss":"تێیان"},{"surface":"כרמים","gloss":"مۆزگەل"},{"surface":"וזיתים","gloss":"و زەیتوون"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نە"},{"surface":"נטעתם","gloss":"ناندن"},{"surface":"אתם","gloss":"ئێوە"},{"surface":"אכלים","gloss":"دەخۆن"}],"timestamp":"2026-09-24T11:03:11.314865943Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 24:13",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "و زەویێکم دا بە ئێوە کە ئێوە ماندوو نەبوونە تێیدا و شارەکان کە ئێوە نەیان بنیادنان و تێیان دانیشتن مۆزگەل و زەیتوون کە ئێوە نەیان ناندووە ئێوە دەیانخۆن",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "بە ئێوە"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەویێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ماندوو بوونە"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "و شارەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "בניתם",
+      "gloss": "بینیاندنان"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "و دانیشتن"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "تێیان"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "مۆزگەل"
+    },
+    {
+      "surface": "וזיתים",
+      "gloss": "و زەیتوون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נטעתם",
+      "gloss": "ناندن"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "دەخۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T11:03:11.314865943Z",
+  "model": "glm-5.3"
+}

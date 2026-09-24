@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":34,"ref":"2-chronicles 18:34","book":"2-chronicles","lang":"ckb","chapter":18,"translation":"و شەڕەکە لەو ڕۆژەدا سەریهەڵدا، و پاشای ئیسرائیل لە مرکەبەکەدا ڕاگیر بوو بەرامبەر ئارام هەتا ئێوارە، و لە کاتی داهاتنی خۆر مرد.","tokens":[{"surface":"ותעל","gloss":"و سەریهەڵدا"},{"surface":"המלחמה","gloss":"شەڕەکە"},{"surface":"ביום","gloss":"لە ڕۆژ"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"ומלך","gloss":"و پاشا"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"היה","gloss":"بوو"},{"surface":"מעמיד","gloss":"ڕاگیر"},{"surface":"במרכבה","gloss":"لە مرکەبەکەدا"},{"surface":"נכח","gloss":"بەرامبەر"},{"surface":"ארם","gloss":"ئارام"},{"surface":"עד","gloss":"هەتا"},{"surface":"הערב","gloss":"ئێوارە"},{"surface":"וימת","gloss":"و مرد"},{"surface":"לעת","gloss":"لە کاتی"},{"surface":"בוא","gloss":"داهاتنی"},{"surface":"השמש","gloss":"خۆر"}],"timestamp":"2026-09-24T15:39:39.207284699Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-chronicles 18:34",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و شەڕەکە لەو ڕۆژەدا سەریهەڵدا، و پاشای ئیسرائیل لە مرکەبەکەدا ڕاگیر بوو بەرامبەر ئارام هەتا ئێوارە، و لە کاتی داهاتنی خۆر مرد.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "و سەریهەڵدا"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "شەڕەکە"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "و پاشا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "מעמיד",
+      "gloss": "ڕاگیر"
+    },
+    {
+      "surface": "במרכבה",
+      "gloss": "لە مرکەبەکەدا"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "بەرامبەر"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ئارام"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ئێوارە"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "لە کاتی"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "داهاتنی"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T15:39:39.207284699Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":25,"ref":"exodus 30:25","book":"exodus","lang":"ckb","chapter":30,"translation":"و ئەو ⟨אתו⟩ دەکەیت بە زەیتی چەورکردنی پیرۆز، تێکەڵەیەکی ئامادەکراو، کاری ئامادەکارێک؛ زەیتی چەورکردنی پیرۆز دەبێت.","tokens":[{"surface":"ועשית","gloss":"و دەکەیت"},{"surface":"אתו","gloss":"⟨אתו⟩ ئەو","marks":"زەیت"},{"surface":"שמן","gloss":"زەیت"},{"surface":"משחת","gloss":"چەورکردن"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"רקח","gloss":"تێکەڵە"},{"surface":"מרקחת","gloss":"ئامادەکراو"},{"surface":"מעשה","gloss":"کاری"},{"surface":"רקח","gloss":"ئامادەکار"},{"surface":"שמן","gloss":"زەیت"},{"surface":"משחת","gloss":"چەورکردن"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"יהיה","gloss":"دەبێت"}],"timestamp":"2026-09-24T09:51:25.111736018Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و ئەو ⟨אתו⟩ دەکەیت بە زەیتی چەورکردنی پیرۆز، تێکەڵەیەکی ئامادەکراو، کاری ئامادەکارێک؛ زەیتی چەورکردنی پیرۆز دەبێت.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و دەکەیت"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩ ئەو",
+      "marks": "زەیت"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زەیت"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "چەورکردن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "تێکەڵە"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "ئامادەکراو"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ئامادەکار"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "زەیت"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "چەورکردن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:51:25.111736018Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":3,"ref":"ecclesiastes 3:3","book":"ecclesiastes","lang":"ckb","chapter":3,"translation":"کاتێک بۆ کوشتن و کاتێک بۆ چاککردنەوە، کاتێک بۆ ڕووخاندن و کاتێک بۆ بنیاتنان.","tokens":[{"surface":"עת","gloss":"کاتێک"},{"surface":"להרוג","gloss":"بۆ کوشتن"},{"surface":"ועת","gloss":"و کاتێک"},{"surface":"לרפוא","gloss":"بۆ چاککردنەوە"},{"surface":"עת","gloss":"کاتێک"},{"surface":"לפרוץ","gloss":"بۆ ڕووخاندن"},{"surface":"ועת","gloss":"و کاتێک"},{"surface":"לבנות","gloss":"بۆ بنیاتنان"}],"timestamp":"2026-09-24T14:55:31.947683931Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "کاتێک بۆ کوشتن و کاتێک بۆ چاککردنەوە، کاتێک بۆ ڕووخاندن و کاتێک بۆ بنیاتنان.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "بۆ کوشتن"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کاتێک"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "بۆ چاککردنەوە"
+    },
+    {
+      "surface": "עת",
+      "gloss": "کاتێک"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "بۆ ڕووخاندن"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "و کاتێک"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بۆ بنیاتنان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:31.947683931Z",
+  "model": "glm-5.3"
+}

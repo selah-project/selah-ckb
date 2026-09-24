@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":18,"ref":"deuteronomy 25:18","book":"deuteronomy","lang":"ckb","chapter":25,"translation":"کە چاوت لێکرد لە ڕێگادا و لە پشتەوەی تۆ هەموو لاوازەکانی بڕی، و تۆ ماندوو و بێتاقەت بووی ⟨بووی⟩ و لە ئێلۆهیم نەترسا.","tokens":[{"surface":"אשר","gloss":"کە"},{"surface":"קרך","gloss":"چاوت لێکرد"},{"surface":"בדרך","gloss":"لە ڕێگادا"},{"surface":"ויזנב","gloss":"و بڕی"},{"surface":"בך","gloss":"لە پشتەوەی تۆ"},{"surface":"כל","gloss":"هەموو"},{"surface":"הנחשלים","gloss":"لاوازەکان"},{"surface":"אחריך","gloss":"لە پشتی تۆ"},{"surface":"ואתה","gloss":"و تۆ"},{"surface":"עיף","gloss":"ماندوو"},{"surface":"ויגע","gloss":"و بێتاقەت"},{"surface":"ולא","gloss":"و نە"},{"surface":"ירא","gloss":"ترسا"},{"surface":"אלהים","gloss":"ئێلۆهیم"}],"timestamp":"2026-09-24T10:45:03.928568128Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 25:18",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "کە چاوت لێکرد لە ڕێگادا و لە پشتەوەی تۆ هەموو لاوازەکانی بڕی، و تۆ ماندوو و بێتاقەت بووی ⟨بووی⟩ و لە ئێلۆهیم نەترسا.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "קרך",
+      "gloss": "چاوت لێکرد"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "لە ڕێگادا"
+    },
+    {
+      "surface": "ויזנב",
+      "gloss": "و بڕی"
+    },
+    {
+      "surface": "בך",
+      "gloss": "لە پشتەوەی تۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הנחשלים",
+      "gloss": "لاوازەکان"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "لە پشتی تۆ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "و تۆ"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ماندوو"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "و بێتاقەت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ترسا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    }
+  ],
+  "timestamp": "2026-09-24T10:45:03.928568128Z",
+  "model": "glm-5.3"
+}

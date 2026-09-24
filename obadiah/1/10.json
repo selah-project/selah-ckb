@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":10,"ref":"obadiah 1:10","book":"obadiah","lang":"ckb","chapter":1,"translation":"لە زوڵمی بەرامبەر برای تۆ یاعقووب شەرم ⟨دەتپۆشێت⟩ و بۆ هەمیشە دەبڕدرێیت.","tokens":[{"surface":"מחמס","gloss":"لە زوڵمی"},{"surface":"אחיך","gloss":"بەرامبەر برای تۆ"},{"surface":"יעקב","gloss":"یاعقووب"},{"surface":"תכסך","gloss":"دەتپۆشێت"},{"surface":"בושה","gloss":"شەرم"},{"surface":"ונכרת","gloss":"و دەبڕدرێیت"},{"surface":"לעולם","gloss":"بۆ هەمیشە"}],"timestamp":"2026-09-24T13:35:20.581941187Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "لە زوڵمی بەرامبەر برای تۆ یاعقووب شەرم ⟨دەتپۆشێت⟩ و بۆ هەمیشە دەبڕدرێیت.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "لە زوڵمی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "بەرامبەر برای تۆ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یاعقووب"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "دەتپۆشێت"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "شەرم"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "و دەبڕدرێیت"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:35:20.581941187Z",
+  "model": "glm-5.3"
+}

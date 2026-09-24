@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":5,"ref":"1-samuel 21:5","book":"1-samuel","lang":"ckb","chapter":21,"translation":"کاهینەکە ⟨את⟩ داڤیدی جوابی دایەوە و فەرموو: نانی ئاسایی لەژێر دەستم نییە، بەڵکو نانی پیرۆز هەیە، ئەگەر گەنجەکان خۆیان تەنها لە ژنەوە پارێزابن.","tokens":[{"surface":"ויען","gloss":"و جوابی دایەوە"},{"surface":"הכהן","gloss":"کاهینەکە"},{"surface":"את","gloss":"⟨את⟩","marks":"داڤید"},{"surface":"דוד","gloss":"داڤید ⟨داوید⟩"},{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"אין","gloss":"نییە"},{"surface":"לחם","gloss":"نان"},{"surface":"חל","gloss":"ئاسایی"},{"surface":"אל","gloss":"لە"},{"surface":"תחת","gloss":"ژێر"},{"surface":"ידי","gloss":"دەستم"},{"surface":"כי","gloss":"بەڵکو"},{"surface":"אם","gloss":"تەنها"},{"surface":"לחם","gloss":"نان"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"יש","gloss":"هەیە"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"נשמרו","gloss":"خۆیان پارێزابن"},{"surface":"הנערים","gloss":"گەنجەکان"},{"surface":"אך","gloss":"تەنها"},{"surface":"מאשה","gloss":"لە ژنەوە"}],"timestamp":"2026-09-24T16:30:24.559149839Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "کاهینەکە ⟨את⟩ داڤیدی جوابی دایەوە و فەرموو: نانی ئاسایی لەژێر دەستم نییە، بەڵکو نانی پیرۆز هەیە، ئەگەر گەنجەکان خۆیان تەنها لە ژنەوە پارێزابن.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "و جوابی دایەوە"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهینەکە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داڤید"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داڤید ⟨داوید⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "חל",
+      "gloss": "ئاسایی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ژێر"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دەستم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "نان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "خۆیان پارێزابن"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "گەنجەکان"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "لە ژنەوە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:30:24.559149839Z",
+  "model": "glm-5.3"
+}

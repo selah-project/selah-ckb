@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":6,"ref":"numbers 32:6","book":"numbers","lang":"ckb","chapter":32,"translation":"و مۆشە ⟨موسا⟩ فەرمووی بۆ کوڕانی گاد و بۆ کوڕانی ڕائوبێن ئایا برایانتان دەچن بۆ شەڕ و ئێوە لێرە دادەنیشن","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"לבני","gloss":"بۆ کوڕانی"},{"surface":"גד","gloss":"گاد"},{"surface":"ולבני","gloss":"و بۆ کوڕانی"},{"surface":"ראובן","gloss":"ڕائوبێن"},{"surface":"האחיכם","gloss":"برایانتان"},{"surface":"יבאו","gloss":"دەچن"},{"surface":"למלחמה","gloss":"بۆ شەڕ"},{"surface":"ואתם","gloss":"و ئێوە"},{"surface":"תשבו","gloss":"دادەنیشن"},{"surface":"פה","gloss":"لێرە"}],"timestamp":"2026-09-24T10:30:13.267365186Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 32:6",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و مۆشە ⟨موسا⟩ فەرمووی بۆ کوڕانی گاد و بۆ کوڕانی ڕائوبێن ئایا برایانتان دەچن بۆ شەڕ و ئێوە لێرە دادەنیشن",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "و بۆ کوڕانی"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ڕائوبێن"
+    },
+    {
+      "surface": "האחיכם",
+      "gloss": "برایانتان"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "دەچن"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "بۆ شەڕ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "و ئێوە"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "دادەنیشن"
+    },
+    {
+      "surface": "פה",
+      "gloss": "لێرە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:30:13.267365186Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":3,"ref":"daniel 6:3","book":"daniel","lang":"ckb","chapter":6,"translation":"و لەوانەوە سەرۆکە سێیانە بوون کە دانیێل یەکێک بوو لەوان، بۆ ئەوەی ئەم ئاکەشمەنشەپانە بەرپرسیاریەتیان پێ بدەن و پاشا زیان نەبینێت.","tokens":[{"surface":"ועלא","gloss":"و لەوانەوە"},{"surface":"מנהון","gloss":"لەوان"},{"surface":"סרכין","gloss":"سەرۆکەکان"},{"surface":"תלתא","gloss":"سێیانە"},{"surface":"די","gloss":"کە"},{"surface":"דניאל","gloss":"دانیێل"},{"surface":"חד","gloss":"یەکێک"},{"surface":"מנהון","gloss":"لەوان"},{"surface":"די","gloss":"بۆ ئەوەی"},{"surface":"להון","gloss":"بن"},{"surface":"אחשדרפניא","gloss":"ئاکەشمەنشەپانەکان"},{"surface":"אלין","gloss":"ئەم"},{"surface":"יהבין","gloss":"بدرێت"},{"surface":"להון","gloss":"پێیان"},{"surface":"טעמא","gloss":"بەرپرسیاریەتیان"},{"surface":"ומלכא","gloss":"و پاشا"},{"surface":"לא","gloss":"نە"},{"surface":"להוא","gloss":"ببینێت"},{"surface":"נזק","gloss":"زیان"}],"timestamp":"2026-09-24T15:06:57.545204366Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 6:3",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و لەوانەوە سەرۆکە سێیانە بوون کە دانیێل یەکێک بوو لەوان، بۆ ئەوەی ئەم ئاکەشمەنشەپانە بەرپرسیاریەتیان پێ بدەن و پاشا زیان نەبینێت.",
+  "tokens": [
+    {
+      "surface": "ועלא",
+      "gloss": "و لەوانەوە"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "סרכין",
+      "gloss": "سەرۆکەکان"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "سێیانە"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیێل"
+    },
+    {
+      "surface": "חד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "די",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "להון",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אחשדרפניא",
+      "gloss": "ئاکەشمەنشەپانەکان"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "יהבין",
+      "gloss": "بدرێت"
+    },
+    {
+      "surface": "להון",
+      "gloss": "پێیان"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "بەرپرسیاریەتیان"
+    },
+    {
+      "surface": "ומלכא",
+      "gloss": "و پاشا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "ببینێت"
+    },
+    {
+      "surface": "נזק",
+      "gloss": "زیان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:06:57.545204366Z",
+  "model": "glm-5.3"
+}

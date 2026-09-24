@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":15,"ref":"daniel 1:15","book":"daniel","lang":"ckb","chapter":1,"translation":"و لە کۆتایی دە ڕۆژدا ڕووخساریان چاکتر و قەڵەوتر لە هەموو ئەو منداڵانە دەرکەوت کە ⟨את⟩ خواردنی پاشا دەخۆن.","tokens":[{"surface":"ומקצת","gloss":"و لە کۆتایی"},{"surface":"ימים","gloss":"ڕۆژ"},{"surface":"עשרה","gloss":"دە"},{"surface":"נראה","gloss":"دەرکەوت"},{"surface":"מראיהם","gloss":"ڕووخساریان"},{"surface":"טוב","gloss":"چاکتر"},{"surface":"ובריאי","gloss":"و قەڵەوتر"},{"surface":"בשר","gloss":"لەش"},{"surface":"מן","gloss":"لە"},{"surface":"כל","gloss":"هەموو"},{"surface":"הילדים","gloss":"ئەو منداڵانە"},{"surface":"האכלים","gloss":"کە دەخۆن"},{"surface":"את","gloss":"⟨את⟩","marks":"خواردنی پاشا"},{"surface":"פתבג","gloss":"خواردنی"},{"surface":"המלך","gloss":"پاشا"}],"timestamp":"2026-09-24T15:01:29.134077422Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 1:15",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و لە کۆتایی دە ڕۆژدا ڕووخساریان چاکتر و قەڵەوتر لە هەموو ئەو منداڵانە دەرکەوت کە ⟨את⟩ خواردنی پاشا دەخۆن.",
+  "tokens": [
+    {
+      "surface": "ומקצת",
+      "gloss": "و لە کۆتایی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "دەرکەوت"
+    },
+    {
+      "surface": "מראיהם",
+      "gloss": "ڕووخساریان"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکتر"
+    },
+    {
+      "surface": "ובריאי",
+      "gloss": "و قەڵەوتر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "لەش"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ئەو منداڵانە"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "کە دەخۆن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خواردنی پاشا"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "خواردنی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:01:29.134077422Z",
+  "model": "glm-5.3"
+}

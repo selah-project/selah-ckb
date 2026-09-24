@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":11,"ref":"leviticus 18:11","book":"leviticus","lang":"ckb","chapter":18,"translation":"ڕووتی کچی ژنی باوکت، لەدایکبووی باوکت — خوشکەت ئەوەیە — ڕووتی ئاشکرا مەکە.","tokens":[{"surface":"ערות","gloss":"ڕووتی"},{"surface":"בת","gloss":"کچی"},{"surface":"אשת","gloss":"ژنی"},{"surface":"אביך","gloss":"باوکت"},{"surface":"מולדת","gloss":"لەدایکبووی"},{"surface":"אביך","gloss":"باوکت"},{"surface":"אחותך","gloss":"خوشکەت"},{"surface":"הוא","gloss":"ئەوەیە"},{"surface":"לא","gloss":"نا"},{"surface":"תגלה","gloss":"ئاشکرا مەکە"},{"surface":"ערותה","gloss":"ڕووتی"}],"timestamp":"2026-09-24T10:05:45.289886036Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "ڕووتی کچی ژنی باوکت، لەدایکبووی باوکت — خوشکەت ئەوەیە — ڕووتی ئاشکرا مەکە.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ڕووتی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ژنی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "لەدایکبووی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "باوکت"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "خوشکەت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ئاشکرا مەکە"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ڕووتی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:05:45.289886036Z",
+  "model": "glm-5.3"
+}

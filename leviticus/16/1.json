@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":1,"ref":"leviticus 16:1","book":"leviticus","lang":"ckb","chapter":16,"translation":"و یاهوە بە مۆشە ⟨موسا⟩ فەرموو دوای مردنی دوو کوڕانی ئاهارۆن ⟨هارون⟩ لە نزیکبوونەوەیان لە پێش یاهوە و مردنیان.","tokens":[{"surface":"וידבר","gloss":"و فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"بە"},{"surface":"משה","gloss":"مۆشە"},{"surface":"אחרי","gloss":"دوای"},{"surface":"מות","gloss":"مردنی"},{"surface":"שני","gloss":"دوو"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"אהרן","gloss":"ئاهارۆن"},{"surface":"בקרבתם","gloss":"لە نزیکبوونەوەیان"},{"surface":"לפני","gloss":"لە پێش"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"וימתו","gloss":"و مردن"}],"timestamp":"2026-09-24T10:07:38.528203614Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و یاهوە بە مۆشە ⟨موسا⟩ فەرموو دوای مردنی دوو کوڕانی ئاهارۆن ⟨هارون⟩ لە نزیکبوونەوەیان لە پێش یاهوە و مردنیان.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مردنی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ئاهارۆن"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "لە نزیکبوونەوەیان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "لە پێش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "و مردن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:07:38.528203614Z",
+  "model": "glm-5.3"
+}

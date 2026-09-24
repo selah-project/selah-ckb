@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":9,"ref":"1-chronicles 9:9","book":"1-chronicles","lang":"ckb","chapter":9,"translation":"و برایانیان بەپێی نەوەکانیان نۆ سەد و پەنجا و شەش؛ هەموو ئەمانە پیاوان بوون، سەرانی باپیران، بەپێی ماڵی باپیرانیانیان.","tokens":[{"surface":"ואחיהם","gloss":"و برایانیان"},{"surface":"לתלדותם","gloss":"بەپێی نەوەکانیان"},{"surface":"תשע","gloss":"نۆ"},{"surface":"מאות","gloss":"سەد"},{"surface":"וחמשים","gloss":"و پەنجا"},{"surface":"וששה","gloss":"و شەش"},{"surface":"כל","gloss":"هەموو"},{"surface":"אלה","gloss":"ئەمانە"},{"surface":"אנשים","gloss":"پیاو"},{"surface":"ראשי","gloss":"سەرانی"},{"surface":"אבות","gloss":"باپیران"},{"surface":"לבית","gloss":"بەپێی ماڵی"},{"surface":"אבתיהם","gloss":"باپیرانیانیان"}],"timestamp":"2026-09-24T15:24:07.128035055Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 9:9",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و برایانیان بەپێی نەوەکانیان نۆ سەد و پەنجا و شەش؛ هەموو ئەمانە پیاوان بوون، سەرانی باپیران، بەپێی ماڵی باپیرانیانیان.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "و برایانیان"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "بەپێی نەوەکانیان"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نۆ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پەنجا"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "پیاو"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سەرانی"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "باپیران"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بەپێی ماڵی"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "باپیرانیانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:24:07.128035055Z",
+  "model": "glm-5.3"
+}

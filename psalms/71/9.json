@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":9,"ref":"psalms 71:9","book":"psalms","lang":"ckb","chapter":71,"translation":"لە کاتی پیریدا مەم فڕێنە، کاتێک هێزی من تەواو بوو، مەی بەجێم مەهێڵە.","tokens":[{"surface":"אל","gloss":"مەی"},{"surface":"תשליכני","gloss":"فڕێم دەنە"},{"surface":"לעת","gloss":"لە کات"},{"surface":"זקנה","gloss":"پیری"},{"surface":"ככלות","gloss":"کاتێک تەواو بوو"},{"surface":"כחי","gloss":"هێزی من"},{"surface":"אל","gloss":"مەی"},{"surface":"תעזבני","gloss":"بەجێم مەهێڵە"}],"timestamp":"2026-09-24T14:02:39.122074807Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 71,
+  "translation": "لە کاتی پیریدا مەم فڕێنە، کاتێک هێزی من تەواو بوو، مەی بەجێم مەهێڵە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مەی"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "فڕێم دەنە"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "لە کات"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "پیری"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "کاتێک تەواو بوو"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "هێزی من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مەی"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "بەجێم مەهێڵە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:02:39.122074807Z",
+  "model": "glm-5.3"
+}

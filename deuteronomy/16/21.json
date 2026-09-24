@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":21,"ref":"deuteronomy 16:21","book":"deuteronomy","lang":"ckb","chapter":16,"translation":"ئاشێرای هیچ دارێک بۆ خۆت ڕانەکەیت لە تەنیشت قوربانگای یاهوە ئێلۆهیمی خۆتەوە، ئەوەی کە بۆ خۆت دەیکەیت.","tokens":[{"surface":"לא","gloss":"نەخێر"},{"surface":"תטע","gloss":"ڕانەکەیت"},{"surface":"לך","gloss":"بۆ خۆت"},{"surface":"אשרה","gloss":"ئاشێرا"},{"surface":"כל","gloss":"هیچ"},{"surface":"עץ","gloss":"دار"},{"surface":"אצל","gloss":"لە تەنیشت"},{"surface":"מזבח","gloss":"قوربانگای"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיך","gloss":"ئێلۆهیمی خۆت"},{"surface":"אשר","gloss":"ئەوەی کە"},{"surface":"תעשה","gloss":"دەیکەیت"},{"surface":"לך","gloss":"بۆ خۆت"}],"timestamp":"2026-09-24T10:42:36.963666176Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "ئاشێرای هیچ دارێک بۆ خۆت ڕانەکەیت لە تەنیشت قوربانگای یاهوە ئێلۆهیمی خۆتەوە، ئەوەی کە بۆ خۆت دەیکەیت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "ڕانەکەیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "ئاشێرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "لە تەنیشت"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قوربانگای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی خۆت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەیکەیت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:36.963666176Z",
+  "model": "glm-5.3"
+}

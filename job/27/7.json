@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":7,"ref":"job 27:7","book":"job","lang":"ckb","chapter":27,"translation":"بێت دوژمنم وەک تاوانبار، و هەڵستێنەرەوەم وەک ناداد.","tokens":[{"surface":"יהי","gloss":"بێت"},{"surface":"כרשע","gloss":"وەک تاوانبار"},{"surface":"איבי","gloss":"دوژمنم"},{"surface":"ומתקוממי","gloss":"و هەڵستێنەرەوەم"},{"surface":"כעול","gloss":"وەک ناداد"}],"timestamp":"2026-09-24T14:41:40.677626044Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 27:7",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "بێت دوژمنم وەک تاوانبار، و هەڵستێنەرەوەم وەک ناداد.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "כרשע",
+      "gloss": "وەک تاوانبار"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "دوژمنم"
+    },
+    {
+      "surface": "ומתקוממי",
+      "gloss": "و هەڵستێنەرەوەم"
+    },
+    {
+      "surface": "כעול",
+      "gloss": "وەک ناداد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:40.677626044Z",
+  "model": "glm-5.3"
+}

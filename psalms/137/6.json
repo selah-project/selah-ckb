@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":6,"ref":"psalms 137:6","book":"psalms","lang":"ckb","chapter":137,"translation":"زمانم بچەسپێت بە تالوومی دەمم، ئەگەر تۆ نەبیرت بکەمەوە، ئەگەر ⟨את⟩ یەروشالایم لەسەر سەری خۆشییەکەم دانەبەرزێنم.","tokens":[{"surface":"תדבק","gloss":"بچەسپێت"},{"surface":"לשוני","gloss":"زمانم"},{"surface":"לחכי","gloss":"بە تالوومی دەمم"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"לא","gloss":"نە"},{"surface":"אזכרכי","gloss":"بیرت بکەمەوە"},{"surface":"אם","gloss":"ئەگەر"},{"surface":"לא","gloss":"نە"},{"surface":"אעלה","gloss":"بەرزی بکەم"},{"surface":"את","gloss":"⟨את⟩","marks":"یەروشالایم"},{"surface":"ירושלם","gloss":"یەروشالایم"},{"surface":"על","gloss":"لەسەر"},{"surface":"ראש","gloss":"سەری"},{"surface":"שמחתי","gloss":"خۆشییەکەم"}],"timestamp":"2026-09-24T14:20:31.842117789Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 137,
+  "translation": "زمانم بچەسپێت بە تالوومی دەمم، ئەگەر تۆ نەبیرت بکەمەوە، ئەگەر ⟨את⟩ یەروشالایم لەسەر سەری خۆشییەکەم دانەبەرزێنم.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "بچەسپێت"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "زمانم"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "بە تالوومی دەمم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "بیرت بکەمەوە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "بەرزی بکەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەروشالایم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یەروشالایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "خۆشییەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:20:31.842117789Z",
+  "model": "glm-5.3"
+}

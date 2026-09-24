@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":11,"ref":"esther 2:11","book":"esther","lang":"ckb","chapter":2,"translation":"و ڕۆژ بە ڕۆژ مۆردەخای بەردەمی حەساری ماڵی ژنان دەگەڕا — بۆ زانینی ⟨את⟩ ئاسوودەیی ئێستەر و چی دەکرا بە.","tokens":[{"surface":"ובכל","gloss":"و لە هەموو"},{"surface":"יום","gloss":"ڕۆژ"},{"surface":"ויום","gloss":"و ڕۆژ"},{"surface":"מרדכי","gloss":"مۆردەخای"},{"surface":"מתהלך","gloss":"دەگەڕا"},{"surface":"לפני","gloss":"بەردەمی"},{"surface":"חצר","gloss":"حەساری"},{"surface":"בית","gloss":"ماڵی"},{"surface":"הנשים","gloss":"ژنان"},{"surface":"לדעת","gloss":"بۆ زانین"},{"surface":"את","gloss":"⟨את⟩","marks":"ئاسوودەیی"},{"surface":"שלום","gloss":"ئاسوودەیی"},{"surface":"אסתר","gloss":"ئێستەر"},{"surface":"ומה","gloss":"و چی"},{"surface":"יעשה","gloss":"دەکرا"},{"surface":"בה","gloss":"بە"}],"timestamp":"2026-09-24T14:59:29.276073199Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 2:11",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ڕۆژ بە ڕۆژ مۆردەخای بەردەمی حەساری ماڵی ژنان دەگەڕا — بۆ زانینی ⟨את⟩ ئاسوودەیی ئێستەر و چی دەکرا بە.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "و لە هەموو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "و ڕۆژ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مۆردەخای"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "دەگەڕا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "بەردەمی"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "حەساری"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ژنان"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "بۆ زانین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئاسوودەیی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ئاسوودەیی"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ئێستەر"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "و چی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکرا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "بە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:59:29.276073199Z",
+  "model": "glm-5.3"
+}

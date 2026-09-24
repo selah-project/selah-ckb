@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":10,"ref":"zechariah 5:10","book":"zechariah","lang":"ckb","chapter":5,"translation":"و بەو فریشتەیەم فەرموو کە قسەی لەگەڵم دەکرد: بۆ کوێ ئەوان ⟨את⟩ ئەیفەکە دەبەن؟","tokens":[{"surface":"ואמר","gloss":"و فەرمووم"},{"surface":"אל","gloss":"بە"},{"surface":"המלאך","gloss":"ئەو فریشتەیە"},{"surface":"הדבר","gloss":"قسەکەری"},{"surface":"בי","gloss":"لەگەڵم"},{"surface":"אנה","gloss":"بۆ کوێ"},{"surface":"המה","gloss":"ئەوان"},{"surface":"מולכות","gloss":"دەیبەن"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەیفەکە"},{"surface":"האיפה","gloss":"ئەیفەکە"}],"timestamp":"2026-09-24T13:43:11.588386850Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "و بەو فریشتەیەم فەرموو کە قسەی لەگەڵم دەکرد: بۆ کوێ ئەوان ⟨את⟩ ئەیفەکە دەبەن؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "و فەرمووم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ئەو فریشتەیە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "قسەکەری"
+    },
+    {
+      "surface": "בי",
+      "gloss": "لەگەڵم"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "بۆ کوێ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "دەیبەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەیفەکە"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ئەیفەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:43:11.588386850Z",
+  "model": "glm-5.3"
+}

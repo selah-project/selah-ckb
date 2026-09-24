@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":18,"ref":"psalms 38:18","book":"psalms","lang":"ckb","chapter":38,"translation":"چونکم من بۆ لەقان ئامادەم، و ئازارەکەم بەردەوام لەبەردەممدایە.","tokens":[{"surface":"כי","gloss":"چونکم"},{"surface":"אני","gloss":"من"},{"surface":"לצלע","gloss":"بۆ لەقان"},{"surface":"נכון","gloss":"ئامادەم"},{"surface":"ומכאובי","gloss":"و ئازارەکەم"},{"surface":"נגדי","gloss":"لەبەردەممدایە"},{"surface":"תמיד","gloss":"بەردەوام"}],"timestamp":"2026-09-24T13:55:56.368650503Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "چونکم من بۆ لەقان ئامادەم، و ئازارەکەم بەردەوام لەبەردەممدایە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "بۆ لەقان"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ئامادەم"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "و ئازارەکەم"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "لەبەردەممدایە"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "بەردەوام"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:56.368650503Z",
+  "model": "glm-5.3"
+}

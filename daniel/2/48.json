@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":48,"ref":"daniel 2:48","book":"daniel","lang":"ckb","chapter":2,"translation":"ئەوکات پاشا دانیالی گەورە کرد و پێدانەکانی زۆر و گەورەی دا بە ئەو و حوکمی کرد لەسەر هەموو پارێزگای بابل، و سەرۆکی حاکمان لەسەر هەموو دانایانی بابل.","tokens":[{"surface":"אדין","gloss":"ئەوکات"},{"surface":"מלכא","gloss":"پاشا"},{"surface":"לדניאל","gloss":"دانیال"},{"surface":"רבי","gloss":"گەورەی کرد"},{"surface":"ומתנן","gloss":"و پێدانەکان"},{"surface":"רברבן","gloss":"گەورە"},{"surface":"שגיאן","gloss":"زۆر"},{"surface":"יהב","gloss":"دا"},{"surface":"לה","gloss":"بە ئەو"},{"surface":"והשלטה","gloss":"و حوکمی کرد"},{"surface":"על","gloss":"لەسەر"},{"surface":"כל","gloss":"هەموو"},{"surface":"מדינת","gloss":"پارێزگای"},{"surface":"בבל","gloss":"بابل"},{"surface":"ורב","gloss":"و سەرۆکی"},{"surface":"סגנין","gloss":"حاکمان"},{"surface":"על","gloss":"لەسەر"},{"surface":"כל","gloss":"هەموو"},{"surface":"חכימי","gloss":"دانایانی"},{"surface":"בבל","gloss":"بابل"}],"timestamp":"2026-09-24T15:05:16.069599466Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "daniel 2:48",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "ئەوکات پاشا دانیالی گەورە کرد و پێدانەکانی زۆر و گەورەی دا بە ئەو و حوکمی کرد لەسەر هەموو پارێزگای بابل، و سەرۆکی حاکمان لەسەر هەموو دانایانی بابل.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "دانیال"
+    },
+    {
+      "surface": "רבי",
+      "gloss": "گەورەی کرد"
+    },
+    {
+      "surface": "ומתנן",
+      "gloss": "و پێدانەکان"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "שגיאן",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بە ئەو"
+    },
+    {
+      "surface": "והשלטה",
+      "gloss": "و حوکمی کرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מדינת",
+      "gloss": "پارێزگای"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "و سەرۆکی"
+    },
+    {
+      "surface": "סגנין",
+      "gloss": "حاکمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "دانایانی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-09-24T15:05:16.069599466Z",
+  "model": "glm-5.3"
+}

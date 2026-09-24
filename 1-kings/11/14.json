@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":14,"ref":"1-kings 11:14","book":"1-kings","lang":"ckb","chapter":11,"translation":"و یاهوە دوژمنێکی بۆ شلۆمۆ هەستاند: ⟨את⟩ هەدەدی ئەدۆمییەکە، لە تۆوی پاشا — ئەو لە ئەدۆمدا.","tokens":[{"surface":"ויקם","gloss":"و هەستاند"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"שטן","gloss":"دوژمنێک"},{"surface":"לשלמה","gloss":"بۆ شلۆمۆ"},{"surface":"את","gloss":"⟨את⟩","marks":"هەدەد"},{"surface":"הדד","gloss":"هەدەد"},{"surface":"האדמי","gloss":"ئەدۆمییەکە"},{"surface":"מזרע","gloss":"لە تۆوی"},{"surface":"המלך","gloss":"پاشا"},{"surface":"הוא","gloss":"ئەو"},{"surface":"באדום","gloss":"لە ئەدۆم"}],"timestamp":"2026-09-24T11:51:44.849493675Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و یاهوە دوژمنێکی بۆ شلۆمۆ هەستاند: ⟨את⟩ هەدەدی ئەدۆمییەکە، لە تۆوی پاشا — ئەو لە ئەدۆمدا.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "و هەستاند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "دوژمنێک"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "بۆ شلۆمۆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەدەد"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هەدەد"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ئەدۆمییەکە"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "لە تۆوی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "لە ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:51:44.849493675Z",
+  "model": "glm-5.3"
+}

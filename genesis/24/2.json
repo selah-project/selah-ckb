@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":2,"ref":"genesis 24:2","book":"genesis","lang":"ckb","chapter":24,"translation":"ئاڤراهام بە کۆیلەکەی خۆی وت — پیرِی ماڵەکەی، ئەوەی حوکمی هەموو ئەوەی هەیبووی دەکرد — «دەستت دانێرە تکایە لەژێر ڕانی مندا».","tokens":[{"surface":"ויאמר","gloss":"و وت"},{"surface":"אברהם","gloss":"ئاڤراهام"},{"surface":"אל","gloss":"بە"},{"surface":"עבדו","gloss":"کۆیلەکەی"},{"surface":"זקן","gloss":"پیر"},{"surface":"ביתו","gloss":"ماڵەکەی"},{"surface":"המשל","gloss":"حاکم"},{"surface":"בכל","gloss":"بە هەموو"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"לו","gloss":"هەیبووی"},{"surface":"שים","gloss":"دانێرە"},{"surface":"נא","gloss":"تکایە"},{"surface":"ידך","gloss":"دەستت"},{"surface":"תחת","gloss":"لەژێر"},{"surface":"ירכי","gloss":"ڕانی من"}],"timestamp":"2026-09-24T09:20:11.017073032Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 24:2",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "ئاڤراهام بە کۆیلەکەی خۆی وت — پیرِی ماڵەکەی، ئەوەی حوکمی هەموو ئەوەی هەیبووی دەکرد — «دەستت دانێرە تکایە لەژێر ڕانی مندا».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "کۆیلەکەی"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ماڵەکەی"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "بە هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هەیبووی"
+    },
+    {
+      "surface": "שים",
+      "gloss": "دانێرە"
+    },
+    {
+      "surface": "נא",
+      "gloss": "تکایە"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لەژێر"
+    },
+    {
+      "surface": "ירכי",
+      "gloss": "ڕانی من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:20:11.017073032Z",
+  "model": "glm-5.3"
+}

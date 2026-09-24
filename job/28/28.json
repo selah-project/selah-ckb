@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":28,"ref":"job 28:28","book":"job","lang":"ckb","chapter":28,"translation":"و بۆ مرۆڤی فەرموو: ئاوا، ترسی ئادۆنای ئەوەیە دانایی، و دوورکەوتنەوە لە خراپە تێگەیشتنە.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"לאדם","gloss":"بۆ مرۆڤ"},{"surface":"הן","gloss":"ئاوا"},{"surface":"יראת","gloss":"ترسی"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"היא","gloss":"ئەوەیە"},{"surface":"חכמה","gloss":"دانایی"},{"surface":"וסור","gloss":"و دوورکەوتنەوە"},{"surface":"מרע","gloss":"لە خراپە"},{"surface":"בינה","gloss":"تێگەیشتن"}],"timestamp":"2026-09-24T14:42:43.765866338Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 28:28",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و بۆ مرۆڤی فەرموو: ئاوا، ترسی ئادۆنای ئەوەیە دانایی، و دوورکەوتنەوە لە خراپە تێگەیشتنە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بۆ مرۆڤ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ئاوا"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانایی"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "و دوورکەوتنەوە"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "لە خراپە"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:43.765866338Z",
+  "model": "glm-5.3"
+}

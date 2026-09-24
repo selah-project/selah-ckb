@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":23,"ref":"proverbs 6:23","book":"proverbs","lang":"ckb","chapter":6,"translation":"چونکە فەرمان چرا ⟨is⟩ و تۆرا ڕووناکی ⟨is⟩، و ڕێگای ژیان لێپرسینەوەکانی وانەن.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"נר","gloss":"چرا"},{"surface":"מצוה","gloss":"فەرمان"},{"surface":"ותורה","gloss":"و تۆرا"},{"surface":"אור","gloss":"ڕووناکی"},{"surface":"ודרך","gloss":"و ڕێگا"},{"surface":"חיים","gloss":"ژیان"},{"surface":"תוכחות","gloss":"لێپرسینەوەکانی"},{"surface":"מוסר","gloss":"وانە"}],"timestamp":"2026-09-24T14:23:46.642640565Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "چونکە فەرمان چرا ⟨is⟩ و تۆرا ڕووناکی ⟨is⟩، و ڕێگای ژیان لێپرسینەوەکانی وانەن.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "فەرمان"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "و تۆرا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ڕووناکی"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "و ڕێگا"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "لێپرسینەوەکانی"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "وانە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:46.642640565Z",
+  "model": "glm-5.3"
+}

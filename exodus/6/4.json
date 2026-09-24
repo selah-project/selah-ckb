@@ -1,1 +1,80 @@
-{"tier":"glm-5.2","verse":4,"ref":"exodus 6:4","book":"exodus","lang":"ckb","chapter":6,"translation":"و هەروەها ⟨את⟩ پەیمانم ⟨את⟩ لەگەڵ ئەوان چەسپاند، بۆ دانی ⟨את⟩ زەوی کەنەعان بە ئەوان، ⟨את⟩ زەوی نێشتەجێبوونیان کە تێیدا مێزەربوون.","tokens":[{"surface":"וגם","gloss":"و هەروەها"},{"surface":"הקמתי","gloss":"چەسپاند"},{"surface":"את","gloss":"⟨את⟩","marks":"پەیمانم"},{"surface":"בריתי","gloss":"پەیمانم"},{"surface":"אתם","gloss":"⟨את⟩ لەگەڵ ئەوان"},{"surface":"לתת","gloss":"بۆ دان"},{"surface":"להם","gloss":"بە ئەوان"},{"surface":"את","gloss":"⟨את⟩","marks":"زەوی"},{"surface":"ארץ","gloss":"زەوی"},{"surface":"כנען","gloss":"کەنەعان"},{"surface":"את","gloss":"⟨את⟩","marks":"زەوی"},{"surface":"ארץ","gloss":"زەوی"},{"surface":"מגריהם","gloss":"نێشتەجێبوونیان"},{"surface":"אשר","gloss":"کە"},{"surface":"גרו","gloss":"مێزەربوون"},{"surface":"בה","gloss":"تێیدا"}],"timestamp":"2026-09-24T16:42:06.867881580Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و هەروەها ⟨את⟩ پەیمانم ⟨את⟩ لەگەڵ ئەوان چەسپاند، بۆ دانی ⟨את⟩ زەوی کەنەعان بە ئەوان، ⟨את⟩ زەوی نێشتەجێبوونیان کە تێیدا مێزەربوون.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "و هەروەها"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "چەسپاند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پەیمانم"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "پەیمانم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ لەگەڵ ئەوان"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "بۆ دان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بە ئەوان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەوی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کەنەعان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەوی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "نێشتەجێبوونیان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "مێزەربوون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    }
+  ],
+  "timestamp": "2026-09-24T16:42:06.867881580Z",
+  "model": "glm-5.3"
+}

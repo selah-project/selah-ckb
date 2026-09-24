@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":31,"ref":"1-chronicles 25:31","book":"1-chronicles","lang":"ckb","chapter":25,"translation":"«بۆ بیست و چوارەم بۆ ڕۆمەمتی عەزەر کوڕەکانی و براکانی دوازدە»","tokens":[{"surface":"לארבעה","gloss":"بۆ چوارەم"},{"surface":"ועשרים","gloss":"و بیست"},{"surface":"לרוממתי","gloss":"بۆ ڕۆمەمتی"},{"surface":"עזר","gloss":"عەزەر"},{"surface":"בניו","gloss":"کوڕەکانی"},{"surface":"ואחיו","gloss":"و براکانی"},{"surface":"שנים","gloss":"دوو"},{"surface":"עשר","gloss":"دە"}],"timestamp":"2026-09-24T15:29:55.019032361Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 25:31",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "«بۆ بیست و چوارەم بۆ ڕۆمەمتی عەزەر کوڕەکانی و براکانی دوازدە»",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "بۆ چوارەم"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "לרוממתי",
+      "gloss": "بۆ ڕۆمەمتی"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "عەزەر"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و براکانی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:55.019032361Z",
+  "model": "glm-5.3"
+}

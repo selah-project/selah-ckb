@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 46:4","book":"psalms","lang":"ckb","chapter":46,"translation":"ئاوەکانی دەنگ دەدەن و دەکوڵن، چیاکان بە هەڵکشانی ئەو دەلەرزێن. سەلا.","tokens":[{"surface":"יהמו","gloss":"دەنگ دەدەن"},{"surface":"יחמרו","gloss":"دەکوڵن"},{"surface":"מימיו","gloss":"ئاوەکانی"},{"surface":"ירעשו","gloss":"دەلەرزێن"},{"surface":"הרים","gloss":"چیاکان"},{"surface":"בגאותו","gloss":"بە هەڵکشانی ئەو"},{"surface":"סלה","gloss":"سەلا"}],"timestamp":"2026-09-24T13:57:50.177691736Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "ئاوەکانی دەنگ دەدەن و دەکوڵن، چیاکان بە هەڵکشانی ئەو دەلەرزێن. سەلا.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "دەنگ دەدەن"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "دەکوڵن"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ئاوەکانی"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "دەلەرزێن"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "چیاکان"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "بە هەڵکشانی ئەو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سەلا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:50.177691736Z",
+  "model": "glm-5.3"
+}

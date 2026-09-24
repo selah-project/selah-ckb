@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":17,"ref":"genesis 33:17","book":"genesis","lang":"ckb","chapter":33,"translation":"و یاعقۆڤ ڕۆیشتە سوکۆت، و خانوویەکی بۆ خۆی دروستکرد، و بۆ ماڵاتەکانی کەپری دروستکرد؛ لەبەر ئەوە ناوی ئەو شوێنەی نا سوکۆت.","tokens":[{"surface":"ויעקב","gloss":"و یاعقۆڤ"},{"surface":"נסע","gloss":"ڕۆیشت"},{"surface":"סכתה","gloss":"سوکۆتەوە"},{"surface":"ויבן","gloss":"و دروستکرد"},{"surface":"לו","gloss":"بۆ خۆی"},{"surface":"בית","gloss":"خانوو"},{"surface":"ולמקנהו","gloss":"و بۆ ماڵاتەکانی"},{"surface":"עשה","gloss":"دروستکرد"},{"surface":"סכת","gloss":"کەپر"},{"surface":"על","gloss":"لەسەر"},{"surface":"כן","gloss":"ئەوە"},{"surface":"קרא","gloss":"ناونان"},{"surface":"שם","gloss":"ناوی"},{"surface":"המקום","gloss":"ئەو شوێنە"},{"surface":"סכות","gloss":"سوکۆت"}],"timestamp":"2026-09-24T09:26:50.322808648Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 33:17",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و یاعقۆڤ ڕۆیشتە سوکۆت، و خانوویەکی بۆ خۆی دروستکرد، و بۆ ماڵاتەکانی کەپری دروستکرد؛ لەبەر ئەوە ناوی ئەو شوێنەی نا سوکۆت.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "و یاعقۆڤ"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ڕۆیشت"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "سوکۆتەوە"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "و دروستکرد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ خۆی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانوو"
+    },
+    {
+      "surface": "ולמקנהו",
+      "gloss": "و بۆ ماڵاتەکانی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "دروستکرد"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "کەپر"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناونان"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ئەو شوێنە"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "سوکۆت"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:50.322808648Z",
+  "model": "glm-5.3"
+}

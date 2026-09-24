@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":13,"ref":"deuteronomy 20:13","book":"deuteronomy","lang":"ckb","chapter":20,"translation":"و یاهوە ئێلۆهیمی تۆ ئەیداتە دەستی تۆ، و ⟨את⟩ هەموو نێرەکەی دەیکوێیت بە لێواری شمشێر.","tokens":[{"surface":"ונתנה","gloss":"و ئەیداتە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיך","gloss":"ئێلۆهیمی تۆ"},{"surface":"בידך","gloss":"دەستی تۆ"},{"surface":"והכית","gloss":"و دەیکوێیت"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو نێرەکەی"},{"surface":"כל","gloss":"هەموو"},{"surface":"זכורה","gloss":"نێرەکەی"},{"surface":"לפי","gloss":"بە لێواری"},{"surface":"חרב","gloss":"شمشێر"}],"timestamp":"2026-09-24T10:43:35.383681973Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و یاهوە ئێلۆهیمی تۆ ئەیداتە دەستی تۆ، و ⟨את⟩ هەموو نێرەکەی دەیکوێیت بە لێواری شمشێر.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "و ئەیداتە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی تۆ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "دەستی تۆ"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "و دەیکوێیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو نێرەکەی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "نێرەکەی"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بە لێواری"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    }
+  ],
+  "timestamp": "2026-09-24T10:43:35.383681973Z",
+  "model": "glm-5.3"
+}

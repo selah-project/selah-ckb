@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":12,"ref":"jeremiah 17:12","book":"jeremiah","lang":"ckb","chapter":17,"translation":"تەختی شکۆ، بەرز لە سەرەتاوە، شوێنی پیرۆزگای ئێمە.","tokens":[{"surface":"כסא","gloss":"تەختی"},{"surface":"כבוד","gloss":"شکۆ"},{"surface":"מרום","gloss":"بەرز"},{"surface":"מראשון","gloss":"لە سەرەتاوە"},{"surface":"מקום","gloss":"شوێنی"},{"surface":"מקדשנו","gloss":"پیرۆزگای ئێمە"}],"timestamp":"2026-09-24T12:44:27.979661216Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 17,
+  "translation": "تەختی شکۆ، بەرز لە سەرەتاوە، شوێنی پیرۆزگای ئێمە.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "تەختی"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "بەرز"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "لە سەرەتاوە"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێنی"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "پیرۆزگای ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T12:44:27.979661216Z",
+  "model": "glm-5.3"
+}

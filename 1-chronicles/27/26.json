@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":26,"ref":"1-chronicles 27:26","book":"1-chronicles","lang":"ckb","chapter":27,"translation":"و لەسەر ئەکرەکانی کاری کێڵگە بۆ خزمەتی زەوییەکە عیزری کوڕی کێلوب بوو.","tokens":[{"surface":"ועל","gloss":"و لەسەر"},{"surface":"עשי","gloss":"ئەکرەکانی"},{"surface":"מלאכת","gloss":"کاری"},{"surface":"השדה","gloss":"کێڵگە"},{"surface":"לעבדת","gloss":"بۆ خزمەتی"},{"surface":"האדמה","gloss":"زەوییەکە"},{"surface":"עזרי","gloss":"عیزری"},{"surface":"בן","gloss":"کوڕی"},{"surface":"כלוב","gloss":"کێلوب"}],"timestamp":"2026-09-24T15:31:19.056093114Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و لەسەر ئەکرەکانی کاری کێڵگە بۆ خزمەتی زەوییەکە عیزری کوڕی کێلوب بوو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ئەکرەکانی"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کاری"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کێڵگە"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "بۆ خزمەتی"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زەوییەکە"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "عیزری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "کێلوب"
+    }
+  ],
+  "timestamp": "2026-09-24T15:31:19.056093114Z",
+  "model": "glm-5.3"
+}

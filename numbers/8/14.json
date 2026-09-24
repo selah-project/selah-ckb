@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":14,"ref":"numbers 8:14","book":"numbers","lang":"ckb","chapter":8,"translation":"و لەوییەکان ⟨את⟩ لە لێواری کوڕانی ئیسرائیل جیاکەیتەوە و لەوییەکان بۆ من دەبن.","tokens":[{"surface":"והבדלת","gloss":"و جیاکەیتەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"لەوییەکان"},{"surface":"הלוים","gloss":"لەوییەکان"},{"surface":"מתוך","gloss":"لە لێواری"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"והיו","gloss":"و دەبن"},{"surface":"לי","gloss":"بۆ من"},{"surface":"הלוים","gloss":"لەوییەکان"}],"timestamp":"2026-09-24T17:01:49.970458726Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 8:14",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و لەوییەکان ⟨את⟩ لە لێواری کوڕانی ئیسرائیل جیاکەیتەوە و لەوییەکان بۆ من دەبن.",
+  "tokens": [
+    {
+      "surface": "והבדלת",
+      "gloss": "و جیاکەیتەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لەوییەکان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لەوییەکان"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "لە لێواری"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "و دەبن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لەوییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T17:01:49.970458726Z",
+  "model": "glm-5.3"
+}

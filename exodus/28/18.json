@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":18,"ref":"exodus 28:18","book":"exodus","lang":"ckb","chapter":28,"translation":"و ڕیزە دووەم: نۆفەخ، سەپیر و یاهەلۆم.","tokens":[{"surface":"והטור","gloss":"و ڕیزەکە"},{"surface":"השני","gloss":"دووەم"},{"surface":"נפך","gloss":"نۆفەخ"},{"surface":"ספיר","gloss":"سەپیر"},{"surface":"ויהלם","gloss":"و یاهەلۆم"}],"timestamp":"2026-09-24T09:50:05.931565616Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و ڕیزە دووەم: نۆفەخ، سەپیر و یاهەلۆم.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "و ڕیزەکە"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "نۆفەخ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "سەپیر"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "و یاهەلۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:50:05.931565616Z",
+  "model": "glm-5.3"
+}

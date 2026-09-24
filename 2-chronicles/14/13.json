@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":13,"ref":"2-chronicles 14:13","book":"2-chronicles","lang":"ckb","chapter":14,"translation":"و ⟨את⟩ هەموو شارەکانی دەوری گێراریان لێدا، چونکە پەژارەی یاهوە لەسەریان دابوو، و ⟨את⟩ هەموو شارەکانیان تاڵان کرد، چونکە تاڵانی زۆر لەوان بوو.","tokens":[{"surface":"ויכו","gloss":"و لێیاندا"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو شارەکان"},{"surface":"כל","gloss":"هەموو"},{"surface":"הערים","gloss":"شارەکان"},{"surface":"סביבות","gloss":"دەوری"},{"surface":"גרר","gloss":"گێرار ⟨گرار⟩"},{"surface":"כי","gloss":"چونکە"},{"surface":"היה","gloss":"دابوو"},{"surface":"פחד","gloss":"پەژارە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"עליהם","gloss":"لەسەریان"},{"surface":"ויבזו","gloss":"و تاڵانیان کرد"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو شارەکان"},{"surface":"כל","gloss":"هەموو"},{"surface":"הערים","gloss":"شارەکان"},{"surface":"כי","gloss":"چونکە"},{"surface":"בזה","gloss":"تاڵان"},{"surface":"רבה","gloss":"زۆر"},{"surface":"היתה","gloss":"بوو"},{"surface":"בהם","gloss":"لەوان"}],"timestamp":"2026-09-24T15:37:09.977318340Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 14:13",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ⟨את⟩ هەموو شارەکانی دەوری گێراریان لێدا، چونکە پەژارەی یاهوە لەسەریان دابوو، و ⟨את⟩ هەموو شارەکانیان تاڵان کرد، چونکە تاڵانی زۆر لەوان بوو.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "و لێیاندا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو شارەکان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شارەکان"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "دەوری"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "گێرار ⟨گرار⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "دابوو"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "پەژارە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "لەسەریان"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "و تاڵانیان کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو شارەکان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شارەکان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "تاڵان"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "زۆر"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:37:09.977318340Z",
+  "model": "glm-5.3"
+}

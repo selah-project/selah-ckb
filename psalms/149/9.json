@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":9,"ref":"psalms 149:9","book":"psalms","lang":"ckb","chapter":149,"translation":"بۆ ئەنجامدانی حوکمی نووسراو لەسەر ئەوان؛ ئەوە شانازییە بۆ هەموو حەسیدەکانی. هەڵبستن بۆ یاه.","tokens":[{"surface":"לעשות","gloss":"بۆ ئەنجامدانی"},{"surface":"בהם","gloss":"لەسەر ئەوان"},{"surface":"משפט","gloss":"حوکم"},{"surface":"כתוב","gloss":"نووسراو"},{"surface":"הדר","gloss":"شانازی"},{"surface":"הוא","gloss":"ئەوەیە"},{"surface":"לכל","gloss":"بۆ هەموو"},{"surface":"חסידיו","gloss":"حەسیدەکانی"},{"surface":"הללו","gloss":"هەڵبستن"},{"surface":"יה","gloss":"یاه"}],"timestamp":"2026-09-24T17:03:25.080726205Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 149,
+  "translation": "بۆ ئەنجامدانی حوکمی نووسراو لەسەر ئەوان؛ ئەوە شانازییە بۆ هەموو حەسیدەکانی. هەڵبستن بۆ یاه.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ ئەنجامدانی"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لەسەر ئەوان"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حوکم"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "نووسراو"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "شانازی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "حەسیدەکانی"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "هەڵبستن"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-09-24T17:03:25.080726205Z",
+  "model": "glm-5.3"
+}

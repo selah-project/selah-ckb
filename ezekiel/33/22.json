@@ -1,1 +1,94 @@
-{"tier":"glm-5.2","verse":22,"ref":"ezekiel 33:22","book":"ezekiel","lang":"ckb","chapter":33,"translation":"و دەستی یاهوە لام بوو لە شەودا، پێش هاتنی هەڵاتووەکە، و ⟨את⟩ دەمم کردەوە تا هاتنی لام بە بەیانی؛ و دەمم کرایەوە و ئیتر بێدەنگ نەبووم.","tokens":[{"surface":"ויד","gloss":"و دەست"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"היתה","gloss":"بوو"},{"surface":"אלי","gloss":"لام"},{"surface":"בערב","gloss":"لە شەو"},{"surface":"לפני","gloss":"پێش"},{"surface":"בוא","gloss":"هاتن"},{"surface":"הפליט","gloss":"هەڵاتووەکە"},{"surface":"ויפתח","gloss":"کردەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"دەم"},{"surface":"פי","gloss":"دەم"},{"surface":"עד","gloss":"تا"},{"surface":"בוא","gloss":"هاتن"},{"surface":"אלי","gloss":"لام"},{"surface":"בבקר","gloss":"بە بەیانی"},{"surface":"ויפתח","gloss":"کرایەوە"},{"surface":"פי","gloss":"دەم"},{"surface":"ולא","gloss":"و نە"},{"surface":"נאלמתי","gloss":"بێدەنگ بووم"},{"surface":"עוד","gloss":"ئیتر"}],"timestamp":"2026-09-24T13:18:50.415436809Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 33:22",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و دەستی یاهوە لام بوو لە شەودا، پێش هاتنی هەڵاتووەکە، و ⟨את⟩ دەمم کردەوە تا هاتنی لام بە بەیانی؛ و دەمم کرایەوە و ئیتر بێدەنگ نەبووم.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "و دەست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لام"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "لە شەو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پێش"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "هاتن"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "هەڵاتووەکە"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "کردەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەم"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "هاتن"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "لام"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "بە بەیانی"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "کرایەوە"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "נאלמתי",
+      "gloss": "بێدەنگ بووم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:50.415436809Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":11,"ref":"genesis 22:11","book":"genesis","lang":"ckb","chapter":22,"translation":"و مەلەکی یاهوە لە ئاسمانەکانەوە بانگی کرد و فەرموو: ئاڤراهام، ئاڤراهام! و وت: هەر لێرەم.","tokens":[{"surface":"ויקרא","gloss":"بانگی کرد"},{"surface":"אליו","gloss":"بۆی"},{"surface":"מלאך","gloss":"مەلەک"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"מן","gloss":"لە"},{"surface":"השמים","gloss":"ئاسمانەکانەوە"},{"surface":"ויאמר","gloss":"فەرموو"},{"surface":"אברהם","gloss":"ئاڤراهام"},{"surface":"אברהם","gloss":"ئاڤراهام"},{"surface":"ויאמר","gloss":"وت"},{"surface":"הנני","gloss":"هەر لێرەم"}],"timestamp":"2026-09-24T09:19:17.859772428Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 22:11",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و مەلەکی یاهوە لە ئاسمانەکانەوە بانگی کرد و فەرموو: ئاڤراهام، ئاڤراهام! و وت: هەر لێرەم.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "بانگی کرد"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "مەلەک"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکانەوە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "هەر لێرەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:19:17.859772428Z",
+  "model": "glm-5.3"
+}

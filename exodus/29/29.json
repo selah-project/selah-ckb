@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":29,"ref":"exodus 29:29","book":"exodus","lang":"ckb","chapter":29,"translation":"و جلەکانی پیرۆزی ئەهارۆن دەبن هی کوڕەکانی لە دوای ئەو، بۆ چەورکران لەوان و بۆ پڕکردنی ⟨את⟩ دەستیان لەوان.","tokens":[{"surface":"ובגדי","gloss":"و جلەکانی"},{"surface":"הקדש","gloss":"پیرۆزی"},{"surface":"אשר","gloss":"هی"},{"surface":"לאהרן","gloss":"ئەهارۆن"},{"surface":"יהיו","gloss":"دەبن"},{"surface":"לבניו","gloss":"کوڕەکانی"},{"surface":"אחריו","gloss":"لە دوای ئەو"},{"surface":"למשחה","gloss":"بۆ چەورکران"},{"surface":"בהם","gloss":"لەوان"},{"surface":"ולמלא","gloss":"و بۆ پڕکردنی"},{"surface":"בם","gloss":"لەوان"},{"surface":"את","gloss":"⟨את⟩","marks":"دەستیان"},{"surface":"ידם","gloss":"دەستیان"}],"timestamp":"2026-09-24T09:51:29.205030932Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 29:29",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و جلەکانی پیرۆزی ئەهارۆن دەبن هی کوڕەکانی لە دوای ئەو، بۆ چەورکران لەوان و بۆ پڕکردنی ⟨את⟩ دەستیان لەوان.",
+  "tokens": [
+    {
+      "surface": "ובגדי",
+      "gloss": "و جلەکانی"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "پیرۆزی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هی"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ئەهارۆن"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "لە دوای ئەو"
+    },
+    {
+      "surface": "למשחה",
+      "gloss": "بۆ چەورکران"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "ולמלא",
+      "gloss": "و بۆ پڕکردنی"
+    },
+    {
+      "surface": "בם",
+      "gloss": "لەوان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دەستیان"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "دەستیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:51:29.205030932Z",
+  "model": "glm-5.3"
+}

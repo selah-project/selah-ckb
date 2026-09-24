@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":3,"ref":"leviticus 23:3","book":"leviticus","lang":"ckb","chapter":23,"translation":"شەش ڕۆژ کار دەکرێت، و لە ڕۆژی حەوتەمدا شاباتە، وەستانێکی تەواو، خوپێهاتنێکی پیرۆز — هیچ کارێک ناکەن؛ شاباتە بۆ یاهوە لە هەموو شوێنی ژیانەکانتاندا.","tokens":[{"surface":"ששת","gloss":"شەش"},{"surface":"ימים","gloss":"ڕۆژ"},{"surface":"תעשה","gloss":"دەکرێت"},{"surface":"מלאכה","gloss":"کار"},{"surface":"וביום","gloss":"و لە ڕۆژ"},{"surface":"השביעי","gloss":"حەوتەم"},{"surface":"שבת","gloss":"شابات"},{"surface":"שבתון","gloss":"وەستانێکی تەواو"},{"surface":"מקרא","gloss":"خوپێهاتن"},{"surface":"קדש","gloss":"پیرۆز"},{"surface":"כל","gloss":"هیچ"},{"surface":"מלאכה","gloss":"کار"},{"surface":"לא","gloss":"نا"},{"surface":"תעשו","gloss":"بکەن"},{"surface":"שבת","gloss":"شابات"},{"surface":"הוא","gloss":"⟨ئەوە⟩"},{"surface":"ליהוה","gloss":"بۆ یاهوە"},{"surface":"בכל","gloss":"لە هەموو"},{"surface":"מושבתיכם","gloss":"شوێنی ژیانەکانتان"}],"timestamp":"2026-09-24T10:09:34.199111581Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "شەش ڕۆژ کار دەکرێت، و لە ڕۆژی حەوتەمدا شاباتە، وەستانێکی تەواو، خوپێهاتنێکی پیرۆز — هیچ کارێک ناکەن؛ شاباتە بۆ یاهوە لە هەموو شوێنی ژیانەکانتاندا.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "دەکرێت"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "و لە ڕۆژ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "حەوتەم"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شابات"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "وەستانێکی تەواو"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "خوپێهاتن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "پیرۆز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیچ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بکەن"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شابات"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ئەوە⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "شوێنی ژیانەکانتان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:09:34.199111581Z",
+  "model": "glm-5.3"
+}

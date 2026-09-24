@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":14,"ref":"proverbs 1:14","book":"proverbs","lang":"ckb","chapter":1,"translation":"گۆڕەت لە نێو ئێمەدا فڕێ بدە، یەک جانتا بۆ هەموومان دەبێت.","tokens":[{"surface":"גורלך","gloss":"گۆڕەت"},{"surface":"תפיל","gloss":"فڕێ بدە"},{"surface":"בתוכנו","gloss":"لە نێو ئێمەدا"},{"surface":"כיס","gloss":"جانتا"},{"surface":"אחד","gloss":"یەک"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"לכלנו","gloss":"بۆ هەموومان"}],"timestamp":"2026-09-24T14:21:56.808001672Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "گۆڕەت لە نێو ئێمەدا فڕێ بدە، یەک جانتا بۆ هەموومان دەبێت.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "گۆڕەت"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "فڕێ بدە"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "لە نێو ئێمەدا"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "جانتا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "بۆ هەموومان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:56.808001672Z",
+  "model": "glm-5.3"
+}

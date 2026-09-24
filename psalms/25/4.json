@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 25:4","book":"psalms","lang":"ckb","chapter":25,"translation":"ڕێگاکانت یاهوە بۆم ئاشکرا بکە، پێتانەکانت فێرم بکە.","tokens":[{"surface":"דרכיך","gloss":"ڕێگاکانت"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"הודיעני","gloss":"بۆم ئاشکرا بکە"},{"surface":"ארחותיך","gloss":"پێتانەکانت"},{"surface":"למדני","gloss":"فێرم بکە"}],"timestamp":"2026-09-24T13:52:55.662169911Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "ڕێگاکانت یاهوە بۆم ئاشکرا بکە، پێتانەکانت فێرم بکە.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "ڕێگاکانت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "بۆم ئاشکرا بکە"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "پێتانەکانت"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "فێرم بکە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:52:55.662169911Z",
+  "model": "glm-5.3"
+}

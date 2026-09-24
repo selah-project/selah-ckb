@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":5,"ref":"psalms 136:5","book":"psalms","lang":"ckb","chapter":136,"translation":"بۆ دروستکەری ئاسمانەکان بە تێگەیشتن، چونکە بۆ هەتاهەتایە حەسەدی.","tokens":[{"surface":"לעשה","gloss":"بۆ دروستکەری"},{"surface":"השמים","gloss":"ئاسمانەکان"},{"surface":"בתבונה","gloss":"بە تێگەیشتن"},{"surface":"כי","gloss":"چونکە"},{"surface":"לעולם","gloss":"بۆ هەتاهەتایە"},{"surface":"חסדו","gloss":"حەسەدی"}],"timestamp":"2026-09-24T14:19:22.754583520Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "بۆ دروستکەری ئاسمانەکان بە تێگەیشتن، چونکە بۆ هەتاهەتایە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "بۆ دروستکەری"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکان"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "بە تێگەیشتن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەتاهەتایە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:22.754583520Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":15,"ref":"2-chronicles 23:15","book":"2-chronicles","lang":"ckb","chapter":23,"translation":"و دەستیان بۆ ئەو دانا، و هاتە ناو دەروازەی چوونەژوورەوەی ئەسپەکان، ماڵی پاشا، و لەوێ کوشتیانی.","tokens":[{"surface":"וישימו","gloss":"و دەستیان دانا"},{"surface":"לה","gloss":"بۆ ئەو"},{"surface":"ידים","gloss":"دەست"},{"surface":"ותבוא","gloss":"و هاتە"},{"surface":"אל","gloss":"ناو"},{"surface":"מבוא","gloss":"چوونەژوورەوەی"},{"surface":"שער","gloss":"دەروازەی"},{"surface":"הסוסים","gloss":"ئەسپەکان"},{"surface":"בית","gloss":"ماڵی"},{"surface":"המלך","gloss":"پاشا"},{"surface":"וימיתוה","gloss":"و کوشتیانی"},{"surface":"שם","gloss":"لەوێ"}],"timestamp":"2026-09-24T15:41:03.947157603Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و دەستیان بۆ ئەو دانا، و هاتە ناو دەروازەی چوونەژوورەوەی ئەسپەکان، ماڵی پاشا، و لەوێ کوشتیانی.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "و دەستیان دانا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "و هاتە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ناو"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "چوونەژوورەوەی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەروازەی"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "ئەسپەکان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "و کوشتیانی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:41:03.947157603Z",
+  "model": "glm-5.3"
+}

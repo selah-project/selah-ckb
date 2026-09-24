@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":39,"ref":"genesis 36:39","book":"genesis","lang":"ckb","chapter":36,"translation":"و بەعەل حەنان کوڕی عەکبور مرد و هادار لە جێی ئەو پاشایەتی کرد و ناوی شارەکەی پەعوو بوو و ناوی ژنەکەی مەهیتابێڵ بوو کچی مەترێد کچی مێی زاهاب.","tokens":[{"surface":"וימת","gloss":"و مرد"},{"surface":"בעל","gloss":"بەعەل"},{"surface":"חנן","gloss":"حەنان"},{"surface":"בן","gloss":"کوڕی"},{"surface":"עכבור","gloss":"عەکبور"},{"surface":"וימלך","gloss":"و پاشایەتی کرد"},{"surface":"תחתיו","gloss":"لە جێی ئەو"},{"surface":"הדר","gloss":"هادار"},{"surface":"ושם","gloss":"و ناوی"},{"surface":"עירו","gloss":"شارەکەی"},{"surface":"פעו","gloss":"پەعوو"},{"surface":"ושם","gloss":"و ناوی"},{"surface":"אשתו","gloss":"ژنەکەی"},{"surface":"מהיטבאל","gloss":"مەهیتابێڵ"},{"surface":"בת","gloss":"کچی"},{"surface":"מטרד","gloss":"مەترێد"},{"surface":"בת","gloss":"کچی"},{"surface":"מי","gloss":"مێی"},{"surface":"זהב","gloss":"زاهاب"}],"timestamp":"2026-09-24T09:26:44.246608395Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 36:39",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "و بەعەل حەنان کوڕی عەکبور مرد و هادار لە جێی ئەو پاشایەتی کرد و ناوی شارەکەی پەعوو بوو و ناوی ژنەکەی مەهیتابێڵ بوو کچی مەترێد کچی مێی زاهاب.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "و مرد"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بەعەل"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حەنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "عەکبور"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "و پاشایەتی کرد"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "لە جێی ئەو"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "هادار"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "شارەکەی"
+    },
+    {
+      "surface": "פעו",
+      "gloss": "پەعوو"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "و ناوی"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ژنەکەی"
+    },
+    {
+      "surface": "מהיטבאל",
+      "gloss": "مەهیتابێڵ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "מטרד",
+      "gloss": "مەترێد"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "مێی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زاهاب"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:44.246608395Z",
+  "model": "glm-5.3"
+}

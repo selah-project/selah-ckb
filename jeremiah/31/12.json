@@ -1,1 +1,117 @@
-{"tier":"glm-5.2","verse":12,"ref":"jeremiah 31:12","book":"jeremiah","lang":"ckb","chapter":31,"translation":"و دێن و لە بەرزیی سیۆن دەگۆرن، و بۆ چاکەی یاهوە دەڕژن، بۆ دانەوێڵە و بۆ مەی و بۆ زەیت و بۆ بچکەکانی مەڕ و گا، و گیانیان دەبێت وەک باخچەیەکی سیراو لە ئاو، و ئیتر خەم زیاد ناکەنەوە.","tokens":[{"surface":"ובאו","gloss":"و دێن"},{"surface":"ורננו","gloss":"و دەگۆرن"},{"surface":"במרום","gloss":"لە بەرزی"},{"surface":"ציון","gloss":"سیۆن"},{"surface":"ונהרו","gloss":"و دەڕژن"},{"surface":"אל","gloss":"بۆ"},{"surface":"טוב","gloss":"چاکەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"על","gloss":"بۆ"},{"surface":"דגן","gloss":"دانەوێڵە"},{"surface":"ועל","gloss":"و بۆ"},{"surface":"תירש","gloss":"مەی"},{"surface":"ועל","gloss":"و بۆ"},{"surface":"יצהר","gloss":"زەیت"},{"surface":"ועל","gloss":"و بۆ"},{"surface":"בני","gloss":"بچکەکانی"},{"surface":"צאן","gloss":"مەڕ"},{"surface":"ובקר","gloss":"و گا"},{"surface":"והיתה","gloss":"و دەبێت"},{"surface":"נפשם","gloss":"گیانیان"},{"surface":"כגן","gloss":"وەک باخچەیەکی"},{"surface":"רוה","gloss":"سیراو لە ئاو"},{"surface":"ולא","gloss":"و نا"},{"surface":"יוסיפו","gloss":"زیاد دەکەن"},{"surface":"לדאבה","gloss":"بۆ خەم"},{"surface":"עוד","gloss":"ئیتر"}],"timestamp":"2026-09-24T12:50:59.439848504Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 31:12",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و دێن و لە بەرزیی سیۆن دەگۆرن، و بۆ چاکەی یاهوە دەڕژن، بۆ دانەوێڵە و بۆ مەی و بۆ زەیت و بۆ بچکەکانی مەڕ و گا، و گیانیان دەبێت وەک باخچەیەکی سیراو لە ئاو، و ئیتر خەم زیاد ناکەنەوە.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "و دێن"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "و دەگۆرن"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "لە بەرزی"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "سیۆن"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "و دەڕژن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "دانەوێڵە"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "مەی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "زەیت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بچکەکانی"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "و گا"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "گیانیان"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "وەک باخچەیەکی"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "سیراو لە ئاو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "زیاد دەکەن"
+    },
+    {
+      "surface": "לדאבה",
+      "gloss": "بۆ خەم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    }
+  ],
+  "timestamp": "2026-09-24T12:50:59.439848504Z",
+  "model": "glm-5.3"
+}

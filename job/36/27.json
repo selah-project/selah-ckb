@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":27,"ref":"job 36:27","book":"job","lang":"ckb","chapter":36,"translation":"چونکە تامچووەکانی ئاو ڕادەکێشێت، بۆ هەڵمەکەی باران دەڵێننەوە.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"יגרע","gloss":"ڕادەکێشێت"},{"surface":"נטפי","gloss":"تامچووەکانی"},{"surface":"מים","gloss":"ئاو"},{"surface":"יזקו","gloss":"دەڵێننەوە"},{"surface":"מטר","gloss":"باران"},{"surface":"לאדו","gloss":"بۆ هەڵمەکەی"}],"timestamp":"2026-09-24T14:44:58.326207429Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "چونکە تامچووەکانی ئاو ڕادەکێشێت، بۆ هەڵمەکەی باران دەڵێننەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "ڕادەکێشێت"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "تامچووەکانی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "دەڵێننەوە"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "باران"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "بۆ هەڵمەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:58.326207429Z",
+  "model": "glm-5.3"
+}

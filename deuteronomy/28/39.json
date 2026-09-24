@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":39,"ref":"deuteronomy 28:39","book":"deuteronomy","lang":"ckb","chapter":28,"translation":"مۆزگاکان دەڕۆنیت و دەیپارێزیت، و شەڕاب ناخۆیتەوە و کۆینەکەیتەوە، چونکە کرمی دەیخوات.","tokens":[{"surface":"כרמים","gloss":"مۆزگاکان"},{"surface":"תטע","gloss":"دەڕۆنیت"},{"surface":"ועבדת","gloss":"و دەیپارێزیت"},{"surface":"ויין","gloss":"و شەڕاب"},{"surface":"לא","gloss":"نا"},{"surface":"תשתה","gloss":"ناخۆیتەوە"},{"surface":"ולא","gloss":"و نا"},{"surface":"תאגר","gloss":"کۆینەکەیتەوە"},{"surface":"כי","gloss":"چونکە"},{"surface":"תאכלנו","gloss":"دەیخوات"},{"surface":"התלעת","gloss":"کرمی"}],"timestamp":"2026-09-24T10:46:55.342703252Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 28:39",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "مۆزگاکان دەڕۆنیت و دەیپارێزیت، و شەڕاب ناخۆیتەوە و کۆینەکەیتەوە، چونکە کرمی دەیخوات.",
+  "tokens": [
+    {
+      "surface": "כרמים",
+      "gloss": "مۆزگاکان"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "دەڕۆنیت"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "و دەیپارێزیت"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "و شەڕاب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ناخۆیتەوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תאגר",
+      "gloss": "کۆینەکەیتەوە"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "دەیخوات"
+    },
+    {
+      "surface": "התלעת",
+      "gloss": "کرمی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:55.342703252Z",
+  "model": "glm-5.3"
+}

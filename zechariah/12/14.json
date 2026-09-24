@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":14,"ref":"zechariah 12:14","book":"zechariah","lang":"ckb","chapter":12,"translation":"هەموو خێوانەکانی ماوە، خێوان بە خێوان بە تەنیا، و ژنەکانیان بە تەنیا.","tokens":[{"surface":"כל","gloss":"هەموو"},{"surface":"המשפחות","gloss":"خێوانەکانی"},{"surface":"הנשארות","gloss":"ماوە"},{"surface":"משפחת","gloss":"خێوان"},{"surface":"משפחת","gloss":"بە خێوان"},{"surface":"לבד","gloss":"بە تەنیا"},{"surface":"ונשיהם","gloss":"و ژنەکانیان"},{"surface":"לבד","gloss":"بە تەنیا"}],"timestamp":"2026-09-24T13:44:56.265909844Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "هەموو خێوانەکانی ماوە، خێوان بە خێوان بە تەنیا، و ژنەکانیان بە تەنیا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "خێوانەکانی"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "ماوە"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خێوان"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "بە خێوان"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "بە تەنیا"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "و ژنەکانیان"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "بە تەنیا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:44:56.265909844Z",
+  "model": "glm-5.3"
+}

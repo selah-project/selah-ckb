@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":20,"ref":"1-kings 10:20","book":"1-kings","lang":"ckb","chapter":10,"translation":"و دوازدە شێر لەوێ ڕاوەستابوون لەسەر شەش پلەکە، لەم لایەوە و لەو لایە — لە هیچ شانشینێکدا وا نەکراوه‌.","tokens":[{"surface":"ושנים","gloss":"و دوو"},{"surface":"עשר","gloss":"دە"},{"surface":"אריים","gloss":"شێر"},{"surface":"עמדים","gloss":"ڕاوەستاو"},{"surface":"שם","gloss":"لەوێ"},{"surface":"על","gloss":"لەسەر"},{"surface":"שש","gloss":"شەش"},{"surface":"המעלות","gloss":"پلەکان"},{"surface":"מזה","gloss":"لەم لایەوە"},{"surface":"ומזה","gloss":"و لەو لایە"},{"surface":"לא","gloss":"نا"},{"surface":"נעשה","gloss":"کرا"},{"surface":"כן","gloss":"وا"},{"surface":"לכל","gloss":"بۆ هیچ"},{"surface":"ממלכות","gloss":"شانشین"}],"timestamp":"2026-09-24T11:49:56.989019443Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "و دوازدە شێر لەوێ ڕاوەستابوون لەسەر شەش پلەکە، لەم لایەوە و لەو لایە — لە هیچ شانشینێکدا وا نەکراوه‌.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دە"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "شێر"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ڕاوەستاو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شەش"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "پلەکان"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "لەم لایەوە"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "و لەو لایە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کرا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "وا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هیچ"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "شانشین"
+    }
+  ],
+  "timestamp": "2026-09-24T11:49:56.989019443Z",
+  "model": "glm-5.3"
+}

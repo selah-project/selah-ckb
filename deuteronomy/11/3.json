@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":3,"ref":"deuteronomy 11:3","book":"deuteronomy","lang":"ckb","chapter":11,"translation":"و ⟨את⟩ نیشانەکانی و ⟨את⟩ کارەکانی ئەوانەی لە ناو میتسرایم ⟨کرد⟩ بۆ فیڕعەون پاشای میتسرایم و بۆ هەموو زەویەکەی.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩"},{"surface":"אתתיו","gloss":"نیشانەکانی"},{"surface":"ואת","gloss":"و ⟨את⟩"},{"surface":"מעשיו","gloss":"کارەکانی"},{"surface":"אשר","gloss":"ئەوانەی"},{"surface":"עשה","gloss":"کرد"},{"surface":"בתוך","gloss":"لە ناو"},{"surface":"מצרים","gloss":"میتسرایم"},{"surface":"לפרעה","gloss":"بۆ فیڕعەون"},{"surface":"מלך","gloss":"پاشای"},{"surface":"מצרים","gloss":"میتسرایم"},{"surface":"ולכל","gloss":"و بۆ هەموو"},{"surface":"ארצו","gloss":"زەویەکەی"}],"timestamp":"2026-09-24T10:39:32.367562219Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ⟨את⟩ نیشانەکانی و ⟨את⟩ کارەکانی ئەوانەی لە ناو میتسرایم ⟨کرد⟩ بۆ فیڕعەون پاشای میتسرایم و بۆ هەموو زەویەکەی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "نیشانەکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "کارەکانی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوانەی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "لە ناو"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "بۆ فیڕعەون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "و بۆ هەموو"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "زەویەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T10:39:32.367562219Z",
+  "model": "glm-5.3"
+}

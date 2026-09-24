@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":5,"ref":"jeremiah 13:5","book":"jeremiah","lang":"ckb","chapter":13,"translation":"و ڕۆیشتم و لە میتسرایمدا لە پێرات ⟨את⟩ شاردەوەی، هەروەک یاهوە فەرمانی بۆم کردبوو.","tokens":[{"surface":"ואלך","gloss":"و ڕۆیشتم"},{"surface":"ואטמנהו","gloss":"و شاردەوەی"},{"surface":"בפרת","gloss":"لە پێرات"},{"surface":"כאשר","gloss":"هەروەک"},{"surface":"צוה","gloss":"فەرمانی کردبوو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אותי","gloss":"⟨את⟩","marks":"من"}],"timestamp":"2026-09-24T16:49:59.649446212Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ڕۆیشتم و لە میتسرایمدا لە پێرات ⟨את⟩ شاردەوەی، هەروەک یاهوە فەرمانی بۆم کردبوو.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "و ڕۆیشتم"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "و شاردەوەی"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "لە پێرات"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "هەروەک"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرمانی کردبوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "من"
+    }
+  ],
+  "timestamp": "2026-09-24T16:49:59.649446212Z",
+  "model": "glm-5.3"
+}

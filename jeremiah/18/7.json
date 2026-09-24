@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":7,"ref":"jeremiah 18:7","book":"jeremiah","lang":"ckb","chapter":18,"translation":"لە ساتێکدا قسە دەکەم لەسەر گەلێک و لەسەر شانشینێک، بۆ هەڵکەندن و بۆ ڕووخاندن و بۆ لەناوبردنی،","tokens":[{"surface":"רגע","gloss":"لە ساتێکدا"},{"surface":"אדבר","gloss":"قسە دەکەم"},{"surface":"על","gloss":"لەسەر"},{"surface":"גוי","gloss":"گەلێک"},{"surface":"ועל","gloss":"و لەسەر"},{"surface":"ממלכה","gloss":"شانشینێک"},{"surface":"לנתוש","gloss":"بۆ هەڵکەندن"},{"surface":"ולנתוץ","gloss":"و بۆ ڕووخاندن"},{"surface":"ולהאביד","gloss":"و بۆ لەناوبردنی"}],"timestamp":"2026-09-24T12:46:38.943766136Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "لە ساتێکدا قسە دەکەم لەسەر گەلێک و لەسەر شانشینێک، بۆ هەڵکەندن و بۆ ڕووخاندن و بۆ لەناوبردنی،",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "لە ساتێکدا"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "قسە دەکەم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "گەلێک"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "شانشینێک"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "بۆ هەڵکەندن"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "و بۆ ڕووخاندن"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "و بۆ لەناوبردنی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:46:38.943766136Z",
+  "model": "glm-5.3"
+}

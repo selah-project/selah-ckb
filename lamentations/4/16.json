@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":16,"ref":"lamentations 4:16","book":"lamentations","lang":"ckb","chapter":4,"translation":"ڕووی یاهوە لێکی جیای کردەوە، نا زیاتر بۆیان ڕوانێت؛ ڕووی کاهینانیان بەرز نەکردەوە، پیرانیان بەخشندەی نەکرد.","tokens":[{"surface":"פני","gloss":"ڕووی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"חלקם","gloss":"لێکی جیای کردەوە"},{"surface":"לא","gloss":"نا"},{"surface":"יוסיף","gloss":"زیاتر"},{"surface":"להביטם","gloss":"بۆیان ڕوانێت"},{"surface":"פני","gloss":"ڕووی"},{"surface":"כהנים","gloss":"کاهینان"},{"surface":"לא","gloss":"نا"},{"surface":"נשאו","gloss":"بەرزکردنەوە"},{"surface":"זקנים","gloss":"پیران"},{"surface":"לא","gloss":"نا"},{"surface":"חננו","gloss":"بەخشندە"}],"timestamp":"2026-09-24T14:53:36.517790125Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "ڕووی یاهوە لێکی جیای کردەوە، نا زیاتر بۆیان ڕوانێت؛ ڕووی کاهینانیان بەرز نەکردەوە، پیرانیان بەخشندەی نەکرد.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "لێکی جیای کردەوە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "زیاتر"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "بۆیان ڕوانێت"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاهینان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "بەرزکردنەوە"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "پیران"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "بەخشندە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:53:36.517790125Z",
+  "model": "glm-5.3"
+}

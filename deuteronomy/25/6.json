@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":6,"ref":"deuteronomy 25:6","book":"deuteronomy","lang":"ckb","chapter":25,"translation":"و دەبێت کە یەکەمزادە کە دەیبوێت لە ناوی برای مردوو هەڵدەستێت، و ناوی لە ئیسرائیل نەسڕدرێتەوە.","tokens":[{"surface":"והיה","gloss":"و دەبێت"},{"surface":"הבכור","gloss":"یەکەمزادە"},{"surface":"אשר","gloss":"کە"},{"surface":"תלד","gloss":"دەیبوێت"},{"surface":"יקום","gloss":"هەڵدەستێت"},{"surface":"על","gloss":"لە"},{"surface":"שם","gloss":"ناوی"},{"surface":"אחיו","gloss":"برای"},{"surface":"המת","gloss":"مردوو"},{"surface":"ולא","gloss":"و نە"},{"surface":"ימחה","gloss":"سڕدرێتەوە"},{"surface":"שמו","gloss":"ناوی"},{"surface":"מישראל","gloss":"لە ئیسرائیل"}],"timestamp":"2026-09-24T10:46:10.650572790Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و دەبێت کە یەکەمزادە کە دەیبوێت لە ناوی برای مردوو هەڵدەستێت، و ناوی لە ئیسرائیل نەسڕدرێتەوە.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "یەکەمزادە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "دەیبوێت"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "هەڵدەستێت"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "برای"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مردوو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "سڕدرێتەوە"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "لە ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T10:46:10.650572790Z",
+  "model": "glm-5.3"
+}

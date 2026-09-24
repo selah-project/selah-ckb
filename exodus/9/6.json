@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":6,"ref":"exodus 9:6","book":"exodus","lang":"ckb","chapter":9,"translation":"و یاهوە ڕۆژی دوایی ⟨את⟩ ئەم وشەیەی ئەنجام دا، و هەموو ماڵاتی میتسرایم مردن، و لە ماڵاتی کوڕانی ییسرائیل یەکیش نەمرد.","tokens":[{"surface":"ויעש","gloss":"ئەنجامی دا"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەم وشەیە"},{"surface":"הדבר","gloss":"ئەم وشەیە"},{"surface":"הזה","gloss":"ئەمەی"},{"surface":"ממחרת","gloss":"ڕۆژی دوایی"},{"surface":"וימת","gloss":"و مردن"},{"surface":"כל","gloss":"هەموو"},{"surface":"מקנה","gloss":"ماڵات"},{"surface":"מצרים","gloss":"میتسرایم"},{"surface":"וממקנה","gloss":"و لە ماڵاتی"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ییسرائیل"},{"surface":"לא","gloss":"نە"},{"surface":"מת","gloss":"مرد"},{"surface":"אחד","gloss":"یەکیش"}],"timestamp":"2026-09-24T09:40:37.216761992Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و یاهوە ڕۆژی دوایی ⟨את⟩ ئەم وشەیەی ئەنجام دا، و هەموو ماڵاتی میتسرایم مردن، و لە ماڵاتی کوڕانی ییسرائیل یەکیش نەمرد.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ئەنجامی دا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم وشەیە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئەم وشەیە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمەی"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ڕۆژی دوایی"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "و مردن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ماڵات"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "و لە ماڵاتی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکیش"
+    }
+  ],
+  "timestamp": "2026-09-24T09:40:37.216761992Z",
+  "model": "glm-5.3"
+}

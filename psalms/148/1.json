@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 148:1","book":"psalms","lang":"ckb","chapter":148,"translation":"ستایش بکەن یاه، ستایش بکەن یاهوەیە لە ⟨את⟩ ئاسمانەکانەوە، ستایشی بکەن لە بەرزایەکاندا.","tokens":[{"surface":"הללו","gloss":"ستایش بکەن"},{"surface":"יה","gloss":"یاه"},{"surface":"הללו","gloss":"ستایش بکەن"},{"surface":"את","gloss":"⟨את⟩","marks":"یاهوە"},{"surface":"יהוה","gloss":"یاهوەیە"},{"surface":"מן","gloss":"لە …ەوە"},{"surface":"השמים","gloss":"ئاسمانەکان"},{"surface":"הללוהו","gloss":"ستایشی بکەن"},{"surface":"במרומים","gloss":"لە بەرزایەکاندا"}],"timestamp":"2026-09-24T14:21:29.739221198Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 148,
+  "translation": "ستایش بکەن یاه، ستایش بکەن یاهوەیە لە ⟨את⟩ ئاسمانەکانەوە، ستایشی بکەن لە بەرزایەکاندا.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستایش بکەن"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستایش بکەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوەیە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە …ەوە"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکان"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ستایشی بکەن"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "لە بەرزایەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:21:29.739221198Z",
+  "model": "glm-5.3"
+}

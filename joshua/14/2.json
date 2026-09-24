@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":2,"ref":"joshua 14:2","book":"joshua","lang":"ckb","chapter":14,"translation":"بە قوورعاشی میراتەکەیان، وەک یاهوە بە دەستی مۆشە فەرموویەتی، بۆ نۆ هۆزەکە و نیوەی هۆزەکە.","tokens":[{"surface":"בגורל","gloss":"بە قوورعاشی"},{"surface":"נחלתם","gloss":"میراتەکەیان"},{"surface":"כאשר","gloss":"وەک"},{"surface":"צוה","gloss":"فەرموویەتی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ביד","gloss":"بە دەستی"},{"surface":"משה","gloss":"مۆشە"},{"surface":"לתשעת","gloss":"بۆ نۆی"},{"surface":"המטות","gloss":"هۆزەکە"},{"surface":"וחצי","gloss":"و نیوەی"},{"surface":"המטה","gloss":"هۆزەکە"}],"timestamp":"2026-09-24T10:58:08.380613073Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 14:2",
+  "book": "joshua",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "بە قوورعاشی میراتەکەیان، وەک یاهوە بە دەستی مۆشە فەرموویەتی، بۆ نۆ هۆزەکە و نیوەی هۆزەکە.",
+  "tokens": [
+    {
+      "surface": "בגורל",
+      "gloss": "بە قوورعاشی"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "میراتەکەیان"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فەرموویەتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "بۆ نۆی"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "هۆزەکە"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "و نیوەی"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "هۆزەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:58:08.380613073Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 62:2","book":"psalms","lang":"ckb","chapter":62,"translation":"تەنها بۆ ئێلۆهیم گیانم بێدەنگە؛ لە ئەوە ڕزگاریی من ⟨دێت⟩.","tokens":[{"surface":"אך","gloss":"تەنها"},{"surface":"אל","gloss":"بۆ"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"דומיה","gloss":"بێدەنگە"},{"surface":"נפשי","gloss":"گیانم"},{"surface":"ממנו","gloss":"لە ئەوە"},{"surface":"ישועתי","gloss":"ڕزگاریی من"}],"timestamp":"2026-09-24T14:01:29.178896107Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 62,
+  "translation": "تەنها بۆ ئێلۆهیم گیانم بێدەنگە؛ لە ئەوە ڕزگاریی من ⟨دێت⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "بێدەنگە"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانم"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لە ئەوە"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ڕزگاریی من"
+    }
+  ],
+  "timestamp": "2026-09-24T14:01:29.178896107Z",
+  "model": "glm-5.3"
+}

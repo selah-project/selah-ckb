@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-chronicles 27:2","book":"1-chronicles","lang":"ckb","chapter":27,"translation":"لەسەر بەشەکەی یەکەم، بۆ مانگی یەکەم، یاشوبەم ⟨یاشۆبەعام⟩ کوڕی زەبدیئێل؛ و لەسەر بەشەکەی بیست و چوار هەزار.","tokens":[{"surface":"על","gloss":"لەسەر"},{"surface":"המחלקת","gloss":"بەشەکەی"},{"surface":"הראשונה","gloss":"یەکەم"},{"surface":"לחדש","gloss":"بۆ مانگی"},{"surface":"הראשון","gloss":"یەکەم"},{"surface":"ישבעם","gloss":"یاشوبەم ⟨یاشۆبەعام⟩"},{"surface":"בן","gloss":"کوڕی"},{"surface":"זבדיאל","gloss":"زەبدیئێل"},{"surface":"ועל","gloss":"و لەسەر"},{"surface":"מחלקתו","gloss":"بەشەکەی"},{"surface":"עשרים","gloss":"بیست"},{"surface":"וארבעה","gloss":"و چوار"},{"surface":"אלף","gloss":"هەزار"}],"timestamp":"2026-09-24T15:31:54.087658057Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 27:2",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "لەسەر بەشەکەی یەکەم، بۆ مانگی یەکەم، یاشوبەم ⟨یاشۆبەعام⟩ کوڕی زەبدیئێل؛ و لەسەر بەشەکەی بیست و چوار هەزار.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המחלקת",
+      "gloss": "بەشەکەی"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "بۆ مانگی"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "یاشوبەم ⟨یاشۆبەعام⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "זבדיאל",
+      "gloss": "زەبدیئێل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "بەشەکەی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "و چوار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    }
+  ],
+  "timestamp": "2026-09-24T15:31:54.087658057Z",
+  "model": "glm-5.3"
+}

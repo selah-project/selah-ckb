@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":38,"ref":"genesis 31:38","book":"genesis","lang":"ckb","chapter":31,"translation":"ئەم بیست ساڵە من لەگەڵ تۆم؛ مێڕالەکانت و بزنەکانت کەڵەکەیان نەکەوت، و قوچکانت نەخواردم.","tokens":[{"surface":"זה","gloss":"ئەم"},{"surface":"עשרים","gloss":"بیست"},{"surface":"שנה","gloss":"ساڵە"},{"surface":"אנכי","gloss":"من"},{"surface":"עמך","gloss":"لەگەڵ تۆم"},{"surface":"רחליך","gloss":"مێڕالەکانت"},{"surface":"ועזיך","gloss":"و بزنەکانت"},{"surface":"לא","gloss":"نە"},{"surface":"שכלו","gloss":"کەڵەکەیان کەوت"},{"surface":"ואילי","gloss":"و قوچکانی"},{"surface":"צאנך","gloss":"مەڕەکانت"},{"surface":"לא","gloss":"نە"},{"surface":"אכלתי","gloss":"خواردم"}],"timestamp":"2026-09-24T09:24:56.559081548Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 31:38",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "ئەم بیست ساڵە من لەگەڵ تۆم؛ مێڕالەکانت و بزنەکانت کەڵەکەیان نەکەوت، و قوچکانت نەخواردم.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵە"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "من"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆم"
+    },
+    {
+      "surface": "רחליך",
+      "gloss": "مێڕالەکانت"
+    },
+    {
+      "surface": "ועזיך",
+      "gloss": "و بزنەکانت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "שכלו",
+      "gloss": "کەڵەکەیان کەوت"
+    },
+    {
+      "surface": "ואילי",
+      "gloss": "و قوچکانی"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "مەڕەکانت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "خواردم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:24:56.559081548Z",
+  "model": "glm-5.3"
+}

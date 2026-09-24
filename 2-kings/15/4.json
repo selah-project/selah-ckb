@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":4,"ref":"2-kings 15:4","book":"2-kings","lang":"ckb","chapter":15,"translation":"تەنها بامەکان نەسڕدرانەوە؛ هێشتا گەلەکە لە بامەکاندا قوربانی دەکات و سوپار دەکات.","tokens":[{"surface":"רק","gloss":"تەنها"},{"surface":"הבמות","gloss":"بامەکان"},{"surface":"לא","gloss":"نە"},{"surface":"סרו","gloss":"سڕدرانەوە"},{"surface":"עוד","gloss":"هێشتا"},{"surface":"העם","gloss":"گەلەکە"},{"surface":"מזבחים","gloss":"قوربانی دەکەن"},{"surface":"ומקטרים","gloss":"و سوپار دەکەن"},{"surface":"בבמות","gloss":"لە بامەکاندا"}],"timestamp":"2026-09-24T12:05:35.871431364Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "تەنها بامەکان نەسڕدرانەوە؛ هێشتا گەلەکە لە بامەکاندا قوربانی دەکات و سوپار دەکات.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "بامەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "سڕدرانەوە"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هێشتا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "گەلەکە"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "قوربانی دەکەن"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "و سوپار دەکەن"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "لە بامەکاندا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:05:35.871431364Z",
+  "model": "glm-5.3"
+}

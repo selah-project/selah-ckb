@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":3,"ref":"proverbs 16:3","book":"proverbs","lang":"ckb","chapter":16,"translation":"کارەکانت بۆ یاهوە بهێنە، و بیرۆکەکانت پتەو دەبن.","tokens":[{"surface":"גל","gloss":"بهێنە"},{"surface":"אל","gloss":"بۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"מעשיך","gloss":"کارەکانت"},{"surface":"ויכנו","gloss":"و پتەو دەبن"},{"surface":"מחשבתיך","gloss":"بیرۆکەکانت"}],"timestamp":"2026-09-24T14:27:21.492218011Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "کارەکانت بۆ یاهوە بهێنە، و بیرۆکەکانت پتەو دەبن.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "بهێنە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "کارەکانت"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "و پتەو دەبن"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "بیرۆکەکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:27:21.492218011Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":17,"ref":"judges 15:17","book":"judges","lang":"ckb","chapter":15,"translation":"بوو کاتێک تەواوی کرد لە قسەکردن، شەویلگەکەی لە دەستی فڕشتە خست، و ناوبردنی ئەو شوێنە ڕەمەت لەخی.","tokens":[{"surface":"ויהי","gloss":"بوو"},{"surface":"ככלתו","gloss":"کاتێک تەواوی کرد"},{"surface":"לדבר","gloss":"لە قسەکردن"},{"surface":"וישלך","gloss":"فڕشتە خست"},{"surface":"הלחי","gloss":"شەویلگەکە"},{"surface":"מידו","gloss":"لە دەستی"},{"surface":"ויקרא","gloss":"ناوی نا"},{"surface":"למקום","gloss":"بۆ شوێن"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"רמת","gloss":"ڕەمەت"},{"surface":"לחי","gloss":"لەخی"}],"timestamp":"2026-09-24T11:10:59.877055631Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 15:17",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "بوو کاتێک تەواوی کرد لە قسەکردن، شەویلگەکەی لە دەستی فڕشتە خست، و ناوبردنی ئەو شوێنە ڕەمەت لەخی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "کاتێک تەواوی کرد"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "لە قسەکردن"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "فڕشتە خست"
+    },
+    {
+      "surface": "הלחי",
+      "gloss": "شەویلگەکە"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "لە دەستی"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ناوی نا"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "بۆ شوێن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ڕەمەت"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لەخی"
+    }
+  ],
+  "timestamp": "2026-09-24T11:10:59.877055631Z",
+  "model": "glm-5.3"
+}

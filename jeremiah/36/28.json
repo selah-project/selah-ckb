@@ -1,1 +1,98 @@
-{"tier":"glm-5.2","verse":28,"ref":"jeremiah 36:28","book":"jeremiah","lang":"ckb","chapter":36,"translation":"دواوە، بۆ خۆت بەرگێکی دیکە وەرگرە و لەسەری ⟨את⟩ هەموو ئەو وشە یەکەمانە بنووسە کە لەسەر بەرگی یەکەمدا بوون، کە یەهۆیاکیم پاشای یەهودا سووتاندی.","tokens":[{"surface":"שוב","gloss":"دواوە"},{"surface":"קח","gloss":"وەرگرە"},{"surface":"לך","gloss":"بۆ خۆت"},{"surface":"מגלה","gloss":"بەرگێک"},{"surface":"אחרת","gloss":"دیکە"},{"surface":"וכתב","gloss":"و بنووسە"},{"surface":"עליה","gloss":"لەسەری"},{"surface":"את","gloss":"⟨את⟩","marks":"هەموو وشە یەکەمانە"},{"surface":"כל","gloss":"هەموو"},{"surface":"הדברים","gloss":"وشەکان"},{"surface":"הראשנים","gloss":"یەکەمانە"},{"surface":"אשר","gloss":"کە"},{"surface":"היו","gloss":"بوون"},{"surface":"על","gloss":"لەسەر"},{"surface":"המגלה","gloss":"بەرگی"},{"surface":"הראשנה","gloss":"یەکەم"},{"surface":"אשר","gloss":"کە"},{"surface":"שרף","gloss":"سووتاندی"},{"surface":"יהויקים","gloss":"یەهۆیاکیم"},{"surface":"מלך","gloss":"پاشای"},{"surface":"יהודה","gloss":"یەهودا"}],"timestamp":"2026-09-24T12:56:41.464324149Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 36:28",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "دواوە، بۆ خۆت بەرگێکی دیکە وەرگرە و لەسەری ⟨את⟩ هەموو ئەو وشە یەکەمانە بنووسە کە لەسەر بەرگی یەکەمدا بوون، کە یەهۆیاکیم پاشای یەهودا سووتاندی.",
+  "tokens": [
+    {
+      "surface": "שוב",
+      "gloss": "دواوە"
+    },
+    {
+      "surface": "קח",
+      "gloss": "وەرگرە"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ خۆت"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "بەرگێک"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دیکە"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "و بنووسە"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لەسەری"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو وشە یەکەمانە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "وشەکان"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "یەکەمانە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "بەرگی"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "سووتاندی"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "یەهۆیاکیم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:56:41.464324149Z",
+  "model": "glm-5.3"
+}

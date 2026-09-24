@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":39,"ref":"genesis 24:39","book":"genesis","lang":"ckb","chapter":24,"translation":"وتم بە خاوەنەکەم: ڕەنگە ئەو ژنە دوای من نەیەت.","tokens":[{"surface":"ואמר","gloss":"وتم"},{"surface":"אל","gloss":"بە"},{"surface":"אדני","gloss":"خاوەنەکەم"},{"surface":"אלי","gloss":"ڕەنگە"},{"surface":"לא","gloss":"نا"},{"surface":"תלך","gloss":"نەیەت"},{"surface":"האשה","gloss":"ئەو ژنە"},{"surface":"אחרי","gloss":"دوای من"}],"timestamp":"2026-09-24T09:21:12.644115601Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "وتم بە خاوەنەکەم: ڕەنگە ئەو ژنە دوای من نەیەت.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "خاوەنەکەم"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ڕەنگە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "نەیەت"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ئەو ژنە"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:21:12.644115601Z",
+  "model": "glm-5.3"
+}

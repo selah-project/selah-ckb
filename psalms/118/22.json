@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":22,"ref":"psalms 118:22","book":"psalms","lang":"ckb","chapter":118,"translation":"بەردێک کە بەنداکان پشتگوێیان خستووە بووە بە سەرەی گۆشە.","tokens":[{"surface":"אבן","gloss":"بەردێک"},{"surface":"מאסו","gloss":"پشتگوێیان خستووە"},{"surface":"הבונים","gloss":"بەنداکان"},{"surface":"היתה","gloss":"بووە"},{"surface":"לראש","gloss":"بە سەرەی"},{"surface":"פנה","gloss":"گۆشە"}],"timestamp":"2026-09-24T14:14:55.571469045Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 118,
+  "translation": "بەردێک کە بەنداکان پشتگوێیان خستووە بووە بە سەرەی گۆشە.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "بەردێک"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "پشتگوێیان خستووە"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "بەنداکان"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بووە"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "بە سەرەی"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "گۆشە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:55.571469045Z",
+  "model": "glm-5.3"
+}

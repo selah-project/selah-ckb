@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":28,"ref":"genesis 9:28","book":"genesis","lang":"ckb","chapter":9,"translation":"و نووح لە دوای تۆفانەکە سێ سەد ساڵ و پەنجا ساڵ ژیا.","tokens":[{"surface":"ויחי","gloss":"و ژیا"},{"surface":"נח","gloss":"نووح"},{"surface":"אחר","gloss":"لە دوای"},{"surface":"המבול","gloss":"تۆفانەکە"},{"surface":"שלש","gloss":"سێ"},{"surface":"מאות","gloss":"سەد"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"וחמשים","gloss":"و پەنجا"},{"surface":"שנה","gloss":"ساڵ"}],"timestamp":"2026-09-24T09:12:33.126925368Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و نووح لە دوای تۆفانەکە سێ سەد ساڵ و پەنجا ساڵ ژیا.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "و ژیا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نووح"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "تۆفانەکە"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "و پەنجا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    }
+  ],
+  "timestamp": "2026-09-24T09:12:33.126925368Z",
+  "model": "glm-5.3"
+}

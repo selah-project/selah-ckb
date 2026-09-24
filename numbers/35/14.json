@@ -1,1 +1,75 @@
-{"tier":"glm-5.2","verse":14,"ref":"numbers 35:14","book":"numbers","lang":"ckb","chapter":35,"translation":"⟨את⟩ سێ شارەکە لەوپەڕی ئوردەنەوە دەدەن، و ⟨את⟩ سێ شارەکە لە زەوی کەنەئان دەدەن، شارەکانی پەناهەندە دەبن.","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"سێ شارەکە"},{"surface":"שלש","gloss":"سێ"},{"surface":"הערים","gloss":"شارەکە"},{"surface":"תתנו","gloss":"دەدەن"},{"surface":"מעבר","gloss":"لەوپەڕ"},{"surface":"לירדן","gloss":"ئوردەنەوە"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"سێ شارەکە"},{"surface":"שלש","gloss":"سێ"},{"surface":"הערים","gloss":"شارەکە"},{"surface":"תתנו","gloss":"دەدەن"},{"surface":"בארץ","gloss":"لە زەوی"},{"surface":"כנען","gloss":"کەنەئان"},{"surface":"ערי","gloss":"شارەکانی"},{"surface":"מקלט","gloss":"پەناهەندە"},{"surface":"תהיינה","gloss":"دەبن"}],"timestamp":"2026-09-24T10:32:24.193337310Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 35:14",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "⟨את⟩ سێ شارەکە لەوپەڕی ئوردەنەوە دەدەن، و ⟨את⟩ سێ شارەکە لە زەوی کەنەئان دەدەن، شارەکانی پەناهەندە دەبن.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سێ شارەکە"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "دەدەن"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "لەوپەڕ"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "ئوردەنەوە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سێ شارەکە"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "دەدەن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کەنەئان"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شارەکانی"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "پەناهەندە"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "دەبن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:32:24.193337310Z",
+  "model": "glm-5.3"
+}

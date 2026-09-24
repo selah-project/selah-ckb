@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 8:2","book":"psalms","lang":"ckb","chapter":8,"translation":"یاهوە، ئادۆنایمان، چەند شکۆدارە ناوت لە هەموو زەویدا، کە شکۆت داناوەت لەسەر ئاسمانەکان.","tokens":[{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אדנינו","gloss":"ئادۆنایمان"},{"surface":"מה","gloss":"چەند"},{"surface":"אדיר","gloss":"شکۆدارە"},{"surface":"שמך","gloss":"ناوت"},{"surface":"בכל","gloss":"لە هەموو"},{"surface":"הארץ","gloss":"زەوی"},{"surface":"אשר","gloss":"کە"},{"surface":"תנה","gloss":"داناوەت"},{"surface":"הודך","gloss":"شکۆی تۆ"},{"surface":"על","gloss":"لەسەر"},{"surface":"השמים","gloss":"ئاسمانەکان"}],"timestamp":"2026-09-24T13:49:09.521627472Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "یاهوە، ئادۆنایمان، چەند شکۆدارە ناوت لە هەموو زەویدا، کە شکۆت داناوەت لەسەر ئاسمانەکان.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ئادۆنایمان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چەند"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "شکۆدارە"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ناوت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "داناوەت"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "شکۆی تۆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ئاسمانەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:49:09.521627472Z",
+  "model": "glm-5.3"
+}

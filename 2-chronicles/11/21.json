@@ -1,1 +1,102 @@
-{"tier":"glm-5.2","verse":21,"ref":"2-chronicles 11:21","book":"2-chronicles","lang":"ckb","chapter":11,"translation":"ڕەحەبەعەم ⟨את⟩ مەعاخە کچی ئەڤشالۆمی خۆش دەویست لە هەموو ژنەکانی و پێیلەگێشەکانی، چونکە هەشت لە ژنی هێنا و شەست پێیلەگێش، و بیست و هەشت کوڕ و شەست کچی بوو.","tokens":[{"surface":"ויאהב","gloss":"خۆش دەویست"},{"surface":"רחבעם","gloss":"ڕەحەبەعەم"},{"surface":"את","gloss":"⟨את⟩","marks":"مەعاخە"},{"surface":"מעכה","gloss":"مەعاخە"},{"surface":"בת","gloss":"کچی"},{"surface":"אבשלום","gloss":"ئەڤشالۆم"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"נשיו","gloss":"ژنەکانی"},{"surface":"ופילגשיו","gloss":"و پێیلەگێشەکانی"},{"surface":"כי","gloss":"چونکە"},{"surface":"נשים","gloss":"ژن"},{"surface":"שמונה","gloss":"هەشت"},{"surface":"עשרה","gloss":"دە"},{"surface":"נשא","gloss":"هێنا"},{"surface":"ופילגשים","gloss":"و پێیلەگێش"},{"surface":"ששים","gloss":"شەست"},{"surface":"ויולד","gloss":"بوو"},{"surface":"עשרים","gloss":"بیست"},{"surface":"ושמונה","gloss":"و هەشت"},{"surface":"בנים","gloss":"کوڕ"},{"surface":"וששים","gloss":"و شەست"},{"surface":"בנות","gloss":"کچ"}],"timestamp":"2026-09-24T16:31:48.507021073Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 11:21",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "ڕەحەبەعەم ⟨את⟩ مەعاخە کچی ئەڤشالۆمی خۆش دەویست لە هەموو ژنەکانی و پێیلەگێشەکانی، چونکە هەشت لە ژنی هێنا و شەست پێیلەگێش، و بیست و هەشت کوڕ و شەست کچی بوو.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "خۆش دەویست"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ڕەحەبەعەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەعاخە"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مەعاخە"
+    },
+    {
+      "surface": "בת",
+      "gloss": "کچی"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ئەڤشالۆم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ژنەکانی"
+    },
+    {
+      "surface": "ופילגשיו",
+      "gloss": "و پێیلەگێشەکانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ژن"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دە"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "ופילגשים",
+      "gloss": "و پێیلەگێش"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شەست"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیست"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "و هەشت"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "کوڕ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "و شەست"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچ"
+    }
+  ],
+  "timestamp": "2026-09-24T16:31:48.507021073Z",
+  "model": "glm-5.3"
+}

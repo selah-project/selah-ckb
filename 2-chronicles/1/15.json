@@ -1,1 +1,76 @@
-{"tier":"glm-5.2","verse":15,"ref":"2-chronicles 1:15","book":"2-chronicles","lang":"ckb","chapter":1,"translation":"و پاشا ⟨את⟩ زێوەکە و ⟨את⟩ زێڕەکە لە ئوروشەلێمدا وەک بەرد دا، و ⟨את⟩ سیدرەکانیشی وەک هەنجیرە کێوییەکانی دەشتایی دا، بە زۆری.","tokens":[{"surface":"ויתן","gloss":"و دا"},{"surface":"המלך","gloss":"پاشا"},{"surface":"את","gloss":"⟨את⟩","marks":"زێوەکە"},{"surface":"הכסף","gloss":"زێوەکە"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"زێڕەکە"},{"surface":"הזהב","gloss":"زێڕەکە"},{"surface":"בירושלם","gloss":"لە ئوروشەلێمدا"},{"surface":"כאבנים","gloss":"وەک بەرد"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"سیدرەکان"},{"surface":"הארזים","gloss":"سیدرەکان"},{"surface":"נתן","gloss":"دا"},{"surface":"כשקמים","gloss":"وەک هەنجیرە کێوییەکان"},{"surface":"אשר","gloss":"کە"},{"surface":"בשפלה","gloss":"لە دەشتاییدا"},{"surface":"לרב","gloss":"بە زۆری"}],"timestamp":"2026-09-24T16:31:47.219237821Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و پاشا ⟨את⟩ زێوەکە و ⟨את⟩ زێڕەکە لە ئوروشەلێمدا وەک بەرد دا، و ⟨את⟩ سیدرەکانیشی وەک هەنجیرە کێوییەکانی دەشتایی دا، بە زۆری.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زێوەکە"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "زێوەکە"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زێڕەکە"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زێڕەکە"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "لە ئوروشەلێمدا"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "وەک بەرد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "سیدرەکان"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "سیدرەکان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "وەک هەنجیرە کێوییەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "لە دەشتاییدا"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "بە زۆری"
+    }
+  ],
+  "timestamp": "2026-09-24T16:31:47.219237821Z",
+  "model": "glm-5.3"
+}

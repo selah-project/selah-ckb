@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":4,"ref":"genesis 34:4","book":"genesis","lang":"ckb","chapter":34,"translation":"شێکەم بە حەمۆری باوکی وت: بۆم بگرە ⟨את⟩ ئەم کچە بۆ ژن.","tokens":[{"surface":"ויאמר","gloss":"وت"},{"surface":"שכם","gloss":"شێکەم"},{"surface":"אל","gloss":"بە"},{"surface":"חמור","gloss":"حەمۆری"},{"surface":"אביו","gloss":"باوکی"},{"surface":"לאמר","gloss":"وکو"},{"surface":"קח","gloss":"بگرە"},{"surface":"לי","gloss":"بۆم"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەم کچە"},{"surface":"הילדה","gloss":"ئەم کچە"},{"surface":"הזאת","gloss":"ئەم"},{"surface":"לאשה","gloss":"بۆ ژن"}],"timestamp":"2026-09-24T09:27:45.319905532Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "شێکەم بە حەمۆری باوکی وت: بۆم بگرە ⟨את⟩ ئەم کچە بۆ ژن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وت"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شێکەم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حەمۆری"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "باوکی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وکو"
+    },
+    {
+      "surface": "קח",
+      "gloss": "بگرە"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم کچە"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "ئەم کچە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بۆ ژن"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:45.319905532Z",
+  "model": "glm-5.3"
+}

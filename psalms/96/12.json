@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 96:12","book":"psalms","lang":"ckb","chapter":96,"translation":"کێڵگە فری بکات و ھەموو ئەوەی لە ناویدایە؛ ئەوکات ھەموو دارەکانی دارستان ھەنگاو دەنێن.","tokens":[{"surface":"יעלז","gloss":"فری بکات"},{"surface":"שדי","gloss":"کێڵگە"},{"surface":"וכל","gloss":"و ھەموو"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"בו","gloss":"لە ناویدایە"},{"surface":"אז","gloss":"ئەوکات"},{"surface":"ירננו","gloss":"ھەنگاو دەنێن"},{"surface":"כל","gloss":"ھەموو"},{"surface":"עצי","gloss":"دارەکانی"},{"surface":"יער","gloss":"دارستان"}],"timestamp":"2026-09-24T14:09:04.337072978Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 96,
+  "translation": "کێڵگە فری بکات و ھەموو ئەوەی لە ناویدایە؛ ئەوکات ھەموو دارەکانی دارستان ھەنگاو دەنێن.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "فری بکات"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کێڵگە"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "و ھەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "لە ناویدایە"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ئەوکات"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ھەنگاو دەنێن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ھەموو"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "دارەکانی"
+    },
+    {
+      "surface": "יער",
+      "gloss": "دارستان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:09:04.337072978Z",
+  "model": "glm-5.3"
+}

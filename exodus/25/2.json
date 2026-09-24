@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":2,"ref":"exodus 25:2","book":"exodus","lang":"ckb","chapter":25,"translation":"قسە لەگەڵ کوڕانی ئیسرائیل بکە کە بەخششێک بۆ من بگرن؛ لە ⟨את⟩ هەموو پیاوێک کی دڵی خۆبەخش دەکاتێ، ⟨את⟩ بەخششی من بگرن.","tokens":[{"surface":"דבר","gloss":"قسە بکە"},{"surface":"אל","gloss":"لەگەڵ"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"ויקחו","gloss":"و بگرن"},{"surface":"לי","gloss":"بۆ من"},{"surface":"תרומה","gloss":"بەخششێک"},{"surface":"מאת","gloss":"لە ⟨את⟩"},{"surface":"כל","gloss":"هەموو"},{"surface":"איש","gloss":"پیاوێک"},{"surface":"אשר","gloss":"کی"},{"surface":"ידבנו","gloss":"خۆبەخش دەکاتێ"},{"surface":"לבו","gloss":"دڵی"},{"surface":"תקחו","gloss":"بگرن"},{"surface":"את","gloss":"⟨את⟩","marks":"بەخششی من"},{"surface":"תרומתי","gloss":"بەخششی من"}],"timestamp":"2026-09-24T09:49:28.360510575Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "قسە لەگەڵ کوڕانی ئیسرائیل بکە کە بەخششێک بۆ من بگرن؛ لە ⟨את⟩ هەموو پیاوێک کی دڵی خۆبەخش دەکاتێ، ⟨את⟩ بەخششی من بگرن.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "قسە بکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "و بگرن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بۆ من"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "بەخششێک"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "لە ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کی"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "خۆبەخش دەکاتێ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "بگرن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەخششی من"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "بەخششی من"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:28.360510575Z",
+  "model": "glm-5.3"
+}

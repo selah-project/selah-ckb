@@ -1,1 +1,29 @@
-{"tier":"glm-5.2","verse":16,"ref":"numbers 7:16","book":"numbers","lang":"ckb","chapter":7,"translation":"بزنێکی نەر، یەکێک، بۆ قوربانیی گوناه.","tokens":[{"surface":"שעיר","gloss":"بزنێکی نەر"},{"surface":"עזים","gloss":"بزن"},{"surface":"אחד","gloss":"یەکێک"},{"surface":"לחטאת","gloss":"بۆ قوربانیی گوناه"}],"timestamp":"2026-09-24T10:15:32.165957518Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "بزنێکی نەر، یەکێک، بۆ قوربانیی گوناه.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بزنێکی نەر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بزن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەکێک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "بۆ قوربانیی گوناه"
+    }
+  ],
+  "timestamp": "2026-09-24T10:15:32.165957518Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":10,"ref":"psalms 139:10","book":"psalms","lang":"ckb","chapter":139,"translation":"هەر لەوێش دەستت ڕێنماییم دەکات و دەستە ڕاستت دەنگم دەگرێت.","tokens":[{"surface":"גם","gloss":"هەر...ش"},{"surface":"שם","gloss":"لەوێ"},{"surface":"ידך","gloss":"دەستت"},{"surface":"תנחני","gloss":"ڕێنماییم دەکات"},{"surface":"ותאחזני","gloss":"و دەنگم دەگرێت"},{"surface":"ימינך","gloss":"دەستە ڕاستت"}],"timestamp":"2026-09-24T14:19:20.676840263Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 139,
+  "translation": "هەر لەوێش دەستت ڕێنماییم دەکات و دەستە ڕاستت دەنگم دەگرێت.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هەر...ش"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "دەستت"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ڕێنماییم دەکات"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "و دەنگم دەگرێت"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "دەستە ڕاستت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:20.676840263Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":23,"ref":"ezekiel 13:23","book":"ezekiel","lang":"ckb","chapter":13,"translation":"بۆیە پووچەڵی نایبینن و فاڵ ئیتر نافاڵگرن و ⟨את⟩ گەلەکەم لە دەستتان ڕزگار دەکەم و دەزانن کە من یاهوەم","tokens":[{"surface":"לכן","gloss":"بۆیە"},{"surface":"שוא","gloss":"پووچەڵی"},{"surface":"לא","gloss":"نا"},{"surface":"תחזינה","gloss":"نایبینن"},{"surface":"וקסם","gloss":"و فاڵ"},{"surface":"לא","gloss":"نا"},{"surface":"תקסמנה","gloss":"نافاڵگرن"},{"surface":"עוד","gloss":"ئیتر"},{"surface":"והצלתי","gloss":"و ڕزگار دەکەم"},{"surface":"את","gloss":"⟨את⟩","marks":"گەلەکەم"},{"surface":"עמי","gloss":"گەلەکەم"},{"surface":"מידכן","gloss":"لە دەستتان"},{"surface":"וידעתן","gloss":"و دەزانن"},{"surface":"כי","gloss":"کە"},{"surface":"אני","gloss":"من"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T13:07:50.655389651Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 13:23",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "بۆیە پووچەڵی نایبینن و فاڵ ئیتر نافاڵگرن و ⟨את⟩ گەلەکەم لە دەستتان ڕزگار دەکەم و دەزانن کە من یاهوەم",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "بۆیە"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "پووچەڵی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "نایبینن"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "و فاڵ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תקסמנה",
+      "gloss": "نافاڵگرن"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "و ڕزگار دەکەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گەلەکەم"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "گەلەکەم"
+    },
+    {
+      "surface": "מידכן",
+      "gloss": "لە دەستتان"
+    },
+    {
+      "surface": "וידעתן",
+      "gloss": "و دەزانن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:07:50.655389651Z",
+  "model": "glm-5.3"
+}

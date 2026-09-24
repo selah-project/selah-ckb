@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-chronicles 28:3","book":"1-chronicles","lang":"ckb","chapter":28,"translation":"بەڵام ئێلۆهیم پێم فەرموو: تۆ ماڵێک بۆ ناوی من نابنی، چونکە تۆ پیاوێکی شەڕی و خوێنت ڕشتووە.","tokens":[{"surface":"והאלהים","gloss":"بەڵام ئێلۆهیم"},{"surface":"אמר","gloss":"فەرموو"},{"surface":"לי","gloss":"پێم"},{"surface":"לא","gloss":"نا"},{"surface":"תבנה","gloss":"نابنی"},{"surface":"בית","gloss":"ماڵێک"},{"surface":"לשמי","gloss":"بۆ ناوی من"},{"surface":"כי","gloss":"چونکە"},{"surface":"איש","gloss":"پیاوێکی"},{"surface":"מלחמות","gloss":"شەڕی"},{"surface":"אתה","gloss":"تۆ"},{"surface":"ודמים","gloss":"و خوێنت"},{"surface":"שפכת","gloss":"ڕشتووە"}],"timestamp":"2026-09-24T15:32:23.076696272Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "بەڵام ئێلۆهیم پێم فەرموو: تۆ ماڵێک بۆ ناوی من نابنی، چونکە تۆ پیاوێکی شەڕی و خوێنت ڕشتووە.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "بەڵام ئێلۆهیم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پێم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "نابنی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵێک"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "بۆ ناوی من"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوێکی"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "شەڕی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "و خوێنت"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "ڕشتووە"
+    }
+  ],
+  "timestamp": "2026-09-24T15:32:23.076696272Z",
+  "model": "glm-5.3"
+}

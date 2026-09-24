@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":15,"ref":"job 16:15","book":"job","lang":"ckb","chapter":16,"translation":"«جلێکی ژاکم لەسەر پێستم دوید و شاخەکەم لە خۆڵدا خستە خۆڵەوە.»","tokens":[{"surface":"שק","gloss":"جلێکی ژاک"},{"surface":"תפרתי","gloss":"دویم"},{"surface":"עלי","gloss":"لەسەر"},{"surface":"גלדי","gloss":"پێستم"},{"surface":"ועללתי","gloss":"و خستمە خۆڵەوە"},{"surface":"בעפר","gloss":"لە خۆڵ"},{"surface":"קרני","gloss":"شاخەکەم"}],"timestamp":"2026-09-24T14:39:10.051556876Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "«جلێکی ژاکم لەسەر پێستم دوید و شاخەکەم لە خۆڵدا خستە خۆڵەوە.»",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "جلێکی ژاک"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "پێستم"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "و خستمە خۆڵەوە"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "لە خۆڵ"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "شاخەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:39:10.051556876Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":25,"ref":"proverbs 10:25","book":"proverbs","lang":"ckb","chapter":10,"translation":"وەک گوزەرانی زریان، خراپەکار نامێنێت، بەڵام ڕاستگۆ بناغەی هەمیشەییە.","tokens":[{"surface":"כעבור","gloss":"وەک گوزەرانی"},{"surface":"סופה","gloss":"زریان"},{"surface":"ואין","gloss":"و نییە"},{"surface":"רשע","gloss":"خراپەکار"},{"surface":"וצדיק","gloss":"بەڵام ڕاستگۆ"},{"surface":"יסוד","gloss":"بناغە"},{"surface":"עולם","gloss":"هەمیشەیی"}],"timestamp":"2026-09-24T14:25:16.995807523Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "وەک گوزەرانی زریان، خراپەکار نامێنێت، بەڵام ڕاستگۆ بناغەی هەمیشەییە.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "وەک گوزەرانی"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "زریان"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "خراپەکار"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "بەڵام ڕاستگۆ"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "بناغە"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "هەمیشەیی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:25:16.995807523Z",
+  "model": "glm-5.3"
+}

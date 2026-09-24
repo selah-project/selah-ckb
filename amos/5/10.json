@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":10,"ref":"amos 5:10","book":"amos","lang":"ckb","chapter":5,"translation":"لە دەروازەدا ڕاگەیاندنەوەیان چڕە، و قسەکەری ڕاستەقینە پیس دەزانن.","tokens":[{"surface":"שנאו","gloss":"چڕە"},{"surface":"בשער","gloss":"لە دەروازەدا"},{"surface":"מוכיח","gloss":"ڕاگەیاندنەوە"},{"surface":"ודבר","gloss":"و قسەکەری"},{"surface":"תמים","gloss":"ڕاستەقینە"},{"surface":"יתעבו","gloss":"پیس دەزانن"}],"timestamp":"2026-09-24T13:34:37.660620081Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "لە دەروازەدا ڕاگەیاندنەوەیان چڕە، و قسەکەری ڕاستەقینە پیس دەزانن.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "چڕە"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "لە دەروازەدا"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "ڕاگەیاندنەوە"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "و قسەکەری"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ڕاستەقینە"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "پیس دەزانن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:34:37.660620081Z",
+  "model": "glm-5.3"
+}

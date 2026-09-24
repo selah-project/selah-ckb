@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":20,"ref":"deuteronomy 11:20","book":"deuteronomy","lang":"ckb","chapter":11,"translation":"و ئەوان دەنووسیتە سەر چوارچێوە دەرگاکانی ماڵەکەت و سەر دەرگاکانت.","tokens":[{"surface":"וכתבתם","gloss":"دەنووسیتە"},{"surface":"על","gloss":"سەر"},{"surface":"מזוזות","gloss":"چوارچێوە دەرگا"},{"surface":"ביתך","gloss":"ماڵەکەت"},{"surface":"ובשעריך","gloss":"و سەر دەرگاکانت"}],"timestamp":"2026-09-24T10:38:43.030962086Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەوان دەنووسیتە سەر چوارچێوە دەرگاکانی ماڵەکەت و سەر دەرگاکانت.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "دەنووسیتە"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "چوارچێوە دەرگا"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ماڵەکەت"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "و سەر دەرگاکانت"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:43.030962086Z",
+  "model": "glm-5.3"
+}

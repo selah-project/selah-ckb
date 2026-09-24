@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":3,"ref":"hosea 10:3","book":"hosea","lang":"ckb","chapter":10,"translation":"چونکە ئێستا دەڵێن: پادشایێکمان نییە، چونکە ئێمە ⟨את⟩ یاهوە نەترساندین؛ و پادشا چی بۆ ئێمە دەکات؟","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"עתה","gloss":"ئێستا"},{"surface":"יאמרו","gloss":"دەڵێن"},{"surface":"אין","gloss":"نییە"},{"surface":"מלך","gloss":"پادشایێکمان"},{"surface":"לנו","gloss":"مان"},{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نە"},{"surface":"יראנו","gloss":"ترساندین"},{"surface":"את","gloss":"⟨את⟩","marks":"یاهوە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"והמלך","gloss":"و پادشا"},{"surface":"מה","gloss":"چی"},{"surface":"יעשה","gloss":"دەکات"},{"surface":"לנו","gloss":"بۆ ئێمە"}],"timestamp":"2026-09-24T13:31:17.005730446Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 10,
+  "translation": "چونکە ئێستا دەڵێن: پادشایێکمان نییە، چونکە ئێمە ⟨את⟩ یاهوە نەترساندین؛ و پادشا چی بۆ ئێمە دەکات؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نییە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پادشایێکمان"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "مان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ترساندین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "و پادشا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەکات"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆ ئێمە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:31:17.005730446Z",
+  "model": "glm-5.3"
+}

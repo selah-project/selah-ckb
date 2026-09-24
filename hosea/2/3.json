@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":3,"ref":"hosea 2:3","book":"hosea","lang":"ckb","chapter":2,"translation":"بڵێن بۆ برایانی ئێوە عەمی، و بۆ خوشکانی ئێوە روحاما،","tokens":[{"surface":"אמרו","gloss":"بڵێن"},{"surface":"לאחיכם","gloss":"بۆ برایانی ئێوە"},{"surface":"עמי","gloss":"عەمی"},{"surface":"ולאחותיכם","gloss":"و بۆ خوشکانی ئێوە"},{"surface":"רחמה","gloss":"روحاما"}],"timestamp":"2026-09-24T13:28:52.482701639Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "بڵێن بۆ برایانی ئێوە عەمی، و بۆ خوشکانی ئێوە روحاما،",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "بڵێن"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "بۆ برایانی ئێوە"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "عەمی"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "و بۆ خوشکانی ئێوە"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "روحاما"
+    }
+  ],
+  "timestamp": "2026-09-24T13:28:52.482701639Z",
+  "model": "glm-5.3"
+}

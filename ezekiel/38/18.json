@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":18,"ref":"ezekiel 38:18","book":"ezekiel","lang":"ckb","chapter":38,"translation":"و دەبێت لە ڕۆژدا — ئەو ڕۆژەی گوگ ⟨گوگ⟩ سەر زەوی ئیسرائێل دێت — وتاری ئادۆنای یاهوە: توڕەییەکەم لە لووتمدا هەڵدەستێت.","tokens":[{"surface":"והיה","gloss":"و دەبێت"},{"surface":"ביום","gloss":"لە ڕۆژدا"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"ביום","gloss":"لە ڕۆژی"},{"surface":"בוא","gloss":"هاتنی"},{"surface":"גוג","gloss":"گوگ"},{"surface":"על","gloss":"سەر"},{"surface":"אדמת","gloss":"زەوی"},{"surface":"ישראל","gloss":"ئیسرائێل"},{"surface":"נאם","gloss":"وتاری"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"תעלה","gloss":"هەڵدەستێت"},{"surface":"חמתי","gloss":"توڕەییەکەم"},{"surface":"באפי","gloss":"لە لووتمدا"}],"timestamp":"2026-09-24T13:21:33.081221088Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 38:18",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "و دەبێت لە ڕۆژدا — ئەو ڕۆژەی گوگ ⟨گوگ⟩ سەر زەوی ئیسرائێل دێت — وتاری ئادۆنای یاهوە: توڕەییەکەم لە لووتمدا هەڵدەستێت.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژدا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژی"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "هاتنی"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "گوگ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زەوی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائێل"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وتاری"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "هەڵدەستێت"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "توڕەییەکەم"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "لە لووتمدا"
+    }
+  ],
+  "timestamp": "2026-09-24T13:21:33.081221088Z",
+  "model": "glm-5.3"
+}

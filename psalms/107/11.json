@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 107:11","book":"psalms","lang":"ckb","chapter":107,"translation":"چونکە لە قسەکانی ئێڵ شۆڕکیان کردەوە، و ڕاوێژی باڵاترین پێشێل کرد.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"המרו","gloss":"شۆڕکیان کردەوە"},{"surface":"אמרי","gloss":"قسەکانی"},{"surface":"אל","gloss":"ئێڵ"},{"surface":"ועצת","gloss":"و ڕاوێژی"},{"surface":"עליון","gloss":"باڵاترین"},{"surface":"נאצו","gloss":"پێشێل کرد"}],"timestamp":"2026-09-24T14:12:08.396474713Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 107,
+  "translation": "چونکە لە قسەکانی ئێڵ شۆڕکیان کردەوە، و ڕاوێژی باڵاترین پێشێل کرد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "شۆڕکیان کردەوە"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "قسەکانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێڵ"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "و ڕاوێژی"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "باڵاترین"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "پێشێل کرد"
+    }
+  ],
+  "timestamp": "2026-09-24T14:12:08.396474713Z",
+  "model": "glm-5.3"
+}

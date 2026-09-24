@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 46:1","book":"psalms","lang":"ckb","chapter":46,"translation":"بۆ سەرۆکی مۆسیقاژەنان، بۆ کوڕانی قۆرەخ ⟨قۆرەخ⟩، لەسەر عەلامۆت، شیعرێک.","tokens":[{"surface":"למנצח","gloss":"بۆ سەرۆکی مۆسیقاژەنان"},{"surface":"לבני","gloss":"بۆ کوڕانی"},{"surface":"קרח","gloss":"قۆرەخ ⟨قۆرەخ⟩"},{"surface":"על","gloss":"لەسەر"},{"surface":"עלמות","gloss":"عەلامۆت"},{"surface":"שיר","gloss":"شیعرێک"}],"timestamp":"2026-09-24T13:57:50.177105162Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "بۆ سەرۆکی مۆسیقاژەنان، بۆ کوڕانی قۆرەخ ⟨قۆرەخ⟩، لەسەر عەلامۆت، شیعرێک.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ سەرۆکی مۆسیقاژەنان"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قۆرەخ ⟨قۆرەخ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "عەلامۆت"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "شیعرێک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:57:50.177105162Z",
+  "model": "glm-5.3"
+}

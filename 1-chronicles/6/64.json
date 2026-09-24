@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":64,"ref":"1-chronicles 6:64","book":"1-chronicles","lang":"ckb","chapter":6,"translation":"و ⟨את⟩ کەدێمۆت و ⟨את⟩ مەیدانەکانی و ⟨את⟩ مەیپەعەت و ⟨את⟩ مەیدانەکانی","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩","marks":"کەدێمۆت"},{"surface":"קדמות","gloss":"کەدێمۆت"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مەیدانەکانی"},{"surface":"מגרשיה","gloss":"مەیدانەکانی"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مەیپەعەت"},{"surface":"מיפעת","gloss":"مەیپەعەت"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"مەیدانەکانی"},{"surface":"מגרשיה","gloss":"مەیدانەکانی"}],"timestamp":"2026-09-24T15:23:42.321279026Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و ⟨את⟩ کەدێمۆت و ⟨את⟩ مەیدانەکانی و ⟨את⟩ مەیپەعەت و ⟨את⟩ مەیدانەکانی",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "کەدێمۆت"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "کەدێمۆت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەیدانەکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەیدانەکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەیپەعەت"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "مەیپەعەت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "مەیدانەکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "مەیدانەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:42.321279026Z",
+  "model": "glm-5.3"
+}

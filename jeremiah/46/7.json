@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":7,"ref":"jeremiah 46:7","book":"jeremiah","lang":"ckb","chapter":46,"translation":"ئەوە کێیە کە وەک ڕووبار بەرزدەبێتەوە؟ ئاوەکانی وەک ڕووبارەکان دەبزوێنەوە.","tokens":[{"surface":"מי","gloss":"کێ"},{"surface":"זה","gloss":"ئەوە"},{"surface":"כיאר","gloss":"وەک ڕووبار"},{"surface":"יעלה","gloss":"بەرزدەبێتەوە"},{"surface":"כנהרות","gloss":"وەک ڕووبارەکان"},{"surface":"יתגעשו","gloss":"دەبزوێنەوە"},{"surface":"מימיו","gloss":"ئاوەکانی"}],"timestamp":"2026-09-24T12:58:19.117412424Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 46,
+  "translation": "ئەوە کێیە کە وەک ڕووبار بەرزدەبێتەوە؟ ئاوەکانی وەک ڕووبارەکان دەبزوێنەوە.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "وەک ڕووبار"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بەرزدەبێتەوە"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "وەک ڕووبارەکان"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "دەبزوێنەوە"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ئاوەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T12:58:19.117412424Z",
+  "model": "glm-5.3"
+}

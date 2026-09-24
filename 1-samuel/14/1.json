@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-samuel 14:1","book":"1-samuel","lang":"ckb","chapter":14,"translation":"ڕۆژێکدا بوو کە یۆناتانی کوڕی شائول بە گەنجە هەڵگری کەرەستەکانی وتی: وەرە با بپەڕینەوە بۆ پێگەی فەلەستییەکان کە لەو لایەوەیە؛ بەڵام بە باوکی نەیگوت.","tokens":[{"surface":"ויהי","gloss":"بوو"},{"surface":"היום","gloss":"ڕۆژەکە"},{"surface":"ויאמר","gloss":"وتی"},{"surface":"יונתן","gloss":"یۆناتان"},{"surface":"בן","gloss":"کوڕی"},{"surface":"שאול","gloss":"شائول"},{"surface":"אל","gloss":"بە"},{"surface":"הנער","gloss":"گەنجەکە"},{"surface":"נשא","gloss":"هەڵگری"},{"surface":"כליו","gloss":"کەرەستەکانی"},{"surface":"לכה","gloss":"وەرە"},{"surface":"ונעברה","gloss":"با بپەڕینەوە"},{"surface":"אל","gloss":"بۆ"},{"surface":"מצב","gloss":"پێگەی"},{"surface":"פלשתים","gloss":"فەلەستییەکان"},{"surface":"אשר","gloss":"کە"},{"surface":"מעבר","gloss":"لەلایەکەوە"},{"surface":"הלז","gloss":"ئەو"},{"surface":"ולאביו","gloss":"و بە باوکی"},{"surface":"לא","gloss":"نە"},{"surface":"הגיד","gloss":"گوت"}],"timestamp":"2026-09-24T11:21:20.073218759Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 14:1",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "ڕۆژێکدا بوو کە یۆناتانی کوڕی شائول بە گەنجە هەڵگری کەرەستەکانی وتی: وەرە با بپەڕینەوە بۆ پێگەی فەلەستییەکان کە لەو لایەوەیە؛ بەڵام بە باوکی نەیگوت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژەکە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وتی"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یۆناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "گەنجەکە"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "هەڵگری"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "کەرەستەکانی"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "وەرە"
+    },
+    {
+      "surface": "ונעברה",
+      "gloss": "با بپەڕینەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "پێگەی"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فەلەستییەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "لەلایەکەوە"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "و بە باوکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "گوت"
+    }
+  ],
+  "timestamp": "2026-09-24T11:21:20.073218759Z",
+  "model": "glm-5.3"
+}

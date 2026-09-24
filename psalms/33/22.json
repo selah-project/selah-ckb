@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"psalms 33:22","book":"psalms","lang":"ckb","chapter":33,"translation":"بێتە حەسەدی تۆ، ئەی یاهوە، لەسەر ئێمە، وەک چۆن چاوەڕێی تۆ بووین.","tokens":[{"surface":"יהי","gloss":"بێتە"},{"surface":"חסדך","gloss":"حەسەدی تۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"עלינו","gloss":"لەسەر ئێمە"},{"surface":"כאשר","gloss":"وەک چۆن"},{"surface":"יחלנו","gloss":"چاوەڕێی بووین"},{"surface":"לך","gloss":"تۆ"}],"timestamp":"2026-09-24T13:53:57.733450082Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "بێتە حەسەدی تۆ، ئەی یاهوە، لەسەر ئێمە، وەک چۆن چاوەڕێی تۆ بووین.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "بێتە"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "حەسەدی تۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "لەسەر ئێمە"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک چۆن"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "چاوەڕێی بووین"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:57.733450082Z",
+  "model": "glm-5.3"
+}

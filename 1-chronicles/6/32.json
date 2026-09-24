@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":32,"ref":"1-chronicles 6:32","book":"1-chronicles","lang":"ckb","chapter":6,"translation":"کوڕی مەحلی، کوڕی مووشی، کوڕی مێراری، کوڕی لێڤی.","tokens":[{"surface":"בן","gloss":"کوڕی"},{"surface":"מחלי","gloss":"مەحلی"},{"surface":"בן","gloss":"کوڕی"},{"surface":"מושי","gloss":"مووشی"},{"surface":"בן","gloss":"کوڕی"},{"surface":"מררי","gloss":"مێراری"},{"surface":"בן","gloss":"کوڕی"},{"surface":"לוי","gloss":"لێڤی"}],"timestamp":"2026-09-24T15:23:01.843766993Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "کوڕی مەحلی، کوڕی مووشی، کوڕی مێراری، کوڕی لێڤی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مەحلی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "مووشی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مێراری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لێڤی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:01.843766993Z",
+  "model": "glm-5.3"
+}

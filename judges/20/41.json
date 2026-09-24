@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":41,"ref":"judges 20:41","book":"judges","lang":"ckb","chapter":20,"translation":"و پیاوانی ئیسرائیل گەڕانەوە و پیاوی بنیامین تۆقان، چونکە بینیان کە بەڵا گەیشتووەتە سەریان.","tokens":[{"surface":"ואיש","gloss":"و پیاوانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"הפך","gloss":"گەڕانەوە"},{"surface":"ויבהל","gloss":"و تۆقان"},{"surface":"איש","gloss":"پیاوی"},{"surface":"בנימן","gloss":"بنیامین"},{"surface":"כי","gloss":"چونکە"},{"surface":"ראה","gloss":"بینیان"},{"surface":"כי","gloss":"کە"},{"surface":"נגעה","gloss":"گەیشتووە"},{"surface":"עליו","gloss":"بەسەریان"},{"surface":"הרעה","gloss":"بەڵا"}],"timestamp":"2026-09-24T11:14:49.256423090Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 20:41",
+  "book": "judges",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "و پیاوانی ئیسرائیل گەڕانەوە و پیاوی بنیامین تۆقان، چونکە بینیان کە بەڵا گەیشتووەتە سەریان.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "و پیاوانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "گەڕانەوە"
+    },
+    {
+      "surface": "ויבהל",
+      "gloss": "و تۆقان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاوی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "بینیان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "گەیشتووە"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بەسەریان"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بەڵا"
+    }
+  ],
+  "timestamp": "2026-09-24T11:14:49.256423090Z",
+  "model": "glm-5.3"
+}

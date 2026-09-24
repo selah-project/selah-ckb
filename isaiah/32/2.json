@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":2,"ref":"isaiah 32:2","book":"isaiah","lang":"ckb","chapter":32,"translation":"و مرۆڤێک دەبێت وەک پەناهەی با و پەنای لافاو، وەک لقۆکەی ئاو لە زایۆندا، وەک سێبەری بەردێکی گەورە لە زەویێکی ماندوودا.","tokens":[{"surface":"והיה","gloss":"و دەبێت"},{"surface":"איש","gloss":"مرۆڤێک"},{"surface":"כמחבא","gloss":"وەک پەناهەی"},{"surface":"רוח","gloss":"با"},{"surface":"וסתר","gloss":"و پەنای"},{"surface":"זרם","gloss":"لافاو"},{"surface":"כפלגי","gloss":"وەک لقۆکەی"},{"surface":"מים","gloss":"ئاو"},{"surface":"בציון","gloss":"لە زایۆندا"},{"surface":"כצל","gloss":"وەک سێبەری"},{"surface":"סלע","gloss":"بەردێکی"},{"surface":"כבד","gloss":"گەورە"},{"surface":"בארץ","gloss":"لە زەویێکی"},{"surface":"עיפה","gloss":"ماندوو"}],"timestamp":"2026-09-24T12:22:07.692172702Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 32:2",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 32,
+  "translation": "و مرۆڤێک دەبێت وەک پەناهەی با و پەنای لافاو، وەک لقۆکەی ئاو لە زایۆندا، وەک سێبەری بەردێکی گەورە لە زەویێکی ماندوودا.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "و دەبێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرۆڤێک"
+    },
+    {
+      "surface": "כמחבא",
+      "gloss": "وەک پەناهەی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "با"
+    },
+    {
+      "surface": "וסתר",
+      "gloss": "و پەنای"
+    },
+    {
+      "surface": "זרם",
+      "gloss": "لافاو"
+    },
+    {
+      "surface": "כפלגי",
+      "gloss": "وەک لقۆکەی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "لە زایۆندا"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "وەک سێبەری"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "بەردێکی"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەویێکی"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ماندوو"
+    }
+  ],
+  "timestamp": "2026-09-24T12:22:07.692172702Z",
+  "model": "glm-5.3"
+}

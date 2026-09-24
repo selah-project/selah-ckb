@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":20,"ref":"genesis 31:20","book":"genesis","lang":"ckb","chapter":31,"translation":"یەعقوب ⟨את⟩ دڵی لابانی ئارامی بە زوڵم لێدزی — بەوەی نەیگوت کە هەڵدێت.","tokens":[{"surface":"ויגנב","gloss":"دزی"},{"surface":"יעקב","gloss":"یەعقوب"},{"surface":"את","gloss":"⟨את⟩","marks":"دڵی"},{"surface":"לב","gloss":"دڵی"},{"surface":"לבן","gloss":"لابان"},{"surface":"הארמי","gloss":"ئارامی"},{"surface":"על","gloss":"بەوەی"},{"surface":"בלי","gloss":"بەبێ"},{"surface":"הגיד","gloss":"گوتن"},{"surface":"לו","gloss":"بۆ ئەو"},{"surface":"כי","gloss":"کە"},{"surface":"ברח","gloss":"هەڵدێت"},{"surface":"הוא","gloss":"ئەو"}],"timestamp":"2026-09-24T09:25:16.926086501Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "یەعقوب ⟨את⟩ دڵی لابانی ئارامی بە زوڵم لێدزی — بەوەی نەیگوت کە هەڵدێت.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "دزی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دڵی"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "ئارامی"
+    },
+    {
+      "surface": "על",
+      "gloss": "بەوەی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "گوتن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ ئەو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "هەڵدێت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:16.926086501Z",
+  "model": "glm-5.3"
+}

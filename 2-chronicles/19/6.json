@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":6,"ref":"2-chronicles 19:6","book":"2-chronicles","lang":"ckb","chapter":19,"translation":"و بە دادەرانی فەرموو: ببینن چی ئێوە دەکەن، چونکە بۆ مرۆڤ دادەری ناکەن، بەڵکو بۆ یاهوە، و ⟨هەیە⟩ لەگەڵ ئێوە لە کار دادەریدا.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"אל","gloss":"بە"},{"surface":"השפטים","gloss":"دادەران"},{"surface":"ראו","gloss":"ببینن"},{"surface":"מה","gloss":"چی"},{"surface":"אתם","gloss":"ئێوە"},{"surface":"עשים","gloss":"دەکەن"},{"surface":"כי","gloss":"چونکە"},{"surface":"לא","gloss":"نا"},{"surface":"לאדם","gloss":"بۆ مرۆڤ"},{"surface":"תשפטו","gloss":"دادەری ناکەن"},{"surface":"כי","gloss":"بەڵکو"},{"surface":"ליהוה","gloss":"بۆ یاهوە"},{"surface":"ועמכם","gloss":"و لەگەڵ ئێوە"},{"surface":"בדבר","gloss":"لە کار"},{"surface":"משפט","gloss":"دادەری"}],"timestamp":"2026-09-24T16:08:19.503632583Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 19:6",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "و بە دادەرانی فەرموو: ببینن چی ئێوە دەکەن، چونکە بۆ مرۆڤ دادەری ناکەن، بەڵکو بۆ یاهوە، و ⟨هەیە⟩ لەگەڵ ئێوە لە کار دادەریدا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "دادەران"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ببینن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "دەکەن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "بۆ مرۆڤ"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "دادەری ناکەن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "و لەگەڵ ئێوە"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "لە کار"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دادەری"
+    }
+  ],
+  "timestamp": "2026-09-24T16:08:19.503632583Z",
+  "model": "glm-5.3"
+}

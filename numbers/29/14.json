@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":14,"ref":"numbers 29:14","book":"numbers","lang":"ckb","chapter":29,"translation":"و پێشکەشیان: وردەواری لێدراو بە ڕوونەکە، سێ دەیەک بۆ گای ⟨یەکە⟩ بۆ سێزدە گا، دوو دەیەک بۆ قوچاخی ⟨یەکە⟩ بۆ دوو قوچاخەکە.","tokens":[{"surface":"ומנחתם","gloss":"و پێشکەشیان"},{"surface":"סלת","gloss":"وردەواری"},{"surface":"בלולה","gloss":"لێدراو"},{"surface":"בשמן","gloss":"بە ڕوونەکە"},{"surface":"שלשה","gloss":"سێ"},{"surface":"עשרנים","gloss":"دەیەک"},{"surface":"לפר","gloss":"بۆ گای"},{"surface":"האחד","gloss":"⟨یەکە⟩"},{"surface":"לשלשה","gloss":"بۆ سێ"},{"surface":"עשר","gloss":"زدە"},{"surface":"פרים","gloss":"گا"},{"surface":"שני","gloss":"دوو"},{"surface":"עשרנים","gloss":"دەیەک"},{"surface":"לאיל","gloss":"بۆ قوچاخی"},{"surface":"האחד","gloss":"⟨یەکە⟩"},{"surface":"לשני","gloss":"بۆ دوو"},{"surface":"האילם","gloss":"قوچاخەکە"}],"timestamp":"2026-09-24T10:29:09.157134773Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 29:14",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "و پێشکەشیان: وردەواری لێدراو بە ڕوونەکە، سێ دەیەک بۆ گای ⟨یەکە⟩ بۆ سێزدە گا، دوو دەیەک بۆ قوچاخی ⟨یەکە⟩ بۆ دوو قوچاخەکە.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "و پێشکەشیان"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "وردەواری"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "لێدراو"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "بە ڕوونەکە"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "دەیەک"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "بۆ گای"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨یەکە⟩"
+    },
+    {
+      "surface": "לשלשה",
+      "gloss": "بۆ سێ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "زدە"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "گا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "دەیەک"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "بۆ قوچاخی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨یەکە⟩"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "بۆ دوو"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "قوچاخەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:29:09.157134773Z",
+  "model": "glm-5.3"
+}

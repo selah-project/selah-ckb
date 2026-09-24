@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"proverbs 15:22","book":"proverbs","lang":"ckb","chapter":15,"translation":"پلانەکان هەڵدەوەشێن بەبێ سۆد، و بە زۆری ڕاوێژکاران دەپارێزرێن ⟨دەبنە هەڵکەوتوو⟩.","tokens":[{"surface":"הפר","gloss":"هەڵدەوەشێن"},{"surface":"מחשבות","gloss":"پلانەکان"},{"surface":"באין","gloss":"بەبێ"},{"surface":"סוד","gloss":"سۆد"},{"surface":"וברב","gloss":"و بە زۆری"},{"surface":"יועצים","gloss":"ڕاوێژکاران"},{"surface":"תקום","gloss":"دەپارێزرێن"}],"timestamp":"2026-09-24T14:26:45.595444604Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 15:22",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "پلانەکان هەڵدەوەشێن بەبێ سۆد، و بە زۆری ڕاوێژکاران دەپارێزرێن ⟨دەبنە هەڵکەوتوو⟩.",
+  "tokens": [
+    {
+      "surface": "הפר",
+      "gloss": "هەڵدەوەشێن"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "پلانەکان"
+    },
+    {
+      "surface": "באין",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "سۆد"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "و بە زۆری"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "ڕاوێژکاران"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "دەپارێزرێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:26:45.595444604Z",
+  "model": "glm-5.3"
+}

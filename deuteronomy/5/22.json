@@ -1,1 +1,110 @@
-{"tier":"glm-5.2","verse":22,"ref":"deuteronomy 5:22","book":"deuteronomy","lang":"ckb","chapter":5,"translation":"⟨את⟩ ئەم قسانە یاهوە بۆ هەموو کۆبوونەوەکەتان لە چیا فەرموو، لە نێو ئاگرد و هەور و تاریکیدا، بە دەنگێکی گەورە، و زیادی نەکرد، و ئەوانەی لەسەر دوو لوحی بەرد نووسی و بۆ منی دا.","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"ئەم قسانە"},{"surface":"הדברים","gloss":"ئەم قسانە"},{"surface":"האלה","gloss":"ئەم"},{"surface":"דבר","gloss":"فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"بۆ"},{"surface":"כל","gloss":"هەموو"},{"surface":"קהלכם","gloss":"کۆبوونەوەکەتان"},{"surface":"בהר","gloss":"لە چیا"},{"surface":"מתוך","gloss":"لە نێو"},{"surface":"האש","gloss":"ئاگرد"},{"surface":"הענן","gloss":"هەور"},{"surface":"והערפל","gloss":"و تاریکی"},{"surface":"קול","gloss":"دەنگ"},{"surface":"גדול","gloss":"گەورە"},{"surface":"ולא","gloss":"و نە"},{"surface":"יסף","gloss":"کردنی زۆر"},{"surface":"ויכתבם","gloss":"و نووسییان"},{"surface":"על","gloss":"لەسەر"},{"surface":"שני","gloss":"دوو"},{"surface":"לחת","gloss":"لوح"},{"surface":"אבנים","gloss":"بەرد"},{"surface":"ויתנם","gloss":"و دایان"},{"surface":"אלי","gloss":"بۆ من"}],"timestamp":"2026-09-24T16:39:46.703086704Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 5:22",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "⟨את⟩ ئەم قسانە یاهوە بۆ هەموو کۆبوونەوەکەتان لە چیا فەرموو، لە نێو ئاگرد و هەور و تاریکیدا، بە دەنگێکی گەورە، و زیادی نەکرد، و ئەوانەی لەسەر دوو لوحی بەرد نووسی و بۆ منی دا.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەم قسانە"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ئەم قسانە"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "קהלכם",
+      "gloss": "کۆبوونەوەکەتان"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "لە چیا"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "لە نێو"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ئاگرد"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "هەور"
+    },
+    {
+      "surface": "והערפל",
+      "gloss": "و تاریکی"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "گەورە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "کردنی زۆر"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "و نووسییان"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوح"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "بەرد"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "و دایان"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "بۆ من"
+    }
+  ],
+  "timestamp": "2026-09-24T16:39:46.703086704Z",
+  "model": "glm-5.3"
+}

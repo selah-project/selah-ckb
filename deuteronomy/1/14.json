@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":14,"ref":"deuteronomy 1:14","book":"deuteronomy","lang":"ckb","chapter":1,"translation":"و ئێوە وەڵامی منم ⟨את⟩ دایەوە و وتتان: چاکە ئەو قسەیەی کە فەرمووتەی بۆ کردن.","tokens":[{"surface":"ותענו","gloss":"و وەڵامی دایەوە"},{"surface":"אתי","gloss":"⟨את⟩","marks":"منم"},{"surface":"ותאמרו","gloss":"و وتتان"},{"surface":"טוב","gloss":"چاکە"},{"surface":"הדבר","gloss":"ئەو قسەیەی"},{"surface":"אשר","gloss":"کە"},{"surface":"דברת","gloss":"فەرمووتەی"},{"surface":"לעשות","gloss":"بۆ کردن"}],"timestamp":"2026-09-24T16:38:30.030427206Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و ئێوە وەڵامی منم ⟨את⟩ دایەوە و وتتان: چاکە ئەو قسەیەی کە فەرمووتەی بۆ کردن.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "و وەڵامی دایەوە"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "منم"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "و وتتان"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ئەو قسەیەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "فەرمووتەی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بۆ کردن"
+    }
+  ],
+  "timestamp": "2026-09-24T16:38:30.030427206Z",
+  "model": "glm-5.3"
+}

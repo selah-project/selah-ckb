@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":15,"ref":"isaiah 54:15","book":"isaiah","lang":"ckb","chapter":54,"translation":"ئەوەتا بێگانەیەک دەبێتە میوان، بەڵام نە ⟨את⟩ لە لای من؛ کێ ⟨את⟩ لەگەڵ تۆ میوان بووە؟ لەسەر تۆ دەکەوێت.","tokens":[{"surface":"הן","gloss":"ئەوەتا"},{"surface":"גור","gloss":"بێگانە"},{"surface":"יגור","gloss":"دەبێتە میوان"},{"surface":"אפס","gloss":"بەڵام نە"},{"surface":"מאותי","gloss":"⟨את⟩","marks":"لە لای من"},{"surface":"מי","gloss":"کێ"},{"surface":"גר","gloss":"میوان بووە"},{"surface":"אתך","gloss":"⟨את⟩ لەگەڵ تۆ"},{"surface":"עליך","gloss":"لەسەر تۆ"},{"surface":"יפול","gloss":"دەکەوێت"}],"timestamp":"2026-09-24T16:49:41.066268850Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 54,
+  "translation": "ئەوەتا بێگانەیەک دەبێتە میوان، بەڵام نە ⟨את⟩ لە لای من؛ کێ ⟨את⟩ لەگەڵ تۆ میوان بووە؟ لەسەر تۆ دەکەوێت.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ئەوەتا"
+    },
+    {
+      "surface": "גור",
+      "gloss": "بێگانە"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "دەبێتە میوان"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "بەڵام نە"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "لە لای من"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "میوان بووە"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ لەگەڵ تۆ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەر تۆ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "دەکەوێت"
+    }
+  ],
+  "timestamp": "2026-09-24T16:49:41.066268850Z",
+  "model": "glm-5.3"
+}

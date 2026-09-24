@@ -1,1 +1,109 @@
-{"tier":"glm-5.2","verse":15,"ref":"deuteronomy 19:15","book":"deuteronomy","lang":"ckb","chapter":19,"translation":"شایەتێک بە تەنها لە دژی کەسێک نایەڵێت، بۆ هیچ ستەمێک و هیچ گوناهێک، لە هەر گوناهێک کە دەیکات، بە دەمی دوو شایەت یان بە دەمی سێ شایەت دەڕووژێت دۆسییەکە","tokens":[{"surface":"לא","gloss":"نا"},{"surface":"יקום","gloss":"نایەڵێت"},{"surface":"עד","gloss":"شایەتێک"},{"surface":"אחד","gloss":"بە تەنها"},{"surface":"באיש","gloss":"لە دژی کەسێک"},{"surface":"לכל","gloss":"بۆ هیچ"},{"surface":"עון","gloss":"ستەم"},{"surface":"ולכל","gloss":"و هیچ"},{"surface":"חטאת","gloss":"گوناه"},{"surface":"בכל","gloss":"لە هەر"},{"surface":"חטא","gloss":"گوناه"},{"surface":"אשר","gloss":"کە"},{"surface":"יחטא","gloss":"دەیکات"},{"surface":"על","gloss":"بە"},{"surface":"פי","gloss":"دەمی"},{"surface":"שני","gloss":"دوو"},{"surface":"עדים","gloss":"شایەت"},{"surface":"או","gloss":"یان"},{"surface":"על","gloss":"بە"},{"surface":"פי","gloss":"دەمی"},{"surface":"שלשה","gloss":"سێ"},{"surface":"עדים","gloss":"شایەت"},{"surface":"יקום","gloss":"دەڕووژێت"},{"surface":"דבר","gloss":"دۆسییەکە"}],"timestamp":"2026-09-24T10:42:59.467161048Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 19:15",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "شایەتێک بە تەنها لە دژی کەسێک نایەڵێت، بۆ هیچ ستەمێک و هیچ گوناهێک، لە هەر گوناهێک کە دەیکات، بە دەمی دوو شایەت یان بە دەمی سێ شایەت دەڕووژێت دۆسییەکە",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "نایەڵێت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شایەتێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بە تەنها"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "لە دژی کەسێک"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هیچ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ستەم"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "و هیچ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گوناه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "لە هەر"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گوناه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "دەیکات"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شایەت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "על",
+      "gloss": "بە"
+    },
+    {
+      "surface": "פי",
+      "gloss": "دەمی"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شایەت"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "دەڕووژێت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دۆسییەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:42:59.467161048Z",
+  "model": "glm-5.3"
+}

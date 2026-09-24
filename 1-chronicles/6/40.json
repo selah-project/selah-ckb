@@ -1,1 +1,51 @@
-{"tier":"glm-5.2","verse":40,"ref":"1-chronicles 6:40","book":"1-chronicles","lang":"ckb","chapter":6,"translation":"و حەبرۆنیان ⟨את⟩ لە زەوی یەهودا و ⟨את⟩ زەویە کراوەکانی دەوروبەری دا بەوان.","tokens":[{"surface":"ויתנו","gloss":"دا بەوان"},{"surface":"להם","gloss":"بۆیان"},{"surface":"את","gloss":"⟨את⟩","marks":"حەبرۆن"},{"surface":"חברון","gloss":"حەبرۆن"},{"surface":"בארץ","gloss":"لە زەوی"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"زەویە کراوەکانی"},{"surface":"מגרשיה","gloss":"زەویە کراوەکانی"},{"surface":"סביבתיה","gloss":"دەوروبەری"}],"timestamp":"2026-09-24T15:23:28.093734721Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و حەبرۆنیان ⟨את⟩ لە زەوی یەهودا و ⟨את⟩ زەویە کراوەکانی دەوروبەری دا بەوان.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "دا بەوان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حەبرۆن"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حەبرۆن"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "زەویە کراوەکانی"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "زەویە کراوەکانی"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "دەوروبەری"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:28.093734721Z",
+  "model": "glm-5.3"
+}

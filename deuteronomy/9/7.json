@@ -1,1 +1,115 @@
-{"tier":"glm-5.2","verse":7,"ref":"deuteronomy 9:7","book":"deuteronomy","lang":"ckb","chapter":9,"translation":"بیربکەوە، لەبیری مەبە ئەوەی ⟨את⟩ یاهوە ئێلۆهیمت لە بیابان توڕەت کردی ⟨את⟩، لەو ڕۆژەی کە لە زەوی میتسرایم ⟨میسر⟩ چوویتە دەرەوە هەتا هاتنتە ئەم شوێنە، یاخی بوون لەگەڵ یاهوە.","tokens":[{"surface":"זכר","gloss":"بیربکەوە"},{"surface":"אל","gloss":"مە"},{"surface":"תשכח","gloss":"لەبیری مەبە"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەوەی"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"הקצפת","gloss":"توڕەت کردی"},{"surface":"את","gloss":"⟨את⟩","marks":"یاهوە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיך","gloss":"ئێلۆهیمت"},{"surface":"במדבר","gloss":"لە بیابان"},{"surface":"למן","gloss":"لە"},{"surface":"היום","gloss":"ڕۆژ"},{"surface":"אשר","gloss":"کە"},{"surface":"יצאת","gloss":"چوویتە دەرەوە"},{"surface":"מארץ","gloss":"لە زەوی"},{"surface":"מצרים","gloss":"میتسرایم ⟨میسر⟩"},{"surface":"עד","gloss":"هەتا"},{"surface":"באכם","gloss":"هاتنتە"},{"surface":"עד","gloss":"هەتا"},{"surface":"המקום","gloss":"شوێنەکە"},{"surface":"הזה","gloss":"ئەمە"},{"surface":"ממרים","gloss":"یاخی"},{"surface":"הייתם","gloss":"بوون"},{"surface":"עם","gloss":"لەگەڵ"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T10:38:42.994359170Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 9:7",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "بیربکەوە، لەبیری مەبە ئەوەی ⟨את⟩ یاهوە ئێلۆهیمت لە بیابان توڕەت کردی ⟨את⟩، لەو ڕۆژەی کە لە زەوی میتسرایم ⟨میسر⟩ چوویتە دەرەوە هەتا هاتنتە ئەم شوێنە، یاخی بوون لەگەڵ یاهوە.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "بیربکەوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "لەبیری مەبە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەوەی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "הקצפת",
+      "gloss": "توڕەت کردی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمت"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "لە بیابان"
+    },
+    {
+      "surface": "למן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "چوویتە دەرەوە"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم ⟨میسر⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "هاتنتە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "شوێنەکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ממרים",
+      "gloss": "یاخی"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لەگەڵ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:38:42.994359170Z",
+  "model": "glm-5.3"
+}

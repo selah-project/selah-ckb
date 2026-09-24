@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":2,"ref":"exodus 26:2","book":"exodus","lang":"ckb","chapter":26,"translation":"درێژی پەردەکەیەک هەشت و بیست ئەمە دەبێت، و پانی پەردەکەیەک چوار ئەمە؛ پێوانەیەک بۆ هەموو پەردەکان.","tokens":[{"surface":"ארך","gloss":"درێژی"},{"surface":"היריעה","gloss":"پەردەکەیەک"},{"surface":"האחת","gloss":"یەک"},{"surface":"שמנה","gloss":"هەشت"},{"surface":"ועשרים","gloss":"و بیست"},{"surface":"באמה","gloss":"ئەمە"},{"surface":"ורחב","gloss":"و پانی"},{"surface":"ארבע","gloss":"چوار"},{"surface":"באמה","gloss":"ئەمە"},{"surface":"היריעה","gloss":"پەردەکەیەک"},{"surface":"האחת","gloss":"یەک"},{"surface":"מדה","gloss":"پێوانە"},{"surface":"אחת","gloss":"یەک"},{"surface":"לכל","gloss":"بۆ هەموو"},{"surface":"היריעת","gloss":"پەردەکان"}],"timestamp":"2026-09-24T09:49:52.567779475Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 26:2",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 26,
+  "translation": "درێژی پەردەکەیەک هەشت و بیست ئەمە دەبێت، و پانی پەردەکەیەک چوار ئەمە؛ پێوانەیەک بۆ هەموو پەردەکان.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "درێژی"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پەردەکەیەک"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "و پانی"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "پەردەکەیەک"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "پێوانە"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هەموو"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پەردەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:52.567779475Z",
+  "model": "glm-5.3"
+}

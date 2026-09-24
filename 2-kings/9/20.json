@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":20,"ref":"2-kings 9:20","book":"2-kings","lang":"ckb","chapter":9,"translation":"و چاودێر ڕاگەیاند و وت: هات هەتا لای ئەوان و نەگەڕایەوە، و ڕانانەکە وەک ڕانانی یێهوو کوڕی نیمشییە، چونکە بە شێتێتی ڕایدەخات.","tokens":[{"surface":"ויגד","gloss":"و ڕاگەیاند"},{"surface":"הצפה","gloss":"چاودێر"},{"surface":"לאמר","gloss":"و وت"},{"surface":"בא","gloss":"هات"},{"surface":"עד","gloss":"هەتا"},{"surface":"אליהם","gloss":"لای ئەوان"},{"surface":"ולא","gloss":"و نە"},{"surface":"שב","gloss":"گەڕایەوە"},{"surface":"והמנהג","gloss":"و ڕانانەکە"},{"surface":"כמנהג","gloss":"وەک ڕانانی"},{"surface":"יהוא","gloss":"یێهوو"},{"surface":"בן","gloss":"کوڕی"},{"surface":"נמשי","gloss":"نیمشی"},{"surface":"כי","gloss":"چونکە"},{"surface":"בשגעון","gloss":"بە شێتێتی"},{"surface":"ינהג","gloss":"ڕایدەخات"}],"timestamp":"2026-09-24T12:04:01.938769268Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 9,
+  "translation": "و چاودێر ڕاگەیاند و وت: هات هەتا لای ئەوان و نەگەڕایەوە، و ڕانانەکە وەک ڕانانی یێهوو کوڕی نیمشییە، چونکە بە شێتێتی ڕایدەخات.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "و ڕاگەیاند"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "چاودێر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "هات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "لای ئەوان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "שב",
+      "gloss": "گەڕایەوە"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "و ڕانانەکە"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "وەک ڕانانی"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یێهوو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "نیمشی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "بە شێتێتی"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ڕایدەخات"
+    }
+  ],
+  "timestamp": "2026-09-24T12:04:01.938769268Z",
+  "model": "glm-5.3"
+}

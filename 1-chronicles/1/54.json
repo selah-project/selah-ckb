@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":54,"ref":"1-chronicles 1:54","book":"1-chronicles","lang":"ckb","chapter":1,"translation":"سەرکردە مەگدیئێل، سەرکردە عیرام. ئەمانە ئەو سەرکردەکانی ئەدۆمن.","tokens":[{"surface":"אלוף","gloss":"سەرکردە"},{"surface":"מגדיאל","gloss":"مەگدیئێل"},{"surface":"אלוף","gloss":"سەرکردە"},{"surface":"עירם","gloss":"عیرام"},{"surface":"אלה","gloss":"ئەمانە"},{"surface":"אלופי","gloss":"سەرکردەکانی"},{"surface":"אדום","gloss":"ئەدۆم"}],"timestamp":"2026-09-24T15:20:22.757129983Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "سەرکردە مەگدیئێل، سەرکردە عیرام. ئەمانە ئەو سەرکردەکانی ئەدۆمن.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سەرکردە"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "مەگدیئێل"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سەرکردە"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "عیرام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "سەرکردەکانی"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:20:22.757129983Z",
+  "model": "glm-5.3"
+}

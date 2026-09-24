@@ -1,1 +1,86 @@
-{"tier":"glm-5.2","verse":19,"ref":"1-samuel 22:19","book":"1-samuel","lang":"ckb","chapter":22,"translation":"و ⟨את⟩ نۆڤ، شارۆچکەی کاهینەکان، بە دەمی شمشێر لە پیاوەوە بۆ ئافرەت، لە منداڵی بچووکەوە بۆ شیرخۆر، و گا و گوێدرێژ و مەڕ، بە دەمی شمشێر لێیدا.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩","marks":"نۆڤ"},{"surface":"נב","gloss":"نۆڤ"},{"surface":"עיר","gloss":"شارۆچکە"},{"surface":"הכהנים","gloss":"کاهینەکان"},{"surface":"הכה","gloss":"لێیدا"},{"surface":"לפי","gloss":"بە دەمی"},{"surface":"חרב","gloss":"شمشێر"},{"surface":"מאיש","gloss":"لە پیاوەوە"},{"surface":"ועד","gloss":"بۆ"},{"surface":"אשה","gloss":"ئافرەت"},{"surface":"מעולל","gloss":"لە منداڵی بچووکەوە"},{"surface":"ועד","gloss":"بۆ"},{"surface":"יונק","gloss":"شیرخۆر"},{"surface":"ושור","gloss":"و گا"},{"surface":"וחמור","gloss":"و گوێدرێژ"},{"surface":"ושה","gloss":"و مەڕ"},{"surface":"לפי","gloss":"بە دەمی"},{"surface":"חרב","gloss":"شمشێر"}],"timestamp":"2026-09-24T11:27:54.189600582Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 22:19",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و ⟨את⟩ نۆڤ، شارۆچکەی کاهینەکان، بە دەمی شمشێر لە پیاوەوە بۆ ئافرەت، لە منداڵی بچووکەوە بۆ شیرخۆر، و گا و گوێدرێژ و مەڕ، بە دەمی شمشێر لێیدا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "نۆڤ"
+    },
+    {
+      "surface": "נב",
+      "gloss": "نۆڤ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شارۆچکە"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهینەکان"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "لێیدا"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بە دەمی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "لە پیاوەوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئافرەت"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "لە منداڵی بچووکەوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "شیرخۆر"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "و گا"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "و گوێدرێژ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "و مەڕ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بە دەمی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    }
+  ],
+  "timestamp": "2026-09-24T11:27:54.189600582Z",
+  "model": "glm-5.3"
+}

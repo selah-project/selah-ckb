@@ -1,1 +1,93 @@
-{"tier":"glm-5.2","verse":22,"ref":"ezra 7:22","book":"ezra","lang":"ckb","chapter":7,"translation":"هەتا سەد تالانت زیو، و هەتا سەد کۆڕ گەنم، و هەتا سەد بەس شەراب، و هەتا سەد بەس ڕۆن، و خوێ بێ ئەوەی نووسراو بێت.","tokens":[{"surface":"עד","gloss":"هەتا"},{"surface":"כסף","gloss":"زیو"},{"surface":"ככרין","gloss":"تالانت"},{"surface":"מאה","gloss":"سەد"},{"surface":"ועד","gloss":"و هەتا"},{"surface":"חנטין","gloss":"گەنم"},{"surface":"כרין","gloss":"کۆڕ"},{"surface":"מאה","gloss":"سەد"},{"surface":"ועד","gloss":"و هەتا"},{"surface":"חמר","gloss":"شەراب"},{"surface":"בתין","gloss":"بەس"},{"surface":"מאה","gloss":"سەد"},{"surface":"ועד","gloss":"و هەتا"},{"surface":"בתין","gloss":"بەس"},{"surface":"משח","gloss":"ڕۆن"},{"surface":"מאה","gloss":"سەد"},{"surface":"ומלח","gloss":"و خوێ"},{"surface":"די","gloss":"کە"},{"surface":"לא","gloss":"بێ"},{"surface":"כתב","gloss":"نووسراو"}],"timestamp":"2026-09-24T15:14:30.738209239Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "هەتا سەد تالانت زیو، و هەتا سەد کۆڕ گەنم، و هەتا سەد بەس شەراب، و هەتا سەد بەس ڕۆن، و خوێ بێ ئەوەی نووسراو بێت.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "هەتا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "تالانت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و هەتا"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "گەنم"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "کۆڕ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و هەتا"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "شەراب"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "بەس"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و هەتا"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "بەس"
+    },
+    {
+      "surface": "משח",
+      "gloss": "ڕۆن"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "و خوێ"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بێ"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "نووسراو"
+    }
+  ],
+  "timestamp": "2026-09-24T15:14:30.738209239Z",
+  "model": "glm-5.3"
+}

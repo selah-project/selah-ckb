@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":2,"ref":"numbers 4:2","book":"numbers","lang":"ckb","chapter":4,"translation":"سەری ⟨את⟩ کوڕانی قەهات لە ناوەڕاستی کوڕانی لەڤی بەرز بکەرەوە، بە خێڵەکانیان، بە ماڵی باوکانیان،","tokens":[{"surface":"נשא","gloss":"بەرز بکەرەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"سەری کوڕانی قەهات"},{"surface":"ראש","gloss":"سەر"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"קהת","gloss":"قەهات"},{"surface":"מתוך","gloss":"لە ناوەڕاستی"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"לוי","gloss":"لەڤی"},{"surface":"למשפחתם","gloss":"بە خێڵەکانیان"},{"surface":"לבית","gloss":"بە ماڵی"},{"surface":"אבתם","gloss":"باوکانیان"}],"timestamp":"2026-09-24T10:14:58.222208272Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "سەری ⟨את⟩ کوڕانی قەهات لە ناوەڕاستی کوڕانی لەڤی بەرز بکەرەوە، بە خێڵەکانیان، بە ماڵی باوکانیان،",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "بەرز بکەرەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سەری کوڕانی قەهات"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قەهات"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "لە ناوەڕاستی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لەڤی"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "بە خێڵەکانیان"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بە ماڵی"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "باوکانیان"
+    }
+  ],
+  "timestamp": "2026-09-24T10:14:58.222208272Z",
+  "model": "glm-5.3"
+}

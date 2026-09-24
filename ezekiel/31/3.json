@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":3,"ref":"ezekiel 31:3","book":"ezekiel","lang":"ckb","chapter":31,"translation":"ئەوا ئاشوور دار بەڕووێکە لە لوبنان، جوان لە لق، و سەیوان، بەرز لە قەد، و لە نێوان تۆڕەکانیدا سەرەکەی بوو.","tokens":[{"surface":"הנה","gloss":"ئەوا"},{"surface":"אשור","gloss":"ئاشوور"},{"surface":"ארז","gloss":"دار بەڕوو"},{"surface":"בלבנון","gloss":"لە لوبنان"},{"surface":"יפה","gloss":"جوان"},{"surface":"ענף","gloss":"لق"},{"surface":"וחרש","gloss":"و سەیوان"},{"surface":"מצל","gloss":"سایەبەر"},{"surface":"וגבה","gloss":"بەرز"},{"surface":"קומה","gloss":"قەد"},{"surface":"ובין","gloss":"و لە نێوان"},{"surface":"עבתים","gloss":"تۆڕەکانیدا"},{"surface":"היתה","gloss":"بوو"},{"surface":"צמרתו","gloss":"سەرەکەی"}],"timestamp":"2026-09-24T13:18:30.861178238Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 31:3",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "ئەوا ئاشوور دار بەڕووێکە لە لوبنان، جوان لە لق، و سەیوان، بەرز لە قەد، و لە نێوان تۆڕەکانیدا سەرەکەی بوو.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ئەوا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ئاشوور"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "دار بەڕوو"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "لە لوبنان"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "لق"
+    },
+    {
+      "surface": "וחרש",
+      "gloss": "و سەیوان"
+    },
+    {
+      "surface": "מצל",
+      "gloss": "سایەبەر"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "بەرز"
+    },
+    {
+      "surface": "קומה",
+      "gloss": "قەد"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و لە نێوان"
+    },
+    {
+      "surface": "עבתים",
+      "gloss": "تۆڕەکانیدا"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "צמרתו",
+      "gloss": "سەرەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:30.861178238Z",
+  "model": "glm-5.3"
+}

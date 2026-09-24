@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":11,"ref":"numbers 36:11","book":"numbers","lang":"ckb","chapter":36,"translation":"بوون ماحلا تیرتسا و حاگلا و میلکا و نۆعا کچەکانی تسیلۆفحاد بۆ کوڕانی مامیان بۆ ژنان.","tokens":[{"surface":"ותהיינה","gloss":"بوون"},{"surface":"מחלה","gloss":"ماحلا"},{"surface":"תרצה","gloss":"تیرتسا"},{"surface":"וחגלה","gloss":"و حاگلا"},{"surface":"ומלכה","gloss":"و میلکا"},{"surface":"ונעה","gloss":"و نۆعا"},{"surface":"בנות","gloss":"کچەکانی"},{"surface":"צלפחד","gloss":"تسیلۆفحاد"},{"surface":"לבני","gloss":"بۆ کوڕانی"},{"surface":"דדיהן","gloss":"مامیان"},{"surface":"לנשים","gloss":"بۆ ژنان"}],"timestamp":"2026-09-24T17:01:59.246696154Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 36:11",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 36,
+  "translation": "بوون ماحلا تیرتسا و حاگلا و میلکا و نۆعا کچەکانی تسیلۆفحاد بۆ کوڕانی مامیان بۆ ژنان.",
+  "tokens": [
+    {
+      "surface": "ותהיינה",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ماحلا"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "تیرتسا"
+    },
+    {
+      "surface": "וחגלה",
+      "gloss": "و حاگلا"
+    },
+    {
+      "surface": "ומלכה",
+      "gloss": "و میلکا"
+    },
+    {
+      "surface": "ונעה",
+      "gloss": "و نۆعا"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچەکانی"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "تسیلۆفحاد"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بۆ کوڕانی"
+    },
+    {
+      "surface": "דדיהן",
+      "gloss": "مامیان"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "بۆ ژنان"
+    }
+  ],
+  "timestamp": "2026-09-24T17:01:59.246696154Z",
+  "model": "glm-5.3"
+}

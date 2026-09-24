@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":25,"ref":"exodus 25:25","book":"exodus","lang":"ckb","chapter":25,"translation":"و دەچنی بۆی قەپچەیەکی پانی یەک دەست بە دەوربەر، و دەچنی تاجێکی زێڕین بۆ قەپچەکەی بە دەوربەر.","tokens":[{"surface":"ועשית","gloss":"و دەچنی"},{"surface":"לו","gloss":"بۆی"},{"surface":"מסגרת","gloss":"قەپچەیەک"},{"surface":"טפח","gloss":"پانی یەک دەست"},{"surface":"סביב","gloss":"بە دەوربەر"},{"surface":"ועשית","gloss":"و دەچنی"},{"surface":"זר","gloss":"تاجێکی"},{"surface":"זהב","gloss":"زێڕین"},{"surface":"למסגרתו","gloss":"بۆ قەپچەکەی"},{"surface":"סביב","gloss":"بە دەوربەر"}],"timestamp":"2026-09-24T09:48:46.110643880Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "و دەچنی بۆی قەپچەیەکی پانی یەک دەست بە دەوربەر، و دەچنی تاجێکی زێڕین بۆ قەپچەکەی بە دەوربەر.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "و دەچنی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "قەپچەیەک"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "پانی یەک دەست"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "بە دەوربەر"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "و دەچنی"
+    },
+    {
+      "surface": "זר",
+      "gloss": "تاجێکی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زێڕین"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "بۆ قەپچەکەی"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "بە دەوربەر"
+    }
+  ],
+  "timestamp": "2026-09-24T09:48:46.110643880Z",
+  "model": "glm-5.3"
+}

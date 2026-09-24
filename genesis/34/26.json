@@ -1,1 +1,72 @@
-{"tier":"glm-5.2","verse":26,"ref":"genesis 34:26","book":"genesis","lang":"ckb","chapter":34,"translation":"و ⟨את⟩ حەمۆر و ⟨את⟩ شێخەمی کوڕیان بە لێوی شمشێر کوشتن و ⟨את⟩ دینایان لە ماڵی شێخەمەوە هێنا و ڕۆیشتن.","tokens":[{"surface":"ואת","gloss":"و ⟨את⟩","marks":"حەمۆر"},{"surface":"חמור","gloss":"حەمۆر"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"شێخەم"},{"surface":"שכם","gloss":"شێخەم"},{"surface":"בנו","gloss":"کوڕی"},{"surface":"הרגו","gloss":"کوشتن"},{"surface":"לפי","gloss":"بە لێوی"},{"surface":"חרב","gloss":"شمشێر"},{"surface":"ויקחו","gloss":"هێنا"},{"surface":"את","gloss":"⟨את⟩","marks":"دینا"},{"surface":"דינה","gloss":"دینا"},{"surface":"מבית","gloss":"لە ماڵی"},{"surface":"שכם","gloss":"شێخەم"},{"surface":"ויצאו","gloss":"ڕۆیشتن"}],"timestamp":"2026-09-24T17:57:55.311065674Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "و ⟨את⟩ حەمۆر و ⟨את⟩ شێخەمی کوڕیان بە لێوی شمشێر کوشتن و ⟨את⟩ دینایان لە ماڵی شێخەمەوە هێنا و ڕۆیشتن.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "حەمۆر"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حەمۆر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "شێخەم"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شێخەم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "کوشتن"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "بە لێوی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "شمشێر"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دینا"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دینا"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "لە ماڵی"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شێخەم"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ڕۆیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T17:57:55.311065674Z",
+  "model": "glm-5.3"
+}

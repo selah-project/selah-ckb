@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":18,"ref":"job 24:18","book":"job","lang":"ckb","chapter":24,"translation":"سووکە لەسەر ڕووی ئاو، پشکەکەیان لە زەوی نەفرەت لێکراوە، بەرەو ڕێگای مۆزگاکان ناڕوات.","tokens":[{"surface":"קל","gloss":"سووک"},{"surface":"הוא","gloss":"ئەو"},{"surface":"על","gloss":"لەسەر"},{"surface":"פני","gloss":"ڕووی"},{"surface":"מים","gloss":"ئاو"},{"surface":"תקלל","gloss":"نەفرەت لێکراوە"},{"surface":"חלקתם","gloss":"پشکەکەیان"},{"surface":"בארץ","gloss":"لە زەوی"},{"surface":"לא","gloss":"نا"},{"surface":"יפנה","gloss":"بەرەو دەڕوات"},{"surface":"דרך","gloss":"ڕێگای"},{"surface":"כרמים","gloss":"مۆزگاکان"}],"timestamp":"2026-09-24T14:42:19.847283760Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 24:18",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "سووکە لەسەر ڕووی ئاو، پشکەکەیان لە زەوی نەفرەت لێکراوە، بەرەو ڕێگای مۆزگاکان ناڕوات.",
+  "tokens": [
+    {
+      "surface": "קל",
+      "gloss": "سووک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ڕووی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "نەفرەت لێکراوە"
+    },
+    {
+      "surface": "חלקתם",
+      "gloss": "پشکەکەیان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "بەرەو دەڕوات"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگای"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "مۆزگاکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:42:19.847283760Z",
+  "model": "glm-5.3"
+}

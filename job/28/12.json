@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":12,"ref":"job 28:12","book":"job","lang":"ckb","chapter":28,"translation":"بەڵام حیکمەت لە کوێ دەدۆزرێتەوە، و شوێنی تێگەیشتن لە کوێیە؟","tokens":[{"surface":"והחכמה","gloss":"بەڵام حیکمەت"},{"surface":"מאין","gloss":"لە کوێ"},{"surface":"תמצא","gloss":"دەدۆزرێتەوە"},{"surface":"ואי","gloss":"و لە کوێ"},{"surface":"זה","gloss":"ئەوە"},{"surface":"מקום","gloss":"شوێنی"},{"surface":"בינה","gloss":"تێگەیشتن"}],"timestamp":"2026-09-24T14:41:42.395344963Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "بەڵام حیکمەت لە کوێ دەدۆزرێتەوە، و شوێنی تێگەیشتن لە کوێیە؟",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "بەڵام حیکمەت"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "لە کوێ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "دەدۆزرێتەوە"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "و لە کوێ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "شوێنی"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "تێگەیشتن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:42.395344963Z",
+  "model": "glm-5.3"
+}

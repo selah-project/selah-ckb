@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":30,"ref":"jeremiah 6:30","book":"jeremiah","lang":"ckb","chapter":6,"translation":"زیوی خەتڵەکراو، ئەوەیان پێ دەڵێن، چونکە یاهوە ڕایان لێ کردەوە.","tokens":[{"surface":"כסף","gloss":"زیو"},{"surface":"נמאס","gloss":"خەتڵەکراو"},{"surface":"קראו","gloss":"دەڵێن"},{"surface":"להם","gloss":"بۆیان"},{"surface":"כי","gloss":"چونکە"},{"surface":"מאס","gloss":"ڕای لێکردەوە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"בהם","gloss":"لەوان"}],"timestamp":"2026-09-24T17:05:34.281806671Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "زیوی خەتڵەکراو، ئەوەیان پێ دەڵێن، چونکە یاهوە ڕایان لێ کردەوە.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "زیو"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "خەتڵەکراو"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "دەڵێن"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆیان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ڕای لێکردەوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "لەوان"
+    }
+  ],
+  "timestamp": "2026-09-24T17:05:34.281806671Z",
+  "model": "glm-5.3"
+}

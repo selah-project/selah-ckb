@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 102:8","book":"psalms","lang":"ckb","chapter":102,"translation":"بێخەبو مایەوە و وەک کۆترێکی تەنها لەسەر سەربان بووم.","tokens":[{"surface":"שקדתי","gloss":"بێخەبو مایەوە"},{"surface":"ואהיה","gloss":"و بووم"},{"surface":"כצפור","gloss":"وەک کۆتر"},{"surface":"בודד","gloss":"تەنها"},{"surface":"על","gloss":"لەسەر"},{"surface":"גג","gloss":"سەربان"}],"timestamp":"2026-09-24T14:10:38.052022899Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 102,
+  "translation": "بێخەبو مایەوە و وەک کۆترێکی تەنها لەسەر سەربان بووم.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "بێخەبو مایەوە"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "و بووم"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "وەک کۆتر"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "גג",
+      "gloss": "سەربان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:38.052022899Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":3,"ref":"zechariah 4:3","book":"zechariah","lang":"ckb","chapter":4,"translation":"و دوو زەیتوون لە تەنیشتی، یەک لە لای ڕاستی کاسەکە و یەک لە لای چەپی.","tokens":[{"surface":"ושנים","gloss":"و دوو"},{"surface":"זיתים","gloss":"زەیتوون"},{"surface":"עליה","gloss":"لە تەنیشتی"},{"surface":"אחד","gloss":"یەک"},{"surface":"מימין","gloss":"لە لای ڕاستی"},{"surface":"הגלה","gloss":"کاسەکە"},{"surface":"ואחד","gloss":"و یەک"},{"surface":"על","gloss":"لە"},{"surface":"שמאלה","gloss":"لای چەپی"}],"timestamp":"2026-09-24T13:43:52.388632703Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و دوو زەیتوون لە تەنیشتی، یەک لە لای ڕاستی کاسەکە و یەک لە لای چەپی.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "و دوو"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "زەیتوون"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "لە تەنیشتی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "لە لای ڕاستی"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "کاسەکە"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "و یەک"
+    },
+    {
+      "surface": "על",
+      "gloss": "لە"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "لای چەپی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:43:52.388632703Z",
+  "model": "glm-5.3"
+}

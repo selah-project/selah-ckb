@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":10,"ref":"ecclesiastes 2:10","book":"ecclesiastes","lang":"ckb","chapter":2,"translation":"و هەموو ئەوەی کە چاوەکانم دەانیوێت لێیان نەبەرخستم؛ دڵم ⟨את⟩ لە هیچ شادییەک نەمواژهتم، چونکە دڵم لە هەموو زەحمەتەکەم شاد بوو، و ئەمە بەشەم بوو لە هەموو زەحمەتەکەم.","tokens":[{"surface":"וכל","gloss":"و هەموو"},{"surface":"אשר","gloss":"کە"},{"surface":"שאלו","gloss":"دەانیوێت"},{"surface":"עיני","gloss":"چاوەکانم"},{"surface":"לא","gloss":"نە"},{"surface":"אצלתי","gloss":"بەرخستم"},{"surface":"מהם","gloss":"لێیان"},{"surface":"לא","gloss":"نە"},{"surface":"מנעתי","gloss":"مواژهتم"},{"surface":"את","gloss":"⟨את⟩","marks":"دڵم"},{"surface":"לבי","gloss":"دڵم"},{"surface":"מכל","gloss":"لە هیچ"},{"surface":"שמחה","gloss":"شادییەک"},{"surface":"כי","gloss":"چونکە"},{"surface":"לבי","gloss":"دڵم"},{"surface":"שמח","gloss":"شاد بوو"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"עמלי","gloss":"زەحمەتەکەم"},{"surface":"וזה","gloss":"و ئەمە"},{"surface":"היה","gloss":"بوو"},{"surface":"חלקי","gloss":"بەشەم"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"עמלי","gloss":"زەحمەتەکەم"}],"timestamp":"2026-09-24T14:55:59.691210083Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و هەموو ئەوەی کە چاوەکانم دەانیوێت لێیان نەبەرخستم؛ دڵم ⟨את⟩ لە هیچ شادییەک نەمواژهتم، چونکە دڵم لە هەموو زەحمەتەکەم شاد بوو، و ئەمە بەشەم بوو لە هەموو زەحمەتەکەم.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "و هەموو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "دەانیوێت"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "چاوەکانم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "بەرخستم"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "لێیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "مواژهتم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دڵم"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هیچ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "شادییەک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "دڵم"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "شاد بوو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "زەحمەتەکەم"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "و ئەمە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "بەشەم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "زەحمەتەکەم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:59.691210083Z",
+  "model": "glm-5.3"
+}

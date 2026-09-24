@@ -1,1 +1,111 @@
-{"tier":"glm-5.2","verse":33,"ref":"numbers 35:33","book":"numbers","lang":"ckb","chapter":35,"translation":"و ⟨את⟩ زەویەکە کە ئێوە تێیدان پیس مەکەن، چونکە خوێن ئەوەیە کە ⟨את⟩ زەویەکە پیس دەکات، و بۆ زەویەکە پاک نابێتەوە بۆ ئەو خوێنەی کە تێیدا ڕێژراوە، بەڵکو تەنها بە خوێنی ڕێژەری.","tokens":[{"surface":"ולא","gloss":"و نا"},{"surface":"תחניפו","gloss":"پیس دەکەن"},{"surface":"את","gloss":"⟨את⟩","marks":"زەویەکە"},{"surface":"הארץ","gloss":"زەویەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"אתם","gloss":"ئێوە"},{"surface":"בה","gloss":"تێیدا"},{"surface":"כי","gloss":"چونکە"},{"surface":"הדם","gloss":"خوێن"},{"surface":"הוא","gloss":"ئەوەیە"},{"surface":"יחניף","gloss":"پیس دەکات"},{"surface":"את","gloss":"⟨את⟩","marks":"زەویەکە"},{"surface":"הארץ","gloss":"زەویەکە"},{"surface":"ולארץ","gloss":"و بۆ زەویەکە"},{"surface":"לא","gloss":"نا"},{"surface":"יכפר","gloss":"پاک نابێتەوە"},{"surface":"לדם","gloss":"بۆ خوێن"},{"surface":"אשר","gloss":"کە"},{"surface":"שפך","gloss":"ڕێژراوە"},{"surface":"בה","gloss":"تێیدا"},{"surface":"כי","gloss":"بەڵکو"},{"surface":"אם","gloss":"تەنها"},{"surface":"בדם","gloss":"بە خوێنی"},{"surface":"שפכו","gloss":"ڕێژەری"}],"timestamp":"2026-09-24T17:28:12.197331959Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 35:33",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 35,
+  "translation": "و ⟨את⟩ زەویەکە کە ئێوە تێیدان پیس مەکەن، چونکە خوێن ئەوەیە کە ⟨את⟩ زەویەکە پیس دەکات، و بۆ زەویەکە پاک نابێتەوە بۆ ئەو خوێنەی کە تێیدا ڕێژراوە، بەڵکو تەنها بە خوێنی ڕێژەری.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תחניפו",
+      "gloss": "پیس دەکەن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ئێوە"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خوێن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    },
+    {
+      "surface": "יחניף",
+      "gloss": "پیس دەکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زەویەکە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "ולארץ",
+      "gloss": "و بۆ زەویەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "پاک نابێتەوە"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "بۆ خوێن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ڕێژراوە"
+    },
+    {
+      "surface": "בה",
+      "gloss": "تێیدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "تەنها"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "بە خوێنی"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "ڕێژەری"
+    }
+  ],
+  "timestamp": "2026-09-24T17:28:12.197331959Z",
+  "model": "glm-5.3"
+}

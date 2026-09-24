@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":35,"ref":"isaiah 37:35","book":"isaiah","lang":"ckb","chapter":37,"translation":"و من بەرگریی ئەم شارە دەکەم بۆ ڕزگارکردنی، بۆ خۆم و بۆ داود خزمەتکاری خۆم.","tokens":[{"surface":"וגנותי","gloss":"و بەرگریی دەکەم"},{"surface":"על","gloss":"بۆ"},{"surface":"העיר","gloss":"ئەم شارە"},{"surface":"הזאת","gloss":"ئەمە"},{"surface":"להושיעה","gloss":"بۆ ڕزگارکردنی"},{"surface":"למעני","gloss":"بۆ خۆم"},{"surface":"ולמען","gloss":"و بۆ"},{"surface":"דוד","gloss":"داود"},{"surface":"עבדי","gloss":"خزمەتکاری خۆم"}],"timestamp":"2026-09-24T12:25:00.606119980Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و من بەرگریی ئەم شارە دەکەم بۆ ڕزگارکردنی، بۆ خۆم و بۆ داود خزمەتکاری خۆم.",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "و بەرگریی دەکەم"
+    },
+    {
+      "surface": "על",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ئەم شارە"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "بۆ ڕزگارکردنی"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "بۆ خۆم"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "و بۆ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داود"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "خزمەتکاری خۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:25:00.606119980Z",
+  "model": "glm-5.3"
+}

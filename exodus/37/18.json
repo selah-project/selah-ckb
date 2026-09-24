@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":18,"ref":"exodus 37:18","book":"exodus","lang":"ckb","chapter":37,"translation":"و شەش قامە لە لایەکانی دەرچوون، سێ قامەی مەنۆرا لە لایەکەی یەکەم و سێ قامەی مەنۆرا لە لایەکەی دووەم.","tokens":[{"surface":"וששה","gloss":"و شەش"},{"surface":"קנים","gloss":"قامەکان"},{"surface":"יצאים","gloss":"دەرچوون"},{"surface":"מצדיה","gloss":"لە لایەکانی"},{"surface":"שלשה","gloss":"سێ"},{"surface":"קני","gloss":"قامەکانی"},{"surface":"מנרה","gloss":"مەنۆرا"},{"surface":"מצדה","gloss":"لە لایەکەی"},{"surface":"האחד","gloss":"یەکەم"},{"surface":"ושלשה","gloss":"و سێ"},{"surface":"קני","gloss":"قامەکانی"},{"surface":"מנרה","gloss":"مەنۆرا"},{"surface":"מצדה","gloss":"لە لایەکەی"},{"surface":"השני","gloss":"دووەم"}],"timestamp":"2026-09-24T09:56:22.917469581Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 37:18",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 37,
+  "translation": "و شەش قامە لە لایەکانی دەرچوون، سێ قامەی مەنۆرا لە لایەکەی یەکەم و سێ قامەی مەنۆرا لە لایەکەی دووەم.",
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "و شەش"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قامەکان"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "دەرچوون"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "لە لایەکانی"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "קני",
+      "gloss": "قامەکانی"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "مەنۆرا"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "لە لایەکەی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یەکەم"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "و سێ"
+    },
+    {
+      "surface": "קני",
+      "gloss": "قامەکانی"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "مەنۆرا"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "لە لایەکەی"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دووەم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:56:22.917469581Z",
+  "model": "glm-5.3"
+}

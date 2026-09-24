@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":42,"ref":"1-chronicles 4:42","book":"1-chronicles","lang":"ckb","chapter":4,"translation":"و لەوان لە کوڕانی شیمئۆن پیاوان چوار سەد و سەد چوون بۆ چیای سەعیر و پەلاتیا و نەعەریا و ڕەفایا و عوزیئێل کوڕانی ییشعی لە سەریان بوون","tokens":[{"surface":"ומהם","gloss":"و لەوان"},{"surface":"מן","gloss":"لە"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"שמעון","gloss":"شیمئۆن"},{"surface":"הלכו","gloss":"چوون"},{"surface":"להר","gloss":"بۆ چیای"},{"surface":"שעיר","gloss":"سەعیر"},{"surface":"אנשים","gloss":"پیاوان"},{"surface":"חמש","gloss":"پێنج"},{"surface":"מאות","gloss":"سەد"},{"surface":"ופלטיה","gloss":"و پەلاتیا"},{"surface":"ונעריה","gloss":"و نەعەریا"},{"surface":"ורפיה","gloss":"و ڕەفایا"},{"surface":"ועזיאל","gloss":"و عوزیئێل"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישעי","gloss":"ییشعی"},{"surface":"בראשם","gloss":"لە سەریان"}],"timestamp":"2026-09-24T15:22:00.355599515Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 4:42",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و لەوان لە کوڕانی شیمئۆن پیاوان چوار سەد و سەد چوون بۆ چیای سەعیر و پەلاتیا و نەعەریا و ڕەفایا و عوزیئێل کوڕانی ییشعی لە سەریان بوون",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "و لەوان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمئۆن"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "چوون"
+    },
+    {
+      "surface": "להר",
+      "gloss": "بۆ چیای"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سەعیر"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "پیاوان"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پێنج"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "ופלטיה",
+      "gloss": "و پەلاتیا"
+    },
+    {
+      "surface": "ונעריה",
+      "gloss": "و نەعەریا"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "و ڕەفایا"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "و عوزیئێل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ییشعی"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "لە سەریان"
+    }
+  ],
+  "timestamp": "2026-09-24T15:22:00.355599515Z",
+  "model": "glm-5.3"
+}

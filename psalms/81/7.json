@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 81:7","book":"psalms","lang":"ckb","chapter":81,"translation":"من بارگرانی لە شانی لابردم؛ دەستەکانی لە سەبەتەوە دەرچوون.","tokens":[{"surface":"הסירותי","gloss":"لابردم"},{"surface":"מסבל","gloss":"لە بارگرانی"},{"surface":"שכמו","gloss":"شانی"},{"surface":"כפיו","gloss":"دەستەکانی"},{"surface":"מדוד","gloss":"لە سەبەتەوە"},{"surface":"תעברנה","gloss":"دەرچوون"}],"timestamp":"2026-09-24T14:06:45.090127316Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 81,
+  "translation": "من بارگرانی لە شانی لابردم؛ دەستەکانی لە سەبەتەوە دەرچوون.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "لابردم"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "لە بارگرانی"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "شانی"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "دەستەکانی"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "لە سەبەتەوە"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "دەرچوون"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:45.090127316Z",
+  "model": "glm-5.3"
+}

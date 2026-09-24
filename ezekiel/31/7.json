@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":7,"ref":"ezekiel 31:7","book":"ezekiel","lang":"ckb","chapter":31,"translation":"و لە گەورەییەکەیدا جوان بوو، لە درێژیی لقە دابەزەکانی، چونکە ڕەگەکەی لە لای ئاوی زۆر بوو.","tokens":[{"surface":"וייף","gloss":"و جوان بوو"},{"surface":"בגדלו","gloss":"لە گەورەییەکەی"},{"surface":"בארך","gloss":"لە درێژی"},{"surface":"דליותיו","gloss":"لقە دابەزەکانی"},{"surface":"כי","gloss":"چونکە"},{"surface":"היה","gloss":"بوو"},{"surface":"שרשו","gloss":"ڕەگەکەی"},{"surface":"אל","gloss":"لە لای"},{"surface":"מים","gloss":"ئاو"},{"surface":"רבים","gloss":"زۆر"}],"timestamp":"2026-09-24T13:19:49.490047803Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 31:7",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "و لە گەورەییەکەیدا جوان بوو، لە درێژیی لقە دابەزەکانی، چونکە ڕەگەکەی لە لای ئاوی زۆر بوو.",
+  "tokens": [
+    {
+      "surface": "וייף",
+      "gloss": "و جوان بوو"
+    },
+    {
+      "surface": "בגדלו",
+      "gloss": "لە گەورەییەکەی"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "لە درێژی"
+    },
+    {
+      "surface": "דליותיו",
+      "gloss": "لقە دابەزەکانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "ڕەگەکەی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T13:19:49.490047803Z",
+  "model": "glm-5.3"
+}

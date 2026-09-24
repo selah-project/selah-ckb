@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":30,"ref":"1-kings 13:30","book":"1-kings","lang":"ckb","chapter":13,"translation":"و ⟨את⟩ لاشەکەی لە گۆڕەکەی خۆیدا نایشانەوە و بۆی شیوینیان کرد: هۆی برایم","tokens":[{"surface":"וינח","gloss":"و نایشانەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"لاشەکەی"},{"surface":"נבלתו","gloss":"لاشەکەی"},{"surface":"בקברו","gloss":"لە گۆڕەکەی خۆی"},{"surface":"ויספדו","gloss":"و شیوینیان کرد"},{"surface":"עליו","gloss":"بۆی"},{"surface":"הוי","gloss":"هۆی"},{"surface":"אחי","gloss":"برایم"}],"timestamp":"2026-09-24T11:52:50.140497918Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "و ⟨את⟩ لاشەکەی لە گۆڕەکەی خۆیدا نایشانەوە و بۆی شیوینیان کرد: هۆی برایم",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "و نایشانەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاشەکەی"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "لاشەکەی"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "لە گۆڕەکەی خۆی"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "و شیوینیان کرد"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "هۆی"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برایم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:52:50.140497918Z",
+  "model": "glm-5.3"
+}

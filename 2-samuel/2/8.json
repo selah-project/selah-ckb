@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-samuel 2:8","book":"2-samuel","lang":"ckb","chapter":2,"translation":"و ئەبنێر ⟨کوڕی نێر⟩، سەرکردەی ئەو سوپایەی شائول، ⟨את⟩ ئیش بۆشێت ⟨کوڕی شائول⟩ی برد و بردی بۆ ماخانایم ⟨مەحنایم⟩.","tokens":[{"surface":"ואבנר","gloss":"و ئەبنێر"},{"surface":"בן","gloss":"کوڕی"},{"surface":"נר","gloss":"نێر"},{"surface":"שר","gloss":"سەرکردەی"},{"surface":"צבא","gloss":"سوپا"},{"surface":"אשר","gloss":"کە"},{"surface":"לשאול","gloss":"هی شائول"},{"surface":"לקח","gloss":"برد"},{"surface":"את","gloss":"⟨את⟩","marks":"ئیش بۆشێت"},{"surface":"איש","gloss":"ئیش"},{"surface":"בשת","gloss":"بۆشێت"},{"surface":"בן","gloss":"کوڕی"},{"surface":"שאול","gloss":"شائول"},{"surface":"ויעברהו","gloss":"و بردی"},{"surface":"מחנים","gloss":"ماخانایم"}],"timestamp":"2026-09-24T11:31:59.016332216Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "و ئەبنێر ⟨کوڕی نێر⟩، سەرکردەی ئەو سوپایەی شائول، ⟨את⟩ ئیش بۆشێت ⟨کوڕی شائول⟩ی برد و بردی بۆ ماخانایم ⟨مەحنایم⟩.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "و ئەبنێر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "נר",
+      "gloss": "نێر"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سەرکردەی"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "سوپا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "هی شائول"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "برد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئیش بۆشێت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ئیش"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "بۆشێت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شائول"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "و بردی"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "ماخانایم"
+    }
+  ],
+  "timestamp": "2026-09-24T11:31:59.016332216Z",
+  "model": "glm-5.3"
+}

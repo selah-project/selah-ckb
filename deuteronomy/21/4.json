@@ -1,1 +1,95 @@
-{"tier":"glm-5.2","verse":4,"ref":"deuteronomy 21:4","book":"deuteronomy","lang":"ckb","chapter":21,"translation":"و پیرانی ئەو شارە مێڕەکە ⟨את⟩ دەخەنە خوارەوە بۆ ناو دۆڵێکی بەهێز، کە تێیدا نە کرێنج دەکرێت و نە تۆو دەچێنرێت، و لەوێ ملی ⟨את⟩ مێڕەکە لە دۆڵەکەدا دەبڕن،","tokens":[{"surface":"והורדו","gloss":"دەخەنە خوارەوە"},{"surface":"זקני","gloss":"پیرانی"},{"surface":"העיר","gloss":"شار"},{"surface":"ההוא","gloss":"ئەو"},{"surface":"את","gloss":"⟨את⟩","marks":"مێڕەکە"},{"surface":"העגלה","gloss":"مێڕەکە"},{"surface":"אל","gloss":"بۆ ناو"},{"surface":"נחל","gloss":"دۆڵ"},{"surface":"איתן","gloss":"بەهێز"},{"surface":"אשר","gloss":"کە تێیدا"},{"surface":"לא","gloss":"نە"},{"surface":"יעבד","gloss":"کرێنج دەکرێت"},{"surface":"בו","gloss":"تێی"},{"surface":"ולא","gloss":"و نە"},{"surface":"יזרע","gloss":"تۆو دەچێنرێت"},{"surface":"וערפו","gloss":"دەبڕن ملی"},{"surface":"שם","gloss":"لەوێ"},{"surface":"את","gloss":"⟨את⟩","marks":"مێڕەکە"},{"surface":"העגלה","gloss":"مێڕەکە"},{"surface":"בנחל","gloss":"لە دۆڵەکەدا"}],"timestamp":"2026-09-24T10:44:17.429259198Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 21,
+  "translation": "و پیرانی ئەو شارە مێڕەکە ⟨את⟩ دەخەنە خوارەوە بۆ ناو دۆڵێکی بەهێز، کە تێیدا نە کرێنج دەکرێت و نە تۆو دەچێنرێت، و لەوێ ملی ⟨את⟩ مێڕەکە لە دۆڵەکەدا دەبڕن،",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "دەخەنە خوارەوە"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "پیرانی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ئەو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مێڕەکە"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "مێڕەکە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ ناو"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "دۆڵ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "بەهێز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە تێیدا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "کرێنج دەکرێت"
+    },
+    {
+      "surface": "בו",
+      "gloss": "تێی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "تۆو دەچێنرێت"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "دەبڕن ملی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مێڕەکە"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "مێڕەکە"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "لە دۆڵەکەدا"
+    }
+  ],
+  "timestamp": "2026-09-24T10:44:17.429259198Z",
+  "model": "glm-5.3"
+}

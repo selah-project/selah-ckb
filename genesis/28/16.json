@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":16,"ref":"genesis 28:16","book":"genesis","lang":"ckb","chapter":28,"translation":"و یەعقوب لە خەوتنەکەی خۆیەوە بەئاگا هات و وت: بێگومان یاهوە لەم شوێنەدایە و من نەمدەزانی.","tokens":[{"surface":"וייקץ","gloss":"و بەئاگا هات"},{"surface":"יעקב","gloss":"یەعقوب"},{"surface":"משנתו","gloss":"لە خەوتنەکەی خۆیەوە"},{"surface":"ויאמר","gloss":"و وت"},{"surface":"אכן","gloss":"بێگومان"},{"surface":"יש","gloss":"هەیە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"במקום","gloss":"لە شوێن"},{"surface":"הזה","gloss":"ئەم"},{"surface":"ואנכי","gloss":"و من"},{"surface":"לא","gloss":"نا"},{"surface":"ידעתי","gloss":"دەزانی"}],"timestamp":"2026-09-24T09:23:53.164303069Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 28,
+  "translation": "و یەعقوب لە خەوتنەکەی خۆیەوە بەئاگا هات و وت: بێگومان یاهوە لەم شوێنەدایە و من نەمدەزانی.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "و بەئاگا هات"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقوب"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "لە خەوتنەکەی خۆیەوە"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "بێگومان"
+    },
+    {
+      "surface": "יש",
+      "gloss": "هەیە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "لە شوێن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "و من"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "دەزانی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:23:53.164303069Z",
+  "model": "glm-5.3"
+}

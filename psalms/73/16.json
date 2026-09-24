@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":16,"ref":"psalms 73:16","book":"psalms","lang":"ckb","chapter":73,"translation":"و بیرم کردەوە بۆ زانینی ئەمە، بەڵام زەحمەتێکی زۆرە لە چاوانمدا.","tokens":[{"surface":"ואחשבה","gloss":"و بیرم کردەوە"},{"surface":"לדעת","gloss":"بۆ زانینی"},{"surface":"זאת","gloss":"ئەمە"},{"surface":"עמל","gloss":"زەحمەتێکی زۆر"},{"surface":"היא","gloss":"ە"},{"surface":"בעיני","gloss":"لە چاوانمدا"}],"timestamp":"2026-09-24T14:03:46.540919768Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 73,
+  "translation": "و بیرم کردەوە بۆ زانینی ئەمە، بەڵام زەحمەتێکی زۆرە لە چاوانمدا.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "و بیرم کردەوە"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "بۆ زانینی"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ئەمە"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زەحمەتێکی زۆر"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ە"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوانمدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:03:46.540919768Z",
+  "model": "glm-5.3"
+}

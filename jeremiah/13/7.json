@@ -1,1 +1,82 @@
-{"tier":"glm-5.2","verse":7,"ref":"jeremiah 13:7","book":"jeremiah","lang":"ckb","chapter":13,"translation":"چوومە پەڕات و هەڵمکەندەوە و پشتەندەکەم لەو شوێنە هێنایەوە کە شاردبوویەوە لەوێ، و ئەوەتا ⟨את⟩ پشتەندەکە پوسیبوو، بۆ هیچ شتێک نەدەگەیشت.","tokens":[{"surface":"ואלך","gloss":"چوومە"},{"surface":"פרתה","gloss":"پەڕات"},{"surface":"ואחפר","gloss":"هەڵمکەندەوە"},{"surface":"ואקח","gloss":"هێنا"},{"surface":"את","gloss":"⟨את⟩","marks":"پشتەندەکە"},{"surface":"האזור","gloss":"پشتەندەکە"},{"surface":"מן","gloss":"لە"},{"surface":"המקום","gloss":"شوێنەکە"},{"surface":"אשר","gloss":"کە"},{"surface":"טמנתיו","gloss":"شاردبوویەوە"},{"surface":"שמה","gloss":"لەوێ"},{"surface":"והנה","gloss":"و ئەوەتا"},{"surface":"נשחת","gloss":"پوسیبوو"},{"surface":"האזור","gloss":"پشتەندەکە"},{"surface":"לא","gloss":"نە"},{"surface":"יצלח","gloss":"دەگەیشت"},{"surface":"לכל","gloss":"بۆ هیچ"}],"timestamp":"2026-09-24T16:50:02.044073238Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 13,
+  "translation": "چوومە پەڕات و هەڵمکەندەوە و پشتەندەکەم لەو شوێنە هێنایەوە کە شاردبوویەوە لەوێ، و ئەوەتا ⟨את⟩ پشتەندەکە پوسیبوو، بۆ هیچ شتێک نەدەگەیشت.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "چوومە"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "پەڕات"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "هەڵمکەندەوە"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "هێنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پشتەندەکە"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "پشتەندەکە"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "شوێنەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "شاردبوویەوە"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوەتا"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "پوسیبوو"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "پشتەندەکە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "دەگەیشت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "بۆ هیچ"
+    }
+  ],
+  "timestamp": "2026-09-24T16:50:02.044073238Z",
+  "model": "glm-5.3"
+}

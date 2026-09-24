@@ -1,1 +1,106 @@
-{"tier":"glm-5.2","verse":20,"ref":"isaiah 65:20","book":"isaiah","lang":"ckb","chapter":65,"translation":"لەوێ ئیتر منداڵی ڕۆژان نابێت و پیرێک کە ⟨את⟩ ڕۆژەکانی پڕ ناکات، چونکە گەنجەکەی سەد ساڵ دەمرێت و گوناهکارەکەی سەد ساڵ نەفرەتلێدەکرێت.","tokens":[{"surface":"לא","gloss":"نا"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"משם","gloss":"لەوێ"},{"surface":"עוד","gloss":"ئیتر"},{"surface":"עול","gloss":"منداڵی شیرەخوار"},{"surface":"ימים","gloss":"ڕۆژان"},{"surface":"וזקן","gloss":"و پیرێک"},{"surface":"אשר","gloss":"کە"},{"surface":"לא","gloss":"نا"},{"surface":"ימלא","gloss":"پڕ دەکات"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕۆژەکانی"},{"surface":"ימיו","gloss":"ڕۆژەکانی"},{"surface":"כי","gloss":"چونکە"},{"surface":"הנער","gloss":"گەنجەکەی"},{"surface":"בן","gloss":"کوڕی ⟨سەد⟩"},{"surface":"מאה","gloss":"سەد"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"ימות","gloss":"دەمرێت"},{"surface":"והחוטא","gloss":"و گوناهکارەکەی"},{"surface":"בן","gloss":"کوڕی ⟨سەد⟩"},{"surface":"מאה","gloss":"سەد"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"יקלל","gloss":"نەفرەتلێدەکرێت"}],"timestamp":"2026-09-24T12:36:38.037027686Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 65:20",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 65,
+  "translation": "لەوێ ئیتر منداڵی ڕۆژان نابێت و پیرێک کە ⟨את⟩ ڕۆژەکانی پڕ ناکات، چونکە گەنجەکەی سەد ساڵ دەمرێت و گوناهکارەکەی سەد ساڵ نەفرەتلێدەکرێت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "משם",
+      "gloss": "لەوێ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ئیتر"
+    },
+    {
+      "surface": "עול",
+      "gloss": "منداڵی شیرەخوار"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژان"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "و پیرێک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "پڕ دەکات"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕۆژەکانی"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ڕۆژەکانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "گەنجەکەی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی ⟨سەد⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "دەمرێت"
+    },
+    {
+      "surface": "והחוטא",
+      "gloss": "و گوناهکارەکەی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی ⟨سەد⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "نەفرەتلێدەکرێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:36:38.037027686Z",
+  "model": "glm-5.3"
+}

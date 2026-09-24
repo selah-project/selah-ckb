@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":19,"ref":"proverbs 2:19","book":"proverbs","lang":"ckb","chapter":2,"translation":"هەموو ئەوانەی دێننە لای ناگەڕێنەوە و ناگەنە ڕێگاکانی ژیان.","tokens":[{"surface":"כל","gloss":"هەموو"},{"surface":"באיה","gloss":"ئەوانەی دێننە لای"},{"surface":"לא","gloss":"نا"},{"surface":"ישובון","gloss":"ناگەڕێنەوە"},{"surface":"ולא","gloss":"و نا"},{"surface":"ישיגו","gloss":"ناگەنە"},{"surface":"ארחות","gloss":"ڕێگاکانی"},{"surface":"חיים","gloss":"ژیان"}],"timestamp":"2026-09-24T14:23:16.499621994Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "هەموو ئەوانەی دێننە لای ناگەڕێنەوە و ناگەنە ڕێگاکانی ژیان.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "ئەوانەی دێننە لای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ناگەڕێنەوە"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "ناگەنە"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ڕێگاکانی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژیان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:23:16.499621994Z",
+  "model": "glm-5.3"
+}

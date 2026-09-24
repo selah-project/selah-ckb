@@ -1,1 +1,71 @@
-{"tier":"glm-5.2","verse":1,"ref":"deuteronomy 22:1","book":"deuteronomy","lang":"ckb","chapter":22,"translation":"«گوێلای برای تۆ ⟨את⟩ مەبینیت یان ⟨את⟩ مەڕی خۆی ئاوەڵەکراو، و خۆت لێیان مەشاردرێیتەوە؛ بهێنەوە دەیانگەڕێنیتەوە بۆ برای تۆ.»","tokens":[{"surface":"לא","gloss":"مە"},{"surface":"תראה","gloss":"ببینیت"},{"surface":"את","gloss":"⟨את⟩","marks":"گوێلای برای تۆ"},{"surface":"שור","gloss":"گوێلا"},{"surface":"אחיך","gloss":"برای تۆ"},{"surface":"או","gloss":"یان"},{"surface":"את","gloss":"⟨את⟩","marks":"مەڕی خۆی"},{"surface":"שיו","gloss":"مەڕ"},{"surface":"נדחים","gloss":"ئاوەڵەکراو"},{"surface":"והתעלמת","gloss":"و خۆت بشاردرێیتەوە"},{"surface":"מהם","gloss":"لێیان"},{"surface":"השב","gloss":"بهێنەوە"},{"surface":"תשיבם","gloss":"دەیانگەڕێنیتەوە"},{"surface":"לאחיך","gloss":"بۆ برای تۆ"}],"timestamp":"2026-09-24T17:04:46.001945961Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "«گوێلای برای تۆ ⟨את⟩ مەبینیت یان ⟨את⟩ مەڕی خۆی ئاوەڵەکراو، و خۆت لێیان مەشاردرێیتەوە؛ بهێنەوە دەیانگەڕێنیتەوە بۆ برای تۆ.»",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ببینیت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گوێلای برای تۆ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "گوێلا"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "برای تۆ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەڕی خۆی"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "مەڕ"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "ئاوەڵەکراو"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "و خۆت بشاردرێیتەوە"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "لێیان"
+    },
+    {
+      "surface": "השב",
+      "gloss": "بهێنەوە"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "دەیانگەڕێنیتەوە"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "بۆ برای تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T17:04:46.001945961Z",
+  "model": "glm-5.3"
+}

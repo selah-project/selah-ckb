@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":47,"ref":"psalms 89:47","book":"psalms","lang":"ckb","chapter":89,"translation":"تا کەی ئەی یاهوە خۆت دەشاریتەوە، بۆ هەمیشە؟ تووڕەییت وەک ئاگر دەسووتێت؟","tokens":[{"surface":"עד","gloss":"تا"},{"surface":"מה","gloss":"کەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"תסתר","gloss":"دەشاریتەوە"},{"surface":"לנצח","gloss":"بۆ هەمیشە"},{"surface":"תבער","gloss":"دەسووتێت"},{"surface":"כמו","gloss":"وەک"},{"surface":"אש","gloss":"ئاگر"},{"surface":"חמתך","gloss":"تووڕەییت"}],"timestamp":"2026-09-24T14:07:59.168936413Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "تا کەی ئەی یاهوە خۆت دەشاریتەوە، بۆ هەمیشە؟ تووڕەییت وەک ئاگر دەسووتێت؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "دەشاریتەوە"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "دەسووتێت"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ئاگر"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "تووڕەییت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:59.168936413Z",
+  "model": "glm-5.3"
+}

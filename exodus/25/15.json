@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":15,"ref":"exodus 25:15","book":"exodus","lang":"ckb","chapter":25,"translation":"لە ئەنگوستیلەکانی سندووقەکەدا دەستەدارانەکان دەبن، لێیان ناکەنەوە.","tokens":[{"surface":"בטבעת","gloss":"لە ئەنگوستیلەکانی"},{"surface":"הארן","gloss":"سندووقەکە"},{"surface":"יהיו","gloss":"دەبن"},{"surface":"הבדים","gloss":"دەستەدارانەکان"},{"surface":"לא","gloss":"نەخێر"},{"surface":"יסרו","gloss":"لادەدرێن"},{"surface":"ממנו","gloss":"لێی"}],"timestamp":"2026-09-24T09:49:04.827829572Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 25,
+  "translation": "لە ئەنگوستیلەکانی سندووقەکەدا دەستەدارانەکان دەبن، لێیان ناکەنەوە.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "لە ئەنگوستیلەکانی"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "سندووقەکە"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دەبن"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "دەستەدارانەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "لادەدرێن"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "لێی"
+    }
+  ],
+  "timestamp": "2026-09-24T09:49:04.827829572Z",
+  "model": "glm-5.3"
+}

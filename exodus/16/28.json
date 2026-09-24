@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":28,"ref":"exodus 16:28","book":"exodus","lang":"ckb","chapter":16,"translation":"و یاهوە فەرمووی بۆ مۆشە ⟨موسا⟩: تا کەی ڕێ بە پێ نادەن لە پارێزگاریکردنی فەرمانەکانم و تۆراکانم؟","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"بۆ"},{"surface":"משה","gloss":"مۆشە ⟨موسا⟩"},{"surface":"עד","gloss":"تا"},{"surface":"אנה","gloss":"کەی"},{"surface":"מאנתם","gloss":"ڕێ بە پێ نادەن"},{"surface":"לשמר","gloss":"بۆ پارێزگاریکردن"},{"surface":"מצותי","gloss":"فەرمانەکانم"},{"surface":"ותורתי","gloss":"و تۆراکانم"}],"timestamp":"2026-09-24T09:44:17.966913177Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 16,
+  "translation": "و یاهوە فەرمووی بۆ مۆشە ⟨موسا⟩: تا کەی ڕێ بە پێ نادەن لە پارێزگاریکردنی فەرمانەکانم و تۆراکانم؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە ⟨موسا⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کەی"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "ڕێ بە پێ نادەن"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "بۆ پارێزگاریکردن"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "فەرمانەکانم"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "و تۆراکانم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:44:17.966913177Z",
+  "model": "glm-5.3"
+}

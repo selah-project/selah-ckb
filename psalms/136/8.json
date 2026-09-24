@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 136:8","book":"psalms","lang":"ckb","chapter":136,"translation":"⟨את⟩ خۆر بۆ فەرمانڕەوایی لە ڕۆژدا، چونکە بۆ هەتاهەتایە حەسەدی.","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"خۆر"},{"surface":"השמש","gloss":"خۆر"},{"surface":"לממשלת","gloss":"بۆ فەرمانڕەوایی"},{"surface":"ביום","gloss":"لە ڕۆژدا"},{"surface":"כי","gloss":"چونکە"},{"surface":"לעולם","gloss":"بۆ هەتاهەتایە"},{"surface":"חסדו","gloss":"حەسەدی"}],"timestamp":"2026-09-24T14:19:22.755434746Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 136,
+  "translation": "⟨את⟩ خۆر بۆ فەرمانڕەوایی لە ڕۆژدا، چونکە بۆ هەتاهەتایە حەسەدی.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خۆر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "خۆر"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "بۆ فەرمانڕەوایی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "لە ڕۆژدا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەتاهەتایە"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:22.755434746Z",
+  "model": "glm-5.3"
+}

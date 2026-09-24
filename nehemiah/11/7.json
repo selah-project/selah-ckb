@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":7,"ref":"nehemiah 11:7","book":"nehemiah","lang":"ckb","chapter":11,"translation":"و ئەمانە کوڕانی بینیامینن: سالو ⟨سالای⟩ کوڕی مەشولام کوڕی یوعێد کوڕی پێدایا کوڕی قۆلایا کوڕی مەعەسیا کوڕی ئیتیێل کوڕی یەشعایا","tokens":[{"surface":"ואלה","gloss":"و ئەمانە"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"בנימן","gloss":"بینیامین"},{"surface":"סלא","gloss":"سالو"},{"surface":"בן","gloss":"کوڕی"},{"surface":"משלם","gloss":"مەشولام"},{"surface":"בן","gloss":"کوڕی"},{"surface":"יועד","gloss":"یوعێد"},{"surface":"בן","gloss":"کوڕی"},{"surface":"פדיה","gloss":"پێدایا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"קוליה","gloss":"قۆلایا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"מעשיה","gloss":"مەعەسیا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"איתיאל","gloss":"ئیتیێل"},{"surface":"בן","gloss":"کوڕی"},{"surface":"ישעיה","gloss":"یەشعایا"}],"timestamp":"2026-09-24T15:19:04.524130946Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 11:7",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و ئەمانە کوڕانی بینیامینن: سالو ⟨سالای⟩ کوڕی مەشولام کوڕی یوعێد کوڕی پێدایا کوڕی قۆلایا کوڕی مەعەسیا کوڕی ئیتیێل کوڕی یەشعایا",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "و ئەمانە"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "سالو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مەشولام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יועד",
+      "gloss": "یوعێد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "پێدایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "קוליה",
+      "gloss": "قۆلایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "مەعەسیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "איתיאל",
+      "gloss": "ئیتیێل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "یەشعایا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:19:04.524130946Z",
+  "model": "glm-5.3"
+}

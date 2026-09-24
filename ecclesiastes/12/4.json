@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":4,"ref":"ecclesiastes 12:4","book":"ecclesiastes","lang":"ckb","chapter":12,"translation":"و دەرگاکان لە بازاڕدا دادەخرێن لە نزمبوونی دەنگی ئەسیابەکە، و لە دەنگی باڵندە هەڵدەستێت، و هەموو کچانی گۆران دەچەمێنەوە.","tokens":[{"surface":"וסגרו","gloss":"و دادەخرێن"},{"surface":"דלתים","gloss":"دەرگاکان"},{"surface":"בשוק","gloss":"لە بازاڕدا"},{"surface":"בשפל","gloss":"لە نزمبوونی"},{"surface":"קול","gloss":"دەنگی"},{"surface":"הטחנה","gloss":"ئەسیابەکە"},{"surface":"ויקום","gloss":"و هەڵدەستێت"},{"surface":"לקול","gloss":"لە دەنگی"},{"surface":"הצפור","gloss":"باڵندە"},{"surface":"וישחו","gloss":"و دەچەمێنەوە"},{"surface":"כל","gloss":"هەموو"},{"surface":"בנות","gloss":"کچانی"},{"surface":"השיר","gloss":"گۆران"}],"timestamp":"2026-09-24T14:58:57.876131061Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 12,
+  "translation": "و دەرگاکان لە بازاڕدا دادەخرێن لە نزمبوونی دەنگی ئەسیابەکە، و لە دەنگی باڵندە هەڵدەستێت، و هەموو کچانی گۆران دەچەمێنەوە.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "و دادەخرێن"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "دەرگاکان"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "لە بازاڕدا"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "لە نزمبوونی"
+    },
+    {
+      "surface": "קול",
+      "gloss": "دەنگی"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "ئەسیابەکە"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "و هەڵدەستێت"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "لە دەنگی"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "باڵندە"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "و دەچەمێنەوە"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "کچانی"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "گۆران"
+    }
+  ],
+  "timestamp": "2026-09-24T14:58:57.876131061Z",
+  "model": "glm-5.3"
+}

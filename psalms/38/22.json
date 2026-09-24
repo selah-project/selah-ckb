@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"psalms 38:22","book":"psalms","lang":"ckb","chapter":38,"translation":"ئەی یاهوە، بەجێم مەهێڵە؛ ئەی ئێلۆهیمی من، لە من مەدوور بە.","tokens":[{"surface":"אל","gloss":"مە"},{"surface":"תעזבני","gloss":"بەجێم هێڵە"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהי","gloss":"ئێلۆهیمی من"},{"surface":"אל","gloss":"مە"},{"surface":"תרחק","gloss":"دوور بە"},{"surface":"ממני","gloss":"لە من"}],"timestamp":"2026-09-24T13:55:59.163703321Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 38,
+  "translation": "ئەی یاهوە، بەجێم مەهێڵە؛ ئەی ئێلۆهیمی من، لە من مەدوور بە.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "بەجێم هێڵە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی من"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دوور بە"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T13:55:59.163703321Z",
+  "model": "glm-5.3"
+}

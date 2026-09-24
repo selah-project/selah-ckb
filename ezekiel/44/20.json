@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":20,"ref":"ezekiel 44:20","book":"ezekiel","lang":"ckb","chapter":44,"translation":"و سەریان ناشکێنن و موویان درێژ ناهێڵن؛ سەریان بڕین دەبڕن ⟨את⟩.","tokens":[{"surface":"וראשם","gloss":"و سەریان"},{"surface":"לא","gloss":"نا"},{"surface":"יגלחו","gloss":"دەشکێنن"},{"surface":"ופרע","gloss":"و موویان"},{"surface":"לא","gloss":"نا"},{"surface":"ישלחו","gloss":"دەهێڵن"},{"surface":"כסום","gloss":"بڕین"},{"surface":"יכסמו","gloss":"دەبڕن"},{"surface":"את","gloss":"⟨את⟩","marks":"سەریان"},{"surface":"ראשיהם","gloss":"سەریان"}],"timestamp":"2026-09-24T13:26:41.119131741Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "و سەریان ناشکێنن و موویان درێژ ناهێڵن؛ سەریان بڕین دەبڕن ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "و سەریان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "دەشکێنن"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "و موویان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "دەهێڵن"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "بڕین"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "دەبڕن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سەریان"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "سەریان"
+    }
+  ],
+  "timestamp": "2026-09-24T13:26:41.119131741Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,76 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-chronicles 4:2","book":"1-chronicles","lang":"ckb","chapter":4,"translation":"و ڕەئایا کوڕی شۆڤال ⟨את⟩ یەحەتی بەخێو کرد، و یەحەت ⟨את⟩ ئەحومای و ⟨את⟩ لەهەدی بەخێو کرد. ئەمانە خێزانهکانی تسورەعیتین.","tokens":[{"surface":"וראיה","gloss":"و ڕەئایا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"שובל","gloss":"شۆڤال"},{"surface":"הוליד","gloss":"بەخێو کرد"},{"surface":"את","gloss":"⟨את⟩","marks":"یەحەت"},{"surface":"יחת","gloss":"یەحەت"},{"surface":"ויחת","gloss":"و یەحەت"},{"surface":"הליד","gloss":"بەخێو کرد"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەحومای"},{"surface":"אחומי","gloss":"ئەحومای"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"لەهەد"},{"surface":"להד","gloss":"لەهەد"},{"surface":"אלה","gloss":"ئەمانە"},{"surface":"משפחות","gloss":"خێزانهکانی"},{"surface":"הצרעתי","gloss":"تسورەعیتین"}],"timestamp":"2026-09-24T16:27:45.730872949Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "و ڕەئایا کوڕی شۆڤال ⟨את⟩ یەحەتی بەخێو کرد، و یەحەت ⟨את⟩ ئەحومای و ⟨את⟩ لەهەدی بەخێو کرد. ئەمانە خێزانهکانی تسورەعیتین.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "و ڕەئایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شۆڤال"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یەحەت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یەحەت"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "و یەحەت"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "بەخێو کرد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەحومای"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "ئەحومای"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "لەهەد"
+    },
+    {
+      "surface": "להד",
+      "gloss": "لەهەد"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "خێزانهکانی"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "تسورەعیتین"
+    }
+  ],
+  "timestamp": "2026-09-24T16:27:45.730872949Z",
+  "model": "glm-5.3"
+}

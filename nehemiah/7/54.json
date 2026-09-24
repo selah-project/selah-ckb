@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":54,"ref":"nehemiah 7:54","book":"nehemiah","lang":"ckb","chapter":7,"translation":"کوڕەکانی باسلیت، کوڕەکانی مەحیدا، کوڕەکانی حەرشا.","tokens":[{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"בצלית","gloss":"باسلیت"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"מחידא","gloss":"مەحیدا"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"חרשא","gloss":"حەرشا"}],"timestamp":"2026-09-24T15:17:30.849726057Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "کوڕەکانی باسلیت، کوڕەکانی مەحیدا، کوڕەکانی حەرشا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "باسلیت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "مەحیدا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "حەرشا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:17:30.849726057Z",
+  "model": "glm-5.3"
+}

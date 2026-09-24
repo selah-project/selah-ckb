@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":1,"ref":"leviticus 1:1","book":"leviticus","lang":"ckb","chapter":1,"translation":"و بانگی مۆشە کرد و یاهوە لە چادری چاوپێکەوتنەوە قسەی لەگەڵ کرد و فەرموو.","tokens":[{"surface":"ויקרא","gloss":"و بانگی کرد"},{"surface":"אל","gloss":"بۆ"},{"surface":"משה","gloss":"مۆشە"},{"surface":"וידבר","gloss":"و قسەی کرد"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אליו","gloss":"لەگەڵی"},{"surface":"מאהל","gloss":"لە چادری"},{"surface":"מועד","gloss":"چاوپێکەوتن"},{"surface":"לאמר","gloss":"و فەرموو"}],"timestamp":"2026-09-24T09:58:49.678539452Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و بانگی مۆشە کرد و یاهوە لە چادری چاوپێکەوتنەوە قسەی لەگەڵ کرد و فەرموو.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و بانگی کرد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "و قسەی کرد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "لەگەڵی"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "لە چادری"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "چاوپێکەوتن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "و فەرموو"
+    }
+  ],
+  "timestamp": "2026-09-24T09:58:49.678539452Z",
+  "model": "glm-5.3"
+}

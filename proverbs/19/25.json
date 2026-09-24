@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":25,"ref":"proverbs 19:25","book":"proverbs","lang":"ckb","chapter":19,"translation":"گاڵتەکار بدرێت و سادە ئاقڵ دەبێت، و تێگەیشتوو سەرزەنشت بکرێت، لە زانیاری تێدەگەیت.","tokens":[{"surface":"לץ","gloss":"گاڵتەکار"},{"surface":"תכה","gloss":"بدرێت"},{"surface":"ופתי","gloss":"و سادە"},{"surface":"יערם","gloss":"ئاقڵ دەبێت"},{"surface":"והוכיח","gloss":"و سەرزەنشت بکە"},{"surface":"לנבון","gloss":"بۆ تێگەیشتوو"},{"surface":"יבין","gloss":"تێدەگەیت"},{"surface":"דעת","gloss":"زانیاری"}],"timestamp":"2026-09-24T14:28:54.794139618Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 19,
+  "translation": "گاڵتەکار بدرێت و سادە ئاقڵ دەبێت، و تێگەیشتوو سەرزەنشت بکرێت، لە زانیاری تێدەگەیت.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "گاڵتەکار"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "بدرێت"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "و سادە"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "ئاقڵ دەبێت"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "و سەرزەنشت بکە"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "بۆ تێگەیشتوو"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "تێدەگەیت"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "زانیاری"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:54.794139618Z",
+  "model": "glm-5.3"
+}

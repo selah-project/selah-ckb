@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 59:11","book":"psalms","lang":"ckb","chapter":59,"translation":"ئێلۆهیمی حەسەدی پێشم دەکەوێت، ئێلۆهیم دەیبینێنێتم لە دوژمنانمدا.","tokens":[{"surface":"אלהי","gloss":"ئێلۆهیمی"},{"surface":"חסדו","gloss":"حەسەدی"},{"surface":"יקדמני","gloss":"پێشم دەکەوێت"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"יראני","gloss":"دەیبینێنێتم"},{"surface":"בשררי","gloss":"لە دوژمنانمدا"}],"timestamp":"2026-09-24T14:00:40.485521201Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 59,
+  "translation": "ئێلۆهیمی حەسەدی پێشم دەکەوێت، ئێلۆهیم دەیبینێنێتم لە دوژمنانمدا.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ئێلۆهیمی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "حەسەدی"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "پێشم دەکەوێت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "دەیبینێنێتم"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "لە دوژمنانمدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:40.485521201Z",
+  "model": "glm-5.3"
+}

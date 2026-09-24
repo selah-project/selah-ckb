@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":18,"ref":"1-chronicles 24:18","book":"1-chronicles","lang":"ckb","chapter":24,"translation":"بۆ دەلایاهو سێ و بیست، بۆ مەئەزیاهو چوار و بیست","tokens":[{"surface":"לדליהו","gloss":"بۆ دەلایاهو"},{"surface":"שלשה","gloss":"سێ"},{"surface":"ועשרים","gloss":"و بیست"},{"surface":"למעזיהו","gloss":"بۆ مەئەزیاهو"},{"surface":"ארבעה","gloss":"چوار"},{"surface":"ועשרים","gloss":"و بیست"}],"timestamp":"2026-09-24T15:29:50.787587514Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 24:18",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بۆ دەلایاهو سێ و بیست، بۆ مەئەزیاهو چوار و بیست",
+  "tokens": [
+    {
+      "surface": "לדליהו",
+      "gloss": "بۆ دەلایاهو"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    },
+    {
+      "surface": "למעזיהו",
+      "gloss": "بۆ مەئەزیاهو"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چوار"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "و بیست"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:50.787587514Z",
+  "model": "glm-5.3"
+}

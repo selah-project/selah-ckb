@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":11,"ref":"psalms 60:11","book":"psalms","lang":"ckb","chapter":60,"translation":"کێ من دەهێنێتە ناو شاری بەربەست؟ کێ من دەگەیەنێت تا ئەدۆم؟","tokens":[{"surface":"מי","gloss":"کێ"},{"surface":"יבלני","gloss":"دەهێنێتە ناو"},{"surface":"עיר","gloss":"شار"},{"surface":"מצור","gloss":"بەربەست"},{"surface":"מי","gloss":"کێ"},{"surface":"נחני","gloss":"دەگەیەنێت"},{"surface":"עד","gloss":"تا"},{"surface":"אדום","gloss":"ئەدۆم"}],"timestamp":"2026-09-24T14:00:40.841361505Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 60,
+  "translation": "کێ من دەهێنێتە ناو شاری بەربەست؟ کێ من دەگەیەنێت تا ئەدۆم؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "دەهێنێتە ناو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شار"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "بەربەست"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "دەگەیەنێت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ئەدۆم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:00:40.841361505Z",
+  "model": "glm-5.3"
+}

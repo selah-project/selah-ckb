@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":2,"ref":"proverbs 20:2","book":"proverbs","lang":"ckb","chapter":20,"translation":"زڭەی وەک شوێنەواری شێر ⟨ە⟩ ترسی پاشا؛ هەر کەس توڕەیی دەکات گوناه لە دەروونەکەی دەکات.","tokens":[{"surface":"נהם","gloss":"زەنگە"},{"surface":"ככפיר","gloss":"وەک شوێنەواری شێر"},{"surface":"אימת","gloss":"ترسی"},{"surface":"מלך","gloss":"پاشا"},{"surface":"מתעברו","gloss":"توڕەیی دەکات"},{"surface":"חוטא","gloss":"گوناه دەکات"},{"surface":"נפשו","gloss":"دەروونەکەی"}],"timestamp":"2026-09-24T14:28:51.904244165Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 20,
+  "translation": "زڭەی وەک شوێنەواری شێر ⟨ە⟩ ترسی پاشا؛ هەر کەس توڕەیی دەکات گوناه لە دەروونەکەی دەکات.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "زەنگە"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "وەک شوێنەواری شێر"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "ترسی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "توڕەیی دەکات"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "گوناه دەکات"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "دەروونەکەی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:28:51.904244165Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":11,"ref":"1-chronicles 22:11","book":"1-chronicles","lang":"ckb","chapter":22,"translation":"ئێستا کوڕم، یاهوە لەگەڵ تۆ بێت، و سەرکەوتوو بیت، و خانووی یاهوە ئێلۆهیمی خۆت بناوی، وەک لەسەر تۆ فەرموویەتی.","tokens":[{"surface":"עתה","gloss":"ئێستا"},{"surface":"בני","gloss":"کوڕم"},{"surface":"יהי","gloss":"بێت"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"עמך","gloss":"لەگەڵ تۆ"},{"surface":"והצלחת","gloss":"و سەرکەوتوو بیت"},{"surface":"ובנית","gloss":"و بناوی"},{"surface":"בית","gloss":"خانووی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אלהיך","gloss":"ئێلۆهیمی خۆت"},{"surface":"כאשר","gloss":"وەک"},{"surface":"דבר","gloss":"فەرموویەتی"},{"surface":"עליך","gloss":"لەسەر تۆ"}],"timestamp":"2026-09-24T15:30:59.795856564Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 22:11",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "ئێستا کوڕم، یاهوە لەگەڵ تۆ بێت، و سەرکەوتوو بیت، و خانووی یاهوە ئێلۆهیمی خۆت بناوی، وەک لەسەر تۆ فەرموویەتی.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ئێستا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕم"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "لەگەڵ تۆ"
+    },
+    {
+      "surface": "והצלחת",
+      "gloss": "و سەرکەوتوو بیت"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "و بناوی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "خانووی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ئێلۆهیمی خۆت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "وەک"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموویەتی"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "لەسەر تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:30:59.795856564Z",
+  "model": "glm-5.3"
+}

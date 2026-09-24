@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":37,"ref":"psalms 89:37","book":"psalms","lang":"ckb","chapter":89,"translation":"زڕعی بۆ هەمیشە دەبێت و تەختی وەک خۆر لە پێش ڕوومدا.","tokens":[{"surface":"זרעו","gloss":"زڕعهی"},{"surface":"לעולם","gloss":"بۆ هەمیشە"},{"surface":"יהיה","gloss":"دەبێت"},{"surface":"וכסאו","gloss":"و تەختی"},{"surface":"כשמש","gloss":"وەک خۆر"},{"surface":"נגדי","gloss":"لە پێش ڕوومدا"}],"timestamp":"2026-09-24T14:07:34.013411381Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 89,
+  "translation": "زڕعی بۆ هەمیشە دەبێت و تەختی وەک خۆر لە پێش ڕوومدا.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "زڕعهی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "بۆ هەمیشە"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دەبێت"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "و تەختی"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "وەک خۆر"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "لە پێش ڕوومدا"
+    }
+  ],
+  "timestamp": "2026-09-24T14:07:34.013411381Z",
+  "model": "glm-5.3"
+}

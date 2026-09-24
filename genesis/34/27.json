@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":27,"ref":"genesis 34:27","book":"genesis","lang":"ckb","chapter":34,"translation":"کوڕانی یەعقووب هاتنە سەر کوژراوان و شارەکەیان تاڵان کرد، ئەوەی کە خوشکەکەیان پیسکردبوو.","tokens":[{"surface":"בני","gloss":"کوڕانی"},{"surface":"יעקב","gloss":"یەعقووب"},{"surface":"באו","gloss":"هاتنە سەر"},{"surface":"על","gloss":"سەر"},{"surface":"החללים","gloss":"کوژراوان"},{"surface":"ויבזו","gloss":"و تاڵانیان کردن"},{"surface":"העיר","gloss":"شارەکە"},{"surface":"אשר","gloss":"ئەوەی کە"},{"surface":"טמאו","gloss":"پیسکردبوو"},{"surface":"אחותם","gloss":"خوشکەکەیان"}],"timestamp":"2026-09-24T09:27:26.521673014Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 34,
+  "translation": "کوڕانی یەعقووب هاتنە سەر کوژراوان و شارەکەیان تاڵان کرد، ئەوەی کە خوشکەکەیان پیسکردبوو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقووب"
+    },
+    {
+      "surface": "באו",
+      "gloss": "هاتنە سەر"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "کوژراوان"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "و تاڵانیان کردن"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شارەکە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "پیسکردبوو"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "خوشکەکەیان"
+    }
+  ],
+  "timestamp": "2026-09-24T09:27:26.521673014Z",
+  "model": "glm-5.3"
+}

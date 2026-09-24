@@ -1,1 +1,29 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-chronicles 24:10","book":"1-chronicles","lang":"ckb","chapter":24,"translation":"بۆ هاکۆز حەوتەم، بۆ ئەڤییاهو هەشتەم.","tokens":[{"surface":"להקוץ","gloss":"بۆ هاکۆز"},{"surface":"השבעי","gloss":"حەوتەم"},{"surface":"לאביה","gloss":"بۆ ئەڤییاهو"},{"surface":"השמיני","gloss":"هەشتەم"}],"timestamp":"2026-09-24T15:29:37.115588314Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "بۆ هاکۆز حەوتەم، بۆ ئەڤییاهو هەشتەم.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "بۆ هاکۆز"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "حەوتەم"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "بۆ ئەڤییاهو"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "هەشتەم"
+    }
+  ],
+  "timestamp": "2026-09-24T15:29:37.115588314Z",
+  "model": "glm-5.3"
+}

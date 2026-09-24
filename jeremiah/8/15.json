@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":15,"ref":"jeremiah 8:15","book":"jeremiah","lang":"ckb","chapter":8,"translation":"چاوەڕێی ئاشتی کرا و چاکە نییە؛ کاتی چاککردنەوە، و ئەوا دڵەڕاوکێ.","tokens":[{"surface":"קוה","gloss":"چاوەڕێی"},{"surface":"לשלום","gloss":"ئاشتی"},{"surface":"ואין","gloss":"و نییە"},{"surface":"טוב","gloss":"چاکە"},{"surface":"לעת","gloss":"کاتی"},{"surface":"מרפה","gloss":"چاککردنەوە"},{"surface":"והנה","gloss":"و ئەوا"},{"surface":"בעתה","gloss":"دڵەڕاوکێ"}],"timestamp":"2026-09-24T12:41:49.890452620Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "چاوەڕێی ئاشتی کرا و چاکە نییە؛ کاتی چاککردنەوە، و ئەوا دڵەڕاوکێ.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "چاوەڕێی"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ئاشتی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "و نییە"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "چاکە"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "کاتی"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "چاککردنەوە"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "و ئەوا"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "دڵەڕاوکێ"
+    }
+  ],
+  "timestamp": "2026-09-24T12:41:49.890452620Z",
+  "model": "glm-5.3"
+}

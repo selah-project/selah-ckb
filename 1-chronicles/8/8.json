@@ -1,1 +1,59 @@
-{"tier":"glm-5.2","verse":8,"ref":"1-chronicles 8:8","book":"1-chronicles","lang":"ckb","chapter":8,"translation":"و شەحەرایم لە کێڵگەی مۆئاب بوویند، لە دوای ناردنی ⟨אתם⟩ حوشیم و ⟨את⟩ بەعرا ئافرەتەکانی.","tokens":[{"surface":"ושחרים","gloss":"و شەحەرایم"},{"surface":"הוליד","gloss":"بوویند"},{"surface":"בשדה","gloss":"لە کێڵگەی"},{"surface":"מואב","gloss":"مۆئاب"},{"surface":"מן","gloss":"لە دوای"},{"surface":"שלחו","gloss":"ناردنی"},{"surface":"אתם","gloss":"⟨את⟩ ئەوان","marks":"حوشیم"},{"surface":"חושים","gloss":"حوشیم"},{"surface":"ואת","gloss":"و ⟨את⟩","marks":"بەعرا"},{"surface":"בערא","gloss":"بەعرا"},{"surface":"נשיו","gloss":"ئافرەتەکانی"}],"timestamp":"2026-09-24T15:23:27.601549595Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "و شەحەرایم لە کێڵگەی مۆئاب بوویند، لە دوای ناردنی ⟨אתם⟩ حوشیم و ⟨את⟩ بەعرا ئافرەتەکانی.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "و شەحەرایم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "بوویند"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "لە کێڵگەی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مۆئاب"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە دوای"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ناردنی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان",
+      "marks": "حوشیم"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "حوشیم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "و ⟨את⟩",
+      "marks": "بەعرا"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "بەعرا"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ئافرەتەکانی"
+    }
+  ],
+  "timestamp": "2026-09-24T15:23:27.601549595Z",
+  "model": "glm-5.3"
+}

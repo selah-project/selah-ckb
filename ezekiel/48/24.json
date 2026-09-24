@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":24,"ref":"ezekiel 48:24","book":"ezekiel","lang":"ckb","chapter":48,"translation":"و لەسەر سنووری بینیامین، لە لای ڕۆژهەڵاتەوە تا لای ڕۆژاوا، شیمعۆن یەک ⟨پارچە⟩.","tokens":[{"surface":"ועל","gloss":"و لەسەر"},{"surface":"גבול","gloss":"سنووری"},{"surface":"בנימן","gloss":"بینیامین"},{"surface":"מפאת","gloss":"لە لای"},{"surface":"קדימה","gloss":"ڕۆژهەڵاتەوە"},{"surface":"עד","gloss":"تا"},{"surface":"פאת","gloss":"لای"},{"surface":"ימה","gloss":"ڕۆژاوا"},{"surface":"שמעון","gloss":"شیمعۆن"},{"surface":"אחד","gloss":"یەک"}],"timestamp":"2026-09-24T13:27:29.622731946Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 48,
+  "translation": "و لەسەر سنووری بینیامین، لە لای ڕۆژهەڵاتەوە تا لای ڕۆژاوا، شیمعۆن یەک ⟨پارچە⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "و لەسەر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "لە لای"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ڕۆژهەڵاتەوە"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "لای"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ڕۆژاوا"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعۆن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T13:27:29.622731946Z",
+  "model": "glm-5.3"
+}

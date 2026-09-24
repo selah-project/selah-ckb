@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":6,"ref":"isaiah 31:6","book":"isaiah","lang":"ckb","chapter":31,"translation":"بگەڕێنەوە بۆ لای ئەوەی کە کوڕانی ئیسرائیل بە قووڵی لێی ڕاوەستاون.","tokens":[{"surface":"שובו","gloss":"بگەڕێنەوە"},{"surface":"לאשר","gloss":"بۆ ئەوەی"},{"surface":"העמיקו","gloss":"بە قووڵی ڕاوەستاون"},{"surface":"סרה","gloss":"سەرکەوتن"},{"surface":"בני","gloss":"کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"}],"timestamp":"2026-09-24T12:23:03.525964618Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "بگەڕێنەوە بۆ لای ئەوەی کە کوڕانی ئیسرائیل بە قووڵی لێی ڕاوەستاون.",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "بگەڕێنەوە"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "بە قووڵی ڕاوەستاون"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "سەرکەوتن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    }
+  ],
+  "timestamp": "2026-09-24T12:23:03.525964618Z",
+  "model": "glm-5.3"
+}

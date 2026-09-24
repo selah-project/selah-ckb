@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":10,"ref":"isaiah 44:10","book":"isaiah","lang":"ckb","chapter":44,"translation":"کێ ئێلێکی دروست کردووە و پەیکەرێکی ڕۆشەنداوە، کە هیچ سوودی نەبێت؟","tokens":[{"surface":"מי","gloss":"کێ"},{"surface":"יצר","gloss":"دروست کردووە"},{"surface":"אל","gloss":"ئێلێک"},{"surface":"ופסל","gloss":"و پەیکەرێک"},{"surface":"נסך","gloss":"ڕۆشەنداوە"},{"surface":"לבלתי","gloss":"کە نە"},{"surface":"הועיל","gloss":"سوودی نەبێت"}],"timestamp":"2026-09-24T12:28:41.467804324Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ckb",
+  "chapter": 44,
+  "translation": "کێ ئێلێکی دروست کردووە و پەیکەرێکی ڕۆشەنداوە، کە هیچ سوودی نەبێت؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "دروست کردووە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێلێک"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "و پەیکەرێک"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ڕۆشەنداوە"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "کە نە"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "سوودی نەبێت"
+    }
+  ],
+  "timestamp": "2026-09-24T12:28:41.467804324Z",
+  "model": "glm-5.3"
+}

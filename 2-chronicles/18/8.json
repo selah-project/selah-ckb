@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":8,"ref":"2-chronicles 18:8","book":"2-chronicles","lang":"ckb","chapter":18,"translation":"و پاشای ئیسرائیل بانگی کاخەزێک ⟨سەرپەرشتیار⟩ی کرد و فەرمووی: خێرا میکایاهوو کوڕی ییملا بێنە.","tokens":[{"surface":"ויקרא","gloss":"و بانگی کرد"},{"surface":"מלך","gloss":"پاشای"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"אל","gloss":"بە"},{"surface":"סריס","gloss":"کاخەزێک"},{"surface":"אחד","gloss":"یەک"},{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"מהר","gloss":"خێرا"},{"surface":"מיכהו","gloss":"میکایاهو"},{"surface":"בן","gloss":"کوڕی"},{"surface":"ימלא","gloss":"ییملا"}],"timestamp":"2026-09-24T15:38:44.667967979Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "ckb",
+  "chapter": 18,
+  "translation": "و پاشای ئیسرائیل بانگی کاخەزێک ⟨سەرپەرشتیار⟩ی کرد و فەرمووی: خێرا میکایاهوو کوڕی ییملا بێنە.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "و بانگی کرد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "کاخەزێک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "خێرا"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "میکایاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ییملا"
+    }
+  ],
+  "timestamp": "2026-09-24T15:38:44.667967979Z",
+  "model": "glm-5.3"
+}

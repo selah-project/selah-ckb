@@ -1,1 +1,108 @@
-{"tier":"glm-5.2","verse":11,"ref":"ecclesiastes 3:11","book":"ecclesiastes","lang":"ckb","chapter":3,"translation":"⟨את⟩ هەموو شت لە کاتی خۆیدا جوان کرد، هەروەها ⟨את⟩ هەمیشەیی دانا لە دڵیاندا، بەبێ ئەوەی مرۆڤ ⟨את⟩ ئەو کارەی کە ئێلۆهیم کردوویەتی لە سەرەتاوە و تا کۆتایی بدۆزێتەوە.","tokens":[{"surface":"את","gloss":"⟨את⟩","marks":"هەموو شت"},{"surface":"הכל","gloss":"هەموو شت"},{"surface":"עשה","gloss":"کرد"},{"surface":"יפה","gloss":"جوان"},{"surface":"בעתו","gloss":"لە کاتی خۆیدا"},{"surface":"גם","gloss":"هەروەها"},{"surface":"את","gloss":"⟨את⟩","marks":"هەمیشەیی"},{"surface":"העלם","gloss":"هەمیشەیی"},{"surface":"נתן","gloss":"دانا"},{"surface":"בלבם","gloss":"لە دڵیاندا"},{"surface":"מבלי","gloss":"بەبێ"},{"surface":"אשר","gloss":"ئەوەی"},{"surface":"לא","gloss":"ناتوانێت"},{"surface":"ימצא","gloss":"بدۆزێتەوە"},{"surface":"האדם","gloss":"مرۆڤ"},{"surface":"את","gloss":"⟨את⟩","marks":"ئەو کارە"},{"surface":"המעשה","gloss":"ئەو کارە"},{"surface":"אשר","gloss":"کە"},{"surface":"עשה","gloss":"کردوویەتی"},{"surface":"האלהים","gloss":"ئێلۆهیم"},{"surface":"מראש","gloss":"لە سەرەتاوە"},{"surface":"ועד","gloss":"و تا"},{"surface":"סוף","gloss":"کۆتایی"}],"timestamp":"2026-09-24T14:55:40.329761698Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "⟨את⟩ هەموو شت لە کاتی خۆیدا جوان کرد، هەروەها ⟨את⟩ هەمیشەیی دانا لە دڵیاندا، بەبێ ئەوەی مرۆڤ ⟨את⟩ ئەو کارەی کە ئێلۆهیم کردوویەتی لە سەرەتاوە و تا کۆتایی بدۆزێتەوە.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەموو شت"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هەموو شت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرد"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "جوان"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "لە کاتی خۆیدا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هەمیشەیی"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "هەمیشەیی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "لە دڵیاندا"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "بەبێ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ناتوانێت"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "بدۆزێتەوە"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "مرۆڤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ئەو کارە"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ئەو کارە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کردوویەتی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "لە سەرەتاوە"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "و تا"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "کۆتایی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:55:40.329761698Z",
+  "model": "glm-5.3"
+}

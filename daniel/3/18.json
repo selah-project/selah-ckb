@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":18,"ref":"daniel 3:18","book":"daniel","lang":"ckb","chapter":3,"translation":"و ئەگەر نا، بزانرێت بۆ تۆ ئەی پاشا، کە بۆ خوداکانی تۆ ئێمە پەرستن ناکەین، و بۆ پەیکەری زێڕینەکە کە ڕاگرتوویەت، سوژدە ناکەین.","tokens":[{"surface":"והן","gloss":"و ئەگەر"},{"surface":"לא","gloss":"نا"},{"surface":"ידיע","gloss":"بزانرێت"},{"surface":"להוא","gloss":"بێت"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"מלכא","gloss":"پاشا"},{"surface":"די","gloss":"کە"},{"surface":"לאלהיך","gloss":"بۆ خوداکانی تۆ"},{"surface":"לא","gloss":"نا"},{"surface":"איתינא","gloss":"ئێمە"},{"surface":"פלחין","gloss":"پەرستن دەکەین"},{"surface":"ולצלם","gloss":"و بۆ پەیکەری"},{"surface":"דהבא","gloss":"زێڕینەکە"},{"surface":"די","gloss":"کە"},{"surface":"הקימת","gloss":"ڕاگرتوویەت"},{"surface":"לא","gloss":"نا"},{"surface":"נסגד","gloss":"سوژدە دەکەین"}],"timestamp":"2026-09-24T15:05:58.627741943Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "daniel 3:18",
+  "book": "daniel",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ئەگەر نا، بزانرێت بۆ تۆ ئەی پاشا، کە بۆ خوداکانی تۆ ئێمە پەرستن ناکەین، و بۆ پەیکەری زێڕینەکە کە ڕاگرتوویەت، سوژدە ناکەین.",
+  "tokens": [
+    {
+      "surface": "והן",
+      "gloss": "و ئەگەر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ידיע",
+      "gloss": "بزانرێت"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "بێت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "לאלהיך",
+      "gloss": "بۆ خوداکانی تۆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "איתינא",
+      "gloss": "ئێمە"
+    },
+    {
+      "surface": "פלחין",
+      "gloss": "پەرستن دەکەین"
+    },
+    {
+      "surface": "ולצלם",
+      "gloss": "و بۆ پەیکەری"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "زێڕینەکە"
+    },
+    {
+      "surface": "די",
+      "gloss": "کە"
+    },
+    {
+      "surface": "הקימת",
+      "gloss": "ڕاگرتوویەت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "נסגד",
+      "gloss": "سوژدە دەکەین"
+    }
+  ],
+  "timestamp": "2026-09-24T15:05:58.627741943Z",
+  "model": "glm-5.3"
+}

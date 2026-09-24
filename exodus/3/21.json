@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":21,"ref":"exodus 3:21","book":"exodus","lang":"ckb","chapter":3,"translation":"و من بەخشندەیی ⟨את⟩ ئەم گەلە لە چاوی میتسرایمییەکان دادەنێم، و ڕوو دەدات کە کاتێک دەڕۆن، بە بەتاڵی ناڕۆن.","tokens":[{"surface":"ונתתי","gloss":"و دەیدەم"},{"surface":"את","gloss":"⟨את⟩","marks":"بەخشندەیی"},{"surface":"חן","gloss":"بەخشندەیی"},{"surface":"העם","gloss":"ئەم گەلە"},{"surface":"הזה","gloss":"ئەم"},{"surface":"בעיני","gloss":"لە چاوی"},{"surface":"מצרים","gloss":"میتسرایم"},{"surface":"והיה","gloss":"و ڕوو دەدات"},{"surface":"כי","gloss":"کە"},{"surface":"תלכון","gloss":"دەڕۆن"},{"surface":"לא","gloss":"نا"},{"surface":"תלכו","gloss":"دەڕۆن"},{"surface":"ריקם","gloss":"بە بەتاڵی"}],"timestamp":"2026-09-24T17:22:35.413430133Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و من بەخشندەیی ⟨את⟩ ئەم گەلە لە چاوی میتسرایمییەکان دادەنێم، و ڕوو دەدات کە کاتێک دەڕۆن، بە بەتاڵی ناڕۆن.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "و دەیدەم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بەخشندەیی"
+    },
+    {
+      "surface": "חן",
+      "gloss": "بەخشندەیی"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ئەم گەلە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "و ڕوو دەدات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "دەڕۆن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "دەڕۆن"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "بە بەتاڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T17:22:35.413430133Z",
+  "model": "glm-5.3"
+}

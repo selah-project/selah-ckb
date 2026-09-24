@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":29,"ref":"proverbs 8:29","book":"proverbs","lang":"ckb","chapter":8,"translation":"کاتێک بۆ دەریا سنووری دانا و ئاوەکان لە فەرمانی تێناپەڕن، کاتێک بناغەکانی زەوی دیاری کرد.","tokens":[{"surface":"בשומו","gloss":"کاتێک دانا"},{"surface":"לים","gloss":"بۆ دەریا"},{"surface":"חקו","gloss":"سنووری"},{"surface":"ומים","gloss":"و ئاوەکان"},{"surface":"לא","gloss":"نا"},{"surface":"יעברו","gloss":"تێناپەڕن"},{"surface":"פיו","gloss":"فەرمانی"},{"surface":"בחוקו","gloss":"کاتێک دیاری کرد"},{"surface":"מוסדי","gloss":"بناغەکانی"},{"surface":"ארץ","gloss":"زەوی"}],"timestamp":"2026-09-24T14:24:57.210584342Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 8:29",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "کاتێک بۆ دەریا سنووری دانا و ئاوەکان لە فەرمانی تێناپەڕن، کاتێک بناغەکانی زەوی دیاری کرد.",
+  "tokens": [
+    {
+      "surface": "בשומו",
+      "gloss": "کاتێک دانا"
+    },
+    {
+      "surface": "לים",
+      "gloss": "بۆ دەریا"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "سنووری"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "و ئاوەکان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "تێناپەڕن"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "فەرمانی"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "کاتێک دیاری کرد"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "بناغەکانی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زەوی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:24:57.210584342Z",
+  "model": "glm-5.3"
+}

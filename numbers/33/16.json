@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":16,"ref":"numbers 33:16","book":"numbers","lang":"ckb","chapter":33,"translation":"و لە بیابانی سینایەوە بزوانین، و لە کیڤرۆت هەتاڤە ڕاوەستان.","tokens":[{"surface":"ויסעו","gloss":"و بزوانین"},{"surface":"ממדבר","gloss":"لە بیابانەوە"},{"surface":"סיני","gloss":"سینای"},{"surface":"ויחנו","gloss":"و ڕاوەستان"},{"surface":"בקברת","gloss":"لە کیڤرۆت"},{"surface":"התאוה","gloss":"هەتاڤە"}],"timestamp":"2026-09-24T10:31:29.604644091Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 33:16",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "و لە بیابانی سینایەوە بزوانین، و لە کیڤرۆت هەتاڤە ڕاوەستان.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و بزوانین"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "لە بیابانەوە"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینای"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "و ڕاوەستان"
+    },
+    {
+      "surface": "בקברת",
+      "gloss": "لە کیڤرۆت"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "هەتاڤە"
+    }
+  ],
+  "timestamp": "2026-09-24T10:31:29.604644091Z",
+  "model": "glm-5.3"
+}

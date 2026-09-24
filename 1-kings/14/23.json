@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":23,"ref":"1-kings 14:23","book":"1-kings","lang":"ckb","chapter":14,"translation":"و ئەوانیش بۆ خۆیان بەرزاییەکان و ستوونەکان و ئەشریمیان بنیاد نا، لەسەر هەموو گردێکی بەرز و لەژێر هەموو دارێکی سەوز.","tokens":[{"surface":"ויבנו","gloss":"و بنیادیان نا"},{"surface":"גם","gloss":"هەروەها"},{"surface":"המה","gloss":"ئەوان"},{"surface":"להם","gloss":"بۆ خۆیان"},{"surface":"במות","gloss":"بەرزاییەکان"},{"surface":"ומצבות","gloss":"و ستوونەکان"},{"surface":"ואשרים","gloss":"و ئەشریم"},{"surface":"על","gloss":"لەسەر"},{"surface":"כל","gloss":"هەموو"},{"surface":"גבעה","gloss":"گرد"},{"surface":"גבהה","gloss":"بەرز"},{"surface":"ותחת","gloss":"و لەژێر"},{"surface":"כל","gloss":"هەموو"},{"surface":"עץ","gloss":"دار"},{"surface":"רענן","gloss":"سەوز"}],"timestamp":"2026-09-24T11:54:05.783779574Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 14:23",
+  "book": "1-kings",
+  "lang": "ckb",
+  "chapter": 14,
+  "translation": "و ئەوانیش بۆ خۆیان بەرزاییەکان و ستوونەکان و ئەشریمیان بنیاد نا، لەسەر هەموو گردێکی بەرز و لەژێر هەموو دارێکی سەوز.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "و بنیادیان نا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هەروەها"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ئەوان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "بۆ خۆیان"
+    },
+    {
+      "surface": "במות",
+      "gloss": "بەرزاییەکان"
+    },
+    {
+      "surface": "ומצבות",
+      "gloss": "و ستوونەکان"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "و ئەشریم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "گرد"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "بەرز"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "و لەژێر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "دار"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "سەوز"
+    }
+  ],
+  "timestamp": "2026-09-24T11:54:05.783779574Z",
+  "model": "glm-5.3"
+}

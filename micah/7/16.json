@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":16,"ref":"micah 7:16","book":"micah","lang":"ckb","chapter":7,"translation":"گەلان دەبینن و شەرم دەکەن لە هەموو توانای خۆیان؛ دەستی دەخەنە سەر دەم، گوێکانیان لاڵ دەبن.","tokens":[{"surface":"יראו","gloss":"دەبینن"},{"surface":"גוים","gloss":"گەلان"},{"surface":"ויבשו","gloss":"و شەرم دەکەن"},{"surface":"מכל","gloss":"لە هەموو"},{"surface":"גבורתם","gloss":"توانای خۆیان"},{"surface":"ישימו","gloss":"دەخەنە"},{"surface":"יד","gloss":"دەست"},{"surface":"על","gloss":"سەر"},{"surface":"פה","gloss":"دەم"},{"surface":"אזניהם","gloss":"گوێکانیان"},{"surface":"תחרשנה","gloss":"لاڵ دەبن"}],"timestamp":"2026-09-24T13:39:03.053651293Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "micah 7:16",
+  "book": "micah",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "گەلان دەبینن و شەرم دەکەن لە هەموو توانای خۆیان؛ دەستی دەخەنە سەر دەم، گوێکانیان لاڵ دەبن.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "دەبینن"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "و شەرم دەکەن"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "لە هەموو"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "توانای خۆیان"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "دەخەنە"
+    },
+    {
+      "surface": "יד",
+      "gloss": "دەست"
+    },
+    {
+      "surface": "על",
+      "gloss": "سەر"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دەم"
+    },
+    {
+      "surface": "אזניהם",
+      "gloss": "گوێکانیان"
+    },
+    {
+      "surface": "תחרשנה",
+      "gloss": "لاڵ دەبن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:39:03.053651293Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":8,"ref":"genesis 27:8","book":"genesis","lang":"ckb","chapter":27,"translation":"و ئێستا کوڕەکەم گوێ بگرە بە دەنگی من بەوەی کە من ⟨את⟩ تۆ فەرمانت پێ دەکەم","tokens":[{"surface":"ועתה","gloss":"و ئێستا"},{"surface":"בני","gloss":"کوڕەکەم"},{"surface":"שמע","gloss":"گوێ بگرە"},{"surface":"בקלי","gloss":"بە دەنگی من"},{"surface":"לאשר","gloss":"بەوەی کە"},{"surface":"אני","gloss":"من"},{"surface":"מצוה","gloss":"فەرمانت پێ دەکەم"},{"surface":"אתך","gloss":"⟨את⟩ تۆ","marks":"تۆ"}],"timestamp":"2026-09-24T15:48:47.657856432Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و ئێستا کوڕەکەم گوێ بگرە بە دەنگی من بەوەی کە من ⟨את⟩ تۆ فەرمانت پێ دەکەم",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "و ئێستا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکەم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "گوێ بگرە"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "بە دەنگی من"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "بەوەی کە"
+    },
+    {
+      "surface": "אני",
+      "gloss": "من"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "فەرمانت پێ دەکەم"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تۆ",
+      "marks": "تۆ"
+    }
+  ],
+  "timestamp": "2026-09-24T15:48:47.657856432Z",
+  "model": "glm-5.3"
+}

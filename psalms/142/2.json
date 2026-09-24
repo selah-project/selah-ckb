@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 142:2","book":"psalms","lang":"ckb","chapter":142,"translation":"دەنگم بۆ یاهوە هاوار دەکەم؛ دەنگم بۆ یاهوە ڕەحمەت دەپاڕێم.","tokens":[{"surface":"קולי","gloss":"دەنگم"},{"surface":"אל","gloss":"بۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אזעק","gloss":"هاوار دەکەم"},{"surface":"קולי","gloss":"دەنگم"},{"surface":"אל","gloss":"بۆ"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אתחנן","gloss":"ڕەحمەت دەپاڕێم"}],"timestamp":"2026-09-24T14:19:57.504456133Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 142,
+  "translation": "دەنگم بۆ یاهوە هاوار دەکەم؛ دەنگم بۆ یاهوە ڕەحمەت دەپاڕێم.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "دەنگم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "هاوار دەکەم"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "دەنگم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ڕەحمەت دەپاڕێم"
+    }
+  ],
+  "timestamp": "2026-09-24T14:19:57.504456133Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":15,"ref":"ezekiel 30:15","book":"ezekiel","lang":"ckb","chapter":30,"translation":"و توڕەییەکەم لەسەر سین، قەڵای میتسرایم، دەڕێژم و ⟨את⟩ کۆمەڵی نوو دەبڕم.","tokens":[{"surface":"ושפכתי","gloss":"و دەڕێژم"},{"surface":"חמתי","gloss":"توڕەییەکەم"},{"surface":"על","gloss":"لەسەر"},{"surface":"סין","gloss":"سین"},{"surface":"מעוז","gloss":"قەڵای"},{"surface":"מצרים","gloss":"میتسرایم"},{"surface":"והכרתי","gloss":"و دەبڕم"},{"surface":"את","gloss":"⟨את⟩","marks":"کۆمەڵی نوو"},{"surface":"המון","gloss":"کۆمەڵ"},{"surface":"נא","gloss":"نوو"}],"timestamp":"2026-09-24T13:17:54.260265011Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و توڕەییەکەم لەسەر سین، قەڵای میتسرایم، دەڕێژم و ⟨את⟩ کۆمەڵی نوو دەبڕم.",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "و دەڕێژم"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "توڕەییەکەم"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "סין",
+      "gloss": "سین"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "قەڵای"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "و دەبڕم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کۆمەڵی نوو"
+    },
+    {
+      "surface": "המון",
+      "gloss": "کۆمەڵ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نوو"
+    }
+  ],
+  "timestamp": "2026-09-24T13:17:54.260265011Z",
+  "model": "glm-5.3"
+}

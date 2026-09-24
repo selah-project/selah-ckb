@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":3,"ref":"jeremiah 1:3","book":"jeremiah","lang":"ckb","chapter":1,"translation":"و بوو لە ڕۆژانی یەهۆیاقیم کوڕی یۆشیا پاشای یەهودا، تا تەواوبوونی ساڵی یازدەیەمی سیدقیا کوڕی یۆشیا پاشای یەهودا، تا بە دیلگرتنی ئۆرشەلیم لە مانگی پێنجەم.","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"בימי","gloss":"لە ڕۆژانی"},{"surface":"יהויקים","gloss":"یەهۆیاقیم"},{"surface":"בן","gloss":"کوڕی"},{"surface":"יאשיהו","gloss":"یۆشیا"},{"surface":"מלך","gloss":"پاشای"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"עד","gloss":"تا"},{"surface":"תם","gloss":"تەواوبوونی"},{"surface":"עשתי","gloss":"یازدە"},{"surface":"עשרה","gloss":"یازدەیەم"},{"surface":"שנה","gloss":"ساڵی"},{"surface":"לצדקיהו","gloss":"سیدقیا"},{"surface":"בן","gloss":"کوڕی"},{"surface":"יאשיהו","gloss":"یۆشیا"},{"surface":"מלך","gloss":"پاشای"},{"surface":"יהודה","gloss":"یەهودا"},{"surface":"עד","gloss":"تا"},{"surface":"גלות","gloss":"دیلگرتنی"},{"surface":"ירושלם","gloss":"ئۆرشەلیم"},{"surface":"בחדש","gloss":"لە مانگی"},{"surface":"החמישי","gloss":"پێنجەم"}],"timestamp":"2026-09-24T12:37:32.137744285Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 1:3",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و بوو لە ڕۆژانی یەهۆیاقیم کوڕی یۆشیا پاشای یەهودا، تا تەواوبوونی ساڵی یازدەیەمی سیدقیا کوڕی یۆشیا پاشای یەهودا، تا بە دیلگرتنی ئۆرشەلیم لە مانگی پێنجەم.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "لە ڕۆژانی"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "یەهۆیاقیم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یۆشیا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "תם",
+      "gloss": "تەواوبوونی"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یازدە"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "یازدەیەم"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵی"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "سیدقیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یۆشیا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشای"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یەهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "دیلگرتنی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ئۆرشەلیم"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "لە مانگی"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پێنجەم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:37:32.137744285Z",
+  "model": "glm-5.3"
+}

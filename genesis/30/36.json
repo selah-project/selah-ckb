@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":36,"ref":"genesis 30:36","book":"genesis","lang":"ckb","chapter":30,"translation":"و نێوان خۆی و یەعقۆب ڕێگای سێ ڕۆژ دانا و یەعقۆب ⟨את⟩ مەڕەکانی لابانی ماوە دەچەواند.","tokens":[{"surface":"וישם","gloss":"و دانا"},{"surface":"דרך","gloss":"ڕێگا"},{"surface":"שלשת","gloss":"سێ"},{"surface":"ימים","gloss":"ڕۆژ"},{"surface":"בינו","gloss":"نێوان خۆی"},{"surface":"ובין","gloss":"و نێوان"},{"surface":"יעקב","gloss":"یەعقۆب"},{"surface":"ויעקב","gloss":"و یەعقۆب"},{"surface":"רעה","gloss":"دەچەواند"},{"surface":"את","gloss":"⟨את⟩","marks":"مەڕەکانی لابان"},{"surface":"צאן","gloss":"مەڕەکانی"},{"surface":"לבן","gloss":"لابان"},{"surface":"הנותרת","gloss":"ماوە"}],"timestamp":"2026-09-24T09:25:05.130105750Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 30:36",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "و نێوان خۆی و یەعقۆب ڕێگای سێ ڕۆژ دانا و یەعقۆب ⟨את⟩ مەڕەکانی لابانی ماوە دەچەواند.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "و دانا"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ڕێگا"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "سێ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "نێوان خۆی"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "و نێوان"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یەعقۆب"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "و یەعقۆب"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "دەچەواند"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مەڕەکانی لابان"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕەکانی"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הנותרת",
+      "gloss": "ماوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:25:05.130105750Z",
+  "model": "glm-5.3"
+}

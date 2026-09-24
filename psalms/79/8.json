@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 79:8","book":"psalms","lang":"ckb","chapter":79,"translation":"گوناهەکانی پێشوومان بیر مەهێنە؛ بەزەییەکانت بەپەلە پێشمان کەونەتەوە، چونکە زۆر لاواز بووین.","tokens":[{"surface":"אל","gloss":"مە"},{"surface":"תזכר","gloss":"بیر هێنانەوە"},{"surface":"לנו","gloss":"بۆمان"},{"surface":"עונת","gloss":"گوناهەکانی"},{"surface":"ראשנים","gloss":"پێشوو"},{"surface":"מהר","gloss":"بەپەلە"},{"surface":"יקדמונו","gloss":"پێشمان کەونەتەوە"},{"surface":"רחמיך","gloss":"بەزەییەکانت"},{"surface":"כי","gloss":"چونکە"},{"surface":"דלונו","gloss":"لاواز بووین"},{"surface":"מאד","gloss":"زۆر"}],"timestamp":"2026-09-24T14:06:43.917984726Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 79,
+  "translation": "گوناهەکانی پێشوومان بیر مەهێنە؛ بەزەییەکانت بەپەلە پێشمان کەونەتەوە، چونکە زۆر لاواز بووین.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مە"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "بیر هێنانەوە"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "بۆمان"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "گوناهەکانی"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "پێشوو"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "بەپەلە"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "پێشمان کەونەتەوە"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "بەزەییەکانت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "لاواز بووین"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زۆر"
+    }
+  ],
+  "timestamp": "2026-09-24T14:06:43.917984726Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,42 @@
-{"tier":"glm-5.2","verse":23,"ref":"psalms 102:23","book":"psalms","lang":"ckb","chapter":102,"translation":"لە کۆبوونەوەی گەلان پێکەوە، و شانشینەکان، بۆ خزمەتکردنی ⟨את⟩ یاهوە.","tokens":[{"surface":"בהקבץ","gloss":"لە کۆبوونەوەی"},{"surface":"עמים","gloss":"گەلان"},{"surface":"יחדו","gloss":"پێکەوە"},{"surface":"וממלכות","gloss":"و شانشینەکان"},{"surface":"לעבד","gloss":"بۆ خزمەتکردنی"},{"surface":"את","gloss":"⟨את⟩","marks":"یاهوە"},{"surface":"יהוה","gloss":"یاهوە"}],"timestamp":"2026-09-24T14:10:21.645861203Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 102,
+  "translation": "لە کۆبوونەوەی گەلان پێکەوە، و شانشینەکان، بۆ خزمەتکردنی ⟨את⟩ یاهوە.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "لە کۆبوونەوەی"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "گەلان"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "پێکەوە"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "و شانشینەکان"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "بۆ خزمەتکردنی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوە"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    }
+  ],
+  "timestamp": "2026-09-24T14:10:21.645861203Z",
+  "model": "glm-5.3"
+}

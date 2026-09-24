@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":3,"ref":"jeremiah 3:3","book":"jeremiah","lang":"ckb","chapter":3,"translation":"و بارانە وردەکان بەندکران و بارانی درەنگ نەبوو، و پێشانی ژنێکی زانی بۆ تۆ بووە — ڕەتت کردەوە شەرم بکەیت.","tokens":[{"surface":"וימנעו","gloss":"و بەندکران"},{"surface":"רבבים","gloss":"بارانە وردەکان"},{"surface":"ומלקוש","gloss":"و بارانی درەنگ"},{"surface":"לוא","gloss":"نا"},{"surface":"היה","gloss":"بوو"},{"surface":"ומצח","gloss":"و پێشانی"},{"surface":"אשה","gloss":"ژنێک"},{"surface":"זונה","gloss":"زانی"},{"surface":"היה","gloss":"بوو"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"מאנת","gloss":"ڕەتت کردەوە"},{"surface":"הכלם","gloss":"شەرم"}],"timestamp":"2026-09-24T12:38:11.513331993Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 3:3",
+  "book": "jeremiah",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و بارانە وردەکان بەندکران و بارانی درەنگ نەبوو، و پێشانی ژنێکی زانی بۆ تۆ بووە — ڕەتت کردەوە شەرم بکەیت.",
+  "tokens": [
+    {
+      "surface": "וימנעו",
+      "gloss": "و بەندکران"
+    },
+    {
+      "surface": "רבבים",
+      "gloss": "بارانە وردەکان"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "و بارانی درەنگ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "ומצח",
+      "gloss": "و پێشانی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ژنێک"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زانی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "מאנת",
+      "gloss": "ڕەتت کردەوە"
+    },
+    {
+      "surface": "הכלם",
+      "gloss": "شەرم"
+    }
+  ],
+  "timestamp": "2026-09-24T12:38:11.513331993Z",
+  "model": "glm-5.3"
+}

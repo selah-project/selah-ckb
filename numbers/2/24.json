@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":24,"ref":"numbers 2:24","book":"numbers","lang":"ckb","chapter":2,"translation":"هەموو ژمارەدارەکانی بۆ چادرگای ئێفرایم سەد هەزار و هەشت هەزار و سەد بوون بۆ لەشکرەکانیان، و سێیەم دەڕۆن.","tokens":[{"surface":"כל","gloss":"هەموو"},{"surface":"הפקדים","gloss":"ژمارەدارەکانی"},{"surface":"למחנה","gloss":"بۆ چادرگای"},{"surface":"אפרים","gloss":"ئێفرایم"},{"surface":"מאת","gloss":"سەد"},{"surface":"אלף","gloss":"هەزار"},{"surface":"ושמנת","gloss":"و هەشت"},{"surface":"אלפים","gloss":"هەزار"},{"surface":"ומאה","gloss":"و سەد"},{"surface":"לצבאתם","gloss":"بۆ لەشکرەکانیان"},{"surface":"ושלשים","gloss":"و سێیەم"},{"surface":"יסעו","gloss":"دەڕۆن"}],"timestamp":"2026-09-24T10:13:45.452153828Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 2:24",
+  "book": "numbers",
+  "lang": "ckb",
+  "chapter": 2,
+  "translation": "هەموو ژمارەدارەکانی بۆ چادرگای ئێفرایم سەد هەزار و هەشت هەزار و سەد بوون بۆ لەشکرەکانیان، و سێیەم دەڕۆن.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ژمارەدارەکانی"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "بۆ چادرگای"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ئێفرایم"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سەد"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ושמנת",
+      "gloss": "و هەشت"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "هەزار"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "و سەد"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "بۆ لەشکرەکانیان"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "و سێیەم"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "دەڕۆن"
+    }
+  ],
+  "timestamp": "2026-09-24T10:13:45.452153828Z",
+  "model": "glm-5.3"
+}

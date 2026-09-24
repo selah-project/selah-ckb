@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":10,"ref":"job 4:10","book":"job","lang":"ckb","chapter":4,"translation":"غڕینی شێر و دەنگی شێری توند و دانانی بەچکەشێرەکان دەشکێن.","tokens":[{"surface":"שאגת","gloss":"غڕینی"},{"surface":"אריה","gloss":"شێر"},{"surface":"וקול","gloss":"و دەنگی"},{"surface":"שחל","gloss":"شێری توند"},{"surface":"ושני","gloss":"و دانانی"},{"surface":"כפירים","gloss":"بەچکەشێرەکان"},{"surface":"נתעו","gloss":"دەشکێن"}],"timestamp":"2026-09-24T14:33:53.121133999Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 4,
+  "translation": "غڕینی شێر و دەنگی شێری توند و دانانی بەچکەشێرەکان دەشکێن.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "غڕینی"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شێر"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "و دەنگی"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شێری توند"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "و دانانی"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "بەچکەشێرەکان"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "دەشکێن"
+    }
+  ],
+  "timestamp": "2026-09-24T14:33:53.121133999Z",
+  "model": "glm-5.3"
+}

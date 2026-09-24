@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-kings 15:12","book":"2-kings","lang":"ckb","chapter":15,"translation":"ئەوە وشەی یاهوە بوو کە بە یێهووی فەرموو، بەمەڵێ: «کوڕەکانی چوارەم نەوە لەسەر تەختی ئیسرائێل بۆ تۆ دادەنیشن»؛ و هەر وا بوو.","tokens":[{"surface":"הוא","gloss":"ئەوە"},{"surface":"דבר","gloss":"وشەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אשר","gloss":"کە"},{"surface":"דבר","gloss":"فەرموو"},{"surface":"אל","gloss":"بە"},{"surface":"יהוא","gloss":"یێهوو"},{"surface":"לאמר","gloss":"بەمەڵێ"},{"surface":"בני","gloss":"کوڕەکانی"},{"surface":"רביעים","gloss":"چوارەم نەوە"},{"surface":"ישבו","gloss":"دادەنیشن"},{"surface":"לך","gloss":"بۆ تۆ"},{"surface":"על","gloss":"لەسەر"},{"surface":"כסא","gloss":"تەختی"},{"surface":"ישראל","gloss":"ئیسرائێل"},{"surface":"ויהי","gloss":"و بوو"},{"surface":"כן","gloss":"هەر وا"}],"timestamp":"2026-09-24T12:04:35.341849098Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 15:12",
+  "book": "2-kings",
+  "lang": "ckb",
+  "chapter": 15,
+  "translation": "ئەوە وشەی یاهوە بوو کە بە یێهووی فەرموو، بەمەڵێ: «کوڕەکانی چوارەم نەوە لەسەر تەختی ئیسرائێل بۆ تۆ دادەنیشن»؛ و هەر وا بوو.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ئەوە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یێهوو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بەمەڵێ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کوڕەکانی"
+    },
+    {
+      "surface": "רביעים",
+      "gloss": "چوارەم نەوە"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "دادەنیشن"
+    },
+    {
+      "surface": "לך",
+      "gloss": "بۆ تۆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تەختی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائێل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وا"
+    }
+  ],
+  "timestamp": "2026-09-24T12:04:35.341849098Z",
+  "model": "glm-5.3"
+}

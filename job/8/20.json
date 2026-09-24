@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":20,"ref":"job 8:20","book":"job","lang":"ckb","chapter":8,"translation":"ئاوا، ئێل پیاوی ڕاست نیافەرمێتە دەر، و دەستی خراپەکاران بەهێز ناکات.","tokens":[{"surface":"הן","gloss":"ئاوا"},{"surface":"אל","gloss":"ئێل"},{"surface":"לא","gloss":"نە"},{"surface":"ימאס","gloss":"نیافەرمێتە دەر"},{"surface":"תם","gloss":"پیاوی ڕاست"},{"surface":"ולא","gloss":"و نە"},{"surface":"יחזיק","gloss":"بەهێز ناکات"},{"surface":"ביד","gloss":"دەستی"},{"surface":"מרעים","gloss":"خراپەکاران"}],"timestamp":"2026-09-24T14:35:44.687570709Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 8,
+  "translation": "ئاوا، ئێل پیاوی ڕاست نیافەرمێتە دەر، و دەستی خراپەکاران بەهێز ناکات.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ئاوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ئێل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "نیافەرمێتە دەر"
+    },
+    {
+      "surface": "תם",
+      "gloss": "پیاوی ڕاست"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "بەهێز ناکات"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "خراپەکاران"
+    }
+  ],
+  "timestamp": "2026-09-24T14:35:44.687570709Z",
+  "model": "glm-5.3"
+}

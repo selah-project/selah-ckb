@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":9,"ref":"exodus 11:9","book":"exodus","lang":"ckb","chapter":11,"translation":"و یاهوە بە مۆشەی فەرموو: فیرعەون گوێی لە ئێوە ناگرێت، بۆ ئەوەی نیشانەکانم لە زەوی میتسرایمدا زۆر ببن.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"אל","gloss":"بە"},{"surface":"משה","gloss":"مۆشە"},{"surface":"לא","gloss":"نا"},{"surface":"ישמע","gloss":"گوێی ناگرێت"},{"surface":"אליכם","gloss":"لە ئێوە"},{"surface":"פרעה","gloss":"فیرعەون"},{"surface":"למען","gloss":"بۆ ئەوەی"},{"surface":"רבות","gloss":"زۆر ببن"},{"surface":"מופתי","gloss":"نیشانەکانم"},{"surface":"בארץ","gloss":"لە زەوی"},{"surface":"מצרים","gloss":"میتسرایم"}],"timestamp":"2026-09-24T09:39:27.314111721Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 11,
+  "translation": "و یاهوە بە مۆشەی فەرموو: فیرعەون گوێی لە ئێوە ناگرێت، بۆ ئەوەی نیشانەکانم لە زەوی میتسرایمدا زۆر ببن.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "گوێی ناگرێت"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "لە ئێوە"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیرعەون"
+    },
+    {
+      "surface": "למען",
+      "gloss": "بۆ ئەوەی"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "زۆر ببن"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "نیشانەکانم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "لە زەوی"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم"
+    }
+  ],
+  "timestamp": "2026-09-24T09:39:27.314111721Z",
+  "model": "glm-5.3"
+}

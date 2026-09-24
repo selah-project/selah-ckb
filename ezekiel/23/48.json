@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":48,"ref":"ezekiel 23:48","book":"ezekiel","lang":"ckb","chapter":23,"translation":"و خراپەیی لە زەویەکە ڕادەگرم و هەموو ژنان فێر دەبن و وەک خراپەییی ئێوە نایکەن.","tokens":[{"surface":"והשבתי","gloss":"و ڕادەگرم"},{"surface":"זמה","gloss":"خراپەیی"},{"surface":"מן","gloss":"لە"},{"surface":"הארץ","gloss":"زەویەکە"},{"surface":"ונוסרו","gloss":"و فێر دەبن"},{"surface":"כל","gloss":"هەموو"},{"surface":"הנשים","gloss":"ژنان"},{"surface":"ולא","gloss":"و نا"},{"surface":"תעשינה","gloss":"دەیکەن"},{"surface":"כזמתכנה","gloss":"وەک خراپەییی ئێوە"}],"timestamp":"2026-09-24T13:14:55.518907730Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 23:48",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 23,
+  "translation": "و خراپەیی لە زەویەکە ڕادەگرم و هەموو ژنان فێر دەبن و وەک خراپەییی ئێوە نایکەن.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "و ڕادەگرم"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "خراپەیی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زەویەکە"
+    },
+    {
+      "surface": "ונוסרו",
+      "gloss": "و فێر دەبن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هەموو"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ژنان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "دەیکەن"
+    },
+    {
+      "surface": "כזמתכנה",
+      "gloss": "وەک خراپەییی ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T13:14:55.518907730Z",
+  "model": "glm-5.3"
+}

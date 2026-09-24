@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":36,"ref":"2-samuel 22:36","book":"2-samuel","lang":"ckb","chapter":22,"translation":"و قەڵغانی ڕزگارییەکەت بە من دا و وەڵامدانەوەت گەورەم کرد","tokens":[{"surface":"ותתן","gloss":"و دا"},{"surface":"לי","gloss":"بە من"},{"surface":"מגן","gloss":"قەڵغانی"},{"surface":"ישעך","gloss":"ڕزگارییەکەت"},{"surface":"וענתך","gloss":"و وەڵامدانەوەت"},{"surface":"תרבני","gloss":"گەورەم کرد"}],"timestamp":"2026-09-24T11:42:57.662384683Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 22:36",
+  "book": "2-samuel",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و قەڵغانی ڕزگارییەکەت بە من دا و وەڵامدانەوەت گەورەم کرد",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "و دا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "بە من"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "قەڵغانی"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ڕزگارییەکەت"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "و وەڵامدانەوەت"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "گەورەم کرد"
+    }
+  ],
+  "timestamp": "2026-09-24T11:42:57.662384683Z",
+  "model": "glm-5.3"
+}

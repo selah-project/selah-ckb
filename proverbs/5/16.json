@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":16,"ref":"proverbs 5:16","book":"proverbs","lang":"ckb","chapter":5,"translation":"کانیاکانت لە دەرەوە بڵاوببنەوە، لە شەقامەکاندا جۆگەلی ئاو.","tokens":[{"surface":"יפוצו","gloss":"بڵاوببنەوە"},{"surface":"מעינתיך","gloss":"کانیاکانت"},{"surface":"חוצה","gloss":"لە دەرەوە"},{"surface":"ברחבות","gloss":"لە شەقامەکاندا"},{"surface":"פלגי","gloss":"جۆگەلی"},{"surface":"מים","gloss":"ئاو"}],"timestamp":"2026-09-24T14:22:42.674124122Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "کانیاکانت لە دەرەوە بڵاوببنەوە، لە شەقامەکاندا جۆگەلی ئاو.",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "بڵاوببنەوە"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "کانیاکانت"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "لە دەرەوە"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "لە شەقامەکاندا"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "جۆگەلی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ئاو"
+    }
+  ],
+  "timestamp": "2026-09-24T14:22:42.674124122Z",
+  "model": "glm-5.3"
+}

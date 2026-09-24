@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":6,"ref":"psalms 114:6","book":"psalms","lang":"ckb","chapter":114,"translation":"ئەی چیاکان، کە وەک نێرەوان سەما دەکەن؟ ئەی تەپۆڵکەکان، وەک بەرخەکان؟","tokens":[{"surface":"ההרים","gloss":"ئەی چیاکان"},{"surface":"תרקדו","gloss":"سەما دەکەن"},{"surface":"כאילים","gloss":"وەک نێرەوان"},{"surface":"גבעות","gloss":"ئەی تەپۆڵکەکان"},{"surface":"כבני","gloss":"وەک بەرخەکانی"},{"surface":"צאן","gloss":"مەڕ"}],"timestamp":"2026-09-24T14:14:02.270948226Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 114,
+  "translation": "ئەی چیاکان، کە وەک نێرەوان سەما دەکەن؟ ئەی تەپۆڵکەکان، وەک بەرخەکان؟",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ئەی چیاکان"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "سەما دەکەن"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "وەک نێرەوان"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ئەی تەپۆڵکەکان"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "وەک بەرخەکانی"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مەڕ"
+    }
+  ],
+  "timestamp": "2026-09-24T14:14:02.270948226Z",
+  "model": "glm-5.3"
+}

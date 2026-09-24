@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":15,"ref":"1-samuel 24:15","book":"1-samuel","lang":"ckb","chapter":24,"translation":"«دوای کێ پاشای ئیسرائیل دەرچووە؟ دوای کێ تۆ ڕاودەکەیت؟ دوای سەگێکی مردوو، دوای فرێکی یەک.»","tokens":[{"surface":"אחרי","gloss":"دوای"},{"surface":"מי","gloss":"کێ"},{"surface":"יצא","gloss":"دەرچووە"},{"surface":"מלך","gloss":"پاشا"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"אחרי","gloss":"دوای"},{"surface":"מי","gloss":"کێ"},{"surface":"אתה","gloss":"تۆ"},{"surface":"רדף","gloss":"ڕاودەکەیت"},{"surface":"אחרי","gloss":"دوای"},{"surface":"כלב","gloss":"سەگ"},{"surface":"מת","gloss":"مردوو"},{"surface":"אחרי","gloss":"دوای"},{"surface":"פרעש","gloss":"فر"},{"surface":"אחד","gloss":"یەک"}],"timestamp":"2026-09-24T11:26:35.280362997Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "«دوای کێ پاشای ئیسرائیل دەرچووە؟ دوای کێ تۆ ڕاودەکەیت؟ دوای سەگێکی مردوو، دوای فرێکی یەک.»",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "دەرچووە"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاشا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کێ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۆ"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ڕاودەکەیت"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "سەگ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مردوو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "دوای"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "فر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یەک"
+    }
+  ],
+  "timestamp": "2026-09-24T11:26:35.280362997Z",
+  "model": "glm-5.3"
+}

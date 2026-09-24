@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":14,"ref":"exodus 3:14","book":"exodus","lang":"ckb","chapter":3,"translation":"و ئێلۆهیم بە مۆشەی فەرموو: ئێهیێ ئەشێر ئێهیێ. و فەرمووی: هەروا دەڵێی بە کوڕانی ئیسرائیل: ئێهیێ منی ناردووە لای ئێوە.","tokens":[{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"אלהים","gloss":"ئێلۆهیم"},{"surface":"אל","gloss":"بە"},{"surface":"משה","gloss":"مۆشە"},{"surface":"אהיה","gloss":"ئێهیێ"},{"surface":"אשר","gloss":"ئەشێر"},{"surface":"אהיה","gloss":"ئێهیێ"},{"surface":"ויאמר","gloss":"و فەرموو"},{"surface":"כה","gloss":"هەروا"},{"surface":"תאמר","gloss":"دەڵێی"},{"surface":"לבני","gloss":"بە کوڕانی"},{"surface":"ישראל","gloss":"ئیسرائیل"},{"surface":"אהיה","gloss":"ئێهیێ"},{"surface":"שלחני","gloss":"منی ناردووە"},{"surface":"אליכם","gloss":"لای ئێوە"}],"timestamp":"2026-09-24T09:38:39.122836096Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و ئێلۆهیم بە مۆشەی فەرموو: ئێهیێ ئەشێر ئێهیێ. و فەرمووی: هەروا دەڵێی بە کوڕانی ئیسرائیل: ئێهیێ منی ناردووە لای ئێوە.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ئێلۆهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بە"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مۆشە"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ئێهیێ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەشێر"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ئێهیێ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرموو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هەروا"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "دەڵێی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بە کوڕانی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ئیسرائیل"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ئێهیێ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "منی ناردووە"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "لای ئێوە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:38:39.122836096Z",
+  "model": "glm-5.3"
+}

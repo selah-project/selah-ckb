@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":10,"ref":"lamentations 5:10","book":"lamentations","lang":"ckb","chapter":5,"translation":"پێستمان وەک تەنوور گەرم بووە بە هۆی تینەی برسییەتی","tokens":[{"surface":"עורנו","gloss":"پێستمان"},{"surface":"כתנור","gloss":"وەک تەنوور"},{"surface":"נכמרו","gloss":"گەرم بووە"},{"surface":"מפני","gloss":"بە هۆی"},{"surface":"זלעפות","gloss":"تینەی"},{"surface":"רעב","gloss":"برسییەتی"}],"timestamp":"2026-09-24T14:54:52.004052554Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ckb",
+  "chapter": 5,
+  "translation": "پێستمان وەک تەنوور گەرم بووە بە هۆی تینەی برسییەتی",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "پێستمان"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "وەک تەنوور"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "گەرم بووە"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "بە هۆی"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "تینەی"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "برسییەتی"
+    }
+  ],
+  "timestamp": "2026-09-24T14:54:52.004052554Z",
+  "model": "glm-5.3"
+}

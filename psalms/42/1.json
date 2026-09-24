@@ -1,1 +1,29 @@
-{"tier":"glm-5.2","verse":1,"ref":"psalms 42:1","book":"psalms","lang":"ckb","chapter":42,"translation":"بۆ ڕێبەرەکە، مەشقی فێرکردن، هی کوڕانی قۆرەخە.","tokens":[{"surface":"למנצח","gloss":"بۆ ڕێبەرەکە"},{"surface":"משכיל","gloss":"مەشقی فێرکردن"},{"surface":"לבני","gloss":"هی کوڕانی"},{"surface":"קרח","gloss":"قۆرەخ"}],"timestamp":"2026-09-24T13:56:42.551887099Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 42,
+  "translation": "بۆ ڕێبەرەکە، مەشقی فێرکردن، هی کوڕانی قۆرەخە.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "بۆ ڕێبەرەکە"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مەشقی فێرکردن"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "هی کوڕانی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قۆرەخ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:56:42.551887099Z",
+  "model": "glm-5.3"
+}

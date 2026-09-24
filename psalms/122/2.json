@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":2,"ref":"psalms 122:2","book":"psalms","lang":"ckb","chapter":122,"translation":"ڕاوەستاون پێیەکانی ئێمە، لە دەرگاکانی تۆدا، ئەی یەروشالایم.","tokens":[{"surface":"עמדות","gloss":"ڕاوەستاون"},{"surface":"היו","gloss":"بوون"},{"surface":"רגלינו","gloss":"پێیەکانی ئێمە"},{"surface":"בשעריך","gloss":"لە دەرگاکانی تۆدا"},{"surface":"ירושלם","gloss":"یەروشالایم"}],"timestamp":"2026-09-24T17:03:25.647269278Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 122,
+  "translation": "ڕاوەستاون پێیەکانی ئێمە، لە دەرگاکانی تۆدا، ئەی یەروشالایم.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "ڕاوەستاون"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بوون"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "پێیەکانی ئێمە"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "لە دەرگاکانی تۆدا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یەروشالایم"
+    }
+  ],
+  "timestamp": "2026-09-24T17:03:25.647269278Z",
+  "model": "glm-5.3"
+}

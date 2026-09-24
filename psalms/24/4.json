@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 24:4","book":"psalms","lang":"ckb","chapter":24,"translation":"پاکی دەستەکان و پاکژی دڵ، ئەوەی کە گیانی بۆ بەتاڵی هەڵنەهێناوە و بە فێڵی سوێند نەخواردووە.","tokens":[{"surface":"נקי","gloss":"پاکی"},{"surface":"כפים","gloss":"دەستەکان"},{"surface":"ובר","gloss":"و پاکژی"},{"surface":"לבב","gloss":"دڵ"},{"surface":"אשר","gloss":"ئەوەی کە"},{"surface":"לא","gloss":"نە"},{"surface":"נשא","gloss":"هەڵهێناوە"},{"surface":"לשוא","gloss":"بۆ بەتاڵی"},{"surface":"נפשי","gloss":"گیانی"},{"surface":"ולא","gloss":"و نە"},{"surface":"נשבע","gloss":"سوێند خواردووە"},{"surface":"למרמה","gloss":"بە فێڵی"}],"timestamp":"2026-09-24T13:53:36.998849948Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 24,
+  "translation": "پاکی دەستەکان و پاکژی دڵ، ئەوەی کە گیانی بۆ بەتاڵی هەڵنەهێناوە و بە فێڵی سوێند نەخواردووە.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "پاکی"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "دەستەکان"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "و پاکژی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دڵ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ئەوەی کە"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "هەڵهێناوە"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "بۆ بەتاڵی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "سوێند خواردووە"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "بە فێڵی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:53:36.998849948Z",
+  "model": "glm-5.3"
+}

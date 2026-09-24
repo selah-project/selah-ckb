@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-samuel 1:7","book":"1-samuel","lang":"ckb","chapter":1,"translation":"و هەر وا ساڵ بە ساڵ دەیکرد، هەر کاتێک بۆ ماڵی یاهوە سەردەکەوت، هەر وا ئەو ئازاری دەدا، و دەگریا و نەیدەتوانی بخوات.","tokens":[{"surface":"וכן","gloss":"و هەر وا"},{"surface":"יעשה","gloss":"دەیکرد"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"בשנה","gloss":"بە ساڵ"},{"surface":"מדי","gloss":"هەر کاتێک"},{"surface":"עלתה","gloss":"سەردەکەوت"},{"surface":"בבית","gloss":"بۆ ماڵی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"כן","gloss":"هەر وا"},{"surface":"תכעסנה","gloss":"ئازاری دەدا"},{"surface":"ותבכה","gloss":"و دەگریا"},{"surface":"ולא","gloss":"و نە"},{"surface":"תאכל","gloss":"دەتوانی بخوات"}],"timestamp":"2026-09-24T11:15:44.368038884Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و هەر وا ساڵ بە ساڵ دەیکرد، هەر کاتێک بۆ ماڵی یاهوە سەردەکەوت، هەر وا ئەو ئازاری دەدا، و دەگریا و نەیدەتوانی بخوات.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "و هەر وا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "دەیکرد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "بە ساڵ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "هەر کاتێک"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "سەردەکەوت"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بۆ ماڵی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "כן",
+      "gloss": "هەر وا"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "ئازاری دەدا"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "و دەگریا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نە"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "دەتوانی بخوات"
+    }
+  ],
+  "timestamp": "2026-09-24T11:15:44.368038884Z",
+  "model": "glm-5.3"
+}

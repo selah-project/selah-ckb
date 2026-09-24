@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":35,"ref":"ezekiel 40:35","book":"ezekiel","lang":"ckb","chapter":40,"translation":"و منی هێنا بۆ دەروازەی باکوور، و بە پێوانەکانی ئەمانە پێی.","tokens":[{"surface":"ויביאני","gloss":"و منی هێنا"},{"surface":"אל","gloss":"بۆ"},{"surface":"שער","gloss":"دەروازە"},{"surface":"הצפון","gloss":"باکوور"},{"surface":"ומדד","gloss":"و پێی"},{"surface":"כמדות","gloss":"بە پێوانەکانی"},{"surface":"האלה","gloss":"ئەمانە"}],"timestamp":"2026-09-24T16:02:46.448157204Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 40:35",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 40,
+  "translation": "و منی هێنا بۆ دەروازەی باکوور، و بە پێوانەکانی ئەمانە پێی.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "و منی هێنا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دەروازە"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "باکوور"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "و پێی"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "بە پێوانەکانی"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ئەمانە"
+    }
+  ],
+  "timestamp": "2026-09-24T16:02:46.448157204Z",
+  "model": "glm-5.3"
+}

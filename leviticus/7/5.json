@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":5,"ref":"leviticus 7:5","book":"leviticus","lang":"ckb","chapter":7,"translation":"و کاهین ئەوان ⟨את⟩ لەسەر قوربانگاکە دەسووتێنێت، ئیشەیە بۆ یاهوە، ئەشەمە ئەوەیە.","tokens":[{"surface":"והקטיר","gloss":"دەسووتێنێت"},{"surface":"אתם","gloss":"⟨את⟩ ئەوان","marks":"ئەوان (چەوری و گورچیلەکان)"},{"surface":"הכהן","gloss":"کاهین"},{"surface":"המזבחה","gloss":"لەسەر قوربانگاکە"},{"surface":"אשה","gloss":"ئیشە"},{"surface":"ליהוה","gloss":"بۆ یاهوە"},{"surface":"אשם","gloss":"ئەشەم"},{"surface":"הוא","gloss":"ئەوەیە"}],"timestamp":"2026-09-24T09:59:24.050373625Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ckb",
+  "chapter": 7,
+  "translation": "و کاهین ئەوان ⟨את⟩ لەسەر قوربانگاکە دەسووتێنێت، ئیشەیە بۆ یاهوە، ئەشەمە ئەوەیە.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "دەسووتێنێت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ئەوان",
+      "marks": "ئەوان (چەوری و گورچیلەکان)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهین"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "لەسەر قوربانگاکە"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ئیشە"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "بۆ یاهوە"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ئەشەم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ئەوەیە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:59:24.050373625Z",
+  "model": "glm-5.3"
+}

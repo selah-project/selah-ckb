@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":3,"ref":"haggai 1:3","book":"haggai","lang":"ckb","chapter":1,"translation":"و بوو کە وشەی یاهوە بە دەستی حەگی پێغەمبەر هات بە دەنگکردن","tokens":[{"surface":"ויהי","gloss":"و بوو"},{"surface":"דבר","gloss":"وشەی"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"ביד","gloss":"بە دەستی"},{"surface":"חגי","gloss":"حەگی"},{"surface":"הנביא","gloss":"پێغەمبەر"},{"surface":"לאמר","gloss":"بە دەنگکردن"}],"timestamp":"2026-09-24T13:42:37.065432445Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "و بوو کە وشەی یاهوە بە دەستی حەگی پێغەمبەر هات بە دەنگکردن",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و بوو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وشەی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "بە دەستی"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "حەگی"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پێغەمبەر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "بە دەنگکردن"
+    }
+  ],
+  "timestamp": "2026-09-24T13:42:37.065432445Z",
+  "model": "glm-5.3"
+}

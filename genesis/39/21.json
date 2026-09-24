@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":21,"ref":"genesis 39:21","book":"genesis","lang":"ckb","chapter":39,"translation":"و یاهوە ⟨את⟩ لەگەڵ یوسف بوو، و حەسەدی بۆی درێژکردەوە، و ڕەزامەندیی خۆی دا لە چاوانی سەرۆکی ماڵی زیندانەکەدا.","tokens":[{"surface":"ויהי","gloss":"بوو"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"את","gloss":"⟨את⟩ لەگەڵ","marks":"یوسف"},{"surface":"יוסף","gloss":"یوسف"},{"surface":"ויט","gloss":"درێژکردەوە"},{"surface":"אליו","gloss":"بۆی"},{"surface":"חסד","gloss":"حەسەد"},{"surface":"ויתן","gloss":"دا"},{"surface":"חנו","gloss":"ڕەزامەندیی"},{"surface":"בעיני","gloss":"لە چاوانی"},{"surface":"שר","gloss":"سەرۆک"},{"surface":"בית","gloss":"ماڵی"},{"surface":"הסהר","gloss":"زیندانەکە"}],"timestamp":"2026-09-24T09:29:38.699669778Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 39,
+  "translation": "و یاهوە ⟨את⟩ لەگەڵ یوسف بوو، و حەسەدی بۆی درێژکردەوە، و ڕەزامەندیی خۆی دا لە چاوانی سەرۆکی ماڵی زیندانەکەدا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بوو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ لەگەڵ",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "درێژکردەوە"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "بۆی"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "حەسەد"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ڕەزامەندیی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "لە چاوانی"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سەرۆک"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ماڵی"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "زیندانەکە"
+    }
+  ],
+  "timestamp": "2026-09-24T09:29:38.699669778Z",
+  "model": "glm-5.3"
+}

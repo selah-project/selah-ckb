@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":22,"ref":"job 27:22","book":"job","lang":"ckb","chapter":27,"translation":"و فڕێی دەداتە سەری و لێی ناچێت، لە دەستیەوە هەڵدێت هەڵاتن","tokens":[{"surface":"וישלך","gloss":"و فڕێی دەداتە سەری"},{"surface":"עליו","gloss":"سەری"},{"surface":"ולא","gloss":"و نا"},{"surface":"יחמל","gloss":"لێی دەچێت"},{"surface":"מידו","gloss":"لە دەستیەوە"},{"surface":"ברוח","gloss":"هەڵاتن"},{"surface":"יברח","gloss":"هەڵدێت"}],"timestamp":"2026-09-24T14:41:28.168048599Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 27:22",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 27,
+  "translation": "و فڕێی دەداتە سەری و لێی ناچێت، لە دەستیەوە هەڵدێت هەڵاتن",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "و فڕێی دەداتە سەری"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "سەری"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "و نا"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "لێی دەچێت"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "لە دەستیەوە"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "هەڵاتن"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "هەڵدێت"
+    }
+  ],
+  "timestamp": "2026-09-24T14:41:28.168048599Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":23,"ref":"genesis 22:23","book":"genesis","lang":"ckb","chapter":22,"translation":"و بەتوئێل ڕیڤکای بە ⟨את⟩ بووە بەسەردا، هەشتە ئەمانە بوونە بەسەردا، میلکا بۆ ناحۆڕ برای ئاڤراهام.","tokens":[{"surface":"ובתואל","gloss":"و بەتوئێل"},{"surface":"ילד","gloss":"بووە بەسەردا"},{"surface":"את","gloss":"⟨את⟩","marks":"ڕیڤکا"},{"surface":"רבקה","gloss":"ڕیڤکا"},{"surface":"שמנה","gloss":"هەشت"},{"surface":"אלה","gloss":"ئەمانە"},{"surface":"ילדה","gloss":"بوونە بەسەردا"},{"surface":"מלכה","gloss":"میلکا"},{"surface":"לנחור","gloss":"بۆ ناحۆڕ"},{"surface":"אחי","gloss":"برای"},{"surface":"אברהם","gloss":"ئاڤراهام ⟨ئیبراهیم⟩"}],"timestamp":"2026-09-24T16:45:52.238347445Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 22,
+  "translation": "و بەتوئێل ڕیڤکای بە ⟨את⟩ بووە بەسەردا، هەشتە ئەمانە بوونە بەسەردا، میلکا بۆ ناحۆڕ برای ئاڤراهام.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "و بەتوئێل"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "بووە بەسەردا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ڕیڤکا"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ڕیڤکا"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "هەشت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ئەمانە"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "بوونە بەسەردا"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "میلکا"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "بۆ ناحۆڕ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "برای"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ئاڤراهام ⟨ئیبراهیم⟩"
+    }
+  ],
+  "timestamp": "2026-09-24T16:45:52.238347445Z",
+  "model": "glm-5.3"
+}

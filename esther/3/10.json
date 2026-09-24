@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":10,"ref":"esther 3:10","book":"esther","lang":"ckb","chapter":3,"translation":"و پادشا ⟨את⟩ مۆرەکەی لە دەستی هەڵگرت و دای بە هامان ⟨کوڕی⟩ مەداتای ئەگاغی، دوژمنی یەهودییەکان.","tokens":[{"surface":"ויסר","gloss":"و هەڵگرت"},{"surface":"המלך","gloss":"پادشا"},{"surface":"את","gloss":"⟨את⟩","marks":"مۆرەکە"},{"surface":"טבעתו","gloss":"مۆرەکەی"},{"surface":"מעל","gloss":"لە"},{"surface":"ידו","gloss":"دەستی"},{"surface":"ויתנה","gloss":"و دای"},{"surface":"להמן","gloss":"بە هامان"},{"surface":"בן","gloss":"کوڕی"},{"surface":"המדתא","gloss":"مەداتا"},{"surface":"האגגי","gloss":"ئەگاغی"},{"surface":"צרר","gloss":"دوژمنی"},{"surface":"היהודים","gloss":"یەهودییەکان"}],"timestamp":"2026-09-24T14:59:39.684145253Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 3,
+  "translation": "و پادشا ⟨את⟩ مۆرەکەی لە دەستی هەڵگرت و دای بە هامان ⟨کوڕی⟩ مەداتای ئەگاغی، دوژمنی یەهودییەکان.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "و هەڵگرت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مۆرەکە"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "مۆرەکەی"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لە"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "دەستی"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "و دای"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "بە هامان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کوڕی"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "مەداتا"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ئەگاغی"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "دوژمنی"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یەهودییەکان"
+    }
+  ],
+  "timestamp": "2026-09-24T14:59:39.684145253Z",
+  "model": "glm-5.3"
+}

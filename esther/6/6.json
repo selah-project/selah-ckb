@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":6,"ref":"esther 6:6","book":"esther","lang":"ckb","chapter":6,"translation":"و هامان هات، و پادشا فەرمووی بۆ: چی بکرێت بۆ ⟨ئەو⟩ پیاوەی کە پادشا حەز بە شکۆنەکردنی دەکات؟ و هامان لە دڵی خۆیدا وت: بۆ کێ پادشا دەیەوێت لە من زیاتر شکۆ بکات؟","tokens":[{"surface":"ויבוא","gloss":"و هات"},{"surface":"המן","gloss":"هامان"},{"surface":"ויאמר","gloss":"و فەرمووی"},{"surface":"לו","gloss":"بۆ"},{"surface":"המלך","gloss":"پادشا"},{"surface":"מה","gloss":"چی"},{"surface":"לעשות","gloss":"بکرێت"},{"surface":"באיש","gloss":"بۆ ⟨ئەو⟩ پیاوە"},{"surface":"אשר","gloss":"کە"},{"surface":"המלך","gloss":"پادشا"},{"surface":"חפץ","gloss":"حەز دەکات"},{"surface":"ביקרו","gloss":"بە شکۆنەکردنی"},{"surface":"ויאמר","gloss":"و وت"},{"surface":"המן","gloss":"هامان"},{"surface":"בלבו","gloss":"لە دڵی خۆیدا"},{"surface":"למי","gloss":"بۆ کێ"},{"surface":"יחפץ","gloss":"دەیەوێت"},{"surface":"המלך","gloss":"پادشا"},{"surface":"לעשות","gloss":"بکات"},{"surface":"יקר","gloss":"شکۆ"},{"surface":"יותר","gloss":"زیاتر"},{"surface":"ממני","gloss":"لە من"}],"timestamp":"2026-09-24T15:00:05.706813831Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 6:6",
+  "book": "esther",
+  "lang": "ckb",
+  "chapter": 6,
+  "translation": "و هامان هات، و پادشا فەرمووی بۆ: چی بکرێت بۆ ⟨ئەو⟩ پیاوەی کە پادشا حەز بە شکۆنەکردنی دەکات؟ و هامان لە دڵی خۆیدا وت: بۆ کێ پادشا دەیەوێت لە من زیاتر شکۆ بکات؟",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "و هات"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و فەرمووی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بۆ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چی"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بکرێت"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "بۆ ⟨ئەو⟩ پیاوە"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "حەز دەکات"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "بە شکۆنەکردنی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "لە دڵی خۆیدا"
+    },
+    {
+      "surface": "למי",
+      "gloss": "بۆ کێ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "دەیەوێت"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پادشا"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "بکات"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "شکۆ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "زیاتر"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "لە من"
+    }
+  ],
+  "timestamp": "2026-09-24T15:00:05.706813831Z",
+  "model": "glm-5.3"
+}

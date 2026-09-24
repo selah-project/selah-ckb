@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":19,"ref":"psalms 33:19","book":"psalms","lang":"ckb","chapter":33,"translation":"بۆ ڕزگارکردنیان لە مەرگی گیانەکانیان، و بۆ ژیاندنیان لە برسێتیدا.","tokens":[{"surface":"להציל","gloss":"بۆ ڕزگارکردن"},{"surface":"ממות","gloss":"لە مەرگ"},{"surface":"נפשם","gloss":"گیانەکانیان"},{"surface":"ולחיותם","gloss":"و بۆ ژیاندنیان"},{"surface":"ברעב","gloss":"لە برسێتی"}],"timestamp":"2026-09-24T13:54:40.948707225Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 33,
+  "translation": "بۆ ڕزگارکردنیان لە مەرگی گیانەکانیان، و بۆ ژیاندنیان لە برسێتیدا.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "بۆ ڕزگارکردن"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "لە مەرگ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "گیانەکانیان"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "و بۆ ژیاندنیان"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "لە برسێتی"
+    }
+  ],
+  "timestamp": "2026-09-24T13:54:40.948707225Z",
+  "model": "glm-5.3"
+}

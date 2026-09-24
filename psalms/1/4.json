@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 1:4","book":"psalms","lang":"ckb","chapter":1,"translation":"نەخێر، ئەوە ئەوانەی هەڵە دەکەن نین؛ بەڵکو وەک کلکەی ووشکن کە با لێیدەکات و دەیجوڵێنێت.","tokens":[{"surface":"לא","gloss":"نەخێر"},{"surface":"כן","gloss":"ئەوەندە نییە"},{"surface":"הרשעים","gloss":"ئەوانەی هەڵە دەکەن"},{"surface":"כי","gloss":"چونکە"},{"surface":"אם","gloss":"بەڵکو"},{"surface":"כמץ","gloss":"وەک کلکەی ووشک"},{"surface":"אשר","gloss":"کە"},{"surface":"תדפנו","gloss":"دەیجوڵێنێت"},{"surface":"רוח","gloss":"با"}],"timestamp":"2026-09-24T17:28:08.690019839Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ckb",
+  "chapter": 1,
+  "translation": "نەخێر، ئەوە ئەوانەی هەڵە دەکەن نین؛ بەڵکو وەک کلکەی ووشکن کە با لێیدەکات و دەیجوڵێنێت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نەخێر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ئەوەندە نییە"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ئەوانەی هەڵە دەکەن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بەڵکو"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "وەک کلکەی ووشک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "دەیجوڵێنێت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "با"
+    }
+  ],
+  "timestamp": "2026-09-24T17:28:08.690019839Z",
+  "model": "glm-5.3"
+}

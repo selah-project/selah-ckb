@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":25,"ref":"job 30:25","book":"job","lang":"ckb","chapter":30,"translation":"ئایا بۆ سەختی ڕۆژ نەمگری؟ گیانی من بۆ هەژار دڵتەنگ بوو.","tokens":[{"surface":"אם","gloss":"ئایا"},{"surface":"לא","gloss":"نە"},{"surface":"בכיתי","gloss":"گریام"},{"surface":"לקשה","gloss":"بۆ سەختی"},{"surface":"יום","gloss":"ڕۆژ"},{"surface":"עגמה","gloss":"دڵتەنگ بوو"},{"surface":"נפשי","gloss":"گیانی من"},{"surface":"לאביון","gloss":"بۆ هەژار"}],"timestamp":"2026-09-24T14:44:04.250881227Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "ckb",
+  "chapter": 30,
+  "translation": "ئایا بۆ سەختی ڕۆژ نەمگری؟ گیانی من بۆ هەژار دڵتەنگ بوو.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ئایا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نە"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "گریام"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "بۆ سەختی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ڕۆژ"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "دڵتەنگ بوو"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "گیانی من"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "بۆ هەژار"
+    }
+  ],
+  "timestamp": "2026-09-24T14:44:04.250881227Z",
+  "model": "glm-5.3"
+}

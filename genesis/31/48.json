@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":48,"ref":"genesis 31:48","book":"genesis","lang":"ckb","chapter":31,"translation":"لابان وت: ئەم خڕەڵایە شایەتە لە نێوان من و تۆدا ئەمڕۆ؛ لەبەر ئەوە ناوی نرا گیلعەد.","tokens":[{"surface":"ויאמר","gloss":"و وت"},{"surface":"לבן","gloss":"لابان"},{"surface":"הגל","gloss":"خڕەڵاکە"},{"surface":"הזה","gloss":"ئەم"},{"surface":"עד","gloss":"شایەت"},{"surface":"ביני","gloss":"لە نێوان من"},{"surface":"ובינך","gloss":"و لە نێوان تۆ"},{"surface":"היום","gloss":"ئەمڕۆ"},{"surface":"על","gloss":"لەسەر"},{"surface":"כן","gloss":"لەبەر ئەوە"},{"surface":"קרא","gloss":"ناوی نرا"},{"surface":"שמו","gloss":"ناوی"},{"surface":"גלעד","gloss":"گیلعەد"}],"timestamp":"2026-09-24T09:26:26.951283758Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "ckb",
+  "chapter": 31,
+  "translation": "لابان وت: ئەم خڕەڵایە شایەتە لە نێوان من و تۆدا ئەمڕۆ؛ لەبەر ئەوە ناوی نرا گیلعەد.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "و وت"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "خڕەڵاکە"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ئەم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شایەت"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "لە نێوان من"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "و لە نێوان تۆ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ئەمڕۆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لەسەر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لەبەر ئەوە"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ناوی نرا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ناوی"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گیلعەد"
+    }
+  ],
+  "timestamp": "2026-09-24T09:26:26.951283758Z",
+  "model": "glm-5.3"
+}

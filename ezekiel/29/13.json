@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":13,"ref":"ezekiel 29:13","book":"ezekiel","lang":"ckb","chapter":29,"translation":"چونکە وا فەرموو ئادۆنای یاهوە لە کۆتایی چل ساڵ ⟨את⟩ میتسرایم ⟨میسر⟩ لە گەلەکان کە ئەوێ بڵاوبوونەوە کۆدەکەمەوە.","tokens":[{"surface":"כי","gloss":"چونکە"},{"surface":"כה","gloss":"وا"},{"surface":"אמר","gloss":"فەرموو"},{"surface":"אדני","gloss":"ئادۆنای"},{"surface":"יהוה","gloss":"یاهوە"},{"surface":"מקץ","gloss":"لە کۆتایی"},{"surface":"ארבעים","gloss":"چل"},{"surface":"שנה","gloss":"ساڵ"},{"surface":"אקבץ","gloss":"کۆدەکەمەوە"},{"surface":"את","gloss":"⟨את⟩","marks":"میتسرایم"},{"surface":"מצרים","gloss":"میتسرایم ⟨میسر⟩"},{"surface":"מן","gloss":"لە"},{"surface":"העמים","gloss":"گەلەکان"},{"surface":"אשר","gloss":"کە"},{"surface":"נפצו","gloss":"بڵاوبوونەوە"},{"surface":"שמה","gloss":"ئەوێ"}],"timestamp":"2026-09-24T13:18:09.520333896Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 29:13",
+  "book": "ezekiel",
+  "lang": "ckb",
+  "chapter": 29,
+  "translation": "چونکە وا فەرموو ئادۆنای یاهوە لە کۆتایی چل ساڵ ⟨את⟩ میتسرایم ⟨میسر⟩ لە گەلەکان کە ئەوێ بڵاوبوونەوە کۆدەکەمەوە.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چونکە"
+    },
+    {
+      "surface": "כה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فەرموو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ئادۆنای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "لە کۆتایی"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ساڵ"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "کۆدەکەمەوە"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میتسرایم"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "میتسرایم ⟨میسر⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "لە"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "گەلەکان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کە"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "بڵاوبوونەوە"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ئەوێ"
+    }
+  ],
+  "timestamp": "2026-09-24T13:18:09.520333896Z",
+  "model": "glm-5.3"
+}
