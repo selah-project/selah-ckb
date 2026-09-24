@@ -5,29 +5,29 @@
   "book": "1-chronicles",
   "lang": "ckb",
   "chapter": 4,
-  "translation": "و کوڕانی حەلئەه: سێرێت و ییصحەر و ئێتنان.",
+  "translation": "و کوڕەکانی حێلاه: سەرێت، ییتسحار ⟨ئیتسانان⟩، و ئێتنان.",
   "tokens": [
     {
-      "surface": "ובני",
-      "gloss": "و کوڕانی"
+      "surface": "וּבְנֵ֖י",
+      "gloss": "و کوڕەکانی"
     },
     {
-      "surface": "חלאה",
-      "gloss": "حەلئەه"
+      "surface": "חֶלְאָ֑ה",
+      "gloss": "حێلاه"
     },
     {
-      "surface": "צרת",
-      "gloss": "سێرێت"
+      "surface": "צֶ֥רֶת",
+      "gloss": "سەرێت"
     },
     {
       "surface": "יצחר",
-      "gloss": "ییصحەر"
+      "gloss": "ییتسحار"
     },
     {
       "surface": "ואתנן",
       "gloss": "و ئێتنان"
     }
   ],
-  "timestamp": "2026-09-24T15:22:01.065470546Z",
+  "timestamp": "2026-09-24T16:27:43.939055502Z",
   "model": "glm-5.3"
 }

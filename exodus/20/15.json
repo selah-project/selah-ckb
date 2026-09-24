@@ -5,17 +5,17 @@
   "book": "exodus",
   "lang": "ckb",
   "chapter": 20,
-  "translation": "دزinity ناکەیت.",
+  "translation": "نەدزۆت",
   "tokens": [
     {
-      "surface": "לא",
-      "gloss": "نەخێر"
+      "surface": "לֹא",
+      "gloss": "نە"
     },
     {
-      "surface": "תגנב",
-      "gloss": "دزی دەکەیت"
+      "surface": "תִּגְנֹב",
+      "gloss": "دزۆت"
     }
   ],
-  "timestamp": "2026-09-24T09:44:17.036850343Z",
+  "timestamp": "2026-09-24T16:40:51.850248219Z",
   "model": "glm-5.3"
 }

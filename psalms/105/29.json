@@ -5,39 +5,39 @@
   "book": "psalms",
   "lang": "ckb",
   "chapter": 105,
-  "translation": "ئاوەکانیانی کردە خوێن، و ماسییەکانیانی مەراند",
+  "translation": "ئاوەکانیان立的ی بە خوێنهوه @@",
   "tokens": [
     {
-      "surface": "הפך",
-      "gloss": "کردە"
+      "surface": "הָפַ֣ךְ",
+      "gloss": "گۆڕی"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "ئاوەکانیان"
     },
     {
-      "surface": "מימיהם",
+      "surface": "מֵימֵיהֶ֣ם",
       "gloss": "ئاوەکانیان"
     },
     {
-      "surface": "לדם",
+      "surface": "לְדָ֑ם",
       "gloss": "بۆ خوێن"
     },
     {
-      "surface": "וימת",
-      "gloss": "و مەراند"
+      "surface": "וַ֝יָּ֗מֶת",
+      "gloss": "و مرداندی"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "ماسییەکانیان"
     },
     {
-      "surface": "דגתם",
+      "surface": "דְּגָתָֽם",
       "gloss": "ماسییەکانیان"
     }
   ],
-  "timestamp": "2026-09-24T14:12:37.313542453Z",
+  "timestamp": "2026-09-24T17:02:34.385375905Z",
   "model": "glm-5.3"
 }

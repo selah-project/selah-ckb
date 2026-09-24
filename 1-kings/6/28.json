@@ -5,26 +5,26 @@
   "book": "1-kings",
   "lang": "ckb",
   "chapter": 6,
-  "translation": "و کێرووبەکانی بە زێڕ داپۆشی.",
+  "translation": "و کێرووبەکانی ⟨את⟩ بە زێڕ چەسپاندنی پۆشتەکردن",
   "tokens": [
     {
-      "surface": "ויצף",
+      "surface": "וַיְצַ֥ף",
       "gloss": "و داپۆشی"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
       "marks": "کێرووبەکان"
     },
     {
-      "surface": "הכרובים",
+      "surface": "הַכְּרוּבִ֖ים",
       "gloss": "کێرووبەکان"
     },
     {
-      "surface": "זהב",
-      "gloss": "بە زێڕ"
+      "surface": "זָהָֽב",
+      "gloss": "زێڕ"
     }
   ],
-  "timestamp": "2026-09-24T11:47:45.507135882Z",
+  "timestamp": "2026-09-24T16:29:03.880894289Z",
   "model": "glm-5.3"
 }

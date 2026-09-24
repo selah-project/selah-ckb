@@ -5,43 +5,43 @@
   "book": "1-chronicles",
   "lang": "ckb",
   "chapter": 2,
-  "translation": "و عەزەریا حێلێزی بەخێو کرد، و حێلێز ئێلعاسای بەخێو کرد.",
+  "translation": "و عەزەریا ⟨את⟩ حەلێزی بووکەوت و حەلێز ⟨את⟩ ئێلعاسای بووکەوت",
   "tokens": [
     {
-      "surface": "ועזריה",
+      "surface": "וַעֲזַרְיָה֙",
       "gloss": "و عەزەریا"
     },
     {
-      "surface": "הליד",
-      "gloss": "بەخێو کرد"
+      "surface": "הֹלִ֣יד",
+      "gloss": "بووکەوت"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "حێلێز"
+      "marks": "حەلێز"
     },
     {
-      "surface": "חלץ",
-      "gloss": "حێلێز"
+      "surface": "חָ֔לֶץ",
+      "gloss": "حەلێز"
     },
     {
-      "surface": "וחלץ",
-      "gloss": "و حێلێز"
+      "surface": "וְחֶ֖לֶץ",
+      "gloss": "و حەلێز"
     },
     {
-      "surface": "הליד",
-      "gloss": "بەخێو کرد"
+      "surface": "הֹלִ֥יד",
+      "gloss": "بووکەوت"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
       "marks": "ئێلعاسا"
     },
     {
-      "surface": "אלעשה",
+      "surface": "אֶלְעָשָֽׂה",
       "gloss": "ئێلعاسا"
     }
   ],
-  "timestamp": "2026-09-24T15:20:40.531679895Z",
+  "timestamp": "2026-09-24T16:27:08.132383779Z",
   "model": "glm-5.3"
 }

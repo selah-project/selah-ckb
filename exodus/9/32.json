@@ -5,37 +5,37 @@
   "book": "exodus",
   "lang": "ckb",
   "chapter": 9,
-  "translation": "و گەنم و سپێلە لێنەدران، چونکە دواکەوتوون.",
+  "translation": "و گەنم و سپێڵە نەدرانەوە، چونکە ئەوان درەنگن.",
   "tokens": [
     {
-      "surface": "והחטה",
+      "surface": "וְהַחִטָּה",
       "gloss": "و گەنم"
     },
     {
-      "surface": "והכסמת",
-      "gloss": "و سپێلە"
+      "surface": "וְהַכֻּסֶּמֶת",
+      "gloss": "و سپێڵە"
     },
     {
-      "surface": "לא",
-      "gloss": "نا"
+      "surface": "לֹא",
+      "gloss": "نە"
     },
     {
-      "surface": "נכו",
-      "gloss": "لێدران"
+      "surface": "נֻכּוּ",
+      "gloss": "درانەوە"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "چونکە"
     },
     {
-      "surface": "אפילת",
-      "gloss": "دواکەوتوون"
+      "surface": "אֲפִילֹת",
+      "gloss": "درەنگن"
     },
     {
-      "surface": "הנה",
-      "gloss": ""
+      "surface": "הֵנָּה",
+      "gloss": "⟨ئەوان⟩"
     }
   ],
-  "timestamp": "2026-09-24T09:40:13.354709107Z",
+  "timestamp": "2026-09-24T16:42:30.453510926Z",
   "model": "glm-5.3"
 }

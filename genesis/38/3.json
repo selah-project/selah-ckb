@@ -5,38 +5,38 @@
   "book": "genesis",
   "lang": "ckb",
   "chapter": 38,
-  "translation": "و سکێنی و کوڕێکی بوو و ناوی ⟨ئەو⟩ی نا عیر.",
+  "translation": "سکیڵی گرت و کوڕێکی بوو، و ⟨את⟩ ناوی نا عێر ⟨ئێر⟩.",
   "tokens": [
     {
       "surface": "ותהר",
-      "gloss": "سکێنی"
+      "gloss": "سکیڵی گرت"
     },
     {
       "surface": "ותלד",
-      "gloss": "بوو"
+      "gloss": "کوڕێکی بوو"
     },
     {
       "surface": "בן",
-      "gloss": "کوڕێکی"
+      "gloss": "کوڕ"
     },
     {
       "surface": "ויקרא",
-      "gloss": "ناوهێنا"
+      "gloss": "ناوی نا"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ناوی ئەو"
+      "marks": "ناوی"
     },
     {
       "surface": "שמו",
-      "gloss": "ناوی ئەو"
+      "gloss": "ناوی"
     },
     {
       "surface": "ער",
-      "gloss": "عیر"
+      "gloss": "ئێر"
     }
   ],
-  "timestamp": "2026-09-24T09:29:17.809044960Z",
+  "timestamp": "2026-09-24T16:46:45.931051027Z",
   "model": "glm-5.3"
 }

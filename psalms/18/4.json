@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "ckb",
   "chapter": 18,
-  "translation": "placeholder",
-  "tokens": [],
-  "timestamp": "2026-09-24T13:50:55.643771232Z",
+  "translation": "ستایشکراو، یاهوە دەبانگم، و لە دوژمنانەکانم ڕزگار دەبم.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ستایشکراو"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "دەبانگم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوە"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "و لە"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "دوژمنانەکانم"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ڕزگار دەبم"
+    }
+  ],
+  "timestamp": "2026-09-24T17:03:30.156914922Z",
   "model": "glm-5.3"
 }

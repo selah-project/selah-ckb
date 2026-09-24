@@ -5,69 +5,69 @@
   "book": "1-chronicles",
   "lang": "ckb",
   "chapter": 2,
-  "translation": "و عەیفا، پیلەگەشی کالەب، حاران ⟨את⟩ و ⟨את⟩ موتسا و ⟨את⟩ گازێزی بوو، و حاران گازێزی بوو ⟨⟨את⟩ گازێز⟩.",
+  "translation": "و عەیفە، پیلەگێشی کالەڤ، ⟨את⟩ حەران و ⟨את⟩ موتسا و ⟨את⟩ گەزێزی بوو؛ و حەران ⟨את⟩ گەزێزی بەخواست.",
   "tokens": [
     {
-      "surface": "ועיפה",
-      "gloss": "و عەیفا"
+      "surface": "וְעֵיפָה֙",
+      "gloss": "و عەیفە"
     },
     {
-      "surface": "פילגש",
-      "gloss": "پیلەگەش"
+      "surface": "פִּילֶגֶשׁ",
+      "gloss": "پیلەگێش"
     },
     {
-      "surface": "כלב",
-      "gloss": "کالەب"
+      "surface": "כָּלֵב",
+      "gloss": "کالەڤ"
     },
     {
-      "surface": "ילדה",
+      "surface": "יָֽלְדָ֛ה",
       "gloss": "بوو"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "حاران"
+      "marks": "حەران"
     },
     {
-      "surface": "חרן",
-      "gloss": "حاران"
+      "surface": "חָרָ֥ן",
+      "gloss": "حەران"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "و ⟨את⟩",
       "marks": "موتسا"
     },
     {
-      "surface": "מוצא",
+      "surface": "מוֹצָ֖א",
       "gloss": "موتسا"
     },
     {
-      "surface": "ואת",
+      "surface": "וְאֶת",
       "gloss": "و ⟨את⟩",
-      "marks": "گازێز"
+      "marks": "گەزێز"
     },
     {
-      "surface": "גזז",
-      "gloss": "گازێز"
+      "surface": "גָּזֵ֑ז",
+      "gloss": "گەزێز"
     },
     {
-      "surface": "וחרן",
-      "gloss": "و حاران"
+      "surface": "וְחָרָ֖ן",
+      "gloss": "و حەران"
     },
     {
-      "surface": "הליד",
-      "gloss": "بوو"
+      "surface": "הוֹלִ֥יד",
+      "gloss": "بەخواست"
     },
     {
-      "surface": "את",
+      "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "گازێز"
+      "marks": "گەزێز"
     },
     {
-      "surface": "גזז",
-      "gloss": "گازێز"
+      "surface": "גָּזֵֽז",
+      "gloss": "گەزێز"
     }
   ],
-  "timestamp": "2026-09-24T15:21:20.661164707Z",
+  "timestamp": "2026-09-24T16:27:35.728158493Z",
   "model": "glm-5.3"
 }
