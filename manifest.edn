@@ -31,7 +31,7 @@
                           {:seats ["daniel/3/12"], :class :held,
                            :note "Aramaic יתהון over ⟨את⟩ — held fleet-wide pending the Aramaic marker ruling"}]},
             :checks {:census {:yahweh-verses 5800,
-                              :name-seats 6818, :name-not-yahweh 0, :name-drift 0, :erasure 0,
+                              :name-seats 6828, :name-not-yahweh 0, :name-drift 0, :erasure 0,
                               :corrupt-surfaces 0, :empty-tokens 0, :count-mismatch 0,
                               :marker-gap -15,
                               :script "dev/scripts/ckb_census.clj"},
