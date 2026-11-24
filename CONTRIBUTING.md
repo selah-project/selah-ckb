@@ -11,7 +11,7 @@
 - ئەگەر هەڵەکە و چاککردنەکەی هەردووکیان ڕوون بن — **Pull request**
   بکەوە.
 - بۆ پرسیاری نەرمەکاڵا یان ئاسایش — [Selah
-  Support](https://selahproject.com/support).
+  Support](https://s33k3r.com/learn/support).
 
 ## ئەوەی ناگۆڕدرێت
 
